@@ -5,18 +5,18 @@ A working repository for a hard sci-fi novel/series set in the late 21st and ear
 ## Repository Structure
 
 ```
-/MASTER-SYNOPSIS.md         — The big picture; start here
-/universe-spec/             — Immutable core rules (physics, cosmology, magic laws)
-/characters/                — One file per character
-/factions/                  — Political, corporate, and cultural organizations
-/locations/                 — Planets, stations, cities, significant places
-/timeline/                  — Chronology of events
-/magic-systems/             — Magic rules, schools, practitioners
-/technology/                — Tech specs and infrastructure
-/ships/                     — Specific named vessels (one file per ship)
-/scenes/                    — Scene drafts and notes by novel and chapter
-/templates/                 — Reusable templates for new files
-/review-queue/              — Items flagged for later attention (currently empty)
+/knowledge/MASTER-SYNOPSIS.md         — The big picture; start here
+/knowledge/universe-spec/             — Immutable core rules (physics, cosmology, magic laws)
+/knowledge/characters/                — One file per character
+/knowledge/factions/                  — Political, corporate, and cultural organizations
+/knowledge/locations/                 — Planets, stations, cities, significant places
+/knowledge/timeline/                  — Chronology of events
+/knowledge/magic-systems/             — Magic rules, schools, practitioners
+/knowledge/technology/                — Tech specs and infrastructure
+/knowledge/ships/                     — Specific named vessels (one file per ship)
+/knowledge/scenes/                    — Scene drafts and notes by novel and chapter
+/knowledge/templates/                 — Reusable templates for new files
+/knowledge/review-queue/              — Items flagged for later attention (currently empty)
 ```
 
 ## Working Conventions
