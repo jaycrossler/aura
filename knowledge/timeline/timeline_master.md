@@ -116,8 +116,8 @@ These deserve their own event files:
 - `event_first_belt_settlement` (2090s)
 - `event_first_documented_magical_incident_belt` (story present)
 - `event_communications_blackout_imposed` (Book 1 climax)
-- `event_marcus_medical_discharge` (Book 1 opening)
-- `event_marcus_ferry_departure` (Book 1 first major arc)
+- `event_jace_medical_discharge` (Book 1 opening)
+- `event_jace_ferry_departure` (Book 1 first major arc)
 - `event_first_belt_synthesis_meeting` (~2107?)
 - `event_first_mars_sensitive_manifestation` (~2118?)
 

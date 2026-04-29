@@ -22,16 +22,16 @@ A working repository for a hard sci-fi novel/series set in the late 21st and ear
 ## Working Conventions
 
 - **/knowledge** All knowledge in the knowledge bank is kept within this folder
-- **File IDs** use the pattern `category_descriptor` (e.g. `char_marcus_hale`, `tech_aura`, `magic_returning_arts`).
+- **File IDs** use the pattern `category_descriptor` (e.g. `char_jace_apollo`, `tech_aura`, `magic_returning_arts`).
 - **YAML frontmatter** at the top of each file holds structured metadata; markdown body holds prose.
-- **Cross-references** use forward-slash paths: `/knowledge/characters/char_marcus_hale.md`.
+- **Cross-references** use forward-slash paths: `/knowledge/characters/char_jace_apollo.md`.
 - **Open Questions** sections at the bottom of files capture decisions still pending.
 - **Revision Notes** sections track major changes across drafts.
 
 ## Quick Start
 
 - **For overall context:** `/knowledge/MASTER-SYNOPSIS.md`
-- **For the protagonist:** `/knowledge/characters/char_marcus_hale.md`
+- **For the protagonist:** `/knowledge/characters/char_jace_apollo.md`
 - **For the setting cosmology:** `/knowledge/universe-spec/cosmology.md`
 - **For magic mechanics:** `/knowledge/magic-systems/magic_returning_arts.md` and `/knowledge/universe-spec/physics-and-magic-interaction.md`
 - **For story-opening sketches:** `/knowledge/scenes/book01-opening-notes.md`
