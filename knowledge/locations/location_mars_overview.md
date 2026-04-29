@@ -21,7 +21,7 @@ This document is an **overview**. Specific settlements should eventually have th
 (See also `/factions/` for political profiles.)
 
 ### United States of Mars
-The largest settlement, formal U.S. state ("the 56th state"). Population 8,000-12,000. Capital city TBD. Substantial U.S. military presence (Marcus's former unit). Major industrial and agricultural capacity. Located in [region TBD — likely a low-elevation plain near substantial water-ice deposits, e.g., parts of Utopia Planitia or Arcadia Planitia].
+The largest settlement, formal U.S. state ("the 56th state"). Population 8,000-12,000. Capital city TBD. Substantial U.S. military presence (Jace's former unit). Major industrial and agricultural capacity. Located in [region TBD — likely a low-elevation plain near substantial water-ice deposits, e.g., parts of Utopia Planitia or Arcadia Planitia].
 
 ### Chinese Mars Settlement
 Second-largest. Population 5,000-8,000. State-led, technically sophisticated. Located in [region TBD].

@@ -75,21 +75,21 @@ See `/characters/char_jace_apollo.md` for full profile.
 
 ## Plot Arc — Book One
 
-The four-month ferry transit from Mars to a major belter station forms the spine of the first book. Marcus learns the work — care of juvenile livestock in rotating canisters, basic shipboard engineering, life with a crew of five to ten in a confined space. He bonds with the animals (this matters thematically — they are the first "family" he has after losing his career). His Aura instance learns alongside him.
+The four-month ferry transit from Mars to a major belter station forms the spine of the first book. Jace learns the work — care of juvenile livestock in rotating canisters, basic shipboard engineering, life with a crew of five to ten in a confined space. He bonds with the animals (this matters thematically — they are the first "family" he has after losing his career). His Aura instance learns alongside him.
 
 Strange phenomena begin appearing: animal behavior that defies normal patterns; sensor readings that disagree with what his crewmates' eyes report; small mechanical anomalies that resist diagnosis. Communication latency from the belt grows worse, and reports from earlier-arriving belters describe an environment where things are subtly wrong.
 
 When the ferry arrives at the belt station, the situation has escalated. Earth and Mars are panicking — their best models suggest the radiation front will reach Mars in 10–20 years. They impose a communications blackout and quarantine. The belt is suddenly on its own.
 
-Marcus arrives in the middle of this isolation. He is one of perhaps 150–300 people on his station, drawn from multiple national and corporate backgrounds. The station's three or four major factions must now figure out how to live together without external authority — and how to understand the strange new reality unfolding around them.
+Jace arrives in the middle of this isolation. He is one of perhaps 150–300 people on his station, drawn from multiple national and corporate backgrounds. The station's three or four major factions must now figure out how to live together without external authority — and how to understand the strange new reality unfolding around them.
 
-Book One ends with the first unambiguous magical event Marcus witnesses (or causes), and the recognition that his Aura instance has been quietly modeling something it cannot explain.
+Book One ends with the first unambiguous magical event Jace witnesses (or causes), and the recognition that his Aura instance has been quietly modeling something it cannot explain.
 
 ---
 
 ## Recurring Themes
 
-- **Identity stripped and rebuilt.** Marcus loses his uniform, his rank, his country, his certainty. What remains? What can be built from that?
+- **Identity stripped and rebuilt.** Jace loses his uniform, his rank, his country, his certainty. What remains? What can be built from that?
 - **Cultural cooperation under pressure.** People from radically different traditions must trust each other to survive. Difference is not erased; it becomes complementary.
 - **Distributed agency.** No single entity — government, corporation, AI — has the answers. Survival depends on networks of trust, local knowledge, and partnership.
 - **The return of mystery to a rationalist civilization.** Humanity built its modern world on the assumption that physics is fixed. That assumption was always provisional.
@@ -100,17 +100,17 @@ Book One ends with the first unambiguous magical event Marcus witnesses (or caus
 ## Multimedia and Adaptation Notes
 
 - Visual touchstones: *The Expanse* (belter aesthetic, hard-sci-fi industrialism), early Shadowrun art (the moment magic and tech start mingling), Andrei Tarkovsky's *Solaris* (slow strangeness), *Annihilation* (radiation as transformation), *LitRPG Novels* (Many, where there is a System for managing magic powers).
-- Audio: distinguish the hum of Mars infrastructure from the colder, more isolated sound of the ferry, from the close, claustrophobic sound of the belt station habitats. Aura's voice should be warm and individuated — Marcus's Aura sounds different from anyone else's.
+- Audio: distinguish the hum of Mars infrastructure from the colder, more isolated sound of the ferry, from the close, claustrophobic sound of the belt station habitats. Aura's voice should be warm and individuated — Jace's Aura sounds different from anyone else's.
 - The first magical event should be visually quiet and physically wrong in a way the reader feels before they understand.
 
 ---
 
 ## Open Questions
 
-- Marcus's specific genetic condition — what is medically plausible, narratively useful, and not too on-the-nose as foreshadowing of his magical sensitivity?
+- Jace's specific genetic condition — what is medically plausible, narratively useful, and not too on-the-nose as foreshadowing of his magical sensitivity?
 - The exact mechanism by which the radiation enables magic. Hand-wave or develop a quasi-rigorous pseudo-physics?
 - Does Aura "wake up" as magic returns, or does the returning physics simply give Aura new things to model?
-- How many books? Trilogy following Marcus, or longer series with expanding POV cast?
+- How many books? Trilogy following Jace, or longer series with expanding POV cast?
 - The fate of Earth — is the radiation reaching Earth a slow apocalypse, a slow renaissance, or something stranger?
 
 ## Cross-References

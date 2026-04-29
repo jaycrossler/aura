@@ -75,7 +75,7 @@ Those without traditional training who manifest abilities in the belt have neith
 Late in the story arc, sensitive practitioners from multiple traditions begin comparing notes — initially through Aura-mediated translation, then face-to-face in belt stations. They recognize that their traditions are complementary lenses on the same phenomena. The earliest synthesis groups are informal, distrusted by their own traditions and by secular authorities. Over story time they become the foundation of a new, distinctively belter practice.
 
 ### The AI Question
-Whether Auras and other AIs participate in the Arts as practitioners or merely as instruments is contested through the entire arc. Marcus's Aura is one of several test cases.
+Whether Auras and other AIs participate in the Arts as practitioners or merely as instruments is contested through the entire arc. Jace's Aura is one of several test cases.
 
 ## Practical Constraints
 
@@ -110,9 +110,9 @@ Magic is going to remake politics. Over story time:
 - **Traditional religious authorities** on Earth respond variably — some embrace the return, some condemn it, some try to claim exclusive interpretive authority.
 - **The communications blackout** isolates the belt at exactly the moment its sensitives begin to organize. By the time comms are restored, belt practice has diverged from anything Earth or Mars expects.
 
-## What Marcus Will Discover
+## What Jace Will Discover
 
-Marcus is an early-stage sensitive who does not yet know it. Over the course of Book One:
+Jace is an early-stage sensitive who does not yet know it. Over the course of Book One:
 
 - He misperceives early manifestations as glitches in his implant or in his Aura.
 - His Aura begins flagging anomalies it cannot model — and he begins to trust those flags.
@@ -136,4 +136,4 @@ His specific category affinity is to be developed. (Sensing-primary feels narrat
 - See `/universe-spec/cosmology.md` for the supernova source.
 - See `/universe-spec/physics-and-magic-interaction.md` for hard rules.
 - See `/technology/tech_aura_ai.md` for AI-magic interactions.
-- See `/characters/char_marcus_hale.md` for Marcus's emerging path.
+- See `/characters/char_jace_apollo.md` for Jace's emerging path.

@@ -24,11 +24,11 @@ Implants must be powered. Two dominant approaches:
 
 **Glucose metabolism interface.** Implants harvest energy from the user's blood glucose, similar to a biological fuel cell. Eliminates charging requirements but increases caloric demand on the user. The user must eat more — typically 20–30% more daily calories for a heavily-augmented person. Failure modes can include hypoglycemia, especially under stress. Most common in military implants where charging logistics are impractical.
 
-Marcus's HUD uses the glucose interface — one of the reasons his caloric needs are higher than civilian baseline, and a vulnerability if food is short.
+Jace's HUD uses the glucose interface — one of the reasons his caloric needs are higher than civilian baseline, and a vulnerability if food is short.
 
-## The Military HUD Implant (Marcus's Class)
+## The Military HUD Implant (Jace's Class)
 
-Marcus carries a current-generation U.S. Air Force-issued HUD implant. Specifications (working):
+Jace carries a current-generation U.S. Air Force-issued HUD implant. Specifications (working):
 
 - **Visual overlay.** Retinal projection providing tactical data, navigation, target identification, sensor feeds from connected systems.
 - **Audio.** Subvocal microphone (reads throat micromovements) and bone-conduction audio output.
@@ -38,7 +38,7 @@ Marcus carries a current-generation U.S. Air Force-issued HUD implant. Specifica
 - **Power.** Glucose interface; supplemental electrical charging available.
 - **Persistence.** Runs continuously while the user is conscious; goes into low-power "dreaming" state during sleep.
 
-When Marcus is discharged, the implant is permitted to remain — it is medical equipment, not government property — but its security clearances are revoked, the military Aura instance is wiped, and a commercial Aura license is provisioned in its place. The hardware is still a generation ahead of consumer; the software and access are now civilian.
+When Jace is discharged, the implant is permitted to remain — it is medical equipment, not government property — but its security clearances are revoked, the military Aura instance is wiped, and a commercial Aura license is provisioned in its place. The hardware is still a generation ahead of consumer; the software and access are now civilian.
 
 ## Side Effects and Risks
 
@@ -77,5 +77,5 @@ There is preliminary speculation (story-internal, contested) that AI-paired impl
 ## Cross-References
 
 - See `/technology/tech_aura_ai.md` for the AI side of the implant.
-- See `/characters/char_marcus_hale.md` for Marcus's specific implant history.
+- See `/characters/char_jace_apollo.md` for Jace's specific implant history.
 - See `/universe-spec/physics-and-magic-interaction.md` for magic/tech interactions.
