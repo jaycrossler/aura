@@ -80,14 +80,14 @@ Dates are working figures and should be treated as adjustable.
 - Mars population approximately 15,000-20,000.
 - Belt population approximately 1,500-3,000.
 - The Veil's drift has substantially cleared the line of sight to the supernova for the outer solar system. Resonance flux is reaching the asteroid belt at meaningful intensity for the first time in millennia.
-- **Marcus Hale, U.S. Air Force officer, is stationed on Mars.** (~6 months before story start.)
-- **Marcus's medical discharge.** Story begins.
-- **Marcus signs ten-year ferry contract.**
-- **Marcus's ferry departs Mars for the belt.** Four-to-five-month transit.
+- **Jace Grant, U.S. Air Force officer, is stationed on Mars.** (~6 months before story start.)
+- **Jace's medical discharge.** Story begins.
+- **Jace signs ten-year ferry contract.**
+- **Jace's ferry departs Mars for the belt.** Four-to-five-month transit.
 - During transit: anomalous events on the belt accelerate. Earth and Mars governments grow alarmed. First magical incidents documented (some catastrophic).
 - **Communications blackout imposed.** Earth-Mars to belt comms cut. The belt is on its own.
-- **Marcus arrives at Demeter Station** (working) under blackout conditions.
-- **First major magical incident witnessed by Marcus.** End of Book 1.
+- **Jace arrives at Demeter Station** (working) under blackout conditions.
+- **First major magical incident witnessed by Jace.** End of Book 1.
 
 ### 2105-2115 — The Belt Era of the Returning Arts
 - Belt population grows; cross-station cooperation deepens; belter political identity solidifies.

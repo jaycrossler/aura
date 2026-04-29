@@ -111,7 +111,7 @@ The cybernetic HUD is permitted to remain. (This will matter later.)
 
 ## Character Arc
 
-Across the series, Marcus moves from rigid identity to fluid relationship; from rationalist certainty to disciplined openness; from junior officer to something the series will need to invent — not a mage in the fantasy sense, not a pilot in the military sense, but a synthesis figure. His military training will not be wasted; it will be reframed.
+Across the series, Jace moves from rigid identity to fluid relationship; from rationalist certainty to disciplined openness; from junior officer to something the series will need to invent — not a mage in the fantasy sense, not a pilot in the military sense, but a synthesis figure. His military training will not be wasted; it will be reframed.
 
 By the end of Book 1: he has lost his old identity, accepted his belter contract emotionally, bonded with his crew and animals, and witnessed the first thing his rationalist worldview cannot accommodate. His Aura is a partner now, not a tool.
 

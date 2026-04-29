@@ -23,7 +23,7 @@ Each of the following should eventually have its own location file. Working prof
 ### "Demeter Station" (working name)
 The largest belter station. American-anchored, with significant corporate (Stellar Dynamics, Origin Industries) involvement and U.S. government backing. Population approximately 300-500. Strong agricultural and livestock infrastructure (which is why it receives livestock-primary ferry shipments first). Diverse non-American minority population.
 
-This is the **likely destination of Marcus's ferry**. Demeter is in growth phase, actively building out station capacity, integrating new ferry shipments into expanding habitat. Marcus arrives as part of a substantial settler wave.
+This is the **likely destination of Jace's ferry**. Demeter is in growth phase, actively building out station capacity, integrating new ferry shipments into expanding habitat. Jace arrives as part of a substantial settler wave.
 
 **File to create:** `/locations/location_demeter_station.md`
 

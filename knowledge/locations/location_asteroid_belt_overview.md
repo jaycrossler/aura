@@ -34,7 +34,7 @@ Each major belter station anchors near a significant asteroid for stability, gra
 
 (See `/factions/faction_belter_stations.md` for political profiles. Each should eventually have its own location file.)
 
-- **Demeter Station** (American-anchored) — likely Marcus's destination
+- **Demeter Station** (American-anchored) — likely Jace's destination
 - **Tianjin Belt Station** (Chinese-anchored)
 - **Ashok Station** (Indian-led multinational)
 - **Volga Outpost** (Russian-anchored)

@@ -36,7 +36,7 @@ A ferry's outbound crew is **5 to 10 people**. Roles overlap:
 - **Animal handlers (typically 2–4).** Care for the livestock during transit. Often doubles as agricultural specialists for arrival.
 - **Cargo and infrastructure specialist.** Manages the construction and mining payload.
 
-Crew often share knowledge across roles. A ferry trip is too long and too high-stakes for narrow specialization; everyone learns to handle multiple systems. Marcus Hale joins as a junior animal handler with cross-training in shipboard systems, sensor operations, and security.
+Crew often share knowledge across roles. A ferry trip is too long and too high-stakes for narrow specialization; everyone learns to handle multiple systems. Jace Grant joins as a junior animal handler with cross-training in shipboard systems, sensor operations, and security.
 
 The return crew is smaller — typically 2–4 — since most of the ship is gone. The return is faster, lonelier, and considered the harder duty by experienced ferry crew.
 
@@ -75,7 +75,7 @@ Ferries are not standardized; each shipment is configured for its specific desti
 - **Infrastructure-primary class.** Heavy on shipping containers and prefabricated modules. Smaller livestock complement. Used for major construction pushes.
 - **Settler-primary class.** Heavy on human accommodation; carries 30–60 settlers in addition to crew. Limited animal complement.
 
-Marcus's ferry is a livestock-primary class with a settler complement of approximately 20–30, plus the working crew. (Specific ship to be developed in `/ships/ship_TBD_marcus_ferry.md`.)
+Jace's ferry is a livestock-primary class with a settler complement of approximately 20–30, plus the working crew. (Specific ship to be developed in `/ships/ship_TBD_jace_ferry.md`.)
 
 ## Risks
 
@@ -97,4 +97,4 @@ Marcus's ferry is a livestock-primary class with a settler complement of approxi
 
 - See `/technology/tech_cyclers.md` for the inner-system counterpart.
 - See `/locations/location_asteroid_belt_overview.md` for ferry destinations.
-- See `/characters/char_marcus_hale.md` for a ferry crewman's perspective.
+- See `/characters/char_jace_apollo.md` for a ferry crewman's perspective.

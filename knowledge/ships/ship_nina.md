@@ -57,12 +57,12 @@ typical_crew_composition: command (8-12), engineering (15-20), life support (10-
 
 # Story Function
 role_in_narrative: backdrop infrastructure; possibly direct setting in flashback chapters or Earth-Mars POV; establishes Earth-Mars connectivity
-symbolic_meaning: continuity, the Old World still reaching the New; the ship that carried Marcus to Mars in the first place
+symbolic_meaning: continuity, the Old World still reaching the New; the ship that carried Jace to Mars in the first place
 
 # Cross-references
 related_factions: [faction_multinational_cycler_consortium]
 related_events: TBD
-related_characters: [char_marcus_hale (passenger, prior to story start)]
+related_characters: [char_jace_apollo (passenger, prior to story start)]
 sister_ships: [ship_pinta, ship_santa_maria]
 rival_ships: []
 ---
@@ -73,7 +73,7 @@ rival_ships: []
 
 The *Niña* is the first commissioned of the three Cycler-class deep-space liners that connect Earth and Mars. She has been in continuous service for several decades and has carried more colonists to Mars than any single vessel in human history. Older than her sisters, she is also the most refit — the *Niña* of today shares a name and orbital trajectory with the original launch but little else; her systems have been rebuilt three times.
 
-Marcus Hale rode the *Niña* from Earth to Mars approximately six months before the story begins. His memory of the voyage is mostly of nausea, military-officer-class accommodation, and a deeply boring four months. He does not realize, at story start, that this voyage was the most consequential travel of his life — and not for the reasons he assumes.
+Jace Grant rode the *Niña* from Earth to Mars approximately six months before the story begins. His memory of the voyage is mostly of nausea, military-officer-class accommodation, and a deeply boring four months. He does not realize, at story start, that this voyage was the most consequential travel of his life — and not for the reasons he assumes.
 
 ## Design Philosophy
 

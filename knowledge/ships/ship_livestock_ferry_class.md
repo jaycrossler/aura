@@ -47,17 +47,17 @@ ai_or_intelligence: ferry-side Aura instance with crew federation; designed for 
 
 # Crew
 captain: TBD per ship
-notable_crew: TBD per ship; for Marcus's ferry, see TBD
-typical_crew_composition: captain/pilot, engineer, medical/life support officer, 2-4 animal handlers (one is Marcus), cargo specialist; sometimes additional specialists per shipment
+notable_crew: TBD per ship; for Jace's ferry, see TBD
+typical_crew_composition: captain/pilot, engineer, medical/life support officer, 2-4 animal handlers (one is Jace), cargo specialist; sometimes additional specialists per shipment
 
 # Story Function
-role_in_narrative: primary setting for Book 1 transit chapters; the closed environment in which Marcus is remade
+role_in_narrative: primary setting for Book 1 transit chapters; the closed environment in which Jace is remade
 symbolic_meaning: the ark; the second-chance vessel; the bonded community of necessity
 
 # Cross-references
 related_factions: [faction_belter_stations, faction_megacorps]
 related_events: TBD
-related_characters: [char_marcus_hale, ferry crew TBD]
+related_characters: [char_jace_apollo, ferry crew TBD]
 sister_ships: many in this class
 ---
 
@@ -67,7 +67,7 @@ sister_ships: many in this class
 
 The livestock-primary ferry is the workhorse of the Mars-Belt corridor for stations in growth phase. She carries breeding herds of juvenile female animals, settlers, and modular construction infrastructure on a roughly four-to-five month transit from Mars to a designated belt station. Most of the ship is one-way: ~95% of the payload is dropped off and integrated into the destination station, while a minimal core (propulsion stack, command module, small return crew) burns back to Mars on a fast trajectory for reuse.
 
-The specific ship that carries Marcus is to be named and developed; this document covers the class and serves as a template for individual ferry profiles.
+The specific ship that carries Jace is to be named and developed; this document covers the class and serves as a template for individual ferry profiles.
 
 ## Design Philosophy
 
@@ -131,7 +131,7 @@ Key spaces aboard a livestock-primary ferry:
 
 Ferry crew culture is distinctive — much closer than cycler culture, much rougher than Earth or Mars surface culture. The 4-5 month transit forces intimacy. Crew know each other's habits, irritations, and dreams. They eat together every meal. They cannot leave.
 
-Roles overlap by necessity. The captain may help with animal feeding during a busy week; the cargo specialist learns to operate the ion drives. New crew (like Marcus) are mentored intensively because there is no margin for unfamiliarity.
+Roles overlap by necessity. The captain may help with animal feeding during a busy week; the cargo specialist learns to operate the ion drives. New crew (like Jace) are mentored intensively because there is no margin for unfamiliarity.
 
 There is also a strong handler-animal bond culture. Handlers name animals (informally; the manifest lists numbers). They develop favorites. They mourn losses. By arrival, a good handler will have raised a generation of breeding stock that they know individually — and it is common for handlers to follow "their" animals from the ferry to the station, taking shore positions to continue caring for them.
 
@@ -148,7 +148,7 @@ There is also a strong handler-animal bond culture. Handlers name animals (infor
 - Reactor scares — ferries that reached destination on backup systems.
 - Mid-transit livestock crises — disease outbreaks, canister failures.
 - Crew breakdowns — the shipboard psychiatry of long transit.
-- The first ferry to experience a magical anomaly in transit. (This is a key story event — possibly Marcus's ferry, possibly an earlier one.)
+- The first ferry to experience a magical anomaly in transit. (This is a key story event — possibly Jace's ferry, possibly an earlier one.)
 
 ## Voice and Personality
 
@@ -162,11 +162,11 @@ Ferry-side Auras tend toward practicality and warmth. They learn the crew quickl
 
 ## Open Questions
 
-- Specific ship name for Marcus's ferry — perhaps something with thematic resonance (working candidates: the *Hesper*, the *Goodfellow*, the *Argo Beta*, etc.).
-- Specific crew composition for Marcus's voyage.
+- Specific ship name for Jace's ferry — perhaps something with thematic resonance (working candidates: the *Hesper*, the *Goodfellow*, the *Argo Beta*, etc.).
+- Specific crew composition for Jace's voyage.
 - Specific destination station.
-- The first magical incident aboard a ferry — does it happen on Marcus's ferry, or has there been a previous one whose echoes Marcus learns about en route?
-- The captain's character and how she relates to Marcus.
+- The first magical incident aboard a ferry — does it happen on Jace's ferry, or has there been a previous one whose echoes Jace learns about en route?
+- The captain's character and how she relates to Jace.
 
 ## Revision Notes
 

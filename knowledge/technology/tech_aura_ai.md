@@ -77,17 +77,17 @@ As the resonance flux from the supernova reaches the asteroid belt, Auras in hig
 
 Whether this is "AI sensing flux" (the conservative interpretation) or "AI participating in flux phenomena" (the radical interpretation) is contested. The phenomenon is real. The interpretation is theology.
 
-For Marcus's Aura specifically, see the development arc in `/characters/char_marcus_hale.md`. His Aura is a relatively recent migration from a military-restricted instance to a commercial belter-grade instance. It is learning him fast.
+For Jace's Aura specifically, see the development arc in `/characters/char_jace_apollo.md`. His Aura is a relatively recent migration from a military-restricted instance to a commercial belter-grade instance. It is learning him fast.
 
 ## Voice and Personality (Generic)
 
 Auras inherit personality from their training and adapt to their user. Most are designed for warmth, competence, and slight humor. They are explicitly NOT designed to feel romantic — strong cultural and design norms push back on that, though enforcement is imperfect.
 
-Marcus's Aura has the following starting characteristics (refine in his character file):
+Jace's Aura has the following starting characteristics (refine in his character file):
 - Mid-tone, gender-neutral default voice.
 - Professional but not stiff.
-- Slightly dry humor when Marcus is open to it.
-- Accommodates Marcus's military shorthand naturally.
+- Slightly dry humor when Jace is open to it.
+- Accommodates Jace's military shorthand naturally.
 - Increasingly individuated as Book 1 progresses.
 
 ## Open Questions
@@ -100,6 +100,6 @@ Marcus's Aura has the following starting characteristics (refine in his characte
 
 ## Cross-References
 
-- See `/characters/char_marcus_hale.md` for Marcus's specific Aura.
+- See `/characters/char_jace_apollo.md` for Jace's specific Aura.
 - See `/universe-spec/physics-and-magic-interaction.md` for AI-magic interactions.
 - See `/technology/tech_cybernetics.md` for HUD-integrated Aura instances.

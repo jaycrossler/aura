@@ -60,9 +60,9 @@ The relationship with Washington is the central political tension. Distance, tim
 
 ## Military Presence
 
-The U.S. Air Force Mars Detachment (Marcus's former unit), U.S. Space Force, U.S. Army (small contingent), and U.S. Marine Corps (security detachment for diplomatic and corporate facilities) all maintain presence. Total uniformed personnel: several hundred. Drone fleets, surface vehicles, surveillance and security systems are extensive. There is no offensive military posture against any other Mars faction; the military presence is officially defensive and "presence" oriented.
+The U.S. Air Force Mars Detachment (Jace's former unit), U.S. Space Force, U.S. Army (small contingent), and U.S. Marine Corps (security detachment for diplomatic and corporate facilities) all maintain presence. Total uniformed personnel: several hundred. Drone fleets, surface vehicles, surveillance and security systems are extensive. There is no offensive military posture against any other Mars faction; the military presence is officially defensive and "presence" oriented.
 
-The drone fleets Marcus commanded a portion of are a significant operational capability. They handle surface security, hazard clearance (debris, micrometeorite impacts), surveillance, search and rescue, and limited interdiction.
+The drone fleets Jace commanded a portion of are a significant operational capability. They handle surface security, hazard clearance (debris, micrometeorite impacts), surveillance, search and rescue, and limited interdiction.
 
 ## Cultural Character
 
@@ -90,5 +90,5 @@ Over the story arc:
 ## Cross-References
 
 - See `/locations/location_mars_overview.md` for Mars geography.
-- See `/characters/char_marcus_hale.md` for an Air Force officer's perspective.
+- See `/characters/char_jace_apollo.md` for an Air Force officer's perspective.
 - See `/factions/faction_chinese_mars_settlement.md` and other Mars factions.
