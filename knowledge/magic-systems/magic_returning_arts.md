@@ -16,6 +16,11 @@ What was once called magic is returning to the solar system. The phenomenon is r
 
 This document collects what is currently known and theorized about how the Arts work in practice. For the underlying physics, see `/universe-spec/cosmology.md` and `/universe-spec/physics-and-magic-interaction.md`.
 
+## Cultural Schools — Detailed
+
+For detailed treatment of the major emerging cultural schools (Norse Berserker, Greek Harmonic, Chinese Inscribed, Indian Vedic, Norse Skaldic, Germanic Oath-Bound, and the American fusion path), see `/magic-systems/magic_cultural_schools.md`.
+
+
 ## How Practitioners Experience It
 
 The first signs are almost always misinterpreted:

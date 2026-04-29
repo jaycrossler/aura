@@ -14,6 +14,22 @@ A massive star approximately 100 light-years from Earth went supernova in deep p
 
 What matters: the supernova produces a continuous (in human timescales) flux of high-energy radiation, including gamma radiation and a class of exotic particles or wave phenomena (working term: **resonance flux**) that interact subtly with matter and consciousness in ways that classical physics does not account for.
 
+## Why Detection Is Possible Before Effect
+
+The obscuring nebula blocks high-energy electromagnetic radiation (gamma, X-ray, UV, and most visible) but is largely transparent to infrared, radio, and neutrinos. This means:
+
+- The supernova/source has been continuously detectable across the past three thousand years through neutrino and infrared observation, though pre-instrumented humanity could not see it.
+- Modern instruments (post-2020) can image the source through the nebula in long-wavelength bands.
+- The resonance flux that produces the magical effect propagates with the slower-than-light unblocked component and reaches different parts of the solar system over a span of years to decades.
+- The asteroid belt, being further from the Sun and less shielded by intervening solar-system gas, encounters the front first. The belt's exposure has been increasing for roughly two decades at story start.
+- Mars receives the front roughly five to ten years after the belt at meaningful intensity; Earth roughly five to fifteen years after Mars.
+- These propagation timescales drive the Earth-Mars communications blackout decision and the belt's strategic isolation.
+
+## Continuous Versus Pulsed Source
+
+The source is treated as a **continuously emitting magnetar or pulsar wind nebula** rather than a single supernova flash. This permits the steady flux required for sustained magical effect over years and is consistent with known astrophysical objects that radiate persistently for thousands of years.
+
+
 ## The Nebula
 
 Between the supernova and our solar system lies a planetary nebula or large molecular cloud. Working term: **the Veil.** For most of recorded human history, the Veil has substantially blocked the resonance flux from reaching the inner solar system.
