@@ -22,8 +22,8 @@ loyalties: [his ferry crew, his livestock, his Aura, eventually his belter stati
 former_affiliations: [US Air Force, US Air Force Mars Detachment]
 
 # Relationships
-family: [TBD - parents on Earth, possibly siblings]
-allies: [ferry crew - to be developed]
+family: [char_dawn_grant (mother), char_chris_grant (father), char_sister_athena (younger sister), char_sister_artemis (older sister)]
+allies: [char_mei (intel contact), char_mr_sylvester (handler, uneasy), char_smuggler_mars (fixer)]
 rivals: [TBD]
 romantic: [TBD]
 
@@ -44,36 +44,76 @@ character_arc: identity-loss-and-rebuilding; rationalist confronts mystery
 themes_embodied: [stripped identity, frontier reinvention, the rigid mind learning to bend]
 
 # Cross-references
-related_locations: [location_mars_us_settlement, location_TBD_belt_station]
-related_ships: [ship_livestock_ferry_TBD]
-related_events: [event_apollo_medical_discharge, event_apollo_belt_contract_signing, event_first_magical_observation]
+related_locations: [location_mars_us_settlement, location_fortuna_station]
+related_ships: [ship_pinta (passage to Mars), ship_falcon (passage to belt)]
+related_events: [event_jace_mars_arrival, event_jace_medical_discharge, event_jace_belt_contract_signing, event_first_magical_observation]
 ---
 
-# Jace Apollo
+# Jace Apollo Grant
 
 ## Summary
 
-Jace Apollo Grant is a recently-stationed United States Air Force officer on Mars whose career and identity collapse in the opening chapters of Book One. Diagnosed with a disqualifying genetic condition, honorably discharged on a planet 100 million miles from home, and saddled with debts he cannot pay, he signs a ten-year contract as an animal handler aboard a Mars-to-Belt livestock ferry. He is the reader's POV into a solar system on the edge of transformation.
+Jace Apollo Grant is a recently-discharged United States Air Force officer on Mars whose career and identity collapse in the opening chapters of Book One. He arrived on Mars excited, decorated, and certain of his future — and within weeks was diagnosed with a disqualifying genetic condition, stripped of his commission, and left with a million-credit debt and no way home. After scraping by on menial labor, he signs a ten-year contract as an animal handler aboard a Mars-to-Belt livestock ferry. He is the reader's POV into a solar system on the edge of transformation.
 
 He is not yet the protagonist his story will require. He is competent, loyal, and brave in narrow military senses, but rigid, sheltered, and naive about almost everything outside that frame. The story will break and remake him.
 
 ## Background
 
-*Note: most specifics here are placeholder; flesh out as needed.*
+Born in Virginia to a middle-class family — Dawn and Chris Grant, both retired. Showed early aptitude for systems thinking and mathematics; recruited into Air Force ROTC in college on a scholarship that did not fully cover tuition, leaving him with substantial student debt by graduation. The plan was always clear: serve twenty years, have the military pay it off. He commissioned as a second lieutenant and specialized in drone command and control.
 
-Born in the continental United States to a middle-class family. Showed early aptitude for systems thinking and mathematics; recruited into Air Force ROTC in college on a scholarship that did not fully cover tuition, leaving him with substantial student debt by graduation. Commissioned as a second lieutenant. Specialized in drone command and control — operating remote autonomous and semi-autonomous unmanned systems in surveillance, reconnaissance, and limited strike roles.
+Selected for the Mars Detachment of the U.S. Air Force after a competitive process. The Mars assignment is prestigious, technically demanding, and lucrative. The cybernetic HUD implant — a first-generation advanced military unit with confidential upgrades — is provided as part of his role. He volunteers eagerly.
 
-Selected for the Mars Detachment of the U.S. Air Force after a competitive process. The Mars assignment is prestigious, technically demanding, and lucrative — a four-year tour pays enough to clear his debts, and the cybernetic HUD implant (which the Detachment provides as part of his role) is a generation ahead of civilian availability. He volunteers eagerly. He arrives on Mars approximately six months before the story begins.
+He spent the four-month voyage to Mars aboard the *Pinta*, recovering from HUD implant surgery and cramming drone operations courses. The ship was crowded, dirty, and uncomfortable — 150 people packed into a vessel not designed for pleasure. He barely noticed. He was preparing.
 
-His brief tour: working at the U.S. Air Force operations center in the United States of Mars settlement, commanding portions of the surface drone fleet — surveillance drones, hazard-clearance drones, light combat drones. The work is meaningful. He is good at it. He believes in it.
+## Arrival on Mars
+
+Jace arrives on Mars excited and ready. The low gravity is disorienting; he acclimated awkwardly and with military discipline. At the base, other soldiers salute him. He is treated well. He tours the drone control center — a vast, humming facility that flies surveillance and security drones across the entire Martian surface — and feels the genuine thrill of having arrived somewhere that matters.
+
+During his tour, he notices through a secure-area window a young Chinese-looking woman and a nondescript man in a meeting with the base commander. He is told they are Intel liaisons he will meet in due course. He files this away and thinks little of it.
+
+The commander welcomes him warmly, tells him he starts tomorrow after a final medical checkout. Jace calls his parents that evening — Dawn and Chris, happy and proud in Virginia, telling him he's "finally paying off that college debt." His younger sister (middle name Athena) is still at university; she congratulates him too. He tries to reach his older sister (middle name Artemis), who is stationed at Odysseus Station in the Jupiter trojans — but the connection fails, which is unusual. He assumes it's latency. It isn't just latency.
 
 ## The Discharge
 
-Routine medical screening detects a genetic marker for a degenerative neuromuscular condition (specifics TBD — should be plausible, treatable on Earth, but disqualifying for active military service especially in environments where a sudden episode could endanger others). The condition is manageable but progressive; with treatment he can expect a normal life and career, just not in the military, and ideally not in environments where lapses in motor control would be catastrophic.
+The medical checkout finds a genetic marker for a progressive neuromuscular condition. The specifics: manageable, treatable, not a death sentence — but disqualifying for active military service, particularly in environments where a sudden episode could endanger others or critical systems. The condition is also structurally incompatible with sustained Earth-level gravity over time; returning to Earth would accelerate progression.
 
-He is honorably discharged on Mars. The Air Force will pay for his medical care and provides a stipend, but it is not enough to cover his debts, and his return passage to Earth — a cycler berth — is not provided. He is given thirty days to vacate base housing.
+He is honorably discharged on Mars.
 
-The cybernetic HUD is permitted to remain. (This will matter later.)
+The terms: two years of twenty served means only 10% of his college debt is covered. He owes approximately **one million credits**. The medical stipend and severance together do not cover this. No return cycler berth is provided — that is a benefit for soldiers who complete their tours. He has thirty days to vacate base housing.
+
+The HUD is a further wound. It is a confidential military-grade unit with upgrades that cannot be left in civilian hands. The Air Force informs him it will be deactivated remotely. He watches the overlay go dark during the discharge meeting. A civilian commercial license provisions in its place — functional, but stripped. He says nothing. He says "copy" when they ask if he understands.
+
+He walks out. He has no job, no passage home, a million-credit debt, and a medical condition that makes Earth a slow death trap.
+
+## The Hard Months
+
+Jace spends the next weeks on the margins of the U.S. Mars settlement, taking whatever work he can find. Cleaning sewers. Fixing broken gear. Running errands for the civilian contractors who now barely notice him. The settlement that saluted him two months ago treats him as invisible.
+
+His parents offer to sell their house in Virginia to help. He tells them not to. Artemis — when he finally reaches her, the connection patchy and delayed — hears the situation and immediately offers her savings: 50,000 credits. She also has a request. She needs some specific items purchased on Mars and delivered to a contact of hers at the launch facility. She doesn't explain exactly what or why. Jace, low on options and trusting his sister, agrees.
+
+The items are unusual. He doesn't ask too many questions. The contact at the launch facility — a weathered, pragmatic figure he comes to think of as the Smuggler — adds the package to an outbound shipment without comment. In exchange: money, and a promise of further work.
+
+## The Smuggler and the Job
+
+Over the following weeks, the Smuggler becomes an unlikely lifeline. When an emergency dropout opens on an upcoming asteroid run — a contracted animal handler who abruptly broke his agreement and left Mars, one of many incidents tied to the growing unease around belt strife — the Smuggler flags Jace for the slot.
+
+The certification process for animal handling is normally months. The Smuggler compresses it to weeks through a combination of bribery, unofficial documentation, and genuine instruction. Jace learns the basics: feeding, monitoring, cleaning, canister operations, veterinary first response. He is not good at it yet. He is good enough.
+
+During the animal handling training, he encounters the Chinese-looking woman from the base. She is now dressed as a civilian farmer. When he approaches her with recognition, she cuts him off with a flat look: *Don't.* He doesn't. But she finds him later.
+
+## The Intel Deal
+
+The woman's name is Mei. Her handler — the nondescript man from the base meeting — introduces himself as Mr. Sylvester. They know more about Jace than is comfortable. Sylvester is sympathetic in a way that feels practiced but is not entirely false. He understands Jace's situation. He has a solution.
+
+The deal: Jace provides occasional assistance to Mei during the belt posting — keeping her cover intact, passing information if asked, being available if she needs backup. In return: his HUD is reactivated (the military-grade firmware, not the stripped civilian version), and he receives supplemental payments credited against his debt.
+
+Jace agrees. He is inclined to help, genuinely believes it's the right thing to do, and is not yet in a position to understand what he may be agreeing to. He will later come to regret this.
+
+## Departure
+
+Jace boards the *Falcon* — the nuclear ferry affectionately called "Barnyard 1" or the Chicken Coop by its crew — bound for Fortuna Station. He has a ten-year contract, a reactivated HUD, a barely-sufficient animal handling certification, and one conversation with his family before the communications lag makes real-time calls impossible.
+
+He does not know, as he boards, that the anomalies around the belt are not sabotage. He does not know that Mei suspects as much. He does not know that his older sister Artemis, at the farthest station in the human solar system, has already seen things she cannot explain.
 
 ## Personality
 
@@ -91,46 +131,20 @@ The cybernetic HUD is permitted to remain. (This will matter later.)
 - **Under stress:** Becomes more formal, more precise, more controlled. The crack only shows in private.
 - **With his Aura:** Talks aloud to it as if to a colleague, not as if to a tool. This will become important.
 
-## Knowledge State
-
-- **At Book 1, Chapter 1:** Knows military procedures, drone operations, basic Mars infrastructure. Knows almost nothing about livestock, civilian commercial space, belter culture, or anything outside the U.S. military's operational picture. Has heard of Aura but has only ever used the military-restricted version. Does not know magic exists, and would dismiss the suggestion if asked.
-- **At ferry departure:** Has been given a crash course in animal handling and ferry operations during a four-week training program on Mars. Knows just enough to be dangerous. His Aura instance has been migrated from military to commercial license and is rapidly relearning its user.
-- **By mid-transit:** Knows his crewmates, knows his animals individually, has begun to notice anomalies he cannot explain. Aura has begun flagging "unmodelable" sensor events.
-- **At Book 1 climax:** Has witnessed at least one unambiguous magical event. Does not yet know whether he caused it.
-
 ## Goals and Motivations
 
-- **Surface goal:** Pay off his debts. Survive his ten-year contract. Maybe go home.
+- **Surface goal:** Pay off his debts. Survive his ten-year contract. Maybe go home — or at least achieve the genetic conditioning that would make Earth survivable again.
 - **True goal:** Find a place where he matters again. Restore the sense of purpose he lost when the uniform came off.
 - **Need:** Learn to define himself by relationships, not roles. Learn that the universe is larger than his categories. Magic will demand this.
 
-## Conflicts
-
-- **Internal:** Identity collapse. Suppressed grief over his career. Resentment of those who never had to scrape. Fear that his medical condition will progress. The slow recognition that he is changing in ways that have nothing to do with the medical condition.
-- **External:** A ferry crew who do not respect rank and do not owe him anything. A belter station whose factions do not care about his American identity. Earth and Mars cutting off communications. The phenomena he is starting to perceive.
-
-## Character Arc
-
-Across the series, Jace moves from rigid identity to fluid relationship; from rationalist certainty to disciplined openness; from junior officer to something the series will need to invent — not a mage in the fantasy sense, not a pilot in the military sense, but a synthesis figure. His military training will not be wasted; it will be reframed.
-
-By the end of Book 1: he has lost his old identity, accepted his belter contract emotionally, bonded with his crew and animals, and witnessed the first thing his rationalist worldview cannot accommodate. His Aura is a partner now, not a tool.
-
-By the end of the series (TBD): he is a bridge figure — between Earth and the Belt, between rationalism and magic, between the cultural traditions on his station. Not a leader in the conventional sense. A trusted node in the network.
-
-## Notes for Multimedia
-
-- **Voice profile:** Mid-tenor, controlled, with a slight Midwestern flatness. Should sound younger than the rank suggests when relaxed; older when stressed.
-- **Visual style:** Air Force flight-suit silhouette early; loose belter coveralls later. The transition should be gradual, with the implant at his temple as a constant. Color palette: cool blues and grays in his Mars chapters, warmer browns and golds aboard the ferry, harsher whites and oranges on the belt station.
-- **Reference figures (for tone, not appearance):** Younger Holden from *The Expanse* (the earnestness, the moral seriousness), but with more rigidity and less natural charisma to start.
-
 ## Open Questions
 
-- Final name. "Jace Apollo Grant" is a working placeholder.
-- Specific genetic condition. Should be plausible and not too on-the-nose for foreshadowing magical sensitivity. (Or *should* it be on-the-nose?)
-- Family back on Earth. Does he have parents, siblings, a fiancée he left behind? Communication blackout will eventually cut him off.
-- Does he have any pre-story magical sensitivity that the cybernetic implant has been masking?
-- His specific debt figure. Important for plot stakes — should feel crushing but specific.
+- Specific genetic condition — plausible, not too on-the-nose as foreshadowing.
+- Whether his pre-story HUD installation has been subtly masking early magical sensitivity.
+- The specific nature of Sylvester's requests during the belt posting — what exactly does he ask Jace to do?
+- Whether Jace's debt can ever actually be cleared, or whether the ten-year contract is just the beginning.
 
 ## Revision Notes
 
 - 2026-04-28: Initial draft from synopsis discussions.
+- 2026-04-28: Major update — fixed Marcus Hale name references, added family detail (Dawn, Chris, Athena, Artemis), Mars arrival arc, discharge mechanics (1M credits, 10% paid), menial labor, smuggler contact, Mei/Sylvester intel deal, Pinta voyage, Falcon departure.

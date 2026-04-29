@@ -12,99 +12,88 @@ last_updated: 2026-04-28
 
 ## Summary
 
-The asteroid belt is humanity's third frontier and, at the story's present, its most active. Thousands of objects ranging from sub-kilometer to dwarf-planet scale (Ceres, Vesta, Pallas, Hygiea) populate the belt. Major mining operations, small settlements, and a growing network of belter stations have established human presence over the past several decades.
+The asteroid belt is humanity's third frontier and, at the story's present, its most active. Thousands of objects ranging from sub-kilometer to dwarf-planet scale populate the belt, with the five major named anchors hosting permanent human stations. The belt also extends, for story purposes, to the Jupiter trojan cluster at L4, where Odysseus Station represents the farthest permanent human habitation.
 
-The belt is also the first region of the solar system being exposed to the supernova's resonance flux as the Veil clears. It is the cradle of returning magic, and it will become the cultural and political nucleus of a transformation that eventually reaches Mars and Earth.
+The belt is the first region of the solar system being exposed to the supernova's resonance flux as the Veil clears. It is the cradle of returning magic, and it will become the cultural and political nucleus of a transformation that eventually reaches Mars and Earth.
 
 ## Geography
 
-The belt spans from approximately 2.2 to 3.2 AU from the Sun, between the orbits of Mars and Jupiter. Despite popular imagination, the belt is mostly empty — total mass is only a few percent of Earth's Moon, and average separation between objects is large. Travel between belt destinations is therefore slow and trajectory-dependent rather than constantly hazardous.
+The main belt spans from approximately 2.2 to 3.2 AU from the Sun, between the orbits of Mars and Jupiter. The Jupiter trojans (L4 and L5) at ~5.2 AU are not physically part of the belt but are administratively and culturally linked to it in the story's context — Odysseus Station is considered a belter station despite its extreme distance.
 
-Notable bodies:
+Despite popular imagination, the belt is mostly empty — average separation between objects is large. Travel between destinations is slow and trajectory-dependent.
 
-- **Ceres** — largest object in the belt, a dwarf planet. Has water ice, possibly subsurface ocean. Major settlement site.
-- **Vesta** — second-largest. Distinctive geology, valuable for certain rare metals.
-- **Pallas** — third-largest. Significant scientific interest.
-- **Hygiea** — fourth-largest, possibly a dwarf planet.
-- **Smaller asteroids** — countless, many being prospected and mined.
+## The Five Major Stations
 
-Each major belter station anchors near a significant asteroid for stability, gravity (such as it is), resource access, and orbital reference. Stations are typically not on the asteroid surface — they are co-orbiting habitats with the asteroid serving as a resource base and structural anchor.
+Each station is anchored to a large named asteroid and serves as a hub for the surrounding community of smaller corporate and national worker ships. The hub-and-spoke model means that "Fortuna Station" refers both to the permanent habitat and to the broader operational community that uses its infrastructure.
 
-## Major Belter Stations
+### Fortuna Station — 3 Fortuna (C-type, inner belt, ~2.4 AU)
+Jace Grant's destination. Agricultural hub. American-anchored, Origin Industries. Largest station, strongest food production. Livestock-primary ferry runs terminate here first.
+See `/locations/location_fortuna_station.md`
 
-(See `/factions/faction_belter_stations.md` for political profiles. Each should eventually have its own location file.)
+### Psyche Station — 16 Psyche (M-type metallic, middle belt, ~2.92 AU)
+Most economically valuable. Chinese-anchored, Tianhe Cosmics. Iron-nickel and platinum-group metals. Strategic resource significance.
+See `/locations/location_psyche_station.md`
 
-- **Demeter Station** (American-anchored) — likely Jace's destination
-- **Tianjin Belt Station** (Chinese-anchored)
-- **Ashok Station** (Indian-led multinational)
-- **Volga Outpost** (Russian-anchored)
-- **Helios Belt / Europa Station** (European-led)
-- Plus various smaller outposts and waypoints
+### Juno Station — 3 Juno (S-type, inner belt, ~2.67 AU)
+Construction materials. Governance TBD. Silicates and stony minerals for habitat construction. Natural trading partner with Fortuna.
+See `/locations/location_juno_station.md`
 
-Stations are spread across the belt to minimize transit conflicts and resource overlap. Travel between stations within the belt typically takes weeks to months depending on relative orbital position.
+### Sylvia Station — 87 Sylvia (X-type, outer belt, ~3.49 AU, with moons Romulus and Remus)
+Triple-body system, outer belt. Complex orbital environment. Future expansion potential via moons. Higher flux exposure than inner stations.
+See `/locations/location_sylvia_station.md`
+
+### Odysseus Station — 143 Odysseus (D-type, Jupiter L4, ~5.2 AU)
+Farthest permanent human habitation. Multinational. Artemis Grant stationed here. Highest flux exposure. First and most advanced magical emergence. Communications degraded earliest.
+See `/locations/location_odysseus_station.md`
 
 ## Travel Times
 
-- **Mars to belt station (nuclear ferry):** 4-5 months outbound, 3-4 months return (with much lighter ship).
-- **Belt station to belt station:** weeks to months, depending on relative positions and propulsion.
-- **Earth-belt direct:** rarely done. Mars-belt is the standard route.
-- **Belt to outer planets:** experimental at story start; longer transit times.
+- **Mars to Fortuna or Juno (nuclear ferry):** ~4-4.5 months outbound.
+- **Mars to Psyche (nuclear ferry):** ~4.5-5 months outbound.
+- **Mars to Sylvia (nuclear ferry):** ~5-6 months outbound.
+- **Mars to Odysseus (nuclear ferry):** ~8-10 months — rare runs, extreme commitment.
+- **Station to station (inner belt):** weeks to months depending on relative positions.
+- **Inner belt to outer belt:** months.
+- **Inner belt to Odysseus:** many months.
 
 ## Resources
 
-- **Metals:** iron, nickel, cobalt, platinum-group, rare earths. The belt is the principal source of certain rare and platinum-group metals for the Mars and Earth economies.
-- **Water ice:** abundant on certain asteroids and at Ceres. Critical for life support, propellant, and radiation shielding.
-- **Carbonaceous materials:** organic compounds, useful for life support and chemistry.
-- **Specialty materials:** certain asteroids have unique compositions that command premium prices.
+- **Metals:** Iron, nickel, cobalt, platinum-group, rare earths. Psyche is the dominant source.
+- **Water ice and carbonaceous materials:** Abundant at Fortuna (C-type) and Odysseus (D-type). Critical for life support and propellant.
+- **Silicates:** Juno's specialization. Construction and precision manufacturing.
+- **Outer belt volatiles:** Sylvia and Odysseus have primitive compositions with organics and ices.
 
-Belt mining is a complex industry. Different asteroids have different compositions and mining profiles. Stations specialize: some focus on water and volatiles, some on metals, some on rare specialty materials.
+## The Hub-and-Spoke Model
+
+Each major station is surrounded by dozens of smaller operator vessels — prospecting ships, mining tugs, processing barges, and corporate transports that use the station's life support, medical, communications, and trade infrastructure. A station's "population" in the strict sense is the permanent habitat residents; its broader community includes the rotating workforce of the ships clustered around it.
+
+This model creates dense cross-cultural contact at each station. Workers from American, Chinese, Indian, Russian, European, and other national backgrounds circulate through the same hubs. The station culture that emerges is not simply the national anchor's culture — it is a synthesis, pressured and imperfect, developing under the constraint of shared survival.
 
 ## Culture
 
-Belter culture at story start is in early formation. Each station has its own micro-culture shaped by its national/corporate anchor and local conditions. Common elements across stations include:
+Belter culture at story start is in early formation. Common elements:
 
-- **High-skill technical workforce.** Belters are uniformly competent; the belt does not reward unskilled labor.
-- **Tight community bonds.** Small populations in dangerous environments create strong mutual reliance.
-- **Cross-cultural fluency.** Most belters work alongside people from multiple national backgrounds and learn to navigate cultural differences.
-- **Pragmatic spirituality.** Many belters have personal philosophical or spiritual practices, often eclectic, often functional (focused on survival, community, meaning) rather than doctrinal.
-- **Distrust of distant authority.** Earth governments are far. Mars governments are far. Corporations are present but contestable. Local relationships matter most.
+- **High-skill technical workforce.** The belt does not reward unskilled labor.
+- **Tight community bonds** from dangerous conditions and shared infrastructure.
+- **Cross-cultural fluency** from the hub model and Aura-mediated translation.
+- **Pragmatic spirituality.** Many belters have personal practices, often eclectic and functional.
+- **Distrust of distant authority.** Local relationships matter most.
 
-After the communications blackout and the emergence of magic, belter culture begins a rapid synthesis that will define the region for generations.
-
-## Political Conditions
-
-At story start, the belt has no formal regional government. Each station is governed by some combination of corporate management, resident council, and (rarely) national authority. Inter-station coordination occurs through the Belt Safety Council and informal networks.
-
-This will change. Pressures driving formalization:
-
-- **Communications blackout** forces belt-wide coordination without Earth/Mars input.
-- **Magic emergence** requires cross-station knowledge sharing and shared safety norms.
-- **Corporate behavior** that benefits Earth/Mars over belters drives political organization.
-- **Mars/Earth attempts to reassert control** trigger resistance and identity formation.
-
-By the later story arc, recognizable belt-wide political bodies exist. Their forms and limits are TBD.
-
-## Environmental Hazards
-
-- **Radiation.** Already higher than Mars; significantly higher with the arriving resonance flux. Stations are heavily shielded.
-- **Micrometeoroid impacts.** Constant low-level threat. Hull integrity is a continuous concern.
-- **Resource accidents.** Mining operations carry inherent risks — explosive decompression, mechanical failure, regolith hazards.
-- **Life support failures.** A station that loses life support has hours, not days, to recover. Backup systems are extensive.
-- **Magical accidents.** Newly emerging. A sensitive practitioner's accidental kinesis can rupture a habitat seal in seconds.
+The animal culture developing around Fortuna Station's livestock program — pig-cams, named animals, community investment in herd welfare — is an early example of distinctively belter culture: practical but warm, finding community in the unglamorous.
 
 ## The Belt and the Returning Magic
 
-The belt is humanity's first observation post for the returning resonance flux. Belter sensitives are the first practitioners of the new era. Belt stations are the first communities to grapple with magic in a pressurized, life-support-dependent environment.
+The belt is humanity's first observation post for the returning resonance flux. Odysseus, at the far end, is the most advanced. The inner stations are following on a delay.
 
-What the belt learns in the years after the communications blackout — about safety practices, about cross-tradition synthesis, about the relationship between AI and magic — will eventually transform Mars and Earth. The belt becomes, by accident and necessity, the first center of post-Veil human civilization.
+What the belt learns — about safety practices, cross-tradition synthesis, the relationship between AI and magic — will eventually transform Mars and Earth. The communications blackout ensures that the belt develops this knowledge on its own terms.
 
 ## Open Questions
 
-- Specific asteroids hosting major stations — should they be real catalogued asteroids or fictional?
+- Whether any additional stations exist beyond the five major ones.
 - The Belt Safety Council — origins, structure, key figures.
 - The first belt-wide political body to claim authority.
-- The first major magical incident in the belt and which station it occurs at.
-- Cultural and linguistic synthesis — does a "belt creole" emerge?
+- Cultural and linguistic synthesis — does a belt creole emerge?
+- What Odysseus Station has discovered that no one else knows yet.
 
 ## Cross-References
 
@@ -112,3 +101,7 @@ What the belt learns in the years after the communications blackout — about sa
 - See `/technology/tech_nuclear_ferries.md` for transit infrastructure.
 - See `/magic-systems/magic_returning_arts.md` for magic emergence.
 - See `/universe-spec/cosmology.md` for the radiation source.
+
+## Revision Notes
+
+- 2026-04-28: Major update — replaced Demeter/Tianjin/Ashok/Volga/Helios with Fortuna/Psyche/Juno/Sylvia/Odysseus. Added Odysseus at Jupiter L4 as fifth station. Added hub-and-spoke model description. Updated travel times for all five stations.
