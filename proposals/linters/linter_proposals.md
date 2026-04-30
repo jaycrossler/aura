@@ -2,7 +2,7 @@
 id: linter_proposal_agent
 type: agent_proposal
 status: proposed
-generated_at: '2026-04-30T01:38:19.165022+00:00'
+generated_at: '2026-04-30T11:51:57.234553+00:00'
 source_files: ['generated/lint/lint-summary.json']
 ---
 # Linter Proposal Ideas

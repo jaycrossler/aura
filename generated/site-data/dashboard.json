@@ -10,17 +10,17 @@
       "generated_content_is_canon": false,
       "human_approval_required_for_canon": true
     },
-    "last_updated_utc": "2026-04-30T01:38:16.757217+00:00",
-    "git_commit_hash": "fb2ce5ca19d2e91a2559aa3cbfcf22ead9f2328f",
+    "last_updated_utc": "2026-04-30T11:51:32.081975+00:00",
+    "git_commit_hash": "bc687e81e46e393233f15592e82f8a77e7e2b1d4",
     "summary": {
       "knowledge_files": 47,
       "manuscript_files": 0,
       "word_counts_by_category": {
-        "root": 2041,
         "characters": 8959,
         "factions": 3604,
         "locations": 4455,
         "magic-systems": 3855,
+        "root": 2041,
         "scenes": 3059,
         "ships": 3660,
         "technology": 4842,
@@ -67,19 +67,19 @@
     ],
     "lint_summary": {
       "profile": "hard_scifi_novel",
-      "total_findings": 750,
+      "total_findings": 712,
       "by_severity": {
         "warning": 704,
-        "info": 46
+        "info": 8
       },
       "by_rule": {
         "prose.sentence_length": 77,
         "prose.repeated_words": 457,
         "fiction.dialogue_speaker_tags": 85,
-        "continuity.missing_frontmatter": 46,
+        "continuity.missing_frontmatter": 8,
         "audio.dialogue_attribution": 85
       },
-      "generated_at": "2026-04-30T01:21:45.262159+00:00"
+      "generated_at": "2026-04-30T01:38:21.118200+00:00"
     },
     "warnings": []
   },
@@ -97,6 +97,6 @@
       "continuity.missing_frontmatter": 8,
       "audio.dialogue_attribution": 85
     },
-    "generated_at": "2026-04-30T01:38:17.653479+00:00"
+    "generated_at": "2026-04-30T11:51:45.822883+00:00"
   }
 }

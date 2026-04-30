@@ -2,8 +2,6 @@
 
 | File | Words | Frontmatter |
 | --- | --- | --- |
-| knowledge/MASTER-SYNOPSIS.md | 1825 | yes |
-| knowledge/README.md | 216 | no |
 | knowledge/characters/char_aura_engineer.md | 1286 | no |
 | knowledge/characters/char_dawn_chris_grant.md | 481 | yes |
 | knowledge/characters/char_dog_alpha.md | 1126 | no |
@@ -28,6 +26,8 @@
 | knowledge/locations/location_sylvia_station.md | 354 | yes |
 | knowledge/magic-systems/magic_cultural_schools.md | 2449 | no |
 | knowledge/magic-systems/magic_returning_arts.md | 1406 | yes |
+| knowledge/MASTER-SYNOPSIS.md | 1825 | yes |
+| knowledge/README.md | 216 | no |
 | knowledge/scenes/book01-opening-notes.md | 1783 | yes |
 | knowledge/scenes/book01-transit-vignettes.md | 1276 | no |
 | knowledge/ships/ship_falcon.md | 667 | yes |
