@@ -1,0 +1,12 @@
+{
+  "project": {
+    "id": "aura_chronicles",
+    "title": "The Aura Chronicles",
+    "knowledge_root": "knowledge",
+    "manuscript_root": "manuscript",
+    "generated_root": "generated",
+    "site_root": "site",
+    "generated_content_is_canon": false,
+    "human_approval_required_for_canon": true
+  }
+}

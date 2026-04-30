@@ -1,0 +1,12 @@
+{
+  "queue": [
+    {
+      "id": "gen_book01_ch001_draft_v1",
+      "enabled": false,
+      "kind": "chapter_draft",
+      "output_file": "generated/drafts/book01_ch001_draft_v1.md",
+      "overwrite": false,
+      "chapter_title": "Book 01 - Chapter 01 Draft"
+    }
+  ]
+}

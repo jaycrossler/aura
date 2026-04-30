@@ -1,0 +1,6 @@
+rule,count
+prose.sentence_length,77
+prose.repeated_words,457
+fiction.dialogue_speaker_tags,85
+continuity.missing_frontmatter,8
+audio.dialogue_attribution,85

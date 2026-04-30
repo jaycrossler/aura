@@ -1,0 +1,65 @@
+{
+  "errors_fail_ci": true,
+  "rules": {
+    "prose.sentence_length": {
+      "enabled": true,
+      "severity": "warning",
+      "config": {
+        "max_words": 35
+      }
+    },
+    "prose.repeated_words": {
+      "enabled": true,
+      "severity": "warning",
+      "config": {
+        "window_words": 250,
+        "max_repeats": 6,
+        "ignore_words": []
+      }
+    },
+    "prose.paragraph_length": {
+      "enabled": true,
+      "severity": "warning",
+      "config": {
+        "max_words": 180
+      }
+    },
+    "fiction.dialogue_speaker_tags": {
+      "enabled": true,
+      "severity": "warning",
+      "config": {
+        "max_distance_paragraphs": 2
+      }
+    },
+    "continuity.missing_frontmatter": {
+      "enabled": true,
+      "severity": "info",
+      "config": {}
+    },
+    "continuity.broken_cross_references": {
+      "enabled": true,
+      "severity": "error",
+      "config": {}
+    },
+    "interactive.html_safety": {
+      "enabled": true,
+      "severity": "error",
+      "config": {
+        "allowed_tags": [
+          "span",
+          "aside",
+          "sup",
+          "a",
+          "em",
+          "strong",
+          "br"
+        ]
+      }
+    },
+    "audio.dialogue_attribution": {
+      "enabled": true,
+      "severity": "warning",
+      "config": {}
+    }
+  }
+}

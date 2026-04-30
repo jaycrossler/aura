@@ -1,0 +1,16 @@
+{
+  "agents": [
+    {
+      "id": "master_continuity",
+      "enabled": true
+    },
+    {
+      "id": "character_voice",
+      "enabled": true
+    },
+    {
+      "id": "linter_proposal_agent",
+      "enabled": true
+    }
+  ]
+}

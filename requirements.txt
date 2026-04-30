@@ -1,0 +1,6 @@
+pyyaml
+python-frontmatter
+markdown-it-py
+pandas
+matplotlib
+requests

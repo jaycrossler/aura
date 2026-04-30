@@ -1,0 +1,19 @@
+{
+  "observer": {
+    "enabled": true
+  },
+  "linter": {
+    "enabled": true
+  },
+  "generator": {
+    "enabled": true,
+    "requires_generation_queue": true
+  },
+  "agents": {
+    "enabled": true,
+    "output_proposals_only": true
+  },
+  "viewer": {
+    "enabled": true
+  }
+}
