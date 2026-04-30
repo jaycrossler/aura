@@ -1,0 +1,102 @@
+{
+  "story_state": {
+    "project": {
+      "id": "aura_chronicles",
+      "title": "The Aura Chronicles",
+      "knowledge_root": "knowledge",
+      "manuscript_root": "manuscript",
+      "generated_root": "generated",
+      "site_root": "site",
+      "generated_content_is_canon": false,
+      "human_approval_required_for_canon": true
+    },
+    "last_updated_utc": "2026-04-30T01:38:16.757217+00:00",
+    "git_commit_hash": "fb2ce5ca19d2e91a2559aa3cbfcf22ead9f2328f",
+    "summary": {
+      "knowledge_files": 47,
+      "manuscript_files": 0,
+      "word_counts_by_category": {
+        "root": 2041,
+        "characters": 8959,
+        "factions": 3604,
+        "locations": 4455,
+        "magic-systems": 3855,
+        "scenes": 3059,
+        "ships": 3660,
+        "technology": 4842,
+        "templates": 1535,
+        "timeline": 1306,
+        "universe-spec": 3587
+      },
+      "open_questions_sections": 47,
+      "revision_notes_sections": 34
+    },
+    "velocity": {
+      "last_24h": null,
+      "last_7d": null
+    },
+    "chapters": [],
+    "characters": [
+      "char_aura_engineer.md",
+      "char_dawn_chris_grant.md",
+      "char_dog_alpha.md",
+      "char_dog_beta.md",
+      "char_jace_apollo.md",
+      "char_jace_best_friend.md",
+      "char_mei.md",
+      "char_mr_sylvester.md",
+      "char_sister_artemis.md",
+      "char_sister_athena.md",
+      "char_smuggler_mars.md"
+    ],
+    "locations": [
+      "location_asteroid_belt_overview.md",
+      "location_fortuna_station.md",
+      "location_juno_station.md",
+      "location_mars_overview.md",
+      "location_odysseus_station.md",
+      "location_psyche_station.md",
+      "location_sylvia_station.md"
+    ],
+    "ships": [
+      "ship_falcon.md",
+      "ship_livestock_ferry_class.md",
+      "ship_nina.md",
+      "ship_pinta.md",
+      "ship_santa_maria.md"
+    ],
+    "lint_summary": {
+      "profile": "hard_scifi_novel",
+      "total_findings": 750,
+      "by_severity": {
+        "warning": 704,
+        "info": 46
+      },
+      "by_rule": {
+        "prose.sentence_length": 77,
+        "prose.repeated_words": 457,
+        "fiction.dialogue_speaker_tags": 85,
+        "continuity.missing_frontmatter": 46,
+        "audio.dialogue_attribution": 85
+      },
+      "generated_at": "2026-04-30T01:21:45.262159+00:00"
+    },
+    "warnings": []
+  },
+  "lint_summary": {
+    "profile": "hard_scifi_novel",
+    "total_findings": 712,
+    "by_severity": {
+      "warning": 704,
+      "info": 8
+    },
+    "by_rule": {
+      "prose.sentence_length": 77,
+      "prose.repeated_words": 457,
+      "fiction.dialogue_speaker_tags": 85,
+      "continuity.missing_frontmatter": 8,
+      "audio.dialogue_attribution": 85
+    },
+    "generated_at": "2026-04-30T01:38:17.653479+00:00"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "default_profile": "hard_scifi_novel",
+  "profiles": {
+    "fiction_draft": [
+      "prose.sentence_length",
+      "prose.repeated_words",
+      "prose.paragraph_length",
+      "fiction.dialogue_speaker_tags",
+      "continuity.missing_frontmatter",
+      "continuity.broken_cross_references"
+    ],
+    "hard_scifi_novel": [
+      "prose.sentence_length",
+      "prose.repeated_words",
+      "prose.paragraph_length",
+      "fiction.dialogue_speaker_tags",
+      "continuity.missing_frontmatter",
+      "continuity.broken_cross_references",
+      "interactive.html_safety",
+      "audio.dialogue_attribution"
+    ],
+    "scientific_paper": [
+      "prose.sentence_length",
+      "prose.paragraph_length",
+      "continuity.missing_frontmatter",
+      "continuity.broken_cross_references"
+    ],
+    "interactive_story": [
+      "continuity.missing_frontmatter",
+      "continuity.broken_cross_references",
+      "interactive.html_safety"
+    ],
+    "audiobook_ready": [
+      "audio.dialogue_attribution",
+      "fiction.dialogue_speaker_tags",
+      "prose.sentence_length"
+    ]
+  }
+}

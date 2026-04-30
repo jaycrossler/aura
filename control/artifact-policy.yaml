@@ -1,0 +1,5 @@
+artifacts:
+  generated_overwrite_allowed: true
+  canon_paths:
+    - knowledge
+    - manuscript
