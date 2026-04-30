@@ -31,9 +31,9 @@ Dates are working figures and should be treated as adjustable.
 - **2049.** First permanent base established (small, rotating crew).
 
 ### 2050s — Bootstrapping
-- ISRU propellant production matures on Mars.
+- ISRU (in-situ resource utilization) propellant production matures on Mars.
 - Reusable heavy-lift drives Earth-orbit launch costs down by an order of magnitude.
-- First continuous Mars presence.
+- First continuous Mars presence (overlapping crews, no full evacuations).
 - **Aura precursor systems** emerge from open-weights AI movement.
 
 ### 2060s — Settlement
@@ -46,7 +46,7 @@ Dates are working figures and should be treated as adjustable.
 ### 2070s — Expansion
 - Mars population in the low thousands.
 - First cycler ship (***Niña***) commissioned.
-- U.S. military presence on Mars begins.
+- U.S. military presence on Mars begins (initially small, advisory).
 - Chinese national space program establishes permanent Mars settlement.
 - Cybernetic augmentation moves from medical prosthetic to broader augmentation category.
 
@@ -60,8 +60,8 @@ Dates are working figures and should be treated as adjustable.
 ### 2090s — Statehood and Industrial Maturity
 - Mars population crosses 10,000.
 - Third cycler (***Santa María***) enters service. Cycler fleet at full strength.
-- **The United States of Mars admitted as the 56th state of the U.S.**
-- Substantial U.S. military presence on Mars.
+- **The United States of Mars admitted as the 56th state of the U.S.** First Mars senators sworn in.
+- Substantial U.S. military presence on Mars; permanent Air Force, Space Force, and other service detachments.
 - First nuclear-thrust ferries begin running from Mars to the asteroid belt.
 - Asteroid belt prospecting accelerates; first permanent belter outposts.
 - **Juno Station** (3 Juno) founded (~2097).
@@ -92,6 +92,9 @@ Dates are working figures and should be treated as adjustable.
 - Jace travels to Mars aboard the ***Pinta*** — four months, crowded, uncomfortable, spent cramming drone operations courses and recovering from surgery.
 
 ### 2105 — Story Present (Working Date)
+- Mars population approximately 15,000-20,000.
+- Belt population approximately 1,500-3,000.
+- The Veil's drift has substantially cleared the line of sight to the supernova for the outer solar system. Resonance flux is reaching the asteroid belt at meaningful intensity for the first time in millennia.
 
 **Early 2105 — Mars Arrival Arc:**
 - Jace arrives on Mars. Tours drone control center. Notices Mei and Mr. Sylvester in secure meeting with base commander. Belt anomalies mentioned as background concern.
@@ -114,23 +117,23 @@ Dates are working figures and should be treated as adjustable.
 - Weeks 8-12: Anomalies begin. Animal behavior, sensor disagreements, Aura flags.
 - Weeks 13-17: Anomalies daily. The *Falcon*'s Aura logs "resonance interference."
 - Late transit: pressure scare, near-emergency, unexplained cause.
-- Communications with Earth/Mars degrading throughout. Belt comms network becomes the only reliable link.
+- **Communications blackout imposed.** Earth-Mars to belt comms cut. The belt is on its own.
 
 **Late 2105 — Arrival and Climax:**
 - Jace arrives at Fortuna Station. Blackout imposed or tightening.
-- Station receives the animals. Pig-cams go live. Belt entertainment culture around livestock begins.
-- First unambiguous magical event Marcus witnesses (or causes). Book 1 ends.
+- Station receives the animals. Pig-cams go live. Belt entertainment culture around livestock begins.- **First major magical incident witnessed by Jace.** End of Book 1.
 
 ### 2105-2115 — The Belt Era of the Returning Arts
 - Belt population grows; cross-station cooperation deepens; belter political identity solidifies.
 - Odysseus Station develops most advanced magical practice — isolated, highest flux, developing independently.
 - First synthesis schools of the Returning Arts emerge from cross-station practitioner networks.
 - Earth and Mars conduct increasingly desperate research as the radiation front continues toward them.
-- Various corporate and governmental attempts to penetrate the blackout.
+- Various corporate and governmental attempts to penetrate the blackout produce mixed results.
 
 ### 2115-2125 — The Front Reaches Mars
 - Resonance flux reaches Mars in measurable intensity. First Mars sensitives manifest.
-- Communications blackout partially lifted as belt-Mars contact resumes on belter terms.
+- Mars political and corporate authorities respond variably.
+- Communications blackout partially lifted as belt-Mars contact resumes (under new terms favorable to belters).
 
 ### 2125-2135 — The Front Reaches Earth
 - Resonance flux reaches Earth.
