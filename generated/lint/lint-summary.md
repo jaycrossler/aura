@@ -14,5 +14,5 @@
     "continuity.missing_frontmatter": 8,
     "audio.dialogue_attribution": 85
   },
-  "generated_at": "2026-04-30T12:05:58.633531+00:00"
+  "generated_at": "2026-05-01T20:32:35.931859+00:00"
 }

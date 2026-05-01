@@ -21,7 +21,7 @@ StoryOps does **not** auto-edit `/knowledge` or `/manuscript`.
 - `python -m tools.storyops.observe`
 - `python -m tools.storyops.lint --profile hard_scifi_novel`
 - `python -m tools.storyops.lint --path knowledge/scenes/book01-opening-notes.md`
-- `python -m tools.storyops.generate --queue-id gen_book01_ch001_draft_v1`
+- `python -m tools.storyops.generate --queue-id gen_book01_ch001_storybot_v2`
 - `python -m tools.storyops.agents --agent-id master_continuity`
 - `python -m tools.storyops.publish`
 - `python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel`
@@ -58,4 +58,6 @@ See `.github/workflows/`:
 - New rule: add module under `tools/storyops/lint/rules/`, register in `registry.py`, configure in `control/lint-rules.yaml`
 - New lint profile: edit `control/lint-profiles.yaml`
 - New generation queue item: edit `control/generation-queue.yaml`
-- Optional LLM hooks: implement providers in `tools/storyops/common/llm.py`
+- Storybot chapter generation supports `mock` (default), `ollama`, `openai`, and `claude` via `tools/storyops/common/llm.py`.
+- Generated chapter metadata is emitted next to each chapter as `*.meta.json` with dialogue/action/emotion beats for downstream audio/video pipelines.
+- Configure with env vars: `STORYOPS_LLM_PROVIDER`, `STORYOPS_LLM_MODEL`, plus provider key (`OPENAI_API_KEY` or `ANTHROPIC_API_KEY`) as needed.

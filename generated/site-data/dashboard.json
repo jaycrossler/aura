@@ -10,8 +10,8 @@
       "generated_content_is_canon": false,
       "human_approval_required_for_canon": true
     },
-    "last_updated_utc": "2026-04-30T12:05:57.684756+00:00",
-    "git_commit_hash": "d80382122b7e470a156d148871f5de0c2fa4fc7e",
+    "last_updated_utc": "2026-05-01T20:32:24.831145+00:00",
+    "git_commit_hash": "ab8303a0e7cdefc6ced078920bf0c6a4742b006f",
     "summary": {
       "knowledge_files": 47,
       "manuscript_files": 0,
@@ -79,7 +79,7 @@
         "continuity.missing_frontmatter": 8,
         "audio.dialogue_attribution": 85
       },
-      "generated_at": "2026-04-30T12:01:38.611598+00:00"
+      "generated_at": "2026-05-01T12:28:03.657021+00:00"
     },
     "warnings": []
   },
@@ -97,7 +97,7 @@
       "continuity.missing_frontmatter": 8,
       "audio.dialogue_attribution": 85
     },
-    "generated_at": "2026-04-30T12:05:58.633531+00:00"
+    "generated_at": "2026-05-01T20:32:35.931859+00:00"
   },
   "inventory_summary": {
     "total_files": 47,
@@ -452,7 +452,7 @@
     "knowledge/locations/location_juno_station.md": 2,
     "knowledge/characters/char_smuggler_mars.md": 1
   },
-  "progress_log_entries": 7,
+  "progress_log_entries": 10,
   "log_paths": {
     "local_runner": "generated/logs/local-runner.log",
     "lint_summary": "generated/lint/lint-summary.md",
