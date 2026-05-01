@@ -34,3 +34,9 @@ observe complete
 [2026-05-01T21:54:57.813328+00:00] STDOUT publish:
 publish complete
 [2026-05-01T21:54:57.813543+00:00] Run completed with failures=0
+[2026-05-01T22:01:36.708284+00:00] WARN fetch failed: fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2026-05-01T22:01:36.708439+00:00] No remote changes detected or remote unavailable.

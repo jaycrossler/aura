@@ -1,0 +1,8 @@
+[2026-05-01T22:01:35.235666+00:00] [story-generator] Queue item 'gen_book01_ch001_storybot_v2' starting.
+[2026-05-01T22:01:35.242094+00:00] [story-generator] Selected 2 scene(s) for 'gen_book01_ch001_storybot_v2'.
+[2026-05-01T22:01:35.243444+00:00] [story-generator] Scene packet built for scene_id=scenes_book01_opening_notes with 16 relevant knowledge docs.
+[2026-05-01T22:01:35.250296+00:00] [story-generator] Scene packet built for scene_id=choreo_event_jace_doctor_appointment with 16 relevant knowledge docs.
+[2026-05-01T22:01:35.255272+00:00] [story-generator] LLM response received provider=mock model=mock-story-writer chars=0
+[2026-05-01T22:01:35.255444+00:00] [story-generator] Payload parsed with keys=['beats', 'chapter_markdown', 'voice_style']; beats=1
+[2026-05-01T22:01:35.255687+00:00] [story-generator] Chapter markdown written to generated/drafts/book01_ch001_storybot_v2.md.
+[2026-05-01T22:01:35.256033+00:00] [story-generator] Metadata written to generated/drafts/book01_ch001_storybot_v2.meta.json. Source files used=19

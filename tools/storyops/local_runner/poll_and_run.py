@@ -38,13 +38,17 @@ def changed(repo: str, remote: str, branch: str, log_file: Path) -> bool:
 
 
 def run_step(repo: str, log_file: Path, label: str, cmd: list[str]) -> bool:
+    print(f"[local-runner] START {label}: {' '.join(cmd)}")
     append_log(log_file, f"START {label}: {' '.join(cmd)}")
     result = run(cmd, cwd=repo)
     append_log(log_file, f"END {label}: exit={result.returncode}")
+    print(f"[local-runner] END {label}: exit={result.returncode}")
     if result.stdout.strip():
         append_log(log_file, f"STDOUT {label}:\n{result.stdout.strip()}")
+        print(f"[local-runner] STDOUT {label}:\n{result.stdout.strip()}")
     if result.stderr.strip():
         append_log(log_file, f"STDERR {label}:\n{result.stderr.strip()}")
+        print(f"[local-runner] STDERR {label}:\n{result.stderr.strip()}")
     return result.returncode == 0
 
 

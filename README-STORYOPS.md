@@ -26,6 +26,7 @@ StoryOps does **not** auto-edit `/knowledge` or `/manuscript`.
 - `python -m tools.storyops.publish`
 - `python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel`
 - `python -m tools.storyops.local_runner --repo . --interval-seconds 300 --profile hard_scifi_novel`
+- `python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --run-generate true`
 
 ## Validation expectations
 Run modules independently:
@@ -38,12 +39,18 @@ Run modules independently:
 
 Lint exits non-zero only when enabled error findings exist and `errors_fail_ci: true` in `control/lint-rules.yaml`.
 
+## Story generator observability
+- `tools.storyops.generate` now emits step-by-step progress to standard out and to `generated/logs/story-generator.log`.
+- Progress includes selected scenes, relevant knowledge files, provider/model details, payload shape, and output file locations.
+- This makes it easier to tune voice, pacing, and scene staging by tracing exactly which knowledge snippets were included in prompt construction.
+- Local runner also mirrors subprocess output to standard out while writing canonical logs to `generated/logs/local-runner.log`.
+
 ## Cron / Scheduler
-`*/5 * * * * cd /path/to/repo && /usr/bin/python3 -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --commit false --push false`
+`*/5 * * * * cd /path/to/repo && /usr/bin/python3 -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --run-generate true`
 
 ```powershell
 cd C:\path\to\repo
-python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --commit false --push false
+python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --run-generate true
 ```
 
 ## GitHub Actions

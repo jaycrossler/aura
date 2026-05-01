@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import datetime as dt
 from pathlib import Path
 from typing import Any
 
@@ -11,6 +12,16 @@ from tools.storyops.common.llm import generate_text, parse_json_payload
 
 
 VOICE_GUIDE = "Grounded hard-sci-fi voice with restrained lyricism, emotionally precise beats, and continuity-safe references only."
+GENERATOR_LOG = Path("generated/logs/story-generator.log")
+
+
+def _log(message: str) -> None:
+    stamp = dt.datetime.now(dt.timezone.utc).isoformat()
+    line = f"[{stamp}] [story-generator] {message}"
+    print(line)
+    GENERATOR_LOG.parent.mkdir(parents=True, exist_ok=True)
+    with GENERATOR_LOG.open("a", encoding="utf-8") as handle:
+        handle.write(line + "\n")
 
 
 def _load_markdown(path: Path) -> dict[str, Any]:
@@ -61,9 +72,11 @@ def _mock_story(scene: dict[str, Any]) -> dict[str, Any]:
 
 
 def generate_chapter(item: dict[str, Any]) -> str | None:
+    _log(f"Queue item '{item.get('id')}' starting.")
     out = Path(item["output_file"])
     out.parent.mkdir(parents=True, exist_ok=True)
     if out.exists() and not item.get("overwrite", False):
+        _log(f"Skipping '{item.get('id')}' because output exists and overwrite is false: {out}")
         return None
 
     scenes = [_load_markdown(path) for path in sorted(Path("knowledge/scenes").glob("*.md"))]
@@ -75,11 +88,17 @@ def generate_chapter(item: dict[str, Any]) -> str | None:
         chosen = [s for s in scenes if s["meta"].get("id") in requested]
     if not chosen:
         chosen = [{"path": "knowledge/scenes/<none>", "meta": {"id": "scene_missing"}, "content": "No scenes available."}]
+    _log(f"Selected {len(chosen)} scene(s) for '{item.get('id')}'.")
 
     scene_packets = []
     source_files = {"knowledge/MASTER-SYNOPSIS.md"}
     for scene in chosen:
         relevant = _relevant_paths_for_scene(scene["content"])
+        _log(
+            "Scene packet built for "
+            f"scene_id={scene['meta'].get('id', '<missing>')} "
+            f"with {len(relevant)} relevant knowledge docs."
+        )
         for r in relevant:
             source_files.add(str(r))
         source_files.add(scene["path"])
@@ -108,7 +127,16 @@ def generate_chapter(item: dict[str, Any]) -> str | None:
     )
 
     llm_response = generate_text(system, user_prompt)
+    _log(
+        f"LLM response received provider={llm_response.provider} model={llm_response.model} "
+        f"chars={len(llm_response.content)}"
+    )
     payload = _mock_story(chosen[0]) if llm_response.provider == "mock" else parse_json_payload(llm_response.content)
+    _log(
+        "Payload parsed with keys="
+        f"{sorted(payload.keys()) if isinstance(payload, dict) else '<not-dict>'}; "
+        f"beats={len(payload.get('beats', [])) if isinstance(payload, dict) else 0}"
+    )
 
     chapter_text = payload.get("chapter_markdown", "# Generated Chapter\n\n[No content returned]")
     frontmatter_lines = [
@@ -125,6 +153,7 @@ def generate_chapter(item: dict[str, Any]) -> str | None:
         "---\n",
     ]
     out.write_text("\n".join(frontmatter_lines) + chapter_text + "\n", encoding="utf-8")
+    _log(f"Chapter markdown written to {out}.")
 
     meta_path = out.with_suffix(".meta.json")
     meta_path.write_text(
@@ -148,4 +177,5 @@ def generate_chapter(item: dict[str, Any]) -> str | None:
         ),
         encoding="utf-8",
     )
+    _log(f"Metadata written to {meta_path}. Source files used={len(source_files)}")
     return str(out)
