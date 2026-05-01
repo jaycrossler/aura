@@ -1,7 +1,7 @@
 {
   "chapter_id": "gen_book01_ch001_storybot_v2",
-  "chapter_file": "generated/drafts/book01_ch001_storybot_v2.md",
-  "generated_at": "2026-05-01T20:32:34.781570+00:00",
+  "chapter_file": "generated\\drafts\\book01_ch001_storybot_v2.md",
+  "generated_at": "2026-05-01T21:38:35.339678+00:00",
   "voice_style": "Grounded hard-sci-fi voice with restrained lyricism, emotionally precise beats, and continuity-safe references only.",
   "beats": [
     {
@@ -25,7 +25,7 @@
   ],
   "scenes_used": [
     "scenes_book01_opening_notes",
-    null
+    "choreo_event_jace_doctor_appointment"
   ],
   "llm": {
     "provider": "mock",

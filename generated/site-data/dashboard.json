@@ -10,26 +10,27 @@
       "generated_content_is_canon": false,
       "human_approval_required_for_canon": true
     },
-    "last_updated_utc": "2026-05-01T20:32:24.831145+00:00",
-    "git_commit_hash": "ab8303a0e7cdefc6ced078920bf0c6a4742b006f",
+    "last_updated_utc": "2026-05-01T21:38:05.963845+00:00",
+    "git_commit_hash": "97a5f23d3ef0d584f1e3539b68eb7bd8ec02e56b",
     "summary": {
-      "knowledge_files": 47,
+      "knowledge_files": 67,
       "manuscript_files": 0,
       "word_counts_by_category": {
-        "root": 2041,
-        "characters": 8959,
-        "factions": 3604,
-        "locations": 4455,
+        "characters": 18400,
+        "factions": 5169,
+        "locations": 7664,
         "magic-systems": 3855,
-        "scenes": 3059,
+        "root": 2041,
+        "review-queue": 4242,
+        "scenes": 21336,
         "ships": 3660,
-        "technology": 4842,
+        "technology": 8543,
         "templates": 1535,
-        "timeline": 1306,
-        "universe-spec": 3587
+        "timeline": 1816,
+        "universe-spec": 3628
       },
-      "open_questions_sections": 47,
-      "revision_notes_sections": 34
+      "open_questions_sections": 59,
+      "revision_notes_sections": 57
     },
     "velocity": {
       "last_24h": null,
@@ -38,21 +39,27 @@
     "chapters": [],
     "characters": [
       "char_aura_engineer.md",
+      "char_cerberus.md",
       "char_dawn_chris_grant.md",
       "char_dog_alpha.md",
       "char_dog_beta.md",
       "char_jace_apollo.md",
       "char_jace_best_friend.md",
+      "char_lt_rich_cullivan.md",
       "char_mei.md",
       "char_mr_sylvester.md",
       "char_sister_artemis.md",
       "char_sister_athena.md",
-      "char_smuggler_mars.md"
+      "char_smuggler_mars.md",
+      "voice_char_jace_apollo.md",
+      "voice_char_lt_rich_cullivan.md"
     ],
     "locations": [
       "location_asteroid_belt_overview.md",
       "location_fortuna_station.md",
       "location_juno_station.md",
+      "location_mars_consumer_district.md",
+      "location_mars_fabrication_district.md",
       "location_mars_overview.md",
       "location_odysseus_station.md",
       "location_psyche_station.md",
@@ -79,41 +86,41 @@
         "continuity.missing_frontmatter": 8,
         "audio.dialogue_attribution": 85
       },
-      "generated_at": "2026-05-01T12:28:03.657021+00:00"
+      "generated_at": "2026-05-01T20:32:35.931859+00:00"
     },
     "warnings": []
   },
   "lint_summary": {
     "profile": "hard_scifi_novel",
-    "total_findings": 712,
+    "total_findings": 24,
     "by_severity": {
-      "warning": 704,
-      "info": 8
+      "warning": 24
     },
     "by_rule": {
-      "prose.sentence_length": 77,
-      "prose.repeated_words": 457,
-      "fiction.dialogue_speaker_tags": 85,
-      "continuity.missing_frontmatter": 8,
-      "audio.dialogue_attribution": 85
+      "prose.sentence_length": 2,
+      "prose.repeated_words": 19,
+      "prose.paragraph_length": 1,
+      "fiction.dialogue_speaker_tags": 1,
+      "audio.dialogue_attribution": 1
     },
-    "generated_at": "2026-05-01T20:32:35.931859+00:00"
+    "generated_at": "2026-05-01T21:38:26.415213+00:00"
   },
   "inventory_summary": {
-    "total_files": 47,
-    "files_with_frontmatter": 38,
+    "total_files": 67,
+    "files_with_frontmatter": 58,
     "files_missing_frontmatter": 9,
-    "total_words": 40903,
+    "total_words": 81889,
     "categories": {
+      "characters": 15,
+      "factions": 5,
+      "locations": 9,
+      "magic-systems": 2,
       "MASTER-SYNOPSIS.md": 1,
       "README.md": 1,
-      "characters": 11,
-      "factions": 4,
-      "locations": 7,
-      "magic-systems": 2,
-      "scenes": 2,
+      "review-queue": 2,
+      "scenes": 11,
       "ships": 5,
-      "technology": 5,
+      "technology": 7,
       "templates": 5,
       "timeline": 1,
       "universe-spec": 3
@@ -121,22 +128,16 @@
   },
   "inventory_rows": [
     {
-      "file": "knowledge/MASTER-SYNOPSIS.md",
-      "category": "MASTER-SYNOPSIS.md",
-      "words": 1825,
-      "frontmatter": true
-    },
-    {
-      "file": "knowledge/README.md",
-      "category": "README.md",
-      "words": 216,
-      "frontmatter": false
-    },
-    {
       "file": "knowledge/characters/char_aura_engineer.md",
       "category": "characters",
       "words": 1286,
       "frontmatter": false
+    },
+    {
+      "file": "knowledge/characters/char_cerberus.md",
+      "category": "characters",
+      "words": 860,
+      "frontmatter": true
     },
     {
       "file": "knowledge/characters/char_dawn_chris_grant.md",
@@ -159,7 +160,7 @@
     {
       "file": "knowledge/characters/char_jace_apollo.md",
       "category": "characters",
-      "words": 1706,
+      "words": 3288,
       "frontmatter": true
     },
     {
@@ -169,15 +170,21 @@
       "frontmatter": false
     },
     {
+      "file": "knowledge/characters/char_lt_rich_cullivan.md",
+      "category": "characters",
+      "words": 840,
+      "frontmatter": true
+    },
+    {
       "file": "knowledge/characters/char_mei.md",
       "category": "characters",
-      "words": 929,
+      "words": 1212,
       "frontmatter": true
     },
     {
       "file": "knowledge/characters/char_mr_sylvester.md",
       "category": "characters",
-      "words": 434,
+      "words": 1378,
       "frontmatter": true
     },
     {
@@ -195,7 +202,19 @@
     {
       "file": "knowledge/characters/char_smuggler_mars.md",
       "category": "characters",
-      "words": 290,
+      "words": 1200,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/characters/voice_char_jace_apollo.md",
+      "category": "characters",
+      "words": 2147,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/characters/voice_char_lt_rich_cullivan.md",
+      "category": "characters",
+      "words": 1875,
       "frontmatter": true
     },
     {
@@ -214,6 +233,12 @@
       "file": "knowledge/factions/faction_megacorps.md",
       "category": "factions",
       "words": 938,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/factions/faction_origin_industries.md",
+      "category": "factions",
+      "words": 1565,
       "frontmatter": true
     },
     {
@@ -241,9 +266,21 @@
       "frontmatter": true
     },
     {
+      "file": "knowledge/locations/location_mars_consumer_district.md",
+      "category": "locations",
+      "words": 1181,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/locations/location_mars_fabrication_district.md",
+      "category": "locations",
+      "words": 1353,
+      "frontmatter": true
+    },
+    {
       "file": "knowledge/locations/location_mars_overview.md",
       "category": "locations",
-      "words": 967,
+      "words": 1642,
       "frontmatter": true
     },
     {
@@ -277,9 +314,33 @@
       "frontmatter": true
     },
     {
+      "file": "knowledge/MASTER-SYNOPSIS.md",
+      "category": "MASTER-SYNOPSIS.md",
+      "words": 1825,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/README.md",
+      "category": "README.md",
+      "words": 216,
+      "frontmatter": false
+    },
+    {
+      "file": "knowledge/review-queue/scenes_temporal_map.md",
+      "category": "review-queue",
+      "words": 1870,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/review-queue/storybot_metadata_template_guide.md",
+      "category": "review-queue",
+      "words": 2372,
+      "frontmatter": true
+    },
+    {
       "file": "knowledge/scenes/book01-opening-notes.md",
       "category": "scenes",
-      "words": 1783,
+      "words": 1268,
       "frontmatter": true
     },
     {
@@ -287,6 +348,60 @@
       "category": "scenes",
       "words": 1276,
       "frontmatter": false
+    },
+    {
+      "file": "knowledge/scenes/choreo_event_jace_doctor_appointment.md",
+      "category": "scenes",
+      "words": 3435,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/choreo_event_jace_gym_arrival.md",
+      "category": "scenes",
+      "words": 3558,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/choreo_event_jace_mars_tour_with_rich.md",
+      "category": "scenes",
+      "words": 4009,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/event_jace_bar_rumors.md",
+      "category": "scenes",
+      "words": 1436,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/event_jace_doctor_appointment.md",
+      "category": "scenes",
+      "words": 1462,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/event_jace_gym_arrival.md",
+      "category": "scenes",
+      "words": 1169,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/event_jace_mars_tour_with_rich.md",
+      "category": "scenes",
+      "words": 998,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/event_jace_messages_home.md",
+      "category": "scenes",
+      "words": 1207,
+      "frontmatter": true
+    },
+    {
+      "file": "knowledge/scenes/event_jace_origin_negotiation.md",
+      "category": "scenes",
+      "words": 1518,
+      "frontmatter": true
     },
     {
       "file": "knowledge/ships/ship_falcon.md",
@@ -325,9 +440,15 @@
       "frontmatter": true
     },
     {
+      "file": "knowledge/technology/tech_communications_filtering.md",
+      "category": "technology",
+      "words": 1598,
+      "frontmatter": true
+    },
+    {
       "file": "knowledge/technology/tech_cybernetics.md",
       "category": "technology",
-      "words": 820,
+      "words": 1517,
       "frontmatter": true
     },
     {
@@ -341,6 +462,12 @@
       "category": "technology",
       "words": 813,
       "frontmatter": false
+    },
+    {
+      "file": "knowledge/technology/tech_information_environment.md",
+      "category": "technology",
+      "words": 1406,
+      "frontmatter": true
     },
     {
       "file": "knowledge/technology/tech_nuclear_ferries.md",
@@ -381,13 +508,13 @@
     {
       "file": "knowledge/timeline/timeline_master.md",
       "category": "timeline",
-      "words": 1306,
+      "words": 1816,
       "frontmatter": true
     },
     {
       "file": "knowledge/universe-spec/concept_resource_scarcity.md",
       "category": "universe-spec",
-      "words": 1302,
+      "words": 1343,
       "frontmatter": false
     },
     {
@@ -403,56 +530,11 @@
       "frontmatter": true
     }
   ],
-  "lint_findings_count": 712,
+  "lint_findings_count": 24,
   "lint_by_file": {
-    "knowledge/magic-systems/magic_cultural_schools.md": 53,
-    "knowledge/MASTER-SYNOPSIS.md": 36,
-    "knowledge/characters/char_dog_alpha.md": 32,
-    "knowledge/characters/char_aura_engineer.md": 28,
-    "knowledge/characters/char_jace_apollo.md": 28,
-    "knowledge/factions/faction_belter_stations.md": 27,
-    "knowledge/scenes/book01-opening-notes.md": 27,
-    "knowledge/universe-spec/cosmology.md": 26,
-    "knowledge/scenes/book01-transit-vignettes.md": 25,
-    "knowledge/magic-systems/magic_returning_arts.md": 23,
-    "knowledge/technology/tech_aura_ai.md": 23,
-    "knowledge/universe-spec/concept_resource_scarcity.md": 23,
-    "knowledge/universe-spec/physics-and-magic-interaction.md": 22,
-    "knowledge/characters/char_dog_beta.md": 21,
-    "knowledge/timeline/timeline_master.md": 20,
-    "knowledge/factions/faction_megacorps.md": 20,
-    "knowledge/locations/location_asteroid_belt_overview.md": 19,
-    "knowledge/characters/char_jace_best_friend.md": 18,
-    "knowledge/ships/ship_livestock_ferry_class.md": 18,
-    "knowledge/technology/tech_nuclear_ferries.md": 18,
-    "knowledge/technology/tech_cyclers.md": 15,
-    "knowledge/factions/faction_united_states_mars.md": 14,
-    "knowledge/technology/tech_dogs_space_adapted.md": 14,
-    "knowledge/locations/location_odysseus_station.md": 13,
-    "knowledge/ships/ship_nina.md": 13,
-    "knowledge/locations/location_fortuna_station.md": 12,
-    "knowledge/ships/ship_falcon.md": 12,
-    "knowledge/characters/char_mei.md": 11,
-    "knowledge/technology/tech_cybernetics.md": 11,
-    "knowledge/locations/location_mars_overview.md": 10,
-    "knowledge/factions/faction_mars_other_settlements.md": 9,
-    "knowledge/ships/ship_pinta.md": 9,
-    "knowledge/characters/char_sister_artemis.md": 8,
-    "knowledge/locations/location_psyche_station.md": 7,
-    "knowledge/ships/ship_santa_maria.md": 7,
-    "knowledge/templates/magic-system-template.md": 7,
-    "knowledge/characters/char_dawn_chris_grant.md": 5,
-    "knowledge/templates/faction-template.md": 5,
-    "knowledge/locations/location_sylvia_station.md": 5,
-    "knowledge/README.md": 4,
-    "knowledge/templates/concept-template.md": 4,
-    "knowledge/templates/technology-template.md": 3,
-    "knowledge/templates/location-template.md": 2,
-    "knowledge/characters/char_mr_sylvester.md": 2,
-    "knowledge/locations/location_juno_station.md": 2,
-    "knowledge/characters/char_smuggler_mars.md": 1
+    "knowledge/scenes/book01-opening-notes.md": 24
   },
-  "progress_log_entries": 10,
+  "progress_log_entries": 11,
   "log_paths": {
     "local_runner": "generated/logs/local-runner.log",
     "lint_summary": "generated/lint/lint-summary.md",
