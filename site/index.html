@@ -1,1 +1,35 @@
-<!doctype html><html><head><meta charset='utf-8'><title>StoryOps Dashboard</title><link rel='stylesheet' href='style.css'></head><body><h1 id='title'>StoryOps</h1><pre id='content'>Loading...</pre><script src='app.js'></script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>StoryOps Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1 id="title">StoryOps</h1>
+      <p id="subtitle">Loading generated metrics...</p>
+    </header>
+
+    <section class="panel" id="summary"></section>
+
+    <section class="panel">
+      <h2>Top lint files</h2>
+      <input id="lint-filter" type="search" placeholder="Filter files..." aria-label="Filter lint files">
+      <ul id="lint-files"></ul>
+    </section>
+
+    <section class="panel">
+      <h2>Logs & reports</h2>
+      <ul id="logs"></ul>
+    </section>
+
+    <section class="panel">
+      <button id="toggle-raw" class="linkish" type="button">Show raw dashboard JSON</button>
+      <pre id="content" hidden>Loading...</pre>
+    </section>
+
+    <script src="app.js"></script>
+  </body>
+</html>
