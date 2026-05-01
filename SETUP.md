@@ -15,12 +15,12 @@
 Use `local_runner` from cron / Task Scheduler. It checks remote updates, fast-forwards local branch, and runs observe+lint safely.
 
 ### Linux/macOS cron
-`*/5 * * * * cd /path/to/repo && /usr/bin/python3 -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --commit false --push false`
+`*/5 * * * * cd /path/to/repo && /usr/bin/python3 -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --run-generate true`
 
 ### Windows Task Scheduler (PowerShell)
 ```powershell
 cd C:\path\to\repo
-python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --commit false --push false
+python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel --run-generate true
 ```
 
 ## 3) Add or change linters

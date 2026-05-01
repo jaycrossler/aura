@@ -75,5 +75,6 @@ StoryOps is the repository operations toolkit for this story knowledge bank. It 
 - `python -m tools.storyops.local_runner --repo . --once --profile hard_scifi_novel`
   - Polling helper for `git fetch/pull` + StoryOps runs
   - Uses `.storyops.lock` and logs to `generated/logs/local-runner.log`
+  - **Note:** generation is disabled by default in local runner; add `--run-generate true` when you want story chapter generation executed in this run.
 
 For implementation details see `README-STORYOPS.md` and `SETUP.md`.
