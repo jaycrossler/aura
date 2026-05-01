@@ -5,7 +5,7 @@ name: Belt Resource Scarcity and Selection Pressure
 type: cultural_phenomenon
 status: established (story present onward)
 canonical: true
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 era: belt expansion era and beyond
 ---
 
@@ -35,38 +35,53 @@ This scarcity shapes belt culture, body type, social practice, and economy in wa
 
 ## What Is Adequate
 
-- **Communication.** Slow but reliable. Voice and text crosses the system in minutes to hours; synchronous conversation is possible only within a station or local cluster.
-- **Mass-produced goods of belt manufacture.** Fasteners, structural members, simple electronics, basic tooling — fine, plentiful, locally made.
-- **Information.** The belt comms net carries entertainment, technical documentation, software, and news from Earth and Mars. Bandwidth is plentiful by historical standards. Latency is the only real problem.
+- **Communication.** Slow but reliable. Voice and text crosses the system in minutes to hours; synchronous conversation is possible only within a station or local cluster. (At story start. The blackout will end this.)
+- **Mass-produced goods of belt manufacture.** Once a manufacturing template has been transmitted and local feedstocks are available, belt fabricators can produce on demand. Quality is variable; volume is real.
+- **Living space.** Basic. Often shared. Functional.
+- **Information.** Abundant in volume, variable in reliability. (See `/technology/tech_information_environment.md`.)
 
-## Selection Pressure on Bodies
+## The Time-Cost Economy
 
-Resource scarcity does not select dramatically — the population is too small and the timescales too short for genuine evolutionary effects — but it does select **economically**. Hiring decisions, contract pricing, ferry allocation, and station residence reflect a clear premium on:
+The Origin Industries pricing model — and the broader logistics economy it dominates — directly maps the belt's scarcity regime onto a continuous price curve:
 
-- **Smaller bodies.** A 1.5-meter, 50-kg human eats roughly half what a 1.9-meter, 90-kg human eats, drinks half the water, breathes proportionally less air, and occupies less volume. Over a 10-year contract, the cost difference is real and tracked.
-- **Caloric discipline.** A worker who eats less than the average for their body size is more valuable than one who eats more. Many belters develop quasi-monastic eating practices, partly culturally and partly economically driven.
-- **Energy efficiency.** Low resting metabolic rate, low waste output, efficient sleep — all selected for in hiring and contract renewal.
-- **Generalist competence.** A worker who can fill four roles is worth four times a worker who fills one. Specialists are still hired, but they need to be exceptional in their specialty to justify their dedicated mass allocation.
+- **Hours:** Extreme cost. Reserved for medical emergencies, executive priorities, and specific edge cases. Usually requires local resources or in-system priority transport.
+- **Days:** Very high cost. Express logistics within Mars space; effectively impossible from Earth.
+- **Weeks:** High cost. Premium ferry slots, expedited handling.
+- **Months:** Moderate cost. Standard ferry traffic.
+- **Quarters to a year:** Low cost. Bulk logistics, optimal trajectories.
+- **Years (cycler bulk):** Minimal cost. The cheapest way to move mass.
 
-This is not eugenics. It is cost accounting. The result is a belt population that visibly skews shorter, leaner, and more disciplined than Mars or Earth norms. Newcomers who do not fit the profile are aware of the disadvantage and many adapt.
+This is not just commercial framing. It is the economic shape of life in the belt. Every belter learns to think in these brackets — what they need now (must be local), what they can plan for (months out), what they accept will eventually arrive (years).
 
-Jace is on the larger end of acceptable. He is approximately 1.78m and 75kg at story start, having lost some mass in his discharge period. He will lose more during transit and on the station, both because the food supply requires it and because his body adapts. By Book Two he is visibly lighter and more compact. He is aware of this. It is one of the small daily reminders that he is not who he was on Earth.
+The Origin time-cost pricing model is the dominant commercial expression of this scarcity, but it is not the cause. Origin is selling what the physics of the inner solar system already sells. (See `/factions/faction_origin_industries.md`.)
+
+## Body and Workforce Implications
+
+Scarcity shapes who can work in the belt and how:
+
+- **Mass and caloric demand matter.** Bigger bodies cost more — more calories, more mass to launch and decelerate, more medical supply demand. Belt employers prefer smaller crews when other factors are equal.
+- **Skilled specialists are heavily compensated** because their absence is unrecoverable on operational timescales.
+- **Generalists are valuable** because a worker who can fill three roles partially is worth more than three workers who can only fill one each.
+- **Augmentations carry hidden costs.** Heavy cybernetics increase caloric demand (especially glucose-interface implants); the belt's food economy makes this a real consideration. Some belter workers go deliberately under-augmented for this reason.
+- **Children are rare.** The belt does not yet support pregnancy and childhood at scale. Most belt residents are working-age adults; the children who exist are usually the adults' partners' or siblings' children, brought along by family choice.
 
 ## Cultural Implications
 
-- **Shared meals.** Group dining is more common than private dining; portions are calibrated to the table.
-- **Anti-waste taboos.** Wasting food, water, or material is socially sanctioned in ways that feel surprising to newcomers. A discarded scrap of bread can produce a real conversation.
-- **Repair before replace.** Repair culture is universal. A station that throws things out is a station that runs out of things.
-- **Trade and barter.** Supplements monetary economy. Specific skills and goods become currency at small denominations (coffee, chocolate, certain metals, sexual services in some communities, magical workings in later books).
-- **Body discipline.** Many belters cultivate eating, sleeping, and exercise practices that look ascetic to outsiders. This is partly chosen, partly imposed by environment.
-- **Status of "wasteful" professions.** Anyone whose work consumes notable resources without commensurate output is judged. This includes some forms of art, some recreational activities, and notably some forms of corporate management.
+- **The slow gift is sacred.** Sending someone something on a ferry — knowing it will arrive in months — is an act of investment that Earth-born readers should feel. A package that arrives is a gift from someone you were thinking of half a year ago.
+- **Hoarding is rational.** Belters keep what they cannot easily replace. Shared resources are managed with deliberate care.
+- **Trade webs across stations.** Each station produces something the others need (food at Fortuna, metals at Psyche, silicates at Juno). Inter-station trade is regular, slow, and culturally important.
+- **Coffee culture.** Genuinely scarce. Brewed coffee is shared, bartered, used as small-denomination currency, and gifted at significant moments. Belters who hoard coffee are mocked; belters who share it are remembered.
+- **The belt eats well, not richly.** Hydroponic staples are fine. Fresh variety is rare. A real Earth-grown apple at a belt station is an event.
 
-## How This Shapes the Plot
+## How This Connects to the Magic System
 
-- **Frontier engineering.** Characters solve problems with what they have, layering local materials in inventive ways. Story scenes lean into this — a problem is rarely solved by ordering the right part. It is solved by smelting, casting, machining, and improvising.
-- **Smaller protagonists.** Many of the most capable belt characters are physically small. Jace, larger than the norm, is a fish out of water in this dimension as in others.
-- **Dependence and isolation.** When the communications blackout deepens and ferry traffic from Mars and Earth slows or stops, the belt's local self-sufficiency is what saves it. The blackout would have killed the belt in 2080. By 2105, it is survivable.
-- **Magic in context.** Magical capabilities that materialize objects (which the system does not permit anyway) would feel cheap in this universe. Magic that *redistributes existing matter* — bending it, shaping it, hardening it, healing it slowly — fits the resource economy of the world. The magic system and the resource economy reinforce each other.
+The resonance flux is the first new resource the belt is not yet trying to manage. As magic emerges, belt practitioners will experience it not as an abstract phenomenon but as a *resource* — something that can be named, harvested, conserved, shared. The scarcity culture will shape how belt magic develops:
+
+- **Practical first.** Belt magic, when it emerges, will be oriented toward solving real problems — equipment failures, communications gaps, trade-route shortages.
+- **Shared knowledge.** Hoarding magical understanding will be culturally suspect, the way hoarding coffee is.
+- **Cross-station synthesis.** Practitioners at different stations will share findings, because that is what belt culture does with every other scarce resource.
+
+The magic system and the resource economy reinforce each other.
 
 ## What This Is Not
 
@@ -85,9 +100,12 @@ Jace is on the larger end of acceptable. He is approximately 1.78m and 75kg at s
 
 - `/locations/location_fortuna_station.md`
 - `/factions/faction_belter_stations.md`
+- `/factions/faction_origin_industries.md` (the time-cost pricing model)
 - `/technology/tech_nuclear_ferries.md`
-- `/characters/char_jace_apollo.md` (size-as-disadvantage)
+- `/technology/tech_information_environment.md`
+- `/characters/char_jace_apollo.md` (size-as-disadvantage in the Origin negotiation)
 
 ## Revision Notes
 
 - 2026-04-29: Initial draft from voice session.
+- 2026-04-30: Updated from voice session. Added explicit "Time-Cost Economy" section linking the scarcity regime to Origin Industries' commercial pricing model, and cross-referenced the new Origin faction file.

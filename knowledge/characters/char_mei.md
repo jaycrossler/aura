@@ -12,26 +12,26 @@ birthplace: Montana, United States of America (Earth)
 
 # Status
 status: alive
-first_appearance: Book 1 (Mars base, pre-discharge scene)
+first_appearance: Book 1 (Mars base, pre-discharge scene — glimpsed through window in meeting with base commander)
 last_appearance: ongoing
 pov_character: false (potential future POV)
 
 # Affiliations
-factions: [faction_united_states_intelligence (classified), faction_belter_stations (cover)]
+factions: [faction_united_states_intelligence (classified), faction_belter_stations (cover), faction_origin_industries (cover employment)]
 loyalties: [her mission, Mr. Sylvester, the United States — in that order, though this will shift]
 former_affiliations: [U.S. Air Force Mars Intelligence Detachment]
 
 # Relationships
 family: [TBD — farm family in Montana, Earth]
 allies: [char_mr_sylvester (handler), char_jace_apollo (asset, reluctant ally)]
-rivals: [TBD — Chinese intelligence counterparts at Tianjin/Psyche stations]
+rivals: [TBD — Chinese intelligence counterparts at Psyche stations, possibly at Mars Chinese settlement]
 romantic: [TBD]
 
 # Capabilities
 magic_user: false (story start) — sensitivity TBD
 magic_systems: []
 magic_proficiency: none known
-notable_skills: [intelligence tradecraft, Mandarin (fluent, native-level), cultural infiltration, agricultural knowledge (genuine — grew up farming), hand-to-hand combat (military trained), small arms]
+notable_skills: [intelligence tradecraft, Mandarin (fluent, native-level), cultural infiltration, agricultural knowledge (genuine — grew up farming, with specific expertise in livestock), hand-to-hand combat (military trained), small arms]
 languages_spoken: [English (native), Mandarin (fluent), some Cantonese]
 
 # Physical
@@ -44,7 +44,7 @@ character_arc: loyal operative → genuine investigator → crisis of allegiance
 themes_embodied: [identity performance vs. genuine self, institutional loyalty vs. personal truth, the danger of assuming you know the enemy]
 
 # Cross-references
-related_locations: [location_mars_us_settlement, location_fortuna_station]
+related_locations: [location_mars_us_settlement, location_fortuna_station, location_mars_chinese_settlement]
 related_ships: [ship_falcon]
 related_events: [event_jace_mars_arrival, event_mei_cover_establishment, event_intel_deal_with_jace]
 ---
@@ -53,7 +53,7 @@ related_events: [event_jace_mars_arrival, event_mei_cover_establishment, event_i
 
 ## Summary
 
-Mei is an American intelligence operative of Chinese-American heritage, assigned to infiltrate the Chinese community in the asteroid belt and determine whether the growing anomalies are the result of Chinese sabotage or something else entirely. She grew up on a farm in Montana, speaks Mandarin as fluently as Mandarin-native speakers, and looks precisely like what her cover says she is. She does not believe the anomalies are sabotage. Her superiors do. This gap will define her arc.
+Mei is an American intelligence operative of Chinese-American heritage, assigned to infiltrate the Chinese-aligned community in the asteroid belt and determine whether the growing anomalies are the result of Chinese sabotage or something else entirely. She grew up on a farm in Montana, speaks Mandarin as fluently as Mandarin-native speakers, and looks precisely like what her cover says she is. She does not believe the anomalies are sabotage. Her superiors do. This gap will define her arc.
 
 She first appears briefly at the Mars base — a face in a secure meeting room that Jace notices and files away. She reappears during his animal handling certification, now in civilian clothes, cutting off his recognition with a flat stare. She is not rude. She is professional. There is a difference.
 
@@ -65,6 +65,16 @@ She was recruited into military intelligence while at college, where her languag
 
 She has been on Mars for approximately two years, embedded at the base Intelligence unit, prior to the belt posting. She is good at her job. She is beginning to distrust the mission framing.
 
+## Mars Cover and Operations
+
+Mei's specific Mars assignment, prior to the belt posting, has been intelligence collection on the Chinese Mars settlement's livestock and agricultural operations. The Chinese settlement is significantly invested in animal husbandry — a strategically important domain because food independence is one of the markers of a settlement's autonomy from Earth supply chains. Mei has spent two years working at the U.S. settlement's livestock farms on a cover that places her in regular professional contact with Chinese settlement counterparts: cross-faction agricultural exchanges, breeding-stock cooperation, animal-health coordination, occasional joint research.
+
+Her cover work is genuine. She is one of the U.S. settlement's actually-skilled livestock handlers. The cover overlaps almost entirely with her real life. The intelligence she generates is collected by listening, observing, and noticing patterns across her professional contacts in the Chinese agricultural community — who is being moved where, what new animals are being introduced, how the breeding stock is being managed, which Chinese personnel are showing up at which facilities.
+
+Two years of this has produced two findings she did not expect. First, the Chinese settlement's agricultural operations are exactly as boring as they look — well-run, transparent within professional norms, not hiding sabotage operations behind the chickens. Second, the *anomalies* showing up in belt operations are spreading into livestock behavior in ways that don't pattern like sabotage. Animals on multiple stations across multiple national affiliations are showing odd behavioral changes. Mei has been quietly collecting this data without telling Sylvester yet, because she does not know what story to tell about it.
+
+When Sylvester proposes the belt posting and frames it as "investigate Chinese sabotage in the belt," Mei accepts the assignment. She does not tell him she suspects the framing is wrong. She wants to know what is actually happening, and the belt is where she will find out.
+
 ## Personality
 
 **Surface:** Contained. Professionally warm when she needs to be, forgettable when she doesn't. Reads rooms quickly. Does not volunteer information.
@@ -75,45 +85,44 @@ She has been on Mars for approximately two years, embedded at the base Intellige
 
 ## The Mission
 
-Mei's assignment: embed with the belt's Chinese-aligned community at or near Psyche Station, develop sources, and determine whether the reported anomalies (equipment failures, communications disruptions, worker behavior changes) are the result of Chinese state-sponsored sabotage or something else.
+Mei's official assignment: embed with the belt's Chinese-aligned community at or near Psyche Station, develop sources, and determine whether the reported anomalies (equipment failures, communications disruptions, worker behavior changes) are the result of Chinese state-sponsored sabotage or something else.
 
 The official theory: China is deliberately disrupting belt operations to gain strategic advantage in the coming resource competition. Mei thinks this is wrong. The anomalies don't pattern like sabotage — they're too random, too uncorrelated with Chinese operational presence, too strange.
 
-She cannot say this clearly to Sylvester without evidence. She is building the evidence. She needs to stay in place long enough to get it.
+Her cover for the belt: an Origin Industries livestock handler / settler bound for Fortuna Station. The cover places her on the *Falcon* with Jace, gives her four-and-a-half months in transit to develop a working relationship with him, and positions her at Fortuna with legitimate professional reasons to travel between Fortuna and Psyche through belt agricultural channels.
 
 ## Relationship with Jace
 
-Mei's relationship with Jace is professional first and reluctant second. She did not ask for an asset. Sylvester arranged it without consulting her, which she resents. Jace is obvious in ways that make her nervous — he has military bearing that five weeks of civilian clothes won't fully erase, and he doesn't know how to be inconspicuous.
+At story start, Mei and Jace are not allies. They are an intelligence operative and her newly-recruited asset. The asymmetry is total: she knows everything about him, he knows almost nothing about her, and Sylvester has briefed her on him in detail.
 
-But he is also genuinely competent, not stupid, and clearly in a situation not of his choosing. She respects the last part more than she expected. She will come to rely on him in ways neither of them anticipates.
+Over the *Falcon* transit, this will shift. Jace will prove more reliable, more decent, and more ordinary than her briefing prepared her for. She will find herself genuinely caring about him in ways that complicate her professional posture. He will not be hard to underestimate; he will also not be hard to like.
 
-Her management of Jace: keep him uninformed of details, use him for cover and logistics, protect him from consequences he can't anticipate. Whether she succeeds at the last item is an open question.
-
-## The Doubt
-
-Mei has seen two things she cannot explain through the sabotage framework:
-
-1. Animals at Fortuna Station's predecessor shipment behaving in ways that correlated with no Chinese operational activity.
-2. A brief anomaly in her own Aura that flagged an "unmodelable environmental reading" in a section of the Mars base with no Chinese personnel.
-
-She has not reported the second one. She is not sure why. She will spend a lot of the story figuring out why.
+Whether this becomes romantic, fraternal, or something more uncategorizable is open. What is certain: by the time the *Falcon* reaches Fortuna, Mei will have to choose, in some moment, between mission cleanliness and Jace's wellbeing. She will choose Jace. The consequences will compound.
 
 ## Voice and Mannerisms
 
-- **Speech patterns:** Economical. Completes sentences efficiently. Slight Montana flatness when relaxed, gone entirely when working.
-- **Verbal tics:** Slight pause before answering questions she finds obvious — a tell she's aware of and suppresses.
-- **Body language:** Still. Doesn't fidget. Watches exits without appearing to.
-- **With Jace:** Slightly more direct than with others, partly because she doesn't have to perform anything for him, partly because his directness makes performance feel wasteful.
-- **Internal commentary:** She thinks in dry, observational sentences. If the reader ever gets her POV, it will be wry, specific, and slightly exhausted.
+- **Speech:** Even, professional. Code-switches fluently between American English, Mandarin, and the slightly-formal English of Chinese-American family conversation.
+- **Body language:** Calibrated. She holds herself differently in different rooms.
+- **With Jace:** Initially flat and deflecting. Later, slowly, herself.
 
 ## Open Questions
 
-- Full name and surname.
-- Whether she has any early magical sensitivity — her skepticism about the sabotage narrative may partly be subconscious sensing.
-- The specific evidence she eventually finds that forces her to change her report.
-- Whether her handler Sylvester is acting in good faith or has his own agenda she hasn't identified.
-- Her family on Earth — do they know what she does? Does she have a relationship that the long belt posting strains?
+- Her surname. Currently TBD — should be a Chinese-American family name with Sichuan-province roots.
+- Her family in Montana — names, current status, whether they appear in scenes.
+- Specific Chinese-settlement contacts she has on Mars who recur or matter for the belt arc.
+- Whether she develops magical sensitivity later in the series (her closeness to flux-affected animals could matter).
+- Her eventual relationship with Sylvester after she stops trusting the mission framing.
+
+## Cross-References
+
+- See `/characters/char_jace_apollo.md`
+- See `/characters/char_mr_sylvester.md`
+- See `/factions/faction_united_states_intelligence.md` (TBD — placeholder)
+- See `/factions/faction_origin_industries.md` (cover employment)
+- See `/locations/location_psyche_station.md`
+- See `/ships/ship_falcon.md`
 
 ## Revision Notes
 
 - 2026-04-28: Initial draft.
+- 2026-04-30: Updated from voice session. Clarified that her two-year Mars cover specifically focused on intelligence collection from the Chinese settlement's livestock and agricultural operations — not random embedding, but a targeted assignment that makes her natural fit for the belt mission. Origin Industries cover employment for the belt posting noted explicitly.
