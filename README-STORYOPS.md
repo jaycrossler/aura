@@ -61,3 +61,12 @@ See `.github/workflows/`:
 - Storybot chapter generation supports `mock` (default), `ollama`, `openai`, and `claude` via `tools/storyops/common/llm.py`.
 - Generated chapter metadata is emitted next to each chapter as `*.meta.json` with dialogue/action/emotion beats for downstream audio/video pipelines.
 - Configure with env vars: `STORYOPS_LLM_PROVIDER`, `STORYOPS_LLM_MODEL`, plus provider key (`OPENAI_API_KEY` or `ANTHROPIC_API_KEY`) as needed.
+
+## Knowledge Importer
+
+- `python -m tools.storyops.importer <source>`
+  - Imports knowledge markdown from a `.zip`, directory, or single markdown file
+  - Supports concatenated markdown docs containing multiple frontmatter blocks
+  - Routes files into `/knowledge/*` subfolders using frontmatter `type`/`id`
+  - Merges by replacing existing files when incoming content is same or longer
+  - Writes `generated/reports/import-report.json` and deletes source on success
