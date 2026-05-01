@@ -1,0 +1,51 @@
+# Python caches/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build/distribution artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Secrets / API keys / local env files
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+*_secret*
+*secret*
+*apikey*
+*api_key*
+*token*
+
+# Knowledge importer staging/temp areas
+knowledge/to_import/
+
+# Generic temp directories/files
+tmp/
+temp/
+*.tmp
+*.bak
