@@ -1,6 +1,7 @@
 rule,count
-prose.sentence_length,2
-prose.repeated_words,19
-prose.paragraph_length,1
-fiction.dialogue_speaker_tags,1
-audio.dialogue_attribution,1
+prose.sentence_length,252
+prose.repeated_words,1188
+prose.paragraph_length,11
+fiction.dialogue_speaker_tags,503
+continuity.missing_frontmatter,8
+audio.dialogue_attribution,506

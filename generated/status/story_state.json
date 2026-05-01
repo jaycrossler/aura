@@ -9,8 +9,8 @@
     "generated_content_is_canon": false,
     "human_approval_required_for_canon": true
   },
-  "last_updated_utc": "2026-05-01T21:38:05.963845+00:00",
-  "git_commit_hash": "97a5f23d3ef0d584f1e3539b68eb7bd8ec02e56b",
+  "last_updated_utc": "2026-05-01T21:54:56.068969+00:00",
+  "git_commit_hash": "20293d41c3740c46f253759ff2e3876d4b3b096b",
   "summary": {
     "knowledge_files": 67,
     "manuscript_files": 0,
@@ -73,19 +73,18 @@
   ],
   "lint_summary": {
     "profile": "hard_scifi_novel",
-    "total_findings": 712,
+    "total_findings": 24,
     "by_severity": {
-      "warning": 704,
-      "info": 8
+      "warning": 24
     },
     "by_rule": {
-      "prose.sentence_length": 77,
-      "prose.repeated_words": 457,
-      "fiction.dialogue_speaker_tags": 85,
-      "continuity.missing_frontmatter": 8,
-      "audio.dialogue_attribution": 85
+      "prose.sentence_length": 2,
+      "prose.repeated_words": 19,
+      "prose.paragraph_length": 1,
+      "fiction.dialogue_speaker_tags": 1,
+      "audio.dialogue_attribution": 1
     },
-    "generated_at": "2026-05-01T20:32:35.931859+00:00"
+    "generated_at": "2026-05-01T21:38:26.415213+00:00"
   },
   "warnings": []
 }

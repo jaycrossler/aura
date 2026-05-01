@@ -2,16 +2,18 @@
 
 {
   "profile": "hard_scifi_novel",
-  "total_findings": 24,
+  "total_findings": 2468,
   "by_severity": {
-    "warning": 24
+    "warning": 2460,
+    "info": 8
   },
   "by_rule": {
-    "prose.sentence_length": 2,
-    "prose.repeated_words": 19,
-    "prose.paragraph_length": 1,
-    "fiction.dialogue_speaker_tags": 1,
-    "audio.dialogue_attribution": 1
+    "prose.sentence_length": 252,
+    "prose.repeated_words": 1188,
+    "prose.paragraph_length": 11,
+    "fiction.dialogue_speaker_tags": 503,
+    "continuity.missing_frontmatter": 8,
+    "audio.dialogue_attribution": 506
   },
-  "generated_at": "2026-05-01T21:38:26.415213+00:00"
+  "generated_at": "2026-05-01T21:54:57.702339+00:00"
 }

@@ -10,8 +10,8 @@
       "generated_content_is_canon": false,
       "human_approval_required_for_canon": true
     },
-    "last_updated_utc": "2026-05-01T21:38:05.963845+00:00",
-    "git_commit_hash": "97a5f23d3ef0d584f1e3539b68eb7bd8ec02e56b",
+    "last_updated_utc": "2026-05-01T21:54:56.068969+00:00",
+    "git_commit_hash": "20293d41c3740c46f253759ff2e3876d4b3b096b",
     "summary": {
       "knowledge_files": 67,
       "manuscript_files": 0,
@@ -74,36 +74,37 @@
     ],
     "lint_summary": {
       "profile": "hard_scifi_novel",
-      "total_findings": 712,
+      "total_findings": 24,
       "by_severity": {
-        "warning": 704,
-        "info": 8
+        "warning": 24
       },
       "by_rule": {
-        "prose.sentence_length": 77,
-        "prose.repeated_words": 457,
-        "fiction.dialogue_speaker_tags": 85,
-        "continuity.missing_frontmatter": 8,
-        "audio.dialogue_attribution": 85
+        "prose.sentence_length": 2,
+        "prose.repeated_words": 19,
+        "prose.paragraph_length": 1,
+        "fiction.dialogue_speaker_tags": 1,
+        "audio.dialogue_attribution": 1
       },
-      "generated_at": "2026-05-01T20:32:35.931859+00:00"
+      "generated_at": "2026-05-01T21:38:26.415213+00:00"
     },
     "warnings": []
   },
   "lint_summary": {
     "profile": "hard_scifi_novel",
-    "total_findings": 24,
+    "total_findings": 2468,
     "by_severity": {
-      "warning": 24
+      "warning": 2460,
+      "info": 8
     },
     "by_rule": {
-      "prose.sentence_length": 2,
-      "prose.repeated_words": 19,
-      "prose.paragraph_length": 1,
-      "fiction.dialogue_speaker_tags": 1,
-      "audio.dialogue_attribution": 1
+      "prose.sentence_length": 252,
+      "prose.repeated_words": 1188,
+      "prose.paragraph_length": 11,
+      "fiction.dialogue_speaker_tags": 503,
+      "continuity.missing_frontmatter": 8,
+      "audio.dialogue_attribution": 506
     },
-    "generated_at": "2026-05-01T21:38:26.415213+00:00"
+    "generated_at": "2026-05-01T21:54:57.702339+00:00"
   },
   "inventory_summary": {
     "total_files": 67,
@@ -530,11 +531,60 @@
       "frontmatter": true
     }
   ],
-  "lint_findings_count": 24,
+  "lint_findings_count": 2468,
   "lint_by_file": {
-    "knowledge/scenes/book01-opening-notes.md": 24
+    "knowledge/review-queue/storybot_metadata_template_guide.md": 316,
+    "knowledge/scenes/choreo_event_jace_mars_tour_with_rich.md": 186,
+    "knowledge/characters/voice_char_jace_apollo.md": 162,
+    "knowledge/scenes/choreo_event_jace_doctor_appointment.md": 155,
+    "knowledge/scenes/choreo_event_jace_gym_arrival.md": 154,
+    "knowledge/characters/voice_char_lt_rich_cullivan.md": 144,
+    "knowledge/characters/char_jace_apollo.md": 83,
+    "knowledge/technology/tech_communications_filtering.md": 61,
+    "knowledge/magic-systems/magic_cultural_schools.md": 53,
+    "knowledge/scenes/event_jace_doctor_appointment.md": 53,
+    "knowledge/review-queue/scenes_temporal_map.md": 51,
+    "knowledge/scenes/event_jace_origin_negotiation.md": 44,
+    "knowledge/factions/faction_origin_industries.md": 40,
+    "knowledge/MASTER-SYNOPSIS.md": 36,
+    "knowledge/technology/tech_information_environment.md": 35,
+    "knowledge/scenes/event_jace_bar_rumors.md": 34,
+    "knowledge/timeline/timeline_master.md": 34,
+    "knowledge/characters/char_dog_alpha.md": 32,
+    "knowledge/scenes/event_jace_mars_tour_with_rich.md": 30,
+    "knowledge/technology/tech_cybernetics.md": 29,
+    "knowledge/universe-spec/concept_resource_scarcity.md": 29,
+    "knowledge/characters/char_aura_engineer.md": 28,
+    "knowledge/locations/location_mars_overview.md": 28,
+    "knowledge/characters/char_mei.md": 27,
+    "knowledge/factions/faction_belter_stations.md": 27,
+    "knowledge/locations/location_mars_fabrication_district.md": 26,
+    "knowledge/universe-spec/cosmology.md": 26,
+    "knowledge/scenes/book01-transit-vignettes.md": 25,
+    "knowledge/scenes/event_jace_messages_home.md": 25,
+    "knowledge/scenes/book01-opening-notes.md": 24,
+    "knowledge/magic-systems/magic_returning_arts.md": 23,
+    "knowledge/technology/tech_aura_ai.md": 23,
+    "knowledge/characters/char_mr_sylvester.md": 22,
+    "knowledge/universe-spec/physics-and-magic-interaction.md": 22,
+    "knowledge/characters/char_dog_beta.md": 21,
+    "knowledge/characters/char_lt_rich_cullivan.md": 21,
+    "knowledge/factions/faction_megacorps.md": 20,
+    "knowledge/characters/char_cerberus.md": 19,
+    "knowledge/characters/char_smuggler_mars.md": 19,
+    "knowledge/locations/location_asteroid_belt_overview.md": 19,
+    "knowledge/locations/location_mars_consumer_district.md": 19,
+    "knowledge/scenes/event_jace_gym_arrival.md": 19,
+    "knowledge/characters/char_jace_best_friend.md": 18,
+    "knowledge/ships/ship_livestock_ferry_class.md": 18,
+    "knowledge/technology/tech_nuclear_ferries.md": 18,
+    "knowledge/technology/tech_cyclers.md": 15,
+    "knowledge/factions/faction_united_states_mars.md": 14,
+    "knowledge/technology/tech_dogs_space_adapted.md": 14,
+    "knowledge/locations/location_odysseus_station.md": 13,
+    "knowledge/ships/ship_nina.md": 13
   },
-  "progress_log_entries": 11,
+  "progress_log_entries": 12,
   "log_paths": {
     "local_runner": "generated/logs/local-runner.log",
     "lint_summary": "generated/lint/lint-summary.md",
