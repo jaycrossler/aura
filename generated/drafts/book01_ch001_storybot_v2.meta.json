@@ -1,0 +1,40 @@
+{
+  "chapter_id": "gen_book01_ch001_storybot_v2",
+  "chapter_file": "generated/drafts/book01_ch001_storybot_v2.md",
+  "generated_at": "2026-05-01T20:32:34.781570+00:00",
+  "voice_style": "Grounded hard-sci-fi voice with restrained lyricism, emotionally precise beats, and continuity-safe references only.",
+  "beats": [
+    {
+      "scene_id": "scenes_book01_opening_notes",
+      "summary": "Crew stabilizes after anxiety spike while preserving operational discipline.",
+      "dialogue": [
+        {
+          "speaker": "Mei",
+          "line": "We stay on plan.",
+          "emotion": "controlled urgency",
+          "action": "blocks hatchway"
+        },
+        {
+          "speaker": "Jace",
+          "line": "Copy.",
+          "emotion": "contained fear",
+          "action": "checks HUD status"
+        }
+      ]
+    }
+  ],
+  "scenes_used": [
+    "scenes_book01_opening_notes",
+    null
+  ],
+  "llm": {
+    "provider": "mock",
+    "model": "mock-story-writer"
+  },
+  "missing_knowledge_suggestions": [
+    "Character voiceprint tokens (pitch, cadence, lexical style).",
+    "Location sensory palette (smells, ambient sounds, lighting).",
+    "Scene-level emotional target curve (start/mid/end valence-arousal).",
+    "Dialogue language/register preferences per faction."
+  ]
+}

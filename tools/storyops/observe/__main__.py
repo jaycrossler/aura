@@ -20,6 +20,6 @@ def main():
     write_json(root/'generated/status/story_state.json', state)
     append_jsonl(root/'generated/status/progress_log.jsonl', progress_snapshot(state))
     (root/'generated/reports/knowledge_inventory.md').write_text(build_inventory(kdocs), encoding='utf-8')
-    build_word_count_chart(state, root/'generated/charts/word_counts_by_category.png')
+    build_word_count_chart(state, root/'generated/charts/word_counts_by_category.svg')
     print('observe complete')
 if __name__=='__main__': main()

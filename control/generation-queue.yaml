@@ -7,6 +7,16 @@
       "output_file": "generated/drafts/book01_ch001_draft_v1.md",
       "overwrite": false,
       "chapter_title": "Book 01 - Chapter 01 Draft"
+    },
+    {
+      "id": "gen_book01_ch001_storybot_v2",
+      "enabled": true,
+      "kind": "chapter_draft",
+      "output_file": "generated/drafts/book01_ch001_storybot_v2.md",
+      "overwrite": true,
+      "chapter_title": "Book 01 - Chapter 01 (Storybot Narrative)",
+      "voice_style": "Hard-sci-fi intimate POV with emotional restraint and rising dread.",
+      "max_scenes": 2
     }
   ]
 }
