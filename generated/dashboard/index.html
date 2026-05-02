@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>STORYOPS // BOOK01 MISSION CONTROL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --void:       #060810;
+    --deep:       #0b0e1a;
+    --panel:      #0f1422;
+    --border:     #1e2a45;
+    --border-hi:  #2a3d66;
+    --amber:      #d4841a;
+    --amber-hi:   #f0a830;
+    --amber-dim:  #7a4a0a;
+    --gold:       #f5c842;
+    --steel:      #5b8dd9;
+    --steel-dim:  #2a4070;
+    --green:      #3dba7a;
+    --green-dim:  #1a4a32;
+    --orange:     #e07b39;
+    --orange-dim: #5a2f10;
+    --red:        #e03b3b;
+    --red-dim:    #5a1010;
+    --text:       #c8b89a;
+    --text-dim:   #5a4e3a;
+    --mono:       'Share Tech Mono', 'Courier New', monospace;
+    --display:    'Orbitron', 'Share Tech Mono', monospace;
+    --body:       'Space Mono', monospace;
+    --scanline-h: 2px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { background: var(--void); color: var(--text); font-family: var(--mono); font-size: 13px; }
+
+  body {
+    background: var(--void);
+    background-image:
+      repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent calc(var(--scanline-h) * 10),
+        rgba(0,0,0,0.15) calc(var(--scanline-h) * 10),
+        rgba(0,0,0,0.15) calc(var(--scanline-h) * 10 + 1px)
+      );
+    min-height: 100vh;
+    padding: 0;
+  }
+
+  /* ── Header ── */
+  .header {
+    background: var(--deep);
+    border-bottom: 1px solid var(--border-hi);
+    padding: 14px 24px;
+    display: flex;
+    align-items: baseline;
+    gap: 24px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 24px rgba(0,0,0,0.8);
+  }
+  .header-title {
+    font-family: var(--display);
+    font-size: 15px;
+    font-weight: 900;
+    letter-spacing: 0.15em;
+    color: var(--gold);
+    text-shadow: 0 0 20px rgba(245,200,66,0.4);
+  }
+  .header-sub {
+    font-size: 11px;
+    color: var(--amber-dim);
+    letter-spacing: 0.1em;
+  }
+  .header-ts {
+    margin-left: auto;
+    font-size: 10px;
+    color: var(--text-dim);
+    letter-spacing: 0.05em;
+  }
+  .blink { animation: blink 1.4s step-end infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  /* ── Layout ── */
+  .main { padding: 20px 24px; display: grid; gap: 16px; }
+  .row-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .row-3 { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 16px; }
+  @media (max-width: 1100px) { .row-3, .row-2 { grid-template-columns: 1fr; } }
+
+  /* ── Panel ── */
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    position: relative;
+  }
+  .panel::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border-hi), transparent);
+  }
+  .panel-header {
+    padding: 8px 14px;
+    background: rgba(30, 42, 69, 0.5);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--display);
+    font-size: 9px;
+    letter-spacing: 0.18em;
+    color: var(--amber);
+    text-transform: uppercase;
+  }
+  .panel-header .dot {
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: var(--amber);
+    box-shadow: 0 0 6px var(--amber);
+    flex-shrink: 0;
+  }
+  .panel-header .count {
+    margin-left: auto;
+    font-size: 9px;
+    color: var(--text-dim);
+    font-family: var(--mono);
+    letter-spacing: 0.05em;
+  }
+  .panel-body { padding: 14px; }
+
+  /* ── Stat bar (summary) ── */
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 12px;
+    padding: 14px;
+  }
+  .stat-cell {
+    text-align: center;
+    padding: 10px 8px;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    background: rgba(0,0,0,0.2);
+  }
+  .stat-val {
+    font-family: var(--display);
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--gold);
+    display: block;
+    line-height: 1;
+  }
+  .stat-label {
+    font-size: 9px;
+    color: var(--text-dim);
+    letter-spacing: 0.1em;
+    margin-top: 5px;
+    display: block;
+  }
+  .stat-cell.hi { border-color: var(--amber-dim); }
+  .stat-cell.warn { border-color: var(--orange-dim); }
+  .stat-cell.ok { border-color: var(--green-dim); }
+
+  /* ── Chapter table ── */
+  .chapter-row {
+    border-bottom: 1px solid var(--border);
+    padding: 10px 14px;
+    display: grid;
+    grid-template-columns: 72px 1fr 100px 80px 60px 70px;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+  .chapter-row:last-child { border-bottom: none; }
+  .chapter-row:hover { background: rgba(255,255,255,0.03); }
+  .chapter-row.expanded { background: rgba(30,42,69,0.3); }
+
+  .ch-id {
+    font-family: var(--display);
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--amber-hi);
+    letter-spacing: 0.1em;
+  }
+  .ch-title { font-size: 12px; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .ch-subtitle { font-size: 9px; color: var(--text-dim); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  .ch-status { display: flex; align-items: center; gap: 6px; }
+  .status-pill {
+    font-size: 9px;
+    padding: 2px 7px;
+    border-radius: 2px;
+    letter-spacing: 0.05em;
+    font-family: var(--mono);
+    white-space: nowrap;
+  }
+
+  .pass-bar { display: flex; gap: 2px; }
+  .pass-seg {
+    width: 10px; height: 14px;
+    border-radius: 1px;
+  }
+
+  .ch-words { font-size: 11px; color: var(--text-dim); text-align: right; }
+  .ch-fmts  { font-size: 9px; color: var(--steel); }
+
+  /* Chapter expansion */
+  .chapter-detail {
+    display: none;
+    border-bottom: 1px solid var(--border);
+    background: rgba(0,0,0,0.25);
+  }
+  .chapter-detail.open { display: block; }
+  .detail-inner { padding: 12px 14px 12px 86px; }
+  .version-list { display: flex; flex-direction: column; gap: 6px; }
+  .version-row {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    font-size: 10px;
+    padding: 5px 8px;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    background: rgba(0,0,0,0.2);
+  }
+  .version-num { font-family: var(--display); font-size: 9px; color: var(--amber-dim); width: 28px; }
+  .version-pass { width: 90px; }
+  .version-fmt  { color: var(--steel); width: 60px; }
+  .version-pov  { color: var(--text-dim); width: 40px; }
+  .version-wc   { color: var(--text-dim); width: 55px; text-align: right; }
+  .version-ts   { color: var(--text-dim); flex: 1; text-align: right; font-size: 9px; }
+  .version-note { color: var(--amber-dim); font-style: italic; flex: 2; font-size: 9px; }
+
+  /* ── Gap list ── */
+  .gap-row {
+    padding: 8px 14px;
+    border-bottom: 1px solid var(--border);
+    display: grid;
+    grid-template-columns: 18px 90px 80px 1fr;
+    gap: 10px;
+    align-items: start;
+    font-size: 11px;
+  }
+  .gap-row:last-child { border-bottom: none; }
+  .gap-icon { font-size: 12px; }
+  .gap-type { font-size: 9px; color: var(--text-dim); letter-spacing: 0.05em; }
+  .gap-target { color: var(--amber); font-size: 10px; }
+  .gap-detail { color: var(--text); font-size: 10px; }
+
+  /* ── Scene coverage ── */
+  .scene-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 14px;
+  }
+  .scene-chip {
+    font-size: 9px;
+    padding: 3px 7px;
+    border-radius: 2px;
+    border: 1px solid;
+    font-family: var(--mono);
+    letter-spacing: 0.03em;
+    cursor: default;
+    position: relative;
+  }
+  .scene-chip[data-tip]:hover::after {
+    content: attr(data-tip);
+    position: absolute;
+    bottom: calc(100% + 5px);
+    left: 0;
+    background: var(--deep);
+    border: 1px solid var(--border-hi);
+    padding: 4px 8px;
+    white-space: nowrap;
+    font-size: 9px;
+    color: var(--text);
+    z-index: 50;
+    pointer-events: none;
+  }
+
+  /* ── Log tail ── */
+  .log-wrap {
+    font-family: var(--mono);
+    font-size: 10px;
+    line-height: 1.6;
+    max-height: 280px;
+    overflow-y: auto;
+    padding: 12px 14px;
+    color: var(--text-dim);
+    background: rgba(0,0,0,0.3);
+  }
+  .log-wrap::-webkit-scrollbar { width: 4px; }
+  .log-wrap::-webkit-scrollbar-track { background: var(--panel); }
+  .log-wrap::-webkit-scrollbar-thumb { background: var(--border-hi); }
+  .log-line.lvl-INFO  { color: var(--text-dim); }
+  .log-line.lvl-WARN  { color: var(--orange); }
+  .log-line.lvl-ERROR { color: var(--red); }
+  .log-line.lvl-DEBUG { color: var(--text-dim); opacity: 0.5; }
+
+  /* ── Jobs ── */
+  .job-row {
+    display: flex; gap: 10px; align-items: center;
+    padding: 7px 14px;
+    border-bottom: 1px solid var(--border);
+    font-size: 10px;
+  }
+  .job-row:last-child { border-bottom: none; }
+  .job-status { font-size: 13px; flex-shrink: 0; }
+  .job-id { color: var(--amber); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .job-dur { color: var(--text-dim); width: 50px; text-align: right; }
+  .job-ts  { color: var(--text-dim); font-size: 9px; width: 90px; text-align: right; flex-shrink: 0; }
+
+  /* ── Progress bar ── */
+  .prog-wrap { height: 3px; background: var(--border); border-radius: 1px; overflow: hidden; margin-top: 10px; }
+  .prog-fill  { height: 100%; background: var(--amber); border-radius: 1px; transition: width 0.6s ease; }
+
+  /* ── Empty / loading ── */
+  .empty { padding: 24px; text-align: center; color: var(--text-dim); font-size: 11px; }
+  .loading { display: flex; align-items: center; justify-content: center; height: 120px; color: var(--amber-dim); font-size: 11px; letter-spacing: 0.1em; }
+
+  /* ── Refresh button ── */
+  .btn {
+    background: transparent;
+    border: 1px solid var(--border-hi);
+    color: var(--amber);
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    padding: 4px 12px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-left: auto;
+    transition: all 0.15s;
+  }
+  .btn:hover { background: rgba(212,132,26,0.12); border-color: var(--amber); }
+  .btn:active { background: rgba(212,132,26,0.2); }
+
+  /* ── Scrollbar global ── */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--panel); }
+  ::-webkit-scrollbar-thumb { background: var(--border-hi); border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <span class="header-title">STORYOPS</span>
+  <span class="header-sub">MISSION CONTROL // BOOK-01</span>
+  <span id="ts-display" class="header-ts">LOADING<span class="blink">_</span></span>
+  <button class="btn" onclick="loadReport()">⟳ REFRESH</button>
+</div>
+
+<div class="main" id="main-content">
+  <div class="loading">INITIALIZING<span class="blink">_</span></div>
+</div>
+
+<script>
+// ── Helpers ────────────────────────────────────────────────────────────────
+
+const PASS_ORDER = ['not_started','raw_draft','edit_pass_1','edit_pass_2','revised','polished','final'];
+const PASS_COLORS = {
+  not_started: 'var(--border)',
+  raw_draft:   'var(--amber-dim)',
+  edit_pass_1: 'var(--amber)',
+  edit_pass_2: 'var(--gold)',
+  revised:     'var(--steel)',
+  polished:    'var(--green)',
+  final:       'var(--green)',
+};
+const PASS_PILL = {
+  not_started: ['var(--border)','var(--text-dim)'],
+  raw_draft:   ['var(--amber-dim)','var(--amber-hi)'],
+  edit_pass_1: ['var(--amber-dim)','var(--amber-hi)'],
+  edit_pass_2: ['var(--orange-dim)','var(--orange)'],
+  revised:     ['var(--steel-dim)','var(--steel)'],
+  polished:    ['var(--green-dim)','var(--green)'],
+  final:       ['var(--green-dim)','var(--green)'],
+};
+const SEV_ICON = { high:'🔴', medium:'🟡', low:'🔵' };
+const SCENE_STATUS_COLORS = {
+  'pre-draft': ['var(--border)','var(--text-dim)'],
+  'sketch':    ['var(--amber-dim)','var(--amber)'],
+  'draft':     ['var(--steel-dim)','var(--steel)'],
+  'complete':  ['var(--green-dim)','var(--green)'],
+  'unknown':   ['var(--border)','var(--text-dim)'],
+};
+
+function fmtDate(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  return d.toLocaleDateString('en-US',{month:'short',day:'numeric'}) + ' ' +
+         d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+}
+function fmtWords(n) { return n ? n.toLocaleString() + 'w' : '—'; }
+function fmtSec(s) { return s ? s.toFixed(1)+'s' : '—'; }
+
+function passBar(status) {
+  const idx = PASS_ORDER.indexOf(status);
+  const segs = PASS_ORDER.slice(1).map((p, i) => {
+    const filled = i <= (idx - 1);
+    const col = filled ? PASS_COLORS[PASS_ORDER[i+1]] : 'var(--border)';
+    return `<div class="pass-seg" style="background:${col}"></div>`;
+  }).join('');
+  return `<div class="pass-bar">${segs}</div>`;
+}
+
+function statusPill(status) {
+  const [bg, fg] = PASS_PILL[status] || PASS_PILL.unknown || ['var(--border)','var(--text-dim)'];
+  return `<span class="status-pill" style="background:${bg};color:${fg}">${status.replace(/_/g,' ')}</span>`;
+}
+
+// ── Renderers ────────────────────────────────────────────────────────────────
+
+function renderSummary(data) {
+  const s = data.summary;
+  const total = data.total_chapters;
+  const pct = total ? Math.round(((s.chapters_final + s.chapters_polished * 0.8 + s.chapters_revised * 0.6 + s.chapters_edit_pass_2 * 0.4 + s.chapters_edit_pass_1 * 0.2 + s.chapters_raw_draft * 0.1) / total) * 100) : 0;
+  return `
+    <div class="panel">
+      <div class="panel-header"><span class="dot"></span>MANUSCRIPT STATUS<span class="count">${data.book_id}</span></div>
+      <div class="stat-grid">
+        <div class="stat-cell hi"><span class="stat-val">${total}</span><span class="stat-label">CHAPTERS</span></div>
+        <div class="stat-cell"><span class="stat-val" style="color:var(--red)">${s.chapters_not_started}</span><span class="stat-label">NOT STARTED</span></div>
+        <div class="stat-cell"><span class="stat-val" style="color:var(--amber)">${s.chapters_raw_draft}</span><span class="stat-label">RAW DRAFT</span></div>
+        <div class="stat-cell"><span class="stat-val" style="color:var(--gold)">${(s.chapters_edit_pass_1||0)+(s.chapters_edit_pass_2||0)}</span><span class="stat-label">IN EDIT</span></div>
+        <div class="stat-cell ok"><span class="stat-val" style="color:var(--green)">${s.chapters_final}</span><span class="stat-label">FINAL</span></div>
+        <div class="stat-cell"><span class="stat-val">${(s.total_words_latest||0).toLocaleString()}</span><span class="stat-label">WORDS</span></div>
+      </div>
+      <div style="padding:0 14px 14px">
+        <div style="font-size:9px;color:var(--text-dim);letter-spacing:0.1em;margin-bottom:4px">COMPLETION ESTIMATE ${pct}%</div>
+        <div class="prog-wrap"><div class="prog-fill" style="width:${pct}%"></div></div>
+      </div>
+    </div>`;
+}
+
+function renderGaps(gaps) {
+  if (!gaps || !gaps.length) {
+    return `<div class="panel"><div class="panel-header"><span class="dot" style="background:var(--green);box-shadow:0 0 6px var(--green)"></span>GAPS &amp; ISSUES</div><div class="empty">NO GAPS DETECTED</div></div>`;
+  }
+  const sorted = [...gaps].sort((a,b) => {
+    const order = {high:0,medium:1,low:2};
+    return (order[a.severity]||2) - (order[b.severity]||2);
+  });
+  const rows = sorted.map(g => {
+    const target = g.chapter_id || g.scene_id || '—';
+    return `<div class="gap-row">
+      <span class="gap-icon">${SEV_ICON[g.severity]||'•'}</span>
+      <span class="gap-type">${g.type.replace(/_/g,' ')}</span>
+      <span class="gap-target">${target}</span>
+      <span class="gap-detail">${g.detail||''}</span>
+    </div>`;
+  }).join('');
+  return `<div class="panel">
+    <div class="panel-header"><span class="dot" style="background:var(--red);box-shadow:0 0 6px var(--red)"></span>GAPS &amp; ISSUES<span class="count">${gaps.length}</span></div>
+    ${rows}
+  </div>`;
+}
+
+function renderChapters(chapters) {
+  if (!chapters || !chapters.length) {
+    return `<div class="panel"><div class="panel-header"><span class="dot"></span>CHAPTERS</div><div class="empty">No chapters found.</div></div>`;
+  }
+
+  const rows = chapters.map((ch, idx) => {
+    const fmts = (ch.formats_generated||[]).filter(f=>f!=='prose').join(' ');
+    const verRows = (ch.versions||[]).map(v => `
+      <div class="version-row">
+        <span class="version-num">v${String(v.version_num).padStart(3,'0')}</span>
+        ${statusPill(v.pass_type)}
+        <span class="version-fmt">${v.format}</span>
+        <span class="version-pov">${v.pov}</span>
+        <span class="version-wc">${fmtWords(v.word_count)}</span>
+        <span class="version-note">${v.note||''}</span>
+        <span class="version-ts">${fmtDate(v.generated_at)}</span>
+      </div>`).join('');
+
+    return `
+      <div class="chapter-row" id="chrow-${idx}" onclick="toggleDetail(${idx})">
+        <span class="ch-id">${ch.chapter_id}</span>
+        <div>
+          <div class="ch-title">${ch.chapter_title||ch.chapter_id}</div>
+          <div class="ch-subtitle">${ch.subtitle||ch.timeline_span||''}</div>
+        </div>
+        <div class="ch-status">${statusPill(ch.status||'not_started')}</div>
+        ${passBar(ch.status||'not_started')}
+        <span class="ch-words">${fmtWords(ch.latest_word_count)}</span>
+        <span class="ch-fmts">${fmts}</span>
+      </div>
+      <div class="chapter-detail" id="chdetail-${idx}">
+        <div class="detail-inner">
+          ${ch.version_count ? `<div style="font-size:9px;color:var(--text-dim);margin-bottom:8px;letter-spacing:0.08em">${ch.version_count} VERSION(S) — SCENE IDS: ${(ch.scene_ids||[]).join(', ')}</div>
+          <div class="version-list">${verRows}</div>` : `<div style="color:var(--text-dim);font-size:10px">No versions generated yet. Enable in generation-queue.yaml.</div>`}
+        </div>
+      </div>`;
+  }).join('');
+
+  return `<div class="panel">
+    <div class="panel-header"><span class="dot"></span>CHAPTERS<span class="count">${chapters.length}</span></div>
+    ${rows}
+  </div>`;
+}
+
+function renderScenes(coverage) {
+  if (!coverage) return '';
+  const statuses = coverage.scene_statuses || {};
+  const structured = new Set(Object.keys(statuses));
+  const notRegistry = coverage.in_structure_not_registry || [];
+  const notStructured = coverage.in_registry_not_structured || [];
+
+  const chips = Object.entries(statuses).map(([id, status]) => {
+    const [bg, fg] = SCENE_STATUS_COLORS[status] || SCENE_STATUS_COLORS.unknown;
+    return `<span class="scene-chip" style="background:${bg};border-color:${fg};color:${fg}" data-tip="${id} [${status}]">${id}</span>`;
+  }).join('');
+
+  const missingChips = notRegistry.map(id =>
+    `<span class="scene-chip" style="background:var(--red-dim);border-color:var(--red);color:var(--red)" data-tip="Missing from registry">${id}</span>`
+  ).join('');
+
+  const orphanChips = notStructured.map(id =>
+    `<span class="scene-chip" style="background:var(--border);border-color:var(--border-hi);color:var(--text-dim)" data-tip="Not assigned to chapter">${id}</span>`
+  ).join('');
+
+  return `<div class="panel">
+    <div class="panel-header"><span class="dot"></span>SCENE COVERAGE<span class="count">${structured.size} registered</span></div>
+    <div class="scene-grid">${chips}${missingChips}${orphanChips}</div>
+    <div style="padding:0 14px 10px;display:flex;gap:14px;flex-wrap:wrap">
+      ${Object.entries(SCENE_STATUS_COLORS).map(([k,[bg,fg]])=>`<span style="font-size:9px;color:${fg};letter-spacing:0.05em">■ ${k}</span>`).join('')}
+      <span style="font-size:9px;color:var(--red);letter-spacing:0.05em">■ missing</span>
+      <span style="font-size:9px;color:var(--text-dim);letter-spacing:0.05em">■ unassigned</span>
+    </div>
+  </div>`;
+}
+
+function renderJobs(jobs) {
+  if (!jobs || !jobs.length) {
+    return `<div class="panel"><div class="panel-header"><span class="dot"></span>RECENT JOBS</div><div class="empty">No job logs found.</div></div>`;
+  }
+  const rows = jobs.map(j => {
+    const icon = j.completed ? (j.had_errors ? '⚠' : '✓') : (j.had_errors ? '✗' : '…');
+    const iconColor = j.had_errors ? 'var(--red)' : (j.completed ? 'var(--green)' : 'var(--text-dim)');
+    return `<div class="job-row">
+      <span class="job-status" style="color:${iconColor}">${icon}</span>
+      <span class="job-id">${j.job_id}</span>
+      <span class="job-dur">${fmtSec(j.duration_secs)}</span>
+      <span class="job-ts">${fmtDate(j.modified_at)}</span>
+    </div>`;
+  }).join('');
+  return `<div class="panel">
+    <div class="panel-header"><span class="dot"></span>RECENT JOBS<span class="count">${jobs.length}</span></div>
+    ${rows}
+  </div>`;
+}
+
+function renderLog(lines) {
+  if (!lines || !lines.length) {
+    return `<div class="panel"><div class="panel-header"><span class="dot"></span>LOG TAIL</div><div class="empty">No log output yet.</div></div>`;
+  }
+  const rendered = lines.map(line => {
+    let cls = 'lvl-INFO';
+    if (line.includes('] [WARN'))  cls = 'lvl-WARN';
+    if (line.includes('] [ERROR')) cls = 'lvl-ERROR';
+    if (line.includes('] [DEBUG')) cls = 'lvl-DEBUG';
+    const escaped = line.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    return `<div class="log-line ${cls}">${escaped}</div>`;
+  }).join('');
+  return `<div class="panel">
+    <div class="panel-header"><span class="dot"></span>LOG TAIL<span class="count">${lines.length} lines</span></div>
+    <div class="log-wrap" id="log-wrap">${rendered}</div>
+  </div>`;
+}
+
+// ── Main build ────────────────────────────────────────────────────────────────
+
+function buildDashboard(data) {
+  document.getElementById('ts-display').innerHTML =
+    `REPORT: ${fmtDate(data.generated_at)}<span class="blink">_</span>`;
+
+  const html = `
+    ${renderSummary(data)}
+    ${renderChapters(data.chapters)}
+    <div class="row-2">
+      ${renderGaps(data.gaps)}
+      ${renderJobs(data.recent_jobs)}
+    </div>
+    ${renderScenes(data.scene_coverage)}
+    ${renderLog(data.log_tail)}
+  `;
+  document.getElementById('main-content').innerHTML = html;
+
+  // Auto-scroll log to bottom
+  const logWrap = document.getElementById('log-wrap');
+  if (logWrap) logWrap.scrollTop = logWrap.scrollHeight;
+}
+
+function toggleDetail(idx) {
+  const detail = document.getElementById(`chdetail-${idx}`);
+  const row    = document.getElementById(`chrow-${idx}`);
+  if (detail.classList.contains('open')) {
+    detail.classList.remove('open');
+    row.classList.remove('expanded');
+  } else {
+    detail.classList.add('open');
+    row.classList.add('expanded');
+  }
+}
+
+// ── Load ──────────────────────────────────────────────────────────────────────
+
+async function loadReport() {
+  document.getElementById('ts-display').innerHTML = 'LOADING<span class="blink">_</span>';
+  try {
+    const res  = await fetch('../status/report.json?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    buildDashboard(data);
+  } catch (err) {
+    // Try alternate path (if opened directly from root)
+    try {
+      const res2 = await fetch('generated/status/report.json?t=' + Date.now());
+      if (!res2.ok) throw new Error(`HTTP ${res2.status}`);
+      const data2 = await res2.json();
+      buildDashboard(data2);
+    } catch (err2) {
+      document.getElementById('main-content').innerHTML = `
+        <div class="panel">
+          <div class="panel-header"><span class="dot" style="background:var(--red)"></span>NO DATA</div>
+          <div class="empty" style="padding:32px">
+            <div style="font-size:14px;color:var(--amber);margin-bottom:12px">REPORT NOT FOUND</div>
+            <div style="color:var(--text-dim);font-size:11px;line-height:1.8">
+              Run the status reporter to generate data:<br>
+              <span style="color:var(--amber-hi);font-family:var(--mono)">python -m tools.storyops.status_reporter</span><br><br>
+              Expected path: <span style="color:var(--steel)">generated/status/report.json</span><br><br>
+              Error: ${err.message}
+            </div>
+          </div>
+        </div>`;
+      document.getElementById('ts-display').innerHTML = 'NO DATA<span class="blink">_</span>';
+    }
+  }
+}
+
+// ── Auto-refresh every 30s when page is visible ───────────────────────────────
+let refreshTimer;
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) {
+    clearInterval(refreshTimer);
+  } else {
+    loadReport();
+    refreshTimer = setInterval(loadReport, 30000);
+  }
+});
+
+loadReport();
+refreshTimer = setInterval(loadReport, 30000);
+</script>
+</body>
+</html>

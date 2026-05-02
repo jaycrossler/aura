@@ -1,22 +1,197 @@
-{
-  "queue": [
-    {
-      "id": "gen_book01_ch001_draft_v1",
-      "enabled": false,
-      "kind": "chapter_draft",
-      "output_file": "generated/drafts/book01_ch001_draft_v1.md",
-      "overwrite": false,
-      "chapter_title": "Book 01 - Chapter 01 Draft"
-    },
-    {
-      "id": "gen_book01_ch001_storybot_v2",
-      "enabled": true,
-      "kind": "chapter_draft",
-      "output_file": "generated/drafts/book01_ch001_storybot_v2.md",
-      "overwrite": true,
-      "chapter_title": "Book 01 - Chapter 01 (Storybot Narrative)",
-      "voice_style": "Hard-sci-fi intimate POV with emotional restraint and rising dread.",
-      "max_scenes": 2
-    }
-  ]
-}
+book: book01
+structure_file: control/story-structure.yaml
+scene_registry: control/scene-registry.yaml
+render_profiles: control/render-profiles.yaml
+
+# ============================================================
+# GENERATION QUEUE
+#
+# Each item references a chapter_id from story-structure.yaml
+# and a render_profile id from render-profiles.yaml.
+#
+# Optional overrides per item:
+#   pov_override: <character_id>     — override the chapter's pov_default
+#   pov_notes: <string>              — guidance for the alternate POV
+#   pass_type: <string>              — version pass label (default: raw_draft)
+#   note: <string>                   — human note attached to this run
+#
+# enabled: false items are skipped by the runner.
+# overwrite: false skips if any version already exists for the chapter.
+# ============================================================
+
+queue:
+
+  # ── STANDARD PROSE — first pass all chapters ───────────────
+
+  - id: gen_book01_ch001_standard_v1
+    enabled: true
+    kind: chapter_draft
+    chapter_id: ch001
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — Descent"
+
+  - id: gen_book01_ch002_standard_v1
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch002
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — The Facility"
+
+  - id: gen_book01_ch003_standard_v1
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch003
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — First Night"
+
+  - id: gen_book01_ch004_standard_v1
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch004
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — The Appointment. Slow and clinical."
+
+  - id: gen_book01_ch005_standard_v1
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch005
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — Hard Months: Falling"
+
+  - id: gen_book01_ch006_standard_v1
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch006
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — Hard Months: Rising. Cerberus naming."
+
+  - id: gen_book01_ch007_standard_v1
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch007
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — The Deals. Includes 2-para Origin boss POV tag."
+
+  - id: gen_book01_ch008_standard_v1
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch008
+    render_profile: standard
+    overwrite: false
+    note: "First standard pass — Departure burn."
+
+  # ── POV VARIANTS ────────────────────────────────────────────
+
+  - id: gen_book01_ch002_mei_pov
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch002
+    render_profile: standard
+    pov_override: mei
+    pov_notes: >
+      Mei is observing Jace through the secure-area glass at the drone center.
+      She is assessing him — professional interest, no warmth yet.
+      Clinical, controlled interiority. She notes his HUD, his posture, his
+      reaction to the facility. She flags him to Sylvester before the chapter ends.
+    overwrite: true
+    note: "Mei POV variant of ch002 — the other side of the glass"
+
+  - id: gen_book01_ch004_mei_pov
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch004
+    render_profile: standard
+    pov_override: mei
+    pov_notes: >
+      Mei is watching (from a distance, not in the room) as the aftermath of
+      Jace's diagnosis plays out. She has a file on him. She's seen this before.
+      Her interiority is analytical — is he useful now, is he broken, will he adapt?
+      She doesn't feel pity. She notes the corridor walk duration as data.
+    overwrite: true
+    note: "Mei POV variant of ch004 — the analyst watching the collapse"
+
+  # ── TONE VARIANTS ───────────────────────────────────────────
+
+  - id: gen_book01_ch004_horror
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch004
+    render_profile: horror_variant
+    overwrite: true
+    note: "Horror variant of ch004 — the diagnosis as body horror"
+
+  - id: gen_book01_ch006_horror
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch006
+    render_profile: horror_variant
+    overwrite: true
+    note: "Horror variant of ch006 — the dog farm as something darker"
+
+  # ── AUDIOBOOK EXPORTS ────────────────────────────────────────
+
+  - id: gen_book01_ch001_audiobook
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch001
+    render_profile: audiobook_standard
+    overwrite: true
+    note: "Audiobook annotated version of ch001"
+
+  - id: gen_book01_ch004_audiobook
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch004
+    render_profile: audiobook_standard
+    overwrite: true
+    note: "Audiobook version of ch004 — the diagnosis scene"
+
+  # ── GRAPHIC NOVEL ────────────────────────────────────────────
+
+  - id: gen_book01_ch001_gn
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch001
+    render_profile: graphic_novel
+    overwrite: true
+    note: "Graphic novel script — ch001 Descent. Mars arrival as visual spectacle."
+
+  - id: gen_book01_ch006_gn
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch006
+    render_profile: graphic_novel
+    overwrite: true
+    note: "Graphic novel script — ch006. The Cerberus naming as a splash page."
+
+  # ── KIDS VARIANT ─────────────────────────────────────────────
+
+  - id: gen_book01_ch001_kids
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch001
+    render_profile: kids_variant
+    overwrite: true
+    note: "Young reader variant — ch001"
+
+  - id: gen_book01_ch006_kids
+    enabled: false
+    kind: chapter_draft
+    chapter_id: ch006
+    render_profile: kids_variant
+    overwrite: true
+    note: "Young reader variant — ch006. Cerberus is perfect for this audience."
+
+  # ── STATUS REPORT ────────────────────────────────────────────
+
+  - id: gen_status_report
+    enabled: false
+    kind: status_report
+    note: "Regenerate dashboard and gap report"

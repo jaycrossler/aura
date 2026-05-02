@@ -75,7 +75,7 @@ Ferries are not standardized; each shipment is configured for its specific desti
 - **Infrastructure-primary class.** Heavy on shipping containers and prefabricated modules. Smaller livestock complement. Used for major construction pushes.
 - **Settler-primary class.** Heavy on human accommodation; carries 30–60 settlers in addition to crew. Limited animal complement.
 
-Jace's ferry is a livestock-primary class with a settler complement of approximately 20–30, plus the working crew. (Specific ship to be developed in `/ships/ship_TBD_jace_ferry.md`.)
+Jace's ferry is a livestock-primary class with a settler complement of approximately 20–30, plus the working crew. (Specific ship to be developed in `/ships/ship_falcon.md`.)
 
 ## Risks
 

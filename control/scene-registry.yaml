@@ -1,0 +1,375 @@
+book: book01
+# ============================================================
+# SCENE REGISTRY — source of truth for scene identity
+# Order here does NOT define narrative order.
+# Narrative order is defined in story-structure.yaml.
+# To insert a new scene, add it here with a new stable id,
+# then place it in story-structure.yaml at the desired position.
+# ============================================================
+
+scenes:
+
+  # ── DAY OF ARRIVAL ──────────────────────────────────────────
+
+  - id: jace_shuttle_descent
+    title: "Shuttle descent and pickup"
+    source_file: "knowledge/scenes/event_jace_mars_tour_with_rich.md"
+    pov: jace
+    timeline_anchor: "Day 1 ~14:00 MST"
+    timeline_day: 1
+    arc: arrival
+    characters: [jace, rich_cullivan]
+    location: mars_landing_pad
+    tags: [arrival, rich, mars-geography, first-breath, military]
+    status: pre-draft
+    notes: >
+      Rich meets Jace at the landing pad. First breath of Mars air through recycled filters.
+      Establish the physical reality of Mars immediately — weight, light angle, dome horizon.
+
+  - id: jace_rover_tour
+    title: "The rover tour through the U.S. settlement"
+    source_file: "knowledge/scenes/event_jace_mars_tour_with_rich.md"
+    pov: jace
+    timeline_anchor: "Day 1 ~14:30 MST"
+    timeline_day: 1
+    arc: arrival
+    characters: [jace, rich_cullivan]
+    location: mars_settlement_roads
+    tags: [arrival, rich, mars-geography, hud, fiscal-naivete]
+    status: pre-draft
+    notes: >
+      Rich drives Jace through the U.S. settlement. Mars geography established through
+      the windshield. The HUD-and-fiscal-naïveté conversation happens here.
+      Jace is excited, confident, slightly overwhelmed.
+
+  - id: jace_drone_center_tour
+    title: "The drone control center tour"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Day 1 ~16:00 MST"
+    timeline_day: 1
+    arc: arrival
+    characters: [jace, rich_cullivan, mei, mr_sylvester]
+    location: mars_drone_control_center
+    tags: [arrival, drone-ops, mei-first-glimpse, sylvester-first-glimpse, wonder]
+    status: sketch
+    notes: >
+      Vast facility. Jace genuinely thrilled. Through a secure-area window, Jace
+      notices Mei and Mr. Sylvester in meeting with the base commander. He files them
+      away without knowing why. This is the quiet foreshadow of ch007.
+
+  - id: jace_commander_welcome
+    title: "The base commander welcome"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Day 1 ~17:30 MST"
+    timeline_day: 1
+    arc: arrival
+    characters: [jace, base_commander]
+    location: mars_detachment_command
+    tags: [arrival, belt-anomalies-first-mention, military, tone-warm]
+    status: sketch
+    notes: >
+      Brief. Warm. Commander mentions belt anomalies as a background concern —
+      routine briefing, not alarm. Tells Jace he starts tomorrow after final medical checkout.
+      Jace hears "belt anomalies" and files it under "not my problem yet."
+
+  - id: jace_gym_session
+    title: "The gym session"
+    source_file: "knowledge/scenes/event_jace_gym_arrival.md"
+    pov: jace
+    timeline_anchor: "Day 1 ~20:00 MST"
+    timeline_day: 1
+    arc: arrival
+    characters: [jace, unnamed_woman]
+    location: mars_base_gym
+    tags: [gym, confidence-peak, mars-adjusted-bodies, brief-flirtation]
+    status: pre-draft
+    notes: >
+      Jace at peak physical confidence in a room of Mars-adjusted bodies — thinner,
+      longer, adapted. Brief flirtation with a young woman: eye contact, smile, no
+      conversation. Reader should feel Jace's sense of invincibility here.
+      This is his ceiling before the floor drops.
+
+  - id: jace_messages_home
+    title: "The messages home"
+    source_file: "knowledge/scenes/event_jace_messages_home.md"
+    pov: jace
+    timeline_anchor: "Day 1 ~22:00 MST"
+    timeline_day: 1
+    arc: arrival
+    characters: [jace, dawn_grant, chris_grant, athena_grant, artemis_grant]
+    location: jace_quarters
+    tags: [family, video-calls, artemis-failed-call, warmth, anchor]
+    status: pre-draft
+    notes: >
+      Family video calls — Dawn and Chris in Virginia, Athena at college.
+      Failed call to Artemis at Odysseus. Comms degraded. Small seed of unease.
+      Reader meets the Grant family as a real anchor before it's severed.
+
+  - id: jace_quarters_window
+    title: "Closing image — the quarters window"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Day 1 ~23:30 MST"
+    timeline_day: 1
+    arc: arrival
+    characters: [jace]
+    location: jace_quarters
+    tags: [closing-image, supernova, sleep, confidence]
+    status: sketch
+    notes: >
+      Jace at his quarters window. Supernova bright on the horizon — beautiful,
+      not yet ominous. He sleeps well. Last untroubled sleep for a long time.
+
+  # ── DAY TWO — THE MEDICAL CHECKOUT ──────────────────────────
+
+  - id: jace_doctors_appointment
+    title: "The doctor's appointment"
+    source_file: "knowledge/scenes/event_jace_doctor_appointment.md"
+    pov: jace
+    timeline_anchor: "Day 2 ~09:00 MST"
+    timeline_day: 2
+    arc: collapse
+    characters: [jace, doctor]
+    location: mars_medical_bay
+    tags: [pivot, bone-disease, hud-deactivated, debt, act-one-break]
+    status: pre-draft
+    notes: >
+      THE structural pivot. Bone disease diagnosis: Mars-okay, Earth-no. Athena
+      cleared (small mercy). Artemis screening blocked by degraded comms. HUD
+      deactivated. One million credit debt. Thirty days to vacate.
+      This scene should be slow. Clinical. The horror is procedural.
+
+  - id: jace_corridor_walk
+    title: "Walk back through the base"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Day 2 ~10:30 MST"
+    timeline_day: 2
+    arc: collapse
+    characters: [jace]
+    location: mars_base_corridors
+    tags: [aftermath, silence, dissociation, grief]
+    status: sketch
+    notes: >
+      Ninety minutes of corridor walking before he reaches his quarters.
+      No dialogue. Pure interiority. This is where the reader lives inside
+      the collapse — not the announcement, but the walk after it.
+
+  # ── THE HARD MONTHS (COMPRESSED SEQUENCE) ───────────────────
+
+  - id: jace_menial_labor_montage
+    title: "Menial labor montage"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Months 1-3 (compressed)"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace]
+    location: various_mars_facilities
+    tags: [montage, degradation, weight-loss, compression, present-tense]
+    status: sketch
+    notes: >
+      Jace cycles through degrading gigs. Loses weight. Daily exercise drops.
+      Suggest present-tense montage prose — staccato, list-like, rhythmic.
+      The indignity of competence in an irrelevant context.
+
+  - id: jace_bar_first_visit
+    title: "First bar visit — The Long Burn"
+    source_file: "knowledge/scenes/event_jace_bar_rumors.md"
+    pov: jace
+    timeline_anchor: "Month 1 approx"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace, bar_patrons, the_rat]
+    location: the_long_burn_bar
+    tags: [bar, belt-anomalies, rumors, the-rat-background, foreshadow]
+    status: pre-draft
+    notes: >
+      First taste of the rumor field around belt anomalies. The Rat visible in
+      the background — not yet introduced, just registered. A face in a crowd
+      that will matter later. Rumor texture established: fragmentary, denied,
+      spreading anyway.
+
+  - id: jace_bar_recurring_visits
+    title: "Recurring bar visits — rumors evolve"
+    source_file: "knowledge/scenes/event_jace_bar_rumors.md"
+    pov: jace
+    timeline_anchor: "Months 1-4 (2-3 scenes compressed)"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace, various_patrons, supply_merchant]
+    location: the_long_burn_bar
+    tags: [bar, belt-anomalies-escalating, censorship, supply-chain, time-passing]
+    status: sketch
+    notes: >
+      Two or three additional scenes across the months. Rumors evolve — escalate.
+      Supply-chain merchant venting about missing shipments. Censorship effects
+      becoming felt: topics that were discussable two months ago are now quietly off-limits.
+
+  - id: jace_artemis_calls
+    title: "The Artemis calls (patchy)"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Months 2-4 (recurring)"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace, artemis_grant]
+    location: jace_quarters
+    tags: [artemis, family, comms-degraded, 50000-credits, package-request]
+    status: sketch
+    notes: >
+      Patchy connections. Artemis sends 50,000 credits and asks Jace to deliver
+      a package. She sounds slightly different — something in her word choices.
+      Jace doesn't name it yet.
+
+  - id: jace_package_delivery
+    title: "Package delivery to the Rat"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Month 4 approx"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace, the_rat]
+    location: mars_launch_facility
+    tags: [the-rat, package, transaction, brief, the-rat-files-jace]
+    status: sketch
+    notes: >
+      Launch facility. Brief. The Rat takes the package without comment.
+      Pays Jace. Files him — records him — in a way Jace doesn't notice
+      but the reader might. Short scene. Maximum economy.
+
+  - id: jace_rat_emergency_dropout
+    title: "Emergency dropout — the Rat flags Jace for the slot"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Month 4 approx"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace, the_rat]
+    location: various
+    tags: [the-rat, recruitment, animal-handling-cert, pivot-up]
+    status: sketch
+    notes: >
+      The Rat reaches out. Someone dropped from a slot. Crash
+      animal-handling certification begins. Jace doesn't ask too many questions.
+
+  - id: jace_dog_pen_scene
+    title: "The dog pen scene"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Month 4 during certification"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace, cerberus, mother_dog]
+    location: mars_livestock_farm
+    tags: [cerberus, chosen-family, greek-myth-thread, naming, tenderness]
+    status: sketch
+    notes: >
+      During certification, Jace cleans pens at the livestock farm. Meets the
+      mother dog and her puppies. Learns the family will be separated. Names
+      the boy puppy Cerberus on the walk back. The Greek-myth naming thread
+      pays off here: Apollo → Artemis → Athena → Cerberus. The reader
+      should notice before Jace does.
+
+  - id: jace_mei_recognition_cutoff
+    title: "The Mei recognition cutoff"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Month 4 during certification"
+    timeline_day: null
+    arc: hard-months
+    characters: [jace, mei]
+    location: mars_livestock_farm
+    tags: [mei, cover-identity, flat-look, foreshadow]
+    status: sketch
+    notes: >
+      During certification, Jace re-encounters Mei in farmer cover. Recognizes
+      her from the secure-area window on Day 1. Tries to acknowledge; she shuts
+      him down with a flat look. The look says: you don't know me. He accepts it.
+
+  # ── THE DEALS ────────────────────────────────────────────────
+
+  - id: jace_origin_negotiation
+    title: "The Origin Industries negotiation"
+    source_file: "knowledge/scenes/event_jace_origin_negotiation.md"
+    pov: jace
+    timeline_anchor: "Month 4 late"
+    timeline_day: null
+    arc: the-deals
+    characters: [jace, origin_rep, origin_reps_boss]
+    location: origin_industries_office
+    tags: [origin-industries, negotiation, hud-deactivated, cerberus-manifest, corporate]
+    status: pre-draft
+    notes: >
+      Without his HUD, Jace negotiates poorly — can't read microexpressions,
+      can't run parallel context. Cerberus added to the manifest at significant cost.
+      Tag scene with Origin rep's boss: "that's probably the most expensive dog
+      in human history." The only scene with a non-Jace POV tag in early book.
+      Two paragraphs max from Origin rep's boss perspective. Deliberate cruelty.
+
+  - id: jace_sylvester_recruitment
+    title: "The Sylvester recruitment"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Month 4 late (after Origin)"
+    timeline_day: null
+    arc: the-deals
+    characters: [jace, mei, mr_sylvester]
+    location: undisclosed_location
+    tags: [mei, sylvester, hud-reactivation, contractor-mode, second-offer, intelligence]
+    status: sketch
+    notes: >
+      Mei and Sylvester approach Jace. HUD reactivation in civilian-contractor
+      mode + supplemental debt payments in exchange for occasional assistance
+      to Mei. Jace accepts. The second offer that helps him digest the first.
+      This is the deal that shapes the rest of the book.
+
+  # ── DEPARTURE ────────────────────────────────────────────────
+
+  - id: jace_family_farewell_calls
+    title: "Family farewell calls"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Departure Eve"
+    timeline_day: null
+    arc: departure
+    characters: [jace, dawn_grant, chris_grant, athena_grant, artemis_grant]
+    location: jace_quarters
+    tags: [family, farewell, artemis-sounds-different, degraded-comms]
+    status: sketch
+    notes: >
+      Brief, degraded contact. She sounds different. Not wrong — different.
+      Jace can't put language on it. The reader might.
+
+  - id: jace_boarding_falcon
+    title: "Boarding the Falcon"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Departure Day ~08:00 MST"
+    timeline_day: null
+    arc: departure
+    characters: [jace, cerberus, settlers, crew]
+    location: mars_launch_facility_falcon
+    tags: [departure, falcon, cerberus, settlers, mars-dome-glass]
+    status: sketch
+    notes: >
+      Jace, Cerberus, 28 settlers, 6 other crew. Mars below the dome glass.
+      The pig-cam era begins. Jace holds Cerberus and watches Mars recede.
+
+  - id: jace_departure_burn
+    title: "Departure burn — Mars recedes"
+    source_file: null
+    pov: jace
+    timeline_anchor: "Departure Day ~08:45 MST"
+    timeline_day: null
+    arc: departure
+    characters: [jace, cerberus]
+    location: falcon_ship_interior
+    tags: [nuclear-thrust, mars-receding, pig-cam, transition, closing-image]
+    status: sketch
+    notes: >
+      Nuclear thrust. Mars recedes. The pig-cam era begins. Last image of
+      this sequence before the Falcon transit arc takes over and stresses
+      everything Jace has been given reason to trust.

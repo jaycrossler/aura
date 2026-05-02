@@ -1,0 +1,125 @@
+profiles:
+
+  - id: standard
+    label: "Standard Prose"
+    voice_style: >
+      Grounded hard-sci-fi with restrained lyricism. Third-person intimate, deep inside
+      a single POV's sensory and emotional experience. Emotionally precise beats.
+      Scientific plausibility is sacred. Continuity-safe references only.
+    tone_variant: standard
+    format: prose
+    content_filter: standard
+    focus: narrative
+    pacing_guidance: follow_chapter_definition
+
+  - id: horror_variant
+    label: "Horror / Dread Variant"
+    voice_style: >
+      Same intimate third-person as standard, but dread-forward. Amplify the body-horror
+      implications of the science — bone density loss, oxygen ratios, medical procedures.
+      Silence becomes threatening. The familiar becomes uncanny. Physiological details
+      that were texture in standard prose become weight-bearing here.
+    tone_variant: horror
+    format: prose
+    content_filter: standard
+    focus: dread
+    pacing_guidance: slow_down_horror_beats
+    guidance_notes: >
+      Do not add monsters or supernatural elements. The horror is already in the science.
+      Jace's bone disease is body horror. The corridor walk is psychological horror.
+      Find the dread already present; amplify it.
+
+  - id: kids_variant
+    label: "Young Reader Variant"
+    voice_style: >
+      Wonder-forward, accessible prose aimed at middle-grade readers (ages 10-13).
+      Retain the Greek myth naming thread and Cerberus — these are gold for this audience.
+      Simplify technical language. Remove explicit debt mechanics and adult stakes.
+      Jace's confidence and subsequent disappointment are still present but softened.
+      Mars should feel magical as well as real.
+    tone_variant: clean
+    format: prose
+    content_filter: kids
+    focus: wonder
+    pacing_guidance: lighter_compression
+    guidance_notes: >
+      Keep Cerberus. Keep the family calls. Keep Mei as a mysterious figure.
+      Remove: explicit medical horror, the HUD debt mechanics, anything that reads
+      as adult failure. Jace is disappointed, not broken.
+
+  - id: nsfw
+    label: "Adult / Unrestricted Variant"
+    voice_style: >
+      Same core hard-sci-fi intimate voice as standard. Adult content permitted
+      where dramatically appropriate and character-consistent. The gym scene and
+      bar scenes have more latitude. Medical realism can be more explicit.
+      Jace's interiority in the corridor walk can go darker.
+    tone_variant: adult
+    format: prose
+    content_filter: none
+    focus: narrative
+    pacing_guidance: follow_chapter_definition
+
+  - id: audiobook_standard
+    label: "Audiobook — Standard"
+    voice_style: >
+      Same prose as standard, annotated for audio performance. Include SSML-style
+      hints for narrator pacing, character voice differentiation, pause placement,
+      and volume dynamics. Each character should have a distinct rhythm and register.
+      Jace: measured, slightly dry. Mei: controlled, economical. Rich: warmth with edge.
+    tone_variant: standard
+    format: audiobook
+    content_filter: standard
+    focus: performance
+    pacing_guidance: follow_chapter_definition
+    voice_cast_notes:
+      jace: "Measured, dry wit, increasing tension over the arc. Mid range."
+      mei: "Minimal words, each precise. Slightly lower. Pauses before answers."
+      rich: "Warm, slightly faster, comfortable with silence. Friendly authority."
+      the_rat: "Deliberate, soft. Doesn't perform threat — is it."
+      mr_sylvester: "Older, formal cadence. Intelligence behind warmth."
+
+  - id: audiobook_action
+    label: "Audiobook — Action Focus"
+    voice_style: >
+      Present-tense, sensory-forward prose optimized for audio during action sequences.
+      Short sentences during movement. Longer breath during emotional weight.
+      Written for a single narrator who modulates performance rather than cast voices.
+      Strip internal monologue during physical beats — show through action.
+    tone_variant: standard
+    format: audiobook
+    content_filter: standard
+    focus: action
+    pacing_guidance: fast_action_slow_weight
+
+  - id: graphic_novel
+    label: "Graphic Novel Script"
+    voice_style: >
+      Convert prose into panel-by-panel graphic novel script format. Each beat becomes
+      a page or page spread. Each emotional moment is a panel. Dialogue balloons are
+      minimal — use visual composition to carry what prose does with internal monologue.
+      Mars should be visually spectacular. The drone center is a two-page spread.
+      The corridor walk after the diagnosis: nine panels, no dialogue, no captions.
+    tone_variant: standard
+    format: graphic_novel
+    content_filter: standard
+    focus: visual
+    pacing_guidance: follow_chapter_definition
+    panel_guidance: >
+      Favor wide establishing shots at scene openings. Push in on faces for dialogue.
+      Extreme close-up for emotional pivot moments (the diagnosis, the dog naming).
+      The Mei flat-look cutoff: one panel, full bleed, her eyes only.
+
+  - id: animation_storyboard
+    label: "Animation / Storyboard Notes"
+    voice_style: >
+      Produce storyboard-level notes with camera directions, scene transitions,
+      character blocking, and suggested musical cues. Include visual metaphor
+      suggestions (e.g., the dome glass as literal framing of Mars as unattainable).
+      Each scene gets: establishing shot, key frames, emotional climax frame,
+      transition note.
+    tone_variant: standard
+    format: animation_storyboard
+    content_filter: standard
+    focus: visual
+    pacing_guidance: follow_chapter_definition

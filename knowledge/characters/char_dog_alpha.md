@@ -2,7 +2,7 @@
 ---
 # Identity
 id: char_dog_alpha
-name: [TBD — "Saga" placeholder]
+name: ["Cerberus", "Cerb", "Cerbi"]
 aliases: ["Jace's dog", "the lead dog"]
 species: canine (Mars-bred, low-G adapted hybrid)
 breed_lineage: pug × terrier × small working-breed cross (engineered for low-G habitat)

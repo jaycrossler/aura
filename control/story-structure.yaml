@@ -1,0 +1,181 @@
+book: book01
+structure_file_version: 1
+scene_registry: control/scene-registry.yaml
+render_profiles: control/render-profiles.yaml
+
+# ============================================================
+# STORY STRUCTURE — defines chapter order, scene assignment,
+# pacing, POV, and tone for each chapter.
+#
+# To move a scene between chapters: edit the `scenes` list
+# on the relevant chapters. The scene's content is unaffected.
+# To reorder within a chapter: reorder the scene_id list.
+# To add a new scene: first register it in scene-registry.yaml,
+# then add its id here.
+# ============================================================
+
+chapters:
+
+  - id: ch001
+    title: "Descent"
+    subtitle: "Day 1 — Landing through the settlement tour"
+    pov_default: jace
+    timeline_span: "Day 1, ~14:00–15:30 MST"
+    arc: arrival
+    tone_notes: >
+      Expansive, confident, wonder-forward. The reader needs to be inside Jace's
+      certainty before the floor drops. Mars should feel real and tactile —
+      gravity, filtered air, dome-edge horizon — not a backdrop. Jace is decorated,
+      excited, certain of his future.
+    pacing: expansive
+    target_word_count: 3500
+    scenes:
+      - jace_shuttle_descent
+      - jace_rover_tour
+
+  - id: ch002
+    title: "The Facility"
+    subtitle: "Day 1 — The drone center and the commander"
+    pov_default: jace
+    timeline_span: "Day 1, ~16:00–18:00 MST"
+    arc: arrival
+    tone_notes: >
+      Scale and wonder at the drone facility. Jace thrilled by his future workplace.
+      The key beat: through secure glass, he spots Mei and Sylvester.
+      He doesn't know why this registers. The reader should sense it before he does.
+      Commander's belt-anomaly mention should feel like background texture, not alarm.
+    pacing: expansive
+    target_word_count: 2400
+    scenes:
+      - jace_drone_center_tour
+      - jace_commander_welcome
+
+  - id: ch003
+    title: "First Night"
+    subtitle: "Day 1 — Evening and the messages home"
+    pov_default: jace
+    timeline_span: "Day 1, ~20:00–23:30 MST"
+    arc: arrival
+    tone_notes: >
+      Peak physical confidence at the gym. The warmth of family contact.
+      The small failure of the Artemis call plants a seed the reader notices
+      but Jace doesn't name. The chapter closes on a window and a supernova —
+      the last untroubled sleep. Earn this peace. The reader needs to feel it.
+    pacing: warm
+    target_word_count: 2200
+    scenes:
+      - jace_gym_session
+      - jace_messages_home
+      - jace_quarters_window
+
+  - id: ch004
+    title: "The Appointment"
+    subtitle: "Day 2 — The pivot"
+    pov_default: jace
+    timeline_span: "Day 2, ~09:00–12:00 MST"
+    arc: collapse
+    tone_notes: >
+      Slow. Clinical. The horror is procedural, not dramatic. The doctor does not
+      emote. The paperwork is efficient. The corridor walk after is pure interiority —
+      no dialogue, just Jace and ninety minutes of Mars infrastructure.
+      This is the Act One break. Let it land. Do not rush it. Do not soften it.
+    pacing: slow
+    target_word_count: 2600
+    scenes:
+      - jace_doctors_appointment
+      - jace_corridor_walk
+
+  - id: ch005
+    title: "Hard Months — Falling"
+    subtitle: "Months 1–3 compressed"
+    pov_default: jace
+    timeline_span: "Months 1–3 (compressed/montage)"
+    arc: hard-months
+    tone_notes: >
+      Controlled compression. Present-tense montage for the labor sequence —
+      staccato, list-like, rhythmic. The bar scenes anchor specific moments in
+      the passage of time. Rumors escalate. Censorship effects become felt.
+      The Rat is a background figure Jace keeps seeing and not understanding.
+      The Artemis call plants the seed of the package.
+    pacing: compressed
+    target_word_count: 3200
+    scenes:
+      - jace_menial_labor_montage
+      - jace_bar_first_visit
+      - jace_bar_recurring_visits
+      - jace_artemis_calls
+
+  - id: ch006
+    title: "Hard Months — Rising"
+    subtitle: "Month 4 — Certification and strange encounters"
+    pov_default: jace
+    timeline_span: "Month 4, certification period"
+    arc: hard-months
+    tone_notes: >
+      The energy shifts from falling to something more purposeful, even if Jace
+      doesn't fully understand why yet. The Rat scene: maximum economy. The dog
+      pen scene: slow and tender. The Mei cutoff: brief and cold.
+      The Greek-myth thread pays off in the Cerberus naming — let it land quietly.
+      The reader should notice the pattern (Apollo, Artemis, Athena, Cerberus)
+      before Jace registers it.
+    pacing: mixed
+    target_word_count: 3000
+    scenes:
+      - jace_package_delivery
+      - jace_rat_emergency_dropout
+      - jace_dog_pen_scene
+      - jace_mei_recognition_cutoff
+
+  - id: ch007
+    title: "The Deals"
+    subtitle: "Month 4 late — Two offers that change everything"
+    pov_default: jace
+    timeline_span: "Month 4, late"
+    arc: the-deals
+    tone_notes: >
+      Both deals should feel slow — these are decisions that matter and the prose
+      should give them room. The Origin negotiation: Jace without his HUD,
+      negotiating poorly, Cerberus added at absurd cost. The tag scene from the
+      Origin rep's boss POV (two paragraphs only — the only non-Jace POV in the
+      early book; a deliberate cruelty). The Sylvester scene: the second offer
+      that helps Jace absorb the first.
+    pacing: deliberate
+    target_word_count: 3500
+    pov_exceptions:
+      - scene_id: jace_origin_negotiation
+        tag_pov: origin_reps_boss
+        tag_length: "2 paragraphs max"
+    scenes:
+      - jace_origin_negotiation
+      - jace_sylvester_recruitment
+
+  - id: ch008
+    title: "Departure"
+    subtitle: "Departure day — Boarding the Falcon"
+    pov_default: jace
+    timeline_span: "Departure day"
+    arc: departure
+    tone_notes: >
+      The farewell calls: brief, degraded, Artemis sounds different. Don't name
+      what's different — just register it. The boarding: Jace, Cerberus, 28
+      settlers, dome glass below. The departure burn: nuclear thrust, Mars
+      receding. The last image of this sequence should land as both ending and
+      threshold. The Falcon transit arc starts on the next page and inherits
+      everything this sequence established.
+    pacing: deliberate
+    target_word_count: 2200
+    scenes:
+      - jace_family_farewell_calls
+      - jace_boarding_falcon
+      - jace_departure_burn
+
+# ── OPEN SEQUENCING NOTES ────────────────────────────────────
+# Scenes that have unresolved placement questions:
+# - jace_gym_session: currently ch003 (evening Day 1). Could move to
+#   morning of Day 2 (before doctor's appointment) if pacing calls for it.
+# - jace_bar_first_visit vs jace_package_delivery: The Rat should be
+#   glimpsed at the bar before the formal introduction at the launch
+#   facility. Current structure does this (ch005 bar before ch006 delivery).
+# - jace_origin_negotiation / jace_sylvester_recruitment order:
+#   Origin first, Sylvester after — this is intentional. The Sylvester
+#   deal is the second offer that helps Jace digest the first.

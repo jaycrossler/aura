@@ -30,6 +30,7 @@ dist/
 .eggs/
 
 # Secrets / API keys / local env files
+.vscode/launch.json
 .env
 .env.*
 *.env

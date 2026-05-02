@@ -19,7 +19,6 @@ pov_character: false
 # Affiliations
 factions: [faction_united_states_mars]
 loyalties: [his family on Earth, his unit, the chain of command]
-former_affiliations: [TBD]
 
 # Relationships
 family: [wife and two children on Earth — names TBD]

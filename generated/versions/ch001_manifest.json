@@ -1,0 +1,25 @@
+{
+  "chapter_id": "ch001",
+  "versions": [
+    {
+      "version_num": 1,
+      "chapter_id": "ch001",
+      "file_path": "generated\\drafts\\ch001\\v001.md",
+      "meta_path": "generated\\drafts\\ch001\\v001.meta.json",
+      "generated_at": "2026-05-02T18:46:26.163847+00:00",
+      "queue_item_id": "gen_book01_ch001_standard_v1",
+      "render_profile_id": "standard",
+      "pov": "jace",
+      "format": "prose",
+      "pass_type": "raw_draft",
+      "source_hash": "87d5d4525763",
+      "word_count": 1120,
+      "beat_count": 2,
+      "note": "First standard pass \u2014 Descent"
+    }
+  ],
+  "latest_version": 1,
+  "latest_file": "generated\\drafts\\ch001\\v001.md",
+  "latest_pass_type": "raw_draft",
+  "latest_word_count": 1120
+}
