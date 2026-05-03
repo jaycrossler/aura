@@ -306,8 +306,9 @@ The scene moves through four distinct spaces.
 4. **Message 1:** From his mother Dawn — short video, 30 seconds. She's sitting in their Virginia kitchen. "Hi sweetheart, just checking in. We saw the *Pinta* landed safely. We're so proud of you. Dad says hi. Call us when you can." Jace smiles.
 5. **Message 2:** From his sister Athena — also short. She's in her dorm room at college. "Apollo! How's Mars? Send pics! I want to see everything! Tell Artemis I miss her too — I haven't been able to reach her either." Jace's smile fades slightly at the Artemis mention.
 6. Jace decides to record reply messages while running
-7. **Records to Dawn:** "Hi Mom. Made it safely. Mars is incredible. The base is amazing. I love it here. I miss you guys. Tell Dad I love him. I'll call when I can — comms are weird up here, lots of latency, but I'll figure it out. Love you."
-8. **Records to Athena:** "Athena! Yeah, Mars is wild. I'll send pics later — I just got here. Working out at the gym now. The gravity's weird but I'm adjusting. Love you, sis. Don't worry about Artemis — comms to Odysseus are tough. I'll try her next."
+7. **Records to Dawn:** "Hi Mom. Made it safely. Mars is incredible. The base is bigger than I expected. How's Jelly? Tell me she's still chasing the geese off the pasture. And how's Jinx? Dad still riding him at sunset? I miss you guys."
+ **To Chris (father):** *"Dad. Made it. Base is great. I want to hear about the farm — how's Jinx doing? Send me a picture of him? I'll give you a real call this weekend."
+8. **Records to Athena:** "Sis! Yeah, Mars is wild. Tell Mom I'm eating. Give Jelly a scratch behind the ears for me. Love you."
 9. **Tries to record/send to Artemis:** Records a message — "Hey big sis. Just wanted to let you know I made it safely. Mars is amazing. Hope Odysseus is treating you well. Send me a message when you can — I want to hear about everything. Love you."
 10. **The send fails:** HUD displays an error — "Message not delivered. Recipient unreachable. Retry?"
 11. Jace tries again. Same error.
@@ -328,6 +329,7 @@ The scene moves through four distinct spaces.
 **Action:**
 1. Jace finishes workout, sweaty, exhausted in a satisfied way
 2. Walks back to apartment (faster this time — he knows the route now)
+2a. Replies come back from Dawn and Chris — Jelly is fine, sleeping in the barn, still pretending to be too old to chase the geese (she's not). Jinx is fine — slow on cold mornings but cantering well in the afternoon. Chris attached a short clip of Jinx in the south pasture. Jace watches it twice.
 3. **Major grooming sequence:**
    - Long shower
    - Careful shave

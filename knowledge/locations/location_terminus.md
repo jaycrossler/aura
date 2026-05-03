@@ -38,6 +38,8 @@ Terminus is a city of contrasts. Parts of the settlement are 60 to 80 years old,
 
 Citizens of Terminus are tracked relentlessly. Every breath of air and drop of water is metered. The streets and tunnels are filled with a mix of towering, low-gravity-adapted Mars-born citizens, Earth-born immigrants struggling with the timeslip, and thousands of robotic assistants polishing, fixing, and cleaning the omnipresent red dust.
 
+Beyond the strictly utilitarian, Terminus contains a number of specialty domes built for cultural and emotional value as much as for production. The Coffee Tree Dome cultivates the famously expensive Mars coffee in conditions tuned for the trees — warmer, with a slightly altered atmospheric mix. The Bird Dome runs at higher air pressure and is built tall to give its birds room to fly; entry is 100 credits per person, geese hatch on a year-round livestream that draws millions of viewers, and the dome is a small but durable bright spot in Mars cultural life. These domes are part of why, despite the planet's harshness, Terminus feels like a place people want to stay.
+
 
 ---
 
@@ -108,6 +110,9 @@ The sensory experience of Terminus varies sharply by zone, but these qualities p
 | Mars livestock farm | Underground, Level 2–3 | Cerberus; animal handling certification |
 | Origin Industries office | Above ground | ch007 negotiation |
 | Launch facility (Falcon) | Perimeter, above ground | Departure; dome glass view of Mars |
+| Coffee Tree Dome | Above ground, agricultural cluster | Specialty atmospheric conditions; Mars coffee cultivation; Rich's favorite stop on tours |
+| Bird Dome | Above ground, agricultural / recreation cluster | Higher atmospheric pressure for bird flight; fake lake; geese, ducks, songbirds; 100-credit entry; home of Mars Goose Cam |
+| Mars Dog Breeder Facility | Above ground, agricultural / animal-husbandry division | Site of the Mars dog breeding program (~30 years of selection, herding × pug); where Jace meets Cerberus's family during the hard months |
 
 ---
 

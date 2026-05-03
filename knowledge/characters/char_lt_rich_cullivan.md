@@ -50,7 +50,7 @@ related_events: [event_jace_mars_tour_with_rich]
 
 ## Summary
 
-Lt. Rich Cullivan is the Air Force officer assigned as Jace's sponsor when Jace arrives on Mars. He is one of only a handful of LTs stationed at the U.S. Air Force Mars Detachment, and he is in charge of the military's communications gear — satellites, deep-space relays, signal infrastructure. He is married, has two young children on Earth, and is approximately a year ahead of Jace on the same career track. He picks Jace up at arrival, drives him around the Mars base, and serves as his window into Mars before the routine of duty takes over.
+Lt. Rich Cullivan is the Air Force officer assigned as Jace's sponsor when Jace arrives on Mars. He is one of only a handful of LTs stationed at the U.S. Air Force Mars Detachment, and he is in charge of the military's communications gear — satellites, deep-space relays, signal infrastructure. He is married to a woman who teaches school in their hometown, and they have **three children** — all young, all growing up while he is away. He is approximately two years ahead of Jace on the same career track - with two years left on his Mars tour. He picks Jace up at arrival, drives him around the Mars base, and serves as his window into Mars before the routine of duty takes over.
 
 He is the grounded counterpoint to Jace's golden-boy enthusiasm. Where Jace is single, debt-loaded, and confidently spending future bonuses on present luxuries, Rich is married, fiscally careful, and quietly aware of how much of his career goes to supporting people he rarely sees. He likes Jace. He also sees through him.
 
@@ -59,6 +59,13 @@ He is the grounded counterpoint to Jace's golden-boy enthusiasm. Where Jace is s
 Rich came up through ROTC like Jace, took a similar Mars-track posting, and arrived approximately a year before the story opens. His own HUD was activated during his first months on Mars — he remembers the rush of it, the first time the overlay surprised him with information he hadn't asked for. He is now a competent user, no longer awed by the technology, and beginning to notice its limits.
 
 He is married to a woman who teaches school in their hometown, and they have two children — both young, both growing up while he is away. The Mars tour is the financial cornerstone of their family plan. He is acutely aware of every dollar.
+
+Rich is the **lead officer for base IT and communications** on the joint U.S. Air Force / Space Force installation at Terminus. He runs the comms and IT dome — server infrastructure, encrypted military comms, network operations, equipment maintenance. This is operationally important because he has access most personnel do not. His specialty in comms/IT becomes story-critical post-Jace's-discharge, when Rich uses his access to do Jace a careful favor (see `/knowledge/scenes/event_rich_comms_favor.md`).
+
+ Within the base, Rich is well-known and well-liked across both branches. Junior enlisted greet him as "LT" with affection; senior enlisted treat him as a reliable point of contact for comms issues. Air Force colleagues view him as one of their own; Space Force colleagues view him as a fair broker on joint matters. He is well poised to later take a senior role in the Military.
+
+Coworkers describe him as "the guy with the coffee." It is not a joke at his expense — it's a marker of his reliability. If Rich is awake, the comms are running.
+
 
 ## Role in the Story
 
@@ -80,19 +87,27 @@ Rich shakes his head. Jace doesn't notice. The reader sees everything.
 
 This scene establishes Jace's naïveté and love of tech, and quietly foreshadows the financial catastrophe of his discharge — the model he loves will be deactivated within weeks, the bonuses will never come, and the captain's commission will not arrive.
 
+ **Post-discharge support.** After Jace is discharged for the bone disease and stripped of his HUD and military comms, Rich quietly meets him off-base and uses his IT/comms access to do Jace a single significant favor (specific favor TBD — see `/knowledge/scenes/event_rich_comms_favor.md`). This is a defining beat of Rich's character: he risks something professional to help a friend who can no longer help himself. The favor establishes Rich as a model of compassion-with-limits — he helps, but he does not help unconditionally. He has a wife and three kids back on Earth.
+
 ## Personality
 
-**Surface:** Friendly, professional, dryly funny. Comfortable with new arrivals because he has been one. Does not condescend, but does not perform enthusiasm either.
+**Surface:** Friendly, professional, dryly funny. Comfortable with new arrivals because he has been one. Does not condescend, but does not perform enthusiasm either. **Compassion as default.** Rich is genuinely warm. He smiles often — not performatively, but as his baseline expression around people he likes. New arrivals notice this immediately. Subordinates remember it. The smile is not naive; it coexists with his bounded judgment and his quiet observation. When the people around him are struggling, Rich notices, and Rich acts — within the limits he has set for himself.
 
 **Underneath:** Tired in the specific way of a parent serving far from home. Quietly worries about the time he is missing. Sees more than he says.
 
 **Contradictions:** Believes in the mission while resenting some of its costs. Genuinely likes the tech he works with but does not romanticize it. Hopes the people he mentors will avoid the mistakes he has watched others make, while knowing they mostly will not.
+
+**The coffee canister.** Rich carries a large insulated canister of coffee with him almost everywhere — to the drone center, on the tour, at meetings, on the outdoor PT path (in a suit-compatible holster). He drinks from it frequently. The canister is genuinely large; people who haven't met him before sometimes assume it's water until he offers them a sip. It is iconic of him: the man works long hours, sleeps lightly, and runs on coffee. Mars coffee is expensive (see `/knowledge/locations/location_mars_overview.md`) — Rich's commitment to drinking real Mars coffee, in volume, all day, is one of his small luxuries and a signal of how much he is willing to spend on the things that matter to him. He shares freely. Newcomers to the base learn quickly that "Rich's canister" is one of the social institutions of the Air Force side of operations.
+>
+> The canister also signals **mild insomnia**. Rich does not say this out loud, but the people who work with him know he is often awake when he should be sleeping — debugging comms issues, running diagnostics, watching feeds. The coffee is the sustainment.
+
 
 ## Voice and Mannerisms
 
 - **Speech:** Plainspoken, slightly older-brother-ish. Uses fewer acronyms than Jace; talks like an officer who has been around long enough to know when not to.
 - **Body language:** Relaxed posture, but always aware of his HUD overlay. Glances aside reflexively to check messages — a tic Jace doesn't yet have.
 - **With Jace:** Patient. Doesn't lecture. Lets Jace's overconfidence speak for itself and trusts the universe to handle the rest.
+**The coffee canister mannerism.** Rich is rarely without his large insulated coffee canister. He drinks from it during conversation, between sentences, when he is thinking. The pause-and-sip is a recurring beat in his dialogue rhythm — when Rich wants to land something, he often takes a sip first, then says it. When he wants to deflect, he takes a sip and changes the subject. The canister is part of his speech pattern as much as it is part of his appearance. **[STORYBOT]** The canister is well-used: insulated metal, dented in one place from being dropped, with a name patch on it that says either his name, his unit, or something his kids made for him (extrapolate as appropriate).
 
 ## After the Discharge
 

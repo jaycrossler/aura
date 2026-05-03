@@ -21,13 +21,13 @@ This file provides spatial blocking, sensory primers, temporal markers, and beat
 - **Terminal processing:** 03:00–08:00 (medical scan, customs, immigration)
 - **Rich meets Jace:** 08:00 in the Observation Dome
 - **Walking tour begins:** ~08:15
-- **Rover ride to military base:** ~11:00–11:10
-- **Arrival at military base:** 11:10
-- **Lunch with Rich:** ~12:00–13:00
-- **Jace to quarters:** ~13:30
-- **Jace asleep:** ~14:00 (sleeps 18-20 hours)
+- **Rover ride to military base:** ~12:00–12:10
+- **Arrival at military base:** 12:10
+- **Lunch with Rich:** ~13:00–14:00
+- **Jace to quarters:** ~14:30
+- **Jace asleep:** ~15:00 (sleeps 17 hours)
 
-**Total scene duration:** ~5.5 hours of clock time, but text duration likely 4,000-6,000 words. Compress where appropriate; expand the sensory beats and the Rich-Jace dynamic.
+**Total scene duration:** ~6.5 hours of clock time, but text duration likely 4,000-6,000 words. Compress where appropriate; expand the sensory beats and the Rich-Jace dynamic.
 
 **Time-since-last-event:** This is the opening scene of Book 1. Prior scene is implied (the Pinta voyage), not depicted.
 
@@ -70,8 +70,10 @@ The scene moves through six distinct spaces in sequence. Each has its own sensor
   2. Commercial/civic dome (food vendors, shops)
   3. Park dome (large trees, hydroponic greenery)
   4. Algae farm dome (food production, distinctive smell)
-  5. Animal-handling dome (foreshadowing — Jace will work here later)
-  6. Rover garage dome (transition to military base)
+  5. Coffee Tree Dome: As detailed in Patch DD.2. Sensory: warmer air, different atmospheric pressure, faint green-coffee smell, rows of coffee trees, Rich's favorite spot. Time: ~15 minutes.
+  6. Bird Dome: As detailed in Patch DD.3. Sensory: higher air pressure (Jace feels it in his ears), taller dome, fake lake, geese with goslings, real birdsong. 100-credit entry per person; Rich pays. Time: ~20 minutes.
+  7. Animal-handling dome (foreshadowing — Jace will work here later)
+  8. Rover garage dome (transition to military base)
 
 ### Space 5: The Rover (Surface Transit)
 - **Type:** Pressurized surface vehicle, 4-6 person capacity
@@ -282,7 +284,7 @@ This is critical to your worldbuilding — smells *carry* between domes through 
    - Jace: [exhausted but trying to be friendly] "Long. Glad to be off the ship."
    - Rich: [grinning] "Yeah, the *Pinta* gets cramped. Come on, let me show you around before you collapse."
 6. They begin walking — Rich points out the Redwood first
-7. Rich explains: "Eighty years old. Came here as a sapling. We baby it. The whole base celebrates its birthday."
+7. Rich explains: "Eighty years old. Came here as a sapling. We baby it. The whole city celebrates its birthday."
 
 **Jace's state:**
 - Physical: Carrying his helmet, suit half-doffed, exhausted
@@ -307,6 +309,7 @@ This is critical to your worldbuilding — smells *carry* between domes through 
 - Rich: "This is where everyone hangs out. There's good coffee at [shop name — **[STORYBOT]** invent]. You'll need it."
 - **Sensory:** food smells, vendor voices, screens advertising products
 - **Foreshadowing:** Jace will learn how expensive food is the next morning
+- the WiFi/data-hunger exchange, indicating how much Jace missed having good data connectivity and how proud Rich is to keep the networking stable.
 
 **4b. Park dome (~09:00):**
 - Real grass (engineered for Mars), benches, walking paths, trees
@@ -349,6 +352,8 @@ This is critical to your worldbuilding — smells *carry* between domes through 
 - Behavior: Constant pointing, gesturing, naming places, telling stories
 
 **[STORYBOT]** Specific stops can be reordered or expanded. The tour route is suggestive, not strict. Add specific shop names, vendor names, individual people Rich greets as they pass — this is a chance to populate the world.
+
+Rich is consistently carrying his coffee canister throughout the tour. He drinks from it during pauses, between beats, when he wants to land something. The canister is part of his physical presence. When he gets in the rover next, he secures hist canister first before putting on safety harnesses. **[STORYBOT]** Background extras may notice and acknowledge it ("Morning, Rich — refill?" from a passing cafeteria staffer is a viable piece of color).
 
 ### Beat 5: The Rover Ride (~11:00–11:10)
 
