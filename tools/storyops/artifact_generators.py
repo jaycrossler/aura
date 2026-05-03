@@ -55,13 +55,14 @@ def run_item(item: dict[str, Any]) -> str | None:
 def run_queue(
     kind:       str | None = None,
     chapter_id: str | None = None,
+    include_disabled: bool = False,
 ) -> list[str]:
     """
     Run all enabled items in the queue with optional filters.
 
     Returns list of output file paths that were generated.
     """
-    items = load_queue(kind=kind, chapter_id=chapter_id)
+    items = load_queue(kind=kind, chapter_id=chapter_id, include_disabled=include_disabled)
     print(f"[artifact_generators] Running {len(items)} item(s).")
 
     results = []
@@ -90,7 +91,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Run the StoryOps generation queue")
     parser.add_argument("--kind",       default=None, help="Filter by kind (chapter_draft, status_report)")
-    parser.add_argument("--chapter",    default=None, help="Filter by chapter_id (e.g. ch001)")
+    parser.add_argument("--chapter",    default=None, help="Filter by chapter_id (e.g. ch001) or 'all'")
     parser.add_argument("--item",       default=None, help="Run a specific item by id")
     args = parser.parse_args()
 
@@ -104,4 +105,6 @@ if __name__ == "__main__":
             sys.exit(1)
         run_item(matching[0])
     else:
-        run_queue(kind=args.kind, chapter_id=args.chapter)
+        chapter_filter = None if args.chapter in (None, "all", "ALL") else args.chapter
+        include_disabled = chapter_filter is not None
+        run_queue(kind=args.kind, chapter_id=chapter_filter, include_disabled=include_disabled)

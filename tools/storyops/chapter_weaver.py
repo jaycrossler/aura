@@ -156,6 +156,10 @@ def weave_chapter(
         "You do not explain; you show. You do not summarize; you render. "
         f"Tone variant: {tone_variant}. "
         f"Content filter: {content_filter}. "
+        "Take disciplined creative liberties in authorship: invent connective action, "
+        "subtext-rich dialogue, interiority, and transitions that are not explicitly in notes, "
+        "as long as they remain consistent with provided canon and continuity anchors. "
+        "When scenes are sketched, expand them into fully dramatized sequences. "
         "Return ONLY strict JSON matching the requested schema. No preamble. No markdown fences."
     )
 
@@ -166,6 +170,8 @@ def weave_chapter(
             "Also return rich beat metadata for each scene beat — "
             "this metadata will be used for audiobook performance, "
             "graphic novel adaptation, and animation storyboarding."
+            " Expand scenes to land near target_word_count, using concrete sensory detail, "
+            "active dialogue, and character action rather than summary."
         ),
         "chapter": {
             "id":                    outline.chapter_id,
