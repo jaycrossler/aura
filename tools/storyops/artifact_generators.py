@@ -59,7 +59,6 @@ def run_queue(
     kind:       str | None = None,
     chapter_id: str | None = None,
     include_disabled: bool = False,
-    force_overwrite: bool = False,
 ) -> list[str]:
     """
     Run all enabled items in the queue with optional filters.
@@ -67,10 +66,6 @@ def run_queue(
     Returns list of output file paths that were generated.
     """
     items = load_queue(kind=kind, chapter_id=chapter_id, include_disabled=include_disabled)
-    if not items:
-        print("[artifact_generators] Running 0 item(s).")
-        print("[artifact_generators] Hint: if your chapter queue items are disabled, pass --include-disabled or enable them in control/generation-queue.yaml.")
-        return []
     print(f"[artifact_generators] Running {len(items)} item(s).")
 
     results = []
@@ -116,10 +111,5 @@ if __name__ == "__main__":
         run_item(matching[0], force_overwrite=args.force_overwrite)
     else:
         chapter_filter = None if args.chapter in (None, "all", "ALL") else args.chapter
-        include_disabled = args.include_disabled or (chapter_filter is not None)
-        run_queue(
-            kind=args.kind,
-            chapter_id=chapter_filter,
-            include_disabled=include_disabled,
-            force_overwrite=args.force_overwrite,
-        )
+        include_disabled = chapter_filter is not None
+        run_queue(kind=args.kind, chapter_id=chapter_filter, include_disabled=include_disabled)
