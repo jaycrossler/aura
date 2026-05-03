@@ -28,6 +28,7 @@ QUEUE_PATH = Path("control/generation-queue.yaml")
 def load_queue(
     kind:       str | None = None,
     chapter_id: str | None = None,
+    include_disabled: bool = False,
 ) -> list[dict[str, Any]]:
     """
     Load and return enabled queue items, with optional filtering.
@@ -44,7 +45,7 @@ def load_queue(
 
     result = []
     for item in items:
-        if not item.get("enabled", True):
+        if not include_disabled and not item.get("enabled", True):
             continue
         if kind and item.get("kind") != kind:
             continue
