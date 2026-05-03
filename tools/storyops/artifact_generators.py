@@ -59,6 +59,7 @@ def run_queue(
     kind:       str | None = None,
     chapter_id: str | None = None,
     include_disabled: bool = False,
+    force_overwrite: bool = False,
 ) -> list[str]:
     """
     Run all enabled items in the queue with optional filters.
@@ -112,4 +113,9 @@ if __name__ == "__main__":
     else:
         chapter_filter = None if args.chapter in (None, "all", "ALL") else args.chapter
         include_disabled = chapter_filter is not None
-        run_queue(kind=args.kind, chapter_id=chapter_filter, include_disabled=include_disabled)
+        run_queue(
+            kind=args.kind,
+            chapter_id=chapter_filter,
+            include_disabled=include_disabled,
+            force_overwrite=args.force_overwrite,
+        )
