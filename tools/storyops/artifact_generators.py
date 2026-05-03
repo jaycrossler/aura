@@ -28,7 +28,7 @@ from tools.storyops.load_generation_queue import load_queue
 
 # ── Dispatcher ────────────────────────────────────────────────────────────────
 
-def run_item(item: dict[str, Any]) -> str | None:
+def run_item(item: dict[str, Any], force_overwrite: bool = False) -> str | None:
     """
     Route a single queue item to the correct generator.
 
@@ -36,6 +36,9 @@ def run_item(item: dict[str, Any]) -> str | None:
         Output file path (for chapter_draft), or None (for status_report / skipped).
     """
     kind = item.get("kind", "chapter_draft")
+
+    if kind == "chapter_draft" and force_overwrite:
+        item = {**item, "overwrite": True}
 
     if kind == "chapter_draft":
         return generate_chapter(item)
@@ -69,7 +72,7 @@ def run_queue(
     for i, item in enumerate(items):
         print(f"\n[artifact_generators] [{i+1}/{len(items)}] {item['id']}")
         try:
-            out = run_item(item)
+            out = run_item(item, force_overwrite=force_overwrite)
             if out:
                 results.append(out)
                 print(f"[artifact_generators] ✓ {out}")
@@ -93,6 +96,8 @@ if __name__ == "__main__":
     parser.add_argument("--kind",       default=None, help="Filter by kind (chapter_draft, status_report)")
     parser.add_argument("--chapter",    default=None, help="Filter by chapter_id (e.g. ch001) or 'all'")
     parser.add_argument("--item",       default=None, help="Run a specific item by id")
+    parser.add_argument("--include-disabled", action="store_true", help="Include disabled queue items in filtered runs")
+    parser.add_argument("--force-overwrite", action="store_true", help="Override queue overwrite=false for chapter_draft jobs")
     args = parser.parse_args()
 
     if args.item:
@@ -103,7 +108,7 @@ if __name__ == "__main__":
         if not matching:
             print(f"Item '{args.item}' not found in queue.")
             sys.exit(1)
-        run_item(matching[0])
+        run_item(matching[0], force_overwrite=args.force_overwrite)
     else:
         chapter_filter = None if args.chapter in (None, "all", "ALL") else args.chapter
         include_disabled = chapter_filter is not None
