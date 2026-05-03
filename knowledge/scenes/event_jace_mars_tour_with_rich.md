@@ -36,34 +36,116 @@ Multiple Mars locations as Rich drives Jace around in a pressurized rover:
 
 ## Emotional Beats
 
-1. **Welcome.** Rich is waiting at the landing pad. Easy, professional handshake. "Welcome to Mars, LT." Jace is excited and a little dizzy from gravity adjustment; he plays it cool.
 
-2. **The drive.** Rich points out landmarks. Jace sees Mars for the first time through a thick polycarbonate window — red sky, dust haze, tall thin people walking past the rover. The sky is wrong in a way he can't articulate. Rich notices him noticing.
+### Beat 1: Welcome — Terminal, Biometric Scan (~02:00)
 
-> Jace: "God, the wifi here is incredible. I've got — I think I've got six months of game updates queued. The Pinta had pinprick bandwidth. They give you, what, half a meg per cabin?"
+Rich is waiting at the arrivals barrier, easy posture, standard travel mug in hand — the base emblem worn smooth from a year of daily carry. He spots Jace coming through the customs gate and raises the mug in a small greeting.
+
+The terminal is loud and crowded at this hour. The *Pinta* is not the only ship that docked tonight; two cargo cyclers turned their passenger manifests loose in the same window, and the arrivals hall is a controlled crush of bodies. Families reuniting, contractors meeting company reps, a knot of civilian researchers comparing notes, colonists looking dazed in the particular way of people who have just spent four months in a rotating tube and are now being asked to function again. The customs queue shuffles forward in a long S-curve under lighting that is very white and very unforgiving.
+
+Jace is still compensating for gravity. The *Pinta* had run its rotation at almost Mars gravity — *almost* — and the final week of approach had dialed it down incrementally so nobody disembarked in a heap. But "almost" is doing real work in that sentence, and he and the other passengers have spent the week quietly stumbling into bulkheads. He's walking at maybe ninety percent normal confidence. He plays it at a hundred.
+
+He and Rich shake hands — easy, professional, the handshake of two people who have read each other's service records and are now doing the physical version of that. Both in uniform. A few people in the crowd notice. On Mars, American military uniforms draw a glance; people measure the patches, the rank, the posture. Jace is too new to read the looks yet. Rich clocks them all reflexively and steers them slightly to the left, toward a less-trafficked stretch of the barrier wall.
+
+> Rich: "Welcome to Mars, fellow LT."
 >
-> Rich: [smiling, sips coffee] "Yeah, the carrier comms are brutal. You're going to love Mars on that front. Everything works here. Almost everything."
+> Jace: "Thanks. You look exactly like your videos."
+>
+> Rich: "I'm going to pretend that's a compliment." [glances at the crowd, drops his voice one notch — not conspiratorial, just professionally considered] "I need to run your security onboarding before we do anything else. Log every new arrival into the base network. Regulations." [produces the hardened box from under his arm — matte black, reinforced corners, the kind of object that implies a history of being dropped and surviving] "Right hand flat on this."
+
+Jace puts his palm on the surface. The box hums briefly. A faint warmth across his palm — the capillary scanner mapping the vessels beneath the skin.
+
+A green tone.
+
+His MilX Military OS flashes a notification across the lower edge of his overlay:
+
+***Level 2 Access Granted. Local Military Network Established. Welcome to Mars Detachment, Lieutenant Grant.***
+
+He blinks. The overlay populates — base map, local drone traffic summary, a handful of classified feeds grayed out pending command-level clearance. The network is *fast*. After four months on the *Pinta*'s throttled carrier comms, being plugged into a real military network feels like surfacing from underwater.
+
+Rich watches Jace's eyes track the incoming data and allows himself a small grin.
+
+> Rich: "I guess it's really you."
+>
+> Jace: "What — do you ever have people faking it?"
+>
+> Rich: [easy, walking them slowly toward the exit] "You hear stories. Identity spoofing's gotten sophisticated. The capillary scan makes it harder." [tucks the box back under his arm] "Anyway. After you formally take command you'll get Level 3 — that's when the drones actually listen to you. For now you've got the full picture, read-only on the command feeds."
+>
+> Jace: "What's Level 3 like?"
+>
+> Rich: "Buy me a coffee and I'll tell you." [raises the mug] "Actually — I'll tell you while I drink the coffee I already bought myself. Let's get to the rover."
+
+A contractor family cuts across their path — two adults, three kids who have clearly been aboard a ship for months and have just remembered they have legs. Rich steps back without breaking stride, waits the three seconds for them to clear, resumes walking. The kids are running in small looping arcs, re-learning what gravity feels like. Jace watches them and feels a sudden, specific affection for the human species.
+
+The exit doors open into a pressurized tunnel leading to the vehicle bay. The noise level drops. Rich exhales slightly — the private register of someone who is comfortable outside the crowd.
+
+---
+
+### Beat 2: The Drive — First Look at Mars (~02:30)
+
+The rover is a pressurized six-seater, slightly battered, with a polycarbonate windscreen thick enough to stop a low-velocity micrometeorite. Rich drives. Jace takes the passenger seat and, for the first time, sees Mars without a screen mediating it.
+
+*Red sky.* Not the cinematic red of promotional footage — a washed, dusty, orange-grey sky with the saturation dialed down, like a photograph taken through slightly dirty glass. The horizon is *close*, closer than Earth's; the planet curves away faster than his body expects. Dust moves along the surface in thin sheets. The dome they just left recedes in the wing mirror — enormous from this angle, the polycarbonate glowing warmly against the dark.
+
+People on the perimeter path outside the dome are *tall*. Thin in the specific way of long-term Mars residents: years of 0.38g pull the spine long and redistribute muscle mass upward and outward. He can already identify the new arrivals — shorter, denser, still carrying Earth's gravity in the way they hold their shoulders.
+
+The sky is wrong in a way he can't quite articulate. Rich notices him noticing.
+
+> Rich: "Takes a few days to stop looking at it."
+>
+> Jace: "It's not what I expected."
+>
+> Rich: "Everyone says that. What did you expect?"
+>
+> Jace: "Redder, I think. More dramatic."
+>
+> Rich: "Give it a couple of hours. When the sun hits the dust at a low angle it goes full dramatic. You'll see." 
+
+3. **The HUD question.** 
+
+>[sip] "How's the overlay? First time on a real network in months?"
+>
+> Jace: [eyes still scanning the Military OS feeds loading into his peripheral vision] "It's fast. The *Pinta* gave us about 1% of this bandwidth."
+>
+> Rich: "Yeah, carrier comms are brutal. You're going to love Mars on that front — everything works here. Almost everything."
 >
 > Jace: "Almost?"
 >
-> Rich: "Belt's a different story. Latency goes up, reliability goes down. But here? You're golden. You can finally play with humans again."
+> Rich: "Belt's a different story. Latency goes up, reliability goes down. But here? You're golden." [glances over] "Your civilian partition loaded yet?"
 >
-> Jace: "I have like three hundred friends back home waiting for me to come online. Athena's been running raids without me for six months."
+> Jace: [switches partition in his overlay] "Loading. I think I've got six months of game updates queued. The *Pinta* kept telling me I was 'syncing' and nothing was happening."
 >
-> Rich: "She's been carrying you?"
+> Rich: [dry] "Priorities."
 >
-> Jace: "She's been bragging about it, yeah."
+> Jace: "I have three hundred friends back home waiting for me to come online. My sister's been running raids without me for six months."
+>
+> Rich: "She been carrying you?"
+>
+> Jace: "She's been *bragging* about it."
 >
 > Rich: "Sounds about right."
 
-- Jace's hunger for **data and connection** after four months of low-bandwidth transit
-- His genuine excitement about the WiFi/comms environment — **load-bearing irony** for the comms-degradation arc that drives the rest of his story
-- Rich's first hint that **belt comms are different** (foreshadowing without naming the problem)
-- Athena as a fellow gamer — a small character note that humanizes both siblings
-- Rich's coffee canister mannerism (the sip before landing the line)
+A long beat. They pass a section of the dome perimeter where a work crew — four humans and a dozen robots — is patching a seam in the outer shell. The robots move in coordinated arcs, their work precise and unhurried. The humans stand slightly apart, monitoring, occasionally redirecting.
 
+> Rich: "You'll get used to the robots fast. They're everywhere. Inside, outside, underground. After a week you stop seeing them."
+>
+> Jace: "I grew up near a distribution center. It was like that."
+>
+> Rich: "Mars is more so. Ten robots for every person here, roughly. More in the industrial sections."
 
-3. **The HUD question.** Rich asks how Jace is liking the new HUD. Jace lights up — calls it his favorite thing about the military. Rich shares that his own was activated about a year ago. Brief moment of camaraderie.
+Jace watches one of the bots apply sealant in a long smooth pass. His MilX overlay tags it automatically — model number, maintenance status, last inspection date — and he realizes with a small private jolt that this is what Level 2 access actually *means*. Not just a map. Not just comms. The whole environment is annotated now, everything tagged and classified and streaming status data into his peripheral vision.
+
+He is going to like this job.
+
+---
+
+### Continuity Notes for This Scene
+
+- **Rich's coffee:** Standard travel mug throughout. Small, well-used, base emblem. He refills once during this sequence. It is not yet the larger canister it will become.
+- **MilX:** Jace's Military OS goes from dormant to Level 2 at the biometric scan. His Civilian OS loads shortly after in the rover. The reader first sees both partitions in action here.
+- **Crowd dynamics:** Rich is situationally aware throughout the terminal — steps them left, drops his voice, waits for the contractor family to clear. He has done this before. This is a small but consistent character note: Rich is always reading the room.
+- **Level 3 foreshadowing:** *"that's when the drones actually listen to you."* Jace never reaches Level 3. Plant it cleanly and let it sit.
+
 
 4. **The spending reveal.** Jace mentions, with the cheerful pride of someone who hasn't yet learned what money is for, that he has spent close to a year's wages on HUD upgrades, premium app subscriptions, exclusive courseware, and game packs.
 

@@ -42,7 +42,7 @@ This is the moment Jace fully becomes an animal handler in his own mind. Before 
 
 All animals on the *Falcon* wear weighted vests during their daily exercise sessions in the rotating cylinder. The cylinder spins to ~0.4g, which is not enough to fully maintain bone density without supplementation. The vests add another 15-30% effective weight.
 
-The dogs (Saga and Vela) wear small custom-fitted versions. The crew has a daily ritual: morning vest-on, evening vest-off. The dogs hate the on, love the off, perform a specific zoomie sequence after the off that the crew anticipates. Jace participates in this ritual within the second week. By the second month it is one of the things he looks forward to.
+The dogs (Cerberus and Siren) wear small custom-fitted versions. The crew has a daily ritual: morning vest-on, evening vest-off. The dogs hate the on, love the off, perform a specific zoomie sequence after the off that the crew anticipates. Jace participates in this ritual within the second week. By the second month it is one of the things he looks forward to.
 
 The crew also wear weighted vests during their own cylinder runs. Jace's vest is set to compensate for the gravity differential between ferry-cylinder and Mars surface, building toward a strength baseline he'll need on the station.
 
@@ -50,21 +50,21 @@ The crew also wear weighted vests during their own cylinder runs. Jace's vest is
 
 The cylinder has a fifty-meter circumferential run on the deck. The crew uses it for cardiovascular exercise. The dogs use it for everything.
 
-A typical scene: Jace is on a run, vest on, breathing patterned, HUD showing his pulse. Vela appears at his ankle from nowhere, matches pace for ten meters, drops back, sprints past him on the next loop, looks over her shoulder as if to say *catch up*. The cylinder geometry means she can use the curve of the wall in ways no Earth dog can: she launches off the wall on the inside curve, hangs in the apparent-low-gravity for a half second longer than physics suggests she should, lands, and continues. Jace tries it himself once. He does not try it twice.
+A typical scene: Jace is on a run, vest on, breathing patterned, HUD showing his pulse. Cerberus appears at his ankle from nowhere, matches pace for ten meters, drops back, sprints past him on the next loop, looks over her shoulder as if to say *catch up*. The cylinder geometry means she can use the curve of the wall in ways no Earth dog can: she launches off the wall on the inside curve, hangs in the apparent-low-gravity for a half second longer than physics suggests she should, lands, and continues. Jace tries it himself once. He does not try it twice.
 
 ### Ball Flips
 
-The crew throws balls down the cylinder run. The dogs chase. Vela in particular learns to read the ball's parabola in the rotating reference frame and to launch off the curved wall to intercept it mid-flight, twisting in the air to catch it pointing back toward the thrower. The trick takes weeks to perfect. The first successful execution gets a standing ovation from three off-duty crew members. It is filmed. The footage is held back from belt comms until arrival, then released as a kind of cultural calling card. Belt media replays it for years.
+The crew throws balls down the cylinder run. The dogs chase. Siren in particular learns to read the ball's parabola in the rotating reference frame and to launch off the curved wall to intercept it mid-flight, twisting in the air to catch it pointing back toward the thrower. The trick takes weeks to perfect. The first successful execution gets a standing ovation from three off-duty crew members. It is filmed. The footage is held back from belt comms until arrival, then released as a kind of cultural calling card. Belt media replays it for years.
 
 ### The Pillow Pile
 
-Crew members bring small fabric scraps and worn clothing to a corner of the rec area; over weeks it accumulates into an unsanctioned dog-bed-pile that the crew explicitly does not see. Both dogs sleep there during off-shift. Jace finds Vela there once with a stolen sock visible under one paw. He removes the sock. He returns it to its owner. The owner does not ask where it was.
+Crew members bring small fabric scraps and worn clothing to a corner of the rec area; over weeks it accumulates into an unsanctioned dog-bed-pile that the crew explicitly does not see. Both dogs sleep there during off-shift. Jace finds Siren there once with a stolen sock visible under one paw. He removes the sock. He returns it to its owner. The owner does not ask where it was or why it has a hole in it.
 
 ## Quiet Moments
 
 ### The Silent Bunk
 
-Jace, late shift, exhausted, back to his bunk. Saga is already there, on his pillow. He moves her gently. She moves back. He gives up. He sleeps with his face turned toward the small warm weight of the dog. He has not slept this well since before his discharge.
+Jace, late shift, exhausted, back to his bunk. Cerberus is already there, on his pillow. He moves him gently. She moves back. He gives up. He sleeps with his face turned toward the small warm weight of the dog. He has not slept this well since before his discharge.
 
 ### The HUD-Off Hour
 

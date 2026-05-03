@@ -13,7 +13,7 @@ last_updated: 2026-04-29
 
 ## Summary
 
-The Mars dog program is a roughly thirty-year selective-breeding effort run primarily out of the U.S. settlement's agricultural division (with parallel programs at the Chinese and Indian-led settlements). The goal: produce a small, calm, low-G-tolerant working dog suitable for sustained habitat life. The first dogs in the asteroid belt — Saga and Vela aboard the *Falcon* — are products of this program.
+The Mars dog program is a roughly thirty-year selective-breeding effort run primarily out of the U.S. settlement's agricultural division (with parallel programs at the Chinese and Indian-led settlements). The goal: produce a small, calm, low-G-tolerant working dog suitable for sustained habitat life. The first dogs in the asteroid belt — Cerberus and Siren aboard the *Falcon* — are products of this program.
 
 This is not a magical or speculative biotechnology document. It is hard-realistic selective breeding plus dietary, environmental, and surgical management.
 
@@ -32,7 +32,7 @@ The program targets six characteristics:
 
 The line draws from working pugs (size, sociability), terriers (toughness, problem-solving), Border Collies (intelligence and herding instinct, dialed down through selection), small mountain breeds (skeletal robustness), and Australian Shepherds (work ethic). Six to eight generations have produced a stable phenotype.
 
-The dogs do not have a recognized formal breed name yet; in casual usage they are called "Mars dogs" or, more dismissively, "marspuppies." Saga and Vela are early-generation belt-deployed examples; their offspring (when breeding pairs ship later) may be the first dogs born off-Mars.
+The dogs do not have a recognized formal breed name yet; in casual usage they are called "Mars dogs" or, more dismissively, "marspuppies." Cerberus and Siren are early-generation belt-deployed examples; their offspring (when breeding pairs ship later) may be the first dogs born off-Mars.
 
 ## Health Considerations
 
@@ -54,7 +54,7 @@ For ferry transport from Mars to belt:
 
 The decision to allow dogs on belt-bound ferries was hotly debated for years across multiple stations. Arguments against: mass cost, fur in life support, faecal management, allergy risks, distraction. Arguments for: livestock handling efficiency (a single dog can do the work of three handlers in herding contexts), psychological benefit to crew and settlers, and the symbolic weight of belt life including companion animals.
 
-The decision in favor was made on cost-benefit grounds, with the symbolic argument left unstated. Saga and Vela are the first beneficiaries. Their performance on the *Falcon* and on Fortuna Station will inform whether more shipments are approved.
+The decision in favor was made on cost-benefit grounds, with the symbolic argument left unstated. Cerberus and Siren are the first beneficiaries. Their performance on the *Falcon* and on Fortuna Station will inform whether more shipments are approved.
 
 ## Open Questions
 
@@ -66,8 +66,8 @@ The decision in favor was made on cost-benefit grounds, with the symbolic argume
 
 ## Cross-References
 
-- `/characters/char_dog_alpha.md` — Saga.
-- `/characters/char_dog_beta.md` — Vela.
+- `/characters/char_cerberus.md` — Cerberus.
+- `/characters/char_dog_beta.md` — Siren.
 - `/scenes/book01-transit-vignettes.md` — the dogs' role in transit.
 - `/ships/ship_falcon.md` — the ship that carries them.
 

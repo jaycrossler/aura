@@ -4,7 +4,7 @@ id: char_cerberus
 name: Cerberus
 aliases: ["Cerb", "Cerbi", "the dog", "Dog Man's dog", "Jace's dog", "the boy" (Jace's pre-naming reference)]
 species: canine (Mars-bred, low-G adapted hybrid)
-breed_lineage: herding dog × pug cross (engineered for low-G habitat over a roughly thirty-year Mars breeding program)
+breed_lineage: pug × terrier × small working-breed cross (engineered for low-G habitat over a roughly thirty-year Mars breeding program)
 gender: male
 neutered: yes (standard for ferry transport)
 date_of_birth: ~early 2105 (puppy at story start)
