@@ -16,10 +16,58 @@
       "word_count": 1120,
       "beat_count": 2,
       "note": "First standard pass \u2014 Descent"
+    },
+    {
+      "version_num": 1,
+      "chapter_id": "ch001",
+      "file_path": "generated\\drafts\\ch001\\v001_audiobook.md",
+      "meta_path": "generated\\drafts\\ch001\\v001_audiobook.meta.json",
+      "generated_at": "2026-05-03T21:43:32.897123+00:00",
+      "queue_item_id": "gen_book01_ch001_audiobook",
+      "render_profile_id": "audiobook_standard",
+      "pov": "jace",
+      "format": "audiobook",
+      "pass_type": "raw_draft",
+      "source_hash": "7acd48c1e890",
+      "word_count": 815,
+      "beat_count": 2,
+      "note": "Audiobook annotated version of ch001"
+    },
+    {
+      "version_num": 1,
+      "chapter_id": "ch001",
+      "file_path": "generated\\drafts\\ch001\\v001_graphic_novel.md",
+      "meta_path": "generated\\drafts\\ch001\\v001_graphic_novel.meta.json",
+      "generated_at": "2026-05-03T21:43:56.745199+00:00",
+      "queue_item_id": "gen_book01_ch001_gn",
+      "render_profile_id": "graphic_novel",
+      "pov": "jace",
+      "format": "graphic_novel",
+      "pass_type": "raw_draft",
+      "source_hash": "a8a4558178df",
+      "word_count": 678,
+      "beat_count": 2,
+      "note": "Graphic novel script \u2014 ch001 Descent. Mars arrival as visual spectacle."
+    },
+    {
+      "version_num": 2,
+      "chapter_id": "ch001",
+      "file_path": "generated\\drafts\\ch001\\v002.md",
+      "meta_path": "generated\\drafts\\ch001\\v002.meta.json",
+      "generated_at": "2026-05-03T21:44:16.870753+00:00",
+      "queue_item_id": "gen_book01_ch001_kids",
+      "render_profile_id": "kids_variant",
+      "pov": "jace",
+      "format": "prose",
+      "pass_type": "raw_draft",
+      "source_hash": "7acd48c1e890",
+      "word_count": 1152,
+      "beat_count": 2,
+      "note": "Young reader variant \u2014 ch001"
     }
   ],
-  "latest_version": 1,
-  "latest_file": "generated\\drafts\\ch001\\v001.md",
+  "latest_version": 2,
+  "latest_file": "generated\\drafts\\ch001\\v002.md",
   "latest_pass_type": "raw_draft",
-  "latest_word_count": 1120
+  "latest_word_count": 1152
 }

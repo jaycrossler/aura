@@ -118,3 +118,13 @@
 [2026-05-02T21:40:04.761438+00:00] [INFO ] [orchestrate ] [step=  3] [+   0.0s] Config loaded  {"chapters": 8, "scenes_in_registry": 22, "render_profiles": 8}
 [2026-05-02T21:40:04.762013+00:00] [INFO ] [orchestrate ] [step=  4] [+   0.0s] Render profile resolved  {"profile": "standard", "format": "prose", "tone_variant": "standard"}
 [2026-05-02T21:40:04.762593+00:00] [INFO ] [orchestrate ] [step=  5] [+   0.0s] Pipeline skipped: Chapter 'ch001' [prose] already has v001 and overwrite=false  {"event": "pipeline_skipped", "reason": "Chapter 'ch001' [prose] already has v001 and overwrite=false"}
+[2026-05-03T21:42:15.645008+00:00] [INFO ] [orchestrate ] [step=  1] [+   0.0s] ──────────────────── STAGE: ORCHESTRATE ────────────────────
+[2026-05-03T21:42:15.645743+00:00] [INFO ] [orchestrate ] [step=  2] [+   0.0s] Pipeline starting: 'gen_book01_ch001_standard_v1'  {"chapter_id": "ch001", "render_profile": "standard", "pov_override": null, "overwrite": false}
+[2026-05-03T21:42:15.675200+00:00] [INFO ] [orchestrate ] [step=  3] [+   0.0s] Config loaded  {"chapters": 8, "scenes_in_registry": 22, "render_profiles": 8}
+[2026-05-03T21:42:15.675772+00:00] [INFO ] [orchestrate ] [step=  4] [+   0.0s] Render profile resolved  {"profile": "standard", "format": "prose", "tone_variant": "standard"}
+[2026-05-03T21:42:15.676547+00:00] [INFO ] [orchestrate ] [step=  5] [+   0.0s] Pipeline skipped: Chapter 'ch001' [prose] already has v001 and overwrite=false  {"event": "pipeline_skipped", "reason": "Chapter 'ch001' [prose] already has v001 and overwrite=false"}
+[2026-05-03T21:42:59.429220+00:00] [INFO ] [orchestrate ] [step=  1] [+   0.0s] ──────────────────── STAGE: ORCHESTRATE ────────────────────
+[2026-05-03T21:42:59.431392+00:00] [INFO ] [orchestrate ] [step=  2] [+   0.0s] Pipeline starting: 'gen_book01_ch001_standard_v1'  {"chapter_id": "ch001", "render_profile": "standard", "pov_override": null, "overwrite": false}
+[2026-05-03T21:42:59.462065+00:00] [INFO ] [orchestrate ] [step=  3] [+   0.0s] Config loaded  {"chapters": 8, "scenes_in_registry": 22, "render_profiles": 8}
+[2026-05-03T21:42:59.462658+00:00] [INFO ] [orchestrate ] [step=  4] [+   0.0s] Render profile resolved  {"profile": "standard", "format": "prose", "tone_variant": "standard"}
+[2026-05-03T21:42:59.464203+00:00] [INFO ] [orchestrate ] [step=  5] [+   0.0s] Pipeline skipped: Chapter 'ch001' [prose] already has v001 and overwrite=false  {"event": "pipeline_skipped", "reason": "Chapter 'ch001' [prose] already has v001 and overwrite=false"}

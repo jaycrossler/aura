@@ -1,0 +1,138 @@
+{
+  "chapter_id": "ch001",
+  "queue_item_id": "gen_book01_ch001_audiobook",
+  "render_profile_id": "audiobook_standard",
+  "outline": {
+    "emotional_arc_summary": "Jace arrives on Mars with a sense of exhilaration and certainty, feeling the weight of his decorated past and the promise of a new future. His confidence is palpable as he steps into the Martian atmosphere, but subtle hints of complexity in his new environment begin to seep in, leaving him both awed and slightly unsettled by the end.",
+    "pacing_notes": "The chapter should unfold with a sense of wonder and gradual revelation, allowing the reader to luxuriate in Jace's initial confidence and the tactile details of Mars before hinting at deeper complexities.",
+    "continuity_anchors": [],
+    "continuity_setup": [
+      "Jace's first impressions of Mars geography and settlement infrastructure",
+      "Initial hints at the financial and logistical realities of the settlement"
+    ]
+  },
+  "beats": [
+    {
+      "scene_id": "jace_shuttle_descent",
+      "beat_summary": "Jace disembarks from the shuttle, greeted by Rich, and experiences his first taste of Mars.",
+      "word_count": 405,
+      "valence": 0.8,
+      "tension": 0.2,
+      "emotional_start": "Exhilarated and confident",
+      "emotional_end": "Slightly disoriented but still exhilarated",
+      "characters_present": [
+        "jace",
+        "rich_cullivan"
+      ],
+      "location": "mars_landing_pad",
+      "sensory_palette": {
+        "sight": "Martian landscape through the shuttle's hatch",
+        "sound": "Hiss of the hatch and ambient terminal noise",
+        "smell": "Dry, metallic scent of Martian air",
+        "touch": "Buoyancy of lower gravity",
+        "taste": "Iron tang in the air"
+      },
+      "dialogue": [
+        {
+          "speaker": "rich_cullivan",
+          "line": "Welcome to Mars, Jace.",
+          "emotion": "Warm and welcoming",
+          "action": "Standing casually with a travel mug",
+          "subtext": "He's genuinely pleased to meet Jace",
+          "ssml_hints": "pace=normal pause_before=short"
+        },
+        {
+          "speaker": "rich_cullivan",
+          "line": "Feels different, doesn't it?",
+          "emotion": "Amused",
+          "action": "Gesturing towards the bustling activity",
+          "subtext": "Acknowledging the unique experience of arriving on Mars",
+          "ssml_hints": "pace=normal pause_before=short"
+        }
+      ]
+    },
+    {
+      "scene_id": "jace_rover_tour",
+      "beat_summary": "Rich drives Jace through the settlement, introducing him to the key features and operations.",
+      "word_count": 410,
+      "valence": 0.7,
+      "tension": 0.3,
+      "emotional_start": "Excited and eager",
+      "emotional_end": "Still excited but sensing complexities ahead",
+      "characters_present": [
+        "jace",
+        "rich_cullivan"
+      ],
+      "location": "mars_settlement_roads",
+      "sensory_palette": {
+        "sight": "Sprawling domes and structures against the Martian horizon",
+        "sound": "Soft hum of the rover",
+        "smell": "None registered",
+        "touch": "Vibration of the rover underfoot",
+        "taste": null
+      },
+      "dialogue": [
+        {
+          "speaker": "rich_cullivan",
+          "line": "That's the main hub, where most of the action happens.",
+          "emotion": "Informative",
+          "action": "Nodding towards a cluster of buildings",
+          "subtext": "Highlighting the centrality of the hub",
+          "ssml_hints": "pace=normal pause_before=short"
+        },
+        {
+          "speaker": "rich_cullivan",
+          "line": "It's not just about survival here; it's about thriving.",
+          "emotion": "Proud",
+          "action": "Driving with a steady hand",
+          "subtext": "Emphasizing the settlement's ambitions",
+          "ssml_hints": "pace=normal pause_before=short"
+        }
+      ]
+    }
+  ],
+  "continuity_flags": [
+    "None observed"
+  ],
+  "missing_knowledge": [
+    "Mars sensory palette for more vivid descriptions",
+    "Character voiceprint for Mei for future interactions"
+  ],
+  "source_files": [
+    "knowledge/scenes/event_jace_mars_tour_with_rich.md",
+    "knowledge\\MASTER-SYNOPSIS.md",
+    "knowledge\\characters\\char_cerberus.md",
+    "knowledge\\characters\\char_jace_apollo.md",
+    "knowledge\\characters\\char_jace_best_friend.md",
+    "knowledge\\characters\\char_jelly_grant.md",
+    "knowledge\\characters\\char_lt_rich_cullivan.md",
+    "knowledge\\characters\\char_mei.md",
+    "knowledge\\characters\\char_mr_sylvester.md",
+    "knowledge\\characters\\voice_char_lt_rich_cullivan.md",
+    "knowledge\\locations\\location_mars_consumer_district.md",
+    "knowledge\\locations\\location_mars_fabrication_district.md",
+    "knowledge\\locations\\location_mars_us_afspace_force_base.md",
+    "knowledge\\locations\\location_sylvia_station.md"
+  ],
+  "artifact_metadata": {
+    "speaker_cast": [
+      {
+        "character": "jace",
+        "voice_direction": "Measured, dry wit, increasing tension over the arc. Mid range.",
+        "sample_line": "It's good to finally be here."
+      },
+      {
+        "character": "rich",
+        "voice_direction": "Warm, slightly faster, comfortable with silence. Friendly authority.",
+        "sample_line": "Welcome to Mars, Jace."
+      }
+    ],
+    "total_estimated_runtime_minutes": 4.5,
+    "dialogue_count": 4,
+    "word_count": 815
+  },
+  "version_num": 1,
+  "generated_at": "2026-05-03T21:43:32.897123+00:00",
+  "source_hash": "7acd48c1e890",
+  "pass_type": "raw_draft"
+}

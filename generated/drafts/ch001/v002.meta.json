@@ -1,0 +1,133 @@
+{
+  "chapter_id": "ch001",
+  "queue_item_id": "gen_book01_ch001_kids",
+  "render_profile_id": "kids_variant",
+  "outline": {
+    "emotional_arc_summary": "Jace arrives on Mars with a sense of confidence and wonder, his excitement peaking as he breathes the Martian air for the first time. However, as he tours the settlement, the initial certainty begins to waver under the overwhelming reality of Mars, hinting at future challenges.",
+    "pacing_notes": "Begin with a slow, immersive build as Jace takes in his first moments on Mars, then maintain a steady, expansive pace through the tour, allowing for moments of reflection and dialogue to flesh out the world.",
+    "continuity_anchors": [
+      "Jace's decorated military background"
+    ],
+    "continuity_setup": [
+      "Jace's interactions with Rich hint at future mentorship"
+    ]
+  },
+  "beats": [
+    {
+      "scene_id": "jace_shuttle_descent",
+      "beat_summary": "Jace arrives on Mars, greeted by Rich at the landing pad, and experiences the Martian air and gravity for the first time.",
+      "word_count": 580,
+      "valence": 0.9,
+      "tension": 0.2,
+      "emotional_start": "Excited and confident about his arrival on Mars.",
+      "emotional_end": "Euphoric and grounded in the reality of his new environment.",
+      "characters_present": [
+        "char_jace_apollo",
+        "char_lt_rich_cullivan"
+      ],
+      "location": "mars_landing_pad",
+      "sensory_palette": {
+        "sight": "Deep, rusty hue of Mars through shuttle windows.",
+        "sound": "Murmur of excited passengers and soft chime signaling final approach.",
+        "smell": "None registered",
+        "touch": "Subtle pull of Martian gravity.",
+        "taste": null
+      },
+      "dialogue": [
+        {
+          "speaker": "char_lt_rich_cullivan",
+          "line": "Welcome to Mars, Jace",
+          "emotion": "welcoming",
+          "action": "raises his mug in greeting",
+          "subtext": "Glad to see Jace has arrived safely.",
+          "ssml_hints": "pace=normal pitch=normal pause_before=none"
+        },
+        {
+          "speaker": "char_lt_rich_cullivan",
+          "line": "Feels different, doesn't it?",
+          "emotion": "knowing",
+          "action": "smiles",
+          "subtext": "He knows the adjustment Jace is going through.",
+          "ssml_hints": "pace=normal pitch=normal pause_before=short"
+        }
+      ]
+    },
+    {
+      "scene_id": "jace_rover_tour",
+      "beat_summary": "Rich drives Jace through the U.S. settlement, explaining the geography and logistics while Jace begins to process the scale and complexity of life on Mars.",
+      "word_count": 572,
+      "valence": 0.7,
+      "tension": 0.4,
+      "emotional_start": "Overwhelmed with excitement and wonder, ready to absorb everything.",
+      "emotional_end": "A slight dip in confidence as the reality of Mars' challenges begins to settle in.",
+      "characters_present": [
+        "char_jace_apollo",
+        "char_lt_rich_cullivan"
+      ],
+      "location": "mars_settlement_roads",
+      "sensory_palette": {
+        "sight": "Vast expanse of red dust and Olympus Mons in the distance.",
+        "sound": "Purring of the rover's engine and Rich's explanations.",
+        "smell": "None registered",
+        "touch": "Vibration of the rover beneath them.",
+        "taste": null
+      },
+      "dialogue": [
+        {
+          "speaker": "char_lt_rich_cullivan",
+          "line": "That's Olympus Mons over there",
+          "emotion": "casual",
+          "action": "nods towards the horizon",
+          "subtext": "Introducing Jace to Mars' geography.",
+          "ssml_hints": "pace=normal pitch=normal pause_before=none"
+        },
+        {
+          "speaker": "char_lt_rich_cullivan",
+          "line": "It's not just rocks and dust, Jace",
+          "emotion": "informative",
+          "action": "glances at Jace",
+          "subtext": "Mars is more complex than it appears.",
+          "ssml_hints": "pace=normal pitch=normal pause_before=short"
+        },
+        {
+          "speaker": "char_lt_rich_cullivan",
+          "line": "You'll get used to it",
+          "emotion": "reassuring",
+          "action": "glances over",
+          "subtext": "Encouraging Jace to acclimate.",
+          "ssml_hints": "pace=normal pitch=normal pause_before=short"
+        }
+      ]
+    }
+  ],
+  "continuity_flags": [],
+  "missing_knowledge": [
+    "character voiceprint for mei",
+    "sensory palette for mars_long_burn_bar"
+  ],
+  "source_files": [
+    "knowledge/scenes/event_jace_mars_tour_with_rich.md",
+    "knowledge\\MASTER-SYNOPSIS.md",
+    "knowledge\\characters\\char_cerberus.md",
+    "knowledge\\characters\\char_jace_apollo.md",
+    "knowledge\\characters\\char_jace_best_friend.md",
+    "knowledge\\characters\\char_jelly_grant.md",
+    "knowledge\\characters\\char_lt_rich_cullivan.md",
+    "knowledge\\characters\\char_mei.md",
+    "knowledge\\characters\\char_mr_sylvester.md",
+    "knowledge\\characters\\voice_char_lt_rich_cullivan.md",
+    "knowledge\\locations\\location_mars_consumer_district.md",
+    "knowledge\\locations\\location_mars_fabrication_district.md",
+    "knowledge\\locations\\location_mars_us_afspace_force_base.md",
+    "knowledge\\locations\\location_sylvia_station.md"
+  ],
+  "artifact_metadata": {
+    "word_count": 1152,
+    "pov": "jace",
+    "voice_style": "Wonder-forward, accessible prose aimed at middle-grade readers (ages 10-13)."
+  },
+  "version_num": 2,
+  "generated_at": "2026-05-03T21:44:16.870753+00:00",
+  "source_hash": "7acd48c1e890",
+  "pass_type": "raw_draft"
+}

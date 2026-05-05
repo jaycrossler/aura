@@ -29,6 +29,10 @@ dist/
 *.egg-info/
 .eggs/
 
+# Viewers and exports
+knowledge/.obsidian/
+knowledge.zip
+
 # Secrets / API keys / local env files
 .vscode/launch.json
 .env

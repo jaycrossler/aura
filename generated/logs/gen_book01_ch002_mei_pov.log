@@ -1,0 +1,11 @@
+[2026-05-03T21:42:21.158499+00:00] [INFO ] [orchestrate ] [step=  1] [+   0.0s] ──────────────────── STAGE: ORCHESTRATE ────────────────────
+[2026-05-03T21:42:21.159628+00:00] [INFO ] [orchestrate ] [step=  2] [+   0.0s] Pipeline starting: 'gen_book01_ch002_mei_pov'  {"chapter_id": "ch002", "render_profile": "standard", "pov_override": "mei", "overwrite": true}
+[2026-05-03T21:42:21.190065+00:00] [INFO ] [orchestrate ] [step=  3] [+   0.0s] Config loaded  {"chapters": 8, "scenes_in_registry": 22, "render_profiles": 8}
+[2026-05-03T21:42:21.190626+00:00] [INFO ] [orchestrate ] [step=  4] [+   0.0s] Render profile resolved  {"profile": "standard", "format": "prose", "tone_variant": "standard"}
+[2026-05-03T21:42:21.192143+00:00] [INFO ] [plan        ] [step=  1] [+   0.0s] ──────────────────── STAGE: PLAN ────────────────────
+[2026-05-03T21:42:21.192560+00:00] [INFO ] [plan        ] [step=  2] [+   0.0s] Scene 'jace_drone_center_tour' loaded for planning  {"status": "sketch"}
+[2026-05-03T21:42:21.192960+00:00] [INFO ] [plan        ] [step=  3] [+   0.0s] Scene 'jace_commander_welcome' loaded for planning  {"status": "sketch"}
+[2026-05-03T21:42:21.193360+00:00] [INFO ] [plan        ] [step=  4] [+   0.0s] Planning chapter 'ch002'  {"scene_count": 2, "pov_default": "jace", "render_profile": "standard", "tone_variant": "standard"}
+[2026-05-03T21:42:21.193780+00:00] [INFO ] [plan        ] [step=  5] [+   0.0s] LLM call → configured-model [plan]  {"event": "llm_call", "stage": "plan", "model": "configured-model", "prompt_chars": 4855, "system_chars": 510}
+[2026-05-03T21:42:21.194186+00:00] [INFO ] [plan        ] [step=  6] [+   0.0s] LLM response ← mock/mock-story-writer (0 chars)  {"event": "llm_response", "provider": "mock", "model": "mock-story-writer", "response_chars": 0, "parsed_keys": []}
+[2026-05-03T21:42:21.194666+00:00] [ERROR] [plan        ] [step=  7] [+   0.0s] ✗ Pipeline error: chapter_planner failed  {"event": "pipeline_error", "error": "chapter_planner failed", "exception_type": "RuntimeError", "exception_msg": "LLM returned empty content \u2014 cannot parse JSON."}
