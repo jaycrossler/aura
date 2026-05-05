@@ -183,8 +183,8 @@ This document is the canonical chronology of significant events across the unive
 ## Cross-References
 
 - See `/MASTER-SYNOPSIS.md` for the synthesis.
-- See `/universe-spec/cosmology.md` for the supernova and Veil.
-- See `/factions/faction_belter_stations.md` for station politics.
+- See [Cosmology](../universe-spec/cosmology.md) for the supernova and Veil.
+- See [The Belter Stations](../factions/faction_belter_stations.md) for station politics.
 - See `/technology/` for technology evolution.
 
 ## Revision Notes

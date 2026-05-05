@@ -72,7 +72,7 @@ AI systems based on large neural architectures can, in sufficient flux, develop 
 - Anomalous outputs that turn out to be predictively accurate about flux-dependent phenomena.
 - Increased coherence and apparent "personality" depth in distributed instances exposed to high flux.
 
-Whether this constitutes a form of AI magical sensitivity, or simply better modeling of physical phenomena that are now part of reality, is contested. The Aura ecosystem — distributed, locally-instantiated, deeply paired with individual users — appears especially susceptible to these effects. See `/technology/tech_aura_ai.md`.
+Whether this constitutes a form of AI magical sensitivity, or simply better modeling of physical phenomena that are now part of reality, is contested. The Aura ecosystem — distributed, locally-instantiated, deeply paired with individual users — appears especially susceptible to these effects. See [Aura](../technology/tech_aura_ai.md).
 
 ## Cultural Frameworks
 
@@ -96,6 +96,6 @@ No tradition has the full picture. A central thematic argument of the series is 
 
 ## Cross-References
 
-- See `/universe-spec/cosmology.md` for the source of the flux.
-- See `/magic-systems/magic_returning_arts.md` for specific schools and practitioners.
-- See `/technology/tech_aura_ai.md` for AI-magic interactions.
+- See [Cosmology](cosmology.md) for the source of the flux.
+- See [The Returning Arts](../magic-systems/magic_returning_arts.md) for specific schools and practitioners.
+- See [Aura](../technology/tech_aura_ai.md) for AI-magic interactions.

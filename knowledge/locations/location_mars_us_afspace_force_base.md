@@ -27,7 +27,7 @@ The Mars military installation at Terminus is a **joint U.S. Air Force and U.S. 
 The base is not a single facility. It is a collection of interconnected and stand-alone domes, surface structures, and underground tunnels embedded in and adjacent to the larger Terminus settlement. The 60–70 year history of Terminus shows in the base's architecture: original structures patched and re-patched, newer additions in cleaner contemporary lines, and visible scars from past expansions and accidents.
 
 ### Connected Main Domes
-- **Drone Operations Dome** — the primary operations facility. Houses the drone control center (see `/knowledge/scenes/event_jace_drone_center_tour.md`). The flight line runs along its outer perimeter.
+- **Drone Operations Dome** — the primary operations facility. Houses the drone control center (see [Scene — Jace's Drone Control Center Tour](../scenes/event_jace_drone_center_tour.md)). The flight line runs along its outer perimeter.
 - **Command and Administrative Dome** — Colonel's office, briefing rooms, intel meeting spaces, base administration. Where Mei and Sylvester are sometimes glimpsed in meetings.
 - **Officer's Mess and Quarters Dome** — billets for officers including Rich and Jace, mess hall, common areas, small gym for indoor PT.
 - **Enlisted Quarters and Mess Dome** — separate facility, larger population, similar amenities.
@@ -85,7 +85,7 @@ This rivalry is friendly at the working level and occasionally sharper at comman
 ## Story Function
 
 - **Workplace setting** for the early arrival arc: tour, drone center, command welcome, daily operations.
-- **Site of Rich's IT authority,** which becomes story-relevant in `/knowledge/scenes/event_rich_comms_favor.md` and possibly later.
+- **Site of Rich's IT authority,** which becomes story-relevant in [Scene — Rich's Comms Favor for Jace](../scenes/event_rich_comms_favor.md) and possibly later.
 - **Visual establishment** of joint military presence on Mars: the U.S. has a serious, established, permanent installation, not a token outpost.
 - **Latent tension surface:** the service rivalry, the captain TBD, the Colonel's intel-adjacent meetings, all simmer below the surface of "normal base life."
 
@@ -115,14 +115,14 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See `/knowledge/locations/location_terminus.md` (parent settlement)
-- See `/knowledge/locations/location_mars_overview.md` (parent planet)
-- See `/knowledge/scenes/event_jace_mars_tour_with_rich.md`
-- See `/knowledge/scenes/event_jace_drone_center_tour.md`
-- See `/knowledge/scenes/event_rich_comms_favor.md`
-- See `/knowledge/universe-spec/concept_military_address_culture.md`
-- See `/knowledge/characters/char_lt_rich_cullivan.md`
-- See `/knowledge/characters/char_jace_apollo.md`
+- See [Terminus — Mars City (U.S. 56th State)](location_terminus.md) (parent settlement)
+- See [Mars (Inhabited World Overview)](location_mars_overview.md) (parent planet)
+- See [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](../scenes/event_jace_mars_tour_with_rich.md)
+- See [Scene — Jace's Drone Control Center Tour](../scenes/event_jace_drone_center_tour.md)
+- See [Scene — Rich's Comms Favor for Jace](../scenes/event_rich_comms_favor.md)
+- See [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md)
+- See [Lieutenant Rich Cullivan](../characters/char_lt_rich_cullivan.md)
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
 
 ## Revision Notes
 

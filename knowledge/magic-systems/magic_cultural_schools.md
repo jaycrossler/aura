@@ -18,7 +18,7 @@ As the Returning Arts emerge, practitioners filter what they perceive through th
 
 This document collects the major emerging schools observed in belt practice during Books One through approximately Five. It is descriptive, not prescriptive — practitioners do not announce themselves as members of "schools." Outside observers (mostly Auras, later academics) impose the categorization retroactively.
 
-For underlying physics see `/universe-spec/physics-and-magic-interaction.md`. For the umbrella system, see `/magic-systems/magic_returning_arts.md`.
+For underlying physics see [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md). For the umbrella system, see [The Returning Arts](magic_returning_arts.md).
 
 ## Core Premise
 
@@ -172,7 +172,7 @@ Practitioners can study across schools, but realistically:
 - The cognitive structure of each school is different. Switching between them costs concentration and produces diminished results during the transition.
 - Cultural authenticity matters in ways that are politically uncomfortable. A non-Chinese Inscriber produces weaker inscriptions; a non-Indian Vedic practitioner usually plateaus at a lower ceiling. Whether these are absolute limits, cultural-knowledge limits, or practitioner-belief limits is contested.
 
-The **Synthesis Movement** (see `/magic-systems/magic_returning_arts.md`) is the cross-tradition collaborative network that emerges over the back half of Book One and into Book Two. It does not produce a unified school — it produces *teams* of specialists from different schools who collaborate on problems no single tradition can solve.
+The **Synthesis Movement** (see [The Returning Arts](magic_returning_arts.md)) is the cross-tradition collaborative network that emerges over the back half of Book One and into Book Two. It does not produce a unified school — it produces *teams* of specialists from different schools who collaborate on problems no single tradition can solve.
 
 ## The American Anomaly — Jace and the Fusion Path
 
@@ -192,10 +192,10 @@ This is a thematic and dramatic load-bearing wall for the series: the protagonis
 
 ## Cross-References
 
-- `/magic-systems/magic_returning_arts.md` — umbrella system.
-- `/universe-spec/physics-and-magic-interaction.md` — hard rules.
-- `/characters/char_jace_apollo.md` — the cross-cultural fusion practitioner.
-- `/technology/tech_aura_ai.md` — AI mediation across schools.
+- [The Returning Arts](magic_returning_arts.md) — umbrella system.
+- [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md) — hard rules.
+- [Jace Apollo Grant](../characters/char_jace_apollo.md) — the cross-cultural fusion practitioner.
+- [Aura](../technology/tech_aura_ai.md) — AI mediation across schools.
 
 ## Revision Notes
 

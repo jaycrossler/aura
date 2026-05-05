@@ -110,12 +110,12 @@ He will need all of it.
 
 ## Cross-References
 
-- See `/knowledge/universe-spec/concept_aura_ai_system.md` (Mute Protocol context; distributed architecture)
-- See `/knowledge/universe-spec/concept_mil_ex_implants.md` (MilX vulnerability; civilian/military partition split)
-- See `/knowledge/magic-systems/magic_cryptids_silicon.md` (what the analog tools are fighting)
-- See `/knowledge/magic-systems/magic_improvised_responses.md` (the weapons)
-- See `/knowledge/magic-systems/magic_overview.md`
-- See `/knowledge/timeline/outbreak_timeline.md`
+- See [Aura — The Distributed AI System](../universe-spec/concept_aura_ai_system.md) (Mute Protocol context; distributed architecture)
+- See [MilX — Military Implant Systems and the Implant Ecosystem](../universe-spec/concept_mil_ex_implants.md) (MilX vulnerability; civilian/military partition split)
+- See [Silicon Manifestations — The Glass-Infestation Class](magic_cryptids_silicon.md) (what the analog tools are fighting)
+- See [Improvised Responses to the Outbreak — Belt Field Adaptations](magic_improvised_responses.md) (the weapons)
+- See [Magic — Overview and Fundamental Principles](magic_overview.md)
+- See [The Outbreak — Chronological Timeline of Magic's Return](../timeline/outbreak_timeline.md)
 
 ## Revision Notes
 

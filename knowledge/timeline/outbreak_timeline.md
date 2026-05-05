@@ -188,7 +188,7 @@ The Rat secures a 2x2x2 meter slot on the next unmanned supply ship to Odysseus.
 
 The crate is loaded and sealed on Day 6. It ships on Day 8.
 
-Full documentation: see `/knowledge/scenes/event_jace_assembles_smuggling_list.md`
+Full documentation: see [Scene Cluster — Assembling Artemis's List (The Smuggling Sprint)](../scenes/event_jace_assembles_smuggling_list.md)
 
 ---
 
@@ -236,13 +236,13 @@ What he has when he boards:
 
 ## Cross-References
 
-- See `/knowledge/magic-systems/magic_overview.md`
-- See `/knowledge/universe-spec/magic_manifestations_early.md`
-- See `/knowledge/universe-spec/concept_aura_ai_system.md`
-- See `/knowledge/characters/char_artemis_grant.md`
-- See `/knowledge/locations/location_odysseus_station.md`
-- See `/knowledge/locations/location_fortuna_station.md`
-- See `/knowledge/scenes/event_jace_assembles_smuggling_list.md`
+- See [Magic — Overview and Fundamental Principles](../magic-systems/magic_overview.md)
+- See [Early Manifestations — Pre-Understanding Phase](../magic-systems/magic_manifestations_early.md)
+- See [Aura — The Distributed AI System](../universe-spec/concept_aura_ai_system.md)
+- See [Artemis Grant](../characters/char_sister_artemis.md)
+- See [Odysseus Station](../locations/location_odysseus_station.md)
+- See [Fortuna Station](../locations/location_fortuna_station.md)
+- See [Scene Cluster — Assembling Artemis's List (The Smuggling Sprint)](../scenes/event_jace_assembles_smuggling_list.md)
 
 ## Revision Notes
 

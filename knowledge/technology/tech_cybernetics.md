@@ -64,7 +64,7 @@ The civilian HUD market in 2105 is competitive, fast-moving, and visible everywh
 
 For an enthusiastic user — particularly a young professional like Jace at Mars arrival — annual spending on HUD-related services can rival or exceed the cost of the device itself. Jace has spent close to a year's wages on this layer.
 
-**Showroom culture.** The Mars Consumer District (and equivalent districts on Earth and at major belt stations) hosts dedicated HUD showrooms where buyers can preview competing models, try Aura skins, test overlay configurations on demo rigs, and consult with surgical providers. The retail experience is theatrical — display walls of competing manufacturers, side-by-side comparisons, in-store demonstrations by influencers and product specialists. (See `/locations/location_mars_consumer_district.md`.)
+**Showroom culture.** The Mars Consumer District (and equivalent districts on Earth and at major belt stations) hosts dedicated HUD showrooms where buyers can preview competing models, try Aura skins, test overlay configurations on demo rigs, and consult with surgical providers. The retail experience is theatrical — display walls of competing manufacturers, side-by-side comparisons, in-store demonstrations by influencers and product specialists. (See [Mars Consumer District](../locations/location_mars_consumer_district.md).)
 
 **Implant retention and resale.** When users upgrade to a new model, their old hardware is typically removed and either traded back to the manufacturer for credit, sold into a secondhand market, or — increasingly — donated to medical programs that refurbish older units for users who cannot afford new ones. A modest grey market also exists for stolen or salvaged implants, which the Rat's network occasionally touches.
 
@@ -105,11 +105,11 @@ There is preliminary speculation (story-internal, contested) that AI-paired impl
 
 ## Cross-References
 
-- See `/technology/tech_aura_ai.md` for the AI side of the implant.
-- See `/technology/tech_information_environment.md` for the broader content/app ecosystem.
-- See `/locations/location_mars_consumer_district.md` for the retail face of the consumer market.
-- See `/characters/char_jace_apollo.md` for Jace's specific implant history.
-- See `/universe-spec/physics-and-magic-interaction.md` for magic/tech interactions.
+- See [Aura](tech_aura_ai.md) for the AI side of the implant.
+- See [The Information Environment (2105)](tech_information_environment.md) for the broader content/app ecosystem.
+- See [Mars Consumer District](../locations/location_mars_consumer_district.md) for the retail face of the consumer market.
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md) for Jace's specific implant history.
+- See [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md) for magic/tech interactions.
 
 ## Revision Notes
 

@@ -30,7 +30,7 @@ They are not, in the early outbreak, obviously intelligent. They behave more lik
 Silicon-class manifestations begin as nearly invisible: a fine dust that settles in station seams, wall joints, and ventilation gaps. Over days and weeks, this dust organizes into recognizable structures.
 
 ### Micro Stage: The Dust
-Microscopic silicon particles that behave unlike normal debris. Under magnification, the particles show fractal self-organization — the same crystalline filament structures observed in early Mars manifestation residue (see `/knowledge/magic-systems/magic_manifestations_early.md`). They respond to local electromagnetic fields. They accumulate preferentially at interfaces between different materials — metal-composite joins, pressure seals, connection nodes.
+Microscopic silicon particles that behave unlike normal debris. Under magnification, the particles show fractal self-organization — the same crystalline filament structures observed in early Mars manifestation residue (see [Early Manifestations — Pre-Understanding Phase](magic_manifestations_early.md)). They respond to local electromagnetic fields. They accumulate preferentially at interfaces between different materials — metal-composite joins, pressure seals, connection nodes.
 
 ### Growth Stage: The Vines
 Over weeks, dust accumulates into **Glass-Vines** — jagged, branching structures that pulse with a faint rhythmic light. They grow along structural lines: hull plates, frame members, cable runs. They look, up close, like crystallized lightning — or like something growing rather than deposited.
@@ -63,7 +63,7 @@ Silicon-class manifestations are vulnerable to concentrated oxygen. Standard atm
 
 The shattering produces razor-sharp silicon shrapnel in all directions. This makes O2 attacks effective but dangerous in enclosed spaces.
 
-**The Rust-Gun:** A repurposed atmospheric scrubber nozzle attached to a high-pressure O2 canister. (See `/knowledge/magic-systems/improvised_responses.md` for full construction specs.)
+**The Rust-Gun:** A repurposed atmospheric scrubber nozzle attached to a high-pressure O2 canister. (See [Improvised Responses to the Outbreak — Belt Field Adaptations](magic_improvised_responses.md) for full construction specs.)
 
 ### Physical Isolation
 Cutting off Vine growth before it reaches critical infrastructure — physical removal with non-electronic tools, physical barriers of lead-polymer shielding. Labor-intensive. Effective if caught early. Station crews have organized rotating inspection schedules focused on joint and seam areas.
@@ -104,11 +104,11 @@ The Fortuna situation will be a key context for Jace's arrival at the belt. What
 
 ## Cross-References
 
-- See `/knowledge/magic-systems/magic_overview.md` (foundational principles)
-- See `/knowledge/magic-systems/magic_manifestations_early.md` (early fractal dust — possible Phase 0 of Silicon-class)
-- See `/knowledge/magic-systems/improvised_responses.md` (counter-measures including Rust-Gun)
-- See `/knowledge/locations/location_fortuna_station.md`
-- See `/knowledge/timeline/outbreak_timeline.md`
+- See [Magic — Overview and Fundamental Principles](magic_overview.md) (foundational principles)
+- See [Early Manifestations — Pre-Understanding Phase](magic_manifestations_early.md) (early fractal dust — possible Phase 0 of Silicon-class)
+- See [Improvised Responses to the Outbreak — Belt Field Adaptations](magic_improvised_responses.md) (counter-measures including Rust-Gun)
+- See [Fortuna Station](../locations/location_fortuna_station.md)
+- See [The Outbreak — Chronological Timeline of Magic's Return](../timeline/outbreak_timeline.md)
 
 ## Revision Notes
 

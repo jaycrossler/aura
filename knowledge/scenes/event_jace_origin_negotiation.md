@@ -103,12 +103,12 @@ The boss approves the rep's commission and tells him to take the rest of the aft
 
 ## Cross-References
 
-- See `/characters/char_jace_apollo.md`
-- See `/characters/char_cerberus.md`
-- See `/factions/faction_origin_industries.md`
-- See `/technology/tech_cybernetics.md` (HUD deactivation as plot lever)
-- See `/scenes/event_jace_doctor_appointment.md` (HUD deactivation set up here)
-- See `/ships/ship_falcon.md`
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
+- See [Cerberus](../characters/char_cerberus.md)
+- See [Origin Industries](../factions/faction_origin_industries.md)
+- See [Cybernetic Augmentation Systems](../technology/tech_cybernetics.md) (HUD deactivation as plot lever)
+- See [Scene — The Doctor's Office](event_jace_doctor_appointment.md) (HUD deactivation set up here)
+- See [Falcon ("Barnyard 1" / "The Chicken Coop")](../ships/ship_falcon.md)
 
 ## Revision Notes
 

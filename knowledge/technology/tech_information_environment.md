@@ -20,7 +20,7 @@ This document captures the everyday texture of how characters in 2105 access, co
 
 - **The future is information-abundant, not information-scarce.** When Jace looks up the people on Fortuna Station before he ships out, he can find them — message boards, video diaries, interviews, public-facing AI assessments of the community. This is not a lost world he's heading to. It's a documented one.
 - **Sanitized vs. real.** What the AI recommends and what the actual experience will be are not the same. The information environment is honest in volume and dishonest in curation. By the time Jace arrives at Fortuna, he has a head full of preview content that bears partial but incomplete resemblance to the place he finds.
-- **Censorship is invisible.** Filtering happens upstream of users. Most people do not notice that certain topics are quietly de-prioritized in their feeds, that certain sources don't reach them, that their Aura's "balanced summary" of a contested issue has been shaped by upstream content moderation. (See `/technology/tech_communications_filtering.md` for the censorship side of this picture.)
+- **Censorship is invisible.** Filtering happens upstream of users. Most people do not notice that certain topics are quietly de-prioritized in their feeds, that certain sources don't reach them, that their Aura's "balanced summary" of a contested issue has been shaped by upstream content moderation. (See [Communications Filtering and Censorship Architecture](tech_communications_filtering.md) for the censorship side of this picture.)
 - **The producers are everywhere.** Every Mars resident, every belter, every cycler crew member can (and most do) produce content. The amateur-producer to professional-producer ratio is enormous. The information environment is dominated by amateurs whose authority comes from access, not credentials.
 
 ## Major Components
@@ -86,18 +86,18 @@ The information environment is not separate from life. It is a layer over life.
 ## Limitations and Failures
 
 - **Aggregation distortion.** What a user's Aura tells them about a topic is a synthesis of many sources, weighted by the Aura's training, the upstream content ecosystem, and the user's history. Bias accumulates in ways individual users cannot easily detect.
-- **Censorship invisibility.** Upstream filtering — by states, by corporations, by platforms — shapes what reaches users. Most users have no direct sense of what is missing. (See `/technology/tech_communications_filtering.md`.)
+- **Censorship invisibility.** Upstream filtering — by states, by corporations, by platforms — shapes what reaches users. Most users have no direct sense of what is missing. (See [Communications Filtering and Censorship Architecture](tech_communications_filtering.md).)
 - **Bandwidth and latency.** Belt residents experience the information environment with significant latency — Earth content reaches them with hours of delay, sometimes more, depending on light-time and relay capacity. Belt-native content circulates locally faster than Earth-native content can reach the belt. This shapes belt culture.
 - **The blackout impact.** When the communications blackout falls, the belt loses its real-time access to the broader information environment. Belters' Auras still work, but their information becomes increasingly dated, increasingly local, and increasingly belter. This accelerates belter cultural divergence.
 
 ## Cross-References
 
-- See `/technology/tech_aura_ai.md`
-- See `/technology/tech_communications_filtering.md`
-- See `/technology/tech_cybernetics.md`
-- See `/locations/location_mars_consumer_district.md` (where the information environment is most visibly commercialized)
-- See `/scenes/event_jace_bar_rumors.md` (where the rumor-layer of the information environment surfaces in dialogue)
-- See `/factions/faction_belter_stations.md` (belter information dynamics)
+- See [Aura](tech_aura_ai.md)
+- See [Communications Filtering and Censorship Architecture](tech_communications_filtering.md)
+- See [Cybernetic Augmentation Systems](tech_cybernetics.md)
+- See [Mars Consumer District](../locations/location_mars_consumer_district.md) (where the information environment is most visibly commercialized)
+- See [Scene — The Bar (Rumors of Disaster)](../scenes/event_jace_bar_rumors.md) (where the rumor-layer of the information environment surfaces in dialogue)
+- See [The Belter Stations](../factions/faction_belter_stations.md) (belter information dynamics)
 
 ## Open Questions
 

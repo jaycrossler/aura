@@ -120,11 +120,11 @@ The author wants to make the software architecture interesting to readers across
 
 ## Cross-References
 
-- See `/knowledge/universe-spec/tech_information_environment.md`
-- See `/knowledge/technology/tech_communications_filtering.md`
-- See `/knowledge/universe-spec/concept_mil_ex_implants.md`
-- See `/knowledge/magic-systems/magic_overview.md`
-- See `/knowledge/characters/char_aura_engineer_TBD.md` (future file)
+- See [The Information Environment (2105)](../technology/tech_information_environment.md)
+- See [Communications Filtering and Censorship Architecture](../technology/tech_communications_filtering.md)
+- See [MilX — Military Implant Systems and the Implant Ecosystem](concept_mil_ex_implants.md)
+- See [Magic — Overview and Fundamental Principles](../magic-systems/magic_overview.md)
+- See [Identity](../characters/char_aura_engineer.md) (future file)
 
 ## Revision Notes
 

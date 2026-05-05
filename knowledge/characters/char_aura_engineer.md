@@ -74,7 +74,7 @@ He builds Auras for individuals because that is how he funds the larger work —
 
 ## How Jace Meets Him
 
-Jace's gaming-friend-best-friend (`/characters/char_jace_best_friend.md`) introduces Jace to the engineer shortly after arrival on Fortuna. The HUD that the U.S. Air Force gave Jace, originally reactivated through the deal with Mei and Sylvester, is hardware-capable but software-locked. The engineer can unlock it and install Aura.
+Jace's gaming-friend-best-friend ([Identity](char_jace_best_friend.md)) introduces Jace to the engineer shortly after arrival on Fortuna. The HUD that the U.S. Air Force gave Jace, originally reactivated through the deal with Mei and Sylvester, is hardware-capable but software-locked. The engineer can unlock it and install Aura.
 
 The transaction takes the form of trade goods (Jace pays partly in things he brought up — small luxuries, specific minerals, some debt-paper) plus a service exchange — Jace agrees to bring back specific samples or sensor readings from his upcoming mining expeditions. This trade-and-favor pattern is how the engineer's whole economy works.
 

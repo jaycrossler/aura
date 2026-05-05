@@ -75,7 +75,7 @@ Ferries are not standardized; each shipment is configured for its specific desti
 - **Infrastructure-primary class.** Heavy on shipping containers and prefabricated modules. Smaller livestock complement. Used for major construction pushes.
 - **Settler-primary class.** Heavy on human accommodation; carries 30–60 settlers in addition to crew. Limited animal complement.
 
-Jace's ferry is a livestock-primary class with a settler complement of approximately 20–30, plus the working crew. (Specific ship to be developed in `/ships/ship_falcon.md`.)
+Jace's ferry is a livestock-primary class with a settler complement of approximately 20–30, plus the working crew. (Specific ship to be developed in [Falcon ("Barnyard 1" / "The Chicken Coop")](../ships/ship_falcon.md).)
 
 ## Risks
 
@@ -95,6 +95,6 @@ Jace's ferry is a livestock-primary class with a settler complement of approxima
 
 ## Cross-References
 
-- See `/technology/tech_cyclers.md` for the inner-system counterpart.
-- See `/locations/location_asteroid_belt_overview.md` for ferry destinations.
-- See `/characters/char_jace_apollo.md` for a ferry crewman's perspective.
+- See [The Cycler System](tech_cyclers.md) for the inner-system counterpart.
+- See [The Asteroid Belt (Overview)](../locations/location_asteroid_belt_overview.md) for ferry destinations.
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md) for a ferry crewman's perspective.

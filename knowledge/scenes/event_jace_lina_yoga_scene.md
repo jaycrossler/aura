@@ -185,11 +185,11 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See `/knowledge/characters/char_lina_mills.md`
-- See `/knowledge/universe-spec/magic_manifestations_early.md`
-- See `/knowledge/magic-systems/magic_overview.md` (stillness as portal theme)
-- See `/knowledge/characters/char_cerberus.md` (parallel sensitivity thread)
-- See `/knowledge/timeline/scenes_temporal_map.md`
+- See [Lina Mills](../characters/char_lina_mills.md)
+- See [Early Manifestations — Pre-Understanding Phase](../magic-systems/magic_manifestations_early.md)
+- See [Magic — Overview and Fundamental Principles](../magic-systems/magic_overview.md) (stillness as portal theme)
+- See [Cerberus](../characters/char_cerberus.md) (parallel sensitivity thread)
+- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
 
 ## Revision Notes
 

@@ -115,13 +115,13 @@ Belters experience this as a near-total cut from inner-system contact. From Eart
 
 ## Cross-References
 
-- See `/technology/tech_information_environment.md` (the broader information environment this filtering shapes)
-- See `/technology/tech_aura_ai.md` (Auras work around filtering, sometimes amplify it)
-- See `/factions/faction_megacorps.md` (corporate filtering motivations)
-- See `/factions/faction_united_states_mars.md` and other state factions
-- See `/scenes/event_jace_messages_home.md` (where filtering effects first surface)
-- See `/scenes/event_jace_doctor_appointment.md` (where filtering becomes diegetic — the doctor's "the signal to Odysseus has been bad lately")
-- See `/scenes/event_jace_bar_rumors.md` (the rumor field as filtering symptom)
+- See [The Information Environment (2105)](tech_information_environment.md) (the broader information environment this filtering shapes)
+- See [Aura](tech_aura_ai.md) (Auras work around filtering, sometimes amplify it)
+- See [The Megacorporations](../factions/faction_megacorps.md) (corporate filtering motivations)
+- See [The United States of Mars](../factions/faction_united_states_mars.md) and other state factions
+- See [Event: Jace Messages Home](../scenes/event_jace_messages_home.md) (where filtering effects first surface)
+- See [Scene — The Doctor's Office](../scenes/event_jace_doctor_appointment.md) (where filtering becomes diegetic — the doctor's "the signal to Odysseus has been bad lately")
+- See [Scene — The Bar (Rumors of Disaster)](../scenes/event_jace_bar_rumors.md) (the rumor field as filtering symptom)
 
 ## Open Questions
 

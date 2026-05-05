@@ -29,35 +29,35 @@ The largest and most agriculturally developed station. American-anchored, Origin
 
 Fortuna is the agricultural hub of the inner belt — its livestock program and food production capacity make it strategically important for belt-wide food supply. It is Jace Grant's destination, and the primary setting of Book 1's belt chapters.
 
-See `/locations/location_fortuna_station.md`
+See [Fortuna Station](../locations/location_fortuna_station.md)
 
 ### Psyche Station (16 Psyche — middle belt, M-type metallic, ~226km)
 The most economically valuable station in the belt. Chinese-anchored, Tianhe Cosmics primary operator. Population approximately 250-400.
 
 16 Psyche is an exposed planetary core — predominantly iron-nickel with significant platinum-group metals. Psyche Station's metallic output is strategically significant for both belt and Mars construction. Chinese control of this station is a geopolitical fact that other factions work around.
 
-See `/locations/location_psyche_station.md`
+See [Psyche Station](../locations/location_psyche_station.md)
 
 ### Juno Station (3 Juno — inner belt, S-type, ~233km)
 A well-established construction-materials station. Governance TBD (European or American-adjacent). Population approximately 200-350.
 
 S-type composition provides high-quality silicates and metallic minerals for habitat construction. Juno and Fortuna are natural trading partners in the inner belt.
 
-See `/locations/location_juno_station.md`
+See [Juno Station](../locations/location_juno_station.md)
 
 ### Sylvia Station (87 Sylvia — outer belt, X-type, ~286km, with moons Romulus and Remus)
 Outer belt station with a unique triple-body anchor. Governance TBD. Population approximately 150-280.
 
 The most complex orbital environment of the five — navigating the Sylvia system requires skill. The two moons (Romulus and Remus) are surveyed and partially operational, representing significant future expansion capacity. Higher flux exposure than inner-belt stations.
 
-See `/locations/location_sylvia_station.md`
+See [Sylvia Station](../locations/location_sylvia_station.md)
 
 ### Odysseus Station (143 Odysseus — Jupiter L4, D-type trojan, ~125km)
 The farthest permanent human station, in the Jupiter trojan cluster at ~5.2 AU. Multinational consortium. Population approximately 80-150.
 
 Odysseus is the smallest and most isolated of the five, but the most advanced in magical exposure. The resonance flux front reached it first. Artemis Grant is stationed here. Communications with Odysseus degraded before other stations and will cut out first.
 
-See `/locations/location_odysseus_station.md`
+See [Odysseus Station](../locations/location_odysseus_station.md)
 
 ## Inter-Station Relations
 

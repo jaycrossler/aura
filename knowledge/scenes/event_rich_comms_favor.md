@@ -29,7 +29,7 @@ After Jace is discharged for the bone disease and stripped of his HUD and milita
 - **Establishes Rich's compassion in concrete action.** It's one thing to be warm and dryly funny on the tour. It's another to risk professional exposure to help a friend who can no longer help himself.
 - **Sets up Rich as a recurring resource.** This is the favor; later, Jace may need (or be tempted to ask for) more. Whether Rich gives more is a real question.
 - **Demonstrates the limits of military friendship.** Rich helps. He doesn't help unconditionally. He has a wife and three kids back on Earth and a career he is responsible for. The favor lands with weight precisely because it costs him something to give.
-- **Plants the comms-filtering theme.** What Rich can do for Jace, and what he can't, exposes how thoroughly information is filtered in this world. (See `/knowledge/technology/tech_communications_filtering.md`.)
+- **Plants the comms-filtering theme.** What Rich can do for Jace, and what he can't, exposes how thoroughly information is filtered in this world. (See [Communications Filtering and Censorship Architecture](../technology/tech_communications_filtering.md).)
 
 ## Open Questions / TBD
 
@@ -109,11 +109,11 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See `/knowledge/characters/char_lt_rich_cullivan.md`
-- See `/knowledge/characters/char_jace_apollo.md`
-- See `/knowledge/scenes/event_jace_doctor_appointment.md` (the catastrophe this scene answers)
-- See `/knowledge/technology/tech_communications_filtering.md`
-- See `/knowledge/timeline/scenes_temporal_map.md`
+- See [Lieutenant Rich Cullivan](../characters/char_lt_rich_cullivan.md)
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
+- See [Scene — The Doctor's Office](event_jace_doctor_appointment.md) (the catastrophe this scene answers)
+- See [Communications Filtering and Censorship Architecture](../technology/tech_communications_filtering.md)
+- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
 
 ## Revision Notes
 

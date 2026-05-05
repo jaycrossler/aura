@@ -92,12 +92,12 @@ Cross-cultural workforce. Mars-born young adults make up a growing share. The di
 
 ## Cross-References
 
-- See `/locations/location_mars_overview.md`
-- See `/factions/faction_megacorps.md` (Origin Industries and others operate here)
-- See `/factions/faction_origin_industries.md`
-- See `/locations/location_asteroid_belt_overview.md` (source of feedstocks)
-- See `/scenes/event_jace_bar_rumors.md` (supply-chain anxiety surfaces in dialogue)
-- See `/characters/char_smuggler_mars.md`
+- See [Mars (Inhabited World Overview)](location_mars_overview.md)
+- See [The Megacorporations](../factions/faction_megacorps.md) (Origin Industries and others operate here)
+- See [Origin Industries](../factions/faction_origin_industries.md)
+- See [The Asteroid Belt (Overview)](location_asteroid_belt_overview.md) (source of feedstocks)
+- See [Scene — The Bar (Rumors of Disaster)](../scenes/event_jace_bar_rumors.md) (supply-chain anxiety surfaces in dialogue)
+- See [The Rat (the Mars Launch Facility Smuggler)](../characters/char_smuggler_mars.md)
 
 ## Revision Notes
 

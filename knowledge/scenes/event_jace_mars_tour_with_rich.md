@@ -276,11 +276,11 @@ The HUD/fiscal exchange should land more or less as drafted in the conversation:
 
 ## Cross-References
 
-- See `/characters/char_lt_rich_cullivan.md`
-- See `/characters/char_jace_apollo.md`
-- See `/locations/location_mars_overview.md`
-- See `/scenes/event_jace_doctor_appointment.md` (pays off this scene's setup)
-- See `/scenes/book01-opening-notes.md` for sequencing
+- See [Lieutenant Rich Cullivan](../characters/char_lt_rich_cullivan.md)
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
+- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md)
+- See [Scene — The Doctor's Office](event_jace_doctor_appointment.md) (pays off this scene's setup)
+- See [Book 1 — Opening Notes](book01-opening-notes.md) for sequencing
 
 ## Revision Notes
 

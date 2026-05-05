@@ -87,6 +87,6 @@ This cosmology gives the story:
 
 ## Cross-References
 
-- See `/magic-systems/magic_returning_arts.md` for how magic manifests.
-- See `/timeline/timeline_master.md` for the radiation front timeline.
-- See `/universe-spec/physics-and-magic-interaction.md` for the rules of how flux affects physical systems.
+- See [The Returning Arts](../magic-systems/magic_returning_arts.md) for how magic manifests.
+- See [Master Timeline](../timeline/timeline_master.md) for the radiation front timeline.
+- See [Physics and Magic Interaction](physics-and-magic-interaction.md) for the rules of how flux affects physical systems.

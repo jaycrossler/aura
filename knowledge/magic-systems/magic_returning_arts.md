@@ -14,11 +14,11 @@ last_updated: 2026-04-28
 
 What was once called magic is returning to the solar system. The phenomenon is real, physical, and bounded by rules — but those rules are rediscovered ones, fragmentary across surviving traditions and partly novel under modern conditions. Practitioners call it many things in many languages: the Old Working, *qi* awakening, *shakti* return, the Re-Veiling (an ironic name for the un-veiling), the Glimmer, and others. Story-internal academic and corporate writing settles, over time, on **the Returning Arts** as a relatively neutral umbrella term.
 
-This document collects what is currently known and theorized about how the Arts work in practice. For the underlying physics, see `/universe-spec/cosmology.md` and `/universe-spec/physics-and-magic-interaction.md`.
+This document collects what is currently known and theorized about how the Arts work in practice. For the underlying physics, see [Cosmology](../universe-spec/cosmology.md) and [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md).
 
 ## Cultural Schools — Detailed
 
-For detailed treatment of the major emerging cultural schools (Norse Berserker, Greek Harmonic, Chinese Inscribed, Indian Vedic, Norse Skaldic, Germanic Oath-Bound, and the American fusion path), see `/magic-systems/magic_cultural_schools.md`.
+For detailed treatment of the major emerging cultural schools (Norse Berserker, Greek Harmonic, Chinese Inscribed, Indian Vedic, Norse Skaldic, Germanic Oath-Bound, and the American fusion path), see [Cultural Schools of the Returning Arts](magic_cultural_schools.md).
 
 
 ## How Practitioners Experience It
@@ -46,7 +46,7 @@ The post-effect cost is real: fatigue, mild fever, headache, disorientation. Hea
 
 ## The Five Categories
 
-(See `/universe-spec/physics-and-magic-interaction.md` for the canonical category definitions. Brief recap.)
+(See [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md) for the canonical category definitions. Brief recap.)
 
 - **Kinesis** — direct effect on matter and motion.
 - **Thermal** — movement of heat and combustion.
@@ -138,7 +138,7 @@ His specific category affinity is to be developed. (Sensing-primary feels narrat
 
 ## Cross-References
 
-- See `/universe-spec/cosmology.md` for the supernova source.
-- See `/universe-spec/physics-and-magic-interaction.md` for hard rules.
-- See `/technology/tech_aura_ai.md` for AI-magic interactions.
-- See `/characters/char_jace_apollo.md` for Jace's emerging path.
+- See [Cosmology](../universe-spec/cosmology.md) for the supernova source.
+- See [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md) for hard rules.
+- See [Aura](../technology/tech_aura_ai.md) for AI-magic interactions.
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md) for Jace's emerging path.

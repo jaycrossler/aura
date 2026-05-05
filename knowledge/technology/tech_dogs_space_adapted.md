@@ -66,10 +66,10 @@ The decision in favor was made on cost-benefit grounds, with the symbolic argume
 
 ## Cross-References
 
-- `/characters/char_cerberus.md` — Cerberus.
-- `/characters/char_dog_beta.md` — Siren.
-- `/scenes/book01-transit-vignettes.md` — the dogs' role in transit.
-- `/ships/ship_falcon.md` — the ship that carries them.
+- [Cerberus](../characters/char_cerberus.md) — Cerberus.
+- [Identity](../characters/char_dog_beta.md) — Siren.
+- [Book 1 — Transit Vignettes](../scenes/book01-transit-vignettes.md) — the dogs' role in transit.
+- [Falcon ("Barnyard 1" / "The Chicken Coop")](../ships/ship_falcon.md) — the ship that carries them.
 
 ## Revision Notes
 

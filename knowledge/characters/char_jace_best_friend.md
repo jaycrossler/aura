@@ -75,7 +75,7 @@ The recommended direction is **Icelandic-descended**, second-generation Mars-bor
 - **Online during transit.** A voice and a screen presence; a relationship that grows by accretion of small shared moments.
 - **In-person on arrival.** They meet Jace at the airlock or shortly after; the moment is intentionally underplayed — both have built up the meeting in their heads, and they handle the awkwardness of it differently than they expected.
 - **Tour guide.** Shows Jace the station's actual social geography (which mess hall has the best bread, which corridor the engineers haunt, which faction not to insult).
-- **Introduction.** Brings Jace to the Aura engineer (see `/characters/char_aura_engineer.md`). This is how Jace's HUD ends up running a personal Aura instance.
+- **Introduction.** Brings Jace to the Aura engineer (see [Identity](char_aura_engineer.md)). This is how Jace's HUD ends up running a personal Aura instance.
 - **Crewmate.** They end up on the same mining ship for early Book 2 expeditions. The bond deepens.
 - **Magical mirror.** They are also a sensitive, emerging at the same time. They learn alongside Jace, from a different cultural starting point. Their conversations become a primary mechanism by which the reader learns about the Returning Arts.
 

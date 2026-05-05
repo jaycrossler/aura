@@ -19,7 +19,7 @@ cross_references:
 
 Magic does not announce itself. In the early phase of its return to the solar system, it arrives as malfunction, accident, and anomaly. The people who encounter it first have no vocabulary for what they are seeing and reach for the explanations they have: equipment failure, sabotage, software bugs, stress-induced hallucination. These explanations hold until they stop holding.
 
-This document catalogs observable phenomena from the early outbreak — what Jace and others encounter on Mars before anyone has a framework for what it is. The theoretical underpinnings are documented in `/knowledge/magic-systems/magic_overview.md`.
+This document catalogs observable phenomena from the early outbreak — what Jace and others encounter on Mars before anyone has a framework for what it is. The theoretical underpinnings are documented in [Magic — Overview and Fundamental Principles](magic_overview.md).
 
 ---
 
@@ -174,12 +174,12 @@ Information that cannot be synthesized — physical objects, analog records on p
 
 ## Cross-References
 
-- See `/knowledge/timeline/outbreak_timeline.md`
-- See `/knowledge/magic-systems/magic_overview.md`
-- See `/knowledge/characters/char_cerberus.md` (flux barometer)
-- See `/knowledge/characters/char_jace_apollo.md`
-- See `/knowledge/universe-spec/concept_aura_ai_system.md` (Mute Protocol)
-- See `/knowledge/universe-spec/tech_information_environment.md`
+- See [The Outbreak — Chronological Timeline of Magic's Return](../timeline/outbreak_timeline.md)
+- See [Magic — Overview and Fundamental Principles](magic_overview.md)
+- See [Cerberus](../characters/char_cerberus.md) (flux barometer)
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
+- See [Aura — The Distributed AI System](../universe-spec/concept_aura_ai_system.md) (Mute Protocol)
+- See [The Information Environment (2105)](../technology/tech_information_environment.md)
 
 ## Revision Notes
 

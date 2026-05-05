@@ -315,10 +315,10 @@ Rich's knowledge stays mostly stable — he's not the protagonist learning new t
 
 ## Cross-References
 
-- See `/characters/char_lt_rich_cullivan.md` (full character bio)
+- See [Lieutenant Rich Cullivan](char_lt_rich_cullivan.md) (full character bio)
 - See `/scenes/choreography/choreo_event_jace_mars_tour_with_rich.md` (primary scene)
 - See `/scenes/choreography/choreo_event_jace_doctor_appointment.md` (concern role)
-- See `/storybot/metadata_template_guide.md`
+- See [StoryBot Metadata Template Guide](../storybot/metadata_template_guide.md)
 
 ## Revision Notes
 

@@ -389,10 +389,10 @@ Jace's knowledge evolves throughout Book 1. The StoryBot must track what he know
 
 ## Cross-References
 
-- See `/characters/char_jace_apollo.md` (full character bio)
+- See [Jace Apollo Grant](char_jace_apollo.md) (full character bio)
 - See `/characters/states/char_jace_states.md` (emotional/physical states detailed)
 - See `/scenes/choreography/` (specific scene applications)
-- See `/storybot/metadata_template_guide.md`
+- See [StoryBot Metadata Template Guide](../storybot/metadata_template_guide.md)
 
 ## Revision Notes
 

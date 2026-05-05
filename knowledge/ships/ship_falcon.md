@@ -88,7 +88,7 @@ By the third month, the anomalies are occurring daily. The *Falcon*'s Aura has s
 
 ## Technical Notes
 
-See `/ships/ship_livestock_ferry_class.md` for class specifications. The *Falcon* is a standard livestock-primary variant with no significant deviations from class. She is mid-lifespan, well-maintained, with a reactor that has three more years before scheduled major overhaul.
+See [Livestock-Primary Ferry (Class Document)](ship_livestock_ferry_class.md) for class specifications. The *Falcon* is a standard livestock-primary variant with no significant deviations from class. She is mid-lifespan, well-maintained, with a reactor that has three more years before scheduled major overhaul.
 
 ## Open Questions
 

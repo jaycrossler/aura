@@ -49,9 +49,9 @@ The crew of a cycler is a distinct subculture. They are the most-traveled humans
 
 ## The Three Ships
 
-- ***Niña*** — First commissioned. The senior ship. See `/ships/ship_nina.md`.
-- ***Pinta*** — Second commissioned, slightly larger and refit more recently. See `/ships/ship_pinta.md`.
-- ***Santa María*** — Third commissioned, the largest, with the most modern systems. See `/ships/ship_santa_maria.md`.
+- ***Niña*** — First commissioned. The senior ship. See [Niña](../ships/ship_nina.md).
+- ***Pinta*** — Second commissioned, slightly larger and refit more recently. See [Pinta](../ships/ship_pinta.md).
+- ***Santa María*** — Third commissioned, the largest, with the most modern systems. See [Santa María](../ships/ship_santa_maria.md).
 
 The Christopher Columbus naming was, in-universe, controversial when proposed and remains contested. The names stuck because the corporate consortium that financed construction wanted the historical resonance and outvoted the academic objections. Some belters and Mars-born civilians refer to them by Spanish-only names or by working nicknames.
 
@@ -65,7 +65,7 @@ This shared ownership has stabilized the cycler system through several geopoliti
 
 For a colonist headed to Mars, boarding a cycler is the closest modern analog to crossing the Atlantic on a passenger liner in the 19th and 20th centuries. The transit takes months; relationships form; people emerge changed at the other end. Cycler crews have developed traditions around departure, arrival, and the long deep-space stretches between. Marriages, deaths, conversions, and feuds all happen aboard the cyclers.
 
-The cyclers do not run to the asteroid belt. Belt transit is handled by a separate class of nuclear-thrust ferries based at Mars (see `/technology/tech_nuclear_ferries.md`). The cyclers are an inner-system institution.
+The cyclers do not run to the asteroid belt. Belt transit is handled by a separate class of nuclear-thrust ferries based at Mars (see [Nuclear Ferry System](tech_nuclear_ferries.md)). The cyclers are an inner-system institution.
 
 ## Open Questions
 
@@ -77,6 +77,6 @@ The cyclers do not run to the asteroid belt. Belt transit is handled by a separa
 
 ## Cross-References
 
-- See `/ships/ship_nina.md`, `/ships/ship_pinta.md`, `/ships/ship_santa_maria.md`.
-- See `/technology/tech_nuclear_ferries.md` for the very different Mars-Belt transit class.
-- See `/timeline/timeline_master.md` for cycler history.
+- See [Niña](../ships/ship_nina.md), [Pinta](../ships/ship_pinta.md), [Santa María](../ships/ship_santa_maria.md).
+- See [Nuclear Ferry System](tech_nuclear_ferries.md) for the very different Mars-Belt transit class.
+- See [Master Timeline](../timeline/timeline_master.md) for cycler history.

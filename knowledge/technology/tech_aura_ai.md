@@ -77,7 +77,7 @@ As the resonance flux from the supernova reaches the asteroid belt, Auras in hig
 
 Whether this is "AI sensing flux" (the conservative interpretation) or "AI participating in flux phenomena" (the radical interpretation) is contested. The phenomenon is real. The interpretation is theology.
 
-For Jace's Aura specifically, see the development arc in `/characters/char_jace_apollo.md`. His Aura is a relatively recent migration from a military-restricted instance to a commercial belter-grade instance. It is learning him fast.
+For Jace's Aura specifically, see the development arc in [Jace Apollo Grant](../characters/char_jace_apollo.md). His Aura is a relatively recent migration from a military-restricted instance to a commercial belter-grade instance. It is learning him fast.
 
 ## Voice and Personality (Generic)
 
@@ -100,6 +100,6 @@ Jace's Aura has the following starting characteristics (refine in his character 
 
 ## Cross-References
 
-- See `/characters/char_jace_apollo.md` for Jace's specific Aura.
-- See `/universe-spec/physics-and-magic-interaction.md` for AI-magic interactions.
-- See `/technology/tech_cybernetics.md` for HUD-integrated Aura instances.
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md) for Jace's specific Aura.
+- See [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md) for AI-magic interactions.
+- See [Cybernetic Augmentation Systems](tech_cybernetics.md) for HUD-integrated Aura instances.

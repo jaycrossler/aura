@@ -1,3 +1,3 @@
 # Improvised Responses
 
-Canonical file moved: `knowledge/magic-systems/magic_improvised_responses.md`.
+Canonical file moved: [Improvised Responses to the Outbreak — Belt Field Adaptations](magic_improvised_responses.md).

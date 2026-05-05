@@ -13,7 +13,7 @@ birthplace: Mars (U.S. settlement dog breeder facility — sub-facility within t
 
 # Status
 status: alive
-first_appearance: Book 1 — first seen by Jace as a newborn at the dog breeder facility during the hard months (see `/knowledge/scenes/event_jace_dog_breeder_visits.md`); negotiated onto the Falcon during the Origin meeting
+first_appearance: Book 1 — first seen by Jace as a newborn at the dog breeder facility during the hard months (see [Scene — Jace's Dog Breeder Visits](../scenes/event_jace_dog_breeder_visits.md)); negotiated onto the Falcon during the Origin meeting
 last_appearance: ongoing — series-spanning companion
 pov_character: false
 recurring: true (major)
@@ -88,7 +88,7 @@ On the walk home from one of those later visits, Jace named the puppy **Cerberus
 
 When the Origin negotiation came a few days later, the question Jace asked — *can I bring the puppy with me on the ferry?* — was not impulsive. It was the only outcome of weeks of attachment that Jace had not allowed himself to plan for openly.
 
-(See `/knowledge/scenes/event_jace_dog_breeder_visits.md` for the recurring scene structure.)
+(See [Scene — Jace's Dog Breeder Visits](../scenes/event_jace_dog_breeder_visits.md) for the recurring scene structure.)
 
 ## The Origin Negotiation
 

@@ -81,11 +81,11 @@ Once Jace is discharged, he is no longer "LT" or "Lieutenant" to anyone. Civilia
 
 ## Cross-References
 
-- See `/knowledge/characters/char_lt_rich_cullivan.md`
-- See `/knowledge/characters/char_jace_apollo.md`
-- See `/knowledge/characters/voice_char_lt_rich_cullivan.md`
-- See `/knowledge/characters/voice_char_jace_apollo.md`
-- See `/knowledge/locations/location_mars_us_afspace_force_base.md`
+- See [Lieutenant Rich Cullivan](../characters/char_lt_rich_cullivan.md)
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
+- See [Character Voice Profile — Lt. Rich Cullivan](../characters/voice_char_lt_rich_cullivan.md)
+- See [Character Voice Profile — Jace Apollo Grant](../characters/voice_char_jace_apollo.md)
+- See [U.S. Air Force / Space Force Joint Base (Terminus)](../locations/location_mars_us_afspace_force_base.md)
 
 ## Revision Notes
 

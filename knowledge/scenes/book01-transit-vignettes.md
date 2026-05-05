@@ -14,7 +14,7 @@ last_updated: 2026-04-29
 
 These are short scene sketches and beats that should be threaded through the four-and-a-half month *Falcon* transit chapters. They are the warmth and small joys that balance the encroaching horror. Many will be cut to vignette length in the final draft; some may expand into full scenes. The point is to ensure these moments are *planned for*, not improvised in.
 
-For the transit's overall arc, see `/scenes/book01-opening-notes.md` and `/timeline/timeline_master.md`.
+For the transit's overall arc, see [Book 1 — Opening Notes](book01-opening-notes.md) and [Master Timeline](../timeline/timeline_master.md).
 
 ## Animal Bonding
 

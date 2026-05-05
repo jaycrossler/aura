@@ -89,6 +89,6 @@ Over the story arc:
 
 ## Cross-References
 
-- See `/locations/location_mars_overview.md` for Mars geography.
-- See `/characters/char_jace_apollo.md` for an Air Force officer's perspective.
+- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md) for Mars geography.
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md) for an Air Force officer's perspective.
 - See `/factions/faction_chinese_mars_settlement.md` and other Mars factions.

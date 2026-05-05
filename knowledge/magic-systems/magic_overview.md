@@ -46,7 +46,7 @@ Manifestations are emergences of magical energy into the physical world. They ta
 - Animals perceive manifestations before humans do, consistently
 - Certain humans develop sensitivity over time — some become able to perceive manifestations earlier and more clearly than others
 
-**The silicon cryptids (from Fortuna context):** One class of manifestation, observed primarily in the manufacturing and smelting environments of Fortuna and similar industrial belt stations. These emerge from the focused, repetitive, high-stress consciousness of industrial labor. They interact with silicon and metal in distinctive ways. They are destructive. Full documentation in `/knowledge/magic-systems/cryptids_silicon.md` (to be developed).
+**The silicon cryptids (from Fortuna context):** One class of manifestation, observed primarily in the manufacturing and smelting environments of Fortuna and similar industrial belt stations. These emerge from the focused, repetitive, high-stress consciousness of industrial labor. They interact with silicon and metal in distinctive ways. They are destructive. Full documentation in [Silicon Manifestations — The Glass-Infestation Class](magic_cryptids_silicon.md) (to be developed).
 
 **The early Mars manifestations:** What Jace encounters on Mars — fractal powder in the sewer, the glowing snake at the Bird Dome, patterned static in drone systems — are early, small manifestations, the leading edge of a wave. Mars has millions of times more human consciousness than the belt, which means the eventual scale of manifestation there will be enormous. But Mars's sheer density also means the manifestations are diluted across a vast pool of consciousness and take longer to cohere into large, visible forms.
 
@@ -77,7 +77,7 @@ This is a question the story will answer over time. The full explanation is a se
 
 **To the scientists at Odysseus and Fortuna:** A new physical phenomenon. Non-Euclidean. Producible by a rotating pulsar. Follows laws they don't yet understand but are trying to codify. The scientific frame is real — this approach will produce real results.
 
-**To the miners and engineers:** Something wrong. Equipment failing. Things that shouldn't be moving, moving. Things that shouldn't exist, existing. The pragmatic frame produces the improvised arsenal (see `/knowledge/magic-systems/improvised_responses.md`).
+**To the miners and engineers:** Something wrong. Equipment failing. Things that shouldn't be moving, moving. Things that shouldn't exist, existing. The pragmatic frame produces the improvised arsenal (see [Improvised Responses to the Outbreak — Belt Field Adaptations](magic_improvised_responses.md)).
 
 **To Jace:** Noise, weirdness, anomaly, and then accumulation. He will take longer than most to use the word "magic" even privately. His engineering and military background make him resist the frame until it is the only frame that fits.
 
@@ -87,7 +87,7 @@ This is a question the story will answer over time. The full explanation is a se
 
 ## Aura and Magic
 
-The Aura AI system's distributed architecture makes it uniquely suited to survive and adapt to magical intrusion (documented in `/knowledge/universe-spec/concept_aura_ai_system.md`). This is not a coincidence in the story — the engineer who built Aura was already, on some level, building for a world where centralized systems fail. Whether they knew this consciously is a question the story will address.
+The Aura AI system's distributed architecture makes it uniquely suited to survive and adapt to magical intrusion (documented in [Aura — The Distributed AI System](../universe-spec/concept_aura_ai_system.md)). This is not a coincidence in the story — the engineer who built Aura was already, on some level, building for a world where centralized systems fail. Whether they knew this consciously is a question the story will address.
 
 ---
 
@@ -105,11 +105,11 @@ The Aura AI system's distributed architecture makes it uniquely suited to surviv
 
 ## Cross-References
 
-- See `/knowledge/timeline/outbreak_timeline.md`
-- See `/knowledge/universe-spec/magic_manifestations_early.md`
-- See `/knowledge/magic-systems/cryptids_silicon.md` (to be created)
-- See `/knowledge/magic-systems/improvised_responses.md` (to be created from zip notes)
-- See `/knowledge/universe-spec/concept_aura_ai_system.md`
+- See [The Outbreak — Chronological Timeline of Magic's Return](../timeline/outbreak_timeline.md)
+- See [Early Manifestations — Pre-Understanding Phase](magic_manifestations_early.md)
+- See [Silicon Manifestations — The Glass-Infestation Class](magic_cryptids_silicon.md) (to be created)
+- See [Improvised Responses to the Outbreak — Belt Field Adaptations](magic_improvised_responses.md) (to be created from zip notes)
+- See [Aura — The Distributed AI System](../universe-spec/concept_aura_ai_system.md)
 
 ## Revision Notes
 

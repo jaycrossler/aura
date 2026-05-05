@@ -499,12 +499,12 @@ The following should NOT be invented and should be flagged:
 
 ## Cross-References
 
-- See `/scenes/event_jace_gym_arrival.md` (parent scene file)
+- See [Scene — First Gym Session on Mars](event_jace_gym_arrival.md) (parent scene file)
 - See `/characters/voice/char_jace_apollo_voice.md`
 - See `/characters/voice/char_lt_rich_cullivan_voice.md`
 - See `/locations/location_mars_us_settlement.md`
-- See `/timeline/scenes_temporal_map.md`
-- See `/storybot/metadata_template_guide.md`
+- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
+- See [StoryBot Metadata Template Guide](../storybot/metadata_template_guide.md)
 
 ## Revision Notes
 

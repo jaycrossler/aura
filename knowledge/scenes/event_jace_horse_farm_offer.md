@@ -153,14 +153,14 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See `/knowledge/characters/char_jace_apollo.md`
-- See `/knowledge/characters/char_dawn_grant.md` (mother)
-- See `/knowledge/characters/char_chris_grant.md` (father)
-- See `/knowledge/characters/char_jelly_grant.md`
-- See `/knowledge/characters/char_jinx_grant.md`
-- See `/knowledge/scenes/event_jace_origin_negotiation.md`
-- See `/knowledge/scenes/event_jace_dog_breeder_visits.md` (parallel emotional thread)
-- See `/knowledge/timeline/scenes_temporal_map.md`
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
+- See [Dawn and Chris Grant](../characters/char_dawn_chris_grant.md) (mother)
+- See [Dawn and Chris Grant](../characters/char_dawn_chris_grant.md) (father)
+- See [Jelly — Grant Family Dog](../characters/char_jelly_grant.md)
+- See [Jinx — Grant Family Horse](../characters/char_jinx_grant.md)
+- See [Scene — The Origin Industries Negotiation](event_jace_origin_negotiation.md)
+- See [Scene — Jace's Dog Breeder Visits](event_jace_dog_breeder_visits.md) (parallel emotional thread)
+- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
 
 ## Revision Notes
 

@@ -33,7 +33,7 @@ This is the scene (or scene cluster) that **foreshadows Jace's eventual lifelong
 - **Reveals depression.** Jace has nowhere else to go and no one else who is happy to see him. The dogs are happy to see him. He keeps coming back. The reader feels the loneliness without Jace having to articulate it.
 - **Cost-of-Mars contrast.** Jace can't afford coffee, can't afford restaurants, can't afford much of anything. The dog breeder is free. His emotional life relocates to the place that doesn't charge admission.
 - **Cerberus origin.** The mother dog Jace bonds with is Cerberus's mother. The litter he watches arrive includes Cerberus. The "boy puppy not being shipped" is Cerberus. By the time the Origin negotiation happens, Jace has already named the puppy in his head and has weeks of relationship with the family.
-- **The Mars dog breeding program.** Visible to the reader through Jace's eyes — the scale, the seriousness, the science behind the breeding line. Reinforces the worldbuilding established in `/knowledge/characters/char_cerberus.md`.
+- **The Mars dog breeding program.** Visible to the reader through Jace's eyes — the scale, the seriousness, the science behind the breeding line. Reinforces the worldbuilding established in [Cerberus](../characters/char_cerberus.md).
 
 ## Setting
 
@@ -119,12 +119,12 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See `/knowledge/characters/char_jace_apollo.md` (post-discharge arc)
-- See `/knowledge/characters/char_cerberus.md` (full Cerberus origin and breed-line details)
-- See `/knowledge/scenes/event_jace_origin_negotiation.md` (where Jace asks for the puppy)
-- See `/knowledge/scenes/event_jace_horse_farm_offer.md` (parallel emotional driver during the hard months)
-- See `/knowledge/locations/location_terminus.md`
-- See `/knowledge/timeline/scenes_temporal_map.md`
+- See [Jace Apollo Grant](../characters/char_jace_apollo.md) (post-discharge arc)
+- See [Cerberus](../characters/char_cerberus.md) (full Cerberus origin and breed-line details)
+- See [Scene — The Origin Industries Negotiation](event_jace_origin_negotiation.md) (where Jace asks for the puppy)
+- See [Scene — The Horse Farm Offer](event_jace_horse_farm_offer.md) (parallel emotional driver during the hard months)
+- See [Terminus — Mars City (U.S. 56th State)](../locations/location_terminus.md)
+- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
 
 ## Revision Notes
 

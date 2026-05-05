@@ -37,7 +37,7 @@ A single voice session covering Rich's expansion, early-arrival scene texture, C
 ### World Canon
 - **Mars economy & manufacturing:** Repair-and-reuse culture. 3D printing works for structural/mechanical/simple things; does NOT work for complex pharmaceuticals, specialized foods, or advanced biologics. Recycling feeds back into printer feedstock. Labs and chemical factories handle the irreplaceable stuff.
 - **Mars corporate presence:** Almost a thousand American drone aircraft on Mars total; military flies roughly half, corporations fly the rest. Origin Industries, Stellar Dynamics, and smaller players have leased pads at the launch facility, fab district, and elsewhere.
-- **Military address culture:** "LT" is a compassionate nickname for lieutenants used by junior enlisted and (sometimes) superiors as a sign of warmth. Lieutenants do NOT call peers "LT" — they use first names. Full convention canonized in `/knowledge/universe-spec/concept_military_address_culture.md`.
+- **Military address culture:** "LT" is a compassionate nickname for lieutenants used by junior enlisted and (sometimes) superiors as a sign of warmth. Lieutenants do NOT call peers "LT" — they use first names. Full convention canonized in [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md).
 
 ### Scene & Plot Canon
 - **Family-messaging beat merged into the gym scene.** Jace multitasks during the treadmill run: HUD game + family video messages (Dawn, Chris, Athena, including asks about Jelly and Jinx) + repeatedly failed Artemis sends. Oblivious to the two girls trying to flirt. `event_jace_messages_home.md` deprecated.
@@ -84,44 +84,44 @@ A single voice session covering Rich's expansion, early-arrival scene texture, C
 ## Files Created This Session
 
 ### Round 1 (initial expansion)
-- `/knowledge/scenes/event_jace_drone_center_tour.md`
-- `/knowledge/scenes/event_rich_comms_favor.md`
-- `/knowledge/locations/location_mars_us_afspace_force_base.md`
-- `/knowledge/universe-spec/concept_military_address_culture.md`
+- [Scene — Jace's Drone Control Center Tour](../scenes/event_jace_drone_center_tour.md)
+- [Scene — Rich's Comms Favor for Jace](../scenes/event_rich_comms_favor.md)
+- [U.S. Air Force / Space Force Joint Base (Terminus)](../locations/location_mars_us_afspace_force_base.md)
+- [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md)
 
 ### Round 3 (hard months and family)
-- `/knowledge/characters/char_jelly_grant.md`
-- `/knowledge/characters/char_jinx_grant.md`
-- `/knowledge/scenes/event_jace_dog_breeder_visits.md`
-- `/knowledge/scenes/event_jace_horse_farm_offer.md`
+- [Jelly — Grant Family Dog](../characters/char_jelly_grant.md)
+- [Jinx — Grant Family Horse](../characters/char_jinx_grant.md)
+- [Scene — Jace's Dog Breeder Visits](../scenes/event_jace_dog_breeder_visits.md)
+- [Scene — The Horse Farm Offer](../scenes/event_jace_horse_farm_offer.md)
 
 ---
 
 ## Files Modified This Session
 
 ### Full Rewrites
-- `/knowledge/characters/char_cerberus.md` (round 1: dog_alpha merge; round 3: dog breeder pre-bond integrated)
-- `/knowledge/scenes/event_jace_drone_center_tour.md` (round 3: 1000-drones / corporate line, coffee canister beats)
-- `/knowledge/locations/location_mars_overview.md` (Pengu alias, industrial reputation expansion)
-- `/knowledge/timeline/scenes_temporal_map.md` (round 2: chapter assignments, scene splits, merge reflections)
+- [Cerberus](../characters/char_cerberus.md) (round 1: dog_alpha merge; round 3: dog breeder pre-bond integrated)
+- [Scene — Jace's Drone Control Center Tour](../scenes/event_jace_drone_center_tour.md) (round 3: 1000-drones / corporate line, coffee canister beats)
+- [Mars (Inhabited World Overview)](../locations/location_mars_overview.md) (Pengu alias, industrial reputation expansion)
+- [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md) (round 2: chapter assignments, scene splits, merge reflections)
 
 ### Patches Applied (via PATCHES.md, PATCHES_ROUND_2.md, PATCHES_ROUND_3.md)
-- `/knowledge/characters/char_lt_rich_cullivan.md` — kid count, role, compassion, post-discharge arc, coffee canister
-- `/knowledge/characters/voice_char_lt_rich_cullivan.md` — coffee canister mannerism
-- `/knowledge/characters/char_jace_apollo.md` — cost naïveté, social awkwardness, rice imagery, family details (Jelly/Jinx/farm), gig specifics, dog breeder visits, horse farm refusal as Origin driver
-- `/knowledge/characters/char_smuggler_mars.md` — heart-of-gold framing, "the Rat" canonical handle
-- `/knowledge/scenes/event_jace_mars_tour_with_rich.md` — HUD/fiscal expansion (entertainment + blush), Pangu beat, drone-center lead-in, WiFi excitement dialogue, Coffee Tree Dome, Bird Dome
-- `/knowledge/scenes/choreo_event_jace_mars_tour_with_rich.md` — matching choreo updates
-- `/knowledge/scenes/event_jace_gym_arrival.md` — multitasking merge, Jelly/Jinx mentions in family messages
-- `/knowledge/scenes/choreo_event_jace_gym_arrival.md` — matching choreo updates
-- `/knowledge/locations/location_terminus.md` — Coffee Tree Dome, Bird Dome, Dog Breeder Facility added
+- [Lieutenant Rich Cullivan](../characters/char_lt_rich_cullivan.md) — kid count, role, compassion, post-discharge arc, coffee canister
+- [Character Voice Profile — Lt. Rich Cullivan](../characters/voice_char_lt_rich_cullivan.md) — coffee canister mannerism
+- [Jace Apollo Grant](../characters/char_jace_apollo.md) — cost naïveté, social awkwardness, rice imagery, family details (Jelly/Jinx/farm), gig specifics, dog breeder visits, horse farm refusal as Origin driver
+- [The Rat (the Mars Launch Facility Smuggler)](../characters/char_smuggler_mars.md) — heart-of-gold framing, "the Rat" canonical handle
+- [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](../scenes/event_jace_mars_tour_with_rich.md) — HUD/fiscal expansion (entertainment + blush), Pangu beat, drone-center lead-in, WiFi excitement dialogue, Coffee Tree Dome, Bird Dome
+- [Scene Choreography — Mars Terminal Arrival & Walking Tour with Rich](../scenes/choreo_event_jace_mars_tour_with_rich.md) — matching choreo updates
+- [Scene — First Gym Session on Mars](../scenes/event_jace_gym_arrival.md) — multitasking merge, Jelly/Jinx mentions in family messages
+- [Scene Choreography — First Gym Session on Mars](../scenes/choreo_event_jace_gym_arrival.md) — matching choreo updates
+- [Terminus — Mars City (U.S. 56th State)](../locations/location_terminus.md) — Coffee Tree Dome, Bird Dome, Dog Breeder Facility added
 
 ---
 
 ## Files Deprecated This Session
 
-- `/knowledge/characters/char_dog_alpha.md` — fully merged into `char_cerberus.md`. **Should be deleted.**
-- `/knowledge/scenes/event_jace_messages_home.md` — fully merged into `event_jace_gym_arrival.md`. **Should be deleted or repurposed (author decision).**
+- ~~char_dog_alpha~~ — fully merged into [Cerberus](../characters/char_cerberus.md). **Deleted.**
+- [Event: Jace Messages Home](../scenes/event_jace_messages_home.md) — fully merged into `event_jace_gym_arrival.md`. **Should be deleted or repurposed (author decision).**
 
 ---
 
@@ -132,19 +132,19 @@ A single voice session covering Rich's expansion, early-arrival scene texture, C
 - **3D-printing limits** are canonical: works for structural/mechanical/simple things; does NOT work for complex pharmaceuticals, specialized foods, advanced biologics. Recycling and repair-culture are core Mars/Belt aesthetics.
 - **Greek-myth thread** (Apollo, Artemis, Athena, Cerberus) — visible to the reader before Jace registers it. Worth landing the Cerberus naming as a small beat the reader notices in the dog breeder scene.
 - **Comms-degradation arc** — Jace's WiFi-excitement on arrival is the irony anchor for everything that follows. Failed Artemis sends in the gym scene are the first concrete evidence. The Rat / Origin / Sylvester arc all eventually thread through this.
-- **Address conventions** — apply `/knowledge/universe-spec/concept_military_address_culture.md` consistently to all dialogue. Rich calls Jace "Jace"; junior enlisted call him "LT"; the Colonel formally calls him "Lieutenant" with occasional warmer "LT".
+- **Address conventions** — apply [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md) consistently to all dialogue. Rich calls Jace "Jace"; junior enlisted call him "LT"; the Colonel formally calls him "Lieutenant" with occasional warmer "LT".
 - **Cerberus narrative protection** — never killed, never seriously injured for plot. Author commitment.
 
 ---
 
 ## Cross-References
 
-- See `/knowledge/timeline/scenes_temporal_map.md` for the updated chapter / scene chronology
+- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md) for the updated chapter / scene chronology
 - See individual scene files in `/knowledge/scenes/`
 - See individual character files in `/knowledge/characters/`
-- See `/knowledge/universe-spec/concept_military_address_culture.md`
-- See `/knowledge/locations/location_mars_us_afspace_force_base.md`
-- See `/knowledge/locations/location_mars_overview.md`
+- See [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md)
+- See [U.S. Air Force / Space Force Joint Base (Terminus)](../locations/location_mars_us_afspace_force_base.md)
+- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md)
 
 ## Revision Notes
 

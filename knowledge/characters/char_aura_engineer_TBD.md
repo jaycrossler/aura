@@ -1,3 +1,3 @@
 # Aura Engineer TBD
 
-Canonical file: `knowledge/characters/char_aura_engineer.md`.
+Canonical file: [Identity](char_aura_engineer.md).

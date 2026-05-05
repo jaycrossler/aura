@@ -50,7 +50,7 @@ The repair-and-reuse culture of belt life, and the 3D-printing/recycling infrast
 **Problem addressed:** Large, mobile manifestations in areas where electronic weapons are unreliable
 **Build:** A heavy tungsten mining drill-bit (standard inventory) loaded into a pressurized CO2 pipe. The CO2 provides propulsion; the tungsten provides mass and penetration.
 **Use:** A cold-launch weapon. No fire, no electronics. Pure kinetic force that does not trigger magical feedback loops. The tungsten drill-bit, moving at several hundred meters per second, delivers sufficient physical force to interrupt large manifestation events.
-**Why cold-launch matters:** Electronic firing systems near active manifestations fail with increasing frequency (see `/knowledge/magic-systems/magic_technological_adaptation.md`). A purely pneumatic mechanism has no electronic components to fail.
+**Why cold-launch matters:** Electronic firing systems near active manifestations fail with increasing frequency (see [Technological Adaptation to the Outbreak — The Static Problem](magic_technological_adaptation.md)). A purely pneumatic mechanism has no electronic components to fail.
 **Limitation:** Single shot. Reload takes approximately ninety seconds with two operators. Not suited to fast-moving small Bugs.
 **Print-batch status:** Seven units in circulation.
 
@@ -88,11 +88,11 @@ More importantly: the existence of this arsenal is the proof that the people at 
 
 ## Cross-References
 
-- See `/knowledge/magic-systems/magic_cryptids_silicon.md` (what the Rust-Gun is for)
-- See `/knowledge/magic-systems/magic_technological_adaptation.md` (why electronics fail)
-- See `/knowledge/magic-systems/magic_overview.md`
-- See `/knowledge/scenes/event_jace_assembles_smuggling_list.md` (Artemis's list for these shortages)
-- See `/knowledge/locations/location_fortuna_station.md`
+- See [Silicon Manifestations — The Glass-Infestation Class](magic_cryptids_silicon.md) (what the Rust-Gun is for)
+- See [Technological Adaptation to the Outbreak — The Static Problem](magic_technological_adaptation.md) (why electronics fail)
+- See [Magic — Overview and Fundamental Principles](magic_overview.md)
+- See [Scene Cluster — Assembling Artemis's List (The Smuggling Sprint)](../scenes/event_jace_assembles_smuggling_list.md) (Artemis's list for these shortages)
+- See [Fortuna Station](../locations/location_fortuna_station.md)
 
 ## Revision Notes
 

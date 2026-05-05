@@ -564,12 +564,12 @@ The following details should NOT be invented and should be flagged for clarifica
 
 ## Cross-References
 
-- See `/scenes/event_jace_mars_tour_with_rich.md` (parent scene file)
+- See [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](event_jace_mars_tour_with_rich.md) (parent scene file)
 - See `/characters/voice/char_jace_apollo_voice.md`
 - See `/characters/voice/char_lt_rich_cullivan_voice.md`
-- See `/locations/location_mars_overview.md`
-- See `/timeline/scenes_temporal_map.md`
-- See `/storybot/metadata_template_guide.md`
+- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md)
+- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
+- See [StoryBot Metadata Template Guide](../storybot/metadata_template_guide.md)
 
 ## Revision Notes
 

@@ -28,23 +28,23 @@ Each station is anchored to a large named asteroid and serves as a hub for the s
 
 ### Fortuna Station — 3 Fortuna (C-type, inner belt, ~2.4 AU)
 Jace Grant's destination. Agricultural hub. American-anchored, Origin Industries. Largest station, strongest food production. Livestock-primary ferry runs terminate here first.
-See `/locations/location_fortuna_station.md`
+See [Fortuna Station](location_fortuna_station.md)
 
 ### Psyche Station — 16 Psyche (M-type metallic, middle belt, ~2.92 AU)
 Most economically valuable. Chinese-anchored, Tianhe Cosmics. Iron-nickel and platinum-group metals. Strategic resource significance.
-See `/locations/location_psyche_station.md`
+See [Psyche Station](location_psyche_station.md)
 
 ### Juno Station — 3 Juno (S-type, inner belt, ~2.67 AU)
 Construction materials. Governance TBD. Silicates and stony minerals for habitat construction. Natural trading partner with Fortuna.
-See `/locations/location_juno_station.md`
+See [Juno Station](location_juno_station.md)
 
 ### Sylvia Station — 87 Sylvia (X-type, outer belt, ~3.49 AU, with moons Romulus and Remus)
 Triple-body system, outer belt. Complex orbital environment. Future expansion potential via moons. Higher flux exposure than inner stations.
-See `/locations/location_sylvia_station.md`
+See [Sylvia Station](location_sylvia_station.md)
 
 ### Odysseus Station — 143 Odysseus (D-type, Jupiter L4, ~5.2 AU)
 Farthest permanent human habitation. Multinational. Artemis Grant stationed here. Highest flux exposure. First and most advanced magical emergence. Communications degraded earliest.
-See `/locations/location_odysseus_station.md`
+See [Odysseus Station](location_odysseus_station.md)
 
 ## Travel Times
 
@@ -97,10 +97,10 @@ What the belt learns — about safety practices, cross-tradition synthesis, the 
 
 ## Cross-References
 
-- See `/factions/faction_belter_stations.md` for political profiles of stations.
-- See `/technology/tech_nuclear_ferries.md` for transit infrastructure.
-- See `/magic-systems/magic_returning_arts.md` for magic emergence.
-- See `/universe-spec/cosmology.md` for the radiation source.
+- See [The Belter Stations](../factions/faction_belter_stations.md) for political profiles of stations.
+- See [Nuclear Ferry System](../technology/tech_nuclear_ferries.md) for transit infrastructure.
+- See [The Returning Arts](../magic-systems/magic_returning_arts.md) for magic emergence.
+- See [Cosmology](../universe-spec/cosmology.md) for the radiation source.
 
 ## Revision Notes
 
