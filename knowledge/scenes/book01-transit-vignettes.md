@@ -50,7 +50,7 @@ The crew also wear weighted vests during their own cylinder runs. Jace's vest is
 
 The cylinder has a fifty-meter circumferential run on the deck. The crew uses it for cardiovascular exercise. The dogs use it for everything.
 
-A typical scene: Jace is on a run, vest on, breathing patterned, HUD showing his pulse. Cerberus appears at his ankle from nowhere, matches pace for ten meters, drops back, sprints past him on the next loop, looks over her shoulder as if to say *catch up*. The cylinder geometry means she can use the curve of the wall in ways no Earth dog can: she launches off the wall on the inside curve, hangs in the apparent-low-gravity for a half second longer than physics suggests she should, lands, and continues. Jace tries it himself once. He does not try it twice.
+A typical scene: Jace is on a run, vest on, breathing patterned, HUD showing his pulse. Cerberus appears at his ankle from nowhere, matches pace for ten meters, drops back, sprints past him on the next loop, looks over his shoulder as if to say *catch up*. The cylinder geometry means he can use the curve of the wall in ways no Earth dog can: he launches off the wall on the inside curve, hangs in the apparent-low-gravity for a half second longer than physics suggests he should, lands, and continues. Jace tries it himself once. He does not try it twice.
 
 ### Ball Flips
 
@@ -64,7 +64,7 @@ Crew members bring small fabric scraps and worn clothing to a corner of the rec 
 
 ### The Silent Bunk
 
-Jace, late shift, exhausted, back to his bunk. Cerberus is already there, on his pillow. He moves him gently. She moves back. He gives up. He sleeps with his face turned toward the small warm weight of the dog. He has not slept this well since before his discharge.
+Jace, late shift, exhausted, back to his bunk. Cerberus is already there, on his pillow. He moves him gently. He moves back. He gives up. He sleeps with his face turned toward the small warm weight of the dog, his good boy. He has not slept this well since before his discharge.
 
 ### The HUD-Off Hour
 
