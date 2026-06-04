@@ -19,7 +19,7 @@ A single voice session covering Rich's expansion, early-arrival scene texture, C
 - **Rich's role at the base:** Lead officer for base IT and communications on the joint U.S. Air Force / Space Force installation. Not just a comms specialist.
 - **Rich's compassion trait:** Now explicit in character file. Smiles often, baseline warmth, acts on his concern within bounded judgment.
 - **Rich's coffee canister:** Iconic mannerism. Large insulated canister carried everywhere, drunk frequently. Signals work-ethic and mild insomnia.
-- **Cerberus's gender:** Male. (Resolved conflict with deprecated `char_dog_alpha.md` which had her as female.)
+- **Cerberus's gender:** Male. (Resolved conflict with deprecated `char_dog_cerberus.md` which had her as female.)
 - **Cerberus's breed lineage:** Herding dog × pug cross.
 - **Cerberus's physical traits:** Short hair, bred not to bark, very expressive wrinkly face, big nostrils, loves to run, cuddles up against Jace when sleeping.
 - **Cerberus's pre-negotiation bond:** Jace has weeks of attachment at the dog breeder facility BEFORE the Origin negotiation. The puppy is named on a walk home from one of those visits.
@@ -120,7 +120,7 @@ A single voice session covering Rich's expansion, early-arrival scene texture, C
 
 ## Files Deprecated This Session
 
-- ~~char_dog_alpha~~ — fully merged into [Cerberus](../characters/char_cerberus.md). **Deleted.**
+- ~~char_dog_cerberus~~ — fully merged into [Cerberus](../characters/char_cerberus.md). **Deleted.**
 - [Event: Jace Messages Home](../scenes/event_jace_messages_home.md) — fully merged into `event_jace_gym_arrival.md`. **Should be deleted or repurposed (author decision).**
 
 ---

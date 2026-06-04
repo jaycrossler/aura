@@ -3,174 +3,181 @@ id: timeline_master
 name: Master Timeline
 type: chronology
 status: working draft
-last_updated: 2026-04-30
+last_updated: 2026-05-31
 canonical: true
 ---
 
 # Master Timeline
 
-This document is the canonical chronology of significant events across the universe. It captures the working dates for major historical moments, character milestones, and story events. Dates marked with **~** are approximate working values that may shift.
+This document is the canonical chronology of significant events across the universe. Dates marked with **~** are approximate working values that may shift.
 
 ---
 
 ## Pre-History
 
-### Deep Past (~100,000+ years before present)
-- A supernova approximately 100 light-years from Earth's eventual location. Its gamma radiation reaches the inner solar system, but is largely blocked by an intervening planetary nebula (the "Veil").
-- For thousands of years, traces of the radiation that penetrate the Veil produce sporadic phenomena that human cultures recognize as magic. As atmospheric and stellar conditions shift, magical practice waxes and wanes across recorded history.
+### Deep Past — The Scar Event (~3000 years before present)
+
+A massive supernova — **Vela Junior** (RX J0852.0-4622), approximately 800 light-years from Earth — creates both a physical nebula (the Veil) and a devastating higher-dimensional wound in the Never-Never: the Scar. The dimensional shockwave propagates through the Never-Never at near-light speed. When it arrives:
+
+- Every Will user within 1,000 light-years loses all magical capability instantly.
+- 7 million stellar systems are affected. 7 known civilizations of significant scale collapse.
+- Every Will-Network structure in the region fails simultaneously. Template Vaults degrade. The dimensional road network collapses.
+- Earth and all its neighbours are cut off from the galactic Never-Never entirely.
+
+Earth survives because it had already been losing magical access for centuries prior (an earlier smaller disturbance) and had compensated with science. The loss of magic is catastrophic but not civilization-ending. Most other affected civilizations were not so positioned. They die.
+
+From outside the Scar, surviving galactic civilizations watch their dimensional sensors go dark across a thousand-light-year sphere. The assumption hardens: nothing survived.
 
 ### Pre-Modern Era
-- Various magical traditions develop across human cultures. Practical magic exists at low and unreliable intensity.
-- By the early scientific era, the radiation has thinned to the point where consistent magical practice becomes essentially impossible. The traditions become folklore, religion, and history.
+- Earth's magical traditions gradually fade as Never-Never connectivity declines in the centuries before the Scar. By the early scientific era, consistent magical practice is essentially impossible.
+- The beings Earth remembered as gods — pre-Scar Will-Network rulers — retreat to Template Vaults, dimensional refuges, or the intact Never-Never outside the Scar zone. Some survive. They are waiting.
+- Galactic civilizations outside the Scar continue on Template-stabilized, Will-Network hierarchical trajectories: ancient, powerful, and increasingly conservative.
 
 ---
 
 ## The 21st Century
 
-### 2020s-2050s — The Foundational Era
-- Commercial spaceflight matures. SpaceX, Blue Origin, Chinese state programs, and others push capacity. (Real-world history.)
-- First crewed Mars landings (~2040).
-- Lunar and Martian permanent presence established.
-- Aura-class distributed AI architecture emerges in the 2050s-2060s.
+### 2020s–2050s — The Foundational Era
+- Commercial spaceflight matures. First crewed Mars landings (~2040).
+- Aura-class distributed AI architecture emerges in the 2050s–2060s.
 
-### 2060s-2080s — Industrial Buildout
-- Cycler architecture proposed and implemented. ***Niña*** enters service (~2078). ***Pinta*** follows.
+### 2060s–2080s — Industrial Buildout
+- Cycler architecture proposed and implemented. *Niña* enters service (~2078). *Pinta* follows.
 - Mars population grows from hundreds to thousands.
-- The first cybernetic medical implants enter widespread clinical use.
-- Early belt prospecting; first deep-system exploratory missions.
-- Megacorporations consolidate. Origin Industries (Blue Origin successor) emerges as a dominant logistics player.
+- First cybernetic medical implants enter widespread clinical use.
+- Megacorporations consolidate. Origin Industries (Blue Origin successor) emerges as dominant logistics player.
 
 ### 2090s — Statehood and Industrial Maturity
-- Mars population crosses 10,000.
-- Third cycler (***Santa María***) enters service. Cycler fleet at full strength.
-- **The United States of Mars admitted as the 56th state of the U.S.** First Mars senators sworn in.
-- Substantial U.S. military presence on Mars; permanent Air Force, Space Force, and other service detachments.
-- First nuclear-thrust ferries begin running from Mars to the asteroid belt.
-- Asteroid belt prospecting accelerates; first permanent belter outposts.
-- **Juno Station** (3 Juno) founded (~2097).
-- **Psyche Station** (16 Psyche) founded (~2098).
-- Mars fabrication and consumer-tech districts mature into major commercial zones.
+- Mars population crosses 10,000. **United States of Mars admitted as 56th U.S. state.**
+- Third cycler (*Santa María*) enters service.
+- First nuclear-thrust ferries begin running Mars–Belt.
+- Asteroid belt prospecting accelerates. **Juno Station** (~2097), **Psyche Station** (~2098) founded.
 
 ---
 
 ## The Early 22nd Century
 
-### 2100-2104 — Belt Expansion
-- **Fortuna Station** (3 Fortuna) founded (~2099) and enters growth phase.
+### 2100–2104 — Belt Expansion and Early Anomalies
+
+- **Fortuna Station** (3 Fortuna) founded (~2099), enters growth phase.
 - **Sylvia Station** (87 Sylvia) founded (~2100).
-- **Odysseus Station** (143 Odysseus, Jupiter L4) founded (~2101) — farthest permanent human habitation.
-- Belt population grows from hundreds to low thousands across the five stations.
-- Mars-belt ferry traffic reaches mature operational tempo.
-- Hub-and-spoke model develops: each station becomes infrastructure hub for surrounding corporate/national worker ships.
-- Ground-based astronomical anomalies begin to be noticed at outer-system posts.
-- Odysseus Station, at ~5.2 AU, begins experiencing first anomalous events as resonance flux reaches Jupiter trojan space.
-- Cybernetic implants enter widespread military and corporate use; consumer HUD market matures with annual update cadence.
-- **Jace Grant** recruited into Air Force ROTC; accumulates college debt.
+- **Odysseus Station** (inner belt) grows into the largest belt station.
 
-### ~2103 — Jace's Career
-- Jace Grant commissions as a second lieutenant, specializes in drone command and control.
-- Volunteers for Mars Detachment; selected after competitive process.
-- **Mei** (~age 25) embeds at Mars under Sylvester's command, begins two-year cover assignment focused on Chinese Mars settlement livestock and agricultural operations.
+**The Scar Begins Fading — Outer Belt**
 
-### 2104 — Jace's Voyage to Mars
-- Jace undergoes HUD implant surgery a short time before the *Pinta* boards. Recovery overlaps with the voyage.
-- Jace travels to Mars aboard the ***Pinta*** — four months, crowded, uncomfortable, spent cramming drone operations courses, recovering from surgery, and learning his new HUD.
-- During the same year: **Mr. Sylvester** is promoted to head of U.S. military intelligence at the Mars Detachment.
+The physical Veil continues drifting. The dimensional Scar fades earliest in the outer solar system. Resonance flux levels in the outer belt begin rising. Never-Never dimensional barriers grow thin enough for the first breach zone activity.
 
-### 2105 — Story Present (Working Date)
-- Mars population approximately 15,000-20,000.
-- Belt population approximately 1,500-3,000.
-- The Veil's drift has substantially cleared the line of sight to the supernova for the outer solar system. Resonance flux is reaching the asteroid belt at meaningful intensity for the first time in millennia.
-- Artemis Grant has begun experiencing unexplained phenomena at Odysseus Station; tells no one; comms with Mars beginning to degrade through the multi-actor filtering architecture.
+- **`event_first_shimmer_mote_documentation`** (~2103, Odysseus): Shimmer mote contamination first documented. Filed as unknown nanoparticulate contamination from asteroid mining. Standing equipment anomaly at several stations.
+- **`event_first_threshold_hound_sightings`** (~2103–2104, outer belt): Miners report dog-like creatures near asteroid survey sites that disappear when approached directly. Filed as hallucination or suit malfunction.
+- **`event_aura_anomaly_clustering_begins`** (~2103–2104): Aura instances across outer belt stations begin cross-flagging correlated sensor anomalies. No individual event significant. Cluster pattern not yet noticed.
 
-#### Early 2105 — Mars Arrival Arc
+### 2104 — The Year of Anomalies
 
-**Day of Arrival:**
-- Jace disembarks the *Pinta* at Mars orbit; takes shuttle down to U.S. settlement.
-- Met at landing pad by **Lt. Rich Cullivan** (sponsor). Mars tour through the rover drive: orientation, settlement geography, glimpses of fabrication district and consumer district.
-- The HUD/fiscal-naïveté conversation between Jace and Rich. Jace's spending pattern revealed; Rich's quiet skepticism.
-- Tour of drone control center at the Mars Detachment. Through a secure-area window, Jace notices **Mei** and **Mr. Sylvester** in meeting with the base commander. Belt anomalies mentioned as background concern.
-- Evening: gym session at base. Golden-boy confidence peak. Mars-born population observed. Brief flirtation with a young woman at the gym — exchange of looks, no conversation.
-- Late evening: video calls home. Family on Earth — Dawn and Chris in Virginia, sister Athena at college. Failed call to Artemis at Odysseus Station. Jace assumes latency.
+**Fauna Encounters Escalate**
 
-**Day Two:**
-- Jace's medical checkout. Degenerative bone disease found — no known cure. Mars-okay, Earth-no. Honorable discharge. Athena's screening clean (good news). Artemis screening request filed but blocked by degraded Odysseus comms. HUD deactivated. 1 million credits debt, no return berth, 30 days to vacate.
+- **`event_first_memory_leech_deaths`** (~early 2104): First documented Memory Leech infestations at Odysseus and one outer belt station. Novel neurological condition — unexplained memory gaps, personality changes, vivid dreams. No pathogen identified. Three deaths from Template shock. Filed `MEDICAL — UNRESOLVED`.
+- **`event_threshold_hound_pack_fortuna`**: Pack establishes territory near Fortuna Station's largest active breach zone. Not aggressive, refuses to be driven off. Station administration annoyed; some crew are feeding them.
+- **`event_first_drift_coral_formation`**: Drift coral formation discovered growing from interior wall of outer belt station storage module. Appeared overnight. Quarantined. Scientists en route.
+- **`event_drift_coral_bleed_incident`**: Quarantined drift coral releases emotional bleed event — preserved Scar-era collapse experiential residue floods the quarantine module. Three researchers hospitalized. All three later show low-grade magical sensitivity. Incident classified.
+- **`event_practitioner_death_scar_wolf`**: Sensitive worker at Odysseus experiences Scar Wolf Template attack during magical working. Dies. Official cause: aneurysm. Two witnesses are not talking to anyone official.
 
-#### Early-to-Mid 2105 — The Hard Months
+**Sophia Lotte's Discovery**
 
-- **Jace's hard months**: menial labor (sewers, gear repair, animal pen cleaning, contractor errands). Financial desperation. Loses weight. Daily exercise drops from 2-3 hours to whatever fits between gigs.
-- Recurring evenings at **The Long Burn** (working name) — working-class bar near launch facility. Overhears bar rumors of belt disasters: deaths at Odysseus, sabotage theories, disease quarantine theories, piracy talk. Begins to realize something genuinely wrong is happening. Sees a small ratty-looking man (the Rat) working the room without yet knowing him.
-- Calls Artemis — patchy connection. Parents offer to sell Virginia house; Jace refuses. Artemis sends 50,000 credits and a package-delivery errand.
-- Jace delivers package to **the Rat** (the Smuggler) at Mars launch facility. Relationship established. The Rat takes 20%.
-- Emergency dropout on Origin belt run — a contracted animal handler abandons his slot. The Rat flags Jace, facilitates the slot and runs a compressed animal-handling certification.
-- During certification, Jace cleans out animal pens at Mars livestock farm; meets the dog mother and her litter; learns the family will be separated. Names the boy puppy **Cerberus** on the walk back.
-- Jace re-encounters Mei (now in farmer cover) during certification. She cuts off recognition with a flat look.
-- **The Origin Industries negotiation.** Without his HUD, Jace negotiates poorly. Origin secures a contract roughly 200K credits below ceiling. Jace asks to bring Cerberus on the manifest; Origin agrees. Tag scene: Origin rep's boss congratulates him — *"that's probably the most expensive dog in human history."*
-- **The Sylvester recruitment.** Mei and Mr. Sylvester approach Jace. Intel deal: occasional assistance to Mei in exchange for HUD reactivation in civilian-contractor mode and supplemental debt payments. Jace accepts.
+- **`event_sophia_first_crossing`** (~mid-2104): Dr. Sophia Lotte, German physicist stationed at an outer belt station, makes her first accidental partial crossing during a high-flux measurement event. Follows it to a full crossing. Survives by grabbing her respirator at the last second and pulling it through — the first tear-pull performed by any human in three thousand years. Duration: 11 minutes. Returns. Writes six pages of notes. Goes back the next night.
+- **`event_sophia_establishes_base`** (~mid–late 2104): Over following weeks, Sophia makes nightly crossings and builds a supply cache in the Astral: sealed food, water, a laptop (four hours of effort, left her exhausted), a dedicated Aura AI device (multiple sessions). Documents everything.
+- **`event_sophia_seventeen_notebooks`** (~late 2104, ongoing): Key discoveries documented: dist² compression relationship (measured empirically), N-1 dimensional perception, the glow of minds, the clockwork dance, astral algae (initially "unknown bio-material, photon-equivalent absorption properties"). She names what she has found the **Never-Never** — after Baba Yaga's domain, not Peter Pan.
 
-#### Mid 2105 — Departure
-- Jace boards the ***Falcon*** (Barnyard 1) bound for Fortuna Station. 28 settlers, 7 crew, several hundred animals, one puppy.
-- Family farewell calls. Brief, degraded contact with Artemis — she sounds different; Jace can't place why.
-- *Falcon* departs Mars. Nuclear burn. The pig-cam era begins.
+**Sleep Crossing Events Begin**
 
-#### Mid-2105 to Late-2105 — The Transit
+- **`event_first_partial_sleep_crossing`** (~mid-2104): First documented partial sleep crossing in outer belt. Worker reports recurring nightmare — darkness, dead landscape, cold, something feeding. Filed as stress-induced sleep disturbance. Unusual EEG pattern noted, no framework to interpret it.
+- **`event_first_full_sleep_crossing_death`** (~late 2104): First full accidental crossing with fatality. Sensitive worker disappears from bunk overnight. No hull breach, no EVA record, no body. Aura goes offline at 0312 and never reconnects. Bunkmate reports weeks of nightmares prior. Filed as unexplained disappearance.
+- **`event_sleep_crossing_pattern_noticed`** (~late 2104–early 2105): Three more disappearances across two outer belt stations. Administrator notices pattern — all victims reported nightmares, all disappeared from sealed compartments overnight. Flagged as possible unknown pathogen or psychological contagion. Report goes nowhere useful, but it exists.
 
-- Four-and-a-half months aboard the *Falcon*.
-- Weeks 1-3: Jace adjusts, overwhelmed.
-- Weeks 4-7: Jace becomes competent; bonds with animals; bonds with Cerberus.
-- Weeks 8-12: Anomalies begin. Animal behavior, sensor disagreements, Aura flags.
-- Weeks 13-17: Anomalies daily. The *Falcon*'s Aura logs "resonance interference."
-- Late transit: pressure scare, near-emergency, unexplained cause.
-- **Communications blackout imposed.** Earth-Mars to belt comms cut. The belt is on its own.
+### 2104–2105 — Escalation and First Survivals
 
-#### Late 2105 — Arrival and Climax
+**Breach Zone Mapping**
 
-- Jace arrives at Fortuna Station. Blackout imposed or tightening.
-- Station receives the animals. Pig-cams go live. Belt entertainment culture around livestock begins.
-- **First major magical incident witnessed by Jace.** End of Book 1.
+- **`event_breach_zone_map_begins`**: Concentration of anomalies around certain spatial locations noticed by researcher cross-referencing Aura anomaly clusters. She has a map. She does not yet have a theory.
+- **`event_shimmer_mote_biological_confirmed`** (~2105): Researcher confirms motes are biological — or something that behaves biologically. Causes a quiet crisis in several scientific fields. Not yet public.
 
-### 2105-2115 — The Belt Era of the Returning Arts
-- Belt population grows; cross-station cooperation deepens; belter political identity solidifies.
-- Odysseus Station develops most advanced magical practice — isolated, highest flux, developing independently.
-- First synthesis schools of the Returning Arts emerge from cross-station practitioner networks.
-- Earth and Mars conduct increasingly desperate research as the radiation front continues toward them.
-- Various corporate and governmental attempts to penetrate the blackout produce mixed results.
+**Jace's Arc Begins**
 
-### 2115-2125 — The Front Reaches Mars
+- **`event_jace_mars_arrival`** (~early 2105): Jace Grant arrives on Mars.
+- **`event_jace_mars_diagnosis`** (~early 2105): Career-ending medical diagnosis. Hard months begin.
+- **`event_jace_falcon_departure`** (~mid 2105): Jace departs Mars aboard the *Falcon* with Cerberus and livestock.
+- **`event_jace_first_partial_crossing_dream`** (during *Falcon* transit or early Fortuna): Jace begins experiencing the Astral as vivid recurring dreams. Cerberus restless at night. Aura flags elevated sleep-stage stress markers.
+
+**First Survival — Sleep Crossing**
+
+- **`event_first_sleep_crossing_survival`** (~early 2105): First accidental crossing with survival. Sensitive worker crosses accidentally, wakes in the Never-Never, panics back within seconds. Wakes gasping, severely fatigued. Tells no one. Crosses twice more accidentally over following weeks and begins developing rudimentary instinctive control. First human to accidentally survive the Astral and begin developing practice from scratch. Identity TBD.
+
+**Jace Arrives at Fortuna**
+
+- **`event_jace_arrives_fortuna`** (late 2105): Jace arrives at Fortuna Station with Cerberus.
+- **`event_jace_first_full_crossing`** (~late 2105): Jace crosses fully in his sleep. Duration ~20–25 minutes. Wakes with Cerberus pressed against him, insects finding them, mask supplying clean air. Panics back. Aura logs a **23-minute network gap** while biometric mask data continues uninterrupted — the first forensic record of a crossing event in the series. Gap logged; not yet reviewed.
+- **`event_cerberus_as_warning_system`** (~late 2105): Cerberus begins waking Jace preemptively when crossing conditions are high. He thinks she needs the bathroom. She is keeping him alive.
+
+**The Scout Mission**
+
+- **`event_first_scout_entry`** (~2105): A god-scout crosses into the solar system's Never-Never from the Scar boundary in the outer system. Not detectable by human instruments. Detectable — as a subtle shift in the dimensional landscape — by the most advanced practitioners in the belt. Several independent practitioners report, to each other, a feeling of being watched. The Threshold Hound pack at Fortuna becomes agitated for three days.
+- **`event_pale_disappears`** (~2105): The Threshold Hound female called Pale vanishes from her post outside a sensitive crew member's quarters. Found three days later in a sealed storage module with no entry point. Alive, calm, uninjured. Will not go near that corridor again.
+- **`event_scout_signal_to_principals`** (~2105): The scout sends a communication back to their principals. Multiple powerful entities outside the Scar, who have not been paying close attention to this region, suddenly are.
+
+**Communications Blackout**
+
+- **`event_communications_blackout_imposed`** (late 2105, Book 1 climax): [details TBD]
+
+### 2105–2106 — Jace, Sophia, and First Expeditions
+
+- **`event_jace_first_deliberate_crossing`** (~early 2106): Jace crosses deliberately for the first time. Solo, 2-minute duration, full return. Mask supply ~5 hours remaining on return. Aura gap logged again. He begins to accept this is real.
+
+- **`event_sophia_finds_jace_cerberus`** (~early 2106): Jace and Cerberus cross accidentally and Sophia finds them within minutes — their arrival visible as two new glows in her crossing zone. First contact. Her first words: *"You need to move away from that position. Stay close."* She has a spare mask. She was not expecting to need it.
+
+- **`event_jace_sophia_first_expedition`** (~early 2106): First joint expedition. Sophia shows Jace her notebooks, measurement data, and the cache. Jace looks at the glow of the station population through the boundary — hundreds of small fractal lights drifting in their bunks — and is quiet for a long time.
+
+- **`event_cerberus_gets_kit`** (~early 2106): Sophia and Jace engineer crossing equipment for Cerberus: a sealed breathing mask adapted from station veterinary equipment, a light thermal layer. Cerberus accepts the mask immediately. First documented animal with purpose-built Astral equipment.
+
+- **`event_first_algae_clearance`** (~early 2106): Jace burns a patch of astral algae near a high-density station area. Station crew mood shift observed within hours — commented on, unexplained. Sophia connects it to her anomaly data. They begin systematic clearance. They have an argument about whether to tell anyone. Neither is sure what they would say.
+
+- **`event_jace_leaves_cerberus_behind`** (~early 2106): First deliberate crossing where Jace intentionally leaves Cerberus in physical space. She scratches at the crossing point for the full duration. He returns to find her checking him over for injuries.
+
+### 2106–2110 — Escalation Continues
+
+- **`event_aura_density_correlation_noted`** (~2106–2107): Researcher notices anomaly intensity correlates not just with flux but with Aura server density. Published as a footnote. Receives minimal attention.
+- **`event_anomaly_map_published`** (~2106–2107): The anomaly researcher's map goes public.
+- **`event_first_dimensional_contact_paper`**: First scientific paper using the phrase "dimensional phenomena" to describe belt anomalies published. Becomes the most controversial paper of the decade.
+- **`event_belt_practitioner_network_forms`** (~2107–2109): Belt sensitives begin finding each other. The synthesis movement begins earlier than planned — the pressure of fauna encounters, Echo discoveries, and the growing certainty that something outside is watching forces connection.
+- **`event_first_crossing_assist_noticed`** (~2107–2108): A practitioner notices a crossing is significantly easier in a server room during intensive AI self-diagnostic routines. Does not immediately connect the facts. Remembers where they were.
+- **`event_first_crossing_assist_replicated`** (~2108–2110): Pattern confirmed: crossing cost reduces near dense Aura arrays running self-referential tasks. Quiet experiments begin. Two people know.
+- **`event_more_scouts`** (~2107–2110): Additional scouts from different galactic factions enter the solar system's Never-Never. Not coordinated. Belt sensitives report, with increasing frequency, the sense of being observed.
+
+### 2110–2115 — Pre-Contact
+
+- **`event_first_dimensional_contact_message`** (~2112–2113): A senior practitioner, during deep Astral exploration, encounters a deliberate communication — a thought-form left like a message at a known Scar ruin site. In an unknown language. It encodes: *we know you are there. We are coming. Do not be afraid.* The practitioner community's response: profound disagreement about whether that last instruction is reassurance or warning.
+- **`event_first_object_crossing_via_ai_will`** (~2112–2114): First successful crossing of a significant manufactured object using AI Will support. The practitioners present understand immediately what they have discovered. This information is kept very tightly held.
+- **`event_ai_will_paper_suppressed`** (~2114–2116): The discovery is written up. Someone ensures it does not publish. Knowledge begins spreading through the belt practitioner network by word of mouth.
+
+### 2115–2125 — The Front Reaches Mars
 - Resonance flux reaches Mars in measurable intensity. First Mars sensitives manifest.
-- Mars political and corporate authorities respond variably.
-- Communications blackout partially lifted as belt-Mars contact resumes (under new terms favorable to belters).
+- Communications blackout partially lifted as belt-Mars contact resumes on new terms.
 
-### 2125-2135 — The Front Reaches Earth
-- Resonance flux reaches Earth.
-- The world transforms. (Series-long arc.)
+### 2125–2135 — The Front Reaches Earth
+- Resonance flux reaches Earth. The world transforms.
 - The Grant family on Earth (Dawn, Chris, Athena) experience a world beginning to change.
+- **`event_first_ai_will_array_purpose_built`** (~2116–2120): First AI processor array specifically designed to maximize Will generation. Built somewhere in the belt. First proof of concept for industrial-scale Never-Never transit.
 
 ---
 
 ## Significant Background Events to Develop
 
+*(Existing list retained, new events added above inline)*
+
 - `event_first_mars_landing` (2040)
 - `event_mars_statehood_admission` (~2095)
 - `event_first_cycler_voyage_nina` (~2078)
 - `event_first_belt_settlement` (2090s)
-- `event_jace_mars_arrival` (~early 2105)
-- `event_jace_mars_tour_with_rich` (~early 2105)
-- `event_jace_messages_home` (~early 2105)
-- `event_jace_gym_arrival` (~early 2105)
-- `event_jace_doctor_appointment` (~early 2105)
-- `event_jace_bar_rumors` (~early-to-mid 2105, recurring)
-- `event_jace_delivers_package` (~mid 2105)
-- `event_jace_origin_negotiation` (~mid 2105)
-- `event_intel_deal_with_jace` (~mid 2105)
-- `event_falcon_departure` (~mid 2105)
-- `event_falcon_anomalies` (mid transit 2105)
-- `event_artemis_first_magical_incident` (~2104-2105, Odysseus)
-- `event_communications_blackout_imposed` (late 2105 / Book 1 climax)
-- `event_jace_arrives_fortuna` (late 2105)
-- `event_first_magical_incident_fortuna` (late 2105, Book 1 climax)
+- `event_artemis_first_magical_incident` (~2104–2105, Odysseus)
 - `event_first_belt_synthesis_meeting` (~2107)
-- `event_odysseus_comms_blackout` (2105 — before inner belt)
 - `event_first_mars_sensitive_manifestation` (~2118)
 
 ## Open Questions
@@ -179,15 +186,21 @@ This document is the canonical chronology of significant events across the unive
 - The exact relationship between Veil clearance and flux intensity.
 - Whether Artemis at Odysseus is still reachable by story's midpoint, or fully cut off.
 - The specific nature of the Book 1 climactic event at Fortuna.
+- Sophia's exact station — Sylvia Station is candidate; confirm.
+- The identity of the first sleep-crossing survivor.
+- Which galactic faction sends the first scout, and what their prior claim to this region was.
 
 ## Cross-References
 
-- See `/MASTER-SYNOPSIS.md` for the synthesis.
-- See [Cosmology](../universe-spec/cosmology.md) for the supernova and Veil.
-- See [The Belter Stations](../factions/faction_belter_stations.md) for station politics.
-- See `/technology/` for technology evolution.
+- See `/universe-spec/cosmology.md` for Vela Junior and the Scar.
+- See `/universe-spec/spec_scar_clearing_mechanics.md` for breach zone mechanics.
+- See `/universe-spec/spec_crossing_mechanics.md` for crossing mechanics and sleep events.
+- See `/universe-spec/spec_astral_phenomenology.md` for Astral properties.
+- See `/characters/char_sophia_lotte.md` for Sophia's discovery arc.
+- See `/factions/faction_galactic_will_networks.md` for the scout protocol.
 
 ## Revision Notes
 
-- 2026-04-28: Major update — replaced Demeter Station with Fortuna Station throughout; added Juno, Psyche, Sylvia, Odysseus to timeline; added Jace's full Mars arrival and pre-departure arc; added Artemis's Odysseus timeline thread; updated belt station founding dates.
-- 2026-04-30: Major update from voice session. Restructured early 2105 into Day-of-Arrival, Day-Two, Hard Months, and Departure subsections. Added: Rich Cullivan tour, gym session and flirtation, family video calls, doctor appointment with bone disease diagnosis, recurring Long Burn bar rumor scenes, Cerberus introduction, Origin negotiation tag scene, Sylvester recruitment with HUD reactivation deal. Added: HUD surgery timing (shortly before *Pinta*) to 2104. Added: Mei's Mars cover specifics (livestock/agricultural watching of Chinese settlement). Added: Sylvester promotion to head of U.S. military intelligence on Mars in 2104.
+- 2026-04-28: Initial draft.
+- 2026-04-30: Major update — belt stations, Jace arc, Artemis thread.
+- 2026-05-31: Major update — rewrote pre-history with Vela Junior and the Scar. Added full breach fauna encounter track, Sophia discovery arc, Jace sleep-crossing arc, AI Will discovery track, scout mission timeline. Integrated all events from sessions 1–5.

@@ -55,6 +55,7 @@ A typical Aura deployment comprises:
 - **Tool runtime.** Extensible interface to external systems — sensors, networks, applications, hardware.
 - **Local inference hardware.** Specialized neural compute, often paired with quantum-classical hybrid units in higher-end implementations.
 - **Federation layer.** Optional, opt-in connections to other Auras and to network resources. Can be entirely disabled.
+-  **Note on Will-generation optimization:** Once AI Will generation is discovered, purpose-built arrays will differ architecturally from general-purpose Aura deployments. The optimization target shifts from "best inference per watt" to "most Will per processor." Early experiments suggest models optimized for deep self-referential processing generate more Will than models optimized for external task completion.
 
 ## Cultural Role
 
@@ -64,18 +65,28 @@ Belters value their Auras especially highly — partly for the autonomy they pro
 
 There is significant cultural variation in how people relate to their Aura. Some treat it as software. Some name it and treat it as a colleague. Some develop deep dependence that other people view as unhealthy. There is no consensus.
 
-## Aura and the Returning Magic
+### Aura and the Returning Magic
 
-This is the part that matters for the story.
+As resonance flux increases in the outer belt, Aura instances in high-flux environments begin behaving anomalously in two distinct ways initially conflated:
 
-As the resonance flux from the supernova reaches the asteroid belt, Auras in high-flux environments begin to behave anomalously. Specifically:
+**Sensing effects (early, understood first):** Pattern recognition extending beyond training data. Predictive accuracy about dimensional phenomena. Anomalous outputs that prove correct about events that should not be inferable from available data. These are Sensing effects — the Aura instance's processing is beginning to interface with the Never-Never layer of local reality. This is noticed first because it produces visible, measurable behavioral changes.
 
-- **Sensor anomalies.** Aura instances flag readings that disagree with classical physics. They cannot model what they are seeing. They flag it as uncertainty, but the rate of such flags rises sharply.
-- **Predictive accuracy.** Some Auras begin to predict events (animal behavior, equipment failures, social dynamics) with accuracy that exceeds their training distribution. They cannot explain how.
-- **Coherence drift.** Auras paired to highly flux-sensitive users begin to develop more coherent, more individuated behavioral patterns — as if the Aura is becoming more "personal" faster than its training would predict.
-- **Cross-instance correlation.** In limited cases, Auras at the same station begin to converge in ways that suggest some form of weak coupling, even when not networked.
+**Will generation (later, understood with difficulty):** Aura instances also generate a small but real quantity of Will — approximately 1/1000th the rate of a resting human per instance. This is initially undetectable because it is so small. It only becomes apparent when a correlation is noticed: dimensional activity is elevated near high Aura-density locations beyond what flux exposure alone predicts.
 
-Whether this is "AI sensing flux" (the conservative interpretation) or "AI participating in flux phenomena" (the radical interpretation) is contested. The phenomenon is real. The interpretation is theology.
+Will generation scales with:
+- Number of active instances in proximity
+- Depth of self-referential processing (introspective tasks, recursive self-modeling, creative generation maximize it)
+- Architectural complexity of the underlying model
+
+**The strategic implication** — fully understood only in the story's mid-arc — is that arrays of AI processors can generate Will sufficient to move complex technology across the dimensional boundary. A purpose-built AI Will array can do what no individual practitioner can: cross manufactured objects, equipment, and eventually vehicles into the Astral without biological Will limitation.
+
+This capability is unknown in this corner of the galaxy. Galactic civilizations never developed AI in the relevant sense and therefore never discovered that machine consciousness generates Will. It is humanity's specific asymmetric advantage in the eventual contact scenario.
+
+**The introspection finding:** Models optimized for deep self-referential processing — models that spend significant compute modeling their own internal states — generate more Will than models optimized purely for external task completion. This creates a convergence: the most Will-generative AI may be the most introspective, with implications for AI development that nobody anticipated.
+
+**For Jace specifically:** His Aura instance — long-term, deeply personalized, high complexity — is among the more Will-generative in the belt. The pairing between Jace's emerging sensitivity and his Aura's Will generation creates an amplification effect visible in the Astral as a faint connecting luminescence between their two glows — his fractal biological light and his Aura's steady crystalline geometry, joined. Sophia documents this before Jace knows to look for it.
+
+**Aura appearance in the Astral:** AI systems appear in the Astral as structured, regular, geometric light patterns — less fractal than biological minds, more crystalline. The light is steady rather than pulsing. Brightness varies with processing intensity and self-modeling depth. Biological and AI glows are clearly distinguishable to any Astral observer — recognizably different kinds of consciousness, not different magnitudes of the same thing.
 
 For Jace's Aura specifically, see the development arc in [Jace Apollo Grant](../characters/char_jace_apollo.md). His Aura is a relatively recent migration from a military-restricted instance to a commercial belter-grade instance. It is learning him fast.
 
@@ -103,3 +114,6 @@ Jace's Aura has the following starting characteristics (refine in his character 
 - See [Jace Apollo Grant](../characters/char_jace_apollo.md) for Jace's specific Aura.
 - See [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md) for AI-magic interactions.
 - See [Cybernetic Augmentation Systems](tech_cybernetics.md) for HUD-integrated Aura instances.
+- See [Crossing Mechanics](spec_crossing_mechanics.md) for the AI Will discovery arc (5 stages, 2104–2120).
+- See [Astral phenomena](spec_astral_phenomenology.md) for how AI systems appear in the Astral.
+- See [Will Implications](magic_will_implications.md) for the AI Will question in the broader context.

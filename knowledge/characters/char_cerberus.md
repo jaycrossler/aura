@@ -166,5 +166,5 @@ He is never killed for plot. He is never seriously injured for plot. The author 
 ## Revision Notes
 
 - 2026-04-30: Initial draft. Introduced as Origin negotiation pivot; established Greek-myth fourth-name thread.
-- 2026-05-02 (round 1): Merged with `char_dog_alpha.md`. Canonical name Cerberus, gender male, herding × pug lineage, short hair, big nostrils, wrinkly face, bred not to bark, loves running, cuddles when sleeping. Mars breeding program details integrated. *`char_dog_alpha.md` is now deprecated and should be deleted.*
+- 2026-05-02 (round 1): Merged with `char_dog_cerberus.md`. Canonical name Cerberus, gender male, herding × pug lineage, short hair, big nostrils, wrinkly face, bred not to bark, loves running, cuddles when sleeping. Mars breeding program details integrated. *`char_dog_cerberus.md` is now deprecated and should be deleted.*
 - 2026-05-02 (round 2): **Pre-negotiation bond established.** Jace's weeks at the dog breeder facility now precede the Origin negotiation. The puppy is named on a walk home from one of Jace's visits, weeks before he asks Origin if he can bring him along. Birth location updated to the dog breeder facility. New cross-reference: `event_jace_dog_breeder_visits.md`.

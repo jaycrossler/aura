@@ -5,7 +5,7 @@
 | knowledge/characters/char_aura_engineer.md | 1286 | no |
 | knowledge/characters/char_cerberus.md | 860 | yes |
 | knowledge/characters/char_dawn_chris_grant.md | 481 | yes |
-| knowledge/characters/char_dog_alpha.md | 1126 | no |
+| knowledge/characters/char_dog_cerberus.md | 1126 | no |
 | knowledge/characters/char_dog_beta.md | 859 | no |
 | knowledge/characters/char_jace_apollo.md | 3288 | yes |
 | knowledge/characters/char_jace_best_friend.md | 921 | no |

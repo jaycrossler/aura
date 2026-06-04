@@ -41,7 +41,7 @@
       "char_aura_engineer.md",
       "char_cerberus.md",
       "char_dawn_chris_grant.md",
-      "char_dog_alpha.md",
+      "char_dog_cerberus.md",
       "char_dog_beta.md",
       "char_jace_apollo.md",
       "char_jace_best_friend.md",
@@ -147,7 +147,7 @@
       "frontmatter": true
     },
     {
-      "file": "knowledge/characters/char_dog_alpha.md",
+      "file": "knowledge/characters/char_dog_cerberus.md",
       "category": "characters",
       "words": 1126,
       "frontmatter": false
@@ -550,7 +550,7 @@
     "knowledge/technology/tech_information_environment.md": 35,
     "knowledge/scenes/event_jace_bar_rumors.md": 34,
     "knowledge/timeline/timeline_master.md": 34,
-    "knowledge/characters/char_dog_alpha.md": 32,
+    "knowledge/characters/char_dog_cerberus.md": 32,
     "knowledge/scenes/event_jace_mars_tour_with_rich.md": 30,
     "knowledge/technology/tech_cybernetics.md": 29,
     "knowledge/universe-spec/concept_resource_scarcity.md": 29,

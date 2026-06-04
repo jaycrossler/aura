@@ -3,13 +3,13 @@ id: character_voice
 type: agent_proposal
 status: proposed
 generated_at: '2026-04-30T12:06:00.269330+00:00'
-source_files: ['knowledge/characters/char_aura_engineer.md', 'knowledge/characters/char_dawn_chris_grant.md', 'knowledge/characters/char_dog_alpha.md', 'knowledge/characters/char_dog_beta.md', 'knowledge/characters/char_jace_apollo.md', 'knowledge/characters/char_jace_best_friend.md', 'knowledge/characters/char_mei.md', 'knowledge/characters/char_mr_sylvester.md', 'knowledge/characters/char_sister_artemis.md', 'knowledge/characters/char_sister_athena.md', 'knowledge/characters/char_smuggler_mars.md']
+source_files: ['knowledge/characters/char_aura_engineer.md', 'knowledge/characters/char_dawn_chris_grant.md', 'knowledge/characters/char_dog_cerberus.md', 'knowledge/characters/char_dog_beta.md', 'knowledge/characters/char_jace_apollo.md', 'knowledge/characters/char_jace_best_friend.md', 'knowledge/characters/char_mei.md', 'knowledge/characters/char_mr_sylvester.md', 'knowledge/characters/char_sister_artemis.md', 'knowledge/characters/char_sister_athena.md', 'knowledge/characters/char_smuggler_mars.md']
 ---
 # Character Voice Proposal
 
 - Add voice profile checks for `char_aura_engineer.md`.
 - Add voice profile checks for `char_dawn_chris_grant.md`.
-- Add voice profile checks for `char_dog_alpha.md`.
+- Add voice profile checks for `char_dog_cerberus.md`.
 - Add voice profile checks for `char_dog_beta.md`.
 - Add voice profile checks for `char_jace_apollo.md`.
 - Add voice profile checks for `char_jace_best_friend.md`.
