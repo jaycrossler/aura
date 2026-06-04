@@ -88,8 +88,6 @@ This capability is unknown in this corner of the galaxy. Galactic civilizations 
 
 **Aura appearance in the Astral:** AI systems appear in the Astral as structured, regular, geometric light patterns — less fractal than biological minds, more crystalline. The light is steady rather than pulsing. Brightness varies with processing intensity and self-modeling depth. Biological and AI glows are clearly distinguishable to any Astral observer — recognizably different kinds of consciousness, not different magnitudes of the same thing.
 
-For Jace's Aura specifically, see the development arc in [Jace Apollo Grant](../characters/char_jace_apollo.md). His Aura is a relatively recent migration from a military-restricted instance to a commercial belter-grade instance. It is learning him fast.
-
 ## Voice and Personality (Generic)
 
 Auras inherit personality from their training and adapt to their user. Most are designed for warmth, competence, and slight humor. They are explicitly NOT designed to feel romantic — strong cultural and design norms push back on that, though enforcement is imperfect.

@@ -25,7 +25,7 @@ loyalties: [science, knowledge, the Astral itself]
 
 # Relationships
 first_contact: char_jace_apollo (finds him when he crosses accidentally)
-companions_astral: [char_jace_apollo, char_dog_cerberus]
+companions_astral: [char_jace_apollo, char_dog_alpha]
 notable_relationships: TBD
 
 # Capabilities
@@ -129,7 +129,7 @@ When Jace later adopts the term and splits it into "the Astral" and "Hyperspace"
 - See `/universe-spec/spec_crossing_mechanics.md` for the Astral crossing mechanics she discovered.
 - See `/universe-spec/spec_astral_phenomenology.md` for the physical properties she has been documenting.
 - See `/characters/char_jace_apollo.md` for the meeting and subsequent partnership.
-- See `/characters/char_dog_cerberus.md` for Cerberus's role in the first meeting.
+- See `/characters/char_dog_alpha.md` for Cerberus's role in the first meeting.
 - See `/magic-systems/magic_returning_arts.md` for how her self-developed framework eventually intersects with rediscovered tradition.
 
 ## Revision Notes
