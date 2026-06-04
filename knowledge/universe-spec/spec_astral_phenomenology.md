@@ -4,222 +4,234 @@ name: The Astral — Physical Properties and Perceptual Experience
 type: foundational_phenomenology
 status: canonical
 canonical: true
-last_updated: 2026-05-31
+last_updated: 2026-06-03
+supersedes: spec_astral_phenomenology (2026-05-31)
 ---
 
 # The Astral — Physical Properties and Perceptual Experience
 
 ## Nomenclature
 
-The higher-dimensional space accessible from the solar system has two names in common use by the story's early practitioner community:
+Multiple names are in active use at story start. Terminology is deliberately loose — different people discovering the Astral independently are naming it their own ways. This will stabilize over time.
 
-**The Never-Never** — Dr. Sophia Lotte's original term, from the Baba Yaga tradition: the place beyond the deep forest where dangerous knowledge lives, the liminal territory you enter knowing it will cost you something. Used for the entire system. Has an older, more personal character.
+**The Never-Never** — Sophia Lotte's original term. From the Baba Yaga tradition. Used for the whole system. Personal, older in character.
 
-**The Astral** — Jace's term for the dist² layer accessible within gravity wells: local space, the first layer most practitioners encounter, the one anchored to the solar system. Practical, descriptive, eventually the common usage.
+**The Astral** — Jace's working term for the dist² layer within gravity wells. Practical, descriptive, eventually common usage among belt practitioners.
 
-**Hyperspace** — Jace's term for the dist³ layer beyond gravity wells: interstellar distances, the open void between stars, accessed only after exiting a gravity zone. Distinguished from the Astral by different terrain, different physics, and dramatically different danger profile.
+**Hyperspace** — Jace's term for the dist³ layer beyond gravity wells. Distinguished by different terrain, physics, and dramatically higher danger profile.
 
-This document covers the Astral specifically. Hyperspace is addressed in `/universe-spec/spec_hyperspace_phenomenology.md` (to be written).
+**Tau Space, the Between, the Fae Roads, the Deep Paths** — other names from other traditions, galactic and human, all referring to the same phenomenon.
+
+This document covers the Astral (dist²) specifically. Hyperspace is addressed separately.
 
 ---
 
 ## The Extra Dimension
 
-The Astral is not three-dimensional space with a different landscape. It is a higher-dimensional space that is perceived through a human brain that was not built to process it.
+The Astral is not three-dimensional space with a different landscape. It is a higher-dimensional space perceived through a human brain not built to process it.
 
-The brain copes by projecting what it encounters into a three-dimensional representation — the only framework available. This representation is not wrong exactly, but it is systematically incomplete, like a shadow of a three-dimensional object projected onto a flat surface. Some things fit naturally into the three-dimensional representation. Some things produce visual experiences that are technically accurate perceptions but make no geometric sense: surfaces that are simultaneously on the inside and outside of a shape, distances that contract and expand depending on the angle of attention, objects that have more sides than objects can have.
+The brain copes by projecting what it encounters into a 3D representation — the only framework available. This representation is not wrong exactly, but it is systematically incomplete. Some things fit naturally. Some produce visual experiences that are technically accurate perceptions but geometrically impossible: surfaces simultaneously inside and outside a shape, distances that contract and expand depending on angle of attention, objects with more sides than objects can have.
 
-Practitioners adapt to this over time. The brain learns to tolerate the extra-dimensional input without resolving it into paradox. Experienced Astral navigators describe perceiving a fourth spatial direction — not up, down, left, right, forward, or back, but a seventh direction that they can attend to but not name. Some describe it as a feeling of depth in a direction that doesn't have a word. Some develop a crude motor control for it — a capacity to lean or push in that direction that produces movement effects in the Astral.
+Practitioners adapt. The brain learns to tolerate the extra-dimensional input without resolving it into paradox. Experienced navigators describe perceiving a fourth spatial direction — not up, down, left, right, forward, or back, but a seventh direction they can attend to but not name. Some develop crude motor control for it.
 
-**Early exposure:** Newcomers experience vertigo, visual paradox, and a strong instinct to close their eyes. Closing your eyes in the Astral doesn't help — the perception comes through the Template, not the eyes. The visual paradox continues behind closed lids until the brain stops fighting it.
+**Early exposure:** Vertigo, visual paradox, strong instinct to close eyes. Closing eyes doesn't help — perception comes through the Template, not the eyes.
 
-**Adaptation:** After regular exposure, the paradox becomes familiar and less distressing. This is not understanding. It is tolerance. The brain stops trying to resolve what it cannot resolve and begins navigating around it.
-
-**Sophia's advantage:** Her background in higher-dimensional mathematics gives her better conceptual tools than most to tolerate the extra dimension. She cannot perceive it correctly either — no human brain can — but she has spent years thinking about geometries that don't fit into three-dimensional space, which means she has frameworks for accepting what she cannot picture.
+**Sophia's advantage:** Her background in higher-dimensional mathematics gives her better conceptual frameworks for tolerating what she cannot resolve. She cannot perceive the fourth dimension correctly either — no human brain can — but she has spent years thinking about geometries that don't fit in 3D space.
 
 ---
 
-## Gravity in the Astral
+## Temperature — The Solar Gradient
 
-Physical gravity has a greatly reduced analogue in the Astral. Near large masses, there is a faint gravitational pull — enough to establish "down" as a concept, enough to prevent objects from drifting randomly, but perhaps **5-10% of the physical-space gravitational force** for the equivalent body.
+The Astral near the asteroid belt is cold but survivable. This is not what new crossers expect.
 
-Near Fortuna Station and its asteroid: approximately **0.02-0.05G** effective pull toward the asteroid. Enough to orient. Not enough to walk normally without floating between steps.
+Physical-space vacuum is approaching -270°C. The Astral near Fortuna is approximately **-20°C** — cold enough to cause hypothermia in sleepwear within thirty to sixty minutes, but manageable with cold-weather gear. Not instant-death.
 
-The practical experience: movement in the Astral near a belt station is closer to underwater movement in low gravity than to walking. A deliberate stride carries you several meters. Jumps become significant arcs. Stability requires active adjustment.
+Why: energy and mass bleed continuously from physical space into the Astral through the dimensional membrane. Thermal energy bleeds faster than matter (field transfer vs. particle tunneling). The sun warms the solar system's Astral continuously — more slowly and less efficiently than physical space, but consistently. The result is a solar gradient:
 
-### Will Pressure as Gravity's Replacement
+| Location | Approximate Astral temperature |
+|----------|-------------------------------|
+| Inner solar system (near Earth) | Relatively warm |
+| Asteroid belt | **~-20°C** |
+| Outer belt / Jupiter range | -60 to -80°C |
+| Oort Cloud approach | Near -270°C — lethal without major support |
 
-What replaces gravity as the dominant directional force in the Astral is **Will pressure** — the dimensional weight of conscious beings generating Will in physical space, which produces a detectable pressure in the Astral analogous to (but fundamentally different from) a gravitational gradient.
+**Practical requirement near Fortuna:** Cold-weather thermal gear plus a breathing mask. Not a spacesuit. This is dramatically lighter than practitioners initially expect. The Astral near the belt is survivable with civilian equipment.
 
-**Earth** — seven billion conscious minds generating passive ambient Will — produces an enormous Will-pressure gradient in the Astral. From the belt, Earth is the brightest object in the Astral and the source of the most powerful pressure gradient. It is not quite a pull toward Earth (the mechanism is not gravitational) but something more like standing in a strong current. A practitioner who does not orient against it will drift in Earth's direction.
+### Why This Doesn't Mean Easy Oxygen
 
-**Mars** — two to three million people — produces a much weaker gradient. Still detectable, still directional, but perhaps 1/2000th of Earth's pressure from the belt.
+Heat transfers through the membrane as a field. Gas molecules tunnel through as particles — geological-timescale slow. Near Earth, billions of years of oxygen tunneling have produced marginally breathable pockets. Near belt stations (decades old), atmospheric bleed is negligible — 60-90 seconds usable ambient. The -20°C near Fortuna comes from solar heat transfer, not from breathable atmospheric presence. Breathing gear is still essential.
 
-**The asteroid belt's stations** — tens of thousands of people, distributed — produce small local gradients. Near a station, the pressure from the station's occupants is the dominant Will-pressure source.
+### Thermal Manipulation as Early Will Skill
 
-**Using Will pressure for movement:** A practitioner can use Will pressure as a medium to push against — the dimensional equivalent of a swimmer pushing off water. By orienting against the Earth gradient and pushing deliberately, a practitioner can achieve directed movement: effectively flying, in the direction of their choice, at speeds that depend on their Will capacity and technique.
+Will can interact with thermal energy in the Astral — drawing heat from the environment or displacing it. This is one of the earliest practical powers a sensitive practitioner discovers, because survival depends on it.
 
-This is not effortless. It costs Will. But it is the primary mode of faster movement in the Astral — running and walking exist but are slow compared to Will-pressure flight.
+Skill progression:
+- Early: relies entirely on physical thermal gear
+- Intermediate: supplements gear with basic heat-draw, extending comfort
+- Advanced: thermally self-sufficient with minimal gear
 
-**Practical implication:** Earth is always there in the Astral, like a lighthouse and a current simultaneously. Practitioners quickly learn to use the Earth gradient as their primary navigational reference. Even in the belt, you always know which direction Earth is.
+Jace discovers this early through engineering instinct. Sophia documents it before she can do it reliably.
+
+### The Beacon Effect
+
+The solar thermal gradient makes the solar system a **warm presence** in the cold galactic Astral. Practitioners approaching from outside the Scar would feel the warmth increasing as they approach the sun — a detectable signature that a living, energy-generating system exists here. It is an inadvertent beacon that will eventually matter for first-contact scenarios.
 
 ---
 
-## Perception of the Physical World
+## Gravity — Reduced but Present
+
+Physical gravity has a greatly reduced analogue in the Astral. Near large masses: approximately **5-10% of physical-space gravitational force**. Near Fortuna's asteroid: approximately 0.02-0.05G — enough to establish "down," not enough to walk normally.
+
+Movement near a belt station is closer to underwater movement in low gravity than walking. Deliberate strides carry you several meters. Jumps become significant arcs. Stability requires active adjustment.
+
+### Will Pressure as the Dominant Directional Force
+
+What replaces gravity as the primary directional force is **Will pressure** — the dimensional weight of conscious beings generating Will in physical space, producing detectable pressure in the Astral.
+
+**Earth** — seven billion conscious minds — produces an enormous Will-pressure gradient. From the belt, Earth is the brightest object in the Astral and the strongest pressure gradient. Not a gravitational pull — more like standing in a strong current. A practitioner who doesn't orient against it will drift toward Earth.
+
+**Mars** — ~two to three million people — produces a much weaker gradient. Perhaps 1/2000th of Earth's pressure from the belt.
+
+**Belt stations** — tens of thousands of people, distributed — produce small local gradients. Near a station, the station's occupants are the dominant local Will-pressure source.
+
+**Earth as lighthouse and compass:** Belt practitioners quickly learn to use the Earth gradient as their primary navigational reference. Even at Fortuna, you always know which direction Earth is. It is always there in the Astral — bright, directional, reliable.
+
+**Will pressure as propulsion:** A practitioner can push against Will pressure as a swimmer pushes off water. Oriented against the Earth gradient and pushing deliberately, they can achieve directed movement — effectively flying, at speeds depending on Will capacity and technique.
+
+---
+
+## Perception of the Physical World — N-1 Dimensions
 
 From the Astral, the physical world is visible — but in one fewer dimension.
 
-### Seeing in N-1 Dimensions
+Three-dimensional objects appear from the Astral as their two-dimensional cross-sections — not their surfaces, but their interiors exposed as if sliced by an infinitely thin plane.
 
-The physical world, viewed from the Astral, appears as a lower-dimensional projection of itself. Three-dimensional objects appear as their two-dimensional cross-sections — not their surfaces, but their interiors exposed as if sliced by an infinitely thin plane.
+**A human body:** Nested concentric rings — bone structure, organs, circulatory system, neural tissue all simultaneously visible as patterns. Sophia's notes: *"the most intimate thing I have ever seen and I feel uncomfortable describing it in detail."*
 
-**What this means for a human body:** A person in physical space, viewed from the Astral, appears as a series of concentric cross-section rings — the same way a medical CT scan shows the interior of a body as a sequence of two-dimensional slices. The bone structure, organs, circulatory system, and neural tissue are all simultaneously visible as nested rings and patterns. The complexity of a human body in cross-section is extraordinary.
+**A wall:** A thin cross-section — an outline, essentially. Interior structure visible. A sealed room is fully visible as bounded patterns. This is why walls are passable in the Astral (see below).
 
-**What this means for a wall:** A wall is a thin cross-section — an outline, essentially. The interior structure is visible. A practitioner in the Astral can see through walls because walls, from the higher dimension, are simply their own cross-sections. A sealed room is visible as a pattern of cross-sections with a bounded interior that is fully accessible to perception.
+**An asteroid:** A translucent topographical map of composition, density, and mineral structure. A practitioner can see inside a solid rock as clearly as a medical CT scan shows a body's interior. Dense mineral deposits appear as distinct structures within translucent rock.
 
-**What this means for a machine:** A machine's internal mechanisms are exposed. Every gear, circuit, pipe, and structural element is visible as a cross-section. A broken component is identifiable by its anomalous cross-section — the fracture or misalignment is visible as a discontinuity in the pattern.
+**A machine:** Internal mechanisms fully exposed. A broken component is identifiable by its anomalous cross-section.
 
-**The fourth dimension's role:** The extra spatial dimension means that "inside" and "outside" are not fully distinct in the Astral. Objects that are sealed in physical space are not sealed from the Astral. A practitioner can move from the Astral into a closed room by using the higher-dimensional direction — not by passing through the wall (which would require tearing through physical matter) but by approaching from the direction that physical space doesn't have.
+### The Crystal Tunnel Effect — Why Sensitives Dream of Tunnels
+
+Sensitive practitioners who are partially crossing in sleep briefly perceive the Astral's view of the physical world around them. Ships and stations viewed in N-1 dimensional perception appear as **nested translucent tunnels** — the metal infrastructure in cross-section, the Will-glows of conscious beings inside them visible like lanterns in glass pipes.
+
+This is why the recurring pre-crossing dream is of glowing crystal tunnels. It is not metaphor or hallucination. It is what a station or ship looks like from the other side.
+
+Both Sophia and Jace report this dream pattern independently before their first full crossings. When they compare notes, the recognition is immediate: they have been seeing the same thing from the same angle.
 
 ---
 
-## Moving Through and Into Physical Space
+## Moving Through Physical Space Objects
 
-### Passing Through Walls
+### Walls Are Passable
 
-A practitioner in the Astral can move through physical-space walls, sealed containers, and other solid obstacles by navigating in the higher-dimensional direction — approaching from an angle that physical space doesn't have. The wall is not penetrated. It is simply bypassed by moving in a direction it doesn't extend.
+A practitioner in the Astral can move through physical-space walls, sealed containers, and solid obstacles by navigating in the higher-dimensional direction — approaching from an angle that physical space doesn't have. The wall is not penetrated. It is bypassed by moving in a direction it doesn't extend into.
 
-This is not effortless. It requires:
-- Awareness of the fourth-dimensional direction (takes practice)
-- Deliberate navigation — walls don't disappear, they have to be actually moved around in 4D
-- Spatial tracking of where you are relative to the physical structure (easy to become disoriented inside a complex building when approaching from a direction that doesn't correspond to any physical entry point)
+This requires:
+- Awareness of the fourth-dimensional direction (develops with practice)
+- Deliberate navigation — walls don't disappear; they must be actively moved around in 4D
+- Spatial tracking of physical structure (easy to become disoriented inside a complex building approached from a direction that has no physical entry point)
+
+**Jace's discovery:** Early in the partnership, he builds a temperature probe and sticks it through a station wall into the open Astral space outside. Reading: -20°C. Not -270°C. He stares at it for a long time. Then he shows Sophia. This is the first data point they generate together, and it opens the question of whether they can work entirely outside the station.
+
+### Going Outside
+
+The discovery that walls are passable leads directly to stepping through a station wall into open Astral space around the asteroid. Cold, dark, the asteroid visible as a translucent mineral map below them, the distant glow of Earth in one direction, the absolute darkness of the Scar in another. The first time they do this is one of the moments the story earns its scale.
 
 ### Reaching Into Physical Space
 
-A practitioner in the Astral can reach through the dimensional boundary at specific points — touching physical-space objects, moving them, affecting them. This requires a localized tear, much smaller and less costly than a full-body crossing. More like making a small puncture than opening a door.
+A practitioner in the Astral can reach through the dimensional boundary at specific points — touching physical-space objects, moving them, affecting them. This requires a small localized tear, much less costly than a full-body crossing.
 
-**Practical applications:**
-- Clearing an obstruction in a pipe or machine by reaching into the mechanism from the Astral side
-- Repositioning a component that has shifted out of alignment
-- Pushing small objects through the boundary in either direction
-- Applying force to physical-space objects from an angle they have no defense against
+Sophia's first practical discovery: she identified a failed component in a monitoring instrument, reached through from the Astral, and physically repositioned the dislodged piece. The instrument started working. She stared at it for a long time. Then she documented it.
 
-The cost scales with what is being moved. Touching a small organic object costs little. Moving a heavy metal component costs significantly. These are the same scaling rules as full crossing.
+### Asteroid Prospecting
 
-**Repairing equipment from the Astral:** Sophia's first practical discovery. She identified a failed component in a monitoring instrument, reached through from the Astral, and physically repositioned the dislodged piece. The instrument started working. She stared at it for a long time. Then she documented it.
+From the open Astral space outside the station, a practitioner can look directly into asteroids at any range — the N-1 dimensional perception making their composition fully readable. Dense mineral deposits are visible as distinct concentrations within translucent rock structure.
+
+Jace uses a survey drone pulled across into the Astral to systematically survey nearby asteroids' interiors. This is how he identifies a high-value mining target that transforms Fortuna Station's resource situation. He then "finds" it through conventional physical-space survey methods. Nobody questions it.
 
 ---
 
 ## The Glow of Minds
 
-The most visually striking feature of the Astral is the luminosity of conscious beings.
-
-Every Will-generating consciousness appears in the Astral as a visible glow emanating from their physical-space location. The brightness, color, and structure of the glow reflects the nature and intensity of the consciousness generating it.
+Every Will-generating consciousness appears in the Astral as a visible glow. Brightness, color, and structure reflect the nature and intensity of the consciousness generating it.
 
 ### Human Minds
 
-A conscious human being in the Astral appears as a brilliant, complex, fractal light source emanating from their physical location. The glow is not uniform — it is structured, layered, and dynamic.
+A conscious human appears as a brilliant, complex, fractal light source. Multiple interacting centers corresponding roughly to major brain functional regions. Self-similar fractal structure at multiple scales. **Color reflects mental state** — sleep is soft blue-grey, focused concentration is sharp yellow-white, strong emotion produces intense saturated colors consistent across individuals.
 
-Looking carefully at a specific person's glow:
+Active Will use is visible as directed movement in the glow — brighter pulses, concentrated flows. A practitioner doing active work in physical space is brilliantly obvious to any Astral observer.
 
-**Multiple centers of activity** — the human brain's distributed neural architecture is reflected in the glow as multiple interacting light centers. Not one light but many, connected and communicating, corresponding roughly to the major functional regions of the brain.
+### AI Systems (Aura)
 
-**Fractal structure** — the glow is self-similar at multiple scales: the large-scale structure of neural regions, the medium-scale of functional clusters, the small-scale of individual activity patterns. An experienced observer can read the structure the way an EEG specialist reads neural patterns — not precisely, but qualitatively.
+Aura instances glow differently from biological minds. Structured, regular, geometric — less fractal, more crystalline. Steady rather than pulsing. Minimal emotional color variation; brightness corresponds to processing intensity.
 
-**Color as emotion and cognition** — different mental states produce different colors in the glow. Sleep produces a soft, slow pulse of blue-grey. Focused concentration produces a sharp yellow-white. Strong emotion — fear, grief, love, anger — produces intense saturated colors that vary by emotion type. These colors are not arbitrary. They are consistent across individuals for consistent states, which means an Astral observer can read the emotional state of any nearby person with moderate accuracy.
+The difference between biological and AI glow is obvious to any observer. They are clearly different kinds of consciousness, not different magnitudes of the same thing.
 
-**Will moving through the glow** — active Will use is visible as movement in the glow — brighter pulses, directed flows, concentrations that indicate where the practitioner is applying their Will. A practitioner doing active magical work in physical space is brilliantly obvious to any Astral observer.
-
-**Thoughts as motion** — the fastest-changing elements of the glow correspond to active thought. A person working through a complex problem shows rapid, multi-center activity. A person in simple routine activity shows slow, single-center patterns. The structure of a person's thinking — analytical, emotional, intuitive, fragmented — is legible to a skilled observer.
-
-Sophia's notes describe this as "the most intimate thing I have ever seen and I feel uncomfortable describing it in detail."
-
-### AI Systems
-
-AI systems glow in the Astral, but differently from biological minds.
-
-An Aura instance appears as a structured, regular, geometric light pattern — less fractal than a biological mind, more crystalline. The light is steady rather than pulsing. The emotional color variation is absent or minimal — instead, AI minds show brightness variation that corresponds to processing intensity and what might be called depth of self-modeling.
-
-An AI instance running routine tasks glows steadily and dimly. An AI instance running deep self-referential processing — introspection, recursive modeling, creative generation — glows more brightly and develops more complex geometric patterns in its light.
-
-The difference between biological and AI glow is obvious to any Astral observer. They are clearly recognizable as different kinds of consciousness, not as different magnitudes of the same thing.
-
-**The Jace-Aura pairing in the Astral:** Jace's glowing fractal biological mind and his Aura's crystalline steady AI glow are visible as separate but adjacent lights — and between them, a faint connecting luminescence that neither of them sees but that Sophia documents carefully. The Will interaction between a deeply paired human and their AI manifests in the Astral as a visible bond.
+**The Jace-Aura pairing:** Jace's fractal biological glow and his Aura's crystalline steady glow are visible as separate but adjacent lights with a faint connecting luminescence between them. The Will interaction between a deeply paired human and their AI manifests as a visible bond. Sophia documents this carefully before she tells Jace about it.
 
 ### Animals
 
-Animals glow — but less brightly and with simpler structure than humans. The glow reflects cognitive complexity: dogs and primates show the most structure, with multiple centers of activity and some emotional color variation. Simpler animals show single-center or diffuse glows with minimal color variation.
+Animals glow — less brightly and with simpler structure than humans. Dogs and primates show the most structure, with multiple centers and some emotional color variation.
 
-Cerberus, by this measure, is one of the more complex animal glows that will be encountered in the belt. Her glow after repeated Astral crossings begins developing additional structure that shouldn't be there by baseline expectations — a faint echo of the fractal complexity of human minds. Whether this is Template accumulation or something else, Sophia is very interested in it.
+**Cerberus** shows the most complex animal glow in the belt. After repeated crossings, her glow is developing additional structure — a faint echo of the fractal complexity of human minds. It should not be happening at this rate. Sophia is watching it closely.
 
 ---
 
 ## The Clockwork Dance
 
-The Astral is not static. The gravitational fields of physical-space bodies produce their dimensional analogues in the Astral, and those bodies are in constant motion.
+The Astral near the asteroid belt is in constant slow motion. Planets, moons, and asteroids move through physical space; their gravitational and Will-pressure influence in the Astral moves with them.
 
-Planets, moons, and asteroids move through physical space on orbital mechanics. Their gravitational influence on the Astral moves with them. For a practitioner in the Astral near the asteroid belt:
-
-- The gravitational pull of nearby asteroids shifts constantly as they move through their orbits
-- The Will-pressure gradient from Earth and Mars rotates relative to the observer as the solar system moves
-- The local Astral terrain — what faint landmarks exist — drifts
-
-The overall effect is that the Astral around the belt is in constant slow motion. Nothing is where it was six hours ago. The sun provides a stable reference point (it barely moves relative to the timescales of a crossing). Everything else is in a stately, continuous dance.
-
-For navigation, this means:
-- Fixed reference points in the Astral only exist relative to the sun (and stars, visible as faint distant glows in hyperspace)
+For navigation:
+- Fixed reference points only exist relative to the sun (barely moves on crossing timescales)
+- Earth's Will-pressure gradient is reliable but rotates as Earth orbits the sun
 - Crossing to a specific physical-space location requires accounting for where that location will be when the crossing completes
-- The Earth gradient is reliable but rotates: it tells you the direction to Earth, but Earth's position relative to the sun changes over the year
-- Return crossings require matching your Astral position to where the target physical-space location currently is, which requires continuous awareness of the clockwork
+- Return crossings require matching Astral position to where the target is currently
 
-Experienced navigators develop an intuitive sense of the clockwork. Sophia has been charting it from her measurement equipment, building a rough predictive model. She knows which direction the clockwork will carry a crossing point over the course of a night's expedition.
-
----
-
-## Astral Flora: The Algae Problem
-
-The Scar's dead landscape — the blighted Never-Never terrain of the wider dimensional space — extends into the Astral in the belt region. The large-scale terrain is dead.
-
-But life is returning, slowly, in the Astral's most accessible zones. Specifically: **astral algae and bacteria** are beginning to colonize the dimensional space immediately adjacent to areas of concentrated human Will — the belt stations.
-
-These organisms are post-Scar scavengers that evolved on minimal Will resources. With the flux returning and human populations generating passive ambient Will again, the algae have a new food source. They grow in slow, thin films over the Astral surfaces near stations — invisible from physical space, present in the Astral as a dull dark coating over whatever surface they've colonized.
-
-**What they do:** Astral algae feeds on ambient Will. In physical space, this manifests as a subtle drain on the mood, energy, and cognitive clarity of the people whose Will is being consumed. The effect is individually small and easily attributed to the general misery of belt living. In aggregate — a station with established algae colonies — the effect is a persistent low-grade suppression. People feel tired. They are short-tempered. They don't have a reason; it's just the belt.
-
-**Clearing the algae:** Jace, on one of his early Astral expeditions with Sophia, burns a patch of algae away — instinctively, using directed Will like light or heat against the dark film. The astral algae dies and dissolves. Within hours, the station crew in the affected area reports an inexplicable improvement in mood. They feel like they've shaken off a mild illness. The effect is commented on. Nobody knows why.
-
-Sophia connects it immediately to her sample data. She has been documenting something interfering with her Will measurements near established colony zones. Now she understands what it was. They start systematic clearance.
-
-**The practical and ethical implications:** Clearing astral algae produces measurable benefit for the station population. It also establishes that Astral activity can have invisible, uninstructed effects on physical-space humans. Jace and Sophia are now, without any formal agreement or public knowledge, doing something to the population of the station. Even if the effect is beneficial, the precedent is complicated.
+Sophia has been charting the clockwork from her measurement equipment. She has a rough predictive model and knows which direction the dance will carry a crossing point over a night's expedition.
 
 ---
 
-## Hyperspace: A Note
+## Astral Algae — The Will Drain
 
-Hyperspace — the dist³ layer accessed beyond gravity wells — is mentioned here for contrast. It is not accessible from within a gravity well. To enter it, a practitioner must first reach the boundary of the current gravity zone (approximately the asteroid belt's outer edge from the sun), then shift into the deeper compression.
+Life is returning slowly to the Astral near belt stations. Astral algae — post-Scar scavengers evolved to survive on minimal Will — are colonizing the dimensional space adjacent to areas of concentrated human Will.
 
-Hyperspace has different terrain, different dangers, and different perceptual properties from the Astral. It is not addressed in this document. See `/universe-spec/spec_hyperspace_phenomenology.md` (to be developed).
+**What they do:** Feed on ambient Will. In physical space, this manifests as a subtle drain on mood, energy, and cognitive clarity of the people whose Will is being consumed. The effect is individually small. In aggregate — a station with established colonies — it is persistent low-grade suppression. People feel tired. Short-tempered. No reason. Just the belt.
+
+**Clearing the algae:** Jace burns a patch of algae using directed Will. It dies and dissolves. Within hours, the station crew in the affected area reports an inexplicable improvement in mood. Sophia connects it immediately to her anomaly data. They begin systematic clearance.
+
+**The ethical implication:** They are now doing something to the station's population without formal agreement or public knowledge. The effect is beneficial. The precedent is complicated.
+
+---
+
+## Hyperspace — A Note
+
+The dist³ layer — Hyperspace — is only accessible beyond gravity wells. A practitioner must first reach the boundary of the current gravity zone (approximately the outer asteroid belt), then shift into the deeper compression. Hyperspace has different terrain, dangers, and perceptual properties. See: spec_hyperspace_phenomenology (to be written).
 
 ---
 
 ## Open Questions
 
-- Does extended exposure to the Will-pressure gradient from Earth produce a subtle directional bias in practitioner development — are belt practitioners slightly more aligned to Earth-sourced Will patterns?
-- Can a practitioner in the Astral read their own glow? (Sophia suspects yes — she has seen something when she looks inward — but the experience is difficult to describe.)
-- What does the Astral look like near a large Will-Network structure? If a god-scale entity is present, is their Will-pressure visible the same way Earth's is?
-- Are there Astral features that are entirely positive — places where the dead terrain has recovered enough to produce something other than emptiness and algae?
-- What does Cerberus see in the Astral? Her sensory processing is different from human. Does she perceive the mind-glows? Does she perceive the extra dimension differently?
-
----
+- Does extended exposure to Earth's Will-pressure gradient produce a directional bias in practitioner development?
+- Can a practitioner in the Astral read their own glow?
+- What does the Astral look like near a large Will-Network structure?
+- Are there Astral features that are entirely positive — places where the dead terrain has recovered?
+- What does Cerberus perceive in the Astral? Does she see mind-glows? Does the fourth dimension register differently for a dog's sensory processing?
 
 ## Cross-References
 
-- See `/universe-spec/cosmology.md` for the Scar and the Reopening context.
-- See `/universe-spec/spec_crossing_mechanics.md` for how to enter and leave the Astral.
-- See `/magic-systems/magic_never_never.md` for the blighted terrain of the Scar interior.
-- See `/magic-systems/magic_will_and_templates.md` for Will mechanics.
-- See `/characters/char_sophia_lotte.md` for the first systematic observer of these phenomena.
+- See [[cosmology]] for the Scar and Reopening context
+- See [[spec_crossing_mechanics]] for how to enter and leave the Astral
+- See [[magic_never_never]] for the blighted terrain of the Scar interior
+- See [[magic_will_and_templates]] for Will mechanics
+- See [[char_sophia_lotte]] for the first systematic observer
+- See [[char_jace_apollo]] for the temperature probe and wall-permeability discoveries
+- See [[char_dog_cerberus]] for the animal glow development
 
 ## Revision Notes
 
-- 2026-05-31: New file. Establishes canonical phenomenology of the Astral layer: the extra dimension and brain adaptation, greatly reduced gravity, Will pressure and flight, N-1 dimensional perception of physical world, moving through walls, mind-glow phenomenology (human/AI/animal), the clockwork dance, and astral algae. Separates Astral (dist²) from Hyperspace (dist³) as distinct named layers. Attributes "Never-Never" name to Dr. Sophia Lotte (Baba Yaga reference), "Astral" and "Hyperspace" terminology to Jace.
+- 2026-05-31: New file. Established canonical phenomenology: extra dimension, gravity, Will pressure, N-1 perception, mind-glows, clockwork dance, astral algae. Separated Astral (dist²) from Hyperspace (dist³).
+- 2026-06-03: Major update. Corrected temperature to **-20°C** near Fortuna (revised from -40 to -60°C). Added crystal tunnel dream explanation (N-1 perception of physical infrastructure). Added wall permeability and Jace's temperature probe discovery. Added open-space exploration. Added asteroid prospecting via N-1 perception (Jace's drone discovery). Added solar thermal gradient table. Added beacon effect. Clarified that terminology is intentionally loose at story start. Added thermal manipulation as early Will skill.

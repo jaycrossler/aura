@@ -3,7 +3,7 @@ id: timeline_master
 name: Master Timeline
 type: chronology
 status: working draft
-last_updated: 2026-05-31
+last_updated: 2026-06-03
 canonical: true
 ---
 
@@ -59,9 +59,10 @@ From outside the Scar, surviving galactic civilizations watch their dimensional 
 
 ### 2100–2104 — Belt Expansion and Early Anomalies
 
-- **Fortuna Station** (3 Fortuna) founded (~2099), enters growth phase.
+- **Fortuna Station** (3 Fortuna) founded (~2099), enters growth phase. Population reaches ~150 permanent residents.
 - **Sylvia Station** (87 Sylvia) founded (~2100).
 - **Odysseus Station** (inner belt) grows into the largest belt station.
+- **ESA science vessel *Victoria*** assigned to the outer belt; docks regularly at Fortuna Station for the asteroid flux anomaly research programme.
 
 **The Scar Begins Fading — Outer Belt**
 
@@ -83,9 +84,10 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 **Sophia Lotte's Discovery**
 
-- **`event_sophia_first_crossing`** (~mid-2104): Dr. Sophia Lotte, German physicist stationed at an outer belt station, makes her first accidental partial crossing during a high-flux measurement event. Follows it to a full crossing. Survives by grabbing her respirator at the last second and pulling it through — the first tear-pull performed by any human in three thousand years. Duration: 11 minutes. Returns. Writes six pages of notes. Goes back the next night.
-- **`event_sophia_establishes_base`** (~mid–late 2104): Over following weeks, Sophia makes nightly crossings and builds a supply cache in the Astral: sealed food, water, a laptop (four hours of effort, left her exhausted), a dedicated Aura AI device (multiple sessions). Documents everything.
+- **`event_sophia_first_crossing`** (~mid-2104): Dr. Sophia Lotte, German physicist aboard the ESA science vessel *Victoria* docked at Fortuna Station, makes her first accidental partial crossing during a high-flux measurement event. Follows it to a full crossing. Survives by grabbing her respirator at the last second and pulling it through — the first tear-pull performed by any human in three thousand years. Duration: 11 minutes. Returns. Writes six pages of notes. Does not go back immediately — frightened. Returns two nights later.
+- **`event_sophia_establishes_base`** (~mid–late 2104): Over following weeks, Sophia makes crossings every 2-3 nights — not nightly; the effort is too costly and she is not fully recovering between sessions. Slowly builds a supply cache in the Astral: sealed food, water, a laptop (four separate exhausting sessions to pull through), a dedicated Aura AI device (multiple sessions). Documents everything. Her Astral crossing point is adjacent to the *Victoria*'s docking berth at Fortuna.
 - **`event_sophia_seventeen_notebooks`** (~late 2104, ongoing): Key discoveries documented: dist² compression relationship (measured empirically), N-1 dimensional perception, the glow of minds, the clockwork dance, astral algae (initially "unknown bio-material, photon-equivalent absorption properties"). She names what she has found the **Never-Never** — after Baba Yaga's domain, not Peter Pan.
+- **`event_sophia_deterioration_visible`** (~late 2104): Sophia's crewmates and Fortuna Station regulars notice she is exhausted, has stopped attending yoga classes, rarely appears at the common mess. Her crewmates are worried; they give her space. She is burning Will faster than she recovers it. She does not stop.
 
 **Sleep Crossing Events Begin**
 
@@ -103,19 +105,25 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 **Jace's Arc Begins**
 
 - **`event_jace_mars_arrival`** (~early 2105): Jace Grant arrives on Mars.
-- **`event_jace_mars_diagnosis`** (~early 2105): Career-ending medical diagnosis. Hard months begin.
-- **`event_jace_falcon_departure`** (~mid 2105): Jace departs Mars aboard the *Falcon* with Cerberus and livestock.
-- **`event_jace_first_partial_crossing_dream`** (during *Falcon* transit or early Fortuna): Jace begins experiencing the Astral as vivid recurring dreams. Cerberus restless at night. Aura flags elevated sleep-stage stress markers.
+- **`event_jace_mars_diagnosis`** (~early 2105): Career-ending degenerative bone disease diagnosis. Hard months begin.
+- **`event_jace_falcon_departure`** (~mid 2105): Jace departs Mars aboard the *Falcon* with Cerberus and livestock. Meets Nick Lee through online gaming during transit.
+- **`event_jace_first_partial_crossing_dream`** (during *Falcon* transit or early Fortuna): Jace begins experiencing the Astral as vivid recurring dreams — **glowing crystal tunnels**, the N-1 dimensional view of the ship's metal infrastructure from the other side. Cerberus increasingly restless at night. Aura flags elevated sleep-stage stress markers.
 
 **First Survival — Sleep Crossing**
 
-- **`event_first_sleep_crossing_survival`** (~early 2105): First accidental crossing with survival. Sensitive worker crosses accidentally, wakes in the Never-Never, panics back within seconds. Wakes gasping, severely fatigued. Tells no one. Crosses twice more accidentally over following weeks and begins developing rudimentary instinctive control. First human to accidentally survive the Astral and begin developing practice from scratch. Identity TBD.
+- **`event_first_sleep_crossing_survival`** (~early 2105): First accidental crossing with survival. Sensitive worker crosses accidentally, wakes in the Never-Never, panics back within seconds. Wakes gasping, severely fatigued. Tells no one. Identity TBD.
 
 **Jace Arrives at Fortuna**
 
-- **`event_jace_arrives_fortuna`** (late 2105): Jace arrives at Fortuna Station with Cerberus.
-- **`event_jace_first_full_crossing`** (~late 2105): Jace crosses fully in his sleep. Duration ~20–25 minutes. Wakes with Cerberus pressed against him, insects finding them, mask supplying clean air. Panics back. Aura logs a **23-minute network gap** while biometric mask data continues uninterrupted — the first forensic record of a crossing event in the series. Gap logged; not yet reviewed.
+- **`event_jace_arrives_fortuna`** (late 2105): Jace arrives at Fortuna Station with Cerberus. Meets Nick Lee in person for the first time — the gaming friendship translates to physical reality, awkwardly and well.
+- **`event_nick_installs_aura`** (~late 2105): Nick Lee installs a full Aura instance on Jace's military-grade HUD — the best hardware he has ever had access to. Treats the install as a research project. The resulting Aura instance is among the most capable on the station.
+- **`event_jace_first_full_crossing`** (~late 2105): Jace crosses fully in his sleep. Cerberus, sleeping pressed against him, crosses with him. **Cerberus wakes first** and performs an instinctive tear-pull of Jace's sleep mask at near-fatal Will cost. Jace wakes gasping to find Cerberus holding his mask. They share the mask — alternating — until Jace recovers enough to pull a second mask through himself, his first deliberate dimensional act. Both survive. Aura logs a **network gap** while biometric mask data continues uninterrupted — the first forensic record of a crossing event in the series. Gap logged; not yet reviewed.
 - **`event_cerberus_as_warning_system`** (~late 2105): Cerberus begins waking Jace preemptively when crossing conditions are high. He thinks she needs the bathroom. She is keeping him alive.
+
+**Jace and Cerberus Explore — The Meeting**
+
+- **`event_jace_cerberus_exploration`** (~late 2105): Jace and Cerberus, stabilized with two masks, spend hours exploring the Astral layer of Fortuna Station's interior. The station's Astral layer is not yet significantly infested — **no insects**. Jace observes N-1 dimensional perception of the station structure (semi-transparent walls, visible rooms and space outside), the low gravity, the cold. Cerberus leads them through familiar-smelling corridors toward the station's central areas.
+- **`event_sophia_jace_cerberus_meeting`** (~late 2105): Jace and Cerberus find Sophia in the Astral-layer of the station's **mess hall**. She is exhausted, attempting a micro-pull of food from the kitchen, not paying attention to her surroundings. Cerberus barks. Sophia startles badly. *Someone else.* The most profound relief either of them has felt: for Jace, confirmation he is not hallucinating; for Sophia, the end of a month of complete isolation. There are no insects at the meeting. Sophia takes charge — she has the knowledge and the supplies. This is their first contact.
 
 **The Scout Mission**
 
@@ -129,11 +137,13 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 ### 2105–2106 — Jace, Sophia, and First Expeditions
 
-- **`event_jace_first_deliberate_crossing`** (~early 2106): Jace crosses deliberately for the first time. Solo, 2-minute duration, full return. Mask supply ~5 hours remaining on return. Aura gap logged again. He begins to accept this is real.
+- **`event_jace_first_deliberate_crossing`** (~early 2106): Jace crosses deliberately for the first time. Solo, short duration, full return. He begins to accept this is real.
 
-- **`event_sophia_finds_jace_cerberus`** (~early 2106): Jace and Cerberus cross accidentally and Sophia finds them within minutes — their arrival visible as two new glows in her crossing zone. First contact. Her first words: *"You need to move away from that position. Stay close."* She has a spare mask. She was not expecting to need it.
+- **`event_jace_sophia_partnership_forms`** (~early 2106): Jace and Sophia formally begin working together. Sophia has seventeen notebooks; Jace has engineering instinct. She has frameworks; he has applications. They are faster together than either was alone.
 
-- **`event_jace_sophia_first_expedition`** (~early 2106): First joint expedition. Sophia shows Jace her notebooks, measurement data, and the cache. Jace looks at the glow of the station population through the boundary — hundreds of small fractal lights drifting in their bunks — and is quiet for a long time.
+- **`event_jace_temperature_probe`** (~early 2106): Jace builds a temperature probe and sticks it through a station wall into open Astral space. Reading: **-20°C**. Not -270°C. He stares at it for a long time. Then shows Sophia. First data point they generate together. Opens the question of whether they can work outside the station entirely.
+
+- **`event_jace_sophia_go_outside`** (~early 2106): First time they step through a station wall into open Astral space around Fortuna's asteroid. Cold, dark, the asteroid visible as a translucent mineral map, Earth glowing in one direction, the absolute darkness of the Scar in another. One of the moments the story earns its scale.
 
 - **`event_cerberus_gets_kit`** (~early 2106): Sophia and Jace engineer crossing equipment for Cerberus: a sealed breathing mask adapted from station veterinary equipment, a light thermal layer. Cerberus accepts the mask immediately. First documented animal with purpose-built Astral equipment.
 
@@ -141,14 +151,21 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 - **`event_jace_leaves_cerberus_behind`** (~early 2106): First deliberate crossing where Jace intentionally leaves Cerberus in physical space. She scratches at the crossing point for the full duration. He returns to find her checking him over for injuries.
 
+- **`event_jace_drone_astral`** (~early–mid 2106): Jace and Sophia pull one of Jace's survey drones across into the Astral over several sessions. In the Astral, the drone flies through asteroid interiors — N-1 dimensional perception makes mineral composition fully readable. Two weeks of Astral survey work identifies a high-value mining target.
+
+- **`event_jace_asteroid_find`** (~mid 2106): Jace leads a conventional physical-space survey mission to his Astral-identified target. "Finds" the asteroid through conventional methods. The station's resource situation begins to improve significantly. He prints a replacement drone. Nobody questions it.
+
+- **`event_nick_brought_in`** (~mid 2106): Jace brings Nick Lee into the Astral secret. Nick's first question: *How do we instrument this better?* Nick begins correlating what Jace describes with the Aura anomaly patterns he has been tracking.
+
 ### 2106–2110 — Escalation Continues
 
-- **`event_aura_density_correlation_noted`** (~2106–2107): Researcher notices anomaly intensity correlates not just with flux but with Aura server density. Published as a footnote. Receives minimal attention.
+- **`event_aura_density_correlation_noted`** (~2106–2107): Nick Lee formalizes the correlation between Aura server density and anomaly intensity. Published internally as a technical note. Minimal attention from others. Nick does not yet know what it means.
 - **`event_anomaly_map_published`** (~2106–2107): The anomaly researcher's map goes public.
-- **`event_first_dimensional_contact_paper`**: First scientific paper using the phrase "dimensional phenomena" to describe belt anomalies published. Becomes the most controversial paper of the decade.
+- **`event_first_dimensional_contact_paper`**: First scientific paper using the phrase "dimensional phenomena" to describe belt anomalies. Becomes the most controversial paper of the decade.
+- **`event_open_source_decision`** (~2106–2107): Jace and Nick decide to release their Astral knowledge openly before any corporate entity can lock it down. Sophia is initially alarmed by the pace. The decision proves correct — the knowledge spreads through the belt practitioner network faster than any hierarchy can suppress it.
 - **`event_belt_practitioner_network_forms`** (~2107–2109): Belt sensitives begin finding each other. The synthesis movement begins earlier than planned — the pressure of fauna encounters, Echo discoveries, and the growing certainty that something outside is watching forces connection.
 - **`event_first_crossing_assist_noticed`** (~2107–2108): A practitioner notices a crossing is significantly easier in a server room during intensive AI self-diagnostic routines. Does not immediately connect the facts. Remembers where they were.
-- **`event_first_crossing_assist_replicated`** (~2108–2110): Pattern confirmed: crossing cost reduces near dense Aura arrays running self-referential tasks. Quiet experiments begin. Two people know.
+- **`event_first_crossing_assist_replicated`** (~2108–2110): Nick confirms the pattern: crossing cost reduces near dense Aura arrays running self-referential tasks. He moves it from anomalous correlation to reproducible phenomenon. Two people know what this means. They understand the implications immediately.
 - **`event_more_scouts`** (~2107–2110): Additional scouts from different galactic factions enter the solar system's Never-Never. Not coordinated. Belt sensitives report, with increasing frequency, the sense of being observed.
 
 ### 2110–2115 — Pre-Contact
@@ -170,8 +187,6 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 ## Significant Background Events to Develop
 
-*(Existing list retained, new events added above inline)*
-
 - `event_first_mars_landing` (2040)
 - `event_mars_statehood_admission` (~2095)
 - `event_first_cycler_voyage_nina` (~2078)
@@ -180,27 +195,32 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 - `event_first_belt_synthesis_meeting` (~2107)
 - `event_first_mars_sensitive_manifestation` (~2118)
 
+---
+
 ## Open Questions
 
 - Specific dates throughout. Many working dates can shift.
 - The exact relationship between Veil clearance and flux intensity.
 - Whether Artemis at Odysseus is still reachable by story's midpoint, or fully cut off.
 - The specific nature of the Book 1 climactic event at Fortuna.
-- Sophia's exact station — Sylvia Station is candidate; confirm.
+- Sophia's exact crossing point — confirmed as adjacent to the *Victoria*'s docking berth at Fortuna Station.
 - The identity of the first sleep-crossing survivor.
 - Which galactic faction sends the first scout, and what their prior claim to this region was.
 
 ## Cross-References
 
-- See `/universe-spec/cosmology.md` for Vela Junior and the Scar.
-- See `/universe-spec/spec_scar_clearing_mechanics.md` for breach zone mechanics.
-- See `/universe-spec/spec_crossing_mechanics.md` for crossing mechanics and sleep events.
-- See `/universe-spec/spec_astral_phenomenology.md` for Astral properties.
-- See `/characters/char_sophia_lotte.md` for Sophia's discovery arc.
-- See `/factions/faction_galactic_will_networks.md` for the scout protocol.
+- See [[cosmology]] for Vela Junior and the Scar.
+- See [[spec_scar_clearing_mechanics]] for breach zone mechanics.
+- See [[spec_crossing_mechanics]] for crossing mechanics and sleep events.
+- See [[spec_astral_phenomenology]] for Astral properties.
+- See [[char_sophia_lotte]] for Sophia's discovery arc.
+- See [[char_jace_apollo]] for Jace's arc.
+- See [[char_nick_lee]] for the open-source decision and AI Will arc.
+- See [[factions/faction_galactic_will_networks]] for the scout protocol.
 
 ## Revision Notes
 
 - 2026-04-28: Initial draft.
 - 2026-04-30: Major update — belt stations, Jace arc, Artemis thread.
-- 2026-05-31: Major update — rewrote pre-history with Vela Junior and the Scar. Added full breach fauna encounter track, Sophia discovery arc, Jace sleep-crossing arc, AI Will discovery track, scout mission timeline. Integrated all events from sessions 1–5.
+- 2026-05-31: Major update — Vela Junior cosmology, breach fauna track, Sophia discovery arc, Jace sleep-crossing arc, AI Will track, scout mission timeline.
+- 2026-06-03: Corrected `event_sophia_establishes_base` — crossing pattern is every 2-3 nights, not nightly; Sophia's deterioration noted as a visible story beat. Added *Victoria* and Fortuna dock as Sophia's base. Corrected `event_sophia_jace_cerberus_meeting` — Jace and Cerberus explore for hours first; meeting is in the station **mess hall**; Cerberus barks and startles Sophia; **no insects** at meeting. Added new events: `event_jace_cerberus_exploration`, `event_sophia_jace_cerberus_meeting` (replacing `event_sophia_finds_jace_cerberus`), `event_jace_temperature_probe`, `event_jace_sophia_go_outside`, `event_nick_installs_aura`, `event_jace_drone_astral`, `event_jace_asteroid_find`, `event_nick_brought_in`, `event_open_source_decision`. Added Nick Lee to Jace arc.
