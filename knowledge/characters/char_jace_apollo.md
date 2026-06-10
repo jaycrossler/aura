@@ -59,6 +59,109 @@ He is not yet the protagonist his story will require. He is competent, loyal, an
 
 ---
 
+## Drone Inventory
+
+Jace operates **two distinct drone categories** that should not be conflated:
+
+### Survey Drones (leased by Origin)
+- **Thing One** and **Thing Two** — Advanced multipurpose drones owned by Origin Industries and assigned to Jace for his posting. Capable, reliable, well-equipped: cameras, articulated arms, friction-pad grippers, swappable tool attachments including driver, welder, and manipulator heads.
+- Jace likes them and works with them easily. They are good drones. He still misses his military units — those felt like extensions of himself, tuned to his habits over years of field use. Thing One and Thing Two feel corporate. Competent but impersonal.
+- **Critical slow-burn detail**: Thing One and Thing Two report everything they observe and do back to Origin Industries. Telemetry, camera feeds, task logs, location data — all of it. Jace does not know this yet. When he figures it out, it will reframe his entire transit.
+- This is not immediate suspicion. It develops gradually — an inconsistency in a log, something Maureen says, a pattern he notices. Do not telegraph it early.
+- Both drones are managed manually through Jace's HUD (Maureen has not integrated them with the Falcon's majordomo — her ship, her rules).
+
+### Personal Survey and Construction Drone (In Construction)
+- **Sparky** — Custom mineral survey drone. Designed to Nick Lee's specs: deep scan array, thermal tolerance for vacuum cycling, modular payload bay. Under construction in the Falcon machine shop throughout the transit.
+- Status at story start: partial frame, sensor mounts mismatched, motor housing reprinted multiple times. One circuit board has caught fire.
+- This is Jace's passion project — drones are expensive; having access to an industrial 3D printer for four months is a rare opportunity he has wanted since grad school.
+- Story importance: Sparky is the drone Jace will eventually bring into the Astral. Its construction arc across the transit chapters should be shown in gradual progress, false starts, and small wins.
+
+### Why Sparky Matters
+- Sparky is the only drone that will belong entirely to Jace.
+- It reports to no one. Its camera sees what he sees and no one else. Its logs are his logs.
+- He doesn't know yet that this will matter. He just wants a good survey drone.
+- Built with Nick Lee's specs, fabricated on Maureen's printer, paid for in maintenance work.
+- When the Origin surveillance thread surfaces, Sparky's existence will read differently in retrospect.
+
+
+
+### Mars Survey Fleet (Future — Fortuna Station)
+- Three standard survey drones, Fortuna-based, used for the prospecting work described in the main character file.
+- These are separate from Sparky and not yet in Jace's possession at transit start.
+
+## Rebreather Routine
+
+Added to morning routine canon: Jace wears a standard low-gravity sleep rebreather (sealed CO2-scrubbing mask). He removes it first thing on waking. The scrubber indicator recharges amber → green. The mask cycled his CO2 four times the first full night described in Chapter 1.
+
+This is standard low-gravity equipment that everyone on Mars or the Belt is used to — unremarkable — but will be critically important in a later scene.
+
+---
+
+## Falcon Machine Shop Arrangement
+
+Jace performs maintenance and repairs beyond his job description in exchange for Maureen's tacit permission to use the fabrication room and industrial 3D printer during off-hours. This arrangement is never formally negotiated. It is simply understood.
+
+The arrangement establishes:
+- Jace as genuinely handy and willing to work
+- Maureen as a fair transactional figure (even if she won't say so)
+- The machine shop as Jace's personal space on an otherwise cramped ship
+
+---
+
+## Falcon Crew Count
+
+Four humans aboard: Maureen, Mei, Jace, Lanchee. Saul is on Mars recovering from surgery.
+"Fifty-eight women" = Maureen + Mei + Lanchee + Siren + 54 livestock.
+
+
+## Nick Lee (Pre-Arrival Relationship)
+
+Jace and Nick Lee have an established online friendship **before** Jace arrives at Fortuna. They play multiplayer games together across a 3-second comms lag. Nick has been advising Jace on Sparky's design for weeks.
+
+This should be reflected in the main character file and in Nick Lee's file — they are not strangers at first meeting; they are friends who have never been in the same room.
+
+---
+
+## Falcon Saul Remote Oversight
+
+Saul monitors Jace's work via the Falcon's camera system from Mars. Time lag: started at 20+ minutes, now ~6-8 minutes as the ship approaches the belt. He leaves voice notes on completed repairs — brief, positive, technically specific.
+
+Jace discovered the notes around week three. He now narrates his work slightly more than necessary. He would deny this.
+
+Maureen reads Saul's notes every evening. She has not told Jace. She has not acknowledged his work directly.
+
+---
+
+## Falcon Camera and Social Media Beat
+
+The Falcon has cameras throughout — corridors, compartments, all livestock enclosures. Pig-cam in particular has developed a following on Fortuna and beyond. Nick references Screwdriver's activities casually, as if discussing a show they're both watching.
+
+This establishes ubiquitous connectivity. The coming blackout will cut it abruptly. Lanchee's remote medical consulting will also end. This loss should feel real.
+
+---
+
+## Falcon Nick Lee Comms Lag (Shrinking)
+
+Jace and Nick have been playing games and talking across a comms lag that started at ~20 minutes and has shrunk to ~6 minutes by Month 3 of transit. Near-real-time conversation is almost possible now. This trajectory matters — they are approaching each other's world. The lag closing is a form of arrival beginning.
+
+---
+
+## Lanchee (Doctor in transit to Fortuna on Falcon)
+
+Ship's doctor. Filipino woman, demure, rarely seen outside her cabin. Consulting Fortuna medical cases remotely throughout the transit. Siren spends hours in her cabin, asleep across her feet. Jace has passed her twice this week and exchanged nothing beyond polite corridor choreography.
+
+---
+
+## Dream Sequence (Chapter 1, Day 2)
+
+First crystal dream established: vast cold cave, faceted walls lit from within, blue-white light humming below hearing. Jace drifting through it. Ship and animals absent. Feeling of flying out through the hull into something unnamed.
+
+Woke at 0400. Cerberus on his chest. Dream dissolved quickly. Remembered only the light and the sense of vast cold space that wasn't space.
+
+Do not over-signal. It should read as a strange dream and nothing more at this stage.
+
+---
+
 ## Arrival at Fortuna Station
 
 Jace arrives at Fortuna with Cerberus after the four-month *Falcon* transit. He has been raising Cerberus since she was a newborn — she has known no adult life without him, sleeps pressed against him every night, and regards him as her entire world.
