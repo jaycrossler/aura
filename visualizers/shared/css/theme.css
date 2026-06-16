@@ -1,0 +1,130 @@
+/* =============================================================
+   THEME.CSS — Shared dark-space design system
+   Aura Visualizers  |  reusable across all sims
+   ============================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Roboto+Mono:wght@400;500;600&display=swap');
+
+/* ── Design Tokens ─────────────────────────────────────────── */
+:root {
+  /* Backgrounds */
+  --bg-void:       #04080f;
+  --bg-deep:       #060d1f;
+  --bg-surface:    rgba(10, 20, 45, 0.94);
+  --bg-card:       rgba(255, 255, 255, 0.04);
+  --bg-card-hover: rgba(255, 255, 255, 0.07);
+  --bg-input:      rgba(255, 255, 255, 0.06);
+  --bg-tooltip:    rgba(6, 13, 31, 0.97);
+
+  /* Borders */
+  --border-dim:    rgba(255, 255, 255, 0.05);
+  --border:        rgba(255, 255, 255, 0.10);
+  --border-bright: rgba(255, 255, 255, 0.22);
+
+  /* Text */
+  --text-primary:   #d8e4ff;
+  --text-secondary: #6e90c0;
+  --text-dim:       #3d5580;
+  --text-inverse:   #04080f;
+
+  /* Accent palette */
+  --accent-cyan:   #00bcd4;
+  --accent-orange: #ff6d00;
+  --accent-green:  #69f0ae;
+  --accent-purple: #ce93d8;
+  --accent-red:    #ff1744;
+  --accent-yellow: #ffd54f;
+  --accent-blue:   #4fc3f7;
+  --accent-teal:   #4db6ac;
+  --accent-amber:  #ffb74d;
+  --accent-pink:   #f48fb1;
+
+  /* Status semantics */
+  --status-ok:   #69f0ae;
+  --status-warn: #ffd54f;
+  --status-crit: #ff5252;
+  --status-info: #4fc3f7;
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Roboto Mono', 'Courier New', monospace;
+
+  /* Spacing */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+
+  /* Radii */
+  --r-sm:   4px;
+  --r-md:   6px;
+  --r-lg:  10px;
+  --r-pill: 100px;
+
+  /* Transitions */
+  --t-fast: 120ms ease;
+  --t-mid:  220ms ease;
+  --t-slow: 400ms ease;
+
+  /* Glows */
+  --glow-cyan:   0 0 14px rgba(0,  188, 212, 0.45);
+  --glow-orange: 0 0 14px rgba(255, 109,   0, 0.45);
+  --glow-red:    0 0 14px rgba(255,  23,  68, 0.55);
+  --glow-green:  0 0 14px rgba(105, 240, 174, 0.40);
+}
+
+/* ── Reset ─────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 13px; }
+body {
+  font-family: var(--font-sans);
+  background: var(--bg-void);
+  color: var(--text-primary);
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* ── Typography ────────────────────────────────────────────── */
+h1 { font-size: 1.5rem;  font-weight: 600; }
+h2 { font-size: 1.15rem; font-weight: 600; }
+h3 { font-size: 1rem;    font-weight: 600; }
+h4 { font-size: 0.85rem; font-weight: 500; }
+
+.mono  { font-family: var(--font-mono); }
+.label {
+  font-size: 0.69rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+  color: var(--text-dim);
+}
+.caption { font-size: 0.85em; color: var(--text-secondary); }
+
+/* ── Scrollbars ────────────────────────────────────────────── */
+::-webkit-scrollbar       { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 2px; }
+
+/* ── Selection ─────────────────────────────────────────────── */
+::selection { background: rgba(0,188,212,0.28); }
+
+/* ── Animations ────────────────────────────────────────────── */
+@keyframes pulse       { 0%,100%{opacity:1}  50%{opacity:.45} }
+@keyframes spin        { to{transform:rotate(360deg)} }
+@keyframes fadeIn      { from{opacity:0;transform:translateY(4px)} to{opacity:1;transform:none} }
+@keyframes slideRight  { from{opacity:0;transform:translateX(-8px)} to{opacity:1;transform:none} }
+@keyframes wobbleX     { 0%,100%{transform:translateX(0)} 20%{transform:translateX(-3px)} 40%{transform:translateX(3px)} 60%{transform:translateX(-2px)} 80%{transform:translateX(2px)} }
+@keyframes flashCrit   { 0%,100%{background:transparent} 50%{background:rgba(255,23,68,.18)} }
+@keyframes breathe     { 0%,100%{box-shadow:0 0 6px currentColor} 50%{box-shadow:0 0 16px currentColor} }
+
+.anim-pulse     { animation: pulse     2s ease-in-out infinite; }
+.anim-spin      { animation: spin      1s linear      infinite; }
+.anim-fadeIn    { animation: fadeIn    .25s ease forwards; }
+.anim-slideIn   { animation: slideRight .2s ease forwards; }
+.anim-wobble    { animation: wobbleX   .5s ease-in-out; }
+.anim-flash     { animation: flashCrit .55s ease-in-out 3; }
+.anim-breathe   { animation: breathe   2s ease-in-out infinite; }

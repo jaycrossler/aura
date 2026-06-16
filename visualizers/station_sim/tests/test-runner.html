@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aura Space Station Sim — Browser Unit Tests</title>
+  <link rel="stylesheet" href="../../shared/css/theme.css">
+  <style>
+    body {
+      padding: 30px;
+      font-family: var(--font-main);
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+    }
+    .test-header {
+      border-bottom: 1px solid var(--border-dark);
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .suite-card {
+      background: rgba(13, 20, 35, 0.7);
+      border: 1px solid var(--border-dark);
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 15px;
+    }
+    .suite-title {
+      font-size: 15px;
+      font-weight: bold;
+      color: var(--accent);
+      margin-bottom: 10px;
+      text-transform: uppercase;
+    }
+    .test-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 6px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.03);
+      font-family: var(--font-mono);
+      font-size: 12px;
+    }
+    .pass { color: var(--status-ok); }
+    .fail { color: var(--status-crit); }
+    .summary-badge {
+      padding: 6px 12px;
+      border-radius: 4px;
+      font-weight: bold;
+      font-size: 13px;
+    }
+    .summary-pass { background: rgba(105, 240, 174, 0.15); color: var(--status-ok); }
+    .summary-fail { background: rgba(255, 82, 82, 0.15); color: var(--status-crit); }
+  </style>
+</head>
+<body>
+
+  <div class="test-header">
+    <div>
+      <h1 style="margin:0; font-size:20px; color:#fff;">SpinningStationSim Test Runner</h1>
+      <p style="color:var(--text-dim); margin:4px 0 0 0; font-size:12px;">ES Module browser unit tests for physics & game entities</p>
+    </div>
+    <div id="test-summary" class="summary-badge summary-pass">Running tests...</div>
+  </div>
+
+  <div id="test-suites-container"></div>
+
+  <!-- Load and run ES module tests -->
+  <script type="module">
+    import { runTests } from './test-utils.js';
+    
+    // Import tests to register them
+    import './physics.test.js';
+    import './entities.test.js';
+
+    async function execute() {
+      const results = await runTests();
+      const container = document.getElementById('test-suites-container');
+      container.innerHTML = '';
+      
+      let totalPassed = 0;
+      let totalFailed = 0;
+
+      results.forEach(suite => {
+        const card = document.createElement('div');
+        card.className = 'suite-card';
+        card.innerHTML = `<div class="suite-title">${suite.name}</div>`;
+        
+        suite.tests.forEach(test => {
+          const item = document.createElement('div');
+          item.className = 'test-item';
+          if (test.passed) {
+            totalPassed++;
+            item.innerHTML = `<span>✓ ${test.name}</span><span class="pass">PASSED</span>`;
+          } else {
+            totalFailed++;
+            item.innerHTML = `<span>✗ ${test.name}</span><span class="fail">FAILED (${test.error})</span>`;
+          }
+          card.appendChild(item);
+        });
+
+        container.appendChild(card);
+      });
+
+      const summaryBadge = document.getElementById('test-summary');
+      if (totalFailed === 0) {
+        summaryBadge.textContent = `${totalPassed} / ${totalPassed} Tests Passed`;
+        summaryBadge.className = 'summary-badge summary-pass';
+      } else {
+        summaryBadge.textContent = `${totalFailed} Tests Failed`;
+        summaryBadge.className = 'summary-badge summary-fail';
+      }
+    }
+
+    execute();
+  </script>
+</body>
+</html>

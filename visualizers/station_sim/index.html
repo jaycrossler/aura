@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SpinningStationSim — Space Station Visualizer</title>
+  
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="../shared/css/theme.css">
+  <link rel="stylesheet" href="../shared/css/components.css">
+  <link rel="stylesheet" href="css/station.css">
+</head>
+<body>
+
+  <div class="sim-container">
+    
+    <!-- HEADER / HUD BAR -->
+    <header class="sim-header">
+      <div class="ship-identity">
+        <label for="ship-name-input" style="font-size:11px; text-transform:uppercase; color:var(--text-dim);">Ship Name</label>
+        <input type="text" id="ship-name-input" placeholder="Falcon" value="Falcon">
+      </div>
+
+      <!-- VIEW SELECTOR TABS -->
+      <div class="tab-bar">
+        <button class="tab-btn active" data-view="torus">Rotating Torus</button>
+        <button class="tab-btn" data-view="profile">Side Profile</button>
+        <button class="tab-btn" data-view="comfort">Human Comfort Map</button>
+      </div>
+
+      <!-- GAME TIME / CONTROL HUD -->
+      <div class="sim-time-hud">
+        <div id="hud-time">Day 0  00:00:00</div>
+        <div class="btn-group">
+          <button id="btn-pause" class="icon-btn active" title="Pause">⏸</button>
+          <button id="btn-play" class="icon-btn" title="Resume/Play">▶</button>
+          <button id="btn-speed-1x" class="pill-btn active" style="padding: 2px 8px; font-size:10px;">1x</button>
+          <button id="btn-speed-5x" class="pill-btn" style="padding: 2px 8px; font-size:10px;">5x</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- LEFT PANEL: CONFIGURATION INPUTS -->
+    <aside class="left-panel">
+      
+      <!-- Structural Specs -->
+      <div class="panel-card">
+        <div class="panel-section-title">Habitation Ring Geometry</div>
+        
+        <div class="control-group">
+          <div class="control-label">Torus Major Radius: <span id="major-radius-val">100</span> m</div>
+          <input type="range" id="major-radius-slider" min="30" max="250" value="100" class="gradient-slider">
+        </div>
+
+        <div class="control-group">
+          <div class="control-label">Torus Tube Radius (r): <span id="minor-radius-val">4</span> m</div>
+          <input type="range" id="minor-radius-slider" min="2" max="12" value="4" class="gradient-slider">
+        </div>
+
+        <div class="control-group">
+          <div class="control-label">Structural Spokes: <span id="spokes-val">3</span></div>
+          <input type="range" id="spokes-slider" min="2" max="8" value="3" class="gradient-slider">
+        </div>
+
+        <div class="control-group">
+          <div class="control-label">Spoke Tube Thickness: <span id="spoke-thickness-val">1.5</span> m</div>
+          <input type="range" id="spoke-thickness-slider" min="0.5" max="5.0" step="0.1" value="1.5" class="gradient-slider">
+        </div>
+
+        <div class="control-group">
+          <div class="control-label">Steel Wall Thickness: <span id="wall-thickness-val">25</span> mm</div>
+          <input type="range" id="wall-thickness-slider" min="10" max="100" value="25" class="gradient-slider">
+        </div>
+      </div>
+
+      <!-- Rotation Dynamics -->
+      <div class="panel-card">
+        <div class="panel-section-title">Rotation Dynamics</div>
+        <div class="control-group">
+          <div class="control-label">Spin Speed: <span id="rpm-val">2.5</span> RPM</div>
+          <input type="range" id="rpm-slider" min="0" max="8.0" step="0.1" value="2.5" class="gradient-slider">
+        </div>
+      </div>
+
+      <!-- Propulsion System -->
+      <div class="panel-card">
+        <div class="panel-section-title">Propulsion Subsystem</div>
+        <div class="control-group">
+          <div class="control-label" style="margin-bottom:6px;">Select Main Engine Type</div>
+          <div id="engine-selector-container" class="pill-group" style="display:flex; flex-direction:column; gap:6px;">
+            <!-- Engine buttons generated dynamically in ui.js -->
+          </div>
+        </div>
+
+        <div class="control-group" style="margin-top:12px;">
+          <div class="control-label">Propellant Mass Fraction: <span id="fuel-fraction-val">0.40</span></div>
+          <input type="range" id="fuel-fraction-slider" min="0.05" max="0.75" step="0.01" value="0.40" class="gradient-slider">
+        </div>
+      </div>
+
+      <!-- Disaster Control Panel -->
+      <div class="panel-card" style="border: 1px dashed var(--status-crit);">
+        <div class="panel-section-title" style="color:var(--status-crit); border-color:var(--status-crit);">Disaster Simulation</div>
+        <p style="font-size:10px; color:var(--text-dim); margin-bottom:10px;">Trigger high stress test cases to check emergency response:</p>
+        <div style="display:flex; flex-direction:column; gap:6px;">
+          <button id="btn-trigger-leak" class="btn-action" style="background:transparent; color:var(--status-crit); border:1px solid var(--status-crit); margin:0;">Atmosphere Blowout</button>
+          <button id="btn-trigger-stress" class="btn-action" style="background:transparent; color:#ff9100; border:1px solid #ff9100; margin:0;">Hull Stress Fracture</button>
+          <button id="btn-trigger-fire" class="btn-action" style="background:transparent; color:#ff1744; border:1px solid #ff1744; margin:0;">Engine Misfire</button>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- CENTER PANEL: ANIMATION CANVAS & OVERLAY COMMAND PANEL -->
+    <main class="center-panel">
+      <div class="canvas-container">
+        <canvas id="visualizer-canvas"></canvas>
+      </div>
+
+      <!-- Selected Entity Command Panel (FTL-feel overlay) -->
+      <div id="command-panel" class="command-panel-overlay hidden">
+        <div class="command-header">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span id="selected-icon" class="command-avatar">🔧</span>
+            <div>
+              <h4 id="selected-name" style="margin:0; font-size:14px; font-weight:bold;">Avery Petrov</h4>
+              <span id="selected-role" style="font-size:9px; text-transform:uppercase; color:var(--text-dim);">Engineer</span>
+            </div>
+          </div>
+          <button onclick="document.getElementById('command-panel').classList.add('hidden')" style="background:none; border:none; color:var(--text-dim); cursor:pointer;">✕</button>
+        </div>
+        <div class="command-grid">
+          <div id="selected-stats" style="font-size:11px; font-family:var(--font-mono); line-height:1.5;">
+            <!-- stats injected dynamically -->
+          </div>
+          <div>
+            <div style="font-size:10px; font-weight:bold; text-transform:uppercase; color:var(--accent); margin-bottom:4px;">Dispatched Actions</div>
+            <div id="selected-actions">
+              <!-- action buttons dynamically populated based on active disasters -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- RIGHT PANEL: REAL TIME PHYSICS REPORTS & LOGS -->
+    <aside class="right-panel">
+      
+      <!-- Consumables / Life Support HUD -->
+      <div class="panel-card">
+        <div class="panel-section-title">Habitation Diagnostics</div>
+        
+        <div class="meter-row">
+          <div class="meter-header">
+            <span>Oxygen Reservoirs</span>
+            <span id="val-oxygen">100%</span>
+          </div>
+          <div class="meter-track">
+            <div id="bar-oxygen" class="meter-fill" style="width: 100%; background: #00e5ff;"></div>
+          </div>
+        </div>
+
+        <div class="meter-row">
+          <div class="meter-header">
+            <span>Main Grid Power</span>
+            <span id="val-power">100%</span>
+          </div>
+          <div class="meter-track">
+            <div id="bar-power" class="meter-fill" style="width: 100%; background: #ffd54f;"></div>
+          </div>
+        </div>
+
+        <div class="meter-row">
+          <div class="meter-header">
+            <span>Water Recycling Loops</span>
+            <span id="val-water">100%</span>
+          </div>
+          <div class="meter-track">
+            <div id="bar-water" class="meter-fill" style="width: 100%; background: #2979ff;"></div>
+          </div>
+        </div>
+
+        <div class="meter-row">
+          <div class="meter-header">
+            <span>Hull Integrity</span>
+            <span id="val-hull">100%</span>
+          </div>
+          <div class="meter-track">
+            <div id="bar-hull" class="meter-fill" style="width: 100%; background: #69f0ae;"></div>
+          </div>
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:10px; font-size:11px;">
+          <span>Crew Average Morale:</span>
+          <span id="val-morale" class="badge badge-ok">80%</span>
+        </div>
+      </div>
+
+      <!-- Realtime Physics Outputs -->
+      <div class="panel-card">
+        <div class="panel-section-title">Station Structural Report</div>
+        
+        <div class="meta-row">
+          <span class="meta-label">Station Dry Mass:</span>
+          <span id="report-dry-mass" class="meta-value">0 t</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-label">Propellant Mass:</span>
+          <span id="report-fuel-mass" class="meta-value">0 t</span>
+        </div>
+        <div class="meta-row" style="border-bottom: 1px dashed rgba(255,255,255,0.05); padding-bottom:5px;">
+          <span class="meta-label">Total Launch Mass:</span>
+          <span id="report-total-mass" class="meta-value">0 t</span>
+        </div>
+
+        <div class="meta-row" style="margin-top:5px;">
+          <span class="meta-label">Inner Rim Gravity:</span>
+          <span id="report-inner-g" class="meta-value">0 g</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-label">Outer Rim Gravity:</span>
+          <span id="report-outer-g" class="meta-value">0 g</span>
+        </div>
+        <div class="meta-row" style="border-bottom: 1px dashed rgba(255,255,255,0.05); padding-bottom:5px;">
+          <span class="meta-label">Human Comfort Factor:</span>
+          <span id="report-comfort-level" class="meta-value" style="font-weight:bold; font-size:10px;">—</span>
+        </div>
+
+        <div class="meta-row" style="margin-top:5px;">
+          <span class="meta-label">Propulsion Delta-v:</span>
+          <span id="report-deltav" class="meta-value">0 m/s</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-label">Engine Burn Time:</span>
+          <span id="report-burntime" class="meta-value">0 s</span>
+        </div>
+        <div class="meta-row" style="border-bottom: 1px dashed rgba(255,255,255,0.05); padding-bottom:5px;">
+          <span class="meta-label">Spin-up Time (RCS):</span>
+          <span id="report-spinup" class="meta-value">0 s</span>
+        </div>
+
+        <div class="meta-row" style="margin-top:5px;">
+          <span class="meta-label">Torus Hoop Stress:</span>
+          <span id="report-hoop-stress" class="meta-value">0 MPa</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-label">Hoop Stress Limit:</span>
+          <span id="report-hoop-safety" class="badge">SF = ∞</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-label">Outer Connector Safety:</span>
+          <span id="report-container-safety" class="badge">SF = ∞</span>
+        </div>
+        <div class="meta-row" style="border-bottom: 1px dashed rgba(255,255,255,0.05); padding-bottom:5px;">
+          <span class="meta-label">Imbalance Wobble:</span>
+          <span id="report-wobble-displacement" class="meta-value" style="font-weight:bold; font-size:10px;">Balanced</span>
+        </div>
+
+        <div class="meta-row" style="margin-top:5px;">
+          <span class="meta-label">Active Crew Count:</span>
+          <span id="report-crew-cap" class="meta-value">0 / 0</span>
+        </div>
+        <div class="meta-row">
+          <span class="meta-label">Estimated Spacecraft Cost:</span>
+          <span id="report-cost" class="meta-value">0 M Cr</span>
+        </div>
+      </div>
+
+      <!-- Realtime Event Logs -->
+      <div class="panel-card" style="flex:1; display:flex; flex-direction:column; min-height:220px;">
+        <div class="panel-section-title">Comms & Sensor Feed</div>
+        <div id="event-logs-container" class="event-logs-list">
+          <!-- live logs populated here -->
+        </div>
+      </div>
+
+    </aside>
+
+  </div>
+
+  <!-- Simulation scripts -->
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

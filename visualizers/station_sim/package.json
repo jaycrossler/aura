@@ -1,0 +1,10 @@
+{
+  "name": "spinning-station-sim",
+  "version": "1.0.0",
+  "description": "Rotating Space Station simulator visualizer for the Aura Chronicles series",
+  "main": "index.html",
+  "scripts": {
+    "serve": "npx http-server -p 3000 ."
+  },
+  "dependencies": {}
+}
