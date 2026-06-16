@@ -27,7 +27,7 @@ He peeled off his sleep mask first — the rebreather seal releasing with a soft
 
 He reached down and petted the warm belly sprawled across his legs. Cerberus twitched without waking.
 
-The ship breathed around him — the deep, constant surge of the fluid system cycling through the hull, liquid mass shifting in 314 tanks as the spin demanded balance. Thunk of a pressure valve. Groan of a pipe under load somewhere aft. He'd stopped noticing it around week three. Now it was just the ship's voice, low and continuous, the sound of thousands of tons of water doing their job.
+The ship breathed around him — the deep, constant surge of the fluid system cycling through the hull, liquid mass shifting in 50 tanks as the spin demanded balance. Thunk of a pressure valve. Groan of a pipe under load somewhere aft. He'd stopped noticing it around week three. Now it was just the ship's groaning voice, low and continuous, the sound of thousands of tons of water doing their job.
 
 HUD came up: 0614, atmo nominal, bathroom clear, Maureen's cabin AWAKE / DO NOT DISTURB. He tagged Thing One and Thing Two in his peripheral and pulled their overnight logs. Ring segment seven, hull panel R7-04: patched, sealed, polymer cure nominal. Both drones back in their cradles at 0340.
 
@@ -71,11 +71,11 @@ He glanced down the corridor toward Lanchee's cabin. Door closed, the faint soun
 
 He reached to the highest drawer and pulled out two treats. Both dogs locked on with the preternatural focus of animals who have decided this is the most important moment in recorded history.
 
-They ran. 314 meters, floor curving ahead and behind until you could see yourself coming, the whole livestock ring visible like the inside of a drum. Siren ran with efficiency. Cerberus ran with faith.
+They ran. Four loops through Main Street was a kilometer, floor curving ahead and behind - after a while you expected to see yourself running in front of you. Every few seconds, they passed a door on the right, then left - three dozen doorways into the attached pods, some open, some closed and airlocks engaged.  Each of the livestock ones he passed had their outter door open, with snouts and eyes peering out through windows that could glimpse into the corridor - howls and grunts and pleas for food following their passage. Siren ran with efficiency. Cerberus ran with faith, dodging through the periodic maintenance robots and boxes or crates cluttering the hallway.
 
-He came back soaked. Dropped Siren in her bed. She was asleep before he set her down.
+He finished the loops, soaked. Dropped Siren in her bed. She was asleep before he set her down.
 
-Cerberus padded after him as he changed into his ranching overalls.
+Cerberus padded after him as he changed into his ranching overalls, panting and grinning a goofy puppy grin.
 
 ---
 

@@ -5,7 +5,7 @@ type: livestock_manifest
 ship: ship_falcon
 voyage: Mars to Fortuna Station, Book 1
 status: canonical_working
-last_updated: 2026-06-05
+last_updated: 2026-06-16
 ---
 
 # Falcon Animal Manifest — Book 1 Voyage
@@ -22,6 +22,30 @@ No settlers aboard this voyage. All life support capacity allocated to livestock
 
 ---
 
+## Container Mapping (Updated Ship Architecture)
+
+Following the Falcon's revised berth system (36 standardized 13m module berths — see
+[ships/ship_falcon.md]), the 10 livestock enclosures below are mapped onto **5 module
+berths**. Each container splits into two ~6m pens divided by a shared central access
+corridor; the two pens in a container draw life support and environmental control
+through that shared corridor.
+
+Proposed pairings (working — open to revision):
+
+| Container | Pens | Pairing Logic |
+|---|---|---|
+| 1 | Sheep (01) + Goats (05) | Both flock ruminants; similar climate and feed needs |
+| 2 | Pigs (02) + Cattle (06) | Both larger-bodied, sturdier animals; heavier-duty shared corridor |
+| 3 | Ducks (03) + Geese (09) | Both waterfowl; shared moisture-handling environmental system |
+| 4 | Chickens (04) + Turkeys (07) | Both poultry; shared dust-handling environmental system |
+| 5 | Rabbits (08) + Siren/dog (10) | Both quiet, calm modules |
+
+This pairing is a first pass based on environmental compatibility — flag for review if
+any pairing creates a scene problem (e.g., predator/prey proximity anxiety between
+pigs and cattle, or noise conflicts).
+
+---
+
 ## Human Crew (4 aboard)
 
 | Name | Role | Sex | Notes |
@@ -29,7 +53,7 @@ No settlers aboard this voyage. All life support capacity allocated to livestock
 | Maureen | Captain | F | |
 | Mei | Animal tender (undercover) | F | |
 | Jace Grant | Animal tender / drone repair | M | |
-| Lanchee | Ship's doctor | F | Rarely seen; consults Fortuna cases remotely |
+| Lanchee | Ship's doctor | F | Lives in her own canister-clinic; consults Fortuna cases remotely |
 | Saul | Engineer | M | NOT aboard — Mars, recovering from cancer surgery |
 
 ---
@@ -43,20 +67,20 @@ No settlers aboard this voyage. All life support capacity allocated to livestock
 
 ---
 
-## Livestock (54 females — 10 enclosures)
+## Livestock (54 females — 10 enclosures / 5 containers)
 
-| Enclosure | Species | Count | Sex | Notes |
-|---|---|---|---|---|
-| 01 | Ewe lambs (sheep) | 8 | F | Flock-bound, springy, prone to group panic events. |
-| 02 | Gilts (pigs) | 6 | F | Clever, bored, always up to something. Pig-cam stars. |
-| 03 | Duck hens | 6 | F | Permanent floor moisture issue. Water is a medium, not a resource. |
-| 04 | Pullets (chickens) | 8 | F | Near laying age. Dust. Pecking order politics. |
-| 05 | Young does (goats) | 6 | F | Climbing instinct + 0.3g = constant unapproved elevations. |
-| 06 | Heifers (cattle) | 4 | F | Enormous babies. Affectionate. Heavy. Auditor fogs the viewport. |
-| 07 | Turkey hens | 6 | F | Watchful. Unsettling. Remember everything. |
-| 08 | Rabbit does | 6 | F | Quiet module. Peaceful. Mostly. |
-| 09 | Geese (young females) | 4 | F | Territorial. Jurisdictional. Do not negotiate with the waterfowl. |
-| 10 | Siren (dog) | 1 | F | Counted in livestock deck for life support allocation. |
+| Enclosure | Species | Count | Sex | Container | Notes |
+|---|---|---|---|---|---|
+| 01 | Ewe lambs (sheep) | 8 | F | 1 | Flock-bound, springy, prone to group panic events. |
+| 02 | Gilts (pigs) | 6 | F | 2 | Clever, bored, always up to something. Pig-cam stars. |
+| 03 | Duck hens | 6 | F | 3 | Permanent floor moisture issue. Water is a medium, not a resource. |
+| 04 | Pullets (chickens) | 8 | F | 4 | Near laying age. Dust. Pecking order politics. |
+| 05 | Young does (goats) | 6 | F | 1 | Climbing instinct + 0.3g = constant unapproved elevations. |
+| 06 | Heifers (cattle) | 4 | F | 2 | Enormous babies. Affectionate. Heavy. Auditor fogs the viewport. |
+| 07 | Turkey hens | 6 | F | 4 | Watchful. Unsettling. Remember everything. |
+| 08 | Rabbit does | 6 | F | 5 | Quiet module. Peaceful. Mostly. |
+| 09 | Geese (young females) | 4 | F | 3 | Territorial. Jurisdictional. Do not negotiate with the waterfowl. |
+| 10 | Siren (dog) | 1 | F | 5 | Counted in livestock deck for life support allocation. |
 
 **Total livestock females: 54**
 **Total females aboard: 58** (Maureen + Mei + Lanchee + Siren + 54 livestock)
@@ -73,30 +97,7 @@ No settlers aboard this voyage. All life support capacity allocated to livestock
 - **Athena** — Chicken 04, dominant pullet. Pecks boots. Quality assurance inspector.
 - **Jurisdiction** — Goose 09, lead goose. Guards the hatch. Cannot be reasoned with.
 - **Juniper** — Goat 05. Supply shelf climber. Has eaten two warning labels.
-- **Mabel** — Heifer 06, smallest calf. "The Auditor." Fogs the viewport. Loves Jace.
-- **Dot** — Heifer 06, larger calf. Happy kick achieves low orbit.
-- **Ledger** — Rabbit 08, gray doe. Appears briefly, vanishes.
-- **Receipts** — Rabbit 08, Ledger's sister. Stares.
 
----
-
-## The Pig-Cam
-
-The pig enclosure feed has developed a following on Fortuna Station and beyond.
-Screwdriver in particular — her gasket investigations, her scrub brush performances,
-her solemn planning sessions with the other gilts — are referenced casually by
-people who have never been near the ship. Nick Lee mentions the pigs to Jace
-the way someone mentions a TV show they're both watching.
-
-This establishes: comms are ubiquitous, social media has evolved, distance is not
-isolation. The coming blackout will end all of this abruptly.
-
----
-
-## Cross-references
-
-- [ship_falcon](../ships/ship_falcon.md)
-- [char_jace_apollo](char_jace_apollo.md)
-- [char_mei](char_mei.md)
-- [char_lanchee](char_lanchee.md)
-- [book01-ch01-morning-round](../scenes/book01-ch01-morning-round.md)
+## Revision Notes
+- 2026-06-16: Added container mapping to match the Falcon's revised 36-berth
+  architecture. Enclosure numbering and named animals unchanged.
