@@ -1,0 +1,155 @@
+# Directory Tree
+
+- .obsidian/
+    - app.json
+    - appearance.json
+    - core-plugins.json
+    - workspace.json
+- _index.md
+- build_tree.py
+- characters/
+    - char_artemis_grant.md
+    - char_cerberus.md - name: Cerberus; id: char_cerberus; status: alive
+    - char_chris_grant.md
+    - char_dawn_chris_grant.md - name: Dawn Grant and Chris Grant; id: char_dawn_chris_grant; status: alive
+    - char_dawn_grant.md
+    - char_dog_siren.md - name: Siren; id: char_dog_siren; status: alive
+    - char_helena.md - name: Helena [surname TBD]; id: char_helena; status: deceased (disappeared; body never recovered) — TRUE CAUSE IS GM/REVEAL-LATER; updated: 2026-06-17
+    - char_jace_apollo.md - name: Jace Grant; id: char_jace_apollo; status: alive
+    - char_jelly_grant.md - name: Jelly; id: char_jelly_grant; status: alive (off-page, on Earth)
+    - char_jinx_grant.md - name: Jinx; id: char_jinx_grant; status: alive (off-page, on Earth)
+    - char_lanchee.md - name: Lanchee (last name TBD); id: char_lanchee; status: alive; description: >
+    - char_lina_mills.md - name: Lina Mills; id: char_lina_mills; status: alive — departs Mars during Jace's hard months; occasional later comms possible; updated: 2026-05-02
+    - char_lt_rich_cullivan.md - name: Rich Cullivan; id: char_lt_rich_cullivan; status: alive
+    - char_maureen.md - name: Maureen (last name TBD); id: char_maureen; status: alive; description: >
+    - char_mei.md - name: Mei [surname TBD]; id: char_mei; status: alive
+    - char_mr_sylvester.md - name: [first name TBD] Sylvester; id: char_mr_sylvester; status: alive
+    - char_nick_lee.md - name: Nick Lee; id: char_nick_lee; status: alive
+    - char_saul.md - name: Saul (last name TBD); id: char_saul; status: alive — recovering from surgery; description: >
+    - char_sister_artemis.md - name: [first name TBD] "Artemis" Grant; id: char_sister_artemis; status: alive (at story start — comms increasingly unreliable)
+    - char_sister_athena.md - name: [first name TBD] "Athena" Grant; id: char_sister_athena; status: alive
+    - char_smuggler_mars.md - name: [name TBD]; id: char_smuggler_mars; status: alive
+    - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive
+    - char_suzi.md - name: Suzi [surname TBD]; id: char_suzi; status: alive; updated: 2026-06-17
+    - voice_char_jace_apollo.md - id: voice_char_jace_apollo; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile
+    - voice_char_lt_rich_cullivan.md - id: voice_char_lt_rich_cullivan; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile
+- factions/
+    - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; updated: 2026-04-28; type: distributed_settlement_network
+    - faction_galactic_will_networks.md - name: Galactic Will-Network Civilizations; id: faction_galactic_will_networks; status: incoming_threat_and_contact; updated: 2026-05-31; type: faction_category_foundational
+    - faction_mars_other_settlements.md - name: Other Mars Settlements (Overview); id: faction_mars_other_settlements; status: active; updated: 2026-04-28; type: faction_collection
+    - faction_megacorps.md - name: The Megacorporations; id: faction_megacorps; status: active; updated: 2026-04-28; type: corporate_consortium
+    - faction_origin_industries.md - name: Origin Industries; id: faction_origin_industries; status: active, dominant; updated: 2026-04-30; type: megacorporation
+    - faction_united_states_mars.md - name: The United States of Mars; id: faction_united_states_mars; status: active; updated: 2026-04-28; type: political_state
+- filetree.md
+- livestock/
+    - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-16; type: livestock_manifest
+- locations/
+    - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; updated: 2026-04-28; type: region
+    - location_elysium.md - name: Elysium; id: location_elysium; status: active, International/European hub; updated: 2026-05-02; type: city
+    - location_fortuna_station.md - name: Fortuna Station; id: location_fortuna_station; status: active, growth phase; type: station
+    - location_juno_station.md - name: Juno Station; id: location_juno_station; status: active; type: station
+    - location_mars_consumer_district.md - name: Mars Consumer District (working name); id: location_mars_consumer_district; status: active, expanding; updated: 2026-04-30; type: district
+    - location_mars_fabrication_district.md - name: Mars Fabrication District (working name); id: location_mars_fabrication_district; status: active, expanding; updated: 2026-04-30; type: district
+    - location_mars_livestock_farm.md - id: location_mars_livestock_farm; status: draft; type: location
+    - location_mars_overview.md - name: Mars (Inhabited World Overview); id: location_mars_overview; status: actively_settled; updated: 2026-05-02; type: planet
+    - location_mars_us_afspace_force_base.md - name: U.S. Air Force / Space Force Joint Base — Terminus; id: location_mars_us_afspace_force_base; status: active; updated: 2026-05-02; type: military_installation; description: The main security installation for the US Military stationed on Mars where Jace was briefly assigned
+    - location_odysseus_station.md - name: Odysseus Station; id: location_odysseus_station; status: active, remote, increasingly isolated; type: station
+    - location_pangu.md - name: Pangu; id: location_pangu; status: active, primary Chinese hub; updated: 2026-05-02; type: city
+    - location_psyche_station.md - name: Psyche Station; id: location_psyche_station; status: active, economically significant; type: station
+    - location_sylvia_station.md - name: Sylvia Station; id: location_sylvia_station; status: active; type: station
+    - location_terminus.md - id: location_terminus; status: draft; updated: 2026-05-02; type: location
+    - location_the_long_burn_bar.md - id: location_the_long_burn_bar; status: draft; type: location
+    - location_the_scar_never_never.md - name: The Scar — Never-Never Region; id: location_scar_never_never; status: reopening; updated: 2026-05-31; type: location_dimensional_region
+- magic-systems/
+    - cryptids_silicon.md
+    - improvised_responses.md
+    - magic_breach_crossers_transient.md - name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger); id: magic_breach_crossers_transient; status: working draft — extends canonical crossing/fauna specs; updated: 2026-06-17; type: magic_system
+    - magic_cryptids_silicon.md - name: Silicon Manifestations — The Glass-Infestation Class; id: magic_cryptids_silicon; status: draft — Fortuna-context established; broader taxonomy TBD; updated: 2026-05-02; type: magic_system
+    - magic_cultural_schools.md - name: Cultural Schools of the Returning Arts; id: magic_cultural_schools; status: emerging; updated: 2026-05-31; type: magic_subsystem
+    - magic_improvised_responses.md - name: Improvised Responses to the Outbreak — Belt Field Adaptations; id: magic_improvised_responses; status: draft — Fortuna context; broader applicability TBD; updated: 2026-05-02; type: magic_system
+    - magic_manifestations_early.md - name: Early Manifestations — Pre-Understanding Phase; id: magic_manifestations_early; status: established canon (observable phenomena); theoretical explanations TBD; updated: 2026-05-02; type: magic_system
+    - magic_never_never.md - name: The Never-Never; id: magic_never_never; status: foundational; updated: 2026-05-31; type: foundational_location_magic_system
+    - magic_overview.md - name: Magic — Overview and Fundamental Principles; id: magic_overview; status: working draft — foundational canon established; details to be developed across books; updated: 2026-05-02; type: magic_system
+    - magic_returning_arts.md - name: The Returning Arts; id: magic_returning_arts; status: foundational; updated: 2026-05-31; type: magic_system
+    - magic_technological_adaptation.md - name: Technological Adaptation to the Outbreak — The Static Problem; id: magic_technological_adaptation; status: draft — Fortuna/Odysseus context; broader applicability TBD; updated: 2026-05-02; type: magic_system
+    - magic_will_and_templates.md - name: Will and Templates — Core Metaphysical Mechanics; id: magic_will_and_templates; status: foundational; updated: 2026-05-31; type: foundational_magic_mechanics
+    - magic_will_implications.md - name: Will — Deep Implications and Universe-Wide Consequences; id: magic_will_implications; status: canonical_working; updated: 2026-05-31; type: foundational_analysis
+- MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28
+- README.md
+- review-queue/
+    - review_2026-06-16_falcon_redesign.md - id: review_queue_2026-06-16_falcon_redesign; status: open; type: review_queue_item
+    - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); updated: 2026-05-02; type: chronology_index
+    - session_notes_2026-05-02.md - name: Session Notes — 2026-05-02 (Voice Session); id: session_notes_2026-05-02; status: active; updated: 2026-05-02; type: session_log
+    - storybot_metadata_template_guide.md - name: StoryBot Metadata Template Guide; id: storybot_metadata_template_guide; status: working draft; updated: 2026-04-30; type: system_documentation
+- scenes/
+    - book01-ch01-afternoon-workshop.md - id: book01-ch01-afternoon-workshop; status: draft; updated: 2026-06-05; type: scene_draft
+    - book01-ch01-morning-round.md - id: book01-ch01-morning-round; status: draft; updated: 2026-06-05; type: scene_draft
+    - book01-ch02-plumbing-crisis.md - id: book01-ch02-plumbing-crisis; status: rewrite_draft (beats + illustrative dialogue); updated: 2026-06-17; type: scene_draft
+    - book01-ch02b-learning-mode.md - id: book01-ch02b-learning-mode; status: draft (beats + illustrative); updated: 2026-06-17; type: scene_draft
+    - book01-opening-notes.md - id: scenes_book01_opening_notes; status: pre-draft; updated: 2026-04-30
+    - book01-transit-vignettes.md
+    - choreo_event_jace_doctor_appointment.md - id: choreo_event_jace_doctor_appointment; status: detailed (voice session); updated: 2026-04-30; type: scene_choreography
+    - choreo_event_jace_gym_arrival.md - id: choreo_event_jace_gym_arrival; status: detailed (voice session); updated: 2026-04-30; type: scene_choreography
+    - choreo_event_jace_mars_tour_with_rich.md - id: choreo_event_jace_mars_tour_with_rich; status: detailed (voice session); updated: 2026-04-30; type: scene_choreography
+    - event_jace_assembles_smuggling_list.md - name: Assembling Artemis's List — The Smuggling Sprint; id: event_jace_assembles_smuggling_list; status: draft; updated: 2026-05-02; type: scene_cluster
+    - event_jace_bar_rumors.md - id: event_jace_bar_rumors; status: pre-draft (emotional beats / structural sketch); updated: 2026-04-30; type: scene
+    - event_jace_commander_welcome.md
+    - event_jace_day2_acclimation.md - name: Day 2 — Acclimation Day (Geese, Mines, Quiet); id: event_jace_day2_acclimation; status: sketch; updated: 2026-05-02; type: scene
+    - event_jace_doctor_appointment.md - id: event_jace_doctor_appointment; status: pre-draft (emotional beats / structural sketch); updated: 2026-04-30; type: scene
+    - event_jace_dog_breeder_visits.md - name: Jace's Dog Breeder Visits; id: event_jace_dog_breeder_visits; status: draft; updated: 2026-06-03; type: scene
+    - event_jace_drone_center_tour.md - name: Jace's Drone Control Center Tour; id: event_jace_drone_center_tour; status: draft; updated: 2026-05-02; type: scene
+    - event_jace_gym_arrival.md - id: event_jace_gym_arrival; status: pre-draft (emotional beats / structural sketch); updated: 2026-04-30; type: scene
+    - event_jace_horse_farm_offer.md - name: The Horse Farm Offer (Parents Offer to Sell); id: event_jace_horse_farm_offer; status: draft; updated: 2026-05-02; type: scene
+    - event_jace_lina_yoga_scene.md - name: Low-G Yoga with Lina — The Fingertips; id: event_jace_lina_yoga_scene; status: draft; updated: 2026-05-02; type: scene
+    - event_jace_mars_tour_with_rich.md - id: event_jace_mars_tour_with_rich; status: pre-draft (emotional beats / structural sketch); updated: 2026-04-30; type: scene
+    - event_jace_messages_home.md
+    - event_jace_origin_negotiation.md - id: event_jace_origin_negotiation; status: pre-draft (emotional beats / structural sketch); updated: 2026-06-03; type: scene
+    - event_rich_comms_favor.md - name: Rich's Comms Favor for Jace; id: event_rich_comms_favor; status: sketch; updated: 2026-05-02; type: scene
+- ships/
+    - ship_falcon.md - name: Falcon; id: ship_falcon; status: active; type: nuclear-thrust livestock and cargo transport
+    - ship_livestock_ferry_class.md - name: Livestock-Primary Ferry (Class Overview); id: ship_livestock_ferry_class; status: class_in_development; updated: 2026-06-16; type: ship_class_document
+    - ship_nina.md - name: Niña; id: ship_nina; status: active; type: passenger / cargo cycler
+    - ship_pinta.md - name: Pinta; id: ship_pinta; status: active; type: passenger / cargo cycler
+    - ship_santa_maria.md - name: Santa María; id: ship_santa_maria; status: active; type: passenger / cargo cycler
+    - ship_victoria.md - name: Victoria; id: ship_victoria; status: active; type: science research vessel
+- storybot/
+    - metadata_template_guide.md - name: StoryBot Metadata Template Guide; id: storybot_metadata_template_guide; status: working draft; updated: 2026-04-30; type: system_documentation
+    - progression_review_guide.md - name: Progression & Chapter Review Guide; id: storybot_progression_review_guide; status: canonical (developmental guide — not world canon); updated: 2026-06-17; type: dev_guide
+- technology/
+    - tech_aura_ai.md - name: Aura; id: tech_aura; status: widely_deployed; updated: 2026-04-28; type: distributed_personal_ai
+    - tech_communications_filtering.md - name: Communications Filtering and Censorship Architecture; id: tech_communications_filtering; status: active, intensifying through story; updated: 2026-04-30; type: infrastructure_and_political_technology
+    - tech_cybernetics.md - name: Cybernetic Augmentation Systems; id: tech_cybernetics; status: emerging_widespread; updated: 2026-04-30; type: medical_and_military_technology
+    - tech_cyclers.md - name: The Cycler System; id: tech_cyclers; status: operational; updated: 2026-04-28; type: interplanetary_transit_infrastructure
+    - tech_dogs_space_adapted.md
+    - tech_everyday_robotics_and_ai.md - name: Everyday Robotics and AI Ecosystem; id: tech_everyday_robotics_and_ai; status: ubiquitous; updated: 2026-05-02; type: daily_technology
+    - tech_information_environment.md - name: The Information Environment (2105); id: tech_information_environment; status: mature, ubiquitous; updated: 2026-04-30; type: cultural_technology
+    - tech_modular_pod_canisters.md - name: Modular Pod / Canister System; id: tech_modular_pod_canisters; status: canonical; updated: 2026-06-16; type: technology_concept
+    - tech_never_never_transit.md - name: Never-Never Transit — Dimensional Transportation; id: tech_never_never_transit; status: theoretical_to_emerging; updated: 2026-05-31; type: emerging_transit_technology
+    - tech_nuclear_ferries.md - name: Nuclear Ferry System; id: tech_nuclear_ferries; status: operational_recent; updated: 2026-04-28; type: mars_to_belt_transit_infrastructure
+- templates/
+    - concept-template.md - name: [Concept Name]; id: concept_[unique_slug]; status: [emerging | established | declining | extinct | revived | suppressed | contested]; type: [philosophy | religion | phenomenon | political_idea | cultural_practice | scientific_theory | belief_system | language | art_form | tradition]
+    - faction-template.md - name: [Faction Name]; id: faction_[unique_slug]; status: [active | dissolved | exiled | underground | reformed | ascendant | declining]; type: [political_state | corporation | military | religious | cultural | criminal | academic | tribal | informal_network]
+    - location-template.md - name: [Location Name]; id: location_[unique_slug]; status: [thriving | abandoned | ruined | hidden | contested | inaccessible | newly_discovered]; type: [planet | moon | asteroid | station | city | district | building | wilderness | region | virtual]
+    - magic-system-template.md - name: [Magic System Name]; id: magic_[unique_slug]; type: [innate | learned | external | divine | technological | hybrid]
+    - technology-template.md - name: [Technology Name]; id: tech_[unique_slug]; status: [emerging | mainstream | declining | obsolete | banned | classified]; type: [propulsion | weapon | medical | computing | communication | construction | life_support | augmentation | infrastructure | other]
+- timeline/
+    - outbreak_timeline.md - name: The Outbreak — Chronological Timeline of Magic's Return; id: outbreak_timeline; status: working draft — core phases established; some details TBD; updated: 2026-05-02; type: timeline
+    - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); updated: 2026-05-02; type: chronology_index
+    - timeline_book01_incursions.md - name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helena); id: timeline_book01_incursions; status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md; updated: 2026-06-17; type: timeline
+    - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; updated: 2026-06-03; type: chronology
+- to_import/
+- universe-spec/
+    - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon (architecture); details TBD (origin character, deep engineering); updated: 2026-05-02; type: universe_spec
+    - concept_mil_ex_implants.md - name: MilX — Military Implant Systems and the Implant Ecosystem; id: concept_mil_ex_implants; status: established canon; updated: 2026-05-02; type: universe_spec
+    - concept_military_address_culture.md - name: Military Address Culture (USAF/Space Force, Mars Era); id: concept_military_address_culture; status: established; updated: 2026-05-02; type: cultural_phenomenon
+    - concept_resource_scarcity.md
+    - cosmology.md - id: spec_cosmology; status: foundational; updated: 2026-05-31
+    - legacy_lexicon_and_rulebook_reconciliation.md - name: Legacy Lexicon & Physics-Rulebook Reconciliation; id: spec_legacy_lexicon_reconciliation; status: reconciliation (folds the retired "Physics and Metaphysics Rulebook" project bible); updated: 2026-06-17; type: foundational_reference
+    - magic_manifestations_early.md
+    - physics-and-magic-interaction.md - id: spec_physics_magic_interaction; status: foundational; updated: 2026-05-31
+    - spec_astral_phenomenology.md - name: The Astral — Physical Properties and Perceptual Experience; id: spec_astral_phenomenology; status: canonical; updated: 2026-06-03; type: foundational_phenomenology
+    - spec_belt_transport_and_economy.md - name: Frontier Belt Transport System and Economy; id: spec_belt_transport_and_economy; updated: 2026-06-16; type: universe_spec
+    - spec_crossing_mechanics.md - name: Dimensional Crossing — Costs, Accidents, and the AI Discovery; id: spec_crossing_mechanics; status: canonical; updated: 2026-05-31; type: foundational_mechanics
+    - spec_scar_clearing_mechanics.md - name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol; id: spec_scar_clearing_mechanics; status: canonical; updated: 2026-05-31; type: foundational_cosmology_detail
+    - spec_threat_escalation.md - name: Astral Threat Escalation — The Leveling Arc; id: spec_threat_escalation; status: working draft; updated: 2026-06-03; type: narrative_mechanics
+    - tech_information_environment.md
