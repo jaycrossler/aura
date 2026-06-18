@@ -26,8 +26,8 @@ ring_radius: 40 meters
 ring_diameter: 80 meters
 ring_circumference: ~251 meters
 ceiling_height: 6 meters
-artificial_gravity: 0.3g
-spin_rate: ~2.6 RPM
+artificial_gravity: 0.3g baseline; Maureen varies it 0.3g–0.4g over the transit
+spin_rate: ~2.6 RPM at 0.3g (rises toward ~3.0 RPM when she runs the ring up to ~0.4g)
 total_mass_at_departure: up to ~2,000 metric tons
 mass_breakdown: >
   Ship and ring structure: ~500 tonnes. Pods and cargo: up to ~500 tonnes. Water and
@@ -41,8 +41,17 @@ note_on_scale: >
   feel mild, persistent space-sickness, and high enough that bearing stress and
   plumbing strain are a constant, plausible background threat. This is intentional —
   it is what makes the Book 1 plumbing crisis (Ch. 2) believable. Fortuna Station, by
-  contrast, is being built at a 100m radius specifically to bring spin rate down and
-  comfort up for long-term residents (see location_fortuna_station.md, draft).
+  contrast, is being built at a 100m radius held at a constant ~1/3 g specifically to
+  bring spin rate down and comfort up for long-term residents (see
+  location_fortuna_station.md).
+variable_spin: >
+  Maureen does not hold the ring at a fixed rate. Over the transit she deliberately
+  varies spin between ~0.3g and ~0.4g (≈2.6–3.0 RPM). Partly this is operational
+  margin-management; partly it is good animal husbandry — varying the apparent gravity
+  keeps the livestock from adapting to a single load and teaches them some movement
+  variety before they reach a station. It also normalizes the idea, for the reader,
+  that spin (and therefore "gravity") is something a captain dials up and down — which
+  pays off in the plumbing-crisis de-spin and later on-station.
 
 # Architecture
 spine: >

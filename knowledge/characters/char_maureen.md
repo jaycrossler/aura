@@ -82,9 +82,28 @@ She has noticed that the items get done. She has not said so.
 
 Her husband. Quiet, dependable, been beside her for most of her career. He traveled ahead to Fortuna on this voyage — a logistical arrangement that was sensible and that she dislikes more than she expected. When she sees him at Fortuna, she will be visibly, genuinely relieved.
 
+## The Cancelled Settlers (Book 1 Departure)
+
+This voyage was supposed to carry a contingent of about a dozen Chinese settlers to Fortuna. They cancelled at the last minute. Maureen lost roughly a million credits in contracted passage and a dozen working hands she'd counted on — leaving the *Falcon* shorthanded for the whole transit (which is part of why the plumbing crisis runs so hot). She is not sentimental about it; she is furious about it in the flat, accounting way of someone who has had margins eaten by other people's decisions her entire career. It sours her further on a voyage she already resented.
+
+## The Plumbing Crisis — Why She's Right to Be Angry
+
+When the fluid system tears open mid-transit (see [[book01-ch02-plumbing-crisis]]), Maureen's instinct is the correct captain's call: seal the iced arc and cut it away before a spoke strut fails, animals or no animals. Jace talks her into letting him try a counter-ballast instead, and it works — but he does it by flooding reserve canisters with propellant, contaminating the ship's water margin and degrading part of the radiation shield, on a maneuver no one has ever tested, in the dark, to save livestock.
+
+Her fury afterward is **earned, not grumpiness.** He gambled the ship's safety margin and won, and she will not let "it worked" launder "it was reckless." (She also, privately, did not want to cut a section that held Siren and the animals — which is part of why she gave him the window at all. She would deny this.) This is the scene that shows her surface-blame has real judgment underneath it.
+
+## Saul's Note She Reads in Private
+
+After the crisis, Saul sends Jace a brief private message from Mars thanking him for saving the ship. Maureen reads it — she reads all of Saul's notes every evening (see [[char_saul]]) — and says nothing to Jace about it. The gap between what she reads and what she says is the whole character. Leave it unremarked.
+
 ## Open Questions
 
 - Full name and backstory
 - How she came to captain the *Falcon* specifically
 - Whether she actually retires after this run or gets pulled back
 - Whether she has a meaningful final exchange with Jace
+- Exact size of the cancelled-contract loss (working: ~$1M)
+
+## Revision Notes
+
+- 2026-06-17: Added the cancelled Chinese settler contract (~$1M loss, shorthanded voyage), the justified fury over Jace's reckless-but-successful counter-ballast (contaminated water / spent margin), her unspoken motive in giving him the window (Siren and the animals), and Saul's post-crisis thank-you note she reads privately and never mentions.

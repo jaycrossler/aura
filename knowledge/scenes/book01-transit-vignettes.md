@@ -7,7 +7,8 @@ book: 1
 chapters: 6-12 (transit arc, sketch-level)
 status: draft_notes
 canonical: false
-last_updated: 2026-04-29
+note_2026_06_17: "Pre-redesign draft. Updated 0.4g->0.3g and cylinder->ring to match ship_falcon.md (40m ring, ~251m circumference, 0.3g, ~2.6 RPM). Beats still sketch-level."
+last_updated: 2026-06-17
 ---
 
 # Book 1 — Transit Vignettes
@@ -40,21 +41,21 @@ This is the moment Jace fully becomes an animal handler in his own mind. Before 
 
 ### Weighted Vests
 
-All animals on the *Falcon* wear weighted vests during their daily exercise sessions in the rotating cylinder. The cylinder spins to ~0.4g, which is not enough to fully maintain bone density without supplementation. The vests add another 15-30% effective weight.
+All animals on the *Falcon* wear weighted vests during their daily exercise sessions in the rotating ring. The ring spins to ~0.3g, which is not enough to fully maintain bone density without supplementation. The vests add another 15-30% effective weight.
 
 The dogs (Cerberus and Siren) wear small custom-fitted versions. The crew has a daily ritual: morning vest-on, evening vest-off. The dogs hate the on, love the off, perform a specific zoomie sequence after the off that the crew anticipates. Jace participates in this ritual within the second week. By the second month it is one of the things he looks forward to.
 
-The crew also wear weighted vests during their own cylinder runs. Jace's vest is set to compensate for the gravity differential between ferry-cylinder and Mars surface, building toward a strength baseline he'll need on the station.
+The crew also wear weighted vests during their own ring runs. Jace's vest is set to compensate for the gravity differential between the ferry ring (~0.3g) and Mars surface, building toward a strength baseline he'll need on the station.
 
-### The Fifty-Meter Run
+### The Ring Run
 
-The cylinder has a fifty-meter circumferential run on the deck. The crew uses it for cardiovascular exercise. The dogs use it for everything.
+The ring has a ~251 m circumferential run (four loops ≈ 1 km — see ship_falcon.md). The crew uses it for cardiovascular exercise. The dogs use it for everything.
 
-A typical scene: Jace is on a run, vest on, breathing patterned, HUD showing his pulse. Cerberus appears at his ankle from nowhere, matches pace for ten meters, drops back, sprints past him on the next loop, looks over his shoulder as if to say *catch up*. The cylinder geometry means he can use the curve of the wall in ways no Earth dog can: he launches off the wall on the inside curve, hangs in the apparent-low-gravity for a half second longer than physics suggests he should, lands, and continues. Jace tries it himself once. He does not try it twice.
+A typical scene: Jace is on a run, vest on, breathing patterned, HUD showing his pulse. Cerberus appears at his ankle from nowhere, matches pace for ten meters, drops back, sprints past him on the next loop, looks over his shoulder as if to say *catch up*. The ring geometry means he can use the curve of the wall in ways no Earth dog can: he launches off the wall on the inside curve, hangs in the apparent-low-gravity for a half second longer than physics suggests he should, lands, and continues. Jace tries it himself once. He does not try it twice.
 
 ### Ball Flips
 
-The crew throws balls down the cylinder run. The dogs chase. Siren in particular learns to read the ball's parabola in the rotating reference frame and to launch off the curved wall to intercept it mid-flight, twisting in the air to catch it pointing back toward the thrower. The trick takes weeks to perfect. The first successful execution gets a standing ovation from three off-duty crew members. It is filmed. The footage is held back from belt comms until arrival, then released as a kind of cultural calling card. Belt media replays it for years.
+The crew throws balls down the ring run. The dogs chase. Siren in particular learns to read the ball's parabola in the rotating reference frame and to launch off the curved wall to intercept it mid-flight, twisting in the air to catch it pointing back toward the thrower. The trick takes weeks to perfect. The first successful execution gets a standing ovation from three off-duty crew members. It is filmed. The footage is held back from belt comms until arrival, then released as a kind of cultural calling card. Belt media replays it for years.
 
 ### The Pillow Pile
 
@@ -68,7 +69,7 @@ Jace, late shift, exhausted, back to his bunk. Cerberus is already there, on his
 
 ### The HUD-Off Hour
 
-There is one hour each evening when Jace deliberately powers down his HUD. He started doing this because he thought it would help him sleep. He continues doing it because it is the only hour of the day that feels his own. He spends most of these hours in the cylinder, walking — sometimes alone, sometimes with one of the dogs — and not thinking about anything in particular. These hours produce nothing measurable. The reader will recognize them as the most important hour of his day.
+There is one hour each evening when Jace deliberately powers down his HUD. He started doing this because he thought it would help him sleep. He continues doing it because it is the only hour of the day that feels his own. He spends most of these hours in the ring, walking — sometimes alone, sometimes with one of the dogs — and not thinking about anything in particular. These hours produce nothing measurable. The reader will recognize them as the most important hour of his day.
 
 ### The Smuggler-Friend-Mei Triangle (Implicit)
 

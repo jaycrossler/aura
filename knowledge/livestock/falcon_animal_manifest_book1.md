@@ -98,6 +98,29 @@ pigs and cattle, or noise conflicts).
 - **Jurisdiction** — Goose 09, lead goose. Guards the hatch. Cannot be reasoned with.
 - **Juniper** — Goat 05. Supply shelf climber. Has eaten two warning labels.
 
+
+---
+
+## FLAG (2026-06-17) — Plumbing-Crisis Iced Berths
+
+The Ch. 2 plumbing crisis ([[book01-ch02-plumbing-crisis]]) ices over two berths on one
+arc of the ring. Author note specifies "the pigs and the small rodents (rabbits and
+others)." Under the current container map this has two consequences to resolve:
+
+- **Pigs (02)** share **Container 2** with **Cattle/heifers (06)** → icing it also traps the heifers.
+- **Rabbits (08)** share **Container 5** with **Siren the dog (10)** → icing it also traps Siren.
+
+Decisions needed (see review_2026-06-17_fortuna_incursions.md, item B3):
+1. Embrace Siren-in-danger (raises stakes; gives Maureen a private reason to let Jace
+   try) **or** re-map so Siren's pen sits in an un-iced berth.
+2. There is **no dedicated small-rodent enclosure** — only rabbits (08). Add a
+   mice/rats pod, or treat rabbits as the "small animals" pod referenced in the scene.
+
+Until decided, the scene is written to leave the exact iced berths open.
+
+---
+
 ## Revision Notes
+- 2026-06-17: Flagged iced-berth/Siren-container question and the missing small-rodent pod for the plumbing-crisis scene.
 - 2026-06-16: Added container mapping to match the Falcon's revised 36-berth
   architecture. Enclosure numbering and named animals unchanged.

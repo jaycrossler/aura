@@ -22,7 +22,7 @@ former_affiliations: [US Air Force, US Air Force Mars Detachment]
 
 # Relationships
 family: [char_dawn_grant (mother), char_chris_grant (father), char_sister_athena (younger sister), char_sister_artemis (older sister)]
-allies: [char_mei (intel contact), char_mr_sylvester (handler, uneasy), char_smuggler_mars (fixer / "the Rat"), char_lt_rich_cullivan (sponsor), char_cerberus (companion), char_nick_lee (best friend), char_sophia_lotte (Astral partner)]
+allies: [char_mei (fellow Falcon crew; her intelligence role unknown to Jace at first), char_mr_sylvester (handler, uneasy), char_smuggler_mars (fixer / "the Rat"), char_lt_rich_cullivan (sponsor), char_cerberus (companion), char_nick_lee (best friend), char_sophia_lotte (Astral partner)]
 rivals: [TBD]
 romantic: [TBD]
 
@@ -162,7 +162,15 @@ Do not over-signal. It should read as a strange dream and nothing more at this s
 
 ---
 
-## Arrival at Fortuna Station
+## The Plumbing Crisis and the Thing in the Wall (Transit)
+
+Mid-transit, Jace saves the *Falcon* during the plumbing near-disaster (see [[book01-ch02-plumbing-crisis]]) — counter-ballasting the ring to stop a fatal wobble rather than letting Maureen cut away the iced animal berths. It is his first big competence set-piece, and it costs: contaminated reserve water, a furious captain, an Origin reprimand, a private thank-you from Saul, and — separately — a slapstick sewage humiliation (see [[book01-ch02b-learning-mode]]) that becomes his Fortuna reputation before he arrives.
+
+It also leaves him with a splinter he can't remove. Cutting to the torn pipe he found **interior ice that the spill doesn't explain, long rents in steel that a micrometeorite doesn't explain, a wholly dead sensor cluster — and, for one second, a dark insectoid shape with red eye-points and pincers that wasn't there when he looked again.** He logs "micrometeorite" because it's the only box that fits a holed pipe, and he tells no one about the shape. It nags him. It is the first entry in a private file he doesn't yet know he's keeping. (See [[magic_breach_crossers_transient]].) Classic Jace: file the anomaly under a mundane cause, keep moving — until the explanations stop holding.
+
+## Arrival into a Rattled Station
+
+Jace docks into a Fortuna with two faces (see [[location_fortuna_station]]): publicly courting a settler-and-investor wave, privately rattled by the Chinese withdrawal, the cancelled settlers, a "*Falcon* was sabotaged" rumor he knows is wrong, and the unsolved disappearance of **Helena**, a beloved analyst and yoga instructor who vanished from a sealed pod in his last transit week (see [[char_helena]]). Because he was demonstrably four months in transit when she disappeared, station police chief **Suzi** (see [[char_suzi]]) treats him as the one newcomer she can trust — handing him an early, low-key investigative seat. He doesn't know why the impossibility of Helena's case bothers him as much as it does. The reader, who saw the thing in the *Falcon*'s wall, suspects.
 
 Jace arrives at Fortuna with Cerberus after the four-month *Falcon* transit. He has been raising Cerberus since she was a newborn — she has known no adult life without him, sleeps pressed against him every night, and regards him as her entire world.
 
@@ -180,7 +188,7 @@ He attributes this to stress. The new posting, the isolation, the debt. He menti
 
 Cerberus is sleeping increasingly pressed against him, waking more often during the night.
 
-What Jace doesn't know: he is partially crossing in his sleep. The glowing crystal tunnels are what Fortuna Station looks like from the Astral — the metal infrastructure in N-1 dimensional cross-section, the Will-glow of the station's hundred and fifty residents visible inside like lanterns in glass pipes. He is catching glimpses of the higher dimension and processing them as dreams.
+What Jace doesn't know: he is partially crossing in his sleep. The glowing crystal tunnels are what Fortuna Station looks like from the Astral — the metal infrastructure in N-1 dimensional cross-section, the Will-glow of the station's residents (now ~350) visible inside like lanterns in glass pipes. He is catching glimpses of the higher dimension and processing them as dreams.
 
 ## The First Crossing — The Mask Pull
 
@@ -289,9 +297,13 @@ Scrambling for leverage, Jace asks if Origin can include Cerberus on the manifes
 
 ### The Intel Deal
 
-Mei — the Chinese-looking woman he noticed in a base meeting room on arrival — turns out to be an intelligence asset. Her handler, Mr. Sylvester (head of U.S. military intelligence at the Mars Detachment), makes him an offer: keep Mei's cover intact, pass information when asked, be available if she needs backup. In return: his HUD is reactivated under a civilian-contractor designation — the military-grade firmware partially restored, his apps, games, courseware, and media library returned.
+> **RETCON (2026-06-17):** Jace no longer knows Mei is an American asset at departure. He finds out later. The deal below was rewritten accordingly. (Matching pass still needed in char_mr_sylvester.md and char_mei.md — see review-queue.)
+
+Mr. Sylvester — head of U.S. military intelligence at the Mars Detachment — makes Jace an offer. He does **not** identify any specific person. The ask is general: stay reachable as a cooperative contact in the belt, pass along anything useful, and be willing to assist an asset who approaches him with a particular recognition signal, no questions asked. In return: his HUD is reactivated under a civilian-contractor designation — the military-grade firmware partially restored, his apps, games, courseware, and media library returned.
 
 The HUD piece is what sells it. He agrees. He is also genuinely inclined to help. He has not yet learned that "be helpful to your country's intelligence service" can mean very different things in different contexts. He will later come to regret this.
+
+What Jace does **not** know: the asset is the quiet Chinese woman he'll share four months of transit with. To him, Mei is just another settler bound for Fortuna — unmemorable, terse, fine with animals. The asymmetry is total and it runs the other way from what he assumes: she knows everything about him; he doesn't know there's anything to know. When he eventually learns who she is, it will reframe the entire voyage in retrospect.
 
 ### Departure
 
@@ -347,4 +359,5 @@ Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactiva
 - 2026-04-28: Initial draft from synopsis discussions.
 - 2026-04-28: Major update — family detail, Mars arrival arc, discharge mechanics, menial labor, smuggler contact, Mei/Sylvester intel deal, Pinta voyage, Falcon departure.
 - 2026-04-30: Major update — disease, appearance, personality, HUD, Cerberus naming and negotiation.
+- 2026-06-17: Mei retcon — Jace no longer knows she is a U.S. asset at departure (Intel Deal rewritten as general, un-named cooperation; finds out later). Added the plumbing-crisis save + the private "thing in the wall" incursion thread, the sewage-comedy reputation, and arrival into a rattled Fortuna (China withdrawal, sabotage misread, Helena's disappearance, Suzi's trust). Crystal-tunnel resident count 150->~350.
 - 2026-06-03: Added complete Fortuna and Astral arc: Nick Lee gaming friendship and Aura install; crystal tunnel pre-crossing dreams; first crossing sequence (Cerberus mask-pull, shared breathing, second mask pull); hours of solo exploration before finding Sophia; meeting in mess hall (no insects — Cerberus barks, Sophia startled); partnership with Sophia; temperature probe discovery; open-space exploration; drone prospecting solution; open-source decision with Nick. Updated allies to include char_nick_lee and char_sophia_lotte.

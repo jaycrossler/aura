@@ -46,6 +46,12 @@ More disciplined and hierarchical than Fortuna — the Tianhe corporate culture 
 
 The station has a reputation for rigorous engineering and lower tolerance for the informal culture that other belt stations develop. Whether this changes under the pressure of the anomalies is a story question.
 
+## The Withdrawal (Book 1) — Tianhe Draws Down
+
+During Book 1, Chinese interests begin pulling out of belt operations (triggered by "problems on Odysseus" — see [[location_odysseus_station]]), and Psyche, as the Chinese-anchored station, takes the heaviest footprint of that retreat. Tianhe Cosmics begins a drawdown: recalled personnel, deferred expansion, cancelled commitments (including the dozen Chinese settlers booked aboard the *Falcon*). The most economically valuable station in the belt going quiet sends a shock through belt confidence — and rattles Fortuna, which is courting investors at the exact wrong moment (see [[location_fortuna_station]]).
+
+This blindsides everyone, including U.S. intelligence and its operative **Mei** ([[char_mei]]), whose entire mission was premised on China *expanding* its sabotage in the belt, not abandoning it. The drawdown wrecks her cover logic: a lone Chinese citizen migrating *toward* the belt as China retreats from it is conspicuous, and her onward-travel-to-Psyche pretext loses its cover community. See [[timeline_book01_incursions]].
+
 ## Mei's Cover Zone
 
 Mei is nominally bound for Fortuna (where Jace is going), but her actual operating target includes Psyche Station contacts — belt intelligence doesn't move in straight lines. Her cover as a Chinese-heritage farmer can flex to justify travel between stations, given the belt's food-supply network. She will eventually be moving between Fortuna and Psyche as her investigation develops.
@@ -60,3 +66,5 @@ Mei is nominally bound for Fortuna (where Jace is going), but her actual operati
 ## Revision Notes
 
 - 2026-04-28: Initial draft. Note: replaces "Tianjin Belt Station" from earlier working names.
+
+- 2026-06-17: Added the Tianhe/China belt withdrawal and its drawdown footprint at Psyche, plus the resulting wreck to Mei cover logic.

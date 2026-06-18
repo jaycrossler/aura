@@ -27,7 +27,7 @@ He peeled off his sleep mask first — the rebreather seal releasing with a soft
 
 He reached down and petted the warm belly sprawled across his legs. Cerberus twitched without waking.
 
-The ship breathed around him — the deep, constant surge of the fluid system cycling through the hull, liquid mass shifting in 50 tanks as the spin demanded balance. Thunk of a pressure valve. Groan of a pipe under load somewhere aft. He'd stopped noticing it around week three. Now it was just the ship's groaning voice, low and continuous, the sound of thousands of tons of water doing their job.
+The ship breathed around him — the deep, constant surge of the fluid system cycling through the hull, liquid mass shifting through three dozen tank zones as the spin demanded balance. Thunk of a pressure valve. Groan of a pipe under load somewhere aft. He'd stopped noticing it around week three. Now it was just the ship's groaning voice, low and continuous, the sound of the better part of a thousand tons of water doing its job.
 
 HUD came up: 0614, atmo nominal, bathroom clear, Maureen's cabin AWAKE / DO NOT DISTURB. He tagged Thing One and Thing Two in his peripheral and pulled their overnight logs. Ring segment seven, hull panel R7-04: patched, sealed, polymer cure nominal. Both drones back in their cradles at 0340.
 

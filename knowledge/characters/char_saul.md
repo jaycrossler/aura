@@ -79,9 +79,19 @@ He monitors the ship remotely. The camera system gives him eyes on every compart
 
 Saul is what this industry costs. He is also, quietly, one of the most competent people on the ship — even from 200 million kilometers away.
 
+## The Thank-You (Post Plumbing-Crisis)
+
+After Jace saves the *Falcon* during the mid-transit plumbing near-disaster (see [[book01-ch02-plumbing-crisis]]), Saul sends a private message from Mars — time-delayed, arriving after the danger has long passed. It is brief, technically specific, and warmer than his usual repair notes: an acknowledgment, engineer to engineer, that Jace kept Saul's ship flying when Saul couldn't be there to do it himself. It is not effusive. From Saul, it is a lot.
+
+Maureen reads it, as she reads all of his notes (see [[char_maureen]]). She says nothing to Jace. The note costs Saul little to send and means a great deal to a man who measures himself by being needed; that is exactly why it lands.
+
 ## Open Questions
 
 - Full name and Haitian background detail
 - Whether his cancer becomes a recurring thread or remains background texture
 - His in-person meeting with Jace — when, where, what is said
 - Whether he ever returns to the *Falcon* or retires with Maureen
+
+## Revision Notes
+
+- 2026-06-17: Added the post-plumbing-crisis private thank-you message to Jace (read by Maureen, unmentioned).

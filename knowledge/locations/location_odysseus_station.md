@@ -68,6 +68,14 @@ Before the formal story begins, Odysseus Station has already had:
 
 The station has, in other words, already started the process that Fortuna will begin months later.
 
+## "Problems on Odysseus" — The Trigger for China's Belt Withdrawal (Book 1)
+
+The consortium operating Odysseus is multinational, and **Chinese interests are part of it.** As the outer-system situation deteriorates — the worker death (officially a suit failure; the present crew know the seals did not fail mechanically), escalating anomalies, and the comms degradation that hits Odysseus first — Chinese leadership reads the farthest station as a warning of something they cannot control or explain.
+
+Their response (offscreen during Book 1, felt everywhere) is to begin **withdrawing from belt operations entirely**: drawing down the Tianhe anchor at Psyche (see [[location_psyche_station]]), recalling personnel, and cancelling commitments — including the contingent of Chinese settlers booked aboard the *Falcon*. The official reason given is, vaguely, "problems on Odysseus." Within the belt this is variously read as prudence, as foreknowledge of something bad, or (wrongly) as cover for sabotage.
+
+The truth the reader can infer: Odysseus is the dark mirror, furthest along the curve, and what is happening there is the leading edge of the same emergence reaching the inner belt — not a geopolitical maneuver. China is fleeing a phenomenon, not executing a strategy. See [[timeline_book01_incursions]].
+
 ## Story Function
 
 Odysseus Station serves as a dark mirror to Fortuna — showing what Fortuna will become, further along the curve. When communications with Artemis cut out entirely, Jace doesn't know if she is alive. The reader may get glimpses through Artemis's eventual POV.
@@ -90,3 +98,5 @@ In later books, Odysseus Station becomes a significant location — the site of 
 ## Revision Notes
 
 - 2026-04-28: Initial draft.
+
+- 2026-06-17: Added "problems on Odysseus" as the trigger for China withdrawing from belt operations (Chinese interests in the multinational consortium; flight from the emergence, not strategy).

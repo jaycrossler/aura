@@ -91,9 +91,23 @@ The official theory: China is deliberately disrupting belt operations to gain st
 
 Her cover for the belt: an Origin Industries livestock handler / settler bound for Fortuna Station. The cover places her on the *Falcon* with Jace, gives her four-and-a-half months in transit to develop a working relationship with him, and positions her at Fortuna with legitimate professional reasons to travel between Fortuna and Psyche through belt agricultural channels.
 
+## The Cover That Fell Apart Before Departure (2026-06-17 update)
+
+Mei's belt insertion was supposed to be quiet. A contingent of roughly a dozen Chinese settlers was booked aboard the *Falcon* for the same Fortuna run; Mei's plan was to **board among them and blend in** — one Chinese-heritage migrant in a cluster of Chinese migrants, unremarkable, with natural cover for onward travel toward Psyche.
+
+The contingent cancelled at the last minute. Mei did **not** know it was coming — she boards on schedule, and only aboard does the problem become clear: **she is now the only Chinese national on the ship.** A lone Chinese citizen migrating to the belt — by herself, at the exact moment Chinese interests begin pulling *out* of the belt (see [[location_odysseus_station]], [[location_psyche_station]]) — is not unremarkable. It is a red flag waving at anyone paying attention.
+
+Her cover story holds on paper — "a free Chinese citizen migrating to the belt" — but it gets stranger by the week as the withdrawal news spreads. Why would she go *toward* the thing her country is fleeing? She has no good answer that doesn't invite the wrong questions. This is a quiet, constant stressor across the transit: an operative whose carefully built cover has become conspicuous through no error of her own, improvising plausibility in real time, with no way to query her handler without exposure.
+
+It also rattles her professionally for a deeper reason: **the withdrawal blindsided U.S. intelligence too.** Mei was sent to find out whether China was *sabotaging* the belt. China abandoning it instead — apparently over "problems on Odysseus" — fits her own private suspicion that the anomalies were never sabotage, and it means her mission's framing was wrong from the start. She is now alone, conspicuous, and increasingly certain her superiors don't understand what they sent her into.
+
+## What Jace Knows (Retcon — 2026-06-17)
+
+**Jace does not know Mei is an asset.** Per the retconned Sylvester deal (see [[char_jace_apollo]] "The Intel Deal"), Jace agreed to general, un-named cooperation in exchange for his HUD; Mei was never identified to him. To Jace, she is simply the other animal tender — quiet, terse, good with the livestock. The asymmetry is total: she knows everything about him; he doesn't know there is anything to know. He finds out who she is later, and it reframes the whole voyage.
+
 ## Relationship with Jace
 
-At story start, Mei and Jace are not allies. They are an intelligence operative and her newly-recruited asset. The asymmetry is total: she knows everything about him, he knows almost nothing about her, and Sylvester has briefed her on him in detail.
+At story start, Mei and Jace are not allies — but Jace doesn't even know that. He thinks she is just the other animal tender. She knows everything about him (Sylvester briefed her in detail); he doesn't know she is anything but a quiet fellow migrant. The asymmetry is total and one-sided in a way he can't perceive.
 
 Over the *Falcon* transit, this will shift. Jace will prove more reliable, more decent, and more ordinary than her briefing prepared her for. She will find herself genuinely caring about him in ways that complicate her professional posture. He will not be hard to underestimate; he will also not be hard to like.
 
@@ -125,4 +139,5 @@ Whether this becomes romantic, fraternal, or something more uncategorizable is o
 ## Revision Notes
 
 - 2026-04-28: Initial draft.
+- 2026-06-17: Cancelled Chinese settler cohort leaves Mei the only Chinese national aboard — cover conspicuous, constant stressor; she did NOT know of the withdrawal in advance, which also blindsided U.S. intel and confirms her suspicion the framing was wrong. RETCON: Jace does NOT know she is an asset at story start (finds out later); aboard-cover reframed as "free Chinese citizen migrating to the belt."
 - 2026-04-30: Updated from voice session. Clarified that her two-year Mars cover specifically focused on intelligence collection from the Chinese settlement's livestock and agricultural operations — not random embedding, but a targeted assignment that makes her natural fit for the belt mission. Origin Industries cover employment for the belt posting noted explicitly.

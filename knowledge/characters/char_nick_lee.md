@@ -125,6 +125,15 @@ Nick's Aura modifications use corporate infrastructure. The Aura stack runs on h
 
 The open-source release is a race against that clock. By the time anyone with resources to act on it understands what he's done, the knowledge is already distributed beyond recall.
 
+## The Helena Flatline and the Falcon Anomaly (Book 1 threads)
+
+Nick's position as the belt's de facto Aura maintainer puts the relevant data in front of him before anyone has a framework for it — two threads he doesn't yet connect:
+
+- **Helena's flatline.** When station chief Suzi works the Helena disappearance (see [[char_helena]], [[char_suzi]]), the one hard datum is the network record: Helena's Aura transmitted normally, then **stopped mid-record at ~01:00** with no fault code, no location, no reconnection. Nick is the person who can confirm there was no malfunction — the instance didn't crash; it simply went silent, cleanly, as if the device left the network while sitting in a sealed pod. He flags it as genuinely anomalous rather than a glitch. He files it. He doesn't know what it means. (It is the Aura-dark crossing signature — see [[spec_crossing_mechanics]].)
+- **The *Falcon* sensor anomaly.** Nick follows the ship feeds (he's the pig-cam viewer). The plumbing-crisis incident logs include a sensor cluster that died in a way that doesn't match the "micrometeorite" classification, plus the patterned-static and equipment-failure signatures he's been quietly cataloguing across stations (see [[magic_breach_crossers_transient]], [[magic_manifestations_early]]).
+
+These are two more entries in the pile of correlations that lead Nick to his early articulation — *the system is detecting a real phenomenon, not malfunctioning* — and they are part of what he later connects, once Jace brings him into the Astral secret, into a single picture: the disappearances, the *Falcon* incident, and the Aura-flatline signature are the same thing seen from different angles.
+
 ## Personality
 
 **Surface:** Quiet, distractible, fiddly with his hands, evasive about anything personal. Generous with technical knowledge in his domain. Speaks in fragments and references. Assumes the listener will keep up or ask.
@@ -165,4 +174,5 @@ Sophia discovers. Jace builds. Nick distributes. This is a complete loop.
 ## Revision Notes
 
 - 2026-04-29: Initial drafts as separate placeholder files: char_aura_engineer.md (the Aura builder) and char_jace_best_friend.md (the gaming friend). Both TBD on name and identity.
+- 2026-06-17: Added the Helena Aura-flatline clue (clean mid-record silence = crossing signature) and the Falcon sensor-anomaly thread, as two of the correlations feeding Nick's "it's detecting a real phenomenon" articulation.
 - 2026-06-03: Merged into single canonical file. Name confirmed: Nick Lee, Korean, AI engineer and programmer. Confirmed as both the Aura developer and Jace's gaming-transit friend — same person. Full background, discovery arc, three-person dynamic, open-source decision arc. Files char_aura_engineer.md and char_aura_engineer_TBD.md and char_jace_best_friend.md are superseded by this file.
