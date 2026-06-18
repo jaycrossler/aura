@@ -1,4 +1,5 @@
 ---
+description: "Taxonomy and mechanics for astral organisms crossing into physical reality during magical breaches."
 id: magic_breach_crossers_transient
 name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger)
 type: magic_system

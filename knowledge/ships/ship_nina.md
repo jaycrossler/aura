@@ -1,4 +1,5 @@
 ---
+description: "Technical and narrative profile for the Cycler-class deep-space liner Niña."
 # Identity
 id: ship_nina
 name: Niña

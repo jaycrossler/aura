@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing a morally grey, essential smuggler operating within the Mars settlement's informal economy."
 # Identity
 id: char_smuggler_mars
 name: [name TBD]

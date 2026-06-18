@@ -1,4 +1,5 @@
 ---
+description: "Template for defining a comprehensive fictional magic system's rules and lore."
 # Identity
 id: magic_[unique_slug]
 name: [Magic System Name]

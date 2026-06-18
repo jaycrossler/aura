@@ -1,4 +1,5 @@
 ---
+description: "Opening chapter establishing crew dynamics, ship life, and Jace's routine aboard the Falcon."
 id: book01-ch01-morning-round
 title: "Chapter 1 — Morning Round"
 type: scene_draft

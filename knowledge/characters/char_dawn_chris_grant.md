@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Dawn and Chris Grant, parents of protagonist Jace Apollo."
 # Identity
 id: char_dawn_chris_grant
 name: Dawn Grant and Chris Grant

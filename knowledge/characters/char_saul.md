@@ -35,7 +35,7 @@ narrative_importance: >
   in this industry costs, paid quietly over decades.
 
 # Remote Oversight
-description: >
+description: "Character profile for Saul, Maureen's husband and remote engineer mentor during transit."
   Saul monitors Jace's maintenance work remotely via the Falcon's ubiquitous camera
   system. There is a time lag — minutes to tens of minutes depending on orbital geometry —
   but he checks in regularly. He leaves occasional voice notes or text flags on completed

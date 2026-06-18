@@ -1,4 +1,5 @@
 ---
+description: "Defines metadata structures for StoryBot to generate multimedia chapter content."
 id: storybot_metadata_template_guide
 name: StoryBot Metadata Template Guide
 type: system_documentation

@@ -1,4 +1,5 @@
 ---
+description: "Jace's first subtle magical manifestation during a low-gravity yoga session with Lina."
 id: event_jace_lina_yoga_scene
 name: Low-G Yoga with Lina — The Fingertips
 type: scene

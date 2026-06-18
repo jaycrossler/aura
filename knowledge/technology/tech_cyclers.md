@@ -1,4 +1,5 @@
 ---
+description: "Describes the permanent deep-space habitat system transporting colonists between Earth and Mars."
 id: tech_cyclers
 name: The Cycler System
 type: interplanetary_transit_infrastructure

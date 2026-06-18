@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Suzi, Fortuna Station chief of security and investigative ally."
 id: char_suzi
 name: Suzi [surname TBD]
 aliases: ["Chief", "Chief Suzi"]

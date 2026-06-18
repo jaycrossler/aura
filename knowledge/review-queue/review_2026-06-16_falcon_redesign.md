@@ -1,4 +1,5 @@
 ---
+description: "Review notes detailing inconsistencies and required updates for the Falcon ship redesign."
 id: review_queue_2026-06-16_falcon_redesign
 type: review_queue_item
 status: open

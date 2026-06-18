@@ -1,4 +1,5 @@
 ---
+description: "Sketching Jace's emotional descent through rumors in a working-class Mars bar."
 id: event_jace_bar_rumors
 title: Bar Scene — Rumors of Disaster
 type: scene

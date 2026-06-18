@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Jelly Grant, a dog representing home and enduring family connection."
 # Identity
 id: char_jelly_grant
 name: Jelly

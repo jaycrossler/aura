@@ -1,4 +1,5 @@
 ---
+description: "Notes detailing character canon and plot resolutions for multiple characters and storylines."
 id: session_notes_2026-05-02
 name: Session Notes — 2026-05-02 (Voice Session)
 type: session_log

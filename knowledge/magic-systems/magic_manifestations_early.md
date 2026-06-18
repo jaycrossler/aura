@@ -1,4 +1,5 @@
 ---
+description: "Catalog of early, observable magical phenomena encountered during the solar system outbreak."
 id: magic_manifestations_early
 name: Early Manifestations — Pre-Understanding Phase
 type: magic_system

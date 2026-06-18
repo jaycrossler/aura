@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Jace Grant, a discharged Air Force officer discovering latent magical abilities."
 id: char_jace_apollo
 name: Jace Grant
 aliases: ["Apollo", "LT" (former), "Dog Man" (post-discharge), "Barnyard" (and variations)]

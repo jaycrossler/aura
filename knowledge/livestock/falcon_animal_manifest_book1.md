@@ -1,4 +1,5 @@
 ---
+description: "Manifest detailing livestock pairings and life support allocation for the Falcon voyage."
 id: falcon_animal_manifest_book1
 name: Falcon Animal Manifest — Book 1 Voyage
 type: livestock_manifest

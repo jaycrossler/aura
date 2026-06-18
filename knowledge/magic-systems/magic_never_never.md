@@ -1,4 +1,5 @@
 ---
+description: "Describes the Never-Never location, detailing its two distinct environments and history."
 id: magic_never_never
 name: The Never-Never
 aliases:

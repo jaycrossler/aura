@@ -1,4 +1,5 @@
 ---
+description: "Detailed vocal and speech pattern profile for character Jace Apollo Grant."
 id: voice_char_jace_apollo
 character_ref: char_jace_apollo
 type: character_voice_profile

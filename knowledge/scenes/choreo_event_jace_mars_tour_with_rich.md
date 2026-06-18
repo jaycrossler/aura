@@ -1,4 +1,5 @@
 ---
+description: "Detailed choreography and temporal markers for Jace's arrival and tour on Mars with Rich."
 id: choreo_event_jace_mars_tour_with_rich
 scene_ref: event_jace_mars_tour_with_rich
 type: scene_choreography

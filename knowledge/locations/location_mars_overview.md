@@ -1,4 +1,5 @@
 ---
+description: "Overview of humanity's settled civilization, major settlements, and resource economy on Mars."
 id: location_mars_overview
 name: Mars (Inhabited World Overview)
 type: planet

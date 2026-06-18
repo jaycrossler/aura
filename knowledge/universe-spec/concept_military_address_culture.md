@@ -1,4 +1,5 @@
 ---
+description: "Canonical guide detailing military address conventions for USAF and Space Force personnel on Mars."
 id: concept_military_address_culture
 name: Military Address Culture (USAF/Space Force, Mars Era)
 type: cultural_phenomenon

@@ -1,4 +1,5 @@
 ---
+description: "Scene detailing Jace's emotional and physical decline after a doctor's appointment on Mars."
 id: event_jace_doctor_appointment
 title: The Doctor's Office — Jace's Medical Discharge
 type: scene

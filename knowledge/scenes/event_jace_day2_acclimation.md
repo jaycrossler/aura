@@ -1,4 +1,5 @@
 ---
+description: "Jace's free day on Mars during his acclimation period before formal duty begins."
 id: event_jace_day2_acclimation
 name: Day 2 — Acclimation Day (Geese, Mines, Quiet)
 type: scene

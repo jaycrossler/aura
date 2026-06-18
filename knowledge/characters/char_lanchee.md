@@ -25,7 +25,7 @@ distinguishing_features: TBD
 
 # Personality
 core_traits: [demure, focused, professionally absorbed, quietly warm]
-description: >
+description: "Character profile for Lanchee, the ship's remote medical consultant and resident expert."
   Lanchee is rarely seen. She eats at odd hours, keeps her canister door closed, and
   spends most of her days consulting on medical cases at Fortuna Station via the ship's
   comms — building relationships and context so she will be genuinely useful the moment

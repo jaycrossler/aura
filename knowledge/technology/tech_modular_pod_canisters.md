@@ -1,4 +1,5 @@
 ---
+description: "Describes standardized modular pods used for flexible habitation and infrastructure construction."
 id: tech_modular_pod_canisters
 name: Modular Pod / Canister System
 type: technology_concept

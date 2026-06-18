@@ -1,4 +1,5 @@
 ---
+description: "Description of Aura, a widely deployed distributed personal AI architecture in the solar system."
 id: tech_aura
 name: Aura
 type: distributed_personal_ai

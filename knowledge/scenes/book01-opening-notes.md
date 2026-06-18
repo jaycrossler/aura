@@ -1,4 +1,5 @@
 ---
+description: "Working outline detailing early scenes, backstory, and structural notes for Book 1's opening."
 id: scenes_book01_opening_notes
 title: Book 1 — Opening Notes and Sketches
 status: pre-draft

@@ -1,4 +1,5 @@
 ---
+description: "Details on Never-Never transit technology, its mechanics, and rediscovery phases."
 id: tech_never_never_transit
 name: Never-Never Transit — Dimensional Transportation
 type: emerging_transit_technology

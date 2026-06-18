@@ -1,4 +1,5 @@
 ---
+description: "Description of Origin Industries, a dominant solar system logistics megacorporation."
 id: faction_origin_industries
 name: Origin Industries
 type: megacorporation

@@ -1,4 +1,5 @@
 ---
+description: "Details the technical challenges and adaptations for electronic systems facing magical interference (the Static)."
 id: magic_technological_adaptation
 name: Technological Adaptation to the Outbreak — The Static Problem
 type: magic_system

@@ -1,4 +1,5 @@
 ---
+description: "Describes the decentralized AI ecosystem and robotic workforce on Mars in the 22nd century."
 id: tech_everyday_robotics_and_ai
 name: Everyday Robotics and AI Ecosystem
 type: daily_technology

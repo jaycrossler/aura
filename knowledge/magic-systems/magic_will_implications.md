@@ -1,4 +1,5 @@
 ---
+description: "Analyzes the universal biological and cosmic implications of conscious will generation."
 id: magic_will_implications
 name: Will — Deep Implications and Universe-Wide Consequences
 type: foundational_analysis

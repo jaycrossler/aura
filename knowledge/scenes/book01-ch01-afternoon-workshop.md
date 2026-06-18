@@ -1,4 +1,5 @@
 ---
+description: "Draft scene detailing Jace's engineering work, character interactions, and project development on the Falcon ship."
 id: book01-ch01-afternoon-workshop
 title: "Chapter 1 — Afternoon Workshop + Day 2 + Dream"
 type: scene_draft

@@ -1,4 +1,5 @@
 ---
+description: "Jace's initial Mars tour with Lt. Rich Cullivan establishing setting and character dynamics."
 id: event_jace_mars_tour_with_rich
 title: Mars Sponsor Tour with Lt. Rich Cullivan
 type: scene

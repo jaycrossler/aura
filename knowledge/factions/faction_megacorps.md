@@ -1,4 +1,5 @@
 ---
+description: "Overview of dominant megacorporations controlling solar system infrastructure and power."
 id: faction_megacorps
 name: The Megacorporations
 type: corporate_consortium

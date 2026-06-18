@@ -1,4 +1,5 @@
 ---
+description: "Description of the economically vital station anchored to the metallic asteroid 16 Psyche."
 # Identity
 id: location_psyche_station
 name: Psyche Station

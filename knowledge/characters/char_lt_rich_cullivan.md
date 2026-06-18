@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Rich Cullivan, an Air Force sponsor and communications expert on Mars."
 # Identity
 id: char_lt_rich_cullivan
 name: Rich Cullivan

@@ -1,4 +1,5 @@
 ---
+description: "Canonical chronology detailing major universal events from deep past to present day."
 id: timeline_master
 name: Master Timeline
 type: chronology

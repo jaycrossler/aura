@@ -1,4 +1,5 @@
 ---
+description: "Description of a major Martian industrial district and its economic significance to the settlement."
 id: location_mars_fabrication_district
 name: Mars Fabrication District (working name)
 type: district

@@ -1,5 +1,5 @@
-<!-- FILE: /knowledge/technology/tech_dogs_space_adapted.md -->
 ---
+description: "Technical specification and selective breeding details of low-G adapted Mars dogs."
 id: tech_dogs_space_adapted
 name: Mars-Bred Low-G Adapted Dogs
 type: bioengineered_animal

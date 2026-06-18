@@ -1,4 +1,5 @@
 ---
+description: "Political profile detailing the United States of Mars as a new American state."
 id: faction_united_states_mars
 name: The United States of Mars
 type: political_state

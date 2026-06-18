@@ -1,4 +1,5 @@
 ---
+description: "Chronological index mapping all scenes, dates, and character continuity for the book's timeline."
 id: scenes_temporal_map
 name: Master Scenes Temporal Map
 type: chronology_index

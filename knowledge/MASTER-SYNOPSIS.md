@@ -1,4 +1,5 @@
 ---
+description: "Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic."
 title: Master Synopsis — Aura Chronicles
 status: draft
 version: 0.1

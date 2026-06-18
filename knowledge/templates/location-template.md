@@ -1,4 +1,5 @@
 ---
+description: "Template structure defining comprehensive details for any fictional location or setting."
 # Identity
 id: location_[unique_slug]
 name: [Location Name]

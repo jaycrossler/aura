@@ -1,4 +1,5 @@
 ---
+description: "Describes the multi-layered, conflicting censorship architecture of inner solar system communications."
 id: tech_communications_filtering
 name: Communications Filtering and Censorship Architecture
 type: infrastructure_and_political_technology

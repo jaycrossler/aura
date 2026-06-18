@@ -1,4 +1,5 @@
 ---
+description: "Describes the escalating threat level in the Astral dimension based on human magical capability."
 id: spec_threat_escalation
 name: Astral Threat Escalation — The Leveling Arc
 type: narrative_mechanics

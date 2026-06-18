@@ -1,4 +1,5 @@
 ---
+description: "Detailed voice profile for Lt. Rich Cullivan, including emotional and situational speech patterns."
 id: voice_char_lt_rich_cullivan
 character_ref: char_lt_rich_cullivan
 type: character_voice_profile

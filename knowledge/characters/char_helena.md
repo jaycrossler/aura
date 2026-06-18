@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Helena's disappearance and magical crossing into the Astral plane."
 id: char_helena
 name: Helena [surname TBD]
 aliases: ["Helena", "the Yoga Teacher"]

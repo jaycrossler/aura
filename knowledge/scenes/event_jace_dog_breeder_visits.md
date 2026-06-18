@@ -1,4 +1,5 @@
 ---
+description: "Details of Jace's recurring visits to a Mars dog breeder facility and forming attachments."
 id: event_jace_dog_breeder_visits
 name: Jace's Dog Breeder Visits
 type: scene

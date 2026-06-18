@@ -1,4 +1,5 @@
 ---
+description: "Jace learns his parents offer to sell the family horse farm to clear his debt."
 id: event_jace_horse_farm_offer
 name: The Horse Farm Offer (Parents Offer to Sell)
 type: scene

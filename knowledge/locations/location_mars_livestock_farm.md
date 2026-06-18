@@ -1,4 +1,5 @@
 ---
+description: "Description of Terminus's underground Mars livestock farm location and operations."
 id: location_mars_livestock_farm
 type: location
 category: agricultural_facility

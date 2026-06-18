@@ -5,7 +5,7 @@ aliases: ["The Base", "USAF/Space Force Detachment", "Mars Detachment"]
 type: military_installation
 parent_location: location_terminus
 status: active
-description: The main security installation for the US Military stationed on Mars where Jace was briefly assigned
+description: "Description of the joint US Air Force/Space Force military installation on Mars at Terminus."
 canonical: true
 last_updated: 2026-05-02
 era: late 21st century onward

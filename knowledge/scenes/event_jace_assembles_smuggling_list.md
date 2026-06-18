@@ -1,4 +1,5 @@
 ---
+description: "Jace acquires restricted goods for Artemis's list during a desperate smuggling sprint on Mars."
 id: event_jace_assembles_smuggling_list
 name: Assembling Artemis's List — The Smuggling Sprint
 type: scene_cluster

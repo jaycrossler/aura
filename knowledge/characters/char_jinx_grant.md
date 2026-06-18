@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Jinx, the primary family horse and symbol of home on a Virginia farm."
 # Identity
 id: char_jinx_grant
 name: Jinx

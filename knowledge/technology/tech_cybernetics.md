@@ -1,4 +1,5 @@
 ---
+description: "Details cybernetic augmentation technology including power sources and implant types."
 id: tech_cybernetics
 name: Cybernetic Augmentation Systems
 type: medical_and_military_technology

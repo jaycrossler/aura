@@ -1,4 +1,5 @@
 ---
+description: "Timeline detailing events during the Falcon transit, covering plot crises and character arcs."
 id: timeline_book01_incursions
 name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helena)
 type: timeline

@@ -1,4 +1,5 @@
 ---
+description: "Jace negotiates his contract with Origin Industries, establishing his diminished bargaining position."
 id: event_jace_origin_negotiation
 title: The Origin Industries Negotiation
 type: scene

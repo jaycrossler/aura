@@ -1,4 +1,5 @@
 ---
+description: "Details the modular transport system and economy of the asteroid belt."
 id: spec_belt_transport_and_economy
 name: Frontier Belt Transport System and Economy
 type: universe_spec

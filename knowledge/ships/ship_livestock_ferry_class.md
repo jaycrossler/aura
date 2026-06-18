@@ -1,4 +1,5 @@
 ---
+description: "Overview of the Omphalos configuration used on livestock ferry vessels."
 id: ship_livestock_ferry_class
 name: Livestock-Primary Ferry (Class Overview)
 type: ship_class_document

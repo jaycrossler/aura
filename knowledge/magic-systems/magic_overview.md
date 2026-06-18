@@ -1,4 +1,5 @@
 ---
+description: "Foundational overview detailing the core principles and mechanics of the returning magic system."
 id: magic_overview
 name: Magic — Overview and Fundamental Principles
 type: magic_system

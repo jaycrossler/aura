@@ -1,4 +1,5 @@
 ---
+description: "Describes Mars-based nuclear ferries transporting cargo and people to the asteroid belt."
 id: tech_nuclear_ferries
 name: Nuclear Ferry System
 type: mars_to_belt_transit_infrastructure

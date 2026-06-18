@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Lina Mills, dog breeder at the Mars facility and acquaintance of Jace Apollo."
 id: char_lina_mills
 name: Lina Mills
 aliases: ["Lina"]

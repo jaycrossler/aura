@@ -1,4 +1,5 @@
 ---
+description: "Detailed choreography and temporal markers for Jace's first day at the Mars base gym."
 id: choreo_event_jace_gym_arrival
 scene_ref: event_jace_gym_arrival
 type: scene_choreography

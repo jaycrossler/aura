@@ -1,4 +1,5 @@
 ---
+description: "Overview of non-American Mars factions including China and India settlements."
 id: faction_mars_other_settlements
 name: Other Mars Settlements (Overview)
 type: faction_collection

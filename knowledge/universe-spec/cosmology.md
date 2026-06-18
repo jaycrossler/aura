@@ -1,4 +1,5 @@
 ---
+description: "Details the cosmological impact and physical effects of the supernova Vela Junior on the Never-Never."
 id: spec_cosmology
 title: Cosmology — Vela Junior, the Scar, and the Reopening
 status: foundational

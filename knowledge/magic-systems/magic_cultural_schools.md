@@ -1,4 +1,5 @@
 ---
+description: "Details various cultural traditions and schools of magic arts and their core principles."
 id: magic_cultural_schools
 name: Cultural Schools of the Returning Arts
 type: magic_subsystem

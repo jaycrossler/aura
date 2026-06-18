@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Artemis Grant, Jace's older sister and magical pioneer at Odysseus Station."
 # Identity
 id: char_sister_artemis
 name: [first name TBD] "Artemis" Grant

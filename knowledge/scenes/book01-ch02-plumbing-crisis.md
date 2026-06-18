@@ -1,4 +1,5 @@
 ---
+description: "Scene draft detailing a plumbing crisis, mass stabilization, and magical breach encounter."
 id: book01-ch02-plumbing-crisis
 title: "Chapter 2 — The Plumbing Crisis (rewrite)"
 type: scene_draft

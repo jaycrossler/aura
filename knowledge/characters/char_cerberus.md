@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Cerberus, a Mars-bred companion dog to Jace Apollo."
 # Identity
 id: char_cerberus
 name: Cerberus

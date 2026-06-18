@@ -1,4 +1,5 @@
 ---
+description: "Description of a future retail district on Mars showcasing advanced technology and consumer culture."
 id: location_mars_consumer_district
 name: Mars Consumer District (working name)
 type: district

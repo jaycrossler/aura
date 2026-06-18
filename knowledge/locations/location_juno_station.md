@@ -1,4 +1,5 @@
 ---
+description: "Description of an inner belt asteroid station focused on mineral extraction and trade."
 # Identity
 id: location_juno_station
 name: Juno Station

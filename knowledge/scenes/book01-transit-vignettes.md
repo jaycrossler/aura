@@ -1,5 +1,5 @@
-<!-- FILE: /knowledge/scenes/book01-transit-vignettes.md -->
 ---
+description: "Scene sketches and animal bonding beats threaded throughout the Falcon transit chapters."
 id: scene_book01_transit_vignettes
 title: Book 1 — Transit Vignettes (Animals, Dogs, Bonding)
 type: scene_collection

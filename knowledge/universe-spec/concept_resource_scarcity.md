@@ -1,5 +1,5 @@
-<!-- FILE: /knowledge/universe-spec/concept_resource_scarcity.md -->
 ---
+description: "Guiding rules defining the belt resource scarcity regime of abundant raw materials and scarce processed goods."
 id: concept_resource_scarcity
 name: Belt Resource Scarcity and Selection Pressure
 type: cultural_phenomenon

@@ -1,4 +1,5 @@
 ---
+description: "Description of the industrial city Pangu on Mars, detailing its function and environment."
 id: location_pangu
 name: Pangu
 type: city

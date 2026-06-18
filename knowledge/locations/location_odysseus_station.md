@@ -1,4 +1,5 @@
 ---
+description: "Description of a remote Jupiter L4 station and its unique resource/flux significance."
 # Identity
 id: location_odysseus_station
 name: Odysseus Station

@@ -1,4 +1,5 @@
 ---
+description: "Describes the common structural features and contact approach of galactic Will-Network civilizations."
 id: faction_galactic_will_networks
 name: Galactic Will-Network Civilizations
 aliases:

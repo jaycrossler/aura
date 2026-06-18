@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Mr. Sylvester, head of U.S. military intelligence at the Mars Detachment."
 # Identity
 id: char_mr_sylvester
 name: [first name TBD] Sylvester

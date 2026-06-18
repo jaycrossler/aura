@@ -1,4 +1,5 @@
 ---
+description: "Overview of the Asteroid Belt region, its geography, and major human stations."
 id: location_asteroid_belt_overview
 name: The Asteroid Belt (Overview)
 type: region

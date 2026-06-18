@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Mei, an operative infiltrating Chinese settlements in space."
 # Identity
 id: char_mei
 name: Mei [surname TBD]

@@ -1,4 +1,5 @@
 ---
+description: "Technical specification for Aura, a distributed, personal AI runtime environment system."
 id: concept_aura_ai_system
 name: Aura — The Distributed AI System
 type: universe_spec

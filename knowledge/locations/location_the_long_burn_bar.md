@@ -1,4 +1,5 @@
 ---
+description: "Description of The Long Burn, an underground commercial bar in Terminus' old tunnels."
 id: location_the_long_burn_bar
 type: location
 category: commercial_establishment

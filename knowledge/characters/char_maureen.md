@@ -50,7 +50,7 @@ arc: >
   Her full arc is TBD beyond Book 1 transit.
 
 # The Majordomo Conflict
-description: >
+description: "Character profile detailing Captain Maureen, her relationships, and motivations for retirement."
   Maureen has not integrated Jace's personal drones (Thing One, Thing Two) with the
   Falcon's majordomo system. Official reason: certification protocols. Practical reality:
   her ship, her systems, her rules. Jace manages his drones manually through his HUD.

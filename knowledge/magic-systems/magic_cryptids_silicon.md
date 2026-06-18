@@ -1,4 +1,5 @@
 ---
+description: "Taxonomy of silicon-based magical manifestations found in industrial manufacturing environments."
 id: magic_cryptids_silicon
 name: Silicon Manifestations — The Glass-Infestation Class
 type: magic_system

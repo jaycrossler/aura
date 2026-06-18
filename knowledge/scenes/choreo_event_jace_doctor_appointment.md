@@ -1,4 +1,5 @@
 ---
+description: "Detailed choreography and temporal markers for Jace's emotional climax at a doctor's appointment."
 id: choreo_event_jace_doctor_appointment
 scene_ref: event_jace_doctor_appointment
 type: scene_choreography

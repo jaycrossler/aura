@@ -1,4 +1,5 @@
 ---
+description: "Details the mechanical costs and limitations of traversing dimensions in the Never-Never."
 id: spec_crossing_mechanics
 name: Dimensional Crossing — Costs, Accidents, and the AI Discovery
 type: foundational_mechanics

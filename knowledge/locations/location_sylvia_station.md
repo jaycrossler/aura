@@ -1,4 +1,5 @@
 ---
+description: "Detailed location profile for Sylvia Station, including its three-body asteroid system and potential story sites."
 # Identity
 id: location_sylvia_station
 name: Sylvia Station

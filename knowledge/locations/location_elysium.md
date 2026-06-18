@@ -1,4 +1,5 @@
 ---
+description: "Description of the cosmopolitan, high-stakes international business hub city of Mars."
 id: location_elysium
 name: Elysium
 type: city

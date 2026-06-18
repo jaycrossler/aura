@@ -1,4 +1,5 @@
 ---
+description: "Details military implant systems, consumer tech, and their differing capabilities in 2105."
 id: concept_mil_ex_implants
 name: MilX — Military Implant Systems and the Implant Ecosystem
 type: universe_spec

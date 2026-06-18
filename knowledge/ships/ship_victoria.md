@@ -1,4 +1,5 @@
 ---
+description: "ESA science vessel used as home base and research platform for particle physics studies."
 id: ship_victoria
 name: Victoria
 aliases: ["the Victoria", "ESA vessel Victoria"]

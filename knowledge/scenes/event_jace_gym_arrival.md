@@ -1,4 +1,5 @@
 ---
+description: "Scene detailing Jace's confident first day at the Mars detachment gymnasium."
 id: event_jace_gym_arrival
 title: First Gym Session — Golden-Boy Confidence Peak
 type: scene

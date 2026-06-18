@@ -1,4 +1,5 @@
 ---
+description: "Defines core metaphysical mechanics: Will and Templates governing all magic."
 id: magic_will_and_templates
 name: Will and Templates — Core Metaphysical Mechanics
 type: foundational_magic_mechanics

@@ -1,4 +1,5 @@
 ---
+description: "Describes the mechanics and scope of magic returning to the solar system."
 id: magic_returning_arts
 name: The Returning Arts
 type: magic_system

@@ -1,4 +1,5 @@
 ---
+description: "Describes the loose network of mining and habitation stations in the asteroid belt."
 id: faction_belter_stations
 name: The Belter Stations
 type: distributed_settlement_network

@@ -1,4 +1,5 @@
 ---
+description: "A comedic scene draft detailing Jace Apollo's embarrassing sewage incident on the ship."
 id: book01-ch02b-learning-mode
 title: "Chapter 2b — Learning Mode (the sewage light-globe comedy)"
 type: scene_draft

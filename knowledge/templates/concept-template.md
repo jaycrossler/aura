@@ -1,4 +1,5 @@
 ---
+description: "Template for documenting complex fictional concepts, beliefs, and systems within a world."
 # Identity
 id: concept_[unique_slug]
 name: [Concept Name]

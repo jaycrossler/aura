@@ -1,4 +1,5 @@
 ---
+description: "Character profile for Athena Grant, the youngest sibling of the Apollo family."
 # Identity
 id: char_sister_athena
 name: [first name TBD] "Athena" Grant

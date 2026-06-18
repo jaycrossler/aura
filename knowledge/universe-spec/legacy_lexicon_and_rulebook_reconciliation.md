@@ -1,4 +1,5 @@
 ---
+description: "Reconciles old physics rulebook terminology and mechanics with current universe canon specifications."
 id: spec_legacy_lexicon_reconciliation
 name: Legacy Lexicon & Physics-Rulebook Reconciliation
 type: foundational_reference

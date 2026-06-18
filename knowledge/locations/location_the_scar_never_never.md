@@ -1,4 +1,5 @@
 ---
+description: "Description of the dimensional region known as The Scar and its Never-Never ecology."
 id: location_scar_never_never
 name: The Scar — Never-Never Region
 aliases:

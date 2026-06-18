@@ -1,4 +1,5 @@
 ---
+description: "Details improvised magical technology built from salvaged materials for asteroid belt survival."
 id: magic_improvised_responses
 name: Improvised Responses to the Outbreak — Belt Field Adaptations
 type: magic_system

@@ -1,4 +1,5 @@
 ---
+description: "Chronological timeline detailing the gradual return and manifestation of magic in space."
 id: outbreak_timeline
 name: The Outbreak — Chronological Timeline of Magic's Return
 type: timeline

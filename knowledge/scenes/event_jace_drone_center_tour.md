@@ -1,4 +1,5 @@
 ---
+description: "Jace's first day tour through the massive drone control center at the Mars base."
 id: event_jace_drone_center_tour
 name: Jace's Drone Control Center Tour
 type: scene

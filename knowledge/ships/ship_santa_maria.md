@@ -1,4 +1,5 @@
 ---
+description: "Technical profile detailing the specifications, history, and role of the Cycler-class liner Santa María."
 # Identity
 id: ship_santa_maria
 name: Santa María

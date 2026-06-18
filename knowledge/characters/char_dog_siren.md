@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Siren, the communal dog and sister of Cerberus."
 # Identity
 id: char_dog_siren
 name: Siren

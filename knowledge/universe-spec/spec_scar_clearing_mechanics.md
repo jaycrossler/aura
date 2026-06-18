@@ -1,4 +1,5 @@
 ---
+description: "Details the dimensional instability, clearing mechanics, and membrane model of The Scar."
 id: spec_scar_clearing_mechanics
 name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol
 type: foundational_cosmology_detail

@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Dr. Sophia Lotte, an ESA physicist who pioneered human Astral crossing."
 id: char_sophia_lotte
 name: Dr. Sophia Lotte
 aliases:

@@ -1,4 +1,5 @@
 ---
+description: "Describes the abundant, curated, and unreliable information environment of 2105."
 id: tech_information_environment
 name: The Information Environment (2105)
 type: cultural_technology

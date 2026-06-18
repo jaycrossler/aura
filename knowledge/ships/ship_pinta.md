@@ -1,4 +1,5 @@
 ---
+description: "Technical specification and background lore for the Cycler-class deep-space liner Pinta."
 # Identity
 id: ship_pinta
 name: Pinta

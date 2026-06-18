@@ -1,4 +1,5 @@
 ---
+description: "Description of Terminus, the largest militarized human settlement on Mars."
 id: location_terminus
 type: location
 category: mars_city

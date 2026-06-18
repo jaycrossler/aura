@@ -1,4 +1,5 @@
 ---
+description: "Developmental guide for reviewing pacing and progression in a science-fantasy web serial."
 id: storybot_progression_review_guide
 name: Progression & Chapter Review Guide
 type: dev_guide

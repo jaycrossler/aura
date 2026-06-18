@@ -1,4 +1,5 @@
 ---
+description: "Technical specification and profile for the Falcon, a nuclear-thrust livestock and cargo transport vessel."
 id: ship_falcon
 name: Falcon
 former_names: []

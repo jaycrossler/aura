@@ -1,4 +1,5 @@
 ---
+description: "Template structure for detailing a fictional group's history, culture, and political standing."
 # Identity
 id: faction_[unique_slug]
 name: [Faction Name]

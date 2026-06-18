@@ -1,4 +1,5 @@
 ---
+description: "Character profile detailing Nick Lee, the AI engineer and architect of Fortuna Station's open-source Aura system."
 id: char_nick_lee
 name: Nick Lee
 aliases: ["the Aura guy", "the kit-builder", "the librarian (ironic)"]

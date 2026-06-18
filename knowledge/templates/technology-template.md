@@ -1,4 +1,5 @@
 ---
+description: "Template for detailing a fictional piece of advanced technology's specifications and history."
 # Identity
 id: tech_[unique_slug]
 name: [Technology Name]

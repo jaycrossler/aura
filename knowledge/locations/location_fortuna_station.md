@@ -1,4 +1,5 @@
 ---
+description: "Description of the industrial inner belt mining hub, Fortuna Station."
 id: location_fortuna_station
 name: Fortuna Station
 aliases: ["3 Fortuna Station", "the Granary (aspirational nickname)"]

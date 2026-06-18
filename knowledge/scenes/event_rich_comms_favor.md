@@ -1,4 +1,5 @@
 ---
+description: "Rich uses his comms access to grant Jace a significant favor after his discharge."
 id: event_rich_comms_favor
 name: Rich's Comms Favor for Jace
 type: scene

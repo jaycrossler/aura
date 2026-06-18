@@ -1,4 +1,5 @@
 ---
+description: "Defines hard rules for how magic interacts with established physical laws and reality."
 id: spec_physics_magic_interaction
 title: Physics and Magic Interaction — Hard Rules
 status: foundational

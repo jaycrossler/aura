@@ -1,4 +1,5 @@
 ---
+description: "Technical specification detailing the physical properties and perception of the Astral dimension."
 id: spec_astral_phenomenology
 name: The Astral — Physical Properties and Perceptual Experience
 type: foundational_phenomenology
