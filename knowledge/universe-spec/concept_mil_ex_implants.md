@@ -61,19 +61,32 @@ Handles all military-network functions:
 - Identity and access management (the MilX access level system)
 - Biometric authentication and security challenges
 
-The Military OS is operated and managed by the service branch. The branch can update it, restrict it, monitor it, and deactivate it remotely. The service member cannot meaningfully modify it. This partition is the military's tool; it happens to live in the service member's head.
+The Military OS is operated and managed by the service branch. The branch can update it, restrict it, monitor it, and deactivate it remotely. The service member cannot meaningfully modify it. This partition is the military's tool; it happens to live in the service member's head.  When Jace leaves the service, his Military partition is formatted and empty - leaving more processing power for his B partition though none of the apps or military data.
 
 ### Partition B — Civilian OS
 Handles all personal and commercial functions:
 - Games, entertainment, media
 - Personal communications (non-classified)
-- Aura instance (on the civilian partition — this is where Jace installs and runs Aura)
 - Personal files, photos, video
-- Civilian app ecosystem
-- Commercial Aura skins and third-party modules
+- Civilian app ecosystem (user-installed; no bundled software)
 - Social connectivity
 
-The Civilian OS is the service member's own. The branch does not monitor it; it is firewalled from Partition A. Service members can install whatever they want, run whatever Aura modules they like, and maintain full personal digital life without it touching the military network.
+The civilian partition ships as a clean OS installation — no AI assistant, no
+pre-bundled services, no default configuration beyond the OS itself. This is the
+military approach to the civilian partition: the branch provides the hardware 
+capability, the service member configures their own environment. Consumer HUDs
+typically bundle a commercial or corporate AI as the default operating environment;
+MilX hardware does not. An open source community uses {Aura} as a platform, there
+are many competitor options.
+
+AI assistants — including {Aura} — can be installed on the civilian partition like
+any other app. A system-level installation (Nick Lee's {Aura} architecture) installs
+at compositor depth, sitting between the OS and all apps, with access to all sensor
+inputs and processing capacity. This is different from a standard app installation
+and requires explicit user authorization at system level.
+
+Jace's civilian partition, post-discharge, is bare. He has installed: drone operations
+software, technical reference libraries, games, messaging. No AI assistant. By choice.
 
 ### The Firewall
 The hardware firewall between the two partitions is intentional and robust. Data cannot cross between the partitions except through specific, logged, audited bridge functions (primarily used for things like navigation — a civilian map showing the same territory a classified drone feed covers). This separation protects military network integrity and service member privacy simultaneously.
