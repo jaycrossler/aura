@@ -104,6 +104,44 @@ As the Scar continues clearing, the threats become intelligent.
 
 **Intelligence within Tier 3:** Some of the active fauna show behavior patterns in later encounters that suggest coordination — particularly Memory Leeches. This will not be comfortable to think about.
 
+## Tier 4 — Outsider Entities
+
+Sentient beings from beyond the Scar boundary operating under their own protocols.
+Two distinct factions are established in Arc 2 with fundamentally different threat
+profiles.
+
+### Tier 4A — The Woven (Kael's Civilization)
+**Threat profile:** Observational, protocol-driven, not immediately hostile. Standard
+protocol for unnetworked populations is assessment followed by absorption negotiation.
+Will negotiate, at least nominally. The nominal negotiation can become absorption
+pressure. Time works against humanity in this framework.
+
+**Key distinction from Tier 4B:** The Woven's protocol includes a contact and
+communication phase. This creates the possibility of relationship, influence, and
+the kind of misrepresentation Kael engages in on humanity's behalf.
+
+**Representative individual:** Kael (Arc 2).
+
+### Tier 4B — The Bloom
+**Threat profile:** Classification-and-absorption doctrine with no negotiation phase.
+An unnetworked population of this size is, in their framework, unclaimed resource.
+Standard protocol proceeds directly from classification to integration. They have
+done this before. It has worked before.
+
+**Physical threat level:** Very high. Force-discipline Will use. Very hard to kill
+(bark-armor, regrowth). Do not sleep. Can operate in vacuum with personal environmental
+generation. Hate fire — this is exploitable.
+
+**Key distinction from Tier 4A:** The Bloom do not have a negotiation phase. Contact
+means classification, which means absorption has begun. Every interaction with them is
+happening inside their protocol, not outside it.
+
+**Representative group:** The Bloom scouts who kill Kael and take Jace prisoner in
+Arc 2.
+
+**Critical vulnerability:** They have no concept of recording technology. {Aura}
+recording everything during imprisonment is not in their threat model.
+
 ---
 
 ## The Escalation Rule

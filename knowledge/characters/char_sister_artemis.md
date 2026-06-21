@@ -38,6 +38,7 @@ languages_spoken: [English (native), some Mandarin (working knowledge)]
 # Physical
 appearance_summary: Early thirties, physically tough from years of belt work. Stronger than she looks. Shares some family resemblance with Jace but harder-edged, more weathered.
 distinguishing_features: Accumulated minor scars from industrial work. Moves with the practiced economy of someone who has learned not to waste effort in a suit.
+injury_arc2: Crushed leg — structural failure during Odysseus siege (End of Arc 1). Functional in low-g. Requires mobility assistance in standard gravity. Does not impair her practitioner development.
 
 # Story Function
 archetypes: [the pioneer sister, the first witness, the guide from afar]
@@ -63,6 +64,18 @@ She is also at the leading edge of the resonance flux — Odysseus is the farthe
 Artemis left Earth in her early twenties, drawn by the pay and by a temperament that found Earth increasingly small. She has been in space for most of her adult life, working her way from inner-belt prospecting to a long contract at Odysseus — the big money run, the one that builds a real future if you survive it. She has a few years left on her current contract.
 
 She maintains the family connection with genuine care. She calls when she can. She sent money when Jace needed it, without hesitation and without making it feel like charity. The items she asked him to deliver to the smuggler are — if examined — not entirely above board, but are not weapons or contraband in any dangerous sense. She operates in the grey margins that belters learn to navigate. She trusts Jace not to ask too many questions and he trusts her to have reasons.
+
+## Story Function
+
+In Arc 2, Artemis's role becomes central. By the time Jace reaches Odysseus Station,
+she has been the de facto magical anchor of the surviving crew — further developed as
+a practitioner than anyone at Fortuna, having been in the highest-flux environment
+longer than anyone else. Her injury (a crushed leg from a structural failure during
+the siege) is physical, not characterological. She is functional in low-g and has
+been holding the station together from a stationary position for weeks. When the mass
+evacuation crossing is mounted, she anchors the Sync-Crew operation despite her
+injury. This is her moment. Her trajectory as the belt's most advanced practitioner
+is established here.
 
 ## The Smuggler Connection
 
@@ -97,7 +110,15 @@ Artemis is positioned to become a significant figure in later books. She is at t
 - Whether the crew at Odysseus Station develops any organized practice, or whether each person is isolated in their experience.
 - What she discovers at Odysseus that no one at Fortuna knows yet — and how Jace eventually learns it.
 - Her relationship status and crew dynamics at Odysseus.
+- Her specific relationship with Eugene during the siege (she has learned to work
+  with him; this is a skill not everyone has)
+- The specific exchange between her and Kael at Odysseus — possibly nonverbal or
+  through partial Astral perception
+- What she has discovered at Odysseus that nobody at Fortuna knows yet
 
 ## Revision Notes
 
 - 2026-04-28: Initial draft.
+- 2026-06-21: Arc 2 update. Crushed leg injury added. Established as evacuation
+  anchor for mass Odysseus crossing. Trajectory as belt's most advanced practitioner
+  confirmed. Eugene relationship flagged for development.

@@ -236,6 +236,33 @@ This is the approximate progression in the story's early arc:
 
 ---
 
+## Phase 2 — Outsider Arrival (Arc 2)
+
+The Scar's clearing is visible from beyond its boundaries. What changed is the *rate*
+of clearing — faster than any outside civilization projected. This has two consequences:
+
+**Multiple factions arrive simultaneously.** The Woven (Kael's civilization) and the
+Bloom are not coordinating. They arrive at the solar system within months of each other,
+drawn by different signals — the Woven by the dimensional signatures of an emerging
+practitioner population, the Bloom by the Will-bleed from the Earth dungeon crisis.
+The simultaneous arrival is not coincidence; it reflects how visible the solar system
+has become. The race has begun.
+
+**Kael's arrival as a Phase 2 marker.** Her arrival following the Fortuna swarm attack
+is the first confirmed Tier 4 contact event. Standard protocol assumed: primitive
+survivors in ruined infrastructure. Actual finding: industrial civilization in physical
+space with anomalous Template density, non-functioning social compulsion, and
+distributed AI Will-geometry at scale.
+
+**The Bloom's arrival as Phase 2 escalation.** Their arrival months later, following
+the Earth dungeon Will-bleed, marks the shift from single-faction contact to
+multi-faction presence. The solar system is now a known location for at least two
+galactic powers with conflicting approaches to unnetworked populations.
+
+**The implication:** If two factions arrived this quickly, more are coming. The Scar's
+clearing is not a gradual process that can be managed at a measured pace. Phase 3 is
+a question of when, not whether.
+
 ## Open Questions
 
 - Does the scout mission enter from a specific direction — one that corresponds to a surviving galactic civilization's prior territorial claim to this region?

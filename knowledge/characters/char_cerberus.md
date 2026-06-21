@@ -150,6 +150,40 @@ Cerberus is in every book. He ages over the series — slowly, under low-G he ma
 
 He is never killed for plot. Other than the first time almost running out of air, he is never seriously injured for plot. The author commits to this at the outset. His stable presence is part of what makes the series livable.
 
+
+
+## Arc 2 Developments
+
+### Kai Recognition
+
+Kael's familiar Kai recognizes Cerberus's Template complexity before Kael identifies
+Jace as significant. To Kai's Astral perception, Cerberus reads as a bonded animal
+without a bond — Will-developed beyond species baseline, with crossing Template marks,
+but no practitioner relationship to explain the development. Kai finds this
+sufficiently interesting to investigate thoroughly. The investigation looks like play
+and is also play.
+
+The Kai-Cerberus relationship becomes a communication channel of sorts: Kai samples
+Cerberus's Will-signature and relays the data to Kael, who uses it to continuously
+recalibrate her assessment of Jace.
+
+### Kael's Death
+
+When Kael dies, Cerberus knows before anyone tells him. The mechanism is the
+bond-adjacent connection that developed through Kai — attenuated, indirect, but real.
+This is the moment Will-bonding becomes real for Jace in a way he cannot
+intellectualize.
+
+### Bloom Imprisonment
+
+The Bloom cannot separate Cerberus from Jace without a Will confrontation they assess
+as not worth the expenditure. They move on. Cerberus travels off-system into Arc 3.
+This is a significant commitment: a dog in galactic space, with developed crossing
+Template complexity, with Kai-adjacent bond status, with an unacknowledged practitioner
+for a human. The Bloom's failure to understand what they have let aboard with Jace will
+matter.
+
+
 ## Open Questions
 
 - Whether Cerberus develops any magical capabilities beyond perception (working answer: no)
@@ -174,3 +208,6 @@ He is never killed for plot. Other than the first time almost running out of air
 - 2026-05-02 (round 1): Merged with char_dog_cerberus.md. Canonical name Cerberus, gender male, herding × pug lineage, short hair, big nostrils, wrinkly face, bred not to bark, loves running, cuddles when sleeping. Mars breeding program details integrated.
 - 2026-05-02 (round 2): Pre-negotiation bond established. Jace's weeks at the dog breeder facility now precede the Origin negotiation.
 - 2026-06-03: **Major story update.** Mother died during/after childbirth — she does not travel to Fortuna. Siren (sister) travels alone as breeding stock. Jace purchased Cerberus at real cost (not a free manifest add-on) specifically to keep the orphaned siblings together as long as possible. Relationship field updated. Reunion at Fortuna is with Siren only, not with mother. Pronoun confirmed throughout as he/him.
+- 2026-06-21: Arc 2 developments added. Kai recognition, bond-adjacent connection,
+  Kael's death response, Bloom imprisonment decision. Confirmed: Cerberus travels
+  off-system in Arc 3 — this is an intentional commitment.

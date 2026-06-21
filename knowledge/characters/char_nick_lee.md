@@ -60,6 +60,15 @@ Nick Lee is a Korean AI engineer and programmer at Fortuna Station — developer
 
 He is not primarily a practitioner. He is the person who builds the tools that let practitioners function, scale, and coordinate. He is magic's infrastructure. He hates being called that. It's accurate.
 
+Nick is not the Aura engine's original architect. He knows this, but feels his work is
+the most important contributions to the Aura system and what really matters. He has been
+building on top of an anonymous codebase for years, attributing it to "the community,"
+not knowing that its author is a large, belligerent scientist named Eugene currently
+surviving at Odysseus Station. Eugene is vaguely aware that someone named
+something-like-Nick has been doing useful wiring work with the code. He has not
+connected this to Nick specifically. When they meet during the Odysseus rescue mission
+in Arc 2, the recognition is asymmetrical in every possible way.
+
 ## What Aura Actually Is
 
 Aura is not a single AI. It is a curated stack of approximately a hundred and fifty interlocking components, each of which can be swapped, updated, or replaced:
@@ -163,6 +172,12 @@ Sophia discovers. Jace builds. Nick distributes. This is a complete loop.
 - Whether his personal archive is ever endangered, captured, or destroyed
 - Family situation and personal history
 - His apprentices and their eventual roles
+- His first reaction on learning Eugene exists (the person who wrote *that*) and that
+  Eugene calls him "Neil"
+- Whether the rivalry ever becomes collegial, or whether they remain in permanent
+  asymmetric tension where Nick cares and Eugene forgets his name
+- The specific async callback problem in the Will-detection module that Eugene identifies
+  immediately and Nick has been working around without knowing it
 
 ## Cross-References
 
@@ -171,9 +186,15 @@ Sophia discovers. Jace builds. Nick distributes. This is a complete loop.
 - See [[tech_aura_ai]] for the Aura stack architecture he maintains
 - See [[spec_crossing_mechanics]] for the AI Will discovery arc he advances
 - See [[location_fortuna_station]] for his physical base
+- `char_eugene` — the Aura core architect; the complicated professional relationship
 
 ## Revision Notes
 
 - 2026-04-29: Initial drafts as separate placeholder files: char_aura_engineer.md (the Aura builder) and char_jace_best_friend.md (the gaming friend). Both TBD on name and identity.
 - 2026-06-17: Added the Helena Aura-flatline clue (clean mid-record silence = crossing signature) and the Falcon sensor-anomaly thread, as two of the correlations feeding Nick's "it's detecting a real phenomenon" articulation.
 - 2026-06-03: Merged into single canonical file. Name confirmed: Nick Lee, Korean, AI engineer and programmer. Confirmed as both the Aura developer and Jace's gaming-transit friend — same person. Full background, discovery arc, three-person dynamic, open-source decision arc. Files char_aura_engineer.md and char_aura_engineer_TBD.md and char_jace_best_friend.md are superseded by this file.
+- 2026-06-21: Arc 2 update. Eugene introduced as Aura core engine author (Option A
+  resolution). Nick's expertise remains real and canonical; he built the infrastructure
+  stack; Eugene built the foundation Nick didn't know had an author. Eugene dynamic
+  established: always shrugs off Nick's work as inconsequential, never remembers Nick's
+  name correctly.
