@@ -6,6 +6,9 @@
     - core-plugins.json
     - workspace.json
 - _index.md
+- arcs/
+    - arc_01_falcon_and_fortuna.md - name: "Arc 1 — The Falcon and Fortuna"; id: arc_01_falcon_and_fortuna; status: draft; updated: 2026-06-21; type: arc; description: "Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into a station already under Astral pressure, the discovery of the Never-Never, first crossings with Sophia and Cerberus, the open-source decision, and the closing swarm attack that announces something new has arrived."
+    - arc_02_woven_and_unbound.md - name: "Arc 2 — The Woven and the Unbound"; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-21; type: arc; description: "First contact with a galactic scout, dungeon emergence on Earth and Mars, the Odysseus rescue mission, and the arrest of Jace and Kael by rival outsider powers."
 - build_tree.py
 - characters/
     - char_cerberus.md - name: Cerberus; id: char_cerberus; status: alive; description: "Character profile for Cerberus, a Mars-bred companion dog to Jace Apollo."
@@ -34,16 +37,21 @@
     - voice_char_jace_apollo.md - id: voice_char_jace_apollo; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: "Detailed vocal and speech pattern profile for character Jace Apollo Grant."
     - voice_char_lt_rich_cullivan.md - id: voice_char_lt_rich_cullivan; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: "Detailed voice profile for Lt. Rich Cullivan, including emotional and situational speech patterns."
 - factions/
+    - faction_anzu_clades.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
     - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; updated: 2026-04-28; type: distributed_settlement_network; description: "Describes the loose network of mining and habitation stations in the asteroid belt."
+    - faction_fey_clients.md - name: The Fey Client-Swarms; id: faction_fey_clients; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
     - faction_galactic_species_index.md - name: Nearby Galactic Civilians — Species Index; id: faction_galactic_species_index; status: canon; updated: 2026-06-21; type: faction_index; description: >
     - faction_galactic_will_networks.md - name: Galactic Will-Network Civilizations; id: faction_galactic_will_networks; status: incoming_threat_and_contact; updated: 2026-05-31; type: faction_category_foundational; description: "Describes the common structural features and contact approach of galactic Will-Network civilizations."
+    - faction_long_soverignties.md
     - faction_mars_other_settlements.md - name: Other Mars Settlements (Overview); id: faction_mars_other_settlements; status: active; updated: 2026-04-28; type: faction_collection; description: "Overview of non-American Mars factions including China and India settlements."
     - faction_megacorps.md - name: The Megacorporations; id: faction_megacorps; status: active; updated: 2026-04-28; type: corporate_consortium; description: "Overview of dominant megacorporations controlling solar system infrastructure and power."
     - faction_mirror_crowned.md - name: The Mirror-Crowned; id: faction_mirror_crowned; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
     - faction_naga_houses.md - name: The Naga Houses; id: faction_naga_houses; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
     - faction_origin_industries.md - name: Origin Industries; id: faction_origin_industries; status: active, dominant; updated: 2026-04-30; type: megacorporation; description: "Description of Origin Industries, a dominant solar system logistics megacorporation."
+    - faction_outsider_scouts.md - name: The Woven; id: faction_outsider_scouts; status: background_arc2_contact; updated: 2026-06-21; type: faction_outsider_species; description: >
     - faction_raksha_courts.md - name: The Raksha Courts; id: faction_raksha_courts; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
-    - faction_remaining_species.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
+    - faction_the_bloom.md - name: The Bloom; id: faction_the_bloom; status: active_antagonist_arc2; updated: 2026-06-21; type: faction_outsider_species; description: >
+    - faction_titan_forge.md - name: The Titan-Forge Lithoids; id: faction_titan_forge; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
     - faction_united_states_mars.md - name: The United States of Mars; id: faction_united_states_mars; status: active; updated: 2026-04-28; type: political_state; description: "Political profile detailing the United States of Mars as a new American state."
     - faction_vetala_residua.md - name: The Vetala Residua; id: faction_vetala_residua; status: background_arc3; updated: 2026-06-21; type: faction_outsider_species; description: >
 - livestock/
@@ -138,7 +146,6 @@
     - magic-system-template.md - name: [Magic System Name]; id: magic_[unique_slug]; type: [innate | learned | external | divine | technological | hybrid]; description: "Template for defining a comprehensive fictional magic system's rules and lore."
     - technology-template.md - name: [Technology Name]; id: tech_[unique_slug]; status: [emerging | mainstream | declining | obsolete | banned | classified]; type: [propulsion | weapon | medical | computing | communication | construction | life_support | augmentation | infrastructure | other]; description: "Template for detailing a fictional piece of advanced technology's specifications and history."
 - timeline/
-    - arc_02_woven_and_unbound.md - name: "Arc 2 — The Woven and the Unbound"; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-21; type: arc; description: "First contact with a galactic scout, dungeon emergence on Earth and Mars, the Odysseus rescue mission, and the arrest of Jace and Kael by rival outsider powers."
     - outbreak_timeline.md - name: The Outbreak — Chronological Timeline of Magic's Return; id: outbreak_timeline; status: working draft — core phases established; some details TBD; updated: 2026-05-02; type: timeline; description: "Chronological timeline detailing the gradual return and manifestation of magic in space."
     - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); updated: 2026-05-02; type: chronology_index; description: "Chronological index mapping all scenes, dates, and character continuity for the book's timeline."
     - timeline_book01_incursions.md - name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helena); id: timeline_book01_incursions; status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md; updated: 2026-06-17; type: timeline; description: "Timeline detailing events during the Falcon transit, covering plot crises and character arcs."
@@ -156,6 +163,6 @@
     - spec_belt_transport_and_economy.md - name: Frontier Belt Transport System and Economy; id: spec_belt_transport_and_economy; updated: 2026-06-16; type: universe_spec; description: "Details the modular transport system and economy of the asteroid belt."
     - spec_crossing_mechanics.md - name: Dimensional Crossing — Costs, Accidents, and the AI Discovery; id: spec_crossing_mechanics; status: canonical; updated: 2026-05-31; type: foundational_mechanics; description: "Details the mechanical costs and limitations of traversing dimensions in the Never-Never."
     - spec_dungeon_systems.md - name: Dungeon Systems — Architecture, History, and Modern Behavior; id: spec_dungeon_systems; status: canon; updated: 2026-06-21; type: universe_spec; description: >
-    - spec_scar_clearing_mechanics.md - name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol; id: spec_scar_clearing_mechanics; status: canonical; updated: 2026-05-31; type: foundational_cosmology_detail; description: "Details the dimensional instability, clearing mechanics, and membrane model of The Scar."
+    - spec_scar_clearing_mechanics.md - name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol; id: spec_scar_clearing_mechanics; status: canonical; updated: 2026-06-21; type: foundational_cosmology_detail; description: "Details the dimensional instability, clearing mechanics, and membrane model of The Scar."
     - spec_threat_escalation.md - name: Astral Threat Escalation — The Leveling Arc; id: spec_threat_escalation; status: working draft; updated: 2026-06-03; type: narrative_mechanics; description: "Describes the escalating threat level in the Astral dimension based on human magical capability."
     - spec_will_bonded_animals.md - name: Will-Bonded Animals — Universal Law and Mechanics; id: spec_will_bonded_animals; status: canon; updated: 2026-06-21; type: universe_spec; description: >

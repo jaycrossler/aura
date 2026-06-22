@@ -5,7 +5,7 @@ name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol
 type: foundational_cosmology_detail
 status: canonical
 canonical: true
-last_updated: 2026-05-31
+last_updated: 2026-06-21
 ---
 
 # The Scar — Clearing Mechanics and the Membrane Model
@@ -284,3 +284,4 @@ a question of when, not whether.
 ## Revision Notes
 
 - 2026-05-31: New file. Establishes the Scar as a patchy healing membrane rather than a wall; introduces breach zone mechanics; creates the first catalogue of Scar-specific fauna with story functions; establishes the God-Scout protocol and the discovery moment.
+- 2026-06-21: Added Arc 2 tie-ins

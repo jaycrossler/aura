@@ -176,8 +176,7 @@ Sophia discovers. Jace builds. Nick distributes. This is a complete loop.
   Eugene calls him "Neil"
 - Whether the rivalry ever becomes collegial, or whether they remain in permanent
   asymmetric tension where Nick cares and Eugene forgets his name
-- The specific async callback problem in the Will-detection module that Eugene identifies
-  immediately and Nick has been working around without knowing it
+- The specific async callback problem in the Will-detection module that Eugene identifies immediately and Nick has been working around without knowing it
 
 ## Cross-References
 
@@ -186,7 +185,7 @@ Sophia discovers. Jace builds. Nick distributes. This is a complete loop.
 - See [[tech_aura_ai]] for the Aura stack architecture he maintains
 - See [[spec_crossing_mechanics]] for the AI Will discovery arc he advances
 - See [[location_fortuna_station]] for his physical base
-- `char_eugene` — the Aura core architect; the complicated professional relationship
+- See [[char_eugene]] — the Aura core architect; the complicated professional relationship
 
 ## Revision Notes
 
