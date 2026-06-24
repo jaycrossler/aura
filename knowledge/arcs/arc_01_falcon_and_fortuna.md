@@ -34,7 +34,19 @@ These must be demonstrably true by arc close:
 - [ ] The open-source decision with Nick is made — {Aura} becomes the belt's distributed magic-interface layer
 - [ ] The swarm attack at Fortuna closes the arc with genuine danger and the sense that something much larger is arriving
 - [ ] {Aura}, {Alex}, and other AI systems appear with `{}` braces consistently throughout
-
+- [ ] Jace's Astral vehicle experimentation subplot runs as a sustained background
+  thread through the Fortuna section — iterative, failure-heavy, ultimately successful
+- [ ] The tau snap mechanic, distance² ratio, and atomic weight² crossing cost rule
+  are all discovered empirically by Jace and Sophia through experimentation, not
+  given as exposition
+- [ ] The LOX eyebrow incident occurs and is played as comedy with genuine stakes —
+  establishes the self-destruction arc of aluminum/hydrogen rocket engines
+- [ ] Jace's drone survey using Astral N-1 perception leads directly to the platinum
+  asteroid target already referenced in subsequent arcs
+- [ ] The Falcon swarm rescue scene earns Maureen's trust — her willingness to lead
+  the official rescue mission to Métis is grounded here
+- [ ] The first successful cross-dimensional machinery transport (machine parts through
+  the Astral) is demonstrated and its implications recognized
 ---
 
 ## Emotional Arc — Reader's Journey
@@ -81,6 +93,7 @@ Nick Lee on Fortuna follows the *Falcon*'s pig-cam like a nature documentary. He
 | What is Sylvester actually asking Jace to do? | Partial | The arrangement is vague by design |
 | What is the swarm? Where did it come from? | Open — carries into Arc 2 | Kael knows; the humans don't |
 | What is Kael? | Open — carries into Arc 2 | Arc 1 closes before translation begins |
+| What are the drone survey coordinates worth? | Open — carries forward | Jace has found something significant and filed it; it resurfaces later |
 
 ---
 
@@ -96,6 +109,12 @@ Nick Lee on Fortuna follows the *Falcon*'s pig-cam like a nature documentary. He
 | {Aura}'s anomalous behavior near Astral zones | Fortuna scenes | Foreshadows AI Will generation — pays off in Arc 2+ |
 | The plumbing crisis contamination | Ch02 | Jace wins but creates a lasting cost; establishes that his solutions always have consequences |
 | Mei's very specific silences | *Falcon* transit | She is listening for things; Jace doesn't notice yet |
+| Jace loses a metal tool through the Astral — it snaps and is gone | Early vehicle experiments | Establishes tau snap and dropped-object loss before it matters at scale in Arc 2 |
+| The tau snap physical sensation described as a slap | Vehicle experiment scenes | Kael recognizes what he's describing in Arc 2 — she knows this sensation instantly |
+| Jace notes aluminum is "cheap" to cross, iron is "expensive" | Experiment iteration scenes | Seeds the atomic weight rule that Sophia later formalizes mathematically |
+| The eyebrows incident — played for comedy | LOX rocket prototype scene | Jace tells this story to Kael in Arc 2; she does not find it funny; he does |
+| Hydrogen canisters crossing easily, then pumped into iron storage | Fuel logistics scenes | Jace's solution to dimensional economics; Kael notices this approach in Arc 2 |
+| The platinum asteroid survey data — Jace keeps the coordinates | Drone survey scene | Becomes a target in later arcs; the discovery is not immediately acted on |
 
 ---
 
@@ -182,6 +201,110 @@ Nick Lee on Fortuna follows the *Falcon*'s pig-cam like a nature documentary. He
 
 ---
 
+### Scene 1-07b — First Vehicle Experiments (Distributed — Multiple Small Scenes)
+
+**Must accomplish:**
+1. Jace attempts to bring tools through the Astral and loses several to tau snap —
+   the loss is annoying and instructive, not dramatic; he figures out what happened
+   through process of elimination
+2. The tau snap is experienced physically before it's understood intellectually —
+   first as a mysterious slap sensation when he stops moving, then as the explanation
+   for where his wrench went
+3. The distance² ratio is derived empirically: he walks a measured distance in the
+   Astral, crosses back, checks his physical displacement — the math is surprising
+   and he runs it twice before trusting it
+4. Sophia independently has data consistent with distance², which they combine;
+   their collaboration is productive but neither is purely right alone
+
+**Must NOT do:**
+- Deliver the mechanics as exposition — every rule Jace learns he learns by breaking
+  something or losing it
+- Make the discoveries feel tidy — the first few experiments produce confusing results
+  before the pattern emerges
+
+---
+
+### Scene 1-07c — The Atomic Weight Problem
+
+**Must accomplish:**
+1. Jace attempts to bring progressively heavier metal pieces through the Astral —
+   the cost difference between aluminum and iron is felt as fatigue and increasing
+   difficulty, not as a number
+2. He arrives at the atomic weight² hypothesis through a process of elimination that
+   Sophia immediately sees as consistent with her Will-cost measurements — it is a
+   collaborative "oh" moment
+3. The practical conclusion is immediate: hydrogen fuel is almost free to cross; iron
+   storage canisters are expensive; the obvious solution is to cross hydrogen directly
+   and pump it into in-situ storage
+
+**Must NOT do:**
+- Make Sophia's mathematical formalization happen in this scene — she writes it up
+  later; here it is the raw intuition
+- Skip the moment of Jace realizing he has discovered something about dimensional
+  physics, not just engineering
+
+---
+
+### Scene 1-07d — The LOX Eyebrow Incident
+
+**Must accomplish:**
+1. The incident is specific: Jace builds a small LOX/hydrogen rocket prototype to test
+   dimensional reaction under combustion, something leaks or misfires, eyebrows are
+   lost, there is a genuine moment of danger before it becomes funny
+2. He learns something real from it: LOX handling in the Astral has specific failure
+   modes distinct from physical space; the aluminum chamber ablates faster at
+   dimensional crossing stress; cryogenic propellants and dimensional gradients do
+   not mix kindly
+3. The comedy is in the telling afterward — he files the incident as a data point
+   and moves on; Sophia notes it in her journal with a sketch
+
+**Must NOT do:**
+- Make it life-threatening — it is scary for about four seconds and then embarrassing
+- Lose the engineering lesson in the comedy — the eyebrows are funny; the ablation
+  data is real
+
+---
+
+### Scene 1-07e — Drone Survey and Platinum Target
+
+**Must accomplish:**
+1. Jace deploys hydrogen-powered drones through the Astral using N-1 perception as
+   a prospecting tool — the drone flies in physical space while Jace reads its
+   dimensional position and sees through the asteroid's cross-section simultaneously
+2. He identifies the platinum-rich target through what is effectively magical mineral
+   survey — but experienced entirely as engineering problem-solving; he is not aware
+   that he is doing something no human has ever done
+3. The coordinates are logged. The find is significant. Neither Jace nor Sophia acts
+   on it immediately — there are more pressing things — but the reader understands
+   this is valuable and that Jace has created something new
+
+**Must NOT do:**
+- Have Jace understand the full scale of what he's discovered — keep it grounded and
+  practical in his register
+- Rush to the payoff — the platinum target is a planted seed, not a resolved plot
+
+---
+
+### Scene 1-07f — Saving the Falcon (Swarm Precursor)
+
+**Must accomplish:**
+1. A swarm attack threatens the Falcon during one of Jace's later test runs — partial
+   swarm, enough to be dangerous, not the full Arc 1-closing event
+2. Jace responds with his current vehicle/drone capability — improvised, imperfect,
+   but effective; the drones become weapons of opportunity
+3. Maureen sees what he did and why it worked — she does not thank him effusively;
+   she adjusts her assessment of him in a way that is visible to the reader but not
+   stated; the trust that enables her to volunteer for the Métis mission later is
+   grounded here
+4. The swarm retreats; neither Jace nor Maureen fully understands what the swarm was
+
+**Must NOT do:**
+- Make this the full swarm attack — that is Scene 1-10
+- Let Maureen's trust-shift be explicit dialogue — it is shown through her behavior
+  in subsequent scenes
+
+---
+
 ### Scene 1-08 — The Open-Source Decision
 
 **Must accomplish:**
@@ -239,7 +362,14 @@ Reviewer checklist — yes/no against finished arc:
 - [ ] {Aura}, {Alex}, {SpoX}, {Chorus}, {Penny}, {Seek}, {Misty} all appear with `{}` braces
 - [ ] No magic ability has a typographic marker — plain prose throughout
 - [ ] Mei's intelligence role is never stated — only implied through behavior
-
+- [ ] The tau mechanic, distance² ratio, and atomic weight² rule are all derived
+  through experimentation — never stated as given facts
+- [ ] The LOX eyebrow incident reads as comedy but contains real engineering data
+- [ ] Jace's drone survey is shown as engineering problem-solving, not as magic use
+- [ ] Maureen's trust shift after the Falcon rescue is visible in her behavior,
+  not in her words
+- [ ] The hydrogen preference emerges as an obvious practical conclusion, not a
+  design choice imposed from outside
 ---
 
 ## Cross-References

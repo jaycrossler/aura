@@ -47,6 +47,11 @@ See [Sylvia Station](location_sylvia_station.md)
 Farthest permanent human habitation. Multinational. Artemis Grant stationed here. Highest flux exposure. First and most advanced magical emergence. Communications degraded earliest.
 See [Odysseus Station](location_odysseus_station.md)
 
+### Metis Station — 9 Metis (C-type, inner belt, ~2.4 AU)
+Small ship-building station near Fortuna. Run by Dr. Eugene Hart.
+See [Metis Station](location_metis_station.md)
+
+
 ## Travel Times
 
 - **Mars to Fortuna or Juno (nuclear ferry):** ~4-4.5 months outbound.

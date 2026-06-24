@@ -1,103 +1,117 @@
 ---
-description: "Description of a remote Jupiter L4 station and its unique resource/flux significance."
-# Identity
 id: location_odysseus_station
 name: Odysseus Station
-aliases: ["143 Odysseus Station", "the Trojan", "the Far Post"]
-type: station
-parent_location: location_asteroid_belt_overview
-celestial_body: 143 Odysseus (D-type Jupiter Trojan, ~125km diameter, Jupiter L4)
-
-# Position
-region: Jupiter L4 Lagrangian point (~5.2 AU from Sun)
-asteroid_class: D-type (dark, primitive composition)
-asteroid_diameter: ~125 km
-
-# Status
-status: active, remote, increasingly isolated
-era_of_relevance: story present and beyond
-founded: ~2101 (working — latest of the five stations)
-population: 80-150 (smallest major station, most remote)
-
-# Governance
-controlled_by: Mixed consortium (TBD — possibly a joint multinational mining operation)
-local_authority: Station Commander (TBD)
-
-# Connections
-travel_connections: [nuclear ferry from Mars (~8-10 months, rare runs), inter-station comms (degrading), no regular passenger service]
-strategic_significance: Farthest permanent human habitation; highest resonance flux exposure; first station to experience full magical emergence; access to Jupiter trojan resources
-
-# Cross-references
-notable_inhabitants: [char_sister_artemis]
-related_factions: [faction_belter_stations]
-related_events: [event_artemis_first_magical_incident, event_odysseus_comms_blackout]
+type: location
+status: canonical
+canonical: true
+last_updated: 2026-06-23
+cross_references:
+  - location_metis_station
+  - location_fortuna_station
+  - faction_china_belt_operations
+description: >
+  Jupiter L4 observation and science station. Retained as canon but no longer
+  Artemis Grant's posting. Site of the early flux anomalies that triggered
+  China's withdrawal from outer belt operations. Not the Arc 2 rescue site —
+  that is Métis Station.
 ---
 
 # Odysseus Station
 
-## Summary
+## Overview
 
-Odysseus Station is anchored to 143 Odysseus, a large D-type asteroid in the Jupiter L4 trojan cluster — the leading Lagrange point sharing Jupiter's orbit, approximately 5.2 AU from the Sun. It is the farthest permanent human habitation in the solar system, the smallest of the five major belt stations, and the one most thoroughly exposed to the resonance flux.
+Odysseus Station occupies the Jupiter L4 Lagrange point, co-orbital with Jupiter
+approximately 60° ahead of the planet in its orbit. It is anchored to the Trojan
+asteroid **143 Odysseus**, from which it takes its name.
 
-Artemis Grant is stationed here. She has been here for several years. She was here first when the strange things started.
+Odysseus is a science and long-range observation post — not a shipyard, not a
+mining operation, not a hub. It exists because Jupiter's L4 provides a uniquely
+stable vantage point on the outer solar system, and because the Jovian system itself
+has become scientifically interesting in ways that observers closer to the Sun cannot
+adequately study.
 
-## Why It Exists
+It is understaffed, underfunded relative to its scientific output, and protected
+from most belt political pressures by the simple fact that nobody else wants to be
+this far out.
 
-Trojan asteroids are scientifically and economically interesting — they are thought to be primitive remnants of the early solar system, with potentially valuable volatiles and organic compounds. Jupiter's trojans represent a large population. Odysseus Station is the first permanent outpost in this region, established partly for science, partly for the long-term resource claim, and partly because someone was willing to fund an extremely long-transit mission for the right price.
+---
 
-The work is real: mining, sampling, cataloguing, refining. The pay is exceptional. The isolation is total. Supply runs from Mars take eight to ten months each way. The station is as self-sufficient as it can be made.
+## Physical Notes
 
-## The Flux
+143 Odysseus is a D-type Trojan asteroid, dark and carbon-rich, approximately
+70 × 125 km in its longest dimensions. Surface gravity is negligible. The station
+is surface-anchored by tether and cleat rather than by mass.
 
-143 Odysseus is at 5.2 AU. The resonance flux front, spreading inward from the outer system, reached Odysseus well before it reached the inner belt. The small crew here has been living in meaningful flux exposure for longer than anyone closer to the Sun — which means Odysseus Station is the most advanced front of magical emergence in the human solar system.
+The Jovian system's radiation environment at this distance is substantially mitigated
+but not negligible. Station shielding reflects this. Extended EVA requires attention
+to accumulated dose.
 
-The crew of Odysseus Station knows more about what is happening than anyone else. They cannot communicate it effectively — the communications degradation started here first, and the blackout will hit them first. Their knowledge is locally developing and outwardly inaccessible.
+---
 
-## The Crew
+## The Dimensional Anomaly — China's Withdrawal
 
-Eighty to a hundred and fifty people, depending on the rotation. Diverse in origin — the remote posting attracts people from many national backgrounds who are willing to commit to the isolation for the pay. Strong internal community bonds from necessity. High mutual competence. The crew is, by selection, the kind of people who chose the farthest post.
+Odysseus Station is the location where the **first systematically observed dimensional
+flux anomalies** were recorded before story start.
 
-Artemis is one of the senior miners. She has been here long enough to be trusted with the hard EVA work and the most remote claims.
+The details of what was observed are not fully public. What is known: Chinese scientific
+personnel at the station filed anomaly reports through official channels. Those reports
+were reviewed at a level above station management. China quietly reduced its personnel
+presence at Odysseus over the following months and has not returned to its prior
+staffing levels.
 
-## The Strangeness
+The working interpretation in belt gossip is that something spooked them. The more
+precise interpretation — available only to people who have read the anomaly reports —
+is that the flux signatures at Odysseus were early evidence of dimensional activity
+at the boundary of the gravity well, where the Astral thins toward Hyperspace. What
+the Chinese instruments detected they could not explain. What they chose to do with
+that inexplicable data was leave.
 
-Before the formal story begins, Odysseus Station has already had:
-- Multiple equipment events classified as "anomalous" by the station Aura.
-- At least one crewmember who appears to have developed a Sensing capability and has been quietly guiding equipment operations with it.
-- One incident that killed a worker — officially a suit failure, but the crew who were present know the seals did not fail mechanically.
-- A growing informal culture of acknowledgment — people don't say "magic," but they share notes, and everyone knows who among them "has the thing."
+This event predates the main story. It is background — but it is not forgotten by
+the people who were there, and it is not irrelevant to what comes later.
 
-The station has, in other words, already started the process that Fortuna will begin months later.
+---
 
-## "Problems on Odysseus" — The Trigger for China's Belt Withdrawal (Book 1)
+## Jovian Dimensional Properties
 
-The consortium operating Odysseus is multinational, and **Chinese interests are part of it.** As the outer-system situation deteriorates — the worker death (officially a suit failure; the present crew know the seals did not fail mechanically), escalating anomalies, and the comms degradation that hits Odysseus first — Chinese leadership reads the farthest station as a warning of something they cannot control or explain.
+The region around Jupiter clears dimensionally faster than its distance from the Sun
+alone would predict. Jupiter's magnetosphere — the most powerful in the solar system
+after the Sun — participates in the stellar exchange cycle, processing resonance flux
+and injecting dimensional efflux into the local Astral.
 
-Their response (offscreen during Book 1, felt everywhere) is to begin **withdrawing from belt operations entirely**: drawing down the Tianhe anchor at Psyche (see [[location_psyche_station]]), recalling personnel, and cancelling commitments — including the contingent of Chinese settlers booked aboard the *Falcon*. The official reason given is, vaguely, "problems on Odysseus." Within the belt this is variously read as prudence, as foreknowledge of something bad, or (wrongly) as cover for sabotage.
+The result: the dimensional terrain near the Jovian system is anomalously healthy
+compared to the broader belt. Richer in stellar efflux, more luminous in the Astral,
+with properties that experienced navigators would recognize as unusual for a system
+that has been under the Scar for three thousand years.
 
-The truth the reader can infer: Odysseus is the dark mirror, furthest along the curve, and what is happening there is the leading edge of the same emergence reaching the inner belt — not a geopolitical maneuver. China is fleeing a phenomenon, not executing a strategy. See [[timeline_book01_incursions]].
+The Chinese anomaly reports were detecting the edge of this effect without having any
+framework to interpret it.
 
-## Story Function
+This has not been studied by any human at story start. The first practitioners to
+reach the Jovian system will find something unexpected.
 
-Odysseus Station serves as a dark mirror to Fortuna — showing what Fortuna will become, further along the curve. When communications with Artemis cut out entirely, Jace doesn't know if she is alive. The reader may get glimpses through Artemis's eventual POV.
+---
 
-In later books, Odysseus Station becomes a significant location — the site of the most advanced magical practice in the solar system, a community that developed without Earth-Mars interference, and eventually a place Jace travels to find his sister.
+## Current Status
 
-## Sensory Texture
+Odysseus Station continues to operate at reduced Chinese staffing. Scientific output
+continues. The anomaly reports have not been formally reopened. The people who filed
+them have not been formally contradicted, which is its own kind of answer.
 
-- **Visual:** Dark. Even the external lights seem absorbed by the D-type asteroid's surface. The crew spend extraordinary time in EVA suits against a sky where Jupiter is visible as a bright pale disc — enormous at this distance compared to how Earth sees it.
-- **Sound:** Quieter than inner-belt stations. Fewer people. The hum of life support is more audible.
-- **Psychological texture:** A place where people have learned to trust things they cannot explain, because the alternative is going mad or going home.
+Odysseus is not where Artemis Grant works. That is **Métis Station** (~9 Metis,
+inner belt). Do not conflate these locations.
 
-## Open Questions
+---
 
-- Consortium that operates Odysseus — multinational? Corporate? This affects Artemis's employment and the station's political alignment.
-- Specific incidents at Odysseus that feed into the later story.
-- Whether the crew at Odysseus has made contact with anything in the Jupiter system that does not fit the human narrative.
-- The first crewmember at Odysseus to die of a magical accident — and whether it was the accident Artemis saw.
+## Cross-References
+
+- `location_metis_station.md` — Artemis's actual posting; Arc 2 rescue site
+- `universe-spec/spec_dimensional_travel_mechanics.md` — dimensional layer geometry
+- `universe-spec/cosmology.md` — stellar engine model, Jovian secondary clearing
 
 ## Revision Notes
 
-- 2026-04-28: Initial draft.
-
-- 2026-06-17: Added "problems on Odysseus" as the trigger for China withdrawing from belt operations (Chinese interests in the multinational consortium; flight from the emergence, not strategy).
+- 2026-06-23: Major update. Artemis Grant and all Arc 2 rescue material moved to
+  new `location_metis_station.md`. Odysseus repositioned as Jupiter L4 science
+  post, retained as the site of China's anomaly-triggered withdrawal. Jovian
+  dimensional clearing properties added from cosmology session canon. "Not the
+  Arc 2 rescue site" note added to prevent future conflation.

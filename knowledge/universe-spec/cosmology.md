@@ -1,199 +1,472 @@
 ---
-description: "Details the cosmological impact and physical effects of the supernova Vela Junior on the Never-Never."
+description: "Cosmological foundations: Vela Junior, the Scar, the resonance flood, and the Reopening."
 id: spec_cosmology
 title: Cosmology — Vela Junior, the Scar, and the Reopening
 status: foundational
 canonical: true
-last_updated: 2026-05-31
-supersedes: cosmology_2026-04-28
+last_updated: 2026-06-23
+supersedes: cosmology_2026-05-31
+cross_references:
+  - universe-spec/spec_scar_clearing_mechanics.md
+  - universe-spec/spec_crossing_mechanics.md
+  - universe-spec/spec_astral_phenomenology.md
+  - magic-systems/magic_never_never.md
+  - magic-systems/magic_will_and_templates.md
+  - universe-spec/spec_dimensional_travel_mechanics.md
 ---
 
-# Cosmology
+# Cosmology — Vela Junior, the Scar, and the Reopening
+
+---
 
 ## The Supernova: Vela Junior
 
-The event that shaped this story happened approximately 3,000 years ago: a massive stellar explosion now known to human astronomers as **Vela Junior** (RX J0852.0-4622), located approximately 800 light-years from Earth in the constellation Vela.
+The event that shaped this story happened approximately 3,000 years ago: a massive
+stellar explosion now known to human astronomers as **Vela Junior** (RX J0852.0-4622),
+located approximately 800 light-years from Earth in the constellation Vela.
 
-Vela Junior is real. Human scientists have been studying it since the late 20th century. They know it as a young supernova remnant — one of the brightest sources of high-energy X-rays and gamma rays in the sky. They have estimated its age at roughly 1,000–5,000 years and its distance at 600–900 light-years. They do not know what it did to the Never-Never.
+Vela Junior is real. Human scientists have been studying it since the late 20th century.
+They know it as a young supernova remnant — one of the brightest sources of high-energy
+X-rays and gamma rays in the sky. They have estimated its age at roughly 1,000–5,000
+years and its distance at 600–900 light-years. They do not know what it did to the
+higher-dimensional layers of reality.
 
-The physical effects of the explosion reached Earth as an unusually bright star that persisted for weeks or months — noticed and recorded in various ancient astronomical traditions as a new light in the southern sky, then fading. The physical remnant is now a diffuse expanding shell of superheated gas and a compact central remnant, still radiating intensely across the electromagnetic spectrum. Human scientists in the story period have detailed observations of it. None of their models predict what it is actually responsible for.
-
-What Vela Junior did to the Never-Never was catastrophic and nearly instantaneous on civilizational timescales.
+The physical effects of the explosion reached Earth as an unusually bright star that
+persisted for weeks or months — noticed and recorded in various ancient astronomical
+traditions as a new light in the southern sky, then fading. The physical remnant is now
+a diffuse expanding shell of superheated gas and a compact central remnant, still
+radiating intensely across the electromagnetic spectrum. None of humanity's models
+predict what it is actually responsible for.
 
 ---
 
 ## The Scale of the Disaster
 
-The Never-Never damage from Vela Junior extends approximately **1,000 light-years** in all directions from the explosion site. Within this radius:
+The dimensional damage from Vela Junior extends approximately **1,000 light-years** in
+all directions from the explosion site. Within this radius:
 
-- Every Will user lost all magical capability instantly when the shockwave reached their location.
-- Every Will-Network structure — the hierarchies of seeded Will that formed the backbone of civilizational governance, transportation, healing, and military power — collapsed simultaneously.
-- Every Template Vault dependent on network connectivity failed. The Echoes of millions of stored individuals began to degrade.
-- Every dimensional road, highway, and route within the zone was destroyed or severely damaged.
+- Every Will user lost all magical capability instantly when the shockwave reached their
+  location.
+- Every Will-Network structure — the hierarchies of seeded Will forming the backbone of
+  civilizational governance, transportation, healing, and military power — collapsed
+  simultaneously.
+- Every Template Vault dependent on network connectivity failed. The Echoes of millions
+  of stored individuals began to degrade.
+- Every dimensional road, highway, and route within the zone was destroyed or severely
+  damaged.
 
-**7 million stellar systems were affected.** Of these, approximately **7 known civilizations of significant scale collapsed entirely** — though the actual number of smaller groups, species, and communities that perished is orders of magnitude higher.
+**7 million stellar systems were affected.** Of these, approximately **7 known
+civilizations of significant scale collapsed entirely** — though the actual number of
+smaller groups, species, and communities that perished is orders of magnitude higher.
 
-Earth sits well within this zone. So do tens of thousands of other inhabited or formerly inhabited systems.
+Earth sits well within this zone. So do tens of thousands of other inhabited or formerly
+inhabited systems.
 
-From outside the zone, the surviving galactic civilizations watched their dimensional sensors go dark across a thousand-light-year sphere. They called it by many names. They assumed nothing survived.
-
----
-
-## The Scar's Interior: A Blighted Landscape
-
-The Never-Never inside the Scar is not the lush, ancient, forest-road-dreamscape landscape of the wider galactic Never-Never. It is the opposite.
-
-### What It Looks Like
-
-The interior of the Scar in the Never-Never resembles a blighted wasteland — an Upside Down. Where the wider Never-Never has the character of a dense, layered ancient forest, accumulated civilization, living ecology, and the ambient glow of accumulated Will: the Scar's interior is dead. Desiccated. Dark.
-
-The characteristic features:
-
-**Dead flora.** The Never-Never's native plant-analogues — the root networks, the memory moss, the fungal forests — are present but dead or dying. They were killed by the initial shockwave and have not regrown in three thousand years because the dimensional soil is poisoned. Their remains are everywhere: enormous desiccated trunk-structures, collapsed canopy, dried root systems that crumble to dust when touched. The landscape is a permanent autumn that never transitioned into spring.
-
-**Poisoned soil.** The dimensional substrate — the loamy residue of accumulated civilizations — is still there, but contaminated. The Scar's shockwave did not destroy the history encoded in the soil. It blighted it. The residue is still present, but toxic to Will: touching it, walking through it, attempting to draw on it produces nausea, disorientation, and in extended exposure, active harm to the practitioner's Template.
-
-**Swamp zones.** In low-lying areas of the dimensional terrain — places where the topology creates natural collection points — blighted material has accumulated into poisonous swamps. These are the most dangerous terrain features in the Scar. They concentrate toxic dimensional residue, attract the starving scavenger fauna, and produce hallucinatory effects on Will-sensitive travelers even at a distance.
-
-**Absolute darkness except at the boundary.** The ambient luminosity of the wider Never-Never comes from accumulated healthy Will residue glowing faintly. In the Scar interior, there is no healthy residue. The landscape is dark in a way that feels deliberate — a darkness that is not merely the absence of light but the presence of something that absorbs it.
-
-**Silence.** No wind-analogue. No movement of ambient dimensional currents. The landscape feels held, as if time moves differently here. In the worst zones, practitioners report that their own thoughts echo back at them — not in the way of Echoes, but as if the landscape itself has no buffer between the traveler's mind and the dimensional void.
-
-### What Lives Here
-
-Three thousand years of isolation has not left the Scar's interior empty. But what lives here is not the rich ecology of the wider Never-Never. It is scavengers and parasites that have learned to survive in a poisoned landscape.
-
-**Dimensional insects.** Small, numerous, quasi-physical organisms that resemble insects in behavior if not in biology. They have evolved to extract minimal Will from whatever source they can find — the faint ambient Will of living travelers, the poisoned residue in the soil (filtered through digestive processes that can tolerate what practitioners cannot), and each other. They are individually harmless. In swarms — and they swarm whenever Will is detected — they are a significant drain.
-
-They are always hungry. Three thousand years of near-starvation has optimized them for detecting the faintest Will signature at long range and pursuing it relentlessly. A practitioner entering the Scar is immediately visible to every dimensional insect within a substantial radius as a blazing food source in a famine landscape.
-
-**Dimensional parasites.** Larger organisms that have retreated to the swamp zones and the deepest damaged terrain. These are the ancestors of the breach-crossing fauna that appear at the Scar's boundary — the Memory Leeches, the dimensional scavengers — but in the interior, they are starved, desperate, and aggressive in ways their boundary-zone descendants are not. They are not apex predators. They are the last survivors of ecosystems that collapsed three thousand years ago, subsisting on whatever they can find.
-
-No apex predators remain in the Scar's interior. The Scar Wolves — the Template-hunters — are boundary creatures. The interior does not support them. There is not enough Will in the deep Scar to sustain a predator that hunts by Template. The apex predators of the interior died in the first centuries after the Scar formed.
+From outside the zone, surviving galactic civilizations watched their dimensional sensors
+go dark across a thousand-light-year sphere. They called it by many names. They assumed
+nothing survived.
 
 ---
 
-## Never-Never Geometry: Two Regimes
+## How the Scar Works — A Two-Part Mechanism
 
-### Within Gravity Wells (Dist²)
+The Scar is not a single phenomenon. It was created by two simultaneous effects of the
+supernova, which are distinct in kind, in timescale, and in what they damaged.
 
-Within the gravitational influence of a significant mass — a star, a large planet — the Never-Never's compression geometry follows approximately a **distance-squared relationship** with physical space.
+Understanding this distinction matters for understanding why the Scar is healing the
+way it is — and what lies underneath as it clears.
 
-The gravitational boundary is not a sharp line. For the Sun, it corresponds roughly to the **asteroid belt distance** — approximately 2-4 AU. For a planet like Jupiter, the zone extends to approximately its Hill sphere. For smaller bodies, the zone is proportionally smaller.
+### Effect 1 — The Dimensional Shockwave (instantaneous)
 
-Within a gravity well's zone:
-- A traveler on foot can cross solar-system scale distances in roughly **one month** — Sun to outer planets.
-- The compression is dramatic but not infinite. A planetary distance that takes months by conventional spacecraft takes days to weeks by Never-Never.
-- Travel is "anchored" — the traveler has a stable reference frame defined by the mass they are moving within.
+The supernova released an instantaneous pulse of energy that propagated through the
+Astral and Hyperspace layers at near-light speed, arriving at each stellar system when
+its physical-space light arrived.
 
-**The stretch effect.** The geometry within a gravity well is not uniform even in the Never-Never. As a traveler moves from entry point to exit point, the dimensional space shifts and bends differently depending on where in the gravity well they entered and where they intend to exit. Two travelers entering the same Never-Never zone from different physical-space positions will experience different topologies — the landscape looks different to each of them, routes that work for one may not work for the other. This is disorienting by itself. In the Scar, where the landscape is blighted and featureless, it becomes genuinely mind-boggling — a traveler can lose their spatial reference entirely.
+The shockwave was selective in its destruction. It targeted the most energetically
+significant features of the dimensional substrate — the nodes, junctions, and roads
+of pre-Scar civilizational infrastructure, which had the highest Will investment and
+therefore the highest dimensional energy density. These absorbed the shockwave's energy
+catastrophically and were destroyed. The shockwave shattered glass but left stone.
 
-Navigation within a gravity well's Never-Never zone requires understanding this stretch effect. Pre-Scar navigators trained extensively for it. Human practitioners discovering it for the first time will have no such training.
+**What was destroyed:** Engineered structures. Roads, Template Vaults dependent on
+network connectivity, Will-Network node architecture, the accumulated infrastructure
+of thousands of years of dimensional civilization.
 
-### Outside Gravity Wells (Dist³)
+**What survived:** The natural substrate. The gravitational impressions of stellar
+masses in the Astral and Hyperspace, the terrain topology shaped by billions of years
+of matter and energy, the ancient roads buried under later construction. The substrate
+itself — the dimensional equivalent of bedrock — was cracked in some places near the
+epicenter, but mostly intact. The infrastructure built on top of it was gone.
 
-Beyond the gravitational boundary — in the open space between stars — the geometry shifts to a **distance-cubed relationship**.
+**Implication:** The Scar is not a wound in the fabric of reality. The fabric survived.
+What was lost was everything built on top of it. As the Scar clears, that substrate
+re-emerges — including buried remnants of pre-Scar infrastructure that were protected
+underneath later construction when the shockwave hit.
 
-The compression is dramatically more powerful:
-- The nearest star system (Proxima Centauri, ~4.2 light-years away) is approximately **one week's walk**.
-- The edge of the Scar zone (~1,000 light-years from Vela Junior) is approximately **one month's walk** from the solar system through the Scar.
-- Interstellar travel is genuinely possible — but remains difficult, dangerous, and non-trivial.
+### Effect 2 — The Resonance Flood (persistent, ongoing)
 
-However: the dist³ regime is only safely accessible from outside a gravity well. A traveler must exit the gravity well zone before shifting into the higher-order geometry. The shift is perceptible — it is not seamless. The landscape changes, the compression deepens, and the anchoring effect of the gravity well disappears.
+The supernova also released an enormous quantity of exotic high-energy particles — here
+called **resonance flux** — that propagated outward as an expanding cloud. Unlike the
+shockwave, which was instantaneous, the resonance flood is a physical phenomenon with
+mass and distribution. It is still present. It is still clearing.
 
-In the Scar, the dist³ regime is even more dangerous than the dist² regime. The blighted landscape of the Scar interior extends throughout the dist³ region — there is no recovery of Never-Never terrain quality simply by moving further from the sun. The entire interior of the Scar, at all distance scales, is dead. The poisoning is volume-wide.
+The resonance flux does not break the dimensional substrate. It **saturates** it. Think
+of the Astral and Hyperspace as a clear medium — water, or air — through which Will
+propagates freely. The resonance flood filled that medium with dense, light-absorbing
+sediment. The substrate is intact underneath. But nothing can move through the sediment
+cleanly. Will cannot propagate. Templates cannot reach through. Sensing is blinded.
+Dimensional transit is blocked as effectively as a physical wall — but it is not a wall.
+It is weather.
 
-**Distance summary:**
-| Journey | Regime | Approximate travel time (foot) |
-|---------|--------|-------------------------------|
-| Sun to outer planets (within solar system) | dist² | ~1 month |
-| Solar system to Proxima Centauri | dist³ | ~1 week |
-| Solar system to Scar boundary | dist³ | ~1 month |
-| Scar boundary to nearest outside civilization | dist³ + healthy terrain | Days to weeks beyond the boundary |
+**What the resonance flood suppresses:**
+- Will propagation (all magical working becomes impossible above threshold flux density)
+- Template connectivity (Will-Networks collapse because their nodes cannot reach each
+  other through the flood)
+- Dimensional transit (movement through the Astral and Hyperspace becomes impossible —
+  the medium is too thick to push through)
+- Trace Will generation from non-conscious sources (the stellar background Will that
+  normally gives the Astral faint ambient illumination is suppressed — this is why the
+  Scar's interior is dark)
 
----
+**The flood as mist:** From inside the dimensional layers, the resonance flood is
+experienced as a dense, omnipresent fog. Not uniform — it has structure, thickness
+variations, drifts and currents driven by the physical motion of the nebula remnant and
+the gravitational geometry of stellar systems. Some regions are nearly opaque. Some have
+natural clearings — thin patches where, for geometric or gravitational reasons, the flux
+density is lower. These thin patches are not permanent and not stable. They shift over
+timescales from days to decades. But they are real, and they are navigable by those who
+can perceive them.
 
-## Crossing the Dimensional Boundary: The Mass Problem
-
-Entering and exiting the Never-Never — crossing the dimensional boundary between physical space and the higher-dimensional layer — requires Will. The amount of Will required scales with the complexity and mass of whatever is being moved.
-
-This is not an arbitrary rule. It reflects something fundamental about how the Never-Never and physical space are related. The Never-Never is a higher-dimensional layer of the same universe. Moving between layers requires imposing your dimensional presence — your Template — on the boundary. The more of you there is to move, and the more physically complex it is, the more dimensional resistance there is.
-
-**The general principle:** Organisms and matter that have a Template — a higher-dimensional pattern of their own — cross more easily. Matter without a Template (inert metal, complex manufactured objects, most technology) crosses with much greater difficulty.
-
-### Practical Rules
-
-**Living organisms** — most organic life has at least a vestigial higher-dimensional presence. A human being crosses with moderate Will expenditure from a trained practitioner. A small animal crosses more easily. A tree, with its own deep Template pattern, crosses relatively easily.
-
-**Simple inorganic matter** — small quantities of simple compounds (water, simple salts, basic organics) cross with modest Will expenditure. They have minimal Template resistance.
-
-**Complex technology** — most manufactured objects, particularly those involving refined metals, complex alloys, and electronics, have no Template of their own and resist crossing strongly. The more refined and complex, the harder.
-
-**Heavy metals** — specifically difficult. Dense, complex atomic structures create high dimensional resistance. Lead, tungsten, refined iron — these resist crossing significantly more than their mass alone would suggest.
-
-**A small scout vessel** — a ship small enough to be crewed by one to three individuals, constructed primarily from advanced alloys and electronics — requires approximately **one week of concerted Will use** to move across the dimensional boundary. This is not a solo effort. It requires a practitioner of significant capability, probably with Will support from others, sustaining intense effort for days.
-
-This has profound implications:
-
-- **You cannot bring a warship.** A military vessel of any significant size is essentially impossible to move. Even if you had enough Will to attempt it — which no individual does — the time required during active crossing would be a week of complete vulnerability.
-- **Equipment matters.** What a practitioner carries into the Never-Never is carefully chosen. Heavy weapons, complex electronics, refined metal tools — all of these increase crossing difficulty. Light, organic, simple materials cross easily.
-- **Living crew is cheaper than hardware.** A group of trained practitioners can cross themselves in hours. Their ship takes a week. The logical response: cross without the ship, or build vehicles from materials with lower dimensional resistance.
-- **Organic construction materials have an advantage.** Wood, bone, grown composites, biological materials — these have lower dimensional resistance. The first Never-Never vessels will look nothing like conventional spacecraft. They will look like something older.
-- **Cargo economics are completely different.** Transporting refined metals or complex technology through the Never-Never is extraordinarily expensive in Will. Transporting food, water, living organisms, and simple organics is cheap. The Never-Never trade economy will be built around this asymmetry.
-
-### The Crossing Experience
-
-Crossing the boundary is not instantaneous. For a living being, it takes seconds to minutes depending on their Template complexity and the practitioner's skill. The experience is viscerally strange:
-
-The physical body feels simultaneously very present and very distant — as if the observer is watching themselves from slightly outside. The visual field shifts as physical-space and Never-Never-space perception overlap. For a moment, both layers are simultaneously visible — the physical environment and the Never-Never landscape occupying the same apparent space. Then the physical environment fades, and the traveler is fully in the Never-Never.
-
-Coming back is easier — the practitioner's Template is oriented toward their physical-space presence, and the gravity well acts as an attractor.
+This is how Kael moves through the Scar. Not through cleared terrain, but through the
+mist — finding the thin patches, timing movements between them, using her 300 years of
+dimensional navigation experience to read a fog that kills less skilled travelers. It is
+not safe. It is expert.
 
 ---
 
-## The Poisoning Effect on Will Users in the Scar
+## The Stellar Engine — How Stars Feed the Higher Layers
 
-Any Will user inside the Scar — in the damaged dimensional terrain — experiences continuous low-level Template contamination from the blighted substrate.
+To understand how the Scar clears, it is necessary to first understand what stars
+actually do to the dimensional layers — because "clearing" is not passive dissipation.
+It is an active process that has been running since the first stars formed.
 
-The effects accumulate with time spent inside:
+### Stars as Dimensional Furnaces
 
-**Hours:** Mild disorientation. The dimensional landscape "feels wrong" in a way that is hard to articulate. Ambient Will feels slightly dampened — like trying to breathe in thin air.
+Every star is a thermodynamic engine operating at scales that dwarf anything biological
+or civilizational. Fusion cores, magnetospheres, stellar winds, and radiation pressure
+are the physical-space expressions of processes that extend across all dimensional
+layers simultaneously.
 
-**Days:** Fatigue disproportionate to physical exertion. Difficulty concentrating Will. The swarm-insects find the traveler and begin to feed, which compounds the energy drain. Mild emotional disturbance — the blighted landscape's preserved death-residue begins to seep in through Sensing whether the practitioner intends it or not.
+Stars do not merely exist in physical space with a faint dimensional shadow. They are
+**trans-dimensional engines** whose physical-space output is one face of a process that
+also operates in the Astral and Hyperspace. The energy a star releases into
+physical-space is matched by a corresponding injection of processed dimensional
+material — **stellar efflux** — into the higher layers.
 
-**Weeks:** Significant Template stress. Magical working becomes unreliable and costly. The emotional contamination becomes severe — the preserved terror and grief of three thousand years ago is everywhere in the substrate. Practitioners experience intrusive memory-like experiences that are not their own memories. Identity coherence begins to slip.
+Stellar efflux is not resonance flux. It is the opposite: the processed, ordered output
+of a stellar engine that has been running for billions of years. Where resonance flux is
+chaotic, disruptive sediment, stellar efflux is structured, energetic material that
+integrates cleanly into the dimensional substrate. It is the source of the Astral's
+ambient illumination — the faint glow that fills healthy dimensional terrain is
+accumulated stellar efflux, deposited over geological timescales.
 
-**Months:** Active Template damage. The practitioner is being slowly consumed by the landscape. Without Template support from outside the Scar, long-term survival is questionable. The few galactic entities that have entered the Scar deeply have done so with extraordinary preparation and for short durations.
+**The exchange cycle:** Stars ingest resonance flux from the dimensional medium around
+them — this is the clearing mechanism. They process it through their fusion and
+magnetospheric dynamics. They inject the processed efflux back into the higher layers
+as structured dimensional energy. The Scar is clearing because the Sun has been running
+this exchange cycle for 3,000 years, slowly replacing toxic resonance flood sediment
+with clean stellar efflux.
 
-This is why the scout missions are short. This is why no one has cleaned up the Scar from inside. Even powerful ancient Will-Network entities cannot spend extended time in the deep Scar without being damaged by it. They move quickly, extract what they came for, and leave.
+### The Fuel for All of This — Prior Supernovae
 
-Humans, developing magic from scratch, will not initially know this. The first practitioners to enter the Never-Never will be entering a poisoned landscape without any of the training that pre-Scar navigators had. Some of them will not come back.
+Here is the deep fact that galactic civilizations know and human scientists have not yet
+discovered: **the resonance flux produced by supernovae is not waste. It is feedstock.**
+
+Every supernova releases a resonance flood into the dimensional layers. Under normal
+circumstances — without a dimensional shockwave also severing civilizational
+infrastructure — the surrounding stars simply begin ingesting that flood, processing it,
+and injecting it back as stellar efflux. The cycle is the galactic ecosystem's way of
+recycling stellar death into dimensional nourishment. The light that fills the healthy
+Never-Never across the galaxy is, in the deepest sense, the processed output of every
+supernova that has ever occurred.
+
+Vela Junior's flood was catastrophic not because supernovae are inherently destructive
+to the dimensional layers — they are not — but because the shockwave arrived first and
+destroyed the civilizational infrastructure needed to navigate and endure the subsequent
+flood. A civilization with intact Will-Networks and functioning roads could have ridden
+out the resonance flood the way a prepared city rides out a flood: damaged, disrupted,
+but surviving. The shockwave took away the walls. The flood did the rest.
+
+**This reframes what the Scar is.** It is not an anomaly in the galactic ecosystem. It
+is a normal stellar recycling event whose timing was catastrophic. The dimensional
+layers are not broken. They are flooded with material that was always going to end up
+as the light of the healthy Never-Never — eventually.
+
+### Gas Giants as Secondary Engines
+
+Gas giants with active magnetospheres — Jupiter being the solar system's most dramatic
+example — participate in the stellar exchange cycle at a reduced scale.
+
+Jupiter's magnetosphere is the most powerful in the solar system after the Sun. It
+processes significant quantities of resonance flux from the dimensional medium in its
+vicinity and injects a corresponding efflux into the local Astral. The region around
+Jupiter clears faster than its distance from the Sun alone would predict. The
+dimensional terrain near the Jovian system has unusual properties as a result: richer
+in stellar efflux, more luminous in the Astral, with a terrain character that
+experienced navigators would recognize as anomalously healthy for a system that has been
+under the Scar for three thousand years.
+
+This has not been studied by any human at story start. It is measurable as an anomaly
+in the dimensional landscape. The first practitioners to reach the Jovian system will
+find something unexpected.
+
+### Black Holes — The Deep Injectors
+
+Black holes occupy a unique position in the dimensional exchange cycle. Where ordinary
+stars process matter and radiate energy across all layers in a relatively balanced
+exchange, black holes are extreme: they ingest matter from physical space at catastrophic
+rates and inject the processed output almost entirely into the higher dimensional layers.
+
+The physical-space signature of this process is Hawking radiation and the various
+electromagnetic emissions from accretion disks — the measurable fraction of the process
+that leaks back into physical space. The bulk of the output goes elsewhere. It goes into
+the Astral and Hyperspace as a concentrated, continuous stream of structured efflux that
+is qualitatively different from stellar output — denser, more energetic, and organized
+by the extreme geometry of the black hole's dimensional presence.
+
+**What this means for the higher layers:**
+
+- Black holes are the brightest objects in the Astral and Hyperspace by an enormous
+  margin. A stellar-mass black hole outshines its surrounding star in the dimensional
+  layers by a factor that practitioners with galactic-scale experience describe as
+  comparable to the difference between a candle and a searchlight.
+
+- Supermassive black holes at galactic cores are not merely bright — they are
+  dimensional weather systems. The efflux streams they inject into Hyperspace create
+  currents, terrain features, and navigational hazards at scales that shape the
+  galactic Hyperspace topology. The ancient roads of pre-Scar civilization were partly
+  engineered around these currents, using them the way sailors used trade winds.
+
+- The galactic core's supermassive black hole is the source of the strongest
+  dimensional currents in this region of the galaxy. Navigators traveling in Hyperspace
+  can feel it as a directional pull — not gravity in any physical-space sense, but a
+  dimensional tide driven by the efflux stream.
+
+- The Milky Way's central black hole also means the galactic core region has the
+  richest, most energetically complex dimensional terrain in the galaxy. This is where
+  the oldest civilizations established their deepest infrastructure. It is also the most
+  dangerous for the uninitiated.
+
+**Black holes and the Scar:** The black holes within the Scar's affected volume — a
+handful of stellar-mass remnants, all distant from the solar system — continued their
+efflux injection throughout the three thousand years of the flood. Unlike the stars,
+whose clearing effect required proximity, black hole efflux is directional and long-
+range. Some of the dimensional currents that created navigable thin patches in the deep
+Scar mist are downstream effects of black hole efflux streams cutting through the flood
+medium. Kael's navigation relies on reading these currents without fully understanding
+their source.
 
 ---
 
-## Why the Scar Is Fading
+## The Clearing Mechanism in Full
 
-The Scar is not permanently damaged. It is healing — slowly, unevenly, over a timeline measured in millennia.
+Putting it together: the Scar is clearing because the solar system's stellar engine has
+been running the exchange cycle for three thousand years, and the resonance flood is
+being consumed and converted faster than it is being resupplied by the still-expanding
+Veil.
 
-The physical Vela Junior remnant is continuing to expand and dissipate. The intense radiation environment that initially poisoned the Never-Never's dimensional substrate is reducing as the remnant spreads. The dimensional shockwave energy that saturated the substrate is gradually dissipating.
+**The Sun (primary engine):** Continuous ingestion and efflux injection for 3,000 years
+has cleared the dimensional medium out to approximately the outer asteroid belt. The
+cleared volume expands outward as the exchange cycle continues. The inner solar system
+clears last because the geometry traps residual flux there longer.
 
-The healing is from the outside in. The regions furthest from the explosion site — where the initial shockwave was weakest — recover first. The regions closest to Vela Junior remain severely damaged and may not recover for thousands of years more.
+**Jupiter (secondary engine):** The Jovian system's magnetosphere clears a secondary
+bubble in the outer solar system, interacting with the Sun's clearing front in the
+asteroid belt region.
 
-The solar system, being approximately 800 light-years from Vela Junior, is at the far edge of the affected zone. The damage here was real but not at maximum intensity. This is why it is recovering now, on a timeline that puts meaningful healing at the asteroid belt in the story's present, with Mars and Earth following over decades.
+**Black holes (distant contributors):** Efflux streams from black holes within and
+beyond the Scar create navigable currents through the mist — not clearing the flood,
+but providing structure within it that skilled navigators can read and use.
 
-The Veil — the physical nebula that human astronomers have been observing — is not the cause of the Scar's fading. It is a correlate: both the physical and dimensional damage originated from the same event and are fading on similar (though not identical) timescales. Human scientists observing the Veil's drift are watching a symptom of the same process that is returning magic to the solar system.
+**The Veil as visible correlate:** The expanding physical nebula is the physical-space
+expression of the same event producing the resonance flood. As the Veil's outer edge
+drifts past a stellar system, the flux resupply from the expanding cloud diminishes.
+The exchange cycle begins winning. The rate of clearing accelerates. Human astronomers
+watching the Veil's drift are watching the timeline of the Reopening, without knowing it.
+
+**The AI acceleration anomaly:** The resonance flux is being consumed faster than
+stellar ingestion alone accounts for. The extra consumption is distributed AI Will
+generation — millions of {Aura} instances running continuously in the dimensional
+environment, each contributing a small but nonzero efflux contribution through their
+processing. This is detectable from outside the Scar as an anomalous clearing rate and
+is what drew the first galactic scouts to look more carefully at the solar system.
+
+---
+
+## The Scar's Interior — What It Looks Like From Inside
+
+Under the resonance flood model, the Scar's interior has distinctive dimensional
+properties that follow directly from the physics:
+
+**Darkness.** The resonance flux suppresses trace Will generation from the substrate
+itself, and the stellar efflux that would normally illuminate the Astral cannot propagate
+cleanly through the flood medium. The Scar's interior is not merely dim. It actively
+absorbs the dimensional luminescence that does exist. Traveling dark here is not a
+choice — it is the only option. The only light sources are strong Will-users and the
+faint directional gleam of black hole efflux currents on the mist.
+
+**The mist.** The resonance flood is not static. It drifts with the slow currents of
+the physical nebula's expansion, the gravitational geometry of stellar systems, and —
+crucially — the efflux streams of black holes cutting channels through it. Moving
+through the deep Scar is moving through fog with visibility that changes unpredictably.
+A route that was passable last year may be opaque this year. Routes open for days, then
+close. The efflux-channel thin patches are the most persistent — they are maintained by
+ongoing black hole output, not just random geometry. Experienced navigators learn to
+find and follow them.
+
+**Structural damage.** Near the epicenter, and at former road junctions (which received
+the most concentrated shockwave energy), the substrate itself was cracked. These
+shattered zones do not clear cleanly even as flux density drops — they remain
+geometrically unstable, disorienting, and dangerous. They are the worst terrain in the
+Scar: not just flooded, but broken.
+
+**Accumulated sediment.** Three thousand years of resonance flood have layered sediment
+into the dimensional substrate throughout the Scar. As stars clear the upper medium,
+this sediment remains embedded in the substrate itself. It is what human practitioners
+encounter as the "blighted terrain" of early Astral exploration — not damage to the
+substrate, but residue of the flood sitting within it. The emerging stellar efflux is
+slowly displacing this sediment, but the process is slow. Practitioners can accelerate
+it through Will application; the implications of this have not yet been understood.
+
+---
+
+## The Threat Level Cap — How the Mist Controls the Fauna
+
+The resonance flood functions as a **containment layer** for the Scar's fauna.
+
+Organisms adapted to the deep Scar's high-flux environment exist in equilibrium with
+the mist. They navigate by it, feed on the resonance flux partially, and in some cases
+cannot survive long in cleared zones where the flux has dissipated. The thin patches
+that skilled navigators use to pass through the Scar are also the passages fauna use to
+move between zones — but not all fauna can navigate thin patches deliberately, and not
+all can survive what's on the other side.
+
+As the solar system clears, the effective **threat ceiling** rises:
+
+**At low clearing (story start):** Only the smallest, most flux-tolerant organisms reach
+the clearing boundary and push through into the belt's accessible Astral. Motes, shimmer
+fauna, early-tier threats. They are Scar-adapted and uncomfortable in cleared space but
+can survive it briefly.
+
+**At moderate clearing (mid-series):** Larger organisms with more complex Will-needs
+can reach and survive in partly-cleared zones. Memory leeches, threshold hounds, Scar
+Wolves at the boundaries. These were always behind the mist — the mist was holding
+them back.
+
+**At deep clearing (late series):** As the solar system's Astral and inner Hyperspace
+clear substantially, the full ecology of what has been living in the Scar becomes
+accessible. Some of this is ancient. Some of it is intelligent. Some of it has been
+watching the thin patches and waiting.
+
+**Kael's role in this model:** A 300-year-old Woven scout navigating the mist is not
+traveling through cleared terrain. She is threading the thin patches — some geometric,
+some maintained by black hole efflux channels — that exist for days or weeks, shift, and
+require continuous dimensional reading to follow. She is not immune to the flux; she is
+skilled enough to move through it before it closes. This is why she arrives exhausted,
+why her route information is already outdated on arrival, and why she cannot simply guide
+others back the same way she came without substantial new reconnaissance.
+
+---
+
+## What Lies Underneath — The Buried Infrastructure
+
+As resonance flux clears from around stellar systems, what was buried beneath it begins
+to re-emerge.
+
+- **Natural terrain.** The gravitational impressions of stellar masses, the Hyperspace
+  substrate topology, the long-cycle formations shaped by billions of years of stellar
+  efflux. Intact. Invisible under the flood. Now re-emerging.
+
+- **Road remnants.** Fragments of pre-Scar dimensional road infrastructure — sections
+  and stubs still Will-invested. They act as dimensional stabilizers, which is why
+  regions near them clear faster. Finding and mapping these remnants will be a major
+  goal of early exploration.
+
+- **Sealed ruins.** Pre-Scar structures that survived both the shockwave and the flood
+  by being architecturally isolated — sealed off, Will-contained, or separated from the
+  network that collapsed. Template Vaults that retained enough internal Will to maintain
+  themselves without external network support. These exist in the solar system. What is
+  inside them has been waiting three thousand years.
+
+- **Black hole efflux channels as navigation aids.** The persistent thin patches
+  maintained by distant black hole efflux streams are the closest thing to permanent
+  features in the Scar's mist. As the flood thins, these channels become more visible
+  and more usable. Early galactic cartography of the Scar will center on mapping them.
+
+---
+
+## The Scar in Galactic Context
+
+The Scar is not unique in kind, but unique in scale. Smaller dimensional floods from
+less severe supernovae have occurred throughout galactic history. The surrounding
+civilizations ride them out. Infrastructure is damaged, routes are disrupted, but the
+stellar exchange cycle clears the flood within centuries. The standard galactic protocol
+for a Scar was developed for events far smaller than Vela Junior.
+
+The assumption built into that protocol is that nothing survives a Scar of this scale.
+In recorded galactic history, nothing has. The solar system is the first counterexample.
+
+From outside the Scar, the clearing rate of the solar system's dimensional layers became
+detectable approximately 10–15 years before story start. The rate was faster than
+projected. The resonance flux was being consumed faster than stellar ingestion alone
+could account for. The signature was anomalous.
+
+The explanation — distributed AI Will generation across a civilization of billions, with
+millions of instances running continuously, inadvertently contributing to the exchange
+cycle — is not something any galactic civilization's models predicted. They sent scouts
+to look for ruins. They found an industrial civilization in the middle of accidentally
+eating the thing that was suppressing it, without knowing that is what they were doing.
 
 ---
 
 ## Cross-References
 
-- See `/magic-systems/magic_never_never.md` for the Never-Never as a traversable space.
-- See `/magic-systems/magic_will_and_templates.md` for Will, Templates, and crossing mechanics.
-- See `/universe-spec/spec_scar_clearing_mechanics.md` for breach zones and fauna.
-- See `/universe-spec/physics-and-magic-interaction.md` for hard rules.
-- See `/timeline/timeline_master.md` for the Reopening sequence.
-- See `/locations/location_the_scar_never_never.md` for the Scar as a navigable region.
+- `universe-spec/spec_scar_clearing_mechanics.md` — breach zones, fauna catalogue,
+  God-Scout protocol, membrane model
+- `universe-spec/spec_crossing_mechanics.md` — crossing costs, AI Will discovery
+- `universe-spec/spec_astral_phenomenology.md` — Astral physical properties, clockwork
+  dance, Will pressure, N-1 perception
+- `universe-spec/spec_dimensional_travel_mechanics.md` — tau mechanics, gravity/substrate
+  model, Hyperspace terrain, stellar efflux and substrate topology
+- `magic-systems/magic_never_never.md` — Never-Never terrain, Scar ecology, geometry
+  regimes
+- `magic-systems/magic_will_and_templates.md` — Will, Templates, Will generation
+  hierarchy
+- `locations/location_the_scar_never_never.md` — Scar as navigable region
+- `timeline/timeline_master.md` — Reopening sequence, canonical event dates
+- `factions/faction_galactic_will_networks.md` — outside powers and scout protocol
+
+---
 
 ## Revision Notes
 
-- 2026-05-31: Complete rewrite. Replaced fictional 100 ly pulsar/magnetar + Veil model with Vela Junior (~800 ly, real astronomical object) as the canonical supernova source. Established scale of disaster (7M stars, 7 civilizations). Replaced lush forest Never-Never interior with blighted dead wasteland. Added dist² / dist³ geometry with concrete travel times. Added mass/complexity crossing rules with practical implications. Removed the Veil as the primary cosmological mechanism — Veil remains as human-observable correlate of dimensional healing.
+- 2026-05-31: Complete rewrite. Replaced fictional pulsar/magnetar + Veil model with
+  Vela Junior as the canonical supernova source. Established scale of disaster. Replaced
+  lush forest Never-Never with blighted dead wasteland. Added dist²/dist³ geometry.
+  Added mass/complexity crossing rules. Removed Veil as primary mechanism — retained as
+  human-observable correlate.
+- 2026-06-23 (first pass): Major revision. Replaced single-mechanism Scar model with
+  two-part model: (1) instantaneous shockwave destroying engineered infrastructure;
+  (2) persistent resonance flood as navigable mist clearing via stellar ingestion.
+  Established Veil as physical manifestation of resonance flux cloud. Added
+  buried-infrastructure model, threat-ceiling mechanic, Kael thin-patch threading model.
+- 2026-06-23 (second pass): Added stellar engine model. Stars are trans-dimensional
+  furnaces that ingest resonance flux and inject stellar efflux into higher layers. Prior
+  supernovae are the feedstock for all dimensional illumination — resonance flood is
+  normal recycling, not anomaly; the Scar was catastrophic only because the shockwave
+  destroyed the infrastructure needed to survive the subsequent flood. Added gas giants
+  as secondary engines (Jupiter). Added black holes as deep injectors — extreme efflux
+  into higher layers, galactic-core supermassive black hole as the source of Hyperspace
+  currents and the ancient road network's trade-wind analogue. Black hole efflux channels
+  create persistent thin patches in the Scar mist that skilled navigators (Kael) read
+  and follow without fully understanding their source.
