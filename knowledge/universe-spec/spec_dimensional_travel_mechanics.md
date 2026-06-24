@@ -99,9 +99,17 @@ Stellar efflux is the source of:
   dimensional layers, shaping the terrain; stellar efflux fills and enriches the
   substrate around them)
 
+### Gravity Well Clearing and Ejection Mechanics
+
+Large gravity wells (the Sun, Jupiter, Saturn, Earth) clear the Scar by actively absorbing Scar radiation (resonance flux) from the Astral and ejecting it into the underlying Hyperspace (dist³) terrain. This has been the active clearing mechanism running over the 3,000 years of the Scar.
+
+- **Hyperspace Terrain Quaking:** Ejecting this massive amount of processed Scar mass directly into the Hyperspace terrain causes the substrate there to shift and quake violently around these massive bodies. This makes approaching or entering planetary systems in Hyperspace extremely dangerous. This creates a dual-layer hazard: the mists are poisonous/deadly in the Astral, while the shifting quakes are dangerous in Hyperspace.
+- **The Missing Matter (Dark Matter):** The continuous trans-dimensional pipeline of moving mass up from physical space to the Astral, and ultimately ejecting it into the underlying Hyperspace terrain, is hypothesized to be the reason so much matter seems to be missing from the physical universe.
+- **Paths and Mists:** As the clearing proceeds, mostly-cleared pathways between worlds are beginning to form. However, these corridors are still full of the "mists" that are highly deadly to Will users, especially powerful ones. Lower-level practitioners like Kael find eddies and gaps in these massive mist clouds, sneaking through with minimal damage. This is only possible because the solar system is finally beginning to open up (the Reopening)—she would not have been able to make this transit even a few years ago.
+
 **Prior supernovae as feedstock:** The resonance flux that supernovae release into the
 dimensional layers is not waste — it is feedstock for the stellar exchange cycle.
-Surrounding stars ingest it, process it, and inject it back as efflux. The light
+Surrounding stars and planets ingest it, process it, and eject it back. The light
 filling healthy dimensional terrain across the galaxy is, in the deepest sense, the
 processed output of every supernova that has ever occurred. This is the normal galactic
 ecosystem. The Scar was catastrophic not because the resonance flood is inherently
@@ -237,17 +245,17 @@ traveler — there is always a gap between where they are and where their tau si
 Crossing back while moving returns the traveler to their tau's current position, not
 their leading edge.
 
-**The Snap:** When a traveler stops exerting directed Will-driven movement — when they
-cease conscious directed locomotion — tau snaps sharply forward to their current
-dimensional position. The snap is physical and unmistakable: a warping sensation, a
-slap of dimensional pressure across the body, slightly painful. The traveler always
-knows when it happens.
+**The Snap:** When a traveler stops exerting directed Will-driven movement — when they cease conscious directed locomotion — tau snaps sharply forward to their current dimensional position. Tau also snaps as soon as your movement vectors merge. 
 
-After a snap, tau is fully updated. Crossing back now deposits the traveler at the
-physical-space location corresponding to their current dimensional position.
+- **Will-Driven Snap:** When using Will, this merge and snap can be gradual or fast, depending on the practitioner's skill level.
+- **Passive Stopping Snap:** If the vectors merge passively from stopping your momentum or motion (such as stopping from a run or stopping a vehicle), the duration and magnitude of the snap depend on the difference in magnitude of the vectors. A larger delta in velocity results in a longer snap and a much larger physical jolt.
+- **Physical Sensation:** The snap is physical and unmistakable: a warping sensation, a slap of dimensional pressure across the body, slightly painful. The traveler always knows when it happens.
+
+After a snap, tau is fully updated. Crossing back now deposits the traveler at the physical-space location corresponding to their current dimensional position.
 
 **Snap trigger — directed Will, not velocity:** The snap is triggered by the lapse of
 *conscious directed movement*, not merely by a drop in velocity. A practitioner sitting
+still but consciously holding their dimensional position does not snap. A practitioner
 still but consciously holding their dimensional position does not snap. A practitioner
 who falls asleep snaps, because conscious direction of Will has lapsed. A practitioner
 drifting on a moving vehicle does not snap — the vehicle's movement vector carries them.
@@ -376,16 +384,13 @@ does not immediately erase the smaller vector.
 - Separation: vectors begin re-diverging; if the merge was brief, they may fully
   separate; if sustained, they may remain partially merged
 
-**Vector collapse costs Will:** Vectors naturally collapse toward equilibrium over time,
-consuming Will from the involved parties to resolve the merge. The greater the initial
-difference between vectors, the more Will the collapse requires. Long Astral trips have
-a natural Will drain from this: every contact with terrain, fauna, or other travelers
-creates small vector-merge events consuming Will to resolve.
+**Vector collapse and Will merging:** Vectors of movement in the Astral and Hyperspace can be collapsed or merged either using Will or over time, where they will slowly collapse and merge naturally. The greater the initial difference between vectors, the more Will the collapse requires. Long Astral trips have a natural Will drain from this: every contact with terrain, fauna, or other travelers creates small vector-merge events consuming Will to resolve.
 
-**Combat implication:** A trained practitioner who understands vector mechanics can
-resist a grappler at a dimensional level — preventing tau merge by maintaining their own
-vector integrity through Will. This is a learnable skill distinct from physical
-fighting strength.
+**Combat and Tactical implications:** 
+- **Martial-Arts Battles:** In a fight, a skilled practitioner can grab an enemy and use Will to "pull" them in a completely unexpected direction by collapsing/merging their vectors. Even more skilled opponents can feel this vector manipulation happening and counter it, giving rise to spectacular trans-dimensional martial-arts type battles.
+- **Stopping Bullets:** A practitioner with fast reflexes and sufficient Will control can merge/collapse a incoming bullet's vector with a stationary frame, stopping bullets in flight.
+- **Ship Merging:** At larger scales, these mechanics govern how ships' movement vectors are matched and merged, enabling precise physical or dimensional docking and preventing catastrophic collisions.
+- **Resisting Grabs:** A trained practitioner who understands vector mechanics can resist a grappler at a dimensional level — preventing tau merge by maintaining their own vector integrity through Will. This is a learnable skill distinct from physical fighting strength.
 
 **Kael carrying Jace:** Kael provides sustained movement force; Jace is held against
 her. Their vectors merge, Kael dominant. She navigates for both. This is physically
@@ -520,20 +525,14 @@ physical-space matter was not built for.
 
 ### In Living Beings
 
-Experienced as a deep stretching ache that builds with distance. Starts as discomfort.
-Progresses to genuine pain. At extremes, becomes incapacitating. Biological tissue is
-the most resilient — Template-aligned, somewhat self-repairing. Hyperspace makes this
-significantly worse.
+Experienced as a deep stretching ache that builds with distance. Starts as discomfort, progresses to genuine pain, and at extremes becomes incapacitating. Hyperspace makes this significantly worse. 
 
-**Dimensional Shear:** Moving too fast through compressed geometry creates
-micro-hemorrhaging in biological tissue — a cellular speed limit on transit.
-Experienced navigators know the safe speed range.
+- **No Tension Reset:** Atomic tension does *not* fully reset when returning to physical space. The structural and biological damage taken in the higher layers remains when crossing back.
+- **Dimensional Shear:** Moving too fast through compressed geometry creates micro-hemorrhaging in biological tissue — a cellular speed limit on transit. Experienced navigators know the safe speed range.
 
 ### In Equipment
 
-Inorganic manufactured objects accumulate **dimensional stress** as structural damage.
-The stress targets crystalline lattices, bonded interfaces, and close-tolerance parts.
-This damage is permanent and cumulative in anything without a Template.
+Inorganic manufactured objects accumulate **dimensional stress** as structural damage. The stress targets crystalline lattices, bonded interfaces, and close-tolerance parts. Without a Template, this damage is permanent and cumulative.
 
 **Failure hierarchy** (what breaks first):
 1. Precision electronics / chips — crystalline lattice structures. Fail earliest.
@@ -542,11 +541,11 @@ This damage is permanent and cumulative in anything without a Template.
 4. Simple organics — rope, wood, fabric. Very resilient, no critical tolerances.
 5. Living biological tissue — most resilient, continuously self-repairing toward Template.
 
-### Template-Based Repair
+### Template-Based Repair and Resurrection
 
-Objects with a **Template** can partially or fully repair dimensional stress damage when
-their Template is energized with Will. The physical object's atomic arrangement tends
-back toward the Template's stable pattern.
+Templates (both human body templates and object templates) can be charged with Will to reassert their stable multidimensional patterns on the underlying physical atoms. This functions as a repair or healing spell, aligning physical matter back to its ideal template.
+
+- **Resurrection:** With a vast expenditure of Will and the correct "spell," a Template copy can even be used to reconstruct and resurrect a deceased person. However, this process has severe limits: the resurrected individual loses any skills and experiences learned since that Template copy was last saved/updated, and their post-resurrection memories of the transition are extremely blurry.
 
 **Emergent Template development:** Jace's HUD implant — partially organic circuits —
 may develop a Template over time through extended dimensional exposure, enabling
@@ -607,14 +606,14 @@ resting, never let go of anything you cannot afford to lose.
 
 | Question                                     | Priority | Notes                                                          |
 |----------------------------------------------|----------|----------------------------------------------------------------|
-| Two people grabbing hands — tau merge rate   | High     | Working: larger vector captures smaller; duration matters      |
-| Fighting in the Astral — vector interaction  | High     | Brief strikes probably no effect; sustained holds merge        |
-| Rotating/orbiting ship — spin tau behavior   | Medium   | Under frame model: spin within frame doesn't affect tau ✓      |
-| Gradual vs. binary snap threshold            | Medium   | Binary is simpler; gradual creates interesting edge cases      |
+| Two people grabbing hands — tau merge rate   | Resolved | **RESOLVED:** Managed via Will or time; larger mass dominates center-of-mass merge. |
+| Fighting in the Astral — vector interaction  | Resolved | **RESOLVED:** Will can pull enemy vectors; counterable by advanced practitioners. |
+| Rotating/orbiting ship — spin tau behavior   | Resolved | **RESOLVED:** Under frame model, spin within frame doesn't affect tau. |
+| Gradual vs. binary snap threshold            | Resolved | **RESOLVED:** Snaps as soon as vectors merge. Will is gradual/fast; passive is magnitude delta dependent. |
 | Vector locking near gravity wells            | Low      | May be a later-series nuance                                   |
 | Partial snap from very slow movement         | Medium   | Relevant for precision work and stealth                        |
-| Black hole efflux current mapping            | Medium   | Which currents are navigable? Are any in the solar system?     |
-| Jovian dimensional clearing bubble extent    | Low      | How far does Jupiter's secondary clearing reach?               |
+| Black hole efflux current mapping            | Resolved | **RESOLVED:** Purely illustrative; no black holes exist near the solar system. |
+| Jovian dimensional clearing bubble extent    | Resolved | **RESOLVED:** Gravity wells absorb Scar and eject to Hyper terrain (causing quakes). Pathways misty. |
 
 ---
 

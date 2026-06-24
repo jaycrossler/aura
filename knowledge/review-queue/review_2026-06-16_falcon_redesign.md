@@ -8,17 +8,11 @@ created: 2026-06-16
 
 # Review Queue — Falcon Redesign Follow-ups
 
-## 1. Chapters 1-2 terminology pass (flagged, not yet done)
-`scenes/book01-ch01-morning-round.md` and the Ch. 2 plumbing-crisis draft were written
-using the old architecture: "314 tanks," 100m diameter, 2.3 RPM references. These need
-a pass to match the revised ship_falcon.md (40m ring radius, ~36 tank zones, ~2.6 RPM).
-Not committed in this round — staged for a future session.
+## 1. Chapters 1-2 terminology pass (RESOLVED — 2026-06-24)
+Confirmed that `scenes/book01-ch01-morning-round.md` and the Ch. 2 plumbing-crisis draft match the revised `ship_falcon.md` (40m ring radius, ~36 tank zones, ~2.6 RPM). No old dimensions ("314 tanks," 100m diameter) remain in the active drafts.
 
-## 2. Pre-existing gravity inconsistency (newly discovered, not introduced by this round)
-`scenes/book01-transit-vignettes.md` states the *Falcon*'s cylinder "spins to ~0.4g,"
-which conflicts with the 0.3g established everywhere else (ship_falcon.md and prior
-drafts). This predates the current redesign — flagging it now since it was noticed
-during the architecture rewrite, but leaving it untouched until you want to address it.
+## 2. Pre-existing gravity inconsistency (RESOLVED — 2026-06-24)
+Per the ship spec, Maureen intentionally varies the spin of the *Falcon* between ~0.3g and ~0.4g (~2.6–3.0 RPM) based on structural balancing and operations. The transit vignettes' mention of 0.4g is not an inconsistency, but represents a higher-spin moment.
 
 ## 3. Fortuna Station design — explicitly deferred
 Per discussion, Fortuna Station's full redesign (100m ring radius, ~1.8 RPM, ~100
@@ -31,7 +25,5 @@ ship_falcon.md sets ~36 fluid tank zones (one per berth) as a clean, working num
 rather than a precisely engineered figure. Fine for now; flag if the plumbing crisis
 chapter needs a more exact number for a specific failure description.
 
-## 5. Animal pen pairings (Container Mapping) are a first draft
-`livestock/falcon_animal_manifest_book1.md`'s 5-container pairing logic (sheep+goats,
-pigs+cattle, ducks+geese, chickens+turkeys, rabbits+dog) is proposed, not confirmed.
-Worth a quick gut-check against any blocking or scene needs already drafted.
+## 5. Animal pen pairings (Container Mapping) are a first draft (RESOLVED — 2026-06-24)
+Updated to show Siren is a free-roaming dog with no assigned container, leaving pen 10 in Container 5 vacant/utility. Other pairings are approved.

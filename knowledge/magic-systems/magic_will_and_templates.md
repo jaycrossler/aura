@@ -27,13 +27,13 @@ The body is impermanent. Cells replace themselves. Injuries occur. Age accumulat
 
 This has practical consequences:
 
-**Healing.** Damaged bodies partially restore themselves toward the Template. This is why wounds heal, why bones knit, why infections are fought. The body is always tending toward its higher-dimensional pattern. Magic that works with Templates can accelerate this dramatically — not by creating new tissue, but by reinforcing the pull toward the Template.
+**Healing.** Damaged bodies partially restore themselves toward the Template. This is why wounds heal, why bones knit, why infections are fought. The body is always tending toward its higher-dimensional pattern. Magic that works with Templates can accelerate this dramatically: by charging the Template with Will, a practitioner can reassert its stable pattern on the underlying physical atoms, forcing them back into alignment. This acts as a powerful trans-dimensional repair/healing spell (applicable to both organic bodies and manufactured objects with templates).
 
 **Aging.** Physical aging is partly a matter of Template drift — the slow degradation of the higher-dimensional pattern over time. Long-lived magical civilizations learned to reinforce Templates using Will, which dramatically slows this drift. This is the mechanism behind the apparent immortality of legendary figures: their Templates are simply maintained. They are not truly immortal. They are individuals with stabilized higher-dimensional patterns.
 
 **Identity.** A sufficiently degraded Template produces identity drift — the person becomes less themselves over time. This is why severe Never-Never travel stress (see travel costs) causes psychological instability. The traveler is being stretched across incompatible geometries, which stresses the Template.
 
-**Death.** When the Template fully dissociates from the physical body, the physical body dies. In most circumstances this is the end. However: Echoes (see below).
+**Death and Resurrection.** When the Template fully dissociates from the physical body, the physical body dies. In most circumstances, this is the end. However, with an immense expenditure of Will and the correct spell, a preserved Template copy can be used to re-anchor and resurrect a deceased person. This process is highly constrained: the resurrected person will have no recollection of the events after the Template copy was made (losing any skills or memories learned since that time), and their immediate post-resurrection memories will be extremely blurry. Otherwise: Echoes (see below).
 
 ### Template Vaults
 

@@ -54,12 +54,11 @@ To investigators with no framework for crossing, this reads as a locked-room imp
 
 ### Reconciling "died without breathing gear"
 
-Per canon, everyone in the belt sleeps in a CO2-scrubbing rebreather mask (standard low-g safety gear). Two compatible readings — **flag for author decision** (see review-queue):
+Helena wore her CO2-scrubbing rebreather mask (which is normal safety gear for sleeping in the belt). This bought her several hours of air on the far side after she crossed into the Astral in her sleep. However, as an untrained, terrified first-crosser in the -20°C dark, she never managed the panic-return that saves experienced practitioners. 
 
-- **(Recommended, more canon-consistent and more horrifying):** Helena crossed *wearing* her sleep mask, which bought her hours of air on the far side — but as an untrained, terrified first-crosser in -20°C dark, with the Astral insects finding her Will-signature, she never managed the panic-return that saves the lucky ones. She died of cold/exposure (and eventually air) in sleepwear, with no thermal or survival gear. "Without breathing gear" = without any *Never-Never* survival equipment, not without a mask.
-- **(Simpler, matches the literal phrasing):** Helena slept without her mask that night (lax habit, or a malfunctioning unit), so the 60–90-second ambient window closed almost immediately and she suffocated in the dark.
+"Without breathing gear" refers to her lack of specialized Never-Never survival equipment (thermal suits, navigation arrays, etc.), not her sleep mask. The exact cause of her death post-crossing remains open: she either eventually suffocated once her mask's air expired or fell victim to an attack by Astral fauna.
 
-Either way the physical-space evidence is identical: empty pod, Aura dark at 01:00, no breach.
+Either way, the physical-space evidence is identical: empty pod, Aura flatlining at 01:00, no breach.
 
 ---
 
@@ -80,7 +79,7 @@ Helena appears mostly through other people's accounts: her students, her partner
 ## Open Questions
 
 - Surname and background; where she emigrated from and why.
-- Mask on or off the night she crossed (see review-queue decision).
+- **[RESOLVED]** Mask status: Mask was ON, normal for sleeping.
 - Whether a frost/residue trace is left at her pod (links her to the Cryptid signature).
 - Whether she had been having the recurring "crystal tunnel" dreams (partial crossings) in the weeks before — and whether anyone noticed.
 - Whether she is literally the first such death at Fortuna or the first *public* one (miners may have vanished quietly before).
@@ -95,4 +94,5 @@ Helena appears mostly through other people's accounts: her students, her partner
 
 ## Revision Notes
 
+- 2026-06-24: Updated mask status to confirmed ON. Cause of death post-crossing (fauna vs suffocation after expiration) remains open.
 - 2026-06-17: New file. Established Helena as Fortuna's first un-suppressible disappearance — an accidental Astral sleep-crosser who did not survive. Forensic signature mapped to spec_crossing_mechanics. Mask-on/off reconciliation flagged for author decision. Stillness-as-portal theme noted.

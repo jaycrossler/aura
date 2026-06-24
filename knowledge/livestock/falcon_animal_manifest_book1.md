@@ -39,7 +39,7 @@ Proposed pairings (working — open to revision):
 | 2 | Pigs (02) + Cattle (06) | Both larger-bodied, sturdier animals; heavier-duty shared corridor |
 | 3 | Ducks (03) + Geese (09) | Both waterfowl; shared moisture-handling environmental system |
 | 4 | Chickens (04) + Turkeys (07) | Both poultry; shared dust-handling environmental system |
-| 5 | Rabbits (08) + Siren/dog (10) | Both quiet, calm modules |
+| 5 | Rabbits (08) + Vacant/Utility (10) | Quiet module; rabbits only (Siren is ship-at-large) |
 
 This pairing is a first pass based on environmental compatibility — flag for review if
 any pairing creates a scene problem (e.g., predator/prey proximity anxiety between
@@ -64,7 +64,7 @@ pigs and cattle, or noise conflicts).
 | Name | Sex | Notes |
 |---|---|---|
 | Cerberus ("Cerb") | M | Jace's dog. 14kg, fawn shepherd/pug mix. |
-| Siren | F | Cerberus's sister. Splits time between Maureen and Lanchee. |
+| Siren | F | Cerberus's sister. Splits time between Maureen and Lanchee. Sleeps where she likes, frequently hangs out near the ducks (Container 3). |
 
 ---
 
@@ -81,7 +81,7 @@ pigs and cattle, or noise conflicts).
 | 07 | Turkey hens | 6 | F | 4 | Watchful. Unsettling. Remember everything. |
 | 08 | Rabbit does | 6 | F | 5 | Quiet module. Peaceful. Mostly. |
 | 09 | Geese (young females) | 4 | F | 3 | Territorial. Jurisdictional. Do not negotiate with the waterfowl. |
-| 10 | Siren (dog) | 1 | F | 5 | Counted in livestock deck for life support allocation. |
+| 10 | Vacant / Utility | — | — | 5 | Formerly allocated to Siren; now storage/utility. Siren is ship-at-large. |
 
 **Total livestock females: 54**
 **Total females aboard: 58** (Maureen + Mei + Lanchee + Siren + 54 livestock)
@@ -102,22 +102,12 @@ pigs and cattle, or noise conflicts).
 
 ---
 
-## FLAG (2026-06-17) — Plumbing-Crisis Iced Berths
+## RESOLVED FLAG — Plumbing-Crisis Iced Berths
 
-The Ch. 2 plumbing crisis ([[book01-ch02-plumbing-crisis]]) ices over two berths on one
-arc of the ring. Author note specifies "the pigs and the small rodents (rabbits and
-others)." Under the current container map this has two consequences to resolve:
-
-- **Pigs (02)** share **Container 2** with **Cattle/heifers (06)** → icing it also traps the heifers.
-- **Rabbits (08)** share **Container 5** with **Siren the dog (10)** → icing it also traps Siren.
-
-Decisions needed (see review_2026-06-17_fortuna_incursions.md, item B3):
-1. Embrace Siren-in-danger (raises stakes; gives Maureen a private reason to let Jace
-   try) **or** re-map so Siren's pen sits in an un-iced berth.
-2. There is **no dedicated small-rodent enclosure** — only rabbits (08). Add a
-   mice/rats pod, or treat rabbits as the "small animals" pod referenced in the scene.
-
-Until decided, the scene is written to leave the exact iced berths open.
+The Ch. 2 plumbing crisis ([[book01-ch02-plumbing-crisis]]) ices over two berths on one arc of the ring. 
+- **Pigs (02) & Heifers (06):** Share Container 2, which is iced, trapping the heifers alongside the pigs. This raises the stakes.
+- **Siren-in-danger:** Resolved. Siren has NO assigned container (Container 5 has rabbits and a vacant/utility pen 10). Jace panics during the crisis because Siren habitually hangs out in the Duck container (03) watching the ducks, and he fears she is trapped in that iced-over zone. This preserves the stakes and gives Maureen a strong reason to let Jace attempt his repair.
+- **Rodents/Small animals:** Rabbits (08) represent the "small animals" referenced in the scene.
 
 ---
 

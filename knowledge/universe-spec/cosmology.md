@@ -204,21 +204,14 @@ as the light of the healthy Never-Never — eventually.
 
 ### Gas Giants as Secondary Engines
 
-Gas giants with active magnetospheres — Jupiter being the solar system's most dramatic
-example — participate in the stellar exchange cycle at a reduced scale.
+Gas giants with active magnetospheres — Jupiter and Saturn being the solar system's most dramatic examples — participate in the stellar exchange cycle at a reduced scale, serving as secondary gravity engines. 
 
-Jupiter's magnetosphere is the most powerful in the solar system after the Sun. It
-processes significant quantities of resonance flux from the dimensional medium in its
-vicinity and injects a corresponding efflux into the local Astral. The region around
-Jupiter clears faster than its distance from the Sun alone would predict. The
-dimensional terrain near the Jovian system has unusual properties as a result: richer
-in stellar efflux, more luminous in the Astral, with a terrain character that
-experienced navigators would recognize as anomalously healthy for a system that has been
-under the Scar for three thousand years.
+Like the Sun, these massive gravity wells clear the local Scar by actively absorbing resonance flux (Scar radiation) from the Astral and ejecting it into the underlying Hyperspace (dist³) terrain. 
 
-This has not been studied by any human at story start. It is measurable as an anomaly
-in the dimensional landscape. The first practitioners to reach the Jovian system will
-find something unexpected.
+- **Hyperspace Terrain Quaking:** Ejecting this massive amount of processed Scar mass directly into the Hyperspace terrain causes the substrate there to shift and quake violently around these gas giants. Approaching or entering these planetary systems in Hyperspace is extremely dangerous due to these substrate tremors. While the mists remain poisonous in the Astral, the quaking terrain makes the corresponding Hyperspace regions treacherous.
+- **Local Clearing:** The region around Jupiter clears faster than its distance from the Sun alone would predict. The dimensional terrain near the Jovian system has unusual properties as a result: richer in stellar efflux, more luminous in the Astral, with a terrain character that experienced navigators would recognize as anomalously healthy for a system that has been under the Scar for three thousand years.
+
+This clearing-ejection process has not been studied by any human at story start. It is measurable as an anomaly in the dimensional landscape. The first practitioners to reach the Jovian system will find something unexpected.
 
 ### Black Holes — The Deep Injectors
 
@@ -270,36 +263,22 @@ their source.
 
 ## The Clearing Mechanism in Full
 
-Putting it together: the Scar is clearing because the solar system's stellar engine has
-been running the exchange cycle for three thousand years, and the resonance flood is
-being consumed and converted faster than it is being resupplied by the still-expanding
-Veil.
+Putting it together: the Scar is clearing because the solar system's gravity wells (the Sun, Jupiter, Saturn, Earth) act as active engines running the exchange cycle for three thousand years, consuming and converting the resonance flood.
 
-**The Sun (primary engine):** Continuous ingestion and efflux injection for 3,000 years
-has cleared the dimensional medium out to approximately the outer asteroid belt. The
-cleared volume expands outward as the exchange cycle continues. The inner solar system
-clears last because the geometry traps residual flux there longer.
+**The Absorption-Ejection Process:** Gravity wells clear the local Scar by absorbing resonance flux (Scar radiation) from the Astral and ejecting it directly into the underlying Hyperspace terrain.
+- **Hyperspace Terrain Tremors:** This massive injection of processed mass causes the Hyperspace terrain to shift and quake violently around massive bodies (suns, gas giants, and planets). Approach or entry near these systems in Hyperspace is extremely hazardous due to these tremors. The dual-layer hazard holds: mists are poisonous in the Astral, and shifting quakes are dangerous in Hyperspace.
+- **The Missing Matter (Dark Matter):** The continuous process of transporting mass up from physical space to the Astral, and then ejecting it into the underlying Hyperspace substrate, could be the physical reason why so much matter is missing from our physical universe.
+- **Paths and Mists:** Mostly-cleared pathways between worlds are now starting to form. However, these corridors are still full of the "mists" that are deadly to Will users, especially powerful ones. Lower-level practitioners like Kael find eddies and gaps in these massive mist clouds and can sneak through with very little damage. This is only possible because our system is now finally starting to open up (the Reopening)—she would not have been able to move through even a few years ago.
 
-**Jupiter (secondary engine):** The Jovian system's magnetosphere clears a secondary
-bubble in the outer solar system, interacting with the Sun's clearing front in the
-asteroid belt region.
+**The Sun (primary engine):** Continuous ingestion and efflux ejection for 3,000 years has cleared the dimensional medium out to approximately the outer asteroid belt. The cleared volume expands outward as the exchange cycle continues. The inner solar system clears last because the geometry traps residual flux there longer.
 
-**Black holes (distant contributors):** Efflux streams from black holes within and
-beyond the Scar create navigable currents through the mist — not clearing the flood,
-but providing structure within it that skilled navigators can read and use.
+**Jupiter & Saturn (secondary engines):** Their magnetospheres and gravity wells clear secondary bubbles in the outer solar system, interacting with the Sun's clearing front in the asteroid belt region.
 
-**The Veil as visible correlate:** The expanding physical nebula is the physical-space
-expression of the same event producing the resonance flood. As the Veil's outer edge
-drifts past a stellar system, the flux resupply from the expanding cloud diminishes.
-The exchange cycle begins winning. The rate of clearing accelerates. Human astronomers
-watching the Veil's drift are watching the timeline of the Reopening, without knowing it.
+**Black holes (distant contributors):** Efflux streams from black holes within and beyond the Scar create navigable currents through the mist — not clearing the flood, but providing structure within it that skilled navigators can read and use. No black holes exist near the solar system; their efflux is purely illustrative of the wider galactic context.
 
-**The AI acceleration anomaly:** The resonance flux is being consumed faster than
-stellar ingestion alone accounts for. The extra consumption is distributed AI Will
-generation — millions of {Aura} instances running continuously in the dimensional
-environment, each contributing a small but nonzero efflux contribution through their
-processing. This is detectable from outside the Scar as an anomalous clearing rate and
-is what drew the first galactic scouts to look more carefully at the solar system.
+**The Veil as visible correlate:** The expanding physical nebula is the physical-space expression of the same event producing the resonance flood. As the Veil's outer edge drifts past a stellar system, the flux resupply from the expanding cloud diminishes. The exchange cycle begins winning. The rate of clearing accelerates. Human astronomers watching the Veil's drift are watching the timeline of the Reopening, without knowing it.
+
+**The AI acceleration anomaly:** The resonance flux is being consumed faster than stellar ingestion alone accounts for. The extra consumption is distributed AI Will generation — millions of {Aura} instances running continuously in the dimensional environment, each contributing a small but nonzero efflux contribution through their processing. This is detectable from outside the Scar as an anomalous clearing rate and is what drew the first galactic scouts to look more carefully at the solar system.
 
 ---
 

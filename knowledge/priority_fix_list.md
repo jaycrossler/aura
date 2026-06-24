@@ -6,17 +6,17 @@ This document tracks unresolved story details, technical discrepancies, missing 
 
 ## 1. Technical & Narrative Open Questions
 
-| ID | Topic / Question | Affected / Reference Documents |
-|---|---|---|
-| **1** | **Vector merge edge cases** (grabbing hands, fighting, rotating ships during crossings) | [[spec_dimensional_travel_mechanics]] (Section 11) |
-| **2** | **Gradual vs. binary snap threshold** (does a crossing snap instantly or transition gradually?) | [[spec_dimensional_travel_mechanics]] (Section 11) |
-| **3** | **Atomic tension accumulation** (does it reset on physical-space return or accumulate over a career?) | [[spec_dimensional_travel_mechanics]] (Section 11) |
-| **4** | **Jovian dimensional clearing bubble extent** (how far does Jupiter's secondary clearing reach?) | [[spec_dimensional_travel_mechanics]] (Section 11) |
-| **5** | **Black hole efflux current mapping** (are there navigable currents near the belt?) | [[spec_dimensional_travel_mechanics]] (Section 11) |
-| **6** | **Mei retcon scope** (scope of updates for Chinese national cover story) | [[char_mei]], [[timeline_book01_incursions]] |
-| **7** | **Fortuna spin number confirmation** (confirming 100m ring radius, ~1.8 RPM, ~100 containers) | [[location_fortuna_station]] |
-| **8** | **Siren's container placement** (resolving pigs/heifers/Siren container mappings in the Ch. 2 plumbing crisis) | [[falcon_animal_manifest_book1]] |
-| **9** | **Helena's rebreather mask status** the night she crossed (did she have it on, indicating intent?) | [[char_helena]] |
+| ID | Topic / Question | Affected / Reference Documents | Status / Resolution |
+|---|---|---|---|
+| **1** | **Vector merge edge cases** (grabbing hands, fighting, rotating ships) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Collapses/merges via Will or time. fighting involves Will-pulls and counters. Bullet-stopping is possible. |
+| **2** | **Gradual vs. binary snap threshold** (does crossing snap instantly?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Snaps when vectors merge. Will-driven is gradual/fast; passive stopping jolt scales with vector delta. |
+| **3** | **Atomic tension accumulation** (does it reset or accumulate?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Does not reset. Damage remains, but Will-charged templates heal/repair and can resurrect (with memory blur/skill loss). |
+| **4** | **Jovian dimensional clearing bubble extent** (how far does it reach?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Gravity wells absorb Scar and eject to Hyperspace terrain, causing quakes. Pathways are misty; Kael sneaks eddies/gaps. |
+| **5** | **Black hole efflux current mapping** (navigable currents near the belt?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Purely illustrative. No black holes exist near the solar system. |
+| **6** | **Mei retcon scope** (scope of updates for Chinese national cover story) | [[char_mei]], [[timeline_book01_incursions]] | **OPEN.** |
+| **7** | **Fortuna spin number confirmation** (confirming 100m ring radius, ~1.8 RPM) | [[location_fortuna_station]] | **RESOLVED:** Three rings, 100m radius, ~1.7 RPM. Already canonical in files. |
+| **8** | **Siren's container placement** (resolving container in plumbing crisis) | [[falcon_animal_manifest_book1]] | **RESOLVED:** Siren is ship-at-large; she has no container. She is usually in the duck pen. |
+| **9** | **Helena's rebreather mask status** (did she have it on, indicating intent?) | [[char_helena]] | **RESOLVED:** Mask was ON. Cause of death post-crossing is open. |
 
 ---
 
@@ -37,11 +37,39 @@ Several referenced files and characters are missing from the vault and need to b
 
 These items have contradictory information that must be updated for worldbuilding consistency:
 
-| Issue | Details | Documents to Fix |
-|---|---|---|
-| **Falcon cylinder gravity** | Transit vignettes state `~0.4g`, conflicting with `0.3g` established in the main ship spec. | [[book01-transit-vignettes]], [[ship_falcon]] |
-| **Falcon dimensions pass** | Early chapters use old dimensions ("314 tanks", "100m diameter", "2.3 RPM"). These must be updated to the revised design (40m ring radius, ~36 tank zones, ~2.6 RPM). | [[book01-ch01-morning-round]], Ch. 2 plumbing crisis draft |
-| **FTL Travel Model Split** | The legacy rulebook's `4D Pocket + Tau-vector compression` model has been retired in favor of the `AI-Will + tears/crossing` model, but legacy summaries must verify no leftover mechanics remain active. | [[legacy_lexicon_and_rulebook_reconciliation]], [[spec_dimensional_travel_mechanics]] |
+| Issue | Details | Documents to Fix | Status / Resolution |
+|---|---|---|---|
+| **Falcon cylinder gravity** | Transit vignettes state `~0.4g`, conflicting with `0.3g` in ship spec. | [[book01-transit-vignettes]], [[ship_falcon]] | **RESOLVED:** Variable spin between 0.3g and 0.4g is intentional per `variable_spin` in ship_falcon.md. |
+| **Falcon dimensions pass** | Early chapters use old dimensions ("314 tanks", "100m diameter"). | [[book01-ch01-morning-round]], Ch. 2 plumbing crisis draft | **RESOLVED:** Verified that morning round and plumbing crisis drafts use 40m radius, ~36 tanks. |
+| **FTL Travel Model Split** | Legacy rulebook's `4D Pocket + Tau-vector compression` retired. | [[legacy_lexicon_and_rulebook_reconciliation]] | **RESOLVED:** 4D pocket compression retired and replaced by Will/tears model. |
+
+---
+
+## 4. Unresolved Arc Goals (To-Resolve List)
+
+This checklist tracks logical and narrative tests from the story arc documents that have not yet been met because their corresponding chapters are in outlines/notes and need to be drafted:
+
+### Arc 1 — The Falcon and Fortuna (Unresolved Goals)
+- [ ] **Jace's Identity:** Complete the process where Jace's identity collapse and reconstruction are fully shown, showing who he is and what he has lost.
+- [ ] **Never-Never & Sophia:** Properly introduce Sophia Lotte and the Never-Never, establishing what has been discovered and why nobody knows yet.
+- [ ] **First Crossing:** Draft the scene where Jace's first crossing and the Jace/Sophia/Cerberus partnership are established.
+- [ ] **Open-Source Decision:** Draft the scene where Nick and Jace make the open-source decision, turning `{Aura}` into the belt's distributed magic-interface layer.
+- [ ] **Swarm Attack:** Draft the Fortuna swarm attack to close Arc 1 with genuine danger.
+- [ ] **Astral Vehicle Subplot:** Run Jace's Astral vehicle experimentation subplot as an iterative, failure-heavy, but ultimately successful thread.
+- [ ] **Empirical Discovery of Rules:** Ensure the tau snap mechanic, distance² ratio, and atomic weight² crossing cost rule are discovered empirically by Jace and Sophia through experimentation, not exposition.
+- [ ] **LOX Eyebrow Incident:** Draft the LOX eyebrow incident (played for comedy but with genuine stakes establishing rocket ablation rules).
+- [ ] **Drone Survey Target:** Show Jace's drone survey using Astral N-1 perception to locate the platinum-rich asteroid target.
+- [ ] **Maureen's Trust:** Show Jace earning Maureen's trust during the Falcon swarm rescue.
+- [ ] **Cross-Dimensional Transport:** Demonstrate the first successful cross-dimensional machinery transport through the Astral.
+
+### Arc 2 — The Woven and the Unbound (Unresolved Goals)
+- [ ] **Galactic Context:** Help the reader understand what galactic Will-Network civilizations are and why humanity doesn't fit their frameworks.
+- [ ] **Kael's Character:** Establish Kael's conflict between protocol and conscience, resolving it in humanity's favor at the cost of her life.
+- [ ] **The Bloom:** Introduce the Bloom as a second outsider faction (alien, non-hostile, incomprehensible).
+- [ ] **Metis Rescue:** Draft the Metis rescue mission to establish Artemis as a major practitioner and introduce Dr. Eugene Hart.
+- [ ] **Dungeon Emergence:** Establish dungeon emergence on Earth and Mars as a separate but converging threat (introducing five POV characters, only one of whom survives).
+- [ ] **Jace's Imprisonment:** Conclude Arc 2 with Jace's imprisonment by the Bloom, creating stakes about being absorbed into a hierarchy.
+- [ ] **Aura HUD Recording:** Establish `{Aura}`'s recording of the Bloom transit as a future asset for Arc 3.
 
 ---
 *Generated by Antigravity AI agent.*
