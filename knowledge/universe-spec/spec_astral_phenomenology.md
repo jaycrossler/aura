@@ -230,7 +230,7 @@ The dist³ layer — Hyperspace — is only accessible beyond gravity wells. A p
 - See [[magic_will_and_templates]] for Will mechanics
 - See [[char_sophia_lotte]] for the first systematic observer
 - See [[char_jace_apollo]] for the temperature probe and wall-permeability discoveries
-- See [[char_dog_cerberus]] for the animal glow development
+- See [[char_cerberus]] for the animal glow development
 
 ## Revision Notes
 

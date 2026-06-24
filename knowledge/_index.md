@@ -87,6 +87,7 @@
     - magic_will_and_templates.md - name: Will and Templates — Core Metaphysical Mechanics; id: magic_will_and_templates; status: foundational; updated: 2026-05-31; type: foundational_magic_mechanics; description: "Defines core metaphysical mechanics: Will and Templates governing all magic."
     - magic_will_implications.md - name: Will — Deep Implications and Universe-Wide Consequences; id: magic_will_implications; status: canonical_working; updated: 2026-05-31; type: foundational_analysis; description: "Analyzes the universal biological and cosmic implications of conscious will generation."
 - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: "Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic."
+- priority_fix_list.md
 - README.md
 - review-queue/
     - review_2026-06-16_falcon_redesign.md - id: review_queue_2026-06-16_falcon_redesign; status: open; type: review_queue_item; description: "Review notes detailing inconsistencies and required updates for the Falcon ship redesign."

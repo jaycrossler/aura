@@ -35,18 +35,16 @@ welcome as *in-world alternate vocabulary*, not a contradiction.
 | The Astral Layer / Tau Space (dist²) | **The Astral** (dist² within gravity wells) — [[spec_astral_phenomenology]] | "Tau Space" already listed as an alt name. ✔ compatible. |
 | The Omega Layer (dist³, 5th-dim) | **Hyperspace** (dist³ beyond gravity wells) | Same concept (cubing layer). Name differs. ⚠ pick one primary; keep other as alt. |
 | Stepping *kata* / *ana* (down-into / up-back) | (no repo term) | **FOLD IN** as the practitioner lexicon for descend/ascend. Useful, no conflict. |
-| Tau Vector / "rubber-banding" compression | (partial — see tears/crossing) | **FOLD with care**: describes directional space-compression travel. ⚠ overlaps but isn't identical to the tear/self-crossing model. See conflicts. |
-| Dimensional Shear (biological speed limit) | (no repo term) | **FOLD IN**: micro-hemorrhage from over-fast compression. Compatible flavor for travel danger. |
+| Dimensional Shear (biological speed limit) | (no repo term) | **FOLD IN**: micro-hemorrhage from over-fast active crossing. Compatible flavor for travel danger. |
 | Dimensional Frostbite (heat redistribution → cold) | Astral cold + the new **flash-freeze** signature ([[magic_breach_crossers_transient]]) | ✔ compatible; the crossing-cold physics already exists. |
 | Volumetric Omni-View (see whole 3D volume) | **N-1 dimensional perception** — [[spec_astral_phenomenology]] | Same phenomenon, repo name preferred; "Omni-View" fine as slang. |
 | The Density Trap (heavy atoms blind the view) | (no repo term) | **FOLD IN**: dense elements (lead/gold/uranium) create visual fog/lensing in N-1 view. Compatible and useful. |
 | Mass-Will Resistance (cost ∝ mass × atomic density) | Crossing cost scale — [[spec_crossing_mechanics]] | ✔ same principle, already canon and more detailed. |
 | Sync-Crews / Choirs / Architects (pooled human Will) | (no repo term) | **FOLD IN**: clustered practitioners pooling Will into a lead "Architect" to move mass. Complements the AI-Will model; both can coexist. |
-| 4D Pockets (isolate a ship to compress space around it) | ⚠ conflicts/overlaps with tear + AI-Will ship transit | See conflicts. |
 | The Seep (Kata-Zero conditions bleed into Astral) | Atmospheric/thermal bleed — [[spec_crossing_mechanics]], [[spec_astral_phenomenology]] | ✔ same idea; repo more precise (60-90 s ambient, solar thermal gradient). |
 | The Vacuum Boundary (no seep in deep space) | ✔ covered (open-space Astral unbreathable) | |
 | Astral Parasites / night-feeders / leeches | **Motes / dimensional insects** + Tier-3 leeches — [[spec_threat_escalation]] | ✔ covered and expanded. |
-| The Fractal Wake (bioluminescent mandalas near a Tau pocket) | (no repo term) | **FOLD IN** (optional flavor): visible dimensional bleed near active compression. |
+| The Fractal Wake (bioluminescent mandalas near active crossing) | (no repo term) | **FOLD IN** (optional flavor): visible dimensional bleed near active crossing. |
 
 ## Folded-In Additions (now canon-as-alternate)
 
@@ -54,7 +52,7 @@ These had no repo home and are adopted (low conflict):
 
 - **Lexicon:** *stepping kata* (descend into the Astral/Hyperspace) and *stepping ana*
   (ascend back to physical space). Good practitioner slang; doesn't displace anything.
-- **Dimensional Shear** as the cellular speed limit on compression travel; **Density
+- **Dimensional Shear** as the cellular speed limit on active crossing travel; **Density
   Trap** (heavy atoms fog the N-1 view — already rhymes with the established "dense
   metals resist crossing"); **Fractal Wake** as optional visible bleed.
 - **Sync-Crews / Choirs / Architects:** clustered human practitioners pooling Will into
@@ -65,21 +63,17 @@ These had no repo home and are adopted (low conflict):
 
 ## CONFLICTS — Author Decision Needed (do not silently merge)
 
-1. **Ship travel model.** The old bible moves whole ships via **4D Pockets + Tau-vector
-   compression** carved by Sync-Crews (ship stays in Kata Zero; space compresses around
-   it). The repo's current model for moving complex tech across is **AI-Will + tears**
-   ([[spec_crossing_mechanics]], [[tech_never_never_transit]]). These are two different
-   FTL-ish mechanisms. **Pick one as primary**, or define how they relate (e.g.,
-   4D-pocket compression = the *long-range* travel mode; tears = *local* crossing).
+1. **Ship travel model (RESOLVED).** The retired legacy concept of using **4D Pockets + Tau-vector compression** is officially removed. The sole canonical model for ship-scale transit and moving complex technology across dimensions is **AI-Will + tears/crossing** ([[spec_crossing_mechanics]], [[tech_never_never_transit]]).
 2. **Hyperspace vs "Omega Layer."** Same dist³ layer, two names. Confirm "Hyperspace"
    is primary (repo) and "Omega Layer" is just alternate lexicon.
 3. **Explicit distance formulas.** The old bible states hard equations
    (d_real = d_astral², d_real = d_omega³). The repo describes dist²/dist³ qualitatively.
    Confirm whether to canonize the exact squared/cubed formulas.
 
-(All three are logged in [[review_2026-06-17_fortuna_incursions]].)
+(Remaining conflicts are logged in [[review_2026-06-17_fortuna_incursions]].)
 
 ## Revision Notes
+- 2026-06-24: Updated to remove retired "4D Pocket compression" and "Tau-vector compression" references. Primary ship travel model confirmed as AI-Will + tears.
 - 2026-06-17: New file. Folds the retired Physics & Metaphysics Rulebook bible: term map
   to current canon, adopted unique lexicon/mechanics (kata/ana, Sync-Crews, Density Trap,
   Dimensional Shear, Fractal Wake), and three flagged conflicts (ship-travel model,

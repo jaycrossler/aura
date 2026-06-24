@@ -98,13 +98,13 @@ U.S. Air Force Mars Detachment medical facility. Clinical, cool, familiar. A sta
 
 ## Cross-References
 
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md) (this scene is the hinge of his arc)
-- See [Athena Grant](../characters/char_sister_athena.md) (clearance result)
-- See [Artemis Grant](../characters/char_sister_artemis.md) (the Odysseus comms thread)
-- See [Cybernetic Augmentation Systems](../technology/tech_cybernetics.md) (HUD deactivation mechanics)
-- See [Communications Filtering and Censorship Architecture](../technology/tech_communications_filtering.md) (why Odysseus comms are bad)
-- See [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](event_jace_mars_tour_with_rich.md) (the setup this scene pays off)
-- See [Book 1 — Opening Notes](book01-opening-notes.md) for sequencing
+- See [[char_jace_apollo|Jace Apollo Grant]] (this scene is the hinge of his arc)
+- See [[char_sister_athena|Athena Grant]] (clearance result)
+- See [[char_sister_artemis|Artemis Grant]] (the Odysseus comms thread)
+- See [[tech_cybernetics|Cybernetic Augmentation Systems]] (HUD deactivation mechanics)
+- See [[tech_communications_filtering|Communications Filtering and Censorship Architecture]] (why Odysseus comms are bad)
+- See [[event_jace_mars_tour_with_rich|Scene — Mars Sponsor Tour with Lt. Rich Cullivan]] (the setup this scene pays off)
+- See [[book01-opening-notes|Book 1 — Opening Notes]] for sequencing
 
 ## Revision Notes
 

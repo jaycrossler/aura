@@ -140,11 +140,11 @@ How he eventually breaks — through evidence, through Mei's defection from his 
 
 ## Cross-References
 
-- See [Jace Apollo Grant](char_jace_apollo.md)
-- See [Mei](char_mei.md)
-- See [The United States of Mars](../factions/faction_united_states_mars.md)
-- See [Origin Industries](../factions/faction_origin_industries.md) (corporate cooperation channels)
-- See [Scene — The Origin Industries Negotiation](../scenes/event_jace_origin_negotiation.md) (precedes recruitment)
+- See [[char_jace_apollo|Jace Apollo Grant]]
+- See [[char_mei|Mei]]
+- See [[faction_united_states_mars|The United States of Mars]]
+- See [[faction_origin_industries|Origin Industries]] (corporate cooperation channels)
+- See [[event_jace_origin_negotiation|Scene — The Origin Industries Negotiation]] (precedes recruitment)
 
 ## Revision Notes
 

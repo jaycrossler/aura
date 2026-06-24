@@ -91,5 +91,5 @@ When magic returns and communications with the belt are cut, this cross-Mars coo
 
 ## Cross-References
 
-- See [The United States of Mars](faction_united_states_mars.md) for the American counterpart.
-- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md) for geographic context.
+- See [[faction_united_states_mars|The United States of Mars]] for the American counterpart.
+- See [[location_mars_overview|Mars (Inhabited World Overview)]] for geographic context.

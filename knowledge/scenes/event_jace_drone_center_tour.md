@@ -199,7 +199,7 @@ Jace looks back once at the wall of feeds before the door closes.
 - Rich uses Jace's first name throughout (peer-to-peer)
 - Operators use "LT" as the compassionate-nickname convention — warm, welcoming, the way junior enlisted greet a new lieutenant
 - Rich's travel mug is present but *small and normal at this point* — the progression to the large canister happens later
-- See [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md) for the full "LT" convention
+- See [[concept_military_address_culture|Military Address Culture — USAF and Space Force on Mars]] for the full "LT" convention
 
 ---
 
@@ -235,12 +235,12 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See [Scene — Day 2: Acclimation Day](event_jace_day2_acclimation.md) (Day 2 establishes the earplug setup)
-- See [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](event_jace_mars_tour_with_rich.md) (Day 1 rover tour and base overview)
-- See [Event: Jace Commander Welcome](event_jace_commander_welcome.md) (follows directly)
-- See [MilX — Military Implant Systems and the Implant Ecosystem](../universe-spec/concept_mil_ex_implants.md) (Level 2/3 access system)
-- See [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md)
-- See [Lieutenant Rich Cullivan](../characters/char_lt_rich_cullivan.md) (coffee progression table)
+- See [[event_jace_day2_acclimation|Scene — Day 2: Acclimation Day]] (Day 2 establishes the earplug setup)
+- See [[event_jace_mars_tour_with_rich|Scene — Mars Sponsor Tour with Lt. Rich Cullivan]] (Day 1 rover tour and base overview)
+- See [[event_jace_commander_welcome|Event: Jace Commander Welcome]] (follows directly)
+- See [[concept_mil_ex_implants|MilX — Military Implant Systems and the Implant Ecosystem]] (Level 2/3 access system)
+- See [[concept_military_address_culture|Military Address Culture — USAF and Space Force on Mars]]
+- See [[char_lt_rich_cullivan|Lieutenant Rich Cullivan]] (coffee progression table)
 
 ## Revision Notes
 

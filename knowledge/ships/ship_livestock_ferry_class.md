@@ -79,8 +79,8 @@ None are commissioned. The belt's agricultural supply chain remains entirely dep
 on the *Falcon* until they are.
 
 ## Cross-references
-- [Falcon](ship_falcon.md) — the sole operational vessel
-- [Modular Pod / Canister System](../technology/tech_modular_pod_canisters.md) — the berth/module concept shared with Fortuna Station
+- [[ship_falcon|Falcon]] — the sole operational vessel
+- [[tech_modular_pod_canisters|Modular Pod / Canister System]] — the berth/module concept shared with Fortuna Station
 - [char_maureen] — current captain
 - [location_fortuna_station] — primary destination
 

@@ -29,27 +29,27 @@ Each station is anchored to a large named asteroid and serves as a hub for the s
 
 ### Fortuna Station — 3 Fortuna (C-type, inner belt, ~2.4 AU)
 Jace Grant's destination. Agricultural hub. American-anchored, Origin Industries. Largest station, strongest food production. Livestock-primary ferry runs terminate here first.
-See [Fortuna Station](location_fortuna_station.md)
+See [[location_fortuna_station|Fortuna Station]]
 
 ### Psyche Station — 16 Psyche (M-type metallic, middle belt, ~2.92 AU)
 Most economically valuable. Chinese-anchored, Tianhe Cosmics. Iron-nickel and platinum-group metals. Strategic resource significance.
-See [Psyche Station](location_psyche_station.md)
+See [[location_psyche_station|Psyche Station]]
 
 ### Juno Station — 3 Juno (S-type, inner belt, ~2.67 AU)
 Construction materials. Governance TBD. Silicates and stony minerals for habitat construction. Natural trading partner with Fortuna.
-See [Juno Station](location_juno_station.md)
+See [[location_juno_station|Juno Station]]
 
 ### Sylvia Station — 87 Sylvia (X-type, outer belt, ~3.49 AU, with moons Romulus and Remus)
 Triple-body system, outer belt. Complex orbital environment. Future expansion potential via moons. Higher flux exposure than inner stations.
-See [Sylvia Station](location_sylvia_station.md)
+See [[location_sylvia_station|Sylvia Station]]
 
 ### Odysseus Station — 143 Odysseus (D-type, Jupiter L4, ~5.2 AU)
 Farthest permanent human habitation. Multinational. Artemis Grant stationed here. Highest flux exposure. First and most advanced magical emergence. Communications degraded earliest.
-See [Odysseus Station](location_odysseus_station.md)
+See [[location_odysseus_station|Odysseus Station]]
 
 ### Metis Station — 9 Metis (C-type, inner belt, ~2.4 AU)
 Small ship-building station near Fortuna. Run by Dr. Eugene Hart.
-See [Metis Station](location_metis_station.md)
+See [[location_metis_station|Metis Station]]
 
 
 ## Travel Times
@@ -103,10 +103,10 @@ What the belt learns — about safety practices, cross-tradition synthesis, the 
 
 ## Cross-References
 
-- See [The Belter Stations](../factions/faction_belter_stations.md) for political profiles of stations.
-- See [Nuclear Ferry System](../technology/tech_nuclear_ferries.md) for transit infrastructure.
-- See [The Returning Arts](../magic-systems/magic_returning_arts.md) for magic emergence.
-- See [Cosmology](../universe-spec/cosmology.md) for the radiation source.
+- See [[faction_belter_stations|The Belter Stations]] for political profiles of stations.
+- See [[tech_nuclear_ferries|Nuclear Ferry System]] for transit infrastructure.
+- See [[magic_returning_arts|The Returning Arts]] for magic emergence.
+- See [[cosmology]] for the radiation source.
 
 ## Revision Notes
 

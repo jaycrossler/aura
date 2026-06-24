@@ -38,7 +38,7 @@ This scarcity shapes belt culture, body type, social practice, and economy in wa
 - **Communication.** Slow but reliable. Voice and text crosses the system in minutes to hours; synchronous conversation is possible only within a station or local cluster. (At story start. The blackout will end this.)
 - **Mass-produced goods of belt manufacture.** Once a manufacturing template has been transmitted and local feedstocks are available, belt fabricators can produce on demand. Quality is variable; volume is real.
 - **Living space.** Basic. Often shared. Functional.
-- **Information.** Abundant in volume, variable in reliability. (See [The Information Environment (2105)](../technology/tech_information_environment.md).)
+- **Information.** Abundant in volume, variable in reliability. (See [[tech_information_environment|The Information Environment (2105)]].)
 
 ## The Time-Cost Economy
 
@@ -53,7 +53,7 @@ The Origin Industries pricing model — and the broader logistics economy it dom
 
 This is not just commercial framing. It is the economic shape of life in the belt. Every belter learns to think in these brackets — what they need now (must be local), what they can plan for (months out), what they accept will eventually arrive (years).
 
-The Origin time-cost pricing model is the dominant commercial expression of this scarcity, but it is not the cause. Origin is selling what the physics of the inner solar system already sells. (See [Origin Industries](../factions/faction_origin_industries.md).)
+The Origin time-cost pricing model is the dominant commercial expression of this scarcity, but it is not the cause. Origin is selling what the physics of the inner solar system already sells. (See [[faction_origin_industries|Origin Industries]].)
 
 ## Body and Workforce Implications
 
@@ -98,12 +98,12 @@ The magic system and the resource economy reinforce each other.
 
 ## Cross-References
 
-- [Fortuna Station](../locations/location_fortuna_station.md)
-- [The Belter Stations](../factions/faction_belter_stations.md)
-- [Origin Industries](../factions/faction_origin_industries.md) (the time-cost pricing model)
-- [Nuclear Ferry System](../technology/tech_nuclear_ferries.md)
-- [The Information Environment (2105)](../technology/tech_information_environment.md)
-- [Jace Apollo Grant](../characters/char_jace_apollo.md) (size-as-disadvantage in the Origin negotiation)
+- [[location_fortuna_station|Fortuna Station]]
+- [[faction_belter_stations|The Belter Stations]]
+- [[faction_origin_industries|Origin Industries]] (the time-cost pricing model)
+- [[tech_nuclear_ferries|Nuclear Ferry System]]
+- [[tech_information_environment|The Information Environment (2105)]]
+- [[char_jace_apollo|Jace Apollo Grant]] (size-as-disadvantage in the Origin negotiation)
 
 ## Revision Notes
 

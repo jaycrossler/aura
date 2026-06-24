@@ -78,12 +78,12 @@ One of the few public spaces in the district with substantial real Earth plant l
 
 ## Cross-References
 
-- See [Mars (Inhabited World Overview)](location_mars_overview.md)
-- See [Cybernetic Augmentation Systems](../technology/tech_cybernetics.md) (HUD market context)
-- See [Aura](../technology/tech_aura_ai.md) (Aura-mediated shopping)
-- See [The Information Environment (2105)](../technology/tech_information_environment.md) (influencer culture)
-- See [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](../scenes/event_jace_mars_tour_with_rich.md)
-- See [Scene — The Bar (Rumors of Disaster)](../scenes/event_jace_bar_rumors.md) (the supply-chain anxiety counterpart)
+- See [[location_mars_overview|Mars (Inhabited World Overview)]]
+- See [[tech_cybernetics|Cybernetic Augmentation Systems]] (HUD market context)
+- See [[tech_aura_ai|Aura]] (Aura-mediated shopping)
+- See [[tech_information_environment|The Information Environment (2105)]] (influencer culture)
+- See [[event_jace_mars_tour_with_rich|Scene — Mars Sponsor Tour with Lt. Rich Cullivan]]
+- See [[event_jace_bar_rumors|Scene — The Bar (Rumors of Disaster)]] (the supply-chain anxiety counterpart)
 
 ## Revision Notes
 

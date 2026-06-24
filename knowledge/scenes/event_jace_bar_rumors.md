@@ -92,12 +92,12 @@ This scene is good across multiple visits. As Jace's hard months stretch, the ba
 
 ## Cross-References
 
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
-- See [The Rat (the Mars Launch Facility Smuggler)](../characters/char_smuggler_mars.md) (the Rat)
-- See [The Information Environment (2105)](../technology/tech_information_environment.md)
-- See [Communications Filtering and Censorship Architecture](../technology/tech_communications_filtering.md)
-- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md)
-- See [Book 1 — Opening Notes](book01-opening-notes.md)
+- See [[char_jace_apollo|Jace Apollo Grant]]
+- See [[char_smuggler_mars|The Rat (the Mars Launch Facility Smuggler)]] (the Rat)
+- See [[tech_information_environment|The Information Environment (2105)]]
+- See [[tech_communications_filtering|Communications Filtering and Censorship Architecture]]
+- See [[location_mars_overview|Mars (Inhabited World Overview)]]
+- See [[book01-opening-notes|Book 1 — Opening Notes]]
 
 ## Revision Notes
 

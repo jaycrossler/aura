@@ -161,7 +161,7 @@ The universe rewards competence by sending harder problems.
 - See [[spec_scar_clearing_mechanics]] for the fauna catalogue and breach zone mechanics
 - See [[spec_crossing_mechanics]] for how practitioners interact with these threats
 - See [[magic_never_never]] for the blighted landscape context
-- See [[char_sophia_lotte]], [[char_jace_apollo]], [[char_dog_cerberus]] for the first practitioners navigating this escalation
+- See [[char_sophia_lotte]], [[char_jace_apollo]], [[char_cerberus]] for the first practitioners navigating this escalation
 
 ## Revision Notes
 

@@ -104,8 +104,8 @@ The *Falcon* transit then takes this baseline and stresses it — confined setti
 ## Cross-References
 
 - See all `event_jace_*.md` files in `/scenes/` for individual scene sketches.
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md) for the full character arc the sequence services.
-- See [Master Timeline](../timeline/timeline_master.md) for chronological placement.
+- See [[char_jace_apollo|Jace Apollo Grant]] for the full character arc the sequence services.
+- See [[timeline_master|Master Timeline]] for chronological placement.
 
 ## Revision Notes
 

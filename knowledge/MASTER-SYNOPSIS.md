@@ -70,7 +70,7 @@ His arc across the series:
 - **True goal:** Find a place where he matters, where his identity doesn't depend on a uniform.
 - **Need:** Learn to see himself, others, and the universe without the categorical certainty his training gave him. Magic will demand this of him.
 
-See [Jace Apollo Grant](characters/char_jace_apollo.md) for full profile.
+See [[char_jace_apollo|Jace Apollo Grant]] for full profile.
 
 ---
 
@@ -116,10 +116,10 @@ Book One ends with the first unambiguous magical event Jace witnesses (or causes
 
 ## Cross-References
 
-- See [Master Timeline](timeline/timeline_master.md) for the chronology.
-- See [Cosmology](universe-spec/cosmology.md) for the supernova and nebula.
-- See [The Returning Arts](magic-systems/magic_returning_arts.md) for magic mechanics.
-- See [Aura](technology/tech_aura_ai.md) for Aura.
-- See [The Cycler System](technology/tech_cyclers.md) and [Nuclear Ferry System](technology/tech_nuclear_ferries.md) for transit infrastructure.
+- See [[timeline_master|Master Timeline]] for the chronology.
+- See [[cosmology]] for the supernova and nebula.
+- See [[magic_returning_arts|The Returning Arts]] for magic mechanics.
+- See [[tech_aura_ai|Aura]] for Aura.
+- See [[tech_cyclers|The Cycler System]] and [[tech_nuclear_ferries|Nuclear Ferry System]] for transit infrastructure.
 - See `/factions/` for political structure.
-- See [Jace Apollo Grant](characters/char_jace_apollo.md) for the protagonist.
+- See [[char_jace_apollo|Jace Apollo Grant]] for the protagonist.

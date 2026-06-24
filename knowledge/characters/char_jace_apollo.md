@@ -346,7 +346,7 @@ Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactiva
 
 ## Cross-References
 
-- See [[char_dog_cerberus]] for the companion and first crossing partner
+- See [[char_cerberus]] for the companion and first crossing partner
 - See [[char_nick_lee]] for the best friend, gaming origin, and open-source co-decision
 - See [[char_sophia_lotte]] for the Astral partner and first teacher
 - See [[spec_crossing_mechanics]] for first crossing mechanics

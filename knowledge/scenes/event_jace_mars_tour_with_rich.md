@@ -277,11 +277,11 @@ The HUD/fiscal exchange should land more or less as drafted in the conversation:
 
 ## Cross-References
 
-- See [Lieutenant Rich Cullivan](../characters/char_lt_rich_cullivan.md)
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
-- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md)
-- See [Scene — The Doctor's Office](event_jace_doctor_appointment.md) (pays off this scene's setup)
-- See [Book 1 — Opening Notes](book01-opening-notes.md) for sequencing
+- See [[char_lt_rich_cullivan|Lieutenant Rich Cullivan]]
+- See [[char_jace_apollo|Jace Apollo Grant]]
+- See [[location_mars_overview|Mars (Inhabited World Overview)]]
+- See [[event_jace_doctor_appointment|Scene — The Doctor's Office]] (pays off this scene's setup)
+- See [[book01-opening-notes|Book 1 — Opening Notes]] for sequencing
 
 ## Revision Notes
 

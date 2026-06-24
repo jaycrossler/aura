@@ -216,10 +216,10 @@ For Jace specifically: his MilX's deep visual-cortex integration means that as h
 
 ## Cross-References
 
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
-- See [Aura — The Distributed AI System](concept_aura_ai_system.md)
-- See [Cybernetic Augmentation Systems](../technology/tech_cybernetics.md)
-- See [Magic — Overview and Fundamental Principles](../magic-systems/magic_overview.md)
+- See [[char_jace_apollo|Jace Apollo Grant]]
+- See [[concept_aura_ai_system|Aura — The Distributed AI System]]
+- See [[tech_cybernetics|Cybernetic Augmentation Systems]]
+- See [[magic_overview|Magic — Overview and Fundamental Principles]]
 
 ## Revision Notes
 

@@ -500,12 +500,12 @@ The following should NOT be invented and should be flagged:
 
 ## Cross-References
 
-- See [Scene — The Doctor's Office](event_jace_doctor_appointment.md) (parent scene file)
+- See [[event_jace_doctor_appointment|Scene — The Doctor's Office]] (parent scene file)
 - See `/characters/voice/char_jace_apollo_voice.md`
 - See `/characters/voice/char_lt_rich_cullivan_voice.md`
-- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
-- See [StoryBot Metadata Template Guide](../storybot/metadata_template_guide.md)
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md) (this scene is the hinge of his arc)
+- See [[scenes_temporal_map|Master Scenes Temporal Map]]
+- See [[metadata_template_guide|StoryBot Metadata Template Guide]]
+- See [[char_jace_apollo|Jace Apollo Grant]] (this scene is the hinge of his arc)
 
 ## Revision Notes
 

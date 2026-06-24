@@ -186,11 +186,11 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See [Lina Mills](../characters/char_lina_mills.md)
-- See [Early Manifestations — Pre-Understanding Phase](../magic-systems/magic_manifestations_early.md)
-- See [Magic — Overview and Fundamental Principles](../magic-systems/magic_overview.md) (stillness as portal theme)
-- See [Cerberus](../characters/char_cerberus.md) (parallel sensitivity thread)
-- See [Master Scenes Temporal Map](../timeline/scenes_temporal_map.md)
+- See [[char_lina_mills|Lina Mills]]
+- See [[magic_manifestations_early|Early Manifestations — Pre-Understanding Phase]]
+- See [[magic_overview|Magic — Overview and Fundamental Principles]] (stillness as portal theme)
+- See [[char_cerberus|Cerberus]] (parallel sensitivity thread)
+- See [[scenes_temporal_map|Master Scenes Temporal Map]]
 
 ## Revision Notes
 

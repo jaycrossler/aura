@@ -178,7 +178,7 @@ She is also, for the first time, not alone. That matters more than she expected.
 - See [[spec_crossing_mechanics]] for the mechanics she pioneered
 - See [[spec_astral_phenomenology]] for the physical properties she documented
 - See [[char_jace_apollo]] for the meeting and subsequent partnership
-- See [[char_dog_cerberus]] for Cerberus's role in the first meeting
+- See [[char_cerberus]] for Cerberus's role in the first meeting
 - See [[magic_returning_arts]] for how her framework intersects with rediscovered tradition
 
 ## Revision Notes

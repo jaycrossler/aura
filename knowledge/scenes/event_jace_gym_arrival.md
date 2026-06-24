@@ -80,11 +80,11 @@ Crowded. Mars residents take exercise seriously because they have to. Mandatory 
 
 ## Cross-References
 
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md)
-- See [Mars (Inhabited World Overview)](../locations/location_mars_overview.md)
-- See [Cybernetic Augmentation Systems](../technology/tech_cybernetics.md) (HUD form analysis as enhancement)
-- See [Scene — The Doctor's Office](event_jace_doctor_appointment.md) (this scene's payoff)
-- See [Book 1 — Opening Notes](book01-opening-notes.md)
+- See [[char_jace_apollo|Jace Apollo Grant]]
+- See [[location_mars_overview|Mars (Inhabited World Overview)]]
+- See [[tech_cybernetics|Cybernetic Augmentation Systems]] (HUD form analysis as enhancement)
+- See [[event_jace_doctor_appointment|Scene — The Doctor's Office]] (this scene's payoff)
+- See [[book01-opening-notes|Book 1 — Opening Notes]]
 
 ## Revision Notes
 

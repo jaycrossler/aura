@@ -87,6 +87,6 @@ In the belt, where governments are functionally absent, the corporations are eve
 
 ## Cross-References
 
-- See [The Cycler System](../technology/tech_cyclers.md) for the corporations that built and operate the cyclers.
-- See [Nuclear Ferry System](../technology/tech_nuclear_ferries.md) for ferry-operating consortia.
-- See [The Belter Stations](faction_belter_stations.md) for corporate-belter dynamics.
+- See [[tech_cyclers|The Cycler System]] for the corporations that built and operate the cyclers.
+- See [[tech_nuclear_ferries|Nuclear Ferry System]] for ferry-operating consortia.
+- See [[faction_belter_stations|The Belter Stations]] for corporate-belter dynamics.

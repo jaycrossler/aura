@@ -107,13 +107,13 @@ Origin is also positioned to be the corporation that *could* become a real antag
 
 ## Cross-References
 
-- See [The Megacorporations](faction_megacorps.md) (overview)
-- See [Fortuna Station](../locations/location_fortuna_station.md) (anchor station)
-- See [Falcon ("Barnyard 1" / "The Chicken Coop")](../ships/ship_falcon.md) (Origin ferry fleet)
-- See [Scene — The Origin Industries Negotiation](../scenes/event_jace_origin_negotiation.md)
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md) (Origin contractor)
-- See [Mei](../characters/char_mei.md) (Origin rancher cover)
-- See [Mars Fabrication District](../locations/location_mars_fabrication_district.md) (Origin operations)
+- See [[faction_megacorps|The Megacorporations]] (overview)
+- See [[location_fortuna_station|Fortuna Station]] (anchor station)
+- See [[ship_falcon|Falcon ("Barnyard 1" / "The Chicken Coop")]] (Origin ferry fleet)
+- See [[event_jace_origin_negotiation|Scene — The Origin Industries Negotiation]]
+- See [[char_jace_apollo|Jace Apollo Grant]] (Origin contractor)
+- See [[char_mei|Mei]] (Origin rancher cover)
+- See [[location_mars_fabrication_district|Mars Fabrication District]] (Origin operations)
 
 ## Revision Notes
 

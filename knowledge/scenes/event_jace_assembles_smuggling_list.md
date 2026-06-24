@@ -178,11 +178,11 @@ SHOULD NOT invent:
 
 ## Cross-References
 
-- See [The Rat (the Mars Launch Facility Smuggler)](../characters/char_smuggler_mars.md) (the Rat's full character file)
-- See [Artemis Grant](../characters/char_sister_artemis.md)
-- See [The Outbreak — Chronological Timeline of Magic's Return](../timeline/outbreak_timeline.md) (Phase 6)
-- See [Scene — The Origin Industries Negotiation](event_jace_origin_negotiation.md) (follows within days)
-- See [Scene — The Horse Farm Offer](event_jace_horse_farm_offer.md) (overlapping window)
+- See [[char_smuggler_mars|The Rat (the Mars Launch Facility Smuggler)]] (the Rat's full character file)
+- See [[char_sister_artemis|Artemis Grant]]
+- See [[outbreak_timeline|The Outbreak — Chronological Timeline of Magic's Return]] (Phase 6)
+- See [[event_jace_origin_negotiation|Scene — The Origin Industries Negotiation]] (follows within days)
+- See [[event_jace_horse_farm_offer|Scene — The Horse Farm Offer]] (overlapping window)
 
 ## Revision Notes
 

@@ -130,12 +130,12 @@ Whether this becomes romantic, fraternal, or something more uncategorizable is o
 
 ## Cross-References
 
-- See [Jace Apollo Grant](char_jace_apollo.md)
-- See [Mr. Sylvester](char_mr_sylvester.md)
+- See [[char_jace_apollo|Jace Apollo Grant]]
+- See [[char_mr_sylvester|Mr. Sylvester]]
 - See `/factions/faction_united_states_intelligence.md` (TBD — placeholder)
-- See [Origin Industries](../factions/faction_origin_industries.md) (cover employment)
-- See [Psyche Station](../locations/location_psyche_station.md)
-- See [Falcon ("Barnyard 1" / "The Chicken Coop")](../ships/ship_falcon.md)
+- See [[faction_origin_industries|Origin Industries]] (cover employment)
+- See [[location_psyche_station|Psyche Station]]
+- See [[ship_falcon|Falcon ("Barnyard 1" / "The Chicken Coop")]]
 
 ## Revision Notes
 

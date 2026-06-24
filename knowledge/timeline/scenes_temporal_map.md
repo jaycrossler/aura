@@ -69,7 +69,7 @@ The arrival day is structured as four linked sub-scenes that together form the b
 - **Date:** Day 1, ~early 2105 [STORYBOT: Anchor as 2105-03-15 unless author specifies]
 - **Time:** ~02:00 (Pinta lands)
 - **Function:** Arrival, first breath of Mars air, first meeting with Rich (who is carrying his coffee canister)
-- **Source:** [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](../scenes/event_jace_mars_tour_with_rich.md) (opening beats)
+- **Source:** [[event_jace_mars_tour_with_rich|Scene — Mars Sponsor Tour with Lt. Rich Cullivan]] (opening beats)
 
 #### Scene 02b: `event_jace_rover_tour`
 - **Chapter:** Ch01
@@ -85,14 +85,14 @@ The arrival day is structured as four linked sub-scenes that together form the b
   - Pangu/Pengu reference dropped in passing (oily-clothed Chinese workers transferring through)
   - Rover transit to base
   - Lunch
-- **Source:** [Scene — Mars Sponsor Tour with Lt. Rich Cullivan](../scenes/event_jace_mars_tour_with_rich.md)
+- **Source:** [[event_jace_mars_tour_with_rich|Scene — Mars Sponsor Tour with Lt. Rich Cullivan]]
 
 #### Scene 02c: `event_jace_drone_center_tour`
 - **Chapter:** Ch01
 - **Date:** Day 1
 - **Time:** ~16:00 (after lunch, after settling)
 - **Function:** Six drone operators, fleet scope reveal (~400 drones, ~900 robots), HUD+command reveal, Mei + Sylvester glimpse through secure-area window, **"almost a thousand American drones / half corporate" line** plants corporate Mars presence
-- **Source:** [Scene — Jace's Drone Control Center Tour](../scenes/event_jace_drone_center_tour.md)
+- **Source:** [[event_jace_drone_center_tour|Scene — Jace's Drone Control Center Tour]]
 
 #### Scene 02d: `event_jace_commander_welcome`
 - **Chapter:** Ch01
@@ -240,7 +240,7 @@ This is a recurring scene rather than a single scene. Each visit is a discrete s
 - **Chapter:** Ch03
 - **Date:** Hard months — TBD specific date, post-discharge, post-medical, between bar visits 06a and 06c
 - **Function:** Rich uses his base IT/comms access to do Jace one significant favor (specific favor mechanism TBD — see scene file)
-- **Source:** [Scene — Rich's Comms Favor for Jace](../scenes/event_rich_comms_favor.md)
+- **Source:** [[event_rich_comms_favor|Scene — Rich's Comms Favor for Jace]]
 - **Continuity flags:** This is the scene that pays off Rich's IT/comms role and his compassion-with-limits character note. Specific favor option (1–4 in scene file) needs author selection.
 
 ---
@@ -265,7 +265,7 @@ This is a recurring scene rather than a single scene. Each visit is a discrete s
 | Visit 5 | ~weeks 8–10 | Bond deepens; Jace doesn't say anything to anyone |
 | Visit 6 | Just before Origin | Quiet final visit. **The naming of the puppy as Cerberus** happens on the walk home from this or the previous visit. |
 
-**Source:** [Scene — Jace's Dog Breeder Visits](../scenes/event_jace_dog_breeder_visits.md)
+**Source:** [[event_jace_dog_breeder_visits|Scene — Jace's Dog Breeder Visits]]
 
 **Continuity flags:**
 - Cerberus's family lives at this facility; mother and sister ship to Fortuna ahead of him
@@ -310,7 +310,7 @@ This is a recurring scene rather than a single scene. Each visit is a discrete s
 - Dawn: Crying, relieved he refused
 - Chris: Proud (silent)
 
-**Source:** [Scene — The Horse Farm Offer](../scenes/event_jace_horse_farm_offer.md)
+**Source:** [[event_jace_horse_farm_offer|Scene — The Horse Farm Offer]]
 
 **Continuity flags:**
 - Jace's refusal of the parental sacrifice IS the driver for the Origin contract
@@ -493,7 +493,7 @@ When generating prose for any scene, the StoryBot must:
 4. **Apply emotional carry-over** — the discharge bleeds into all subsequent scenes; Jace cannot suddenly be "back to normal" the next morning
 5. **Maintain physical consistency** — Jace's appearance, weight, fitness level evolves; his HUD state (active/inactive/civilian-contractor) changes
 6. **Respect relationship state** — when Jace meets Mei "for the first time" formally, it must square with having glimpsed her at the base
-7. **Respect address conventions** — apply [Military Address Culture — USAF and Space Force on Mars](../universe-spec/concept_military_address_culture.md) consistently (Rich calls Jace "Jace"; junior enlisted call him "LT"; etc.)
+7. **Respect address conventions** — apply [[concept_military_address_culture|Military Address Culture — USAF and Space Force on Mars]] consistently (Rich calls Jace "Jace"; junior enlisted call him "LT"; etc.)
 8. **Respect the family-anchor details** — Jelly the family dog and Jinx the family horse exist on Earth; they recur in messaging beats and are load-bearing for the horse farm offer beat. Their continued well-being is canon.
 9. **Respect the Cerberus pre-bond** — by the time of the Origin negotiation, Jace has had weeks of attachment to the puppy at the Mars dog breeder facility. The negotiation ask is not impulse; it is the inevitable outcome of the recurring breeder scene.
 10. **Respect Rich's coffee canister** — it is part of his physical presence in every scene he appears in. The pause-and-sip is part of his speech rhythm.
@@ -505,12 +505,12 @@ When information is missing, the StoryBot may extrapolate consistently — but m
 ## Cross-References
 
 - See individual scene files in `/knowledge/scenes/` and `/knowledge/scenes/choreography/`
-- See [Master Timeline](../timeline/timeline_master.md) for higher-level chronology
+- See [[timeline_master|Master Timeline]] for higher-level chronology
 - See `/knowledge/characters/` for full character bios and voice profiles
-- See [Storybot Metadata Template Guide](../storybot/metadata_template_guide.md) for full metadata schema
+- See [[metadata_template_guide|Storybot Metadata Template Guide]] for full metadata schema
 - See `/knowledge/control/scene-registry.yaml` for the scene-id source-of-truth
 - See `/knowledge/control/story-structure.yaml` for narrative ordering
-- See [Session Notes — 2026-05-02 (Voice Session, Rich + Early Scenes + Cerberus + Hard Months)](../review-queue/session_notes_2026-05-02.md) for the session log
+- See [[session_notes_2026-05-02|Session Notes — 2026-05-02 (Voice Session, Rich + Early Scenes + Cerberus + Hard Months)]] for the session log
 
 ## Revision Notes
 

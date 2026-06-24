@@ -110,9 +110,9 @@ Jace's Aura has the following starting characteristics (refine in his character 
 
 ## Cross-References
 
-- See [Jace Apollo Grant](../characters/char_jace_apollo.md) for Jace's specific Aura.
-- See [Physics and Magic Interaction](../universe-spec/physics-and-magic-interaction.md) for AI-magic interactions.
-- See [Cybernetic Augmentation Systems](tech_cybernetics.md) for HUD-integrated Aura instances.
-- See [Crossing Mechanics](spec_crossing_mechanics.md) for the AI Will discovery arc (5 stages, 2104–2120).
-- See [Astral phenomena](spec_astral_phenomenology.md) for how AI systems appear in the Astral.
-- See [Will Implications](magic_will_implications.md) for the AI Will question in the broader context.
+- See [[char_jace_apollo|Jace Apollo Grant]] for Jace's specific Aura.
+- See [[physics-and-magic-interaction|Physics and Magic Interaction]] for AI-magic interactions.
+- See [[tech_cybernetics|Cybernetic Augmentation Systems]] for HUD-integrated Aura instances.
+- See [[spec_crossing_mechanics|Crossing Mechanics]] for the AI Will discovery arc (5 stages, 2104–2120).
+- See [[spec_astral_phenomenology|Astral phenomena]] for how AI systems appear in the Astral.
+- See [[magic_will_implications|Will Implications]] for the AI Will question in the broader context.

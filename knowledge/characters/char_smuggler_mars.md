@@ -121,12 +121,12 @@ He is not malicious. He is opportunistic. The line between the two becomes thinn
 
 ## Cross-References
 
-- See [Jace Apollo Grant](char_jace_apollo.md)
-- See [Artemis Grant](char_sister_artemis.md)
-- See [Mars Fabrication District](../locations/location_mars_fabrication_district.md)
-- See [Scene — The Bar (Rumors of Disaster)](../scenes/event_jace_bar_rumors.md)
-- See [Scene — The Origin Industries Negotiation](../scenes/event_jace_origin_negotiation.md)
-- See [Origin Industries](../factions/faction_origin_industries.md) (his contractor relationships)
+- See [[char_jace_apollo|Jace Apollo Grant]]
+- See [[char_sister_artemis|Artemis Grant]]
+- See [[location_mars_fabrication_district|Mars Fabrication District]]
+- See [[event_jace_bar_rumors|Scene — The Bar (Rumors of Disaster)]]
+- See [[event_jace_origin_negotiation|Scene — The Origin Industries Negotiation]]
+- See [[faction_origin_industries|Origin Industries]] (his contractor relationships)
 
 ## Revision Notes
 
