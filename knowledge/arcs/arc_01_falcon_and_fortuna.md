@@ -333,7 +333,7 @@ Nick Lee on Fortuna follows the *Falcon*'s pig-cam like a nature documentary. He
 1. The swarm is genuinely dangerous — this is not a drill
 2. The improvised defense shows what Fortuna has developed: rust-guns, analog pivot, engineering solutions
 3. Jin Luong and the Chinese miners fight fiercely; Mei reveals her true nature as an intelligence agent to save them and coordinate defense
-4. {Seek} is destroyed by Astral predators during the chaos; the Chinese miners cry with relief as the coercive AI is removed
+4. {Seek} is destroyed by Astral predators during the chaos. The predators are drawn to the central spire because the massive AI hardware generates "Will," which they consume. This causes the AIs to degrade into madness while the predators physically bite and mangle the server machinery. The Chinese miners cry with relief as the coercive AI is removed.
 5. The scale is survivable but barely — the station is not fine, but the destruction of {Seek} leads to a sudden thaw in relations with the Chinese detachment
 
 **Must NOT do:**

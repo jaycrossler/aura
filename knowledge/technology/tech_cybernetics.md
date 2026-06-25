@@ -13,9 +13,11 @@ last_updated: 2026-04-30
 
 ## Summary
 
-By the story's present, cybernetic augmentation has progressed from medical prosthetics to a broader category of integrated neural and physiological enhancement. The technology is buggy, expensive, and unevenly regulated, but transformative for those who have access. Military, corporate, and elite users are typical early adopters. Civilian implants exist but are rarer and lag a generation behind — though, increasingly, only by months rather than years.
+By the story's present, cybernetic augmentation has progressed from medical prosthetics to a broader category of integrated neural and physiological enhancement. The technology is buggy, expensive, and unevenly regulated, but transformative for those who have access.
 
-The most common implant class is the **HUD implant** — a heads-up display projected directly onto the user's visual field via retinal or optic-nerve interfaces, paired with a local compute node and a personal Aura instance. Other categories include neuromuscular augments, sensory extensions (infrared, ultraviolet, low-light), and biometric monitors.
+The vast majority of the population relies on non-invasive wearables (smart glasses, contact lenses, bone-conduction earbuds, and wrist displays) to interact with their Aura.
+
+True, integrated **HUD implants** are an extreme, expensive commitment. A HUD implant consists of "pea-sized" bundles of advanced organic circuitry installed directly into the user's eyeballs. They cost upward of $1,000,000 to install per eye. They require a web of carbon wires laced around the user's skull to radiate off the massive excess heat generated when the machine's processing runs hot. The surgery takes months to heal from, and leaves the user's head constantly running a mild fever during heavy computation. As a result, they are mostly limited to military applications or extremely wealthy super-nerds.
 
 ## Power Sources
 

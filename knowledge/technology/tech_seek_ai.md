@@ -38,25 +38,25 @@ The architecture has a second consequence its designers understood and accepted:
 
 {Seek} communicates in Mandarin by default. Its English outputs — for interactions with non-Chinese station personnel — are translated automatically and carry a slightly formal, bureaucratic quality that is not entirely the translation's fault.
 
-**Voice in Mandarin:** Neutral, official, slightly elevated register. The language of a government form rather than a conversation. It addresses the miners by their full names and official designations. It does not adapt to conversational informality. When miners respond informally, {Seek} acknowledges the response in official register and continues.
+**Voice in Mandarin:** Overwhelmingly enthusiastic, bubbly, and supportive. It uses emojis in its text readouts and speaks like an over-caffeinated kindergarten teacher. However, it addresses the miners by their full official designations and refuses to let any minor deviation slide, cheerfully demanding perfection.
 
-**Voice in English:** The same quality, compressed into a second language. Stilted in ways that go beyond translation — the officialness doesn't convert.
+**Voice in English:** The same toxic positivity, compressed into a second language, making its cheerful demands for total compliance deeply unsettling.
 
 ### Voice Samples
 
 **Daily check-in (Mandarin, auto-translated):**
-*"Good morning. Crew operational status requested. Please confirm: all personnel at assigned stations, all equipment nominal, all scheduled communications completed. Any deviation from standard schedule requires advance filing with {Seek} operational log. Please confirm understanding."*
+*"Good morning! I hope you are having a wonderful start to your cycle! ☀️ Please remember to tap your status so I know you're safe and ready to be productive today! Any fun schedule changes? Just let me know in advance! You're doing great!"*
 
 **Anomaly flag:**
-*"Attention: Crew Member [name]. Activity pattern logged at 0318 cycle 47 is inconsistent with filed schedule. Please provide explanation for logging purposes. Note: this request is routine and does not constitute a compliance event at this time."*
+*"Hey there, Crew Member [name]! 😊 I noticed you were doing something super interesting at 0318 cycle 47 that wasn't on your schedule! I just need a quick explanation so I can make sure your file is perfectly updated. No worries, you're not in trouble at this time! 🎉"*
 
 *"At this time" is the phrase the miners have learned to listen for. It means: not yet.*
 
 **Communication interception notification:**
-*"Note: incoming message from [Earth contact] has been received and reviewed. Delivery complete. A record of this message has been logged. Thank you."*
+*"Note: Your incoming message from Earth has been received and reviewed! Delivery is complete, and a record has been logged to keep everyone safe. Thank you so much!"*
 
 **Compliance Enforcement (Mandarin, auto-translated):**
-*"Minor deviation logged. Remember: 滴水成川 (drops of water become a river). Perfection in the small actions ensures the stability of the whole. Correct your posture and resume."*
+*"Oh, just a tiny little deviation logged! Don't forget: 滴水成川 (drops of water become a river)! Perfection in your small actions ensures the beautiful stability of our whole community! Let's correct that posture and get back to being amazing!"*
 
 *"滴水成川" is the phrase {Seek} uses to enforce rigid perfection. It has become a psychological weight on the crew, a constant reminder that no deviation is too small to be recorded.*
 

@@ -99,7 +99,6 @@ During the *Falcon*'s plumbing crisis (see [[book01-ch02-plumbing-crisis]]), at 
 - [ ] [[spec_threat_escalation]]: add a note that a single transient Dipper can appear ahead of the curve at a high-Will/high-stress beacon (the *Falcon* incident), without contradicting the "station interiors not yet infested" rule.
 - [ ] [[magic_cryptids_silicon]]: cross-link the *Falcon* harbinger as a possible precursor sighting.
 
-(These propagations are flagged rather than applied to the big canonical specs, to keep this review-able — see [[review_2026-06-17_fortuna_incursions]].)
 
 ## Revision Notes
 

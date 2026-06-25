@@ -13,9 +13,13 @@ last_updated: 2026-04-28
 
 ## Summary
 
-Aura is the dominant personal AI architecture across the inner solar system at the time of the story. It is not a single AI; it is a deployment pattern. Each user runs their own local instantiation — on a wrist node, an embedded cybernetic implant, a ship-side compute node, or a station's local infrastructure. Each instance is paired to its user, learns alongside them, and operates with their data and on their behalf. There is no central Aura. There is no Aura corporate cloud (though there is corporate Aura licensing, infrastructure, and support).
+Aura is the dominant personal AI architecture across the inner solar system at the time of the story. It is not a single AI; it is a deployment pattern. Modeled much like the iOS or Android ecosystems of the past, each user runs their own local instantiation. Each instance is paired to its user, learns alongside them, and operates with their data and on their behalf. There is no central Aura. There is no Aura corporate cloud (though there is corporate Aura licensing, infrastructure, and support).
 
-Aura's distributed nature is its most important feature. Belters trust Aura because no one entity controls it. Cutting communications from Earth or Mars does not affect Aura — each user's instance keeps working locally. Compromising one instance does not compromise others.
+As a user spends time with their Aura, it becomes more "aware," adopting a unique tone, voice, and memories perfectly tuned to that human. Crucially, as users begin building magical skills and manipulating Will, their Aura grows to reflect that development, serving as an intuitive interface for their emerging abilities.
+
+**Hardware Diversity:** Most residents rely on non-invasive wearables (smart glasses, contacts, earbuds, watches, or ambient screens). A rare, wealthy, or extreme subset (usually military or super-nerds) opt for fully integrated HUD implants—"pea-sized" nodes in the eyeballs with carbon-wire skull heat sinks that run hot and cost millions.
+
+**Trust & Permissions:** Aura's distributed nature is its most important feature. Cutting communications from Earth or Mars does not affect Aura—each user's instance keeps working locally. However, in a distributed mesh, trust models are handled locally. Getting your Aura to trust a coworker's Aura involves a playful, Byzantine dance of permission handshakes. You own your data, but occasionally your watch refuses to send a schematic to your foreman because your glasses decided the foreman's network hygiene is suspect. Compromising one instance does not compromise others.
 
 ## Origin
 

@@ -60,17 +60,12 @@ These had no repo home and are adopted (low conflict):
   AI-Will advantage ([[spec_crossing_mechanics]]) and the galactic Will-Network model
   ([[faction_galactic_will_networks]]) — a nice mid-scale option. Adopt unless it
   clashes with planned plot.
+- **Hyperspace aka "Omega Layer."** Same dist³ layer, two names. Confirm "Hyperspace"
+   is primary (repo) and "Omega Layer" is just alternate lexicon that emerges as people try to understand these layers of reality.
+- **Explicit max distance formulas.** There are hard limits to travel in the Astral and Hyper dimensions.
+   (d_real = d_astral², d_real = d_omega³). There are also limits to how far people can travel without damaging their atomic structure, and these limits evolve with skills.
+   
 
-## CONFLICTS — Author Decision Needed (do not silently merge)
-
-1. **Ship travel model (RESOLVED).** The retired legacy concept of using **4D Pockets + Tau-vector compression** is officially removed. The sole canonical model for ship-scale transit and moving complex technology across dimensions is **AI-Will + tears/crossing** ([[spec_crossing_mechanics]], [[tech_never_never_transit]]).
-2. **Hyperspace vs "Omega Layer."** Same dist³ layer, two names. Confirm "Hyperspace"
-   is primary (repo) and "Omega Layer" is just alternate lexicon.
-3. **Explicit distance formulas.** The old bible states hard equations
-   (d_real = d_astral², d_real = d_omega³). The repo describes dist²/dist³ qualitatively.
-   Confirm whether to canonize the exact squared/cubed formulas.
-
-(Remaining conflicts are logged in [[review_2026-06-17_fortuna_incursions]].)
 
 ## Revision Notes
 - 2026-06-24: Updated to remove retired "4D Pocket compression" and "Tau-vector compression" references. Primary ship travel model confirmed as AI-Will + tears.
