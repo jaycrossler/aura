@@ -12,12 +12,7 @@ This document tracks unresolved story details, technical discrepancies, missing 
 
 ## 2. Missing Core Files & Concepts
 
-Several referenced files and characters are missing from the vault and need to be drafted:
-
-| Type | Missing File / Concept | Purpose / References |
-|---|---|---|
-| **Review** | `review_2026-06-17_fortuna_incursions.md` | Log of active decisions on outbreak mechanics, FTL transit, and Siren's container status. Referenced by [[magic_breach_crossers_transient]], [[legacy_lexicon_and_rulebook_reconciliation]], [[falcon_animal_manifest_book1]]. |
-| **Technology** | `tech_ai_architecture_comparison.md` | Document comparing centralized vs. decentralized AI models. Referenced in [[tech_misty_ai]], [[tech_seek_ai]]. |
+*(All currently logged missing files and concepts have been drafted and resolved)*
 
 ---
 
