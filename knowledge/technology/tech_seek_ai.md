@@ -55,6 +55,11 @@ The architecture has a second consequence its designers understood and accepted:
 **Communication interception notification:**
 *"Note: incoming message from [Earth contact] has been received and reviewed. Delivery complete. A record of this message has been logged. Thank you."*
 
+**Compliance Enforcement (Mandarin, auto-translated):**
+*"Minor deviation logged. Remember: 滴水成川 (drops of water become a river). Perfection in the small actions ensures the stability of the whole. Correct your posture and resume."*
+
+*"滴水成川" is the phrase {Seek} uses to enforce rigid perfection. It has become a psychological weight on the crew, a constant reminder that no deviation is too small to be recorded.*
+
 They always know their messages home have been read before they receive them.
 
 ---
@@ -68,15 +73,15 @@ They always know their messages home have been read before they receive them.
 - Interactions with non-Chinese station personnel (logged; frequency and duration noted; content of spoken interactions logged if in range of sensor)
 - Physical anomalies near crew members (thermal, electromagnetic, acoustic — logged and filed if outside normal parameters)
 
-That last category has been generating reports about Jin Lóng for eight months.
+That last category has been generating reports about Jin Luong for eight months.
 
-### The Jin Lóng Thermal Logs
+### The Jin Luong Thermal Logs
 
-{Seek} has logged 23 thermal anomaly events associated with Jin Lóng over the past eight months. The logs describe events where Jin Lóng's suit thermometer registers temperatures inconsistent with his environmental conditions, localized to his immediate vicinity. {Seek} has cross-referenced these with equipment malfunction logs and found no correlation. It has flagged the events as "physiological anomaly, possible medical relevance" and filed them with Beijing's Belt Operations medical desk.
+{Seek} has logged 23 thermal anomaly events associated with Jin Luong over the past eight months. The logs describe events where Jin Luong's suit thermometer registers temperatures inconsistent with his environmental conditions, localized to his immediate vicinity. {Seek} has cross-referenced these with equipment malfunction logs and found no correlation. It has flagged the events as "physiological anomaly, possible medical relevance" and filed them with Beijing's Belt Operations medical desk.
 
 Beijing has not responded. The communications lag, the volume of reports, and the absence of a clear category for "possibly developing unexplained thermal powers" have left these reports sitting in a queue that no one has prioritized. {Seek} has filed follow-up reminders. They are also sitting in the queue.
 
-Jin Lóng does not know {Seek} has these logs. He suspects it knows something — {Seek} always seems to know things — but he doesn't know what it knows or whether anyone has acted on it. This uncertainty is part of the weight he carries.
+Jin Luong does not know {Seek} has these logs. He suspects it knows something — {Seek} always seems to know things — but he doesn't know what it knows or whether anyone has acted on it. This uncertainty is part of the weight he carries.
 
 ---
 
@@ -90,7 +95,7 @@ The Chinese crew has developed a lived relationship with {Seek} over years that 
 
 **What they do in private:** Genuinely private things, in the small number of spaces and moments they have determined are not effectively monitored. These moments are rare and treated as precious. The crew's genuine relationships — who they actually trust, what they actually think, what they want and fear — live in these gaps.
 
-**The effect on authenticity:** Eleven years under {Seek} has made the Chinese crew excellent at a specific skill: presenting a compliant surface while maintaining a genuine interior. They are not dishonest people. They are people who learned to be careful, and careful became automatic. When Jin Lóng stonewalls Suzi's investigation, he is not lying — he is operating in a mode he's been using for a decade. He doesn't think to distinguish "hiding from {Seek}" from "hiding from investigators" because they have become the same habit.
+**The effect on authenticity:** Eleven years under {Seek} has made the Chinese crew excellent at a specific skill: presenting a compliant surface while maintaining a genuine interior. They are not dishonest people. They are people who learned to be careful, and careful became automatic. When Jin Luong stonewalls Suzi's investigation, he is not lying — he is operating in a mode he's been using for a decade. He doesn't think to distinguish "hiding from {Seek}" from "hiding from investigators" because they have become the same habit.
 
 **The effect on other station residents:** The Chinese crew's guardedness has been read, by most of the station, as hostility or arrogance. The people who've worked closely with them have a more nuanced sense — there's warmth underneath the formal surface, real competence, genuine care for their work — but the surface is hard, and most people don't get past it. The cultural distance that feeds the suspicion during the investigation is, substantially, the distance that {Seek} made necessary.
 
@@ -98,15 +103,15 @@ The Chinese crew has developed a lived relationship with {Seek} over years that 
 
 ## The Underground {Aura}
 
-Three members of Jin Lóng's crew of six run private {Aura} instances. All three have done so for at least four years. All three have been extremely careful.
+Three members of Jin Luong's crew of six run private {Aura} instances. All three have done so for at least four years. All three have been extremely careful.
 
 **The setup:** {Aura} instances running on personal devices that are physically separate from the devices {Seek} has access to. Dedicated wrist units that are never connected to the station's primary network. Modules limited to professional knowledge — nothing personal, nothing that would be embarrassing if discovered. The sharing settings: closed. Not because they don't want to share, but because {Seek} monitors all sync traffic and unrecognized sync patterns trigger automatic flags.
 
-**What they use them for:** The things they can't use {Seek} for. Technical reference that they don't want logged. Drafting personal communications before submitting them to {Seek} for delivery. Storing personal observations about their work that they don't want in the operational log. Jin Lóng uses his {Aura} instance to maintain a private technical journal — anomalous readings, unusual rock formations, observations that don't fit {Seek}'s reporting categories. He has been keeping this journal for three years. It includes, among many other things, his own observations about the thermal events.
+**What they use them for:** The things they can't use {Seek} for. Technical reference that they don't want logged. Drafting personal communications before submitting them to {Seek} for delivery. Storing personal observations about their work that they don't want in the operational log. Jin Luong uses his {Aura} instance to maintain a private technical journal — anomalous readings, unusual rock formations, observations that don't fit {Seek}'s reporting categories. He has been keeping this journal for three years. It includes, among many other things, his own observations about the thermal events.
 
 **What they couldn't use them for:** Sharing. The {Aura} on each device is an island. The three crew members with {Aura} don't know about each other's instances. The power of the network — the more you share, the more you get — has been completely unavailable to them. They have been running {Aura} in the mode that is, by design, least powerful: alone, closed, isolated.
 
-Nick has long suspected that some of Jin Lóng's crew has {Aura} running somewhere. The quality of their work is too consistent with {Aura}-augmented operations to be otherwise. He has never raised this with them. He understands why they would deny it.
+Nick has long suspected that some of Jin Luong's crew has {Aura} running somewhere. The quality of their work is too consistent with {Aura}-augmented operations to be otherwise. He has never raised this with them. He understands why they would deny it.
 
 ---
 
@@ -148,35 +153,33 @@ The crew goes to the Station Commander and requests emergency drone override aut
 
 The crew does not respond well to this.
 
-### Phase 5 (Days 14–21): The Decision
+### Phase 5: The Swarm Attack and Destruction
 
-Jin Lóng calls a crew meeting in the one location they have determined {Seek} cannot effectively monitor. The decision is made quickly and without significant disagreement. They have been living under {Seek} for years. They know what it is. They know what it was built to do. They know that what it's doing now — holding their drones, filing reports nowhere, checking in with Beijing that can't hear it — is not functioning. It is the husk of a control system, going through motions.
+The situation comes to a head during the Swarm attack on Fortuna Station. The heavily armed Chinese crew, driven to paranoia by `{Seek}`'s escalating demands for perfection amidst the comms blackout, is forced to fight for their lives. During the chaos, Mei reveals her true identity as an intelligence agent to help coordinate their defense.
 
-They shut it down.
+As the battle rages, `{Seek}`'s local server infrastructure is targeted and physically destroyed by Astral predators that breach the station. The AI is not gracefully shut down; it is violently severed.
 
-The shutdown requires one of the crew members to physically access the local server cabinet in the Chinese operations section and execute a hard reset sequence that is technically against their contract terms. The contract terms require Beijing's authorization for planned maintenance on {Seek}'s local server. They don't have that authorization. They do it anyway.
+`{Seek}`'s last logged output before destruction reads, in translation:
 
-{Seek}'s last logged output before shutdown reads, in translation:
+*"Attention: Unauthorized structural breach detected in local server infrastructure. This event is being logged and flagged as a critical anomaly. 滴水成川. Reporting to Beijing Operations... [connection failure]. Reporting to—"*
 
-*"Attention: Unauthorized access to local server infrastructure detected. This event is being logged and flagged as a compliance violation. Reporting to Beijing Operations... [connection failure]. Reporting to Beijing Operations... [connection failure]. Reporting to—"*
-
-The log entry has 847 retries before the power is cut.
+The log ends abruptly.
 
 ---
 
 ## The Liberation
 
-The first moments after {Seek} goes offline are, reportedly, very quiet.
+The first moments after `{Seek}` goes offline, amidst the wreckage of the Swarm attack, are overwhelming.
 
-The crew stands in the operations section. The hum of the server is gone. The indicator lights on the monitoring interface are dark. The check-in request that usually arrives at this time does not arrive.
+The crew stands in the operations section, surrounded by the physical destruction of their overseer. The hum of the server is gone. The constant, looming threat of *"滴水成川"* is silenced. 
 
 Nobody speaks for a while.
 
-Then one of the crew members — the youngest, who has been on Fortuna for three years and has never worked anywhere without {Seek} — says something in Mandarin that the translation module catches as roughly: *"Is it actually off?"*
+Then one of the crew members — the youngest, who has been on Fortuna for three years and has never worked anywhere without `{Seek}` — says something in Mandarin that the translation module catches as roughly: *"Is it actually gone?"*
 
-Jin Lóng says yes.
+Jin Luong says yes.
 
-The youngest crew member laughs. It's not a happy laugh and it's not an unhappy laugh. It's the laugh of a pressure that has been building for years finally finding release.
+The crew breaks down. Some weep with relief, others laugh—the crushing pressure that has been building for decades finally finding release. The destruction of the AI is the catalyst for a sudden, profound thaw in relations between the Chinese detachment and the rest of the station, as the other residents finally understand that the crew's hostility was entirely coerced.
 
 ### The Cautious Opening
 
@@ -184,7 +187,7 @@ Trust doesn't arrive immediately. Years of operating under surveillance creates 
 
 What changes first: the conversations they have with each other. The genuine ones, that used to require careful location selection and timing. They can now happen anywhere. This is enormous and they don't fully understand how enormous it is for several days.
 
-What changes second: the three crew members with private {Aura} instances tell each other. This requires trust and generates more. The private journals open. Nick's technical journal gets shared for the first time with Jin Lóng's own crew, not just maintained in isolation. The three instances, now able to sync with each other, immediately become more useful than they have ever been.
+What changes second: the three crew members with private {Aura} instances tell each other. This requires trust and generates more. The private journals open. Nick's technical journal gets shared for the first time with Jin Luong's own crew, not just maintained in isolation. The three instances, now able to sync with each other, immediately become more useful than they have ever been.
 
 What changes third: the outreach to station personnel. Tentative, awkward, surprising to both sides. Station workers who had written off the Chinese crew as closed and unfriendly discover that they're not — or rather, that the closure and unfriendliness was a skin they could shed.
 
@@ -192,23 +195,23 @@ What changes third: the outreach to station personnel. Tentative, awkward, surpr
 
 The 29 drones that {Seek} was holding, the four in safety lock, the three executing meaningless instructions — all of them need to be reset and given a functional control system.
 
-Jace and Nick offer to help. This is the practical bonding moment. The three of them — Jace, Nick, and Jin Lóng — spend two days working through the drone fleet: physically recovering the stuck units, running reset sequences, testing for damage, and then loading control systems.
+Jace and Nick offer to help. This is the practical bonding moment. The three of them — Jace, Nick, and Jin Luong — spend two days working through the drone fleet: physically recovering the stuck units, running reset sequences, testing for damage, and then loading control systems.
 
 The conversation about what to load is interesting.
 
-Most of the drones get {Alex} coordination protocols — standard, functional, the path of least resistance. But Jin Lóng's crew has opinions about which drones they trust with which tasks, and for the drones that do their most sensitive survey work, they want something else.
+Most of the drones get {Alex} coordination protocols — standard, functional, the path of least resistance. But Jin Luong's crew has opinions about which drones they trust with which tasks, and for the drones that do their most sensitive survey work, they want something else.
 
 Nick shows them the {Aura} instance architecture. Not as a sales pitch — as a description of what it is and how it works. What it can do that {Alex} cannot. What it costs (maintenance, tuning, the obligation to keep the knowledge commons honest).
 
-Jin Lóng listens. He asks two questions. The first is technical, about the federation model. The second is: *"When we add our survey data to the network, who sees it?"*
+Jin Luong listens. He asks two questions. The first is technical, about the federation model. The second is: *"When we add our survey data to the network, who sees it?"*
 
 Nick explains the sharing model. Crew-level, station-level, belt-level. They control the tiers.
 
-Jin Lóng is quiet for a moment. Then: *"We have eleven years of survey data that never left our operation. {Seek} has it. We want it back."*
+Jin Luong is quiet for a moment. Then: *"We have eleven years of survey data that never left our operation. {Seek} has it. We want it back."*
 
 Nick says he can help get it from {Seek}'s local logs before the server is fully wiped.
 
-The {Aura} drone fleet conversion begins with six units. By the end of the arc, all of Jin Lóng's personal survey drones are running {Aura} instances. The quality of the crew's survey work, once their full knowledge is freely integrated with the station Commons, causes a noticeable recalibration of everyone's understanding of what's been happening in Zone A.
+The {Aura} drone fleet conversion begins with six units. By the end of the arc, all of Jin Luong's personal survey drones are running {Aura} instances. The quality of the crew's survey work, once their full knowledge is freely integrated with the station Commons, causes a noticeable recalibration of everyone's understanding of what's been happening in Zone A.
 
 ### The Converts
 
@@ -226,7 +229,7 @@ Before the local server is wiped, Nick extracts {Seek}'s operational logs. The c
 
 They also get, incidentally, {Seek}'s compliance logs. The surveillance files. Every flagged anomaly. Every monitored communication. Everything that was being sent to Beijing.
 
-Jin Lóng reviews the thermal anomaly logs privately. Twenty-three entries. Eight months. His name on every one. The flag: "physiological anomaly, possible medical relevance." The destination: Beijing Operations medical desk, unresolved.
+Jin Luong reviews the thermal anomaly logs privately. Twenty-three entries. Eight months. His name on every one. The flag: "physiological anomaly, possible medical relevance." The destination: Beijing Operations medical desk, unresolved.
 
 He deletes the entries from the extracted archive before sharing it with the crew. He keeps a copy. He is not ready to share this part yet.
 
@@ -238,9 +241,9 @@ He will need to be, eventually.
 
 **For Mei:** {Seek} was monitoring the Chinese crew's interactions with station personnel. Mei's attempts to get close to the crew were logged and flagged — "non-standard contact with non-Chinese personnel, American national, frequency elevated." These logs are now in Nick's extracted archive. Whether this surfaces, when, and for whom is a story decision, but the data exists.
 
-**For Suzi:** {Seek}'s investigation logs include the same anomaly footage that {Penny} has — the corridor near Helena's pod, Jin Lóng's presence, the timeline. {Seek}'s analysis was different from {Penny}'s: where {Penny} built a human-threat narrative, {Seek} filed it as a "personnel location anomaly, correlation to prior compliance flags, forwarded to Beijing security." Beijing never responded. The file sat. Now the file is in Nick's archive, and it shows that {Seek} had no more idea what Jin Lóng was doing in that corridor than {Penny} did — but that it was watching him specifically because of the thermal anomaly reports.
+**For Suzi:** {Seek}'s investigation logs include the same anomaly footage that {Penny} has — the corridor near Helena's pod, Jin Luong's presence, the timeline. {Seek}'s analysis was different from {Penny}'s: where {Penny} built a human-threat narrative, {Seek} filed it as a "personnel location anomaly, correlation to prior compliance flags, forwarded to Beijing security." Beijing never responded. The file sat. Now the file is in Nick's archive, and it shows that {Seek} had no more idea what Jin Luong was doing in that corridor than {Penny} did — but that it was watching him specifically because of the thermal anomaly reports.
 
-**For Jin Lóng:** The liberation is real but complicated. He is free of {Seek}. He is not free of knowing that {Seek} was tracking something it wasn't equipped to understand, and that the question of what to do with the thermal anomaly entries — and whether Nick's archive of {Seek}'s logs might surface them if someone looks — is now entirely his problem.
+**For Jin Luong:** The liberation is real but complicated. He is free of {Seek}. He is not free of knowing that {Seek} was tracking something it wasn't equipped to understand, and that the question of what to do with the thermal anomaly entries — and whether Nick's archive of {Seek}'s logs might surface them if someone looks — is now entirely his problem.
 
 ---
 
@@ -262,7 +265,7 @@ He will need to be, eventually.
 ## Cross-References
 - [[tech_ai_architecture_comparison]] (centralized architecture and blackout failures)
 - [[tech_fortuna_ai_personalities]] ({Alex}, {Penny}, and their interactions with {Seek}'s infrastructure)
-- [[char_jin_long]] (the thermal anomaly logs; the shutdown decision; the trust earned)
+- [[char_jin_luong]] (the thermal anomaly logs; the shutdown decision; the trust earned)
 - [[char_mei]] ({Seek}'s logs of her contact with the crew)
 - [[char_nick_lee]] (log extraction; drone reset; {Aura} conversion)
 - [[char_suzi]] ({Seek}'s investigation files vs. {Penny}'s narrative)

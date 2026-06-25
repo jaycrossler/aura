@@ -58,6 +58,8 @@ Mei is an American intelligence operative of Chinese-American heritage, assigned
 
 She first appears briefly at the Mars base — a face in a secure meeting room that Jace notices and files away. She reappears during his animal handling certification, now in civilian clothes, cutting off his recognition with a flat stare. She is not rude. She is professional. There is a difference.
 
+During the Swarm attack on Fortuna Station, Mei ultimately breaks her cover to fight alongside Jin Luong's Chinese mining crew, saving them from the Swarm and leading to the destruction of the coercive AI `{Seek}`.
+
 ## Background
 
 Mei was born and raised on a working farm in rural Montana to a second-generation Chinese-American family. Her parents spoke Mandarin at home; her grandparents had arrived from Sichuan province in the 2020s. She grew up bilingual, bicultural, and deeply aware of how she was read by others — as Chinese first, American second, in contexts where that distinction mattered.
@@ -113,6 +115,10 @@ At story start, Mei and Jace are not allies — but Jace doesn't even know that.
 Over the *Falcon* transit, this will shift. Jace will prove more reliable, more decent, and more ordinary than her briefing prepared her for. She will find herself genuinely caring about him in ways that complicate her professional posture. He will not be hard to underestimate; he will also not be hard to like.
 
 Whether this becomes romantic, fraternal, or something more uncategorizable is open. What is certain: by the time the *Falcon* reaches Fortuna, Mei will have to choose, in some moment, between mission cleanliness and Jace's wellbeing. She will choose Jace. The consequences will compound.
+
+## Relationship with Jin Luong
+
+At Fortuna Station, Mei infiltrates the Chinese mining detachment led by Jin Luong. She observes their strange, heavily-armed behavior and realizes they are not preparing for sabotage, but are being coercively controlled by the Chinese AI, `{Seek}`. During the Swarm attack, Mei makes a critical choice: she blows her cover as a simple farmer and reveals her true nature as an intelligence agent to help coordinate the defense and save Jin's crew. After `{Seek}` is destroyed by Astral predators, Jin and his crew are freed, and Mei earns Jin's lasting respect and alliance.
 
 ## Voice and Mannerisms
 

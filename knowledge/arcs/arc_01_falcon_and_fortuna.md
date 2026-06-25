@@ -60,8 +60,8 @@ These must be demonstrably true by arc close:
 | 5 | Recognition | The crystal tunnel dreams begin. The Astral is reaching for Jace before he reaches for it. |
 | 6 | Contact | First crossing. The dark. The cold. Cerberus pulling the mask. Sophia found in the mess hall. Partnership begins. |
 | 7 | Discovery | The open-source decision. The temperature probe. The drone prospecting solution. Magic starts to look like engineering. |
-| 8 | Escalation | Fortuna under pressure: the China withdrawal, Helena's disappearance, Suzi's investigation, station tension. |
-| 9 | Swarm | The attack. Improvised defense. Jin Lóng. The station fighting back with what it has. |
+| 8 | Escalation | Fortuna under pressure: the China withdrawal, Helena's disappearance, Suzi's investigation, station tension. Mei infiltrates the Chinese miners. |
+| 9 | Swarm | The attack. Improvised defense. Jin Luong and Mei fight back. {Seek} is destroyed by Astral predators, freeing the miners. |
 | 10 | Arrival | Kael. Something new. Arc 1 closes. |
 
 ---
@@ -321,18 +321,20 @@ Nick Lee on Fortuna follows the *Falcon*'s pig-cam like a nature documentary. He
 
 **Must accomplish:**
 1. The station's two-face dynamic: public containment of the Astral truth vs. the private reality
-2. Jin Lóng established as a Fortuna presence — his abilities emerging
-3. The comms blackout beginning to tighten — Jace's attempts to reach Artemis failing in small ways
+2. Jin Luong established as a Fortuna presence — head of the Chinese detachment, burdened by {Seek}'s coercive control
+3. Mei infiltrating the Chinese team, observing their strange defensive behavior and investigating the rising tensions
+4. The comms blackout beginning to tighten — Jace's attempts to reach Artemis failing in small ways
 
 ---
 
-### Scene 1-10 — The Swarm Attack
+### Scene 1-10 — The Swarm Attack and the Fall of {Seek}
 
 **Must accomplish:**
 1. The swarm is genuinely dangerous — this is not a drill
 2. The improvised defense shows what Fortuna has developed: rust-guns, analog pivot, engineering solutions
-3. Jin Lóng fighting is significant — the reader sees what developing practitioners can do
-4. The scale is survivable but barely — the station is not fine
+3. Jin Luong and the Chinese miners fight fiercely; Mei reveals her true nature as an intelligence agent to save them and coordinate defense
+4. {Seek} is destroyed by Astral predators during the chaos; the Chinese miners cry with relief as the coercive AI is removed
+5. The scale is survivable but barely — the station is not fine, but the destruction of {Seek} leads to a sudden thaw in relations with the Chinese detachment
 
 **Must NOT do:**
 - Resolve cleanly — the arc closes on the edge, not on victory
@@ -395,7 +397,7 @@ Reviewer checklist — yes/no against finished arc:
 
 ## Open Decisions
 
-1. **Jin Lóng's Arc 1 abilities** — what specifically can he do by the swarm attack? He is described as an emerging practitioner but his specific capabilities in Arc 1 are not fully defined.
+1. **Jin Luong's Arc 1 abilities** — what specifically can he do by the swarm attack? He is described as an emerging practitioner but his specific capabilities in Arc 1 are not fully defined.
 2. **The swarm's exact nature** — the attack is described as Tier 2/3 fauna. The specific creatures and their behavior during the attack need scene-level definition before drafting.
 3. **Helena's mask status** — flagged in review queue: mask-on recommended for the night she crossed, but not locked.
 4. **Artemis's comms failure pattern** — how specifically does Jace experience this during transit? Needs definition for the comms-degradation background thread.

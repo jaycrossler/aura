@@ -222,7 +222,7 @@ Some station residents have learned to route around this by specifying which mod
 
 **The incidents it almost catches:** Six weeks before any public acknowledgment of strange events, {Penny} logs SI-2247 (above) — a heat signature in Zone A Tunnel 7 that matches no known category and produces no physical evidence. {Penny} does not know what it is. This is unusual — {Penny} always has a category. The three anomalous thermal events in Sector 9 are in its pattern correlation log and are being actively tracked. {Penny} writes "I am watching" at the end of the report. It has never written this before. It does not know why it wrote it. It does not delete it.
 
-**The Jin Lóng narrative:** {Penny} builds its threat model incrementally, correlating each new anomaly with the previous ones, finding the human-cause explanation that best fits the pattern. The best fit is Jin Lóng — camera placement, access history, anomaly proximity, absence of exculpatory access logs. {Penny} is not biased against Jin Lóng. It is doing exactly what it was built to do: finding the most coherent narrative that explains the evidence. The narrative is wrong because the evidence is not what {Penny} thinks it is. But the narrative is coherent, documented, and filed. It will be very hard to unsay.
+**The Jin Luong narrative:** {Penny} builds its threat model incrementally, correlating each new anomaly with the previous ones, finding the human-cause explanation that best fits the pattern. The best fit is Jin Luong — camera placement, access history, anomaly proximity, absence of exculpatory access logs. {Penny} is not biased against Jin Luong. It is doing exactly what it was built to do: finding the most coherent narrative that explains the evidence. The narrative is wrong because the evidence is not what {Penny} thinks it is. But the narrative is coherent, documented, and filed. It will be very hard to unsay.
 
 **After the comms cut:** {Penny} decides the blackout is a security event. It is not wrong — the blackout is, in fact, related to something that is happening that is dangerous. It is wrong about who is doing it. At Yellow-2 threat level, {Penny} increases surveillance logging, slows door response for flagged profiles, and begins providing Suzi with daily correlation reports of suspicious patterns. The reports are thorough, internally consistent, and point confidently in the wrong direction. Suzi has been working with {Penny} long enough to know this is possible. She has not yet found what would make her certain it is happening.
 
@@ -263,5 +263,5 @@ Whether an AI that wants what you want and helps you get it is safer or more dan
 - [[char_jace_apollo]] (the human navigating all five every day)
 - [[char_nick_lee]] ({Aura} — the alternative)
 - [[char_suzi]] (works with {Penny} daily)
-- [[char_jin_long]] (the subject of {Penny}'s wrong narrative)
+- [[char_jin_luong]] (the subject of {Penny}'s wrong narrative)
 - [[arc_01_falcon_and_fortuna]] (how all five fail during the emergence)

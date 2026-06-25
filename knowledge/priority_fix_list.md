@@ -6,17 +6,7 @@ This document tracks unresolved story details, technical discrepancies, missing 
 
 ## 1. Technical & Narrative Open Questions
 
-| ID | Topic / Question | Affected / Reference Documents | Status / Resolution |
-|---|---|---|---|
-| **1** | **Vector merge edge cases** (grabbing hands, fighting, rotating ships) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Collapses/merges via Will or time. fighting involves Will-pulls and counters. Bullet-stopping is possible. |
-| **2** | **Gradual vs. binary snap threshold** (does crossing snap instantly?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Snaps when vectors merge. Will-driven is gradual/fast; passive stopping jolt scales with vector delta. |
-| **3** | **Atomic tension accumulation** (does it reset or accumulate?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Does not reset. Damage remains, but Will-charged templates heal/repair and can resurrect (with memory blur/skill loss). |
-| **4** | **Jovian dimensional clearing bubble extent** (how far does it reach?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Gravity wells absorb Scar and eject to Hyperspace terrain, causing quakes. Pathways are misty; Kael sneaks eddies/gaps. |
-| **5** | **Black hole efflux current mapping** (navigable currents near the belt?) | [[spec_dimensional_travel_mechanics]] | **RESOLVED:** Purely illustrative. No black holes exist near the solar system. |
-| **6** | **Mei retcon scope** (scope of updates for Chinese national cover story) | [[char_mei]], [[timeline_book01_incursions]] | **OPEN.** |
-| **7** | **Fortuna spin number confirmation** (confirming 100m ring radius, ~1.8 RPM) | [[location_fortuna_station]] | **RESOLVED:** Three rings, 100m radius, ~1.7 RPM. Already canonical in files. |
-| **8** | **Siren's container placement** (resolving container in plumbing crisis) | [[falcon_animal_manifest_book1]] | **RESOLVED:** Siren is ship-at-large; she has no container. She is usually in the duck pen. |
-| **9** | **Helena's rebreather mask status** (did she have it on, indicating intent?) | [[char_helena]] | **RESOLVED:** Mask was ON. Cause of death post-crossing is open. |
+*(All current technical/narrative questions have been resolved)*
 
 ---
 
@@ -27,21 +17,13 @@ Several referenced files and characters are missing from the vault and need to b
 | Type | Missing File / Concept | Purpose / References |
 |---|---|---|
 | **Review** | `review_2026-06-17_fortuna_incursions.md` | Log of active decisions on outbreak mechanics, FTL transit, and Siren's container status. Referenced by [[magic_breach_crossers_transient]], [[legacy_lexicon_and_rulebook_reconciliation]], [[falcon_animal_manifest_book1]]. |
-| **Character** | `char_jin_long.md` | Profile for Jin Long, a Fortuna defender during the Metis station mission. Referenced in [[arc_02_woven_and_unbound]], [[tech_fortuna_ai_personalities]]. |
-| **Technology** | `tech_fortuna_ai_systems.md` | Technical details on Fortuna AI governance, failure cascades, and sub-systems. Referenced in [[tech_fortuna_ai_personalities]]. |
 | **Technology** | `tech_ai_architecture_comparison.md` | Document comparing centralized vs. decentralized AI models. Referenced in [[tech_misty_ai]], [[tech_seek_ai]]. |
 
 ---
 
 ## 3. Metric & Narrative Inconsistencies to Reconcile
 
-These items have contradictory information that must be updated for worldbuilding consistency:
-
-| Issue | Details | Documents to Fix | Status / Resolution |
-|---|---|---|---|
-| **Falcon cylinder gravity** | Transit vignettes state `~0.4g`, conflicting with `0.3g` in ship spec. | [[book01-transit-vignettes]], [[ship_falcon]] | **RESOLVED:** Variable spin between 0.3g and 0.4g is intentional per `variable_spin` in ship_falcon.md. |
-| **Falcon dimensions pass** | Early chapters use old dimensions ("314 tanks", "100m diameter"). | [[book01-ch01-morning-round]], Ch. 2 plumbing crisis draft | **RESOLVED:** Verified that morning round and plumbing crisis drafts use 40m radius, ~36 tanks. |
-| **FTL Travel Model Split** | Legacy rulebook's `4D Pocket + Tau-vector compression` retired. | [[legacy_lexicon_and_rulebook_reconciliation]] | **RESOLVED:** 4D pocket compression retired and replaced by Will/tears model. |
+*(All currently logged narrative inconsistencies have been resolved)*
 
 ---
 
