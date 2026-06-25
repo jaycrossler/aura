@@ -95,7 +95,8 @@ The rival scouts (the Bloom) are not working with Kael's civilization. Their arr
 | Kael's Will message launched before the fight | Late Arc 2 — planted quietly | Arc 3 — when humanity learns it exists and what it contains, it establishes a hard two-year deadline before a Woven response force arrives. Supercharges response planning. |
 | The Bloom's chromatophore corpus in {Aura}'s recordings | Throughout Bloom imprisonment | Arc 3 — slow decode yields motivations (growth, protection, gathering) and eventually fragments of communication. No POV from the Bloom; their interiority is inferred. |
 | Artemis as the evacuation anchor | Metis rescue | She becomes the belt's most advanced practitioner; her trajectory is established here |
-
+| Kael drops [Occlusion] for Jace | Scene A-19 | First and possibly only time a Woven scout allows full Template reading by a Sol human; her reasoning is never stated; Arc 3 — when Jace eventually understands what this gesture costs someone of her training, it reframes their entire relationship |
+| Sol human cognitive Template density seen clearly | Scene A-19 | Kael's reading of Sol humans as "unbalanced primitives" is established; Arc 3+ — the same cognitive density becomes the foundation of something she has no category for; her initial diagnosis is accurate and incomplete simultaneously |
 ---
 
 ## Scene Contracts
@@ -389,6 +390,70 @@ is something pre-Scar civilizations did deliberately.
 
 ---
 
+### Scene A-19 — The Astral Lesson (Metis Station, post-battle)
+
+**Story context:**
+After the battle at Metis, after Kael has extracted Artemis and Jace has sworn to
+support Kael as apprentice, and before the Bloom arrive. The station is secured.
+The survivors are alive. There is a brief window — days, perhaps — before the next
+crisis. Kael begins teaching.
+
+**The Ward Setting lesson:**
+Kael demonstrates [Ward Setting] by shielding a section of Metis Station against
+Astral access. She sets the ward keyed to each survivor's Template — establishing
+who can pass through it and who cannot. For Jace this is the first time he sees
+organized dimensional defense: not force, but architecture. The ward is invisible
+from physical space. From the Astral it looks like a geometric membrane, precise
+and deliberate.
+
+When she shows him the underlying structure — the rune geometry that encodes the
+permission logic — he asks the engineering question she has been waiting for without
+knowing she was waiting for it: *"How does it know which Template is mine?"*
+
+Her answer, and the conversation that follows, is his introduction to [Rune Writing]
+as the foundational skill beneath [Ward Setting].
+
+**The Template vision lesson:**
+Kael takes Jace into the Astral and has him observe the surviving Metis Station crew
+in physical space. He sees them as ghostly bodies with blazing cognitive layers:
+rainbow webs around their brains, kaleidoscope patches of color shifting with every
+thought, Will leaking and pooling without direction. Beautiful and chaotic.
+
+Then she drops her [Occlusion].
+
+He sees her: shining, organized, layered in geometric Will netting. Templated bones
+glowing beneath the surface. Faceted gems of compressed reserve floating at her
+shoulders. The thick umbilical to Kai running from her core outward. Her cognitive
+layer present but controlled — a scalpel where the Sol humans are wildfire.
+
+She lets him look for a full minute. Then she says: *"This is what civilization
+looks like. This is what you are not, yet."*
+
+She does not say: *this is what I was not, three hundred years ago.* She doesn't
+remember clearly enough to know.
+
+**Must accomplish:**
+1. The ward is set and the permission logic demonstrated — Jace understands it is
+   keyed to individual Templates, not to physical access, and asks the right question
+2. The Template visual contrast is shown — Sol humans blazing and chaotic, Kael
+   shining and organized; the specific details (Kai's umbilical cord, the faceted
+   reserve gems, her thin cognitive layer vs. their overwhelming cognitive complexity)
+   are all present
+3. Kael's [Occlusion] drop is framed as a deliberate trust gesture — she is choosing
+   to be seen, which she almost never does; Jace understands this even without
+   understanding why it matters yet
+
+**Must NOT do:**
+- Make Kael warm about this lesson; she is precise and honest and slightly impatient;
+  teaching is not comfort, it is transmission
+- Have Jace fully understand what he's seeing; he sees it accurately and understands
+  maybe a third of what it means; that's correct for this stage of his development
+- Resolve Kael's assessment of Sol humans; her "this is what civilization looks like"
+  is said in good faith and is also incomplete; the scene should let both things be
+  true simultaneously
+
+---
+
 ## Success Criteria
 
 Reviewer checklist — yes/no against finished arc:
@@ -401,6 +466,8 @@ Reviewer checklist — yes/no against finished arc:
 - [ ] The Bloom are alien in a way that feels consistent — their behavior is derivable from their biology and Will-use patterns
 - [ ] Jace's imprisonment ends the arc on genuine dread, not action-hero defiance
 - [ ] {Aura}'s recording function is planted clearly enough that readers will remember it in Arc 3
+- [ ] Scene A-19 establishes the Template visual contrast clearly enough that readers can reconstruct what Kael sees when she looks at any Sol human practitioner going forward
+- [ ] Kael's [Occlusion] drop reads as a significant gesture even to readers who don't yet have full context for why
 - [ ] AI names use `{}` braces consistently throughout all scenes
 - [ ] No magic ability is given a typographic marker — plain prose throughout
 - [ ] The dungeon POV thread is present and raises questions without resolving them
@@ -434,6 +501,8 @@ Reviewer checklist — yes/no against finished arc:
 - `faction_the_bloom` — rival outsider faction; Arc 2 antagonists
 - `faction_outsider_scouts` — Kael's civilization and their standard protocols
 - `universe-spec/spec_will_bonded_animals` — Kai/Cerberus dynamic; universal bonding law
+- `magic-systems/magic_skills_framework.md` — [Ward Setting], [Occlusion], [Rune Writing], [Long Stepping]; the skill system Kael introduces Jace to in Arc 2
+- `magic-systems/magic_will_orbs.md` — Will orb mechanics; Jace's Falcon incident payoff in Sophia's Astral documentation
 - `universe-spec/spec_dungeon_systems` — Earth/Mars emergence context
 - `location_metis_station` - Metis ship-building station
 
@@ -445,3 +514,9 @@ Reviewer checklist — yes/no against finished arc:
   constraint). Part 3: return trip scenes added (Artemis evacuation forces Jace to
   self-transit; rocket buggy construction in Hyperspace; 100 mph return; Titan-wrought
   seed). Part 4: cross-references updated. Part 5: canonical distances added.
+- 2026-06-25: Patch applied. Scene A-19 added: "The Astral Lesson" at Metis Station
+  post-battle. Two beats: Ward Setting lesson (Kael keys a ward to survivor Templates,
+  Jace asks the right engineering question, [Rune Writing] introduced as foundation
+  skill) and Template vision lesson (Sol human cognitive blaze vs. Kael's organized
+  shining; [Occlusion] drop as trust gesture). Foreshadowing ledger updated. Success
+  criteria updated. Cross-references to skills framework and Will orbs added.  

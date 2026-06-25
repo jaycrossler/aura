@@ -78,6 +78,17 @@ During the *Falcon*'s plumbing crisis (see [[book01-ch02-plumbing-crisis]]), at 
 - He glimpses it half-manifested — **a large dark insectoid shape, red eye-points, sharp pincers; "like a kid's toy"** — and on second look it is gone. He half-convinces himself it was adrenaline and exhaustion.
 - It is logged as a **micrometeorite strike** because that is the only catalogued cause that fits a punctured pipe. The rents, the dead cluster, and the interior ice do not fit it, and Jace knows it.
 
+At the moment the shape vanishes, Jace notices a glowing ball where it was —
+iridescent, purple, shifting through colors he doesn't have names for, too many at
+once. He swats it aside to reach the manual cutoff valve. It absorbs into his hand
+on contact. He doesn't register the sensation consciously — his attention is entirely
+on the valve. That night, the low-grade headache his HUD implant has been causing
+since installation is gone. He assumes the stress of the emergency resolved it
+somehow. He will not think about the purple ball again until Sophia shows him what
+Will orbs look like from the Astral, months later. By then he will understand what
+he spent, and why he felt like he had the flu for the entire day after the disaster.
+
+
 ### Why it appears *here*, ahead of the curve
 
 [[spec_threat_escalation]] places active fauna at late Book 1 and is explicit that early station-interior crossings encounter *no* active fauna. The *Falcon* incident is a deliberate **outlier**, justified by:
@@ -98,8 +109,15 @@ During the *Falcon*'s plumbing crisis (see [[book01-ch02-plumbing-crisis]]), at 
 - [ ] [[spec_scar_clearing_mechanics]]: add flash-freeze as the *active-crossing* sharpening of "temperature differential with no thermal source," and name the Dipper/Persister/Dual-exister modality table.
 - [ ] [[spec_threat_escalation]]: add a note that a single transient Dipper can appear ahead of the curve at a high-Will/high-stress beacon (the *Falcon* incident), without contradicting the "station interiors not yet infested" rule.
 - [ ] [[magic_cryptids_silicon]]: cross-link the *Falcon* harbinger as a possible precursor sighting.
+- [ ] `magic_will_orbs.md` (new file): cross-link the Falcon incident as the first
+  documented human Will-orb absorption. Jace's subsequent Will depletion (flu-like
+  symptoms the following day) is the physiological record of this event.
 
 
 ## Revision Notes
 
 - 2026-06-17: New file. Added flash-freeze signature for active crossings, the Dipper/Persister/Dual-exister modality taxonomy, and the Falcon harbinger incident as an early outlier justified by an AI+stress Will beacon. Cross-linked to silicon class (foreshadow), Helena (frost thread), and the sabotage misread (China arc).
+- 2026-06-25: Patch applied. Added Will-orb foreshadowing paragraph to the Falcon
+  Harbinger Incident section — the glowing purple ball Jace swats aside, its absorption
+  on contact, the disappearance of his HUD headache, and the flu-like Will depletion
+  the following day. Added magic_will_orbs.md cross-link to propagation checklist.

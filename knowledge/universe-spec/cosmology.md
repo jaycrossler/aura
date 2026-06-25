@@ -319,6 +319,89 @@ it through Will application; the implications of this have not yet been understo
 
 ---
 
+## Novas, Supernovae, and Dimensional Landmarks
+
+### Supernovae — Scar-Scale Events
+
+A supernova is a complete stellar death. The star ceases to exist as a main-sequence
+body; what remains is a neutron star, pulsar, or black hole.
+
+In the dimensional layers, a supernova releases two effects simultaneously:
+
+1. **The shockwave** (instantaneous): a pulse of energy that propagates at near-light
+   speed through the Astral and Hyperspace, destroying the most energetically significant
+   dimensional infrastructure it encounters. This is the mechanism that created the Scar.
+
+2. **The resonance flood** (persistent): an enormous release of resonance flux — the
+   dimensional equivalent of the physical-space nebula — that saturates the dimensional
+   layers in all directions. This is the mist that blocks Will propagation and
+   dimensional transit.
+
+Supernovae are rare in any given stellar neighborhood on human timescales — the Vela
+Junior event 3,000 years ago is the defining example for this region of the galaxy.
+Their dimensional consequences are catastrophic and long-lasting.
+
+### Novas — Recurring Navigational Features
+
+A nova is a partial stellar explosion on a surviving star. The star is not destroyed.
+The explosion is energetic — devastating to anything within 10–30 light-years in
+physical space — but the star continues after the event, and the dimensional effects,
+while significant, are not Scar-scale.
+
+**Frequency:** Novas occur approximately 10–100 times per year across the galaxy.
+In any given 1,000 light-year neighborhood, a nova is a routine event on a decades
+timescale — not common enough to be background noise, but common enough that
+experienced navigators have catalogues of them.
+
+**Dimensional signature:** A nova leaves a distinctive pattern in the dimensional
+substrate — a pulse-and-fade signature that persists for decades in the local Astral
+and Hyperspace terrain. The pattern is datable: a practitioner who can read substrate
+signatures can estimate when a nova occurred from the decay state of its dimensional
+echo.
+
+**As navigation landmarks:**
+
+Because light still travels at *c* in the Astral and Hyperspace but distances are
+compressed, nova signatures are visible across much greater apparent ranges than in
+physical space. A nova 30 physical light-years distant appears at a much shorter
+compressed distance in the Astral; its substrate signature is correspondingly brighter
+and more detailed.
+
+Experienced navigators use nova signatures as fixed landmarks — dateable, directionable,
+consistent across the substrate topology. They function like buoys or lighthouse flashes:
+you don't navigate by them alone, but knowing where they are and when they happened
+anchors your dead reckoning.
+
+Kael carries a mental catalogue of known novas within her operational range. Their
+positions relative to stellar masses, their ages, and the patterns they leave in the
+substrate topology contribute to her intuitive navigation — the ability to point toward
+a destination and know the heading without instruments, to perform travel calculus in
+her head faster than conscious calculation.
+
+**Within the Scar:** Nova signatures inside the Scar's affected volume are partially
+obscured by the resonance mist, but not invisible to skilled readers. The most recent
+novas — those that occurred after the Scar formed — have signatures uncontaminated by
+pre-Scar infrastructure destruction. They are clean data. Kael values them accordingly.
+
+### Why Humans Will Care About This
+
+As human practitioners begin mapping the dimensional layers systematically, nova
+signatures will become a navigational and archaeological resource:
+
+- **Cartography:** A dated network of nova positions provides a fixed coordinate system
+  for dimensional mapping that does not depend on pre-Scar infrastructure knowledge.
+- **Age estimation:** The decay rate of nova signatures can date substrate features —
+  telling archaeologists whether a tunnel or formation predates or postdates a known nova.
+- **Hazard warning:** Active nova remnants within operational range represent zones of
+  heightened dimensional turbulence; knowing where they are enables route-planning.
+
+The first systematic catalogue of nova signatures in the belt Astral, compiled with
+{Aura}'s measurement precision, will be a significant early scientific contribution —
+and will partially replicate, from first principles, the navigational knowledge that
+Kael carries from centuries of practice.
+
+---
+
 ## The Threat Level Cap — How the Mist Controls the Fauna
 
 The resonance flood functions as a **containment layer** for the Scar's fauna.
@@ -449,3 +532,9 @@ eating the thing that was suppressing it, without knowing that is what they were
   currents and the ancient road network's trade-wind analogue. Black hole efflux channels
   create persistent thin patches in the Scar mist that skilled navigators (Kael) read
   and follow without fully understanding their source.
+- 2026-06-25: Patch applied. New section added: "Novas, Supernovae, and Dimensional
+  Landmarks." Distinguishes supernova (complete stellar death, Scar-scale) from nova
+  (partial explosion, recurring, 10–100/year galaxy-wide). Nova signatures established
+  as dimensional navigation landmarks — datable, directional, usable for cartography.
+  Kael's intuitive navigation partly grounded in nova catalogue. Human scientific
+  cartography implication noted.

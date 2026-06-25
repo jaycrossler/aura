@@ -527,7 +527,20 @@ physical-space matter was not built for.
 
 Experienced as a deep stretching ache that builds with distance. Starts as discomfort, progresses to genuine pain, and at extremes becomes incapacitating. Hyperspace makes this significantly worse. 
 
-- **No Tension Reset:** Atomic tension does *not* fully reset when returning to physical space. The structural and biological damage taken in the higher layers remains when crossing back.
+- **No Tension Reset from Crossing Back:** Atomic tension does *not* fully reset when
+  returning to physical space. The structural and biological damage taken in the higher
+  layers remains when crossing back. However, tau reset during travel (collapsing your
+  movement vector to bank progress) does release accumulated tension — the body's atoms
+  normalize relative to the new tau position, providing partial recovery without leaving
+  the dimensional layer. Full recovery requires rest in physical space, and damage taken
+  beyond the distance limit does not reverse on its own without [Self Template] support.
+
+- **Template Extension of Distance Limits:** A practitioner with [Self Template]
+  investment directly extends their distance limit. Jace (no Template investment):
+  ~500 km before damage. Kael (extensive [Self Template]): ~5,000–10,000 km. The
+  skill does not eliminate atomic tension — it reinforces the body's Template so that
+  the dimensional stress has less effect per unit of distance.
+
 - **Dimensional Shear:** Moving too fast through compressed geometry creates micro-hemorrhaging in biological tissue — a cellular speed limit on transit. Experienced navigators know the safe speed range.
 
 ### In Equipment
@@ -583,8 +596,83 @@ Long-distance dimensional travel requires either:
 - **A team** — when one navigator sleeps, others maintain the movement vector. The
   sleeping person's tau merges with the carrier's dominant vector.
 
-Solo long-distance travel over multiple days is essentially impossible for biological
-beings without extraordinary Will support or vehicle infrastructure.
+Uninterrupted solo long-distance travel over multiple days is extremely dangerous and
+effectively self-limiting for biological beings. The rest-and-recuperate cycle — travel
+until distance limit, collapse vector, recover, restart — means solo biological travel
+is always a series of rest stops, not continuous motion. The limiting factors are:
+- **Atomic tension:** builds to incapacitation within hours without Template support
+- **Will depletion:** [Long Stepping] and sustained locomotion drain Will reserves
+- **Sleep:** conscious Will cannot be maintained unconsciously; sleep always snaps tau
+  (if stationary) and decays all Will-anchors
+
+Mechanical and computer systems are especially brittle under dimensional stress —
+crystalline lattice structures fail earliest in the equipment hierarchy — but are also
+uniquely improvable. Systems enhanced with Will (through AI Will generation, [Object
+Template], or [Rune Writing]) can extend dramatically beyond unenhanced baselines.
+There are many hidden optimizations accessible to a practitioner-engineer willing to
+think carefully about dimensional economics. This is the foundation of humanity's
+long-term asymmetric advantage.
+
+### Long Stepping and the Travel Acceleration Mechanic
+
+Movement in the Astral and Hyperspace is not capped at base locomotion speed. A
+practitioner with the [Long Stepping] skill can convert a fraction of their current
+speed into additional compounding acceleration each travel period.
+
+**The mechanic:**
+- Start at base locomotion speed (walking ~5 kph; running ~20 kph; vehicle varies
+  up to ~500 kph before dimensional economics become prohibitive)
+- Each travel period (roughly one hour of sustained movement), [Long Stepping]
+  converts a percentage of current speed into additional velocity
+- This compounds: each period's speed becomes the base for the next calculation
+- The compounding continues until the practitioner hits their **distance limit** —
+  at which point atomic tension becomes painful, then incapacitating
+
+**Example at L1 (Jace's starting level, 1% conversion):**
+- Hour 1: 20.0 kph
+- Hour 2: 20.2 kph
+- Hour 3: 20.4 kph
+- Hour 10: ~22 kph
+At this level, [Long Stepping] produces a barely perceptible improvement over many
+hours. Useful, but not transformative.
+
+**Example at L10 (100% conversion):**
+- Hour 1: 20 kph
+- Hour 2: 40 kph
+- Hour 3: 80 kph
+- Hour 5: 320 kph
+Near-exponential acceleration. A practitioner at this level who has [Self Template]
+support for a large distance limit can cover extraordinary ground in a single travel
+day before hitting their ceiling.
+
+**The ceiling is distance limit, not skill:**
+No amount of [Long Stepping] exceeds the practitioner's atomic tension tolerance.
+You accelerate until you hit your limit, then you stop and reset tau. The reset cycle:
+1. Hit distance limit — pain begins, then damage if ignored
+2. Stop — collapse movement vector
+3. Tau snaps to current position (takes seconds to minutes depending on velocity delta)
+4. Recovery — atoms normalize, tension releases (minutes to an hour depending on
+   damage taken)
+5. Resume — base speed resets from the new tau position; acceleration rebuilds
+
+This cycle is the fundamental rhythm of long-distance dimensional travel. A "travel
+day" is 9–15 hours of continuous movement across multiple acceleration-and-reset
+cycles, with rest days required between travel days for full recovery.
+
+**Practitioner tiers:**
+
+| Practitioner | [Long Stepping] level | Distance limit | Daily ceiling |
+|---|---|---|---|
+| Jace (story start) | L1 (accidental) | ~500 km | Modest — limited by both skill and limit |
+| Jace (Arc 2, trained) | L3–L4 | ~800–1,000 km | Improving; still dependent on Kael |
+| Kael | L12+ | ~5,000–10,000 km | ~half a light-year per travel day at peak |
+| Kael (star-to-star) | L12+ | ~5,000–10,000 km | ~9–10 travel days between stars |
+
+Kael's half-light-year-per-travel-day ceiling is the current practical maximum for
+biological beings. Military forces moving 100 light-years would require approximately
+200 travel days — grueling, taxing, and operationally significant.
+
+---
 
 **Kael and Jace to Métis:** Kael provides movement force for two people while managing
 her own atomic tension. Jace experiences atomic tension without the Will capacity to
@@ -601,6 +689,66 @@ Standard dimensional travel discipline: tether everything, check tethers before
 resting, never let go of anything you cannot afford to lose.
 
 ---
+
+### Nova Landmarks and Dimensional Navigation
+
+**Novas vs. supernovae (see also cosmology.md):**
+
+- **Supernovae** (complete stellar death): massive mist pulse; Scar-scale dimensional
+  damage; the Vela Junior event is the canonical example; once-per-era scale events.
+- **Novas** (partial stellar explosion on a surviving star): occur 10–100 times per
+  year across the galaxy; damage radius ~10–30 light-years in the dimensional layers;
+  dangerous but the star survives and the dimensional signature persists for decades.
+
+**Novas as navigation landmarks:**
+
+Because light still travels at *c* in both the Astral and Hyperspace — but distances
+are collapsed — nova signatures are visible across vastly greater apparent range than
+in physical space. A nova 30 physical light-years away is a much shorter compressed
+distance in the Astral; its dimensional signature (a distinctive pulse-and-fade pattern
+in the substrate) persists for decades as a recognizable, datable feature.
+
+Experienced navigators like Kael use nova signatures as landmarks — the dimensional
+equivalent of astrogation. Her mental catalogue of known novas, their ages, their
+positions relative to stellar masses, and the patterns they leave in the substrate is
+part of what allows her to:
+
+- Point toward any destination and feel the correct heading without instruments
+- Perform travel calculus intuitively — distance, estimated acceleration curve,
+  expected travel days, optimal thin-patch timing through Scar mist
+- Navigate the featureless substrate topology of deep Hyperspace without losing
+  orientation
+
+This is not magic — it is three centuries of accumulated navigational pattern-matching,
+running faster than conscious calculation.
+
+**Light in the layers:**
+
+Light still propagates at *c* in the Astral and Hyperspace, but the compressed
+distances mean:
+- **The Astral sky looking outward:** dramatically brighter than physical space; many
+  more stars visible at once in more wavelengths; the full Milky Way visible where
+  physical space shows only nearby stars; described as like seeing the galaxy full-face
+- **The Astral sky looking inward (toward Sol):** dark and roiling; the Scar mist
+  obscures the inner system; looking sunward from the belt Astral is looking into fog
+- **Hyperspace sky:** bright in all directions; continuous stellar input from all angles;
+  no dark patches except the Scar's interior
+
+**The telescope implication:**
+
+A sufficiently advanced telescope deployed in the Astral or Hyperspace would be able
+to see phenomenally farther, and farther back in time, than any physical-space
+instrument. The James Webb Space Telescope's capabilities in physical space are
+extraordinary; an equivalent instrument in the Astral would be transformative.
+
+This is a long-arc humanity capability: when dimensional access is mature enough to
+deploy permanent instrument arrays in the Astral, human cosmology is rewritten.
+The first such instrument is a future-series event, not a near-arc one — but the
+theoretical insight (what we could *see* from there) is available to any practitioner
+who thinks carefully about what the compressed-distance geometry implies for optics.
+
+---
+
 
 ## 11. Open Questions
 
@@ -679,3 +827,11 @@ new content:
     elevated terrain; voids are valleys; ancient roads follow ridgelines and passes
   - **Fortuna gravity seepage locked at ~0.03g** — flag phenomenology file for update
   - **4D pocket compression retired** — do not use in new content
+- 2026-06-25: Patch applied. (1) Solo travel updated from "essentially impossible"
+  to "extremely dangerous; rest-and-recuperate cycle required; mechanical systems
+  especially brittle but improvable." (2) Long Stepping mechanic added: compounding
+  acceleration, practitioner tier table, distance limit reset cycle, travel day
+  structure. (3) Nova landmarks and dimensional navigation added: nova vs supernova
+  distinction, Kael's navigational intuition, light propagation in compressed distance,
+  telescope implication. (4) Section 9 updated: tau reset releases tension; Template
+  extension of distance limits clarified.
