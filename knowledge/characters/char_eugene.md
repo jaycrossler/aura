@@ -60,6 +60,7 @@ character_arc: >
   should not survive → becomes an asset the team cannot function without → continues to
   be difficult about it
 themes_embodied: [expertise without social grace, the difference between knowing something and being able to explain it, the person nobody wants around who turns out to be the one you needed]
+last_updated: 2026-06-23
 ---
 
 # Eugene

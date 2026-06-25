@@ -47,6 +47,7 @@ themes_embodied: [community ownership, shared joy, animal as cultural binder]
 related_locations: [location_mars_us_settlement, ship_falcon (arrived separately before Jace), location_fortuna_station]
 related_characters: [char_jace_apollo, char_cerberus]
 related_events: [event_first_dogs_to_belt]
+last_updated: 2026-06-03
 ---
 
 # Siren — The Station's Dog

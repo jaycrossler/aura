@@ -45,6 +45,7 @@ themes_embodied: [the informal economy, how things actually get done, the grey m
 related_locations: [location_mars_launch_facility, location_mars_fabrication_district]
 related_characters: [char_jace_apollo, char_sister_artemis]
 related_events: [event_jace_delivers_package, event_jace_belt_contract_signing, event_jace_bar_rumors]
+last_updated: 2026-04-30
 ---
 
 # The Rat (the Mars Launch Facility Smuggler)

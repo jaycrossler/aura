@@ -5,7 +5,7 @@ name: Early Manifestations — Pre-Understanding Phase
 type: magic_system
 status: established canon (observable phenomena); theoretical explanations TBD
 canonical: true
-last_updated: 2026-05-02
+last_updated: 2105-03-15
 cross_references:
   - /knowledge/timeline/outbreak_timeline.md
   - /knowledge/magic-systems/magic_overview.md

@@ -52,6 +52,7 @@ related_locations: [location_mars_dog_breeder_facility (birth and pre-purchase r
 related_characters: [char_jace_apollo, char_dog_siren, the_dog_breeder_handler_TBD]
 related_events: [event_jace_dog_breeder_visits, event_jace_origin_negotiation, event_first_dogs_to_belt]
 related_ships: [ship_falcon]
+last_updated: 2026-06-21
 ---
 
 # Cerberus

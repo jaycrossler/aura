@@ -4,7 +4,7 @@ id: storybot_metadata_template_guide
 name: StoryBot Metadata Template Guide
 type: system_documentation
 status: working draft
-last_updated: 2026-04-30
+last_updated: 2105-03-16
 ---
 
 # StoryBot Metadata Template Guide

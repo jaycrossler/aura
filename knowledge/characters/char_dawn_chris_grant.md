@@ -45,6 +45,7 @@ themes_embodied: [the cost of distance, what is left behind, the family that can
 related_locations: [location_virginia_earth]
 related_characters: [char_jace_apollo, char_sister_athena, char_sister_artemis]
 related_events: [event_jace_mars_arrival_call, event_communications_blackout]
+last_updated: 2026-04-28
 ---
 
 # Dawn and Chris Grant

@@ -66,6 +66,7 @@ related_events: TBD
 related_characters: [char_jace_apollo (passenger, prior to story start)]
 sister_ships: [ship_pinta, ship_santa_maria]
 rival_ships: []
+last_updated: 2026-04-28
 ---
 
 # Niña

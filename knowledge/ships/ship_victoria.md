@@ -33,6 +33,7 @@ notable_equipment:
 # Story Function
 role: Sophia's home base; site of her initial flux research; the vessel she crosses from during early Astral expeditions
 strategic_significance: Independent ESA presence in the belt, not controlled by megacorps; science mission provides cover and justification for anomaly research
+last_updated: 2026-06-03
 ---
 
 # Victoria

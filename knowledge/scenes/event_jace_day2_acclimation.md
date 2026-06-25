@@ -13,7 +13,7 @@ characters: [jace]
 location: location_terminus (civilian domes — Bird Dome, mine tunnel access)
 status: sketch
 storybot_extrapolation_allowed: true
-last_updated: 2026-05-02
+last_updated: 2105-03-16
 cross_references:
   - /knowledge/scenes/event_jace_mars_tour_with_rich.md
   - /knowledge/scenes/event_jace_drone_center_tour.md

@@ -11,7 +11,7 @@ status: deceased (disappeared; body never recovered) — TRUE CAUSE IS GM/REVEAL
 first_appearance: Book 1, final transit week (offscreen — disappearance reported before Jace docks)
 pov_character: false
 recurring: posthumous (her case recurs as mystery thread)
-last_updated: 2026-06-17
+last_updated: 2026-06-24
 
 # Affiliations
 employer: Fortuna Station — information analyst (data/comms environment)

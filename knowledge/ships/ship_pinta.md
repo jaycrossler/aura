@@ -45,6 +45,7 @@ symbolic_meaning: the working middle, neither the original nor the newest
 
 # Cross-references
 sister_ships: [ship_nina, ship_santa_maria]
+last_updated: 2026-04-28
 ---
 
 # Pinta

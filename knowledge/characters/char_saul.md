@@ -67,6 +67,7 @@ arc: Minor supporting character with thematic weight. Full arc TBD beyond Book 1
 related_characters: [char_maureen, char_jace_apollo]
 related_ships: [ship_falcon]
 related_locations: [location_mars_overview, location_fortuna_station]
+last_updated: 2026-06-17
 ---
 
 # Saul

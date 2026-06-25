@@ -50,6 +50,7 @@ themes_embodied: [the open-source ethic, knowledge as commons, infrastructure as
 
 # Supersedes
 supersedes: [char_aura_engineer.md, char_jace_best_friend.md]
+last_updated: 2026-06-21
 ---
 
 # Nick Lee

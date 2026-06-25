@@ -4,7 +4,7 @@ id: spec_cosmology
 title: Cosmology — Vela Junior, the Scar, and the Reopening
 status: foundational
 canonical: true
-last_updated: 2026-06-23
+last_updated: 2026-06-25
 supersedes: cosmology_2026-05-31
 cross_references:
   - universe-spec/spec_scar_clearing_mechanics.md

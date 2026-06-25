@@ -6,7 +6,7 @@ type: livestock_manifest
 ship: ship_falcon
 voyage: Mars to Fortuna Station, Book 1
 status: canonical_working
-last_updated: 2026-06-16
+last_updated: 2026-06-17
 ---
 
 # Falcon Animal Manifest — Book 1 Voyage

@@ -45,6 +45,7 @@ themes_embodied: [the cost of service, family separation, fiscal realism, the di
 related_locations: [location_mars_us_afspace_force_base, location_terminus]
 related_characters: [char_jace_apollo]
 related_events: [event_jace_mars_tour_with_rich, event_jace_drone_center_tour, event_rich_comms_favor]
+last_updated: 2026-05-02
 ---
 
 # Lieutenant Rich Cullivan

@@ -2,7 +2,7 @@
 id: arc_02_woven_and_unbound
 name: "Arc 2 — The Woven and the Unbound"
 status: draft
-last_updated: 2026-06-23
+last_updated: 2026-06-25
 type: arc
 description: "First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers."
 books_spanned: [book_02, book_03_opening]

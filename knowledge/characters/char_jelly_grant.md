@@ -41,6 +41,7 @@ themes_embodied: [home, what survives when distance is forced, the love that per
 related_locations: [location_grant_horse_farm_virginia]
 related_characters: [char_dawn_grant, char_chris_grant, char_jace_apollo, char_jinx_grant]
 related_events: [event_jace_gym_arrival_with_messages, event_jace_horse_farm_offer]
+last_updated: 2026-05-02
 ---
 
 # Jelly — Grant Family Dog

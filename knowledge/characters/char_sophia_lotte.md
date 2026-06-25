@@ -51,6 +51,7 @@ distinguishing_features: Moves with the careful deliberateness of someone conser
 archetypes: [the first discoverer, the lone pioneer, the scientist as explorer]
 character_arc: solitary discoverer → first teacher → central figure in developing human Astral practice
 themes_embodied: [the scientist's approach to the unknown, the cost of being first, knowledge acquired at personal risk]
+last_updated: 2026-06-03
 ---
 
 # Dr. Sophia Lotte

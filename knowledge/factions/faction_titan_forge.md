@@ -6,7 +6,7 @@ aliases:
   - Hecatoncheires (Greek — hundred-handed; possibly a war-form or multi-limbed labor caste)
 type: faction_outsider_species
 status: background_arc3
-last_updated: 2026-06-21
+last_updated: 2026-06-25
 description: >
   Massive mineral-bodied engineer species adapted to high gravity, volcanic regions,
   asteroid interiors, and heavy industrial environments. Their "single eye" is a dominant

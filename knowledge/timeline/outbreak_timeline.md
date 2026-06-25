@@ -5,7 +5,7 @@ name: The Outbreak — Chronological Timeline of Magic's Return
 type: timeline
 status: working draft — core phases established; some details TBD
 canonical: true (phases and structure); partial (specific scene details)
-last_updated: 2026-05-02
+last_updated: 2105-04-15
 cross_references:
   - /knowledge/universe-spec/magic_manifestations_early.md
   - /knowledge/magic-systems/magic_overview.md

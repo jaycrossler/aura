@@ -4,7 +4,7 @@ name: Dimensional Travel — Complete Mechanics Reference
 type: foundational_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-06-23
+last_updated: 2026-06-25
 supersedes: >
   Partial content in spec_crossing_mechanics, spec_astral_phenomenology,
   magic_never_never, legacy_lexicon_and_rulebook_reconciliation

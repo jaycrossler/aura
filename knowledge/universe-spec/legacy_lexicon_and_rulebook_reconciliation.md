@@ -5,7 +5,7 @@ name: Legacy Lexicon & Physics-Rulebook Reconciliation
 type: foundational_reference
 status: reconciliation (folds the retired "Physics and Metaphysics Rulebook" project bible)
 canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision
-last_updated: 2026-06-17
+last_updated: 2026-06-24
 cross_references:
   - /knowledge/universe-spec/spec_astral_phenomenology.md
   - /knowledge/universe-spec/spec_crossing_mechanics.md

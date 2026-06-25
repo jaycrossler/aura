@@ -45,6 +45,7 @@ symbolic_meaning: the present generation; the cycler system at its most refined
 
 # Cross-references
 sister_ships: [ship_nina, ship_pinta]
+last_updated: 2026-04-28
 ---
 
 # Santa María

@@ -42,6 +42,7 @@ distinguishing_features: First-generation cybernetic HUD implant (visible scar a
 archetypes: [reluctant frontiersman, fish out of water, naive idealist, eventual mage, the pretty nerd]
 character_arc: identity-loss-and-rebuilding; rationalist confronts mystery; needs-to-be-needed boy learns who he actually is
 themes_embodied: [stripped identity, frontier reinvention, the rigid mind learning to bend, attractiveness as a thing he doesn't wield]
+last_updated: 2026-06-17
 ---
 
 # Jace Apollo Grant

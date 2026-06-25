@@ -46,6 +46,7 @@ themes_embodied: [institutional knowledge as power, the difference between intel
 related_locations: [location_mars_us_settlement, location_mars_air_force_detachment]
 related_characters: [char_mei (subordinate), char_jace_apollo (recruited asset)]
 related_events: [event_intel_deal_with_jace, event_communications_blackout]
+last_updated: 2026-04-30
 ---
 
 # Mr. Sylvester

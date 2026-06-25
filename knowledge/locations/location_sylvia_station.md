@@ -25,6 +25,7 @@ local_authority: TBD
 
 # Cross-references
 related_factions: [faction_belter_stations]
+last_updated: 2026-04-28
 ---
 
 # Sylvia Station

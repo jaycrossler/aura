@@ -49,6 +49,7 @@ distinguishing_features: >
   like Kai is moving through positions rather than between them. Humans find this
   unsettling until they are used to it, which takes longer than they expect.
 
+last_updated: 2026-06-21
 ---
 
 # Kai

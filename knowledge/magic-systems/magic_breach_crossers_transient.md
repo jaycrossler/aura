@@ -6,7 +6,7 @@ type: magic_system
 subtype: fauna_taxonomy_extension
 status: working draft — extends canonical crossing/fauna specs
 canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
-last_updated: 2026-06-17
+last_updated: 2026-06-25
 cross_references:
   - /knowledge/universe-spec/spec_scar_clearing_mechanics.md
   - /knowledge/universe-spec/spec_threat_escalation.md

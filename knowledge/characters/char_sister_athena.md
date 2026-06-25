@@ -44,6 +44,7 @@ themes_embodied: [the family left behind, the generation that inherits what the 
 # Cross-references
 related_locations: [location_virginia_earth]
 related_characters: [char_jace_apollo, char_sister_artemis, char_dawn_chris_grant]
+last_updated: 2026-04-28
 ---
 
 # Athena Grant

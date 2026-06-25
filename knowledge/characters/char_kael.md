@@ -67,6 +67,7 @@ character_arc: >
   and used as leverage → off-system prisoner entering Arc 3
 themes_embodied: [the cost of choosing conscience over institution, what it means to be "civilized" vs. alive, the moment a soldier stops following orders]
 
+last_updated: 2026-06-21
 ---
 
 # Kael

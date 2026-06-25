@@ -40,6 +40,7 @@ associated_vessels_docked: [ship_victoria, ship_falcon (in transit)]
 related_factions: [faction_belter_stations, faction_megacorps]
 related_ships: [ship_falcon, ship_victoria]
 related_events: [event_jace_arrives_fortuna, event_communications_blackout, event_first_magical_incident_fortuna, event_helena_disappearance, event_china_belt_withdrawal]
+last_updated: 2026-06-17
 ---
 
 # Fortuna Station

@@ -25,6 +25,7 @@ local_authority: TBD
 # Cross-references
 related_factions: [faction_belter_stations, faction_megacorps]
 related_characters: [char_mei (intelligence target/operating area)]
+last_updated: 2026-06-17
 ---
 
 # Psyche Station

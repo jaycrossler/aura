@@ -223,6 +223,7 @@ related_technology: [technology/tech_modular_pod_canisters.md]
   system retired in favor of the 36-berth modular system. "Donut" and "Candle" retained
   as crew nicknames only. Pending: Chapters 1-2 still use the old 314-tank language and
   need a terminology pass to match.
+last_updated: 2026-06-16
 ---
 
 # Falcon ("Barnyard 1" / "The Merry-Go-Round")

@@ -12,7 +12,7 @@ characters: [jace, char_the_rat, various_gray_market_contacts]
 location: various (Terminus civilian domes, market district, gray-market contacts, Chinese military warehouse area)
 status: draft
 storybot_extrapolation_allowed: true
-last_updated: 2026-05-02
+last_updated: 2105-04-15
 cross_references:
   - /knowledge/characters/char_jace_apollo.md
   - /knowledge/characters/char_smuggler_mars.md

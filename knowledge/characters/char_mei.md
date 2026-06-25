@@ -48,6 +48,7 @@ themes_embodied: [identity performance vs. genuine self, institutional loyalty v
 related_locations: [location_mars_us_settlement, location_fortuna_station, location_mars_chinese_settlement]
 related_ships: [ship_falcon]
 related_events: [event_jace_mars_arrival, event_mei_cover_establishment, event_intel_deal_with_jace]
+last_updated: 2026-06-17
 ---
 
 # Mei

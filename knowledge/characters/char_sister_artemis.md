@@ -49,6 +49,7 @@ themes_embodied: [the price of the frontier, family across impossible distance, 
 related_locations: [location_metis_station]
 related_ships: [TBD — mining vessels at Metis]
 related_events: [event_artemis_first_magical_incident, event_communications_blackout, event_artemis_sends_credits]
+last_updated: 2026-06-23
 ---
 
 # Artemis Grant

@@ -4,7 +4,7 @@ id: scenes_temporal_map
 name: Master Scenes Temporal Map
 type: chronology_index
 status: working draft (Book 1, early chapters)
-last_updated: 2026-05-02
+last_updated: 2105-03-16
 canonical: true
 storybot_extrapolation_allowed: true (for unfilled fields)
 ---
