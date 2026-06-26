@@ -197,7 +197,7 @@ known_conflict: >
   Maureen has not integrated Jace's personal drones with the ship's majordomo —
   citing certification protocols. Jace manages Thing One and Thing Two manually
   through his HUD. Low-grade ongoing friction.
-aura_integration: ship Aura instance, federated with crew Auras
+aura_integration: ship {Aura} instance, federated with crew Auras
 
 # Narrative Role
 role_in_narrative: primary confined setting for Book 1 transit chapters

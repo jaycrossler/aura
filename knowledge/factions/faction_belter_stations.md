@@ -53,12 +53,12 @@ The most complex orbital environment of the five — navigating the Sylvia syste
 
 See [[location_sylvia_station|Sylvia Station]]
 
-### Odysseus Station (143 Odysseus — Jupiter L4, D-type trojan, ~125km)
+### Metis Station (9 Metis — Jupiter L4, D-type trojan, ~125km)
 The farthest permanent human station, in the Jupiter trojan cluster at ~5.2 AU. Multinational consortium. Population approximately 80-150.
 
-Odysseus is the smallest and most isolated of the five, but the most advanced in magical exposure. The resonance flux front reached it first. Artemis Grant is stationed here. Communications with Odysseus degraded before other stations and will cut out first.
+Metis is a shipyard station at asteroid 9 Metis. It is highly advanced in magical exposure. The resonance flux front reached it early. Artemis Grant is stationed here. Communications with Metis degraded before other stations and will cut out first.
 
-See [[location_odysseus_station|Odysseus Station]]
+See [[location_metis_station|Metis Station]]
 
 ## Inter-Station Relations
 

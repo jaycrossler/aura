@@ -15,7 +15,7 @@ last_updated: 2026-06-03
 
 ## Purpose
 
-The contract that puts Jace on the *Falcon*. A negotiation he is losing without realizing he is losing it. Establishes Origin's institutional posture (corporate, panicked-but-disciplined, ready to bleed Jace for a quick fix) and Jace's diminished bargaining position (no HUD, no Aura intelligence on Origin's actual position, naïve about the negotiation as a *negotiation* rather than a job interview). Contains the Cerberus purchase — not a free manifest add-on, but real money Jace spends with clear eyes. Sets up the tag scene that confirms for the reader exactly how badly Jace lost the contract itself.
+The contract that puts Jace on the *Falcon*. A negotiation he is losing without realizing he is losing it. Establishes Origin's institutional posture (corporate, panicked-but-disciplined, ready to bleed Jace for a quick fix) and Jace's diminished bargaining position (no HUD, no {Aura} intelligence on Origin's actual position, naïve about the negotiation as a *negotiation* rather than a job interview). Contains the Cerberus purchase — not a free manifest add-on, but real money Jace spends with clear eyes. Sets up the tag scene that confirms for the reader exactly how badly Jace lost the contract itself.
 
 ## Position in Sequence
 
@@ -25,7 +25,7 @@ After the Smuggler has flagged Jace for the emergency slot and crash certificati
 
 - Jace has been in the hard months for several weeks. Thinner, tired, confidence cracked but not collapsed.
 - His HUD is *deactivated* — he prepared on a clunky civilian tablet. His pre-research is patchy.
-- He has no Aura assistance during the meeting itself.
+- He has no {Aura} assistance during the meeting itself.
 - He has, that morning, finished a shift at the dog breeder facility. He has spent weeks with the litter whose mother died. He knows what he is going to do about the male puppy. He knows what it costs. He has done the math. He is going to do it anyway.
 - He named the puppy **Cerberus** on the walk to this meeting.
 
@@ -43,7 +43,7 @@ After the Smuggler has flagged Jace for the emergency slot and crash certificati
 
 6. **The offer.** A figure that sounds large to Jace but is structured to back-load almost all meaningful payment to the end of ten years. Upfront stipend, monthly draws, bulk on completion. If he washes out, he gets nothing.
 
-7. **The HUD-less negotiation.** Jace does mental math without his Aura. He doesn't have access to Origin's standard rates. He doesn't know that emergency replacements on a high-value run typically command 25-40% premium over baseline. He says he'd like to think about it.
+7. **The HUD-less negotiation.** Jace does mental math without his {Aura}. He doesn't have access to Origin's standard rates. He doesn't know that emergency replacements on a high-value run typically command 25-40% premium over baseline. He says he'd like to think about it.
 
 8. **The rep gently squeezes.** *"Of course. Take an hour. Just understand we have other names on the list, and the launch window won't wait."*
 

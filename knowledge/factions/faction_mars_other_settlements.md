@@ -76,7 +76,7 @@ Despite formal political separations, day-to-day life on Mars involves substanti
 - **Shared infrastructure** — atmospheric monitoring, debris tracking, search and rescue, weather forecasting are all coordinated planet-wide.
 - **Trade and labor** — engineers, specialists, and workers cross faction lines for projects.
 - **Marriages and friendships** — Mars-born youth in particular form relationships across factions in ways their Earth-born parents find disorienting.
-- **Common Aura networks** — Auras translate, coordinate, and sometimes federate across settlement boundaries (with appropriate user controls).
+- **Common {Aura} networks** — Auras translate, coordinate, and sometimes federate across settlement boundaries (with appropriate user controls).
 
 This cooperation is not idealism; it is practical necessity. Mars is harsh enough that any single settlement that tried to operate without cross-faction relationships would fail. The result is a thick web of interdependence that makes formal political conflict awkward.
 

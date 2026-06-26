@@ -109,7 +109,7 @@ The returning god who expects to resume management of a dependent population and
 
 - **Reproduction and novelty.** Humanity is still making new people with genuinely new Templates. The galactic civilizations are not.
 - **Science.** The systematic, instrument-mediated, falsifiability-based approach to understanding reality has no equivalent in galactic tradition. They have vast knowledge. They do not have science.
-- **AI.** They may have had something like AI, but not AI that developed alongside an independent scientific tradition, in dimensional isolation, with the specific characteristics of Aura. Human AI is a genuinely novel category.
+- **AI.** They may have had something like AI, but not AI that developed alongside an independent scientific tradition, in dimensional isolation, with the specific characteristics of {Aura}. Human AI is a genuinely novel category.
 - **Flexibility.** Unfixed Templates mean genuinely flexible minds. Humanity can be wrong in ways that update their deep structure. Galactic civilization cannot.
 - **Will that has never been Seeded.** Three thousand years of unorganized Will, in a species that has never been inside a Will-Network. The potential of this Will — if humanity develops the practice to direct it without ceding it — is something the galaxy has not seen in a very long time.
 

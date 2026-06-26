@@ -248,7 +248,7 @@ This beat plants:
 - **Background noise.** Constant ventilation hum. Jace will adjust to it within days; right now it is loud.
 - **Earth screens.** Displays in public areas showing Earth news, Earth weather, Earth sports. People half-watch them the way Earth-bound people half-watch news from far places.
 - **Plant scarcity.** People cluster wherever there are real plants. Jace doesn't yet feel the pull; he will.
-- **Aura presence.** Rich's Aura quietly handles directions; Jace's Aura, still settling into Mars latency conditions, occasionally lags or surprises him.
+- **{Aura} presence.** Rich's {Aura} quietly handles directions; Jace's {Aura}, still settling into Mars latency conditions, occasionally lags or surprises him.
 - **HUD tutorial moments.** Jace's HUD overlays an info card on a building they pass; he hasn't asked for it. Slight nuisance. He's still learning what to suppress.
 
 ## Lines / Beats to Preserve

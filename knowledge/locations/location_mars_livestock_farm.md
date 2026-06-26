@@ -101,7 +101,7 @@ After one of the certification sessions, Jace walks back through the tunnels tow
 - He is alone on the walk back
 - He names the male puppy Cerberus during this walk
 - He does it almost before he realizes he has decided anything
-- The Greek naming thread completes here: Apollo (shuttle), Artemis (sister at Odysseus), Athena (sister at college), Cerberus
+- The Greek naming thread completes here: Apollo (shuttle), Artemis (sister at Metis), Athena (sister at college), Cerberus
 - He will not have made this connection consciously yet. He just named a puppy after a thing from Greek mythology, which is what his family does
 
 ---

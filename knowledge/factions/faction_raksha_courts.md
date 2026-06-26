@@ -42,7 +42,7 @@ Raksha have preyed on humans for thousands of years. Human diaspora cultures pre
 
 But Earth is covered in mechanical eyes.
 
-Raksha can fool people. They struggle against access logs, biometrics, DNA scans, gait recognition, thermal imaging, drone witnesses, challenge codes, and AI anomaly detection. A Raksha can pass a room full of humans. It cannot reliably pass a room full of humans and their Aura instances simultaneously. The AI does not have the emotional anchor the glamour requires.
+Raksha can fool people. They struggle against access logs, biometrics, DNA scans, gait recognition, thermal imaging, drone witnesses, challenge codes, and AI anomaly detection. A Raksha can pass a room full of humans. It cannot reliably pass a room full of humans and their {Aura} instances simultaneously. The AI does not have the emotional anchor the glamour requires.
 
 This is new. This is worrying to the Raksha in ways they have not yet processed.
 

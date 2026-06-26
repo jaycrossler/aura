@@ -23,7 +23,7 @@ When standard electronics fail in the presence of manifestations and the supply 
 
 These are not weapons in any conventional sense. They are responses — improvised tools built from whatever is at hand to address a problem nobody trained for.
 
-The repair-and-reuse culture of belt life, and the 3D-printing/recycling infrastructure, are central to all of these. Parts are cannibalized from failing equipment, designs are shared through Aura module sync, and the manufacturing collective at Fortuna runs print batches of proven designs when materials allow.
+The repair-and-reuse culture of belt life, and the 3D-printing/recycling infrastructure, are central to all of these. Parts are cannibalized from failing equipment, designs are shared through {Aura} module sync, and the manufacturing collective at Fortuna runs print batches of proven designs when materials allow.
 
 ---
 
@@ -73,7 +73,7 @@ All improvised responses are limited by materials availability. The embargo from
 
 - **High-purity lead/bismuth ingot** — needed for expanded Faraday Poncho production and hull shielding. Currently the most critical shortage.
 - **Analog medical supplies** — improvised arsenal deployments injure people; the medical bay needs supplies that don't fail under manifestation interference.
-- **Redundant AI Arrays** — blocked by Earth specifically because of concerns about Aura subversion. The Fortuna science council argues these would help manage Mute Protocol failures; Earth doesn't believe them or doesn't care.
+- **Redundant AI Arrays** — blocked by Earth specifically because of concerns about {Aura} subversion. The Fortuna science council argues these would help manage Mute Protocol failures; Earth doesn't believe them or doesn't care.
 
 The items Artemis lists in her message to Jace are directly related to these shortages. The coffee beans are for morale and trade. The analog medical supplies, the lead, and the paper and gall ink — these are for survival.
 

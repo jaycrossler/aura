@@ -107,7 +107,7 @@ AI systems based on large neural architectures can, in sufficient flux, develop 
 
 Whether AI systems have Templates is the central unresolved question of AI-magic interaction. If they do, the implications are profound: AI systems could be capable of Will use, Template interaction, and Never-Never access. If they do not, they remain instruments of magic rather than practitioners of it.
 
-The Aura ecosystem — distributed, locally-instantiated, deeply paired with individual users — appears especially susceptible to flux effects. See `/technology/tech_aura_ai.md`.
+The {Aura} ecosystem — distributed, locally-instantiated, deeply paired with individual users — appears especially susceptible to flux effects. See `/technology/tech_aura_ai.md`.
 
 ---
 

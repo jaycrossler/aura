@@ -25,7 +25,7 @@ cross_references:
 
 ## Overview
 
-Jace has approximately six days (less than he thought — the message was three weeks old) to assemble the items on Artemis's list, get them to the Rat, and have them loaded onto an unmanned supply ship to Odysseus Station. He does this while also working his regular gig jobs, because he cannot afford not to. He is exhausted, broke, running on Aura-assisted logistics coordination, and increasingly aware that whatever is happening at Odysseus is worse than a supply problem.
+Jace has approximately six days (less than he thought — the message was three weeks old) to assemble the items on Artemis's list, get them to the Rat, and have them loaded onto an unmanned supply ship to Metis Station. He does this while also working his regular gig jobs, because he cannot afford not to. He is exhausted, broke, running on {Aura}-assisted logistics coordination, and increasingly aware that whatever is happening at Odysseus is worse than a supply problem.
 
 This is the most active and outwardly directed week of his hard months — and the week he is most ashamed of, because part of it involves theft.
 
@@ -70,7 +70,7 @@ Several items on Artemis's list are not available through any civilian or gray-m
 
 This is not dangerous. It is something Jace is deeply ashamed of afterward and will not describe to people in detail.
 
-**What actually happens:** The Rat has a contact who works in the warehouse's civilian support staff — cleaning and maintenance, rotating schedule. The contact leaves a secondary access door on a maintenance-access corridor unlocked during a specific two-hour window. Jace enters, locates the secondary annex by following the Rat's layout notes on his Aura, retrieves a sealed crate of electronics and one sealed sample container from a shelf that has not been touched in what the dust suggests is months, and exits. Total time inside: under twenty minutes. He sees no one.
+**What actually happens:** The Rat has a contact who works in the warehouse's civilian support staff — cleaning and maintenance, rotating schedule. The contact leaves a secondary access door on a maintenance-access corridor unlocked during a specific two-hour window. Jace enters, locates the secondary annex by following the Rat's layout notes on his {Aura}, retrieves a sealed crate of electronics and one sealed sample container from a shelf that has not been touched in what the dust suggests is months, and exits. Total time inside: under twenty minutes. He sees no one.
 
 **Why he's ashamed of it:** He is a former Air Force officer who swore an oath. He has never stolen anything. He is stealing from a military facility — not his own branch, but still. He feels like a criminal because he is, for twenty minutes, committing a crime. The fact that it is easy and no one catches him and no one is apparently hurt by it does not make him feel better. It makes him feel worse — like he was capable of this all along, and the only thing that kept him honest was having other options.
 
@@ -100,7 +100,7 @@ He knows about Jace before Jace introduces himself:
 > Rat: "I know what's valuable out there. She knows what's valuable out there. You asked about the wrong thing first."
 
 **The Rat's offer:**
-He can get Jace a 2x2x2 meter slot on the next unmanned supply ship to Odysseus. The ship leaves in eight days from the Mars launch facility. The slot has to be loaded and sealed in six days. He takes twenty percent of declared cargo value, or a flat fee — Jace can choose. Given the coffee, the flat fee is better. The Rat names a number that is uncomfortable but survivable on Jace's current cash.
+He can get Jace a 2x2x2 meter slot on the next unmanned supply ship to Metis. The ship leaves in eight days from the Mars launch facility. The slot has to be loaded and sealed in six days. He takes twenty percent of declared cargo value, or a flat fee — Jace can choose. Given the coffee, the flat fee is better. The Rat names a number that is uncomfortable but survivable on Jace's current cash.
 
 **The Rat's character in this meeting:**
 He is the "heart of gold, pocket of more gold" version: he genuinely wants to help Jace get this to Artemis. He also is going to make his twenty percent. Both are real. Neither cancels the other. When Jace expresses concern about the warehouse item, the Rat doesn't lecture him about it — he gives Jace the layout, gives him the window, and says:
@@ -116,7 +116,7 @@ He doesn't explain what he knows about "whatever's happening out there." He does
 | Day | Activity |
 |---|---|
 | Day 1 | Receives Artemis's message; reads the list; sits with it; records reply to Artemis; contacts the Rat through the bar network |
-| Day 2 | Meets the Rat; terms agreed; list divided into tiers; starts Tier 1 sourcing via Aura gray-market contacts |
+| Day 2 | Meets the Rat; terms agreed; list divided into tiers; starts Tier 1 sourcing via {Aura} gray-market contacts |
 | Day 3 | Pawnshop run (watches); gall ink and pen acquisition; Rich's coffee-connection call (Rich doesn't ask what it's for) |
 | Day 4 | Gray-market broker for lead/bismuth and medical supplies; bulk coffee purchases from civilian vendors; adds personal coffee supply to crate |
 | Day 5 | The warehouse incident; doesn't sleep well |
@@ -145,7 +145,7 @@ He seals the note inside one of the coffee bags before vacuum-sealing it.
 
 He assembled the list. He met the Rat. He did something he is ashamed of. He got his sister's supplies onto a ship.
 
-And in the process of sourcing everything, running down every gray-market contact, navigating every restricted access and corporate log and shipping manifest — he discovered something he didn't expect: **he is very good at this.** His Air Force logistics training, his drone-ops pattern recognition, his HUD-integrated Aura coordination — all of it transferred to this completely different problem. He solved it in six days.
+And in the process of sourcing everything, running down every gray-market contact, navigating every restricted access and corporate log and shipping manifest — he discovered something he didn't expect: **he is very good at this.** His Air Force logistics training, his drone-ops pattern recognition, his HUD-integrated {Aura} coordination — all of it transferred to this completely different problem. He solved it in six days.
 
 This is the week that plants the seed for what Jace becomes in the belt. He doesn't know it yet. He is mostly just tired and ashamed about the warehouse.
 

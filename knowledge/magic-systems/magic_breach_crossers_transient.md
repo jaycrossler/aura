@@ -93,7 +93,7 @@ he spent, and why he felt like he had the flu for the entire day after the disas
 
 [[spec_threat_escalation]] places active fauna at late Book 1 and is explicit that early station-interior crossings encounter *no* active fauna. The *Falcon* incident is a deliberate **outlier**, justified by:
 
-- **A Will beacon at a high-stress moment.** The ship runs dense AI (Aura, the majordomo, the fluid-management AI, Jace's drones) generating steady Will, and during the crisis four terrified humans plus panicking animals spike biological Will sharply. Per [[spec_crossing_mechanics]], crossings cluster around high processor density and high stress. For a few minutes the *Falcon* is the brightest, most frightened thing in a famine-dark stretch of Astral.
+- **A Will beacon at a high-stress moment.** The ship runs dense AI ({Aura}, the majordomo, the fluid-management AI, Jace's drones) generating steady Will, and during the crisis four terrified humans plus panicking animals spike biological Will sharply. Per [[spec_crossing_mechanics]], crossings cluster around high processor density and high stress. For a few minutes the *Falcon* is the brightest, most frightened thing in a famine-dark stretch of Astral.
 - **A transient, not a population.** One Dipper, briefly, not an infestation. It does not recur on the ship. It is a single early contact, not the escalation arriving early.
 
 ### Foreshadowing payload

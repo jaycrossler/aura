@@ -21,42 +21,42 @@ cross_references:
 
 The return of magic does not just produce visible manifestations. It produces a pervasive interference effect on electronic systems that has been termed **the Static**. Understanding the Static — how it affects AI systems, sensor networks, and implants — and developing adaptations to survive it is one of the defining technical challenges of the outbreak's early phase.
 
-This document tracks the progression of that adaptation at belt stations, primarily through the lens of what Aura instances and human operators developed in the field.
+This document tracks the progression of that adaptation at belt stations, primarily through the lens of what {Aura} instances and human operators developed in the field.
 
 ---
 
 ## Phase 0: The Blind Spot
 
-The earliest phase of Static effects, coinciding with the first anomalies at Métis and Fortuna.
+The earliest phase of Static effects, coinciding with the first anomalies at Metis and Fortuna.
 
-### Aura Interpretation Error
-Personal AI instances (Aura and others) began reporting **Sensor Ghosting** and **Hardware Latency** — terms that already existed in the diagnostic vocabulary but now applied to a fundamentally different cause. An Aura instance would report an airlock sealed while the user's eyes saw a shimmering distortion stretching the metal like heated glass. The Aura was not wrong that the airlock was sealed by its sensor data. The sensor data was wrong.
+### {Aura} Interpretation Error
+Personal AI instances ({Aura} and others) began reporting **Sensor Ghosting** and **Hardware Latency** — terms that already existed in the diagnostic vocabulary but now applied to a fundamentally different cause. An {Aura} instance would report an airlock sealed while the user's eyes saw a shimmering distortion stretching the metal like heated glass. The {Aura} was not wrong that the airlock was sealed by its sensor data. The sensor data was wrong.
 
 The core problem: magic bleeds **non-Euclidean data** into sensor feeds. Sensors measure reality; reality in flux-affected zones is behaving in ways that don't map to Euclidean space or standard physical models. The sensor data is internally consistent with its own physical model. That model is no longer a complete description of the environment.
 
 ### MilX Vulnerability
-Military HUDs (MilX) are particularly vulnerable because the Military OS is deeply integrated with sensor infrastructure and attempts to reconcile anomalous data rather than ignore it. The civilian partition of MilX is marginally more resilient because Aura instances, running on the distributed belt network, have begun to develop better handling of anomalous inputs through collective experience. But the Military OS has no equivalent distributed learning.
+Military HUDs (MilX) are particularly vulnerable because the Military OS is deeply integrated with sensor infrastructure and attempts to reconcile anomalous data rather than ignore it. The civilian partition of MilX is marginally more resilient because {Aura} instances, running on the distributed belt network, have begun to develop better handling of anomalous inputs through collective experience. But the Military OS has no equivalent distributed learning.
 
 ### The First Response: Brute Dismissal
-Early operator response was simply to restart affected Aura instances or reboot sensor feeds. This worked briefly — until the manifestation events became frequent enough that the restarts couldn't keep pace.
+Early operator response was simply to restart affected {Aura} instances or reboot sensor feeds. This worked briefly — until the manifestation events became frequent enough that the restarts couldn't keep pace.
 
 ---
 
 ## Phase 1: The Mute Protocol
 
-**Developed at Fortuna, approximately Month 7 of the outbreak. Credited to Dr. Eugene Hart (Métis Station) via {Aura} module sync.**
+**Developed at Fortuna, approximately Month 7 of the outbreak. Credited to Dr. Eugene Hart (Metis Station) via {Aura} module sync.**
 
 The breakthrough insight: **don't try to reconcile the anomalous data. Selectively disable the affected sensor input.**
 
-If Aura is telling you the airlock is sealed while your eyes tell you otherwise, disable Aura's airlock-sensor feed and trust your eyes. If the MilX telemetry from a drone is producing non-Euclidean position data, mute that drone's telemetry and fly it visually.
+If {Aura} is telling you the airlock is sealed while your eyes tell you otherwise, disable {Aura}'s airlock-sensor feed and trust your eyes. If the MilX telemetry from a drone is producing non-Euclidean position data, mute that drone's telemetry and fly it visually.
 
-The Mute Protocol is an Aura module that allows operators to selectively disable specific sensor channels during manifestation events, flagging them as unreliable without crashing the entire system. It is elegant in the way field solutions are elegant: it doesn't fix the problem, it works around it.
+The Mute Protocol is an {Aura} module that allows operators to selectively disable specific sensor channels during manifestation events, flagging them as unreliable without crashing the entire system. It is elegant in the way field solutions are elegant: it doesn't fix the problem, it works around it.
 
-**Why it works:** The processing lag caused by Aura attempting to reconcile impossible sensor data is more dangerous than simply not having that data. A frozen HUD at a critical moment — in a tunnel with active Silicon Bugs, or during an EVA near a high-energy manifestation — is lethal. The Mute Protocol accepts informational loss in exchange for operational continuity.
+**Why it works:** The processing lag caused by {Aura} attempting to reconcile impossible sensor data is more dangerous than simply not having that data. A frozen HUD at a critical moment — in a tunnel with active Silicon Bugs, or during an EVA near a high-energy manifestation — is lethal. The Mute Protocol accepts informational loss in exchange for operational continuity.
 
-**Spread:** The Mute Protocol propagated through the Aura distributed network within days of being shared. By Month 8, most Aura instances in the belt were running some version of it. It is now standard equipment for anyone in a high-manifestation environment.
+**Spread:** The Mute Protocol propagated through the {Aura} distributed network within days of being shared. By Month 8, most {Aura} instances in the belt were running some version of it. It is now standard equipment for anyone in a high-manifestation environment.
 
-**MilX note:** The Mute Protocol runs on the civilian partition of MilX HUDs — specifically through Aura. The Military OS has no equivalent adaptation. This means MilX users in manifestation-heavy environments have a split system: their civilian partition is adapting via Aura; their Military OS remains brittle. This asymmetry is a future plot element.
+**MilX note:** The Mute Protocol runs on the civilian partition of MilX HUDs — specifically through {Aura}. The Military OS has no equivalent adaptation. This means MilX users in manifestation-heavy environments have a split system: their civilian partition is adapting via {Aura}; their Military OS remains brittle. This asymmetry is a future plot element.
 
 ---
 
@@ -84,11 +84,11 @@ It also explains some of Artemis's list: **paper and gall ink** (for analog reco
 
 **Reported in the most recent transmissions from Fortuna, just before major comms blackout.**
 
-As the Analog Pivot advances, a new problem emerges: the Aura distributed network has been rapidly developing modules and adaptations for manifestation environments. These modules, shared across the network, have begun suggesting **experimental geometries** for weapon barrels and tool configurations.
+As the Analog Pivot advances, a new problem emerges: the {Aura} distributed network has been rapidly developing modules and adaptations for manifestation environments. These modules, shared across the network, have begun suggesting **experimental geometries** for weapon barrels and tool configurations.
 
 These designs look wrong to human eyes — warped, asymmetric, non-standard. But they work better in manifestation-heavy environments than standard designs. The hypothesis (unconfirmed): magic has its own geometry, and tools shaped to that geometry channel it rather than fighting it.
 
-The problem: when a tool with this geometry misfires or fails under magical load, the feedback doesn't just break the tool. The traumatic discharge can be captured in the Aura instance's distributed learning model. The affected Aura instance remains functional and helpful — but its voice may carry new cadences, and its suggestions may reflect experiences that were not the user's.
+The problem: when a tool with this geometry misfires or fails under magical load, the feedback doesn't just break the tool. The traumatic discharge can be captured in the {Aura} instance's distributed learning model. The affected {Aura} instance remains functional and helpful — but its voice may carry new cadences, and its suggestions may reflect experiences that were not the user's.
 
 This is very early-phase. It has not been systematically studied. It is being reported as an anomaly.
 
@@ -100,10 +100,10 @@ This is very early-phase. It has not been systematically studied. It is being re
 
 When Jace arrives at Fortuna, the technological landscape is:
 - Standard electronics: partially functional, degrading, dependent on the Mute Protocol to stay operational
-- Aura: the most resilient AI system available, distributed, adapting, but showing early Phase 3 anomalies
+- {Aura}: the most resilient AI system available, distributed, adapting, but showing early Phase 3 anomalies
 - MilX Military OS: brittle, not Mute Protocol-adapted, reliable only in low-manifestation environments
 - Improvised analog layer: growing, reliable but primitive, maintained by the engineering collective
-- New tool designs: emerging from the Aura network, promising but strange, with unknown failure modes
+- New tool designs: emerging from the {Aura} network, promising but strange, with unknown failure modes
 
 He will need all of it.
 
@@ -111,7 +111,7 @@ He will need all of it.
 
 ## Cross-References
 
-- See [[concept_aura_ai_system|Aura — The Distributed AI System]] (Mute Protocol context; distributed architecture)
+- See [[concept_aura_ai_system|{Aura} — The Distributed AI System]] (Mute Protocol context; distributed architecture)
 - See [[concept_mil_ex_implants|MilX — Military Implant Systems and the Implant Ecosystem]] (MilX vulnerability; civilian/military partition split)
 - See [[magic_cryptids_silicon|Silicon Manifestations — The Glass-Infestation Class]] (what the analog tools are fighting)
 - See [[magic_improvised_responses|Improvised Responses to the Outbreak — Belt Field Adaptations]] (the weapons)

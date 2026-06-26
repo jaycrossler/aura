@@ -99,7 +99,7 @@ She is not fine. She is also not stopping.
 ## What She Has Built — Over a Month, Alone
 
 - A reliable crossing routine (~35 minutes with her current kit, improving)
-- A small supply cache on the Astral side: sealed food, water in containers, a laptop (four separate exhausting sessions to pull through), a dedicated Aura AI device (multiple sessions), measurement equipment
+- A small supply cache on the Astral side: sealed food, water in containers, a laptop (four separate exhausting sessions to pull through), a dedicated {Aura} AI device (multiple sessions), measurement equipment
 - **Seventeen physical notebooks** of observations
 - A working empirical framework for the physics of the Astral
 - No idea anyone else has crossed

@@ -3,11 +3,11 @@ id: readme
 name: StoryOps — The Aura Chronicles
 type: readme
 status: canonical
-description: "Main repository documentation and directory list for the Aura Chronicles project knowledge base."
+description: "Main repository documentation and directory list for the {Aura} Chronicles project knowledge base."
 last_updated: 2026-06-26
 ---
 
-# StoryOps — The Aura Chronicles
+# StoryOps — The {Aura} Chronicles
 
 A working repository for a hard sci-fi novel series set in the late 21st–early 22nd century,
 in a solar system on the cusp of magical transformation.
@@ -28,7 +28,7 @@ on the *Falcon* as a civilian contractor with a secret intelligence arrangement.
 ## Repository Structure
 
 ### Universe Spec — Immutable core rules
-- [[concept_aura_ai_system|Aura — The Distributed AI System]]
+- [[concept_aura_ai_system|{Aura} — The Distributed AI System]]
 - [[concept_mil_ex_implants|MilX — Military Implant Systems and the Implant Ecosystem]]
 - [[concept_military_address_culture|Military Address Culture — USAF and Space Force on Mars]]
 - [[concept_resource_scarcity|Belt Resource Scarcity and Selection Pressure]]
@@ -73,7 +73,7 @@ on the *Falcon* as a civilian contractor with a secret intelligence arrangement.
 - [[location_mars_livestock_farm|Mars Livestock Farm — Terminus Underground, Level 2–3]]
 - [[location_mars_overview|Mars (Inhabited World Overview)]]
 - [[location_mars_us_afspace_force_base|U.S. Air Force / Space Force Joint Base (Terminus)]]
-- [[location_odysseus_station|Odysseus Station]]
+- [[location_odysseus_station|Metis Station]]
 - [[location_pangu|Pangu]]
 - [[location_psyche_station|Psyche Station]]
 - [[location_sylvia_station|Sylvia Station]]
@@ -88,7 +88,7 @@ on the *Falcon* as a civilian contractor with a secret intelligence arrangement.
 - [[ship_santa_maria|Santa María]]
 
 ### Technology
-- [[tech_aura_ai|Aura]]
+- [[tech_aura_ai|{Aura}]]
 - [[tech_communications_filtering|Communications Filtering and Censorship Architecture]]
 - [[tech_cybernetics|Cybernetic Augmentation Systems]]
 - [[tech_cyclers|The Cycler System]]

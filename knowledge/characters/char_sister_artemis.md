@@ -13,7 +13,7 @@ birthplace: Virginia, United States of America (Earth)
 
 # Status
 status: alive (at story start — comms increasingly unreliable)
-first_appearance: Arc 2 — Métis Station rescue mission
+first_appearance: Arc 2 — Metis Station rescue mission
 last_appearance: ongoing (major role in later books)
 pov_character: false (early books); potential POV in later books
 
@@ -68,7 +68,7 @@ She maintains the family connection with genuine care. She calls when she can. S
 
 ## Notes
 
-Artemis works at Métis Station, anchored to asteroid 9 Metis in the inner belt, approximately 80 million km from Fortuna. Métis is a shipyard run by Dr. Eugene Hart.  The two have a functional working relationship built entirely on mutual professional respect and careful avoidance of anything personal.
+Artemis works at Metis Station, anchored to asteroid 9 Metis in the inner belt, approximately 80 million km from Fortuna. Metis is a shipyard run by Dr. Eugene Hart.  The two have a functional working relationship built entirely on mutual professional respect and careful avoidance of anything personal.
 
 Some Fortuna residents know Artemis by reputation before Jace arrives — she is the ship architect connected to the place that services Fortuna's vessels.
 
@@ -98,7 +98,7 @@ In the six months before story start, Artemis has experienced:
 - A dream she has had three times, depicting a location on Metis she had not yet visited — which turned out to exist.
 - A moment, alone in a suit doing an EVA, when she pushed against a jammed coupling and it moved before she touched it.
 
-She has told no one. The belt cultural norm around anomalies, at this stage, is fierce denial. Anyone who reported these things publicly would be pulled from duty. She is filing them away, talking to her Aura, and waiting.
+She has told no one. The belt cultural norm around anomalies, at this stage, is fierce denial. Anyone who reported these things publicly would be pulled from duty. She is filing them away, talking to her {Aura}, and waiting.
 
 ## Communication Degradation
 
@@ -129,6 +129,6 @@ Artemis is positioned to become a significant figure in later books. She is at t
 - 2026-06-21: Arc 2 update. Crushed leg injury added. Established as evacuation
   anchor for mass Metis crossing. Trajectory as belt's most advanced practitioner
   confirmed. Eugene relationship flagged for development.
-  - 2026-06-23: Patch created. All Odysseus Station references updated to Métis Station.
+  - 2026-06-23: Patch created. All Metis Station references updated to Metis Station.
   Asteroid updated from 143 Odysseus to 9 Metis. Context note added to prevent future
   conflation with the Jupiter science post.

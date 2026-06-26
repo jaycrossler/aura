@@ -84,7 +84,7 @@ Near the end of the session, the instructor guides the class into a long extende
 
 The class goes quiet. The only sounds are breath and the sub-dome's gentle ventilation.
 
-Jace is in the hold. He is breathing. His body is still — genuinely still, in a way that his normal exercise practice almost never requires. In low gravity, the effort to hold the position is minimal. There is almost nothing to do. His mind, which is usually occupied by telemetry, game overlays, scheduling, and the low hum of Aura notifications, has very little to process.
+Jace is in the hold. He is breathing. His body is still — genuinely still, in a way that his normal exercise practice almost never requires. In low gravity, the effort to hold the position is minimal. There is almost nothing to do. His mind, which is usually occupied by telemetry, game overlays, scheduling, and the low hum of {Aura} notifications, has very little to process.
 
 And then his fingertips do something.
 

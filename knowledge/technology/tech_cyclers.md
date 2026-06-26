@@ -44,7 +44,7 @@ Each cycler is a deep-space city. Working specifications:
 - **Rotating habitat ring:** Provides ~0.4–0.7g over much of the passenger and crew accommodation. Inner core is zero-g.
 - **Gardens and life support:** Substantial closed-loop life support with hydroponic gardens contributing to atmospheric processing and supplemental food.
 - **Medical:** Full suite including surgery; constrained by transit times.
-- **Recreation:** Significant given long transits — gymnasia, gardens, theaters, libraries, full Aura-based entertainment.
+- **Recreation:** Significant given long transits — gymnasia, gardens, theaters, libraries, full {Aura}-based entertainment.
 
 The crew of a cycler is a distinct subculture. They are the most-traveled humans alive, but they almost never set foot on a planet. Some career crew go years without standing on solid ground. Cycler culture is often described as monastic — disciplined, ritualized, somewhat closed to outsiders, with strong internal hierarchies and traditions developed over decades of continuous operation.
 

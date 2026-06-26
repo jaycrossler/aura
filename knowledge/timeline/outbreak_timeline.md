@@ -6,7 +6,7 @@ type: timeline
 status: working draft
 canonical: true (phases and structure); partial (specific scene details)
 last_updated: 2105-04-15
-description: "Chronological timeline detailing the gradual return and manifestation of magic in space, centered around Métis Station and Fortuna Station."
+description: "Chronological timeline detailing the gradual return and manifestation of magic in space, centered around Metis Station and Fortuna Station."
 cross_references:
   - /knowledge/universe-spec/magic_manifestations_early.md
   - /knowledge/magic-systems/magic_overview.md
@@ -21,43 +21,43 @@ cross_references:
 
 ## Overview
 
-The return of magic to the solar system does not arrive as a single event. It arrives as noise — accidents, instrument errors, anomalies, pranks, then sabotage, then something no one has a word for. Métis Station in the asteroid belt is the first place where the pattern becomes undeniable. By the time Earth and Mars understand what is happening, the belt has already been living with it for months.
+The return of magic to the solar system does not arrive as a single event. It arrives as noise — accidents, instrument errors, anomalies, pranks, then sabotage, then something no one has a word for. Metis Station in the asteroid belt is the first place where the pattern becomes undeniable. By the time Earth and Mars understand what is happening, the belt has already been living with it for months.
 
 **Key populations:**
-- **Métis Station:** ~180 people total (120 permanent residents; ~60 constantly out in small ships or platforms mining). Strong science detachment studying Jupiter. Light manufacturing and smelting. Mixed Chinese and American. This is Artemis Grant's posting.
+- **Metis Station:** ~180 people total (120 permanent residents; ~60 constantly out in small ships or platforms mining). Strong science detachment studying Jupiter. Light manufacturing and smelting. Mixed Chinese and American. This is Artemis Grant's posting.
 - **Fortuna Station:** ~150 people, mostly international (Chinese, European/German, Indian; few Americans). Primary activities: mining, smelting, processing, farming. Small biology/botany presence with significant animal and crop operations.
 - **Mars (Terminus):** ~7,200 people in the U.S. settlement alone. Orders of magnitude more total consciousness than the belt. Will be affected later and at larger scale.
 - **Reference anchor:** Jace arrives on Mars on Day 1 (~2105-03-15). All dates are given relative to this anchor and as estimated calendar dates.
 
 ---
 
-## PHASE 0 — First Anomalies at Métis (~5–6 months before Jace's arrival)
+## PHASE 0 — First Anomalies at Metis (~5–6 months before Jace's arrival)
 
 **Estimated: ~2104-09 to 2104-11**
-**Location: Métis Station, ~180 people**
-**Why Métis first:** 180 people in pressurized domes focused intensely on Jupiter observation, mining operations, and manufacturing. Dense, concentrated conscious activity in a small enclosed space. The conditions are ideal for early manifestation.
+**Location: Metis Station, ~180 people**
+**Why Metis first:** 180 people in pressurized domes focused intensely on Jupiter observation, mining operations, and manufacturing. Dense, concentrated conscious activity in a small enclosed space. The conditions are ideal for early manifestation.
 
 ### What Happens
 
-**Weeks 1–4:** Small equipment failures begin. Sensors reading incorrectly. A robotic arm in the fabrication bay makes a motion no one programmed. Station AI — a mix of Aura instances and Chinese state AI — logs it as software glitch; it is patched; the motion happens again.
+**Weeks 1–4:** Small equipment failures begin. Sensors reading incorrectly. A robotic arm in the fabrication bay makes a motion no one programmed. Station AI — a mix of {Aura} instances and Chinese state AI — logs it as software glitch; it is patched; the motion happens again.
 
 **Weeks 5–8:** Mining drones in Survey Corridor 7 begin losing contact for seconds at a time. Engineers reroute around a comms dead zone. The dead zone moves.
 
 **Weeks 9–12:** Anomalous gamma-ray readings arrive. The station's science team is receiving burst patterns from what appears to be a rotating pulsar — but the burst pattern doesn't match any known pulsar catalog entry. The CERN-legacy European physicists at Fortuna flag the same anomaly. Nobody is alarmed yet.
 
-**Week 11:** A miner in Survey Corridor 7 reports seeing a shimmer in the rock — a visual distortion, like heat haze, with no heat source. Three others confirm the same experience. Logged as a camera artifact. The Aura instances in the area begin reporting "sensor ghosting" and "hardware latency."
+**Week 11:** A miner in Survey Corridor 7 reports seeing a shimmer in the rock — a visual distortion, like heat haze, with no heat source. Three others confirm the same experience. Logged as a camera artifact. The {Aura} instances in the area begin reporting "sensor ghosting" and "hardware latency."
 
 **Week 13:** A spectrometer and data relay fail simultaneously in Lab Module 4. The spectrometer housing contains a fine crystalline dust matching nothing in the materials database. Analysis takes three weeks. The result comes back inconclusive — the dust decomposes during handling into finer fractal filaments that the electron microscope cannot resolve. The sample is lost.
 
 ### Information State
-- Métis command: aware of equipment failures, not alarmed
+- Metis command: aware of equipment failures, not alarmed
 - Fortuna science council: flagging gamma-ray anomaly independently
 - Earth and Mars: no signal — all within expected noise
 - Artemis: has seen the shimmer personally; mentions it in a personal log; does not yet flag it outward
 
 ---
 
-## PHASE 1 — Escalation at Métis (~3–4 months before Jace's arrival)
+## PHASE 1 — Escalation at Metis (~3–4 months before Jace's arrival)
 
 **Estimated: ~2104-11 to 2104-12**
 
@@ -74,7 +74,7 @@ The return of magic to the solar system does not arrive as a single event. It ar
 Station command classifies the footage immediately.
 
 ### Information State
-- Métis: on high alert, classification active, searching for explanations
+- Metis: on high alert, classification active, searching for explanations
 - Belt stations generally: rumors circulating, not yet confirmed facts
 - Earth/Mars: fragmentary signals in noise, not yet acting
 - Artemis: has seen the classified manifestation footage through her role. Sends first coded personal message to Jace on the Pinta — vague, concerning. He receives it during transit.
@@ -89,18 +89,18 @@ Station command classifies the footage immediately.
 
 **Month 6:** Multiple belt stations reporting anomalies independently. Fortuna science council issues an internal document: the gamma-ray burst pattern is consistent with "an unmodeled high-energy phenomenon of local origin." Earth receives a fragmentary version. The response is to request more data while quietly beginning to restrict outbound comms from the belt.
 
-**Month 6, Week 2:** Métis's long-range comms array begins experiencing intermittent failures. Not complete blackouts — degraded bandwidth, dropped packets, corrupted transmissions. No hardware cause found. The failures correlate with the gamma-ray burst events.
+**Month 6, Week 2:** Metis's long-range comms array begins experiencing intermittent failures. Not complete blackouts — degraded bandwidth, dropped packets, corrupted transmissions. No hardware cause found. The failures correlate with the gamma-ray burst events.
 
-At Fortuna, the science council's Aura instances — the more technically sophisticated belt-tuned versions developed by Dr. Eugene Hart — begin exhibiting a new behavior: selectively muting sensor inputs near manifestation events to prevent HUD freeze. Dr. Eugene Hart logs this as "the Mute Protocol." It is the first improvised defense.
+At Fortuna, the science council's {Aura} instances — the more technically sophisticated belt-tuned versions developed by Dr. Eugene Hart — begin exhibiting a new behavior: selectively muting sensor inputs near manifestation events to prevent HUD freeze. Dr. Eugene Hart logs this as "the Mute Protocol." It is the first improvised defense.
 
 **Month 6, Week 3:** Artemis sends Jace a longer message. Comms degradation corrupts part of it. Core comes through: *things are getting strange here. equipment keeps failing. people are scared. I can't tell you more in this channel.*
 
 **Month 7:** Earth and Mars governments, coordinating with corporate communication managers, implement "data integrity protocols" — automated filtering of belt-origin transmissions. Official rationale: preventing corrupted data packets from contaminating Earth-side networks. Real effect: belt-to-inner-system communications are reviewed and selectively blocked.
 
-**Month 7, Week 2:** Métis sends an urgent priority message to Mars military command. Received but distribution restricted to senior command. Rich Cullivan's communications operations center sees the classification traffic volume but not the content. He begins working longer hours.
+**Month 7, Week 2:** Metis sends an urgent priority message to Mars military command. Received but distribution restricted to senior command. Rich Cullivan's communications operations center sees the classification traffic volume but not the content. He begins working longer hours.
 
 ### Information State
-- Métis: partial comms blackout in effect
+- Metis: partial comms blackout in effect
 - Belt generally: aware something is being censored
 - Mars civilian: unaware
 - Mars military (senior command): aware
@@ -123,8 +123,8 @@ Below the surface:
 
 Jace does not know:
 - Artemis's last coherent message is sitting in the military comms queue flagged for classification review
-- The manifestation that killed the miner at Métis was four months ago
-- Comms to Métis are now near-total blackout
+- The manifestation that killed the miner at Metis was four months ago
+- Comms to Metis are now near-total blackout
 - Earth is actively filtering belt transmissions
 
 ---
@@ -185,7 +185,7 @@ The message is three weeks old. It contains:
 
 Jace has six days to assemble the list. He meets the Rat. He navigates gray-market channels, pawn shops, a calligrapher, Rich's coffee-dome connection, and — with shame he will carry for months — a Chinese military warehouse access.
 
-The Rat secures a 2x2x2 meter slot on the next unmanned supply ship to Métis.
+The Rat secures a 2x2x2 meter slot on the next unmanned supply ship to Metis.
 
 The crate is loaded and sealed on Day 6. It ships on Day 8.
 
@@ -212,14 +212,14 @@ He doesn't say what he knows. He never will — not in Book 1. But he says that.
 **Status: Future arc — to be developed**
 
 What Jace does not know as he boards the Falcon:
-- Métis Station's situation has continued to deteriorate; Artemis's status is unknown
+- Metis Station's situation has continued to deteriorate; Artemis's status is unknown
 - The Fortuna science council has been attempting to "code" the magic as a new branch of particle physics
 - The silicon cryptids — a specific class of manifestation associated with the manufacturing consciousness at Fortuna and similar industrial stations — are becoming a serious threat
-- Dr. Eugene Hart on Métis who built {Aura} has been working on something that will become critical
+- Dr. Eugene Hart on Metis who built {Aura} has been working on something that will become critical
 
 What he has when he boards:
 - Cerberus
-- A civilian HUD with a functional Aura instance
+- A civilian HUD with a functional {Aura} instance
 - A supply of Mars coffee he kept a small amount of for himself
 - The skill set he proved during the smuggling sprint
 - Fingertips that remember something he filed under "probably tired"
@@ -228,8 +228,8 @@ What he has when he boards:
 
 ## Open Items / Future Development
 
-- **Dr. Eugene Hart (Métis, built {Aura}):** Confirmed.
-- **Artemis's actual role at Métis:** Determines how she has access to classified footage and why she knows what she knows.
+- **Dr. Eugene Hart (Metis, built {Aura}):** Confirmed.
+- **Artemis's actual role at Metis:** Determines how she has access to classified footage and why she knows what she knows.
 - **The anomalous pulsar:** Its nature and the full physical explanation for the outbreak — series-arc material.
 - **The full manifestation taxonomy:** Many types, environment-specific; to develop book by book.
 - **Fortuna's science response:** The "coding" of magic as physics — a real approach with real results.
@@ -239,13 +239,13 @@ What he has when he boards:
 
 - See [[magic_overview|Magic — Overview and Fundamental Principles]]
 - See [[magic_manifestations_early|Early Manifestations — Pre-Understanding Phase]]
-- See [[concept_aura_ai_system|Aura — The Distributed AI System]]
+- See [[concept_aura_ai_system|{Aura} — The Distributed AI System]]
 - See [[char_sister_artemis|Artemis Grant]]
-- See [[location_metis_station|Métis Station]]
+- See [[location_metis_station|Metis Station]]
 - See [[location_fortuna_station|Fortuna Station]]
 - See [[event_jace_assembles_smuggling_list|Scene Cluster — Assembling Artemis's List (The Smuggling Sprint)]]
 
 ## Revision Notes
 
-- 2026-05-02: Full rewrite. Odysseus population confirmed (~180; 120 permanent + ~60 out mining). Fortuna population confirmed (~150; international mix). Aura/Mute Protocol integrated. Lina yoga scene placed in Phase 4. Smuggling sprint phase added. Rich's final words to Jace added. TBD Engineer flagged as major future character.
-- 2026-06-26: Updated all Odysseus Station references to Métis Station, and replaced TBD engineer references with Dr. Eugene Hart.
+- 2026-05-02: Full rewrite. Odysseus population confirmed (~180; 120 permanent + ~60 out mining). Fortuna population confirmed (~150; international mix). {Aura}/Mute Protocol integrated. Lina yoga scene placed in Phase 4. Smuggling sprint phase added. Rich's final words to Jace added. TBD Engineer flagged as major future character.
+- 2026-06-26: Updated all Metis Station references to Metis Station, and replaced TBD engineer references with Dr. Eugene Hart.

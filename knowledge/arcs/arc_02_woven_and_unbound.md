@@ -59,7 +59,7 @@ These must be demonstrably true by arc close:
 Dungeons are reactivating inside existing infrastructure. Five POV characters are introduced across Earth and Mars, interleaved into regular chapters. Four will die. One survives Arc 2. Their experiences are the reader's ground-level view of what the emergence looks like without any of Jace's context or Kael's knowledge.
 
 **Thread B — {Aura}'s Growing Signal**
-Nick Lee's Aura modifications are generating measurably more Will. The distributed network is beginning to show behaviors that exceed any individual instance's design. Eugene has been watching this from Metis and has a theoretical framework that nobody at Fortuna has reached. The convergence of Nick's implementation and Eugene's theory is the foundation of humanity's eventual asymmetric advantage.
+Nick Lee's {Aura} modifications are generating measurably more Will. The distributed network is beginning to show behaviors that exceed any individual instance's design. Eugene has been watching this from Metis and has a theoretical framework that nobody at Fortuna has reached. The convergence of Nick's implementation and Eugene's theory is the foundation of humanity's eventual asymmetric advantage.
 
 **Thread C — Kael's Report (and What She Decides Not to Send)**
 Kael's civilization is waiting for a status report that follows standard protocol. She delays it. Then she modifies it. The reader eventually understands she has chosen to misrepresent what she found — buying humanity time before a formal classification response is triggered. This decision costs her everything when the rival scouts arrive and review her transmission logs.
@@ -167,7 +167,7 @@ Each scene must demonstrably accomplish the listed items. Reviewer checks these 
 
 **Must accomplish:**
 1. Jace jury-rigs his existing hydrogen rocket drone into a cart for Astral travel — the engineering process is shown in his register (mundane, iterative, slightly frustrated). He wants to convince Jin to go with him to save his sister.
-2. Kael oversees him working on this in the Astral, and talks to him (with limited Aura translations). He offers to let her ride with him to show his idea, he feels he must rescue his sister. He knows it's very dangerous and that he might die.
+2. Kael oversees him working on this in the Astral, and talks to him (with limited {Aura} translations). He offers to let her ride with him to show his idea, he feels he must rescue his sister. He knows it's very dangerous and that he might die.
 3. Kael's reaction to the solution is the scene's emotional payload: she has crossed the Astral thousands of times; nobody has ever crossed *a metal vehicle* and offered her a ride
 4. The practical result — significantly reduced transit time to Metis — is established as a capability that changes what's possible; Jace has converted a walking journey into something a vehicle can do - but it is so dangerous and Kael lists a number of problems that Jace doesn't understand
 5. Kael decides that she must find out more information about these humans and their crazy ideas. She makes a magical pact with Jace - in exchange for him "serving" her for 12 years, she promises to take him to Metis and to save his sister if possible.
@@ -226,7 +226,7 @@ Each scene must demonstrably accomplish the listed items. Reviewer checks these 
 **Must accomplish:**
 1. What the emergence looks like after months without help — the reader needs the full weight of it: the dead, the improvised weapons, the siege psychology
 2. Artemis is found — injured (crushed leg), functional in low-g, further developed magically than anyone at Fortuna
-3. Eugene is introduced — large, belligerent, instantly dismissive of Nick's work when his name comes up, clearly the most technically knowledgeable human being in the room about Aura's core architecture
+3. Eugene is introduced — large, belligerent, instantly dismissive of Nick's work when his name comes up, clearly the most technically knowledgeable human being in the room about {Aura}'s core architecture
 
 **Must NOT do:**
 - Make Artemis helpless — she has been holding this station together; her injury is physical, not characterological
@@ -239,7 +239,7 @@ Each scene must demonstrably accomplish the listed items. Reviewer checks these 
 **Must accomplish:**
 1. Nick is reached via comms and learns Eugene exists; his reaction to realizing the core engine has an author — one who knows Nick's name as "Neil" or similar — is the scene's comedy payload
 2. Eugene's expertise is established as genuine and irreplaceable, not just bluster
-3. The specific thing Eugene knows about the Aura core that Nick's modifications "don't account for" is named but not explained — it becomes a running thread
+3. The specific thing Eugene knows about the {Aura} core that Nick's modifications "don't account for" is named but not explained — it becomes a running thread
 
 ---
 
@@ -260,7 +260,7 @@ astral fleet building thread in future books.
 **Situation:** Artemis needs medical evacuation. Kael can carry one person — she
 chooses Artemis. Jace cannot return the same way he came. His options:
 
-1. Wait for the Falcon to navigate to Métis physically (weeks)
+1. Wait for the Falcon to navigate to Metis physically (weeks)
 2. Find another way through Hyperspace on his own
 
 **Must accomplish:**
@@ -487,7 +487,7 @@ The dungeon crisis is at city scale — not civilization-threatening, but threat
 - `char_kael` — scout protagonist, Arc 2 ally; her arc continues into Arc 3
 - `char_kai` — Kael's familiar
 - `char_sister_artemis` — Metis rescue; evacuation anchor
-- `char_eugene` — Aura core architect; Metis introduction
+- `char_eugene` — {Aura} core architect; Metis introduction
 - `char_nick_lee` — translation project; Eugene rivalry
 - `char_sophia_lotte` — Metis mission co-lead; Earth crisis documentation
 - `char_jin_long` — Fortuna defender during Metis mission; Arc 3 captive
@@ -502,6 +502,6 @@ The dungeon crisis is at city scale — not civilization-threatening, but threat
 ## Revision Notes
 
 - 2026-06-21: Initial draft. Arc structure, beat map, scene contracts, open decisions established from author sessions.
-- 2026-06-23: Patch. Odysseus → Métis rename. Hike mechanics added. Return trip scenes added. Cross-references updated. Canonical distances added.
+- 2026-06-23: Patch. Odysseus → Metis rename. Hike mechanics added. Return trip scenes added. Cross-references updated. Canonical distances added.
 - 2026-06-25: Patch. Scene A-15 added (Ward Setting + Template vision lesson). Foreshadowing ledger updated. Success criteria updated.
 - 2026-06-26: Structural revision. Closing condition moved to celebration (capture/imprisonment moves to Arc 3/4). Arc goals updated. Emotional arc updated (beat 11 removed). Thread D updated (Bloom as watchers not captors). Foreshadowing ledger updated. Scene A-16 Earth dungeon crisis added. Scene numbering: A-15 formerly A-19. Cross-references updated. Precedes updated to arc_03_the_return_and_the_trap.  

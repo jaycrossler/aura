@@ -121,7 +121,7 @@ However: humanity has three things the outside galaxy does not.
 ## Open Questions
 
 - What is the first human-engineered Never-Never vehicle, and who builds it?
-- Can Aura AI systems serve as navigators? Do they have Templates?
+- Can {Aura} AI systems serve as navigators? Do they have Templates?
 - Are any pre-Scar waystation structures recoverable from the Scar's Never-Never terrain?
 - What is the galactic legal and political framework for Never-Never transit rights? Who owns the roads?
 - Does the recovery of pre-Scar road infrastructure require Will-Network scale investment — and if so, what does that imply for human society?

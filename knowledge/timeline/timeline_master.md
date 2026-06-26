@@ -40,7 +40,7 @@ From outside the Scar, surviving galactic civilizations watch their dimensional 
 
 ### 2020s–2050s — The Foundational Era
 - Commercial spaceflight matures. First crewed Mars landings (~2040).
-- Aura-class distributed AI architecture emerges in the 2050s–2060s.
+- {Aura}-class distributed AI architecture emerges in the 2050s–2060s.
 
 ### 2060s–2080s — Industrial Buildout
 - Cycler architecture proposed and implemented. *Niña* enters service (~2078). *Pinta* follows.
@@ -62,7 +62,7 @@ From outside the Scar, surviving galactic civilizations watch their dimensional 
 
 - **Fortuna Station** (3 Fortuna) founded (~2099), enters growth phase. Population reaches ~150 permanent residents.
 - **Sylvia Station** (87 Sylvia) founded (~2100).
-- **Odysseus Station** (inner belt) grows into the largest belt station.
+- **Metis Station** (inner belt) grows into the largest belt station.
 - **ESA science vessel *Victoria*** assigned to the outer belt; docks regularly at Fortuna Station for the asteroid flux anomaly research programme.
 
 **The Scar Begins Fading — Outer Belt**
@@ -71,7 +71,7 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 - **`event_first_shimmer_mote_documentation`** (~2103, Odysseus): Shimmer mote contamination first documented. Filed as unknown nanoparticulate contamination from asteroid mining. Standing equipment anomaly at several stations.
 - **`event_first_threshold_hound_sightings`** (~2103–2104, outer belt): Miners report dog-like creatures near asteroid survey sites that disappear when approached directly. Filed as hallucination or suit malfunction.
-- **`event_aura_anomaly_clustering_begins`** (~2103–2104): Aura instances across outer belt stations begin cross-flagging correlated sensor anomalies. No individual event significant. Cluster pattern not yet noticed.
+- **`event_aura_anomaly_clustering_begins`** (~2103–2104): {Aura} instances across outer belt stations begin cross-flagging correlated sensor anomalies. No individual event significant. Cluster pattern not yet noticed.
 
 ### 2104 — The Year of Anomalies
 
@@ -86,21 +86,21 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 **Sophia Lotte's Discovery**
 
 - **`event_sophia_first_crossing`** (~mid-2104): Dr. Sophia Lotte, German physicist aboard the ESA science vessel *Victoria* docked at Fortuna Station, makes her first accidental partial crossing during a high-flux measurement event. Follows it to a full crossing. Survives by grabbing her respirator at the last second and pulling it through — the first tear-pull performed by any human in three thousand years. Duration: 11 minutes. Returns. Writes six pages of notes. Does not go back immediately — frightened. Returns two nights later.
-- **`event_sophia_establishes_base`** (~mid–late 2104): Over following weeks, Sophia makes crossings every 2-3 nights — not nightly; the effort is too costly and she is not fully recovering between sessions. Slowly builds a supply cache in the Astral: sealed food, water, a laptop (four separate exhausting sessions to pull through), a dedicated Aura AI device (multiple sessions). Documents everything. Her Astral crossing point is adjacent to the *Victoria*'s docking berth at Fortuna.
+- **`event_sophia_establishes_base`** (~mid–late 2104): Over following weeks, Sophia makes crossings every 2-3 nights — not nightly; the effort is too costly and she is not fully recovering between sessions. Slowly builds a supply cache in the Astral: sealed food, water, a laptop (four separate exhausting sessions to pull through), a dedicated {Aura} AI device (multiple sessions). Documents everything. Her Astral crossing point is adjacent to the *Victoria*'s docking berth at Fortuna.
 - **`event_sophia_seventeen_notebooks`** (~late 2104, ongoing): Key discoveries documented: dist² compression relationship (measured empirically), N-1 dimensional perception, the glow of minds, the clockwork dance, astral algae (initially "unknown bio-material, photon-equivalent absorption properties"). She names what she has found the **Never-Never** — after Baba Yaga's domain, not Peter Pan.
 - **`event_sophia_deterioration_visible`** (~late 2104): Sophia's crewmates and Fortuna Station regulars notice she is exhausted, has stopped attending yoga classes, rarely appears at the common mess. Her crewmates are worried; they give her space. She is burning Will faster than she recovers it. She does not stop.
 
 **Sleep Crossing Events Begin**
 
 - **`event_first_partial_sleep_crossing`** (~mid-2104): First documented partial sleep crossing in outer belt. Worker reports recurring nightmare — darkness, dead landscape, cold, something feeding. Filed as stress-induced sleep disturbance. Unusual EEG pattern noted, no framework to interpret it.
-- **`event_first_full_sleep_crossing_death`** (~late 2104): First full accidental crossing with fatality. Sensitive worker disappears from bunk overnight. No hull breach, no EVA record, no body. Aura goes offline at 0312 and never reconnects. Bunkmate reports weeks of nightmares prior. Filed as unexplained disappearance.
+- **`event_first_full_sleep_crossing_death`** (~late 2104): First full accidental crossing with fatality. Sensitive worker disappears from bunk overnight. No hull breach, no EVA record, no body. {Aura} goes offline at 0312 and never reconnects. Bunkmate reports weeks of nightmares prior. Filed as unexplained disappearance.
 - **`event_sleep_crossing_pattern_noticed`** (~late 2104–early 2105): Three more disappearances across two outer belt stations. Administrator notices pattern — all victims reported nightmares, all disappeared from sealed compartments overnight. Flagged as possible unknown pathogen or psychological contagion. Report goes nowhere useful, but it exists.
 
 ### 2104–2105 — Escalation and First Survivals
 
 **Breach Zone Mapping**
 
-- **`event_breach_zone_map_begins`**: Concentration of anomalies around certain spatial locations noticed by researcher cross-referencing Aura anomaly clusters. She has a map. She does not yet have a theory.
+- **`event_breach_zone_map_begins`**: Concentration of anomalies around certain spatial locations noticed by researcher cross-referencing {Aura} anomaly clusters. She has a map. She does not yet have a theory.
 - **`event_shimmer_mote_biological_confirmed`** (~2105): Researcher confirms motes are biological — or something that behaves biologically. Causes a quiet crisis in several scientific fields. Not yet public.
 
 **Jace's Arc Begins**
@@ -108,7 +108,7 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 - **`event_jace_mars_arrival`** (~early 2105): Jace Grant arrives on Mars.
 - **`event_jace_mars_diagnosis`** (~early 2105): Career-ending degenerative bone disease diagnosis. Hard months begin.
 - **`event_jace_falcon_departure`** (~mid 2105): Jace departs Mars aboard the *Falcon* with Cerberus and livestock. Meets Nick Lee through online gaming during transit.
-- **`event_jace_first_partial_crossing_dream`** (during *Falcon* transit or early Fortuna): Jace begins experiencing the Astral as vivid recurring dreams — **glowing crystal tunnels**, the N-1 dimensional view of the ship's metal infrastructure from the other side. Cerberus increasingly restless at night. Aura flags elevated sleep-stage stress markers.
+- **`event_jace_first_partial_crossing_dream`** (during *Falcon* transit or early Fortuna): Jace begins experiencing the Astral as vivid recurring dreams — **glowing crystal tunnels**, the N-1 dimensional view of the ship's metal infrastructure from the other side. Cerberus increasingly restless at night. {Aura} flags elevated sleep-stage stress markers.
 
 **First Survival — Sleep Crossing**
 
@@ -117,8 +117,8 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 **Jace Arrives at Fortuna**
 
 - **`event_jace_arrives_fortuna`** (late 2105): Jace arrives at Fortuna Station with Cerberus. Meets Nick Lee in person for the first time — the gaming friendship translates to physical reality, awkwardly and well.
-- **`event_nick_installs_aura`** (~late 2105): Nick Lee installs a full Aura instance on Jace's military-grade HUD — the best hardware he has ever had access to. Treats the install as a research project. The resulting Aura instance is among the most capable on the station.
-- **`event_jace_first_full_crossing`** (~late 2105): Jace crosses fully in his sleep. Cerberus, sleeping pressed against him, crosses with him. **Cerberus wakes first** and performs an instinctive tear-pull of Jace's sleep mask at near-fatal Will cost. Jace wakes gasping to find Cerberus holding his mask. They share the mask — alternating — until Jace recovers enough to pull a second mask through himself, his first deliberate dimensional act. Both survive. Aura logs a **network gap** while biometric mask data continues uninterrupted — the first forensic record of a crossing event in the series. Gap logged; not yet reviewed.
+- **`event_nick_installs_aura`** (~late 2105): Nick Lee installs a full {Aura} instance on Jace's military-grade HUD — the best hardware he has ever had access to. Treats the install as a research project. The resulting {Aura} instance is among the most capable on the station.
+- **`event_jace_first_full_crossing`** (~late 2105): Jace crosses fully in his sleep. Cerberus, sleeping pressed against him, crosses with him. **Cerberus wakes first** and performs an instinctive tear-pull of Jace's sleep mask at near-fatal Will cost. Jace wakes gasping to find Cerberus holding his mask. They share the mask — alternating — until Jace recovers enough to pull a second mask through himself, his first deliberate dimensional act. Both survive. {Aura} logs a **network gap** while biometric mask data continues uninterrupted — the first forensic record of a crossing event in the series. Gap logged; not yet reviewed.
 - **`event_cerberus_as_warning_system`** (~late 2105): Cerberus begins waking Jace preemptively when crossing conditions are high. He thinks she needs the bathroom. She is keeping him alive.
 
 **Jace and Cerberus Explore — The Meeting**
@@ -156,17 +156,17 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 - **`event_jace_asteroid_find`** (~mid 2106): Jace leads a conventional physical-space survey mission to his Astral-identified target. "Finds" the asteroid through conventional methods. The station's resource situation begins to improve significantly. He prints a replacement drone. Nobody questions it.
 
-- **`event_nick_brought_in`** (~mid 2106): Jace brings Nick Lee into the Astral secret. Nick's first question: *How do we instrument this better?* Nick begins correlating what Jace describes with the Aura anomaly patterns he has been tracking.
+- **`event_nick_brought_in`** (~mid 2106): Jace brings Nick Lee into the Astral secret. Nick's first question: *How do we instrument this better?* Nick begins correlating what Jace describes with the {Aura} anomaly patterns he has been tracking.
 
 ### 2106–2110 — Escalation Continues
 
-- **`event_aura_density_correlation_noted`** (~2106–2107): Nick Lee formalizes the correlation between Aura server density and anomaly intensity. Published internally as a technical note. Minimal attention from others. Nick does not yet know what it means.
+- **`event_aura_density_correlation_noted`** (~2106–2107): Nick Lee formalizes the correlation between {Aura} server density and anomaly intensity. Published internally as a technical note. Minimal attention from others. Nick does not yet know what it means.
 - **`event_anomaly_map_published`** (~2106–2107): The anomaly researcher's map goes public.
 - **`event_first_dimensional_contact_paper`**: First scientific paper using the phrase "dimensional phenomena" to describe belt anomalies. Becomes the most controversial paper of the decade.
 - **`event_open_source_decision`** (~2106–2107): Jace and Nick decide to release their Astral knowledge openly before any corporate entity can lock it down. Sophia is initially alarmed by the pace. The decision proves correct — the knowledge spreads through the belt practitioner network faster than any hierarchy can suppress it.
 - **`event_belt_practitioner_network_forms`** (~2107–2109): Belt sensitives begin finding each other. The synthesis movement begins earlier than planned — the pressure of fauna encounters, Echo discoveries, and the growing certainty that something outside is watching forces connection.
 - **`event_first_crossing_assist_noticed`** (~2107–2108): A practitioner notices a crossing is significantly easier in a server room during intensive AI self-diagnostic routines. Does not immediately connect the facts. Remembers where they were.
-- **`event_first_crossing_assist_replicated`** (~2108–2110): Nick confirms the pattern: crossing cost reduces near dense Aura arrays running self-referential tasks. He moves it from anomalous correlation to reproducible phenomenon. Two people know what this means. They understand the implications immediately.
+- **`event_first_crossing_assist_replicated`** (~2108–2110): Nick confirms the pattern: crossing cost reduces near dense {Aura} arrays running self-referential tasks. He moves it from anomalous correlation to reproducible phenomenon. Two people know what this means. They understand the implications immediately.
 - **`event_more_scouts`** (~2107–2110): Additional scouts from different galactic factions enter the solar system's Never-Never. Not coordinated. Belt sensitives report, with increasing frequency, the sense of being observed.
 
 ### 2110–2115 — Pre-Contact
@@ -202,7 +202,7 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 - Specific dates throughout. Many working dates can shift.
 - The exact relationship between Veil clearance and flux intensity.
-- Whether Artemis at Odysseus is still reachable by story's midpoint, or fully cut off.
+- Whether Artemis at Metis is still reachable by story's midpoint, or fully cut off.
 - The specific nature of the Book 1 climactic event at Fortuna.
 - Sophia's exact crossing point — confirmed as adjacent to the *Victoria*'s docking berth at Fortuna Station.
 - The identity of the first sleep-crossing survivor.

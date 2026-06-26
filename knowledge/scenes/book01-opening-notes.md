@@ -33,7 +33,7 @@ The Mars arrival arc has expanded from the original two-chapter sketch into a lo
 3. **The drone control center tour.** At the Mars Detachment. Vast facility. Jace genuinely thrilled. Through a secure-area window, Jace notices Mei and Mr. Sylvester in meeting with the base commander. He files them away.
 4. **The base commander welcome.** Brief. Warm. Mentions belt anomalies as background concern. Tells Jace he starts tomorrow after final medical checkout.
 5. **The gym session.** Evening. Jace at peak physical confidence in a room of Mars-adjusted bodies. Brief flirtation with a young woman — eye contact, smile, no conversation. (`event_jace_gym_arrival.md`)
-6. **The messages home.** Late evening. Family video calls — Dawn and Chris in Virginia, Athena at college. Failed call to Artemis at Odysseus. (`event_jace_messages_home.md`)
+6. **The messages home.** Late evening. Family video calls — Dawn and Chris in Virginia, Athena at college. Failed call to Artemis at Metis. (`event_jace_messages_home.md`)
 7. **Closing image.** Jace at his quarters window. Supernova bright. He sleeps well.
 
 ### Day Two — The Medical Checkout

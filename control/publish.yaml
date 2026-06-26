@@ -1,7 +1,0 @@
-{
-  "data_sources": [
-    "generated/status/story_state.json",
-    "generated/status/progress_log.jsonl",
-    "generated/lint/lint-summary.json"
-  ]
-}

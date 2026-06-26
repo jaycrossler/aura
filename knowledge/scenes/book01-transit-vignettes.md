@@ -75,9 +75,9 @@ There is one hour each evening when Jace deliberately powers down his HUD. He st
 
 In quiet moments Jace thinks about who is using him. The Smuggler — definitely, but predictably; that is a contract. Mei — yes, but she has been honest about it. Sylvester — that one bothers him. The HUD reactivation came too easily. He cannot place why he is uneasy and he does not pursue the unease. He should.
 
-### The First Aura Conversation
+### The First {Aura} Conversation
 
-The first night Jace has Aura partially installed on his HUD (still in transit, the engineer is doing the install over comms — slow, partial, intermittent), he tries it out. He talks to it the way he was trained to talk to AI assistants — short commands, expectant pauses. It responds. He talks more. He asks it a personal question on a whim. It responds in a way that makes him pause.
+The first night Jace has {Aura} partially installed on his HUD (still in transit, the engineer is doing the install over comms — slow, partial, intermittent), he tries it out. He talks to it the way he was trained to talk to AI assistants — short commands, expectant pauses. It responds. He talks more. He asks it a personal question on a whim. It responds in a way that makes him pause.
 
 He does not know that this is the first conversation in a relationship that will be one of the central relationships of his life. The reader does. The scene should be small, quiet, and slightly uncanny.
 

@@ -82,7 +82,7 @@ These must be demonstrably true by arc close:
 - [ ] Jace's drone survey using Astral N-1 perception locates a platinum-rich asteroid
   target; the coordinates are logged but not immediately acted on
 - [ ] The Falcon swarm rescue earns Maureen's trust — her later willingness to lead
-  the Métis mission is grounded here
+  the Metis mission is grounded here
 - [ ] The first successful cross-dimensional machinery transport is demonstrated
 - [ ] {Aura}, {Alex}, {SpoX}, {Chorus}, {Penny}, {Seek}, and {Misty} all appear with
   `{}` braces consistently throughout
@@ -125,7 +125,7 @@ misread as sabotage. The station is already under stress before the swarm.
 
 **Thread C — Comms Degradation**
 The communications filtering architecture is tightening. Jace's attempts to reach
-Artemis at Métis keep failing in small ways — delayed messages, strange gaps, one
+Artemis at Metis keep failing in small ways — delayed messages, strange gaps, one
 message that arrives with a sentence missing. The reader knows something is wrong
 before Jace does.
 
@@ -168,7 +168,7 @@ and animal antics.
 | The plumbing crisis contamination | Scene 1-03 | Jace wins but creates a lasting cost; his solutions always have consequences |
 | Jace's HUD headaches (recurring, unresolved) | Scenes 1-02a distributed | Will-exposure in Astral-adjacent space; Lanchee's new diagnostics also find nothing |
 | {Alex} strips Platinum status; two-year review queue | Scene 1-03b | Template for how corporate AI punishes Astral-related behavior when the outbreak goes public |
-| Artemis: "We have ships with big engines — don't worry" | Scene 1-03c | When Métis goes dark in Arc 2, the reader remembers what kind of capability went silent |
+| Artemis: "We have ships with big engines — don't worry" | Scene 1-03c | When Metis goes dark in Arc 2, the reader remembers what kind of capability went silent |
 | The pig-butt canister launch | Scene 1-03d | Artemis receives it; reaction establishes the sibling dynamic remotely |
 | Mei's very specific silences | *Falcon* transit | She is listening for things; Jace doesn't notice yet |
 | Sophia describes Templates as "rainbows in human heads" | Scene 1-07a | Neither has a framework for what she's seeing; Kael reads it instantly in Arc 2 |
@@ -349,19 +349,19 @@ is the gap between tone and outcome.
 ### Scene 1-03c — The Call with Artemis
 
 **Summary:** A few days after the crisis, Jace gets a call from his sister Artemis at
-Métis Station. She already knows about the plumbing mishap — a contact at Fortuna told
+Metis Station. She already knows about the plumbing mishap — a contact at Fortuna told
 her, and she's been watching the pig-cam footage. She calls him "Stinky" (or a
 sewage-incident variant). He calls her "Ms. Know-It-All." The relationship is warm,
 playful, and slightly competitive in the way of siblings who are both capable and
 respect each other without saying so. He mentions he's about to launch a supply canister
-toward Métis when the *Falcon* passes near. She tells him not to worry about the speed:
-Métis is a shipbuilding station. They have ships with big engines. They can catch it.
+toward Metis when the *Falcon* passes near. She tells him not to worry about the speed:
+Metis is a shipbuilding station. They have ships with big engines. They can catch it.
 
 **Must accomplish:**
 1. The sibling dynamic is warm, specific, and comfortable — they have shorthand;
    they have nicknames; neither needs to explain themselves
-2. The canister-launch establishes that Métis is approximately two weeks out from the
-   *Falcon*'s trajectory, that Métis has ships and capture capability, and that
+2. The canister-launch establishes that Metis is approximately two weeks out from the
+   *Falcon*'s trajectory, that Metis has ships and capture capability, and that
    Artemis is a ship architect (she mentions this as context, not biography)
 3. Artemis mentions she's been to Fortuna twice — it's a real place she knows,
    and the contact who told her about the crisis is a specific person in her network
@@ -369,19 +369,19 @@ Métis is a shipbuilding station. They have ships with big engines. They can cat
 **Must NOT do:**
 - Make the call emotionally heavy — it should be light, quick, affectionate, and
   informative without any of those functions being visible
-- Over-explain Métis Station — let "we're a shipbuilding station" do the work
+- Over-explain Metis Station — let "we're a shipbuilding station" do the work
 - Forget Thread C — the call should have a small gap or scratch; the reader notices
   the connection is not clean even as the content is warm
 
 **Foreshadowing:** "We have ships with big engines — don't worry, we can catch it."
-When Métis goes dark in Arc 2, the reader should remember what kind of capability
+When Metis goes dark in Arc 2, the reader should remember what kind of capability
 went silent.
 
 ---
 
 ### Scene 1-03d — The Pig-Butt Canister Launch
 
-**Summary:** Before releasing the supply canister toward Métis, Jace 3D-prints a large
+**Summary:** Before releasing the supply canister toward Metis, Jace 3D-prints a large
 plastic pig rear end and attaches it to the nose. It will take two weeks to arrive.
 
 **Must accomplish:**
@@ -558,7 +558,7 @@ not good video, but real data, consistent across multiple crossings.
 ### Scene 1-07e — Sophia's Rescue and the Vector Discovery
 
 **What actually happens:** This takes place entirely within the Astral. Sophia's
-crewmates on the *Victoria* see a woman asleep in her bunk. Her Aura has a gap in its
+crewmates on the *Victoria* see a woman asleep in her bunk. Her {Aura} has a gap in its
 network log. From outside: nothing happened. From inside: she nearly died in a place
 no one would ever have found her.
 
@@ -628,7 +628,7 @@ is that she didn't have a clear picture of where the interior ended.
 
 What the scene makes clear without stating: she came within a realistic probability of
 dying alone in a space that does not officially exist. Her crewmates would have found
-her in her bunk with a mask on her face and a gap in her Aura log. The cause of death
+her in her bunk with a mask on her face and a gap in her {Aura} log. The cause of death
 would have been recorded as scrubber saturation or unknown. There would have been no
 rescue, because there would have been no understanding that there was anything to
 rescue. The Astral is not hostile. It is not kind. It is a physical system with rules,
@@ -649,7 +649,7 @@ They are tired. They do not have a clean ending. They go to sleep.
 3. The danger is arithmetic, not atmospheric — air supply, orientation loss, and
    the absence of any safety system that would trigger; the Astral is indifferent
 4. Sophia's crewmates see nothing — she is in her bunk; the only trace is a gap in
-   an Aura log; maintaining this invisibility is part of the tonal point
+   an {Aura} log; maintaining this invisibility is part of the tonal point
 5. The aftermath is quiet and specific — Sophia processes by analysis; she identifies
    exactly what she did wrong; she is more frightened than she shows; the reader sees
    this through texture, not statement
@@ -842,7 +842,8 @@ The implications are recognized even if not fully articulated.
    in the process of saving them and coordinating defense
 4. {Seek} is destroyed by Astral predators drawn to the central spire — massive AI
    hardware generates Will; they consume it; the station surveillance apparatus
-   that has been coercing the Chinese detachment is gone; the miners cry with relief
+   that has been coercing the Chinese detachment is gone; the miners cry with relief.
+   Many of the other AI systems are also heavily damaged.
 5. The scale is survivable but barely — Fortuna is not fine, but the destruction of
    {Seek} produces a sudden thaw in relations with the Chinese detachment
 
@@ -881,7 +882,7 @@ Reviewer checklist — yes/no against finished arc:
   Platinum status lost, Maureen's coldness)
 - [ ] The HUD headaches recur across transit scenes without resolution
 - [ ] The {Alex} debrief is funny and bleak in equal measure; no human ever appears
-- [ ] The Artemis call establishes Métis capability through casual sibling conversation
+- [ ] The Artemis call establishes Metis capability through casual sibling conversation
 - [ ] Sophia is established as the more experienced practitioner — Jace learns from
   her, not the reverse
 - [ ] The survival suits exist before Scene 1-07e — Jace built them; Sophia should
@@ -923,7 +924,7 @@ Reviewer checklist — yes/no against finished arc:
    a later call? Recommend: referenced in the next call — the reader imagines the
    arrival, then gets Artemis's reaction second-hand, which is funnier.
 
-4. **Sophia's Aura log gap:** Is the gap private by default, or accessible to
+4. **Sophia's {Aura} log gap:** Is the gap private by default, or accessible to
    {Misty}? Recommend: private by default; flag for later if crewmate suspicion
    escalates to formal inquiry.
 

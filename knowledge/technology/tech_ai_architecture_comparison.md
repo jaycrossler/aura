@@ -1,5 +1,5 @@
 ---
-description: "A foundational comparison between massive Centralized AIs and fully Distributed AIs like Aura, including hardware realities and Astral mechanics."
+description: "A foundational comparison between massive Centralized AIs and fully Distributed AIs like {Aura}, including hardware realities and Astral mechanics."
 id: tech_ai_architecture_comparison
 name: "AI Architecture Comparison: Centralized vs. Distributed"
 type: technology_specification
@@ -38,14 +38,14 @@ In a distributed mesh, information protection, synchronization, and trust models
 
 ## Display Hardware Diversity
 
-Aura units and other distributed systems interact with users through a diverse array of hardware, based on what the user can afford and tolerate.
+{Aura} units and other distributed systems interact with users through a diverse array of hardware, based on what the user can afford and tolerate.
 
 - **Wearables (The Standard):** Most station residents rely on augmented reality glasses, smart contact lenses, bone-conduction earbuds, wrist displays, or simply letting their `{Aura}` project onto nearby ambient screens.
 - **Integrated HUDs (The Extreme):** A very rare, wealthy, or extreme subset of users (usually military or super-nerds) opt for fully integrated HUDs. These are "pea-sized" bundles of advanced organic circuitry installed directly into the eyeballs. They cost over $1,000,000 to install and require a web of carbon wires laced around the user's skull to radiate off the massive excess heat when the machine's processing runs hot. The surgery takes months to heal from, and the user's head is literally running a fever during heavy computations.
 
 ## Cross-References
 - [[tech_fortuna_ai_personalities]] (The five central AIs of Fortuna)
-- [[tech_aura_ai]] (Deep dive into the Aura platform)
+- [[tech_aura_ai]] (Deep dive into the {Aura} platform)
 - [[tech_seek_ai]] (Centralized compliance AI)
 - [[tech_misty_ai]] (Centralized ESA vessel AI)
 - [[tech_cybernetics]] (Details on HUDs and bodily integration)

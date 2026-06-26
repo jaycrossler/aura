@@ -43,9 +43,9 @@ See [[location_juno_station|Juno Station]]
 Triple-body system, outer belt. Complex orbital environment. Future expansion potential via moons. Higher flux exposure than inner stations.
 See [[location_sylvia_station|Sylvia Station]]
 
-### Odysseus Station — 143 Odysseus (D-type, Jupiter L4, ~5.2 AU)
+### Metis Station — 9 Metis (D-type, Jupiter L4, ~5.2 AU)
 Farthest permanent human habitation. Multinational. Artemis Grant stationed here. Highest flux exposure. First and most advanced magical emergence. Communications degraded earliest.
-See [[location_odysseus_station|Odysseus Station]]
+See [[location_metis_station|Metis Station]]
 
 ### Metis Station — 9 Metis (C-type, inner belt, ~2.4 AU)
 Small ship-building station near Fortuna. Run by Dr. Eugene Hart.
@@ -57,17 +57,17 @@ See [[location_metis_station|Metis Station]]
 - **Mars to Fortuna or Juno (nuclear ferry):** ~4-4.5 months outbound.
 - **Mars to Psyche (nuclear ferry):** ~4.5-5 months outbound.
 - **Mars to Sylvia (nuclear ferry):** ~5-6 months outbound.
-- **Mars to Odysseus (nuclear ferry):** ~8-10 months — rare runs, extreme commitment.
+- **Mars to Metis (nuclear ferry):** ~8-10 months — rare runs, extreme commitment.
 - **Station to station (inner belt):** weeks to months depending on relative positions.
 - **Inner belt to outer belt:** months.
-- **Inner belt to Odysseus:** many months.
+- **Inner belt to Metis:** many months.
 
 ## Resources
 
 - **Metals:** Iron, nickel, cobalt, platinum-group, rare earths. Psyche is the dominant source.
-- **Water ice and carbonaceous materials:** Abundant at Fortuna (C-type) and Odysseus (D-type). Critical for life support and propellant.
+- **Water ice and carbonaceous materials:** Abundant at Fortuna (C-type) and Metis (D-type). Critical for life support and propellant.
 - **Silicates:** Juno's specialization. Construction and precision manufacturing.
-- **Outer belt volatiles:** Sylvia and Odysseus have primitive compositions with organics and ices.
+- **Outer belt volatiles:** Sylvia and Metis have primitive compositions with organics and ices.
 
 ## The Hub-and-Spoke Model
 
@@ -81,7 +81,7 @@ Belter culture at story start is in early formation. Common elements:
 
 - **High-skill technical workforce.** The belt does not reward unskilled labor.
 - **Tight community bonds** from dangerous conditions and shared infrastructure.
-- **Cross-cultural fluency** from the hub model and Aura-mediated translation.
+- **Cross-cultural fluency** from the hub model and {Aura}-mediated translation.
 - **Pragmatic spirituality.** Many belters have personal practices, often eclectic and functional.
 - **Distrust of distant authority.** Local relationships matter most.
 
@@ -89,7 +89,7 @@ The animal culture developing around Fortuna Station's livestock program — pig
 
 ## The Belt and the Returning Magic
 
-The belt is humanity's first observation post for the returning resonance flux. Odysseus, at the far end, is the most advanced. The inner stations are following on a delay.
+The belt is humanity's first observation post for the returning resonance flux. Metis, at the far end, is the most advanced. The inner stations are following on a delay.
 
 What the belt learns — about safety practices, cross-tradition synthesis, the relationship between AI and magic — will eventually transform Mars and Earth. The communications blackout ensures that the belt develops this knowledge on its own terms.
 
@@ -99,7 +99,7 @@ What the belt learns — about safety practices, cross-tradition synthesis, the 
 - The Belt Safety Council — origins, structure, key figures.
 - The first belt-wide political body to claim authority.
 - Cultural and linguistic synthesis — does a belt creole emerge?
-- What Odysseus Station has discovered that no one else knows yet.
+- What Metis Station has discovered that no one else knows yet.
 
 ## Cross-References
 

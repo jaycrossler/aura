@@ -25,7 +25,7 @@ Neural and physical implants exist across a wide spectrum in 2105 — from consu
 Commercial implants are available to any civilian who can afford them. They are manufactured by numerous competing companies, sold at retail, implanted by licensed surgical providers, and regulated at varying levels depending on jurisdiction. Key characteristics:
 
 - **Consumer-optimized.** Designed for entertainment, productivity, communication, and augmented daily life.
-- **Aura-compatible by default.** Consumer implants are designed around the Aura ecosystem or equivalent civilian AI platforms.
+- **{Aura}-compatible by default.** Consumer implants are designed around the {Aura} ecosystem or equivalent civilian AI platforms.
 - **No military network access.** Commercial implants cannot handshake with military drone networks, classified satellite infrastructure, or any service-branch AI system. The military network is a different internet, and consumer hardware has no key.
 - **Update-driven economy.** New models every 12–18 months. The update cycle makes last year's premium model this year's mid-tier; manufacturers count on upgrade revenue.
 - **Generally less integrated.** Commercial implants interface at the optic nerve and with surface neural layers. Military-spec implants map deeper — to the visual cortex, to the motor cortex for some arm augment variants, to the auditory processing center for sensory implants. The deeper mapping takes longer to install and harder to reverse, but the functional depth is significantly greater.
@@ -194,7 +194,7 @@ When a MilX service member is honorably discharged, the Military OS is deactivat
 
 After signing with Origin Industries and agreeing to Sylvester's intelligence arrangement, Jace's MilX is re-enabled to **Level 1** status:
 
-- The Civilian OS is fully restored (games, Aura, media — all of it)
+- The Civilian OS is fully restored (games, {Aura}, media — all of it)
 - Level 1 military functions are activated (basic civilian-contractor authentication, non-classified comms, identity verification on corporate and civilian infrastructure)
 - The deeper Military OS functions remain dormant — no classified feeds, no drone command integration, no classified network access
 
@@ -208,20 +208,20 @@ The re-enable is performed by Sylvester's people using what Jace understands is 
 
 As the outbreak progresses, MilX HUDs develop specific vulnerabilities to magical interference. Because the Military OS is deeply integrated with real-world sensor infrastructure, it encounters magical-signal data first — and attempts to process and reconcile it with its world-model, failing in characteristic ways.
 
-The Civilian OS partition is generally more resilient, possibly because Aura instances running on it are better adapted (through the distributed Aura network's accumulated experience with magical signals) to treat anomalous input as noise rather than as data requiring reconciliation.
+The Civilian OS partition is generally more resilient, possibly because {Aura} instances running on it are better adapted (through the distributed {Aura} network's accumulated experience with magical signals) to treat anomalous input as noise rather than as data requiring reconciliation.
 
-For Jace specifically: his MilX's deep visual-cortex integration means that as his own magical sensitivity develops, the implant begins to function as an amplifier in ways that neither Jace nor the service branch anticipated. This is a future plot thread. The dual-partition architecture means the amplification initially surfaces on the Civilian OS side — in games, in Aura interactions, in the overlay aesthetic — before it bleeds into the Military OS.
+For Jace specifically: his MilX's deep visual-cortex integration means that as his own magical sensitivity develops, the implant begins to function as an amplifier in ways that neither Jace nor the service branch anticipated. This is a future plot thread. The dual-partition architecture means the amplification initially surfaces on the Civilian OS side — in games, in {Aura} interactions, in the overlay aesthetic — before it bleeds into the Military OS.
 
 ---
 
 ## Cross-References
 
 - See [[char_jace_apollo|Jace Apollo Grant]]
-- See [[concept_aura_ai_system|Aura — The Distributed AI System]]
+- See [[concept_aura_ai_system|{Aura} — The Distributed AI System]]
 - See [[tech_cybernetics|Cybernetic Augmentation Systems]]
 - See [[magic_overview|Magic — Overview and Fundamental Principles]]
 
 ## Revision Notes
 
 - 2026-05-02 (initial): HUD system, arm augments, sensory implants, neural stability implants established. Installation recovery, blind week, toilet paper incident, exercise commitment documented. Deactivation experience documented.
-- 2026-05-02 (round 5): **Major rewrite.** Commercial implants section added (distinguishing from MilX). Spelling corrected to **MilX** throughout. Dual-partition architecture (Military OS / Civilian OS with hardware firewall) established as the defining MilX feature. Level 1/2/3 access system formalized. Biometric scan procedure documented. Sylvester re-enable as Level 1 documented. Games and Aura confirmed as running on Civilian partition. Magic-vulnerability and amplification thread flagged for future.
+- 2026-05-02 (round 5): **Major rewrite.** Commercial implants section added (distinguishing from MilX). Spelling corrected to **MilX** throughout. Dual-partition architecture (Military OS / Civilian OS with hardware firewall) established as the defining MilX feature. Level 1/2/3 access system formalized. Biometric scan procedure documented. Sylvester re-enable as Level 1 documented. Games and {Aura} confirmed as running on Civilian partition. Magic-vulnerability and amplification thread flagged for future.

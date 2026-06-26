@@ -90,7 +90,7 @@ Her age shows. Newer cyclers feel cleaner, more integrated, more thoughtfully de
 - **Original launch and shakedown** — first decades of operation, smaller passenger loads, more cautious operations.
 - **First major refit** — propulsion overhaul, addition of expanded passenger capacity.
 - **Second refit** — life support overhaul, hydroponics expansion.
-- **Recent refit** — habitat ring upgrades, modern Aura integration.
+- **Recent refit** — habitat ring upgrades, modern {Aura} integration.
 - **Notable incidents** — TBD. Likely candidates: a near-miss with debris that became a folk story among cycler crew; an early-career death in transit that crystallized cycler funerary tradition; a passenger uprising or strike.
 
 ## Technical Description

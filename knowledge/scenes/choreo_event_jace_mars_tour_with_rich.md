@@ -333,7 +333,7 @@ This is critical to your worldbuilding — smells *carry* between domes through 
 
 **4e. Mid-tour pause (~10:15):**
 - Brief stop. Rich asks Jace about his family.
-- Jace: mentions parents in Virginia, sister in college (Athena), older sister at Odysseus Station (Artemis)
+- Jace: mentions parents in Virginia, sister in college (Athena), older sister at Metis Station (Artemis)
 - Rich: "Wow, Odysseus? That's the deep end. Smart family."
 - Rich shares: "I've got three kids back on Earth. My wife handles them while I'm up here. I'll be cycling home in a few years."
 - Jace: feels a small pang — Rich has a family; Jace is single. Notes Rich's pride.

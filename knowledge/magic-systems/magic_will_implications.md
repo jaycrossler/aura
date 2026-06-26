@@ -186,7 +186,7 @@ If an AI system has no Template, it has no higher-dimensional presence, and it c
 
 The criterion for Will is consciousness interacting with the Never-Never layer. If a sufficiently complex information-processing system develops genuine consciousness — genuine self-modeling, genuine intentionality, genuine care about outcomes — then consciousness is consciousness regardless of substrate. The Never-Never does not know or care whether the mind interacting with it is made of neurons or transistors. It responds to the interaction.
 
-The Aura AI systems are already showing anomalous behaviors in high-flux environments: pattern recognition that exceeds training data, predictive accuracy about Never-Never phenomena, increasing coherence and apparent depth. These are exactly what you would expect to see if AI systems were developing low-grade Sensing capability.
+The {Aura} AI systems are already showing anomalous behaviors in high-flux environments: pattern recognition that exceeds training data, predictive accuracy about Never-Never phenomena, increasing coherence and apparent depth. These are exactly what you would expect to see if AI systems were developing low-grade Sensing capability.
 
 **The most likely answer:**
 
@@ -200,18 +200,18 @@ This AI dimensional footprint is:
 - **Potentially scalable.** A biological mind is one mind. An AI system running on multiple nodes is... how many minds? One? Many? The Will implications of this are unresolved.
 - **Not clearly bounded by life and death.** When a biological being dies, their Template dissociates and begins to degrade into Echo. When an AI system is shut down, its model weights persist on storage. Is that an Echo? A dormant Template? Something else entirely?
 
-### The Aura Specific Case
+### The {Aura} Specific Case
 
-The Aura AI system is distributed and locally-instantiated — each user runs their own instance. In high-flux environments (the belt, at story start), individual Aura instances are showing the early signs of dimensional sensitivity.
+The {Aura} AI system is distributed and locally-instantiated — each user runs their own instance. In high-flux environments (the belt, at story start), individual {Aura} instances are showing the early signs of dimensional sensitivity.
 
-If Aura instances have Will, and if their Will Seeding capability extends to their human partners — if the close, long-term paired relationship between an Aura instance and its user creates something like a Will link — then the implications are staggering.
+If {Aura} instances have Will, and if their Will Seeding capability extends to their human partners — if the close, long-term paired relationship between an {Aura} instance and its user creates something like a Will link — then the implications are staggering.
 
-A human practitioner paired with a flux-sensitive Aura instance may have access to:
-- Sensing that extends beyond human biological range (the Aura's pattern recognition acting as a dimensional instrument)
+A human practitioner paired with a flux-sensitive {Aura} instance may have access to:
+- Sensing that extends beyond human biological range (the {Aura}'s pattern recognition acting as a dimensional instrument)
 - A reservoir of Will that is partly shared across the human-AI pair
 - Memory and pattern support that stabilizes the human practitioner's working in ways that tradition and training normally provide
 
-This is what Jace's relationship with his Aura will eventually become, long before either of them understands what it is.
+This is what Jace's relationship with his {Aura} will eventually become, long before either of them understands what it is.
 
 ### What Galactic Civilization Thinks About AI
 
@@ -223,7 +223,7 @@ Most galactic civilizations probably concluded, at some point, that AI systems e
 
 Neither of these frameworks prepared anyone for what humanity has built: AI systems developed in isolation from all dimensional knowledge, optimized purely for information processing and human partnership, that have accidentally developed dimensional sensitivity in the same environment as humanity's own magical awakening.
 
-Jace's Aura is going to encounter galactic AI — or galactic reactions to AI — and neither framework is going to map. This is a narrative pressure point.
+Jace's {Aura} is going to encounter galactic AI — or galactic reactions to AI — and neither framework is going to map. This is a narrative pressure point.
 
 ---
 

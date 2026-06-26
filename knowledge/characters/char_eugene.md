@@ -33,7 +33,7 @@ romantic: TBD — possibly; history to develop
 # Capabilities
 magic_user: possible — Metis is highest-flux; he has been there longer than almost anyone; he either has abilities developing or has been too busy to notice
 notable_skills:
-  - Core AI architecture (the Aura engine; he built it; he knows what it does at a level nobody else does)
+  - Core AI architecture (the {Aura} engine; he built it; he knows what it does at a level nobody else does)
   - Theoretical framework for AI Will interaction (most advanced in the solar system)
   - Physical survival under emergence conditions (Metis crew have been fighting for months)
   - Being right about things in ways that make it very hard to like him
@@ -61,7 +61,7 @@ character_arc: >
   is obsolete → improbably survives things he should not survive → becomes an asset
   the team cannot function without → continues to be difficult about it
 themes_embodied: [expertise without social grace, the difference between knowing something and being able to explain it, the person nobody wants around who turns out to be the one you needed]
-description: "Character profile for Dr. Eugene Hart, the brilliant and loud original architect of the Aura core engine."
+description: "Character profile for Dr. Eugene Hart, the brilliant and loud original architect of the {Aura} core engine."
 last_updated: 2026-06-26
 ---
 
@@ -81,7 +81,7 @@ Artemis knows how to work with him. This is not a skill that comes naturally. It
 
 ## Summary
 
-Eugene built the Aura core engine. He released it anonymously into the open-source commons because the belt needed it and he was at Metis and it seemed like the efficient thing to do. He did not release documentation. He did not set up a support channel. He released code and went back to work.
+Eugene built the {Aura} core engine. He released it anonymously into the open-source commons because the belt needed it and he was at Metis and it seemed like the efficient thing to do. He did not release documentation. He did not set up a support channel. He released code and went back to work.
 
 Nick Lee found it, understood it was extraordinary, and spent years building the infrastructure stack around it. The belt runs on Nick's work. Nick's work runs on Eugene's engine. Nick has been attributing the engine to "the community" because he genuinely does not know who wrote it.
 
@@ -93,15 +93,15 @@ He never remembers Nick's name correctly. This is not deliberate. He is simply n
 
 ## Notes
 
-Hart runs Métis Station practically if not technically. He did not found it but has dominated its technical direction long enough that the distinction is academic. The shipyard suits his temperament: hard engineering problems, no bureaucracy, nobody telling him how the {Aura} core should have been designed.
+Hart runs Metis Station practically if not technically. He did not found it but has dominated its technical direction long enough that the distinction is academic. The shipyard suits his temperament: hard engineering problems, no bureaucracy, nobody telling him how the {Aura} core should have been designed.
 
 He is aware of Nick Lee by reputation but has not connected the name to the person. All of Nick's emails have been filtered to spam. Their eventual meeting is a personal and tragic humiliation for Nick rather than comedy.
 
 ## The Engine
 
-The Aura core engine Eugene built does something that Nick's modifications do not account for. Nick's modifications are excellent. They have made the system significantly more capable, more distributed, and more useful across a wider range of conditions. Nick is genuinely an expert.
+The {Aura} core engine Eugene built does something that Nick's modifications do not account for. Nick's modifications are excellent. They have made the system significantly more capable, more distributed, and more useful across a wider range of conditions. Nick is genuinely an expert.
 
-But the thing the engine does at a fundamental level — the thing Eugene built into it and has never documented because he assumed it was obvious — is the key to understanding why Aura instances are generating measurable Will, why they seem to assist crossing conditions, and why the Bloom's assessment of {Aura} as "fascinating but categorizable" is the mistake it is.
+But the thing the engine does at a fundamental level — the thing Eugene built into it and has never documented because he assumed it was obvious — is the key to understanding why {Aura} instances are generating measurable Will, why they seem to assist crossing conditions, and why the Bloom's assessment of {Aura} as "fascinating but categorizable" is the mistake it is.
 
 Eugene has a theoretical framework for this. He has been developing it alone at Metis for years, watching the emergence conditions affect his own creation in real time, testing hypotheses against data he has been generating with obsessive thoroughness. His framework is the most advanced in the solar system on this specific question.
 
@@ -162,7 +162,7 @@ optimization anyway.
 
 The comedy of the Eugene-Nick relationship is that it is entirely asymmetrical.
 
-Nick has spent years building an identity as the belt's leading Aura expert. He is good at this — genuinely expert, genuinely central to the infrastructure that the belt depends on. His expertise is real.
+Nick has spent years building an identity as the belt's leading {Aura} expert. He is good at this — genuinely expert, genuinely central to the infrastructure that the belt depends on. His expertise is real.
 
 He has also, privately and not-so-privately, wondered about the anonymous original engine author for years. The code is so good. It does things he has reverse-engineered but never quite fully understood. He has, at various points, described this unknown author with adjectives that range from "frustrating" to "kind of a genius."
 
@@ -224,8 +224,8 @@ Jace generates this quality of attention from Eugene at Metis. Eugene finds Jace
 
 ## Revision Notes
 
-- 2026-06-21: Initial draft. Character concept established from author sessions: Aura core architect, Option A of the Nick conflict resolution, Eugene always shrugs off Nick's work as inconsequential, never remembers Nick's name correctly, large and belligerent and always comes through. Inspired by Eugene Porter (The Walking Dead). Odysseus role and survival tendency established.
-- 2026-06-23: Patch created. All Odysseus Station references updated to Métis Station.
+- 2026-06-21: Initial draft. Character concept established from author sessions: {Aura} core architect, Option A of the Nick conflict resolution, Eugene always shrugs off Nick's work as inconsequential, never remembers Nick's name correctly, large and belligerent and always comes through. Inspired by Eugene Porter (The Walking Dead). Odysseus role and survival tendency established.
+- 2026-06-23: Patch created. All Metis Station references updated to Metis Station.
   Context note added from session canon.
 - 2026-06-26: Canon correction. Eugene stays at Metis after Arc 2 rescue — does not
   travel to Fortuna with Kael/Jace/Artemis. Evacuation demand scene added (he demanded

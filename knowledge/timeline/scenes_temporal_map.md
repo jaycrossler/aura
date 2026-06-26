@@ -140,7 +140,7 @@ The arrival day is structured as four linked sub-scenes that together form the b
 While Jace runs on the treadmill, his HUD is doing three things at once:
 1. Running the combat sim / strategy game he loves
 2. Recording video messages home (Dawn, Chris, Athena), each of which includes an ask about Jelly (the family dog) or Jinx (the family horse) — small recurring Earth anchors
-3. Attempting to send a message to Artemis at Odysseus Station — repeatedly, with each attempt failing
+3. Attempting to send a message to Artemis at Metis Station — repeatedly, with each attempt failing
 
 His face appears, to anyone looking, to be staring forward in concentration. He is, in fact, oblivious to the room around him. Two young women on adjacent treadmills smile at him, one of them speaks toward him at one point — he doesn't notice. He is too deep in the game-and-messaging stack. The reader sees what Jace doesn't.
 

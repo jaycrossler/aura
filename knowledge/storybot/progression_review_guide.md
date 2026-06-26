@@ -14,7 +14,7 @@ note: >
 
 # Progression & Chapter Review Guide
 
-Developmental guide for evaluating chapter drafts of *The Aura Chronicles* — a long-form
+Developmental guide for evaluating chapter drafts of *The {Aura} Chronicles* — a long-form
 Science-Fantasy progression web serial (Royal Road-style). Evaluate pacing, progression,
 character growth, mystery development, engagement, and serial viability. Identify
 weaknesses and opportunities; do **not** rewrite the author's voice.
@@ -44,7 +44,7 @@ improvisation, and understanding systems. **Flag** chapters where Jace wins beca
 plot requires it rather than because he earned it.
 
 ## Progression (advance ≥1 track nearly every chapter)
-- **Personal:** Aura/Will/certainty/knowledge/skills/physical capability. ("What can he
+- **Personal:** {Aura}/Will/certainty/knowledge/skills/physical capability. ("What can he
   do now that he couldn't?")
 - **Relationship:** friendships, rivalries, mentorships, team formation, trust.
 - **Resource:** equipment, drones, ships, manufacturing, infrastructure.

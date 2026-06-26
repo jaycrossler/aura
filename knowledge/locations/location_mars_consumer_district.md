@@ -37,11 +37,11 @@ A wide pedestrian corridor running through the district's central dome, lined wi
 
 Several large electronics retailers anchor the district. The flagship is something like a hybrid of Best Buy and an Apple store — two stories of consumer technology with theatrical product display. Notable sections:
 
-- **HUD Implant Showroom.** A dedicated zone displaying the year's HUD models from multiple manufacturers. Side-by-side comparisons. Demo stations where Mars residents can try out competing Aura skins, overlay configurations, and feature sets without committing to surgery. Pricing transparent and aggressive — the consumer HUD market is competitive enough that real bargains exist for users willing to forgo the latest features. Small surgical-consultation booths in the back where buyers can begin the implant process.
+- **HUD Implant Showroom.** A dedicated zone displaying the year's HUD models from multiple manufacturers. Side-by-side comparisons. Demo stations where Mars residents can try out competing {Aura} skins, overlay configurations, and feature sets without committing to surgery. Pricing transparent and aggressive — the consumer HUD market is competitive enough that real bargains exist for users willing to forgo the latest features. Small surgical-consultation booths in the back where buyers can begin the implant process.
 
 - **Wearables Wall.** Watches, wrist nodes, smart rings, AR goggles, smart glasses, audio implants. Hundreds of SKUs. A whole subculture of users who will not implant but will wear extensively.
 
-- **Gaming Systems.** Mars's gaming hardware market is robust — long voyages, long shifts, long evenings under domes. Console-class systems, full-immersion VR rigs, and Aura-paired gaming experiences. The Mars-born gaming market is large enough that some titles ship Mars-first.
+- **Gaming Systems.** Mars's gaming hardware market is robust — long voyages, long shifts, long evenings under domes. Console-class systems, full-immersion VR rigs, and {Aura}-paired gaming experiences. The Mars-born gaming market is large enough that some titles ship Mars-first.
 
 - **Computers and Compute Hardware.** Personal compute, professional workstations, ship-grade nodes for the small craft owners. Mars is a market that buys serious hardware.
 
@@ -59,15 +59,15 @@ One of the few public spaces in the district with substantial real Earth plant l
 
 - **The technology arms race is *visible*.** Last year's HUD is on a discount endcap. This year's HUD is in the showroom. Next year's HUD is being announced at a kiosk where you can preorder. Jace's military-grade unit is — as the doctor will eventually deactivate — already surrounded by civilian competitors that match it on most features and beat it on some. He is aware of the race; he just thinks his expensive surgery puts him ahead of it.
 - **Influencer presence.** Mars has its own influencer culture, particularly around technology, fitness, and Mars-born lifestyle. In-store screens often run influencer review content. Some influencers have genuine technical credibility and are worth listening to; others are paid promotion. Jace, in his confidence, mostly trusts what they tell him.
-- **Aura-mediated shopping.** Most shoppers walk through the district with their Aura tracking interest, comparing prices in real time across competing storefronts, alerting them to upgrades. Personal shopping is heavily mediated. (Jace, post-discharge with stripped Aura, will find shopping in this district *much* harder, which is one of the small humiliations he has not anticipated.)
+- **{Aura}-mediated shopping.** Most shoppers walk through the district with their {Aura} tracking interest, comparing prices in real time across competing storefronts, alerting them to upgrades. Personal shopping is heavily mediated. (Jace, post-discharge with stripped {Aura}, will find shopping in this district *much* harder, which is one of the small humiliations he has not anticipated.)
 - **Cross-faction shopping.** The district is officially U.S.-settlement, but Chinese-settlement and Indian-settlement residents shop here regularly. Cross-cultural retail is part of the daily texture. Translation overlays from Auras make the storefronts accessible to multiple languages.
 
 ## Connection to Story Threads
 
 - **The HUD as competitive consumer market.** The reader's understanding of HUD technology is enriched by seeing the market for it. Jace's loss of his HUD will land harder for the reader having seen what the consumer market would offer (and what Jace will not be able to afford).
 - **Background censorship.** The communications-gear section's quiet thinning is an early symptom — supplier issues, quality control flags, products being held back. By the time the comms blackout becomes formal, the reader has been registering small anomalies here for chapters.
-- **The Aura economy.** The shopping experience is so Aura-mediated that the unaugmented experience of the discharged Jace becomes visibly impoverished. The reader can feel it when he tries to shop here later.
-- **A possible second-act scene.** Jace, several weeks into his hard months, walks through this district to remember who he was. He no longer fits. People look through him. The Aura overlays don't pop up for him the way they do for the people around him. A short, painful scene.
+- **The {Aura} economy.** The shopping experience is so {Aura}-mediated that the unaugmented experience of the discharged Jace becomes visibly impoverished. The reader can feel it when he tries to shop here later.
+- **A possible second-act scene.** Jace, several weeks into his hard months, walks through this district to remember who he was. He no longer fits. People look through him. The {Aura} overlays don't pop up for him the way they do for the people around him. A short, painful scene.
 
 ## Open Questions
 
@@ -80,7 +80,7 @@ One of the few public spaces in the district with substantial real Earth plant l
 
 - See [[location_mars_overview|Mars (Inhabited World Overview)]]
 - See [[tech_cybernetics|Cybernetic Augmentation Systems]] (HUD market context)
-- See [[tech_aura_ai|Aura]] (Aura-mediated shopping)
+- See [[tech_aura_ai|{Aura}]] ({Aura}-mediated shopping)
 - See [[tech_information_environment|The Information Environment (2105)]] (influencer culture)
 - See [[event_jace_mars_tour_with_rich|Scene — Mars Sponsor Tour with Lt. Rich Cullivan]]
 - See [[event_jace_bar_rumors|Scene — The Bar (Rumors of Disaster)]] (the supply-chain anxiety counterpart)

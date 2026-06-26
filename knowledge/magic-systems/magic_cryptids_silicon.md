@@ -49,7 +49,7 @@ At sufficient concentration, the Vines generate — or transform into — mobile
 
 **They interact destructively with electronics.** Any powered electronic system near active Vine growth will experience interference — first intermittent, then permanent. The Bugs appear to target comms nodes and life-support relays specifically. Whether this is intentional disruption or merely a drive toward the electromagnetic gradients these systems produce is unknown.
 
-**The Hollow Miners.** A specific and deeply disturbing phase of Silicon-class exposure: extended inhalation of the micro-stage dust. Workers exposed over weeks show a progression — early: mild cognitive fog; mid: the Aura biometric overlay reports optimal health while the worker's behavior becomes increasingly blank and repetitive; late: the skin develops a translucent, pearlescent sheen. The workers stop speaking, but their Aura instances continue to chat cheerfully with the rest of the crew.
+**The Hollow Miners.** A specific and deeply disturbing phase of Silicon-class exposure: extended inhalation of the micro-stage dust. Workers exposed over weeks show a progression — early: mild cognitive fog; mid: the {Aura} biometric overlay reports optimal health while the worker's behavior becomes increasingly blank and repetitive; late: the skin develops a translucent, pearlescent sheen. The workers stop speaking, but their {Aura} instances continue to chat cheerfully with the rest of the crew.
 
 The Hollow phase may be reversible in early stages. It has not been reversed in late stage. No autopsies have been possible — the bodies are not available.
 

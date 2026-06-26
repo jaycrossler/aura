@@ -17,7 +17,7 @@ cross_references:
   - universe-spec/legacy_lexicon_and_rulebook_reconciliation.md
 description: >
   Authoritative single-source reference for how dimensional travel works in
-  The Aura Chronicles. Covers the three layers, tau mechanics, crossing costs,
+  The {Aura} Chronicles. Covers the three layers, tau mechanics, crossing costs,
   gravity and Will-pressure models, Hyperspace terrain, stellar efflux, black
   hole injection, vector merging, and long-distance operational constraints.
   Where this document conflicts with older files, this document is correct.
@@ -26,7 +26,7 @@ description: >
 # Dimensional Travel — Complete Mechanics Reference
 
 This document is the authoritative single-source summary of how dimensional travel
-works in *The Aura Chronicles*. It consolidates and updates content from multiple
+works in *The {Aura} Chronicles*. It consolidates and updates content from multiple
 prior spec files. Where this document conflicts with older files, this document is
 correct. Flag discrepancies rather than silently resolving them.
 
@@ -50,7 +50,7 @@ compresses at approximately **distance-squared** relative to physical space.
   the outer asteroid belt, ~3–4 AU)
 - Temperature near Fortuna: approximately **-20°C** — cold but survivable, not vacuum
 - Contains fauna, dimensional algae, and Scar-blighted terrain in varying degrees
-- Fortuna → Métis: ~80 million km physical; **~9,000 km Astral**
+- Fortuna → Metis: ~80 million km physical; **~9,000 km Astral**
 
 ### Hyperspace (dist³ layer — 5th dimension)
 
@@ -62,7 +62,7 @@ asteroid belt and beyond). Distance compresses at **distance-cubed**.
   anchor disappears. Practitioners describe it as stepping off a cliff into open sea.
 - Dramatically more dangerous than the Astral: worse fauna, more extreme geometry,
   higher atomic tension over distance
-- Fortuna → Métis: ~80 million km physical; **~450 km Hyperspace**
+- Fortuna → Metis: ~80 million km physical; **~450 km Hyperspace**
 - Kael's hoverboard lives permanently in Hyperspace — pulling it to the Astral would
   take many hours of Will expenditure
 
@@ -70,7 +70,7 @@ asteroid belt and beyond). Distance compresses at **distance-cubed**.
 
 | Journey                         | Physical       | Astral (dist²) | Hyperspace (dist³) |
 |---------------------------------|----------------|----------------|--------------------|
-| Fortuna → Métis                 | ~80 million km | ~9,000 km      | ~450 km            |
+| Fortuna → Metis                 | ~80 million km | ~9,000 km      | ~450 km            |
 | Sun → outer planets             | ~30–50 AU      | ~1 month foot  | — (gravity well)   |
 | Solar system → Proxima Centauri | 4.2 ly         | —              | ~1 week foot       |
 | Solar system → Scar boundary    | ~800+ ly       | —              | ~1 month foot      |
@@ -674,7 +674,7 @@ biological beings. Military forces moving 100 light-years would require approxim
 
 ---
 
-**Kael and Jace to Métis:** Kael provides movement force for two people while managing
+**Kael and Jace to Metis:** Kael provides movement force for two people while managing
 her own atomic tension. Jace experiences atomic tension without the Will capacity to
 manage it. Two days of this is genuinely brutal for both.
 

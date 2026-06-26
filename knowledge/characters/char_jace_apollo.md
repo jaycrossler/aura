@@ -18,7 +18,7 @@ pov_character: true
 
 # Affiliations
 factions: [faction_united_states_mars (former), faction_belter_stations (current), faction_origin_industries (contractor)]
-loyalties: [his ferry crew, his livestock, his Aura, Cerberus, Nick Lee, char_sophia_lotte, eventually his belter station]
+loyalties: [his ferry crew, his livestock, his {Aura}, Cerberus, Nick Lee, char_sophia_lotte, eventually his belter station]
 former_affiliations: [US Air Force, US Air Force Mars Detachment]
 
 # Relationships
@@ -180,7 +180,7 @@ He arrives as a greenie. The station's experienced residents call newcomers that
 
 During transit he met **Nick Lee** — a Korean AI engineer and programmer who lives at Fortuna. They were matched into the same co-op gaming group when Mars latency made Earth-facing games unplayable. They built a genuine rapport over weeks of play — fast banter, complementary styles, shared humor. When Jace mentioned where he was headed, Nick said: *I live there.* The friendship that existed as voices and screen actions becomes physical reality on arrival. Nick becomes his closest friend on the station.
 
-Nick installs a full Aura instance on Jace's military-grade HUD — hardware Nick has never had access to before. He treats it as a research project. The resulting instance is one of the most capable on the station.
+Nick installs a full {Aura} instance on Jace's military-grade HUD — hardware Nick has never had access to before. He treats it as a research project. The resulting instance is one of the most capable on the station.
 
 ## Pre-Crossing: The Crystal Tunnel Dreams
 
@@ -245,7 +245,7 @@ They fall into a natural rhythm quickly. Sophia documents. Jace experiments. Her
 
 Jace brings Nick into the Astral secret — not immediately, but after he and Sophia have established enough certainty that they can explain what they've found. Nick's first question is: *How do we instrument this better?*
 
-Nick is the developer and maintainer of the Aura AI stack that everyone in the belt uses. He has already been seeing anomalies in his instances — patterns that suggest the Auras themselves are detecting something. When Jace confirms what that something is, Nick connects it to everything he's been observing and immediately starts thinking about scaling.
+Nick is the developer and maintainer of the {Aura} AI stack that everyone in the belt uses. He has already been seeing anomalies in his instances — patterns that suggest the Auras themselves are detecting something. When Jace confirms what that something is, Nick connects it to everything he's been observing and immediately starts thinking about scaling.
 
 The open-source decision — releasing what they've discovered before any corporate entity can lock it down — is made jointly by Jace and Nick. Their gaming culture background makes the answer instinctive. Once it's out, it can't be contained. Nick would have moved more cautiously alone. Jace's instinct is to move. They balance each other. Sophia is initially alarmed by the pace; she comes to acknowledge it was correct.
 
@@ -333,7 +333,7 @@ Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactiva
 
 - Says "copy" instead of "okay" when concentrating. "Negative" instead of "no" when stressed. "How can I help?" reflexively.
 - Stands like an officer. Has trouble slouching.
-- Talks aloud to his Aura as if to a colleague, not a tool.
+- Talks aloud to his {Aura} as if to a colleague, not a tool.
 - With Cerberus: plain, unguarded, the version he doesn't show to people.
 
 ## Open Questions
@@ -362,4 +362,4 @@ Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactiva
 - 2026-04-28: Major update — family detail, Mars arrival arc, discharge mechanics, menial labor, smuggler contact, Mei/Sylvester intel deal, Pinta voyage, Falcon departure.
 - 2026-04-30: Major update — disease, appearance, personality, HUD, Cerberus naming and negotiation.
 - 2026-06-17: Mei retcon — Jace no longer knows she is a U.S. asset at departure (Intel Deal rewritten as general, un-named cooperation; finds out later). Added the plumbing-crisis save + the private "thing in the wall" incursion thread, the sewage-comedy reputation, and arrival into a rattled Fortuna (China withdrawal, sabotage misread, Helena's disappearance, Suzi's trust). Crystal-tunnel resident count 150->~350.
-- 2026-06-03: Added complete Fortuna and Astral arc: Nick Lee gaming friendship and Aura install; crystal tunnel pre-crossing dreams; first crossing sequence (Cerberus mask-pull, shared breathing, second mask pull); hours of solo exploration before finding Sophia; meeting in mess hall (no insects — Cerberus barks, Sophia startled); partnership with Sophia; temperature probe discovery; open-space exploration; drone prospecting solution; open-source decision with Nick. Updated allies to include char_nick_lee and char_sophia_lotte.
+- 2026-06-03: Added complete Fortuna and Astral arc: Nick Lee gaming friendship and {Aura} install; crystal tunnel pre-crossing dreams; first crossing sequence (Cerberus mask-pull, shared breathing, second mask pull); hours of solo exploration before finding Sophia; meeting in mess hall (no insects — Cerberus barks, Sophia startled); partnership with Sophia; temperature probe discovery; open-space exploration; drone prospecting solution; open-source decision with Nick. Updated allies to include char_nick_lee and char_sophia_lotte.

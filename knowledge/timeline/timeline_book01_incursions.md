@@ -39,7 +39,7 @@ All anchored to the ~4-month Mars→Fortuna *Falcon* transit. Exact chapter numb
 
 ## Final transit week (Fortuna, offscreen to Jace)
 
-- **Helena disappears** overnight from a sealed pod. No breach, no body; Aura dark at ~01:00. Station police chief **Suzi** opens an impossible case; all of Helena's partners are cleared by the locked-pod fact. (Plot 4) True cause: accidental Astral sleep-crossing, did not survive. See [[char_helena]], [[char_suzi]], [[spec_crossing_mechanics]].
+- **Helena disappears** overnight from a sealed pod. No breach, no body; {Aura} dark at ~01:00. Station police chief **Suzi** opens an impossible case; all of Helena's partners are cleared by the locked-pod fact. (Plot 4) True cause: accidental Astral sleep-crossing, did not survive. See [[char_helena]], [[char_suzi]], [[spec_crossing_mechanics]].
 
 ## Arrival
 

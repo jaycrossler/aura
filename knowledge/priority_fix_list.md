@@ -6,33 +6,17 @@ This document tracks unresolved story details, technical discrepancies, missing 
 
 ## 1. Technical & Narrative Open Questions
 
-- **Disentangling Jace's Mars Backstory:** Since the active narrative of Book 1 starts directly aboard the *Falcon* transit (`scenes/book01-ch01-morning-round.md`), Jace's time on Mars (shuttle landing, gym session, medical checkout, hard months of gig labor, smuggling list sprint, negotiation with Origin, and recruitment by Sylvester) needs to be formally archived as backstory. The current `control/story-structure.yaml` and `control/scene-registry.yaml` files still treat these Mars events as active, sequential on-page chapters (`ch001` through `ch007`). 
-  - **Proposed Action:** Update `story-structure.yaml` to start active chapter sequencing from the *Falcon* transit (or boarding) and label the Mars chapters as "Backstory/Archive." Move or tag corresponding scene definitions in `scene-registry.yaml` as `status: archive_backstory`.
 - **Naming Conventions & The Nomenclature Thread:** Check the alignment of the bracketed `[Skill]` notation across the series. Ensure that brackets do not appear in any drafted prose set before Jace establishes them in Arc 2.
 
 ---
 
 ## 2. Missing Core Files & Concepts
 
-- **U.S. Intelligence Apparatus:** Mentioned in Mei's background and Jace's recruitment, but needs a dedicated faction/concept outline: `faction_united_states_intelligence.md`.
 - **Character Stubs:** Details on the USAF Captain (direct supervisor of Rich and Jace on Mars) and the livestock breeder handler need to be finalized for historical reference.
 
 ---
 
-## 3. Metric & Narrative Inconsistencies to Reconcile
-
-- **Artemis Stationing (Métis vs. Odysseus Inconsistency):** 
-  - In a recent revision, Artemis Grant's location and the Arc 2 rescue site were changed to **Métis Station** (on asteroid 9 Metis) to separate it from **Odysseus Station** (L4 science station). 
-  - However, numerous files (e.g., `arcs/arc_01_falcon_and_fortuna.md`, `characters/char_kael.md`, `factions/faction_belter_stations.md`, `scenes/event_jace_assembles_smuggling_list.md`, `scenes/event_jace_doctor_appointment.md`, `technology/tech_communications_filtering.md`, `timeline/scenes_temporal_map.md`) still incorrectly refer to Artemis being stationed at, or sending packages to, **Odysseus Station**.
-  - **Proposed Action:** Update all remaining references to Artemis's location and Jace's supply destination during the Mars era from "Odysseus" to "Métis" (except where Odysseus is referred to as the L4 science post).
-- **AI Curly Braces Violations:** 
-  - The `SERIES_BIBLE.md` mandates that in-universe AI names always use curly braces (e.g., `{Aura}`, `{Alex}`, `{Penny}`) in all prose, dialogue, and knowledge base documents.
-  - A project-wide check revealed over 300 instances (especially in `char_nick_lee.md`, `char_jace_apollo.md`, `tech_fortuna_ai_systems.md`, etc.) where AI systems are referenced as plain text (e.g., "Aura", "Alex", "Penny") instead of `{Aura}`, `{Alex}`, `{Penny}`.
-  - **Proposed Action:** Systematically edit files to wrap AI names in curly braces when referring to the AI systems/instances.
-
----
-
-## 4. Unresolved Arc Goals (To-Resolve List)
+## 3. Unresolved Arc Goals (To-Resolve List)
 
 This checklist tracks logical and narrative tests from the story arc documents that have not yet been met because their corresponding chapters are in outlines/notes and need to be drafted:
 
@@ -57,6 +41,15 @@ This checklist tracks logical and narrative tests from the story arc documents t
 - [ ] **Dungeon Emergence:** Establish dungeon emergence on Earth and Mars as a separate but converging threat (introducing five POV characters, only one of whom survives).
 - [ ] **Jace's Imprisonment:** Conclude Arc 2 with Jace's imprisonment by the Bloom, creating stakes about being absorbed into a hierarchy.
 - [ ] **Aura HUD Recording:** Establish `{Aura}`'s recording of the Bloom transit as a future asset for Arc 3.
+
+---
+
+## 4. Resolved Issues
+
+- **Disentangling Jace's Mars Backstory:** Handled by removing the old control configuration files (`story-structure.yaml`, `scene-registry.yaml`, etc.) to deconflict the old story chapters.
+- **U.S. Intelligence & Military Apparatus:** Resolved by drafting [faction_united_states_military_intelligence.md](file:///d:/Projects/aura/knowledge/factions/faction_united_states_military_intelligence.md) outlining Martian bases, doctrine, and intelligence assets.
+- **Artemis Stationing (Métis vs. Odysseus Inconsistency):** Resolved by globally shifting all Artemis/smuggling target locations to Metis Station, standardizing the "Metis" spelling without accents, and reserving Odysseus Station exclusively for the Jupiter L4 Trojan asteroid science outpost.
+- **AI Curly Braces Violations:** Systematically ran global script formatting to ensure in-universe AI names (`{Aura}`, `{Alex}`, `{Penny}`, `{Gem}`, `{Chorus}`, `{Seek}`, `{Misty}`, `{SpoX}`) are enclosed in curly braces `{}` in all prose blocks.
 
 ---
 *Generated by Antigravity AI agent.*

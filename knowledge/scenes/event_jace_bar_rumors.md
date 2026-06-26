@@ -41,7 +41,7 @@ This bar will recur. Worth naming and giving a memorable feel. Suggested working
 
 1. **Walking in.** Jace, in civilian clothes that fit slightly wrong because his frame is too military for them, takes a corner table. Orders the cheapest hot food on the menu. He has been on Mars two months and is in this kind of bar for the first time. Everyone notices him; nobody makes a thing of it.
 
-2. **The screen above the bar.** A news ticker scrolls. *Belt shipment delays continue. Origin Industries reports unspecified operational issues at Odysseus Station. Commodity prices for platinum-group metals up 3.2% on the Mars exchange.* Jace half-watches it. Catches "Odysseus." Sits up.
+2. **The screen above the bar.** A news ticker scrolls. *Belt shipment delays continue. Origin Industries reports unspecified operational issues at Metis Station. Commodity prices for platinum-group metals up 3.2% on the Mars exchange.* Jace half-watches it. Catches "Odysseus." Sits up.
 
 3. **The overheard conversation.** A small group at the bar — looks like contractors, possibly ex-military by posture — is talking loudly enough to be heard. Topic: the Odysseus delay. Someone says they heard there were deaths. Someone else says they heard it's worse than that, the whole station's gone quiet. Someone else says it's sabotage, has to be — *the timing's too convenient, the Chinese are at Psyche, it's a metals war, it's been coming for years*. Someone else says no, it's a disease — workers going crazy, hallucinating, a whole shift quarantined. Someone laughs and says it's pirates. Everyone laughs. Then nobody does, because piracy in the belt isn't actually impossible, just ridiculous.
 
@@ -49,7 +49,7 @@ This bar will recur. Worth naming and giving a memorable feel. Suggested working
 
 5. **Jace's quiet realization.** This is the first time he hears, from real people who actually depend on this stuff, that the belt situation is not a routine logistics hiccup. People's livelihoods are unraveling. The merchant is genuinely scared. The contractors at the bar are genuinely confused.
 
-6. **The Artemis ping.** He thinks of his sister at Odysseus. He has not had a successful real-time conversation with her in three weeks. He has been telling himself it's latency. He is starting to not believe himself.
+6. **The Artemis ping.** He thinks of his sister at Metis. He has not had a successful real-time conversation with her in three weeks. He has been telling himself it's latency. He is starting to not believe himself.
 
 7. **A small interaction.** The bartender notices him noticing the conversations, comes over with a refill he didn't order. *"On the house. You look like you've had a week."* Jace nods. Doesn't explain. The bartender doesn't ask.
 

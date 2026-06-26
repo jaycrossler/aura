@@ -56,7 +56,7 @@ The *Santa María* is the youngest, largest, and most modern of the three cycler
 
 ## Design Philosophy
 
-Where *Niña* prioritizes endurance and *Pinta* prioritizes operational efficiency, *Santa María* prioritizes integration and experience. Her systems are more thoroughly modeled and coordinated. Her Aura integration is the most advanced — passengers and crew can run their personal Auras with deep ship-system access not available on the older vessels. Her medical bay is closer to a small hospital. Her research facilities allow corporate clients to run experiments during the long transit stretches.
+Where *Niña* prioritizes endurance and *Pinta* prioritizes operational efficiency, *Santa María* prioritizes integration and experience. Her systems are more thoroughly modeled and coordinated. Her {Aura} integration is the most advanced — passengers and crew can run their personal Auras with deep ship-system access not available on the older vessels. Her medical bay is closer to a small hospital. Her research facilities allow corporate clients to run experiments during the long transit stretches.
 
 She is also the most expensive to operate. Her efficiency advantages do not fully offset her higher operating cost.
 
@@ -82,7 +82,7 @@ The shipboard AI (name TBD) is the most polished of the three — articulate, ac
 
 - Captain's identity and political relationships.
 - Whether any high-stakes story scene uses *Santa María* as setting (a Mars or Earth political figure traveling at a critical moment, e.g.).
-- The first hints of magical phenomena aboard a cycler — likely *Santa María* given her Aura-integration depth.
+- The first hints of magical phenomena aboard a cycler — likely *Santa María* given her {Aura}-integration depth.
 
 ## Revision Notes
 

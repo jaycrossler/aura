@@ -111,7 +111,7 @@ These are the organism types most likely to be encountered in physical space dur
 
 **Hazard level:** Moderate to serious. A single leech feeding over several nights produces noticeable memory gaps and emotional flattening. Multiple leeches, or prolonged single infestation, can cause severe amnesia. In extreme cases, the Template itself is partially consumed — producing permanent personality change and, in cases where the leech is forcibly removed after extended feeding, catastrophic Template shock.
 
-**Detection:** Difficult. They are nearly invisible, their presence is not painful, and their feeding manifests as pleasant dreams and then subtle memory lapses. Sensitive practitioners can sense them — they appear as a slight drag or darkness in the emotional field of an infested person. Aura AI systems in high-flux environments may flag unexplained memory inconsistencies in their users before the user is aware.
+**Detection:** Difficult. They are nearly invisible, their presence is not painful, and their feeding manifests as pleasant dreams and then subtle memory lapses. Sensitive practitioners can sense them — they appear as a slight drag or darkness in the emotional field of an infested person. {Aura} AI systems in high-flux environments may flag unexplained memory inconsistencies in their users before the user is aware.
 
 **Story function:** A personal-scale horror. The discovery that a character has been infested — and the question of how much memory they have lost — is a character-level crisis. Also: the leeches they find in the belt raise a question — what were they feeding on for 3,000 years without conscious beings to prey on? The answer (they were feeding on Echoes — consuming the residual Templates of the dead) is disturbing.
 
@@ -222,7 +222,7 @@ And then everyone will start moving.
 
 This is the approximate progression in the story's early arc:
 
-**Year 0 (story start):** Shimmer motes and Threshold Hounds are being encountered in the outer belt. Filed as unexplained anomalies. Aura systems are flagging equipment interference. Belt workers have stories; scientists have no framework.
+**Year 0 (story start):** Shimmer motes and Threshold Hounds are being encountered in the outer belt. Filed as unexplained anomalies. {Aura} systems are flagging equipment interference. Belt workers have stories; scientists have no framework.
 
 **Year 0–1:** Memory Leech infestations begin appearing in outer belt stations. Presented as a mysterious illness with psychological symptoms. The connection to the shimmer motes and equipment anomalies is not yet made.
 

@@ -136,7 +136,7 @@ Cross-cultural texture is present. The American majority includes significant Ch
 ## Cross-References
 
 - See [[char_jace_apollo]] for the primary POV character's arrival and Astral arc
-- See [[char_nick_lee]] for the Aura engineer and station best friend
+- See [[char_nick_lee]] for the {Aura} engineer and station best friend
 - See [[char_mei]] for the intelligence presence
 - See [[ship_victoria]] for the ESA science vessel docked here
 - See [[ship_falcon]] for the ferry that brought Jace

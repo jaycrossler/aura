@@ -177,7 +177,7 @@ Each scene in JSON sidecar should track character state at fine granularity. Exa
           "His sponsor is Lt. Rich Cullivan",
           "Mars geography (broad)",
           "He has glimpsed two intel personnel (Mei and Sylvester)",
-          "Comms to Artemis at Odysseus are failing"
+          "Comms to Artemis at Metis are failing"
         ],
         "learns_during_scene": [
           "He has a degenerative bone disease, no known cure",

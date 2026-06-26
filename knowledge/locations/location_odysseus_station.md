@@ -4,7 +4,7 @@ name: Odysseus Station
 type: location
 status: canonical
 canonical: true
-last_updated: 2026-06-23
+last_updated: 2026-06-26
 cross_references:
   - location_metis_station
   - location_fortuna_station
@@ -13,7 +13,7 @@ description: >
   Jupiter L4 observation and science station. Retained as canon but no longer
   Artemis Grant's posting. Site of the early flux anomalies that triggered
   China's withdrawal from outer belt operations. Not the Arc 2 rescue site —
-  that is Métis Station.
+  that is Metis Station.
 ---
 
 # Odysseus Station
@@ -97,7 +97,7 @@ Odysseus Station continues to operate at reduced Chinese staffing. Scientific ou
 continues. The anomaly reports have not been formally reopened. The people who filed
 them have not been formally contradicted, which is its own kind of answer.
 
-Odysseus is not where Artemis Grant works. That is **Métis Station** (~9 Metis,
+Odysseus is not where Artemis Grant works. That is **Metis Station** (~9 Metis,
 inner belt). Do not conflate these locations.
 
 ---
@@ -110,6 +110,7 @@ inner belt). Do not conflate these locations.
 
 ## Revision Notes
 
+- 2026-06-26: Removed accent mark from Metis Station references to align spelling.
 - 2026-06-23: Major update. Artemis Grant and all Arc 2 rescue material moved to
   new `location_metis_station.md`. Odysseus repositioned as Jupiter L4 science
   post, retained as the site of China's anomaly-triggered withdrawal. Jovian

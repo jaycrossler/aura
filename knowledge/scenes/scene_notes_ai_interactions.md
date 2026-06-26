@@ -166,20 +166,20 @@ Files using AI names without curly braces:
 
 **Safe replacements (no edge cases):**
 - "Awe" → "{Alex}" (not a common word in other contexts)
-- "Gem" → "{Gem}" (check for gemstone references — in context should be clear)
-- "Aura" → "{Aura}" (check for magical/atmospheric "aura" references — context will distinguish)
+- "{Gem}" → "{Gem}" (check for gemstone references — in context should be clear)
+- "{Aura}" → "{Aura}" (check for magical/atmospheric "aura" references — context will distinguish)
 
 **Edge cases — replace only when clearly the AI system:**
 - "Spok" → "{SpoX}" — don't replace: "ex-USAF," "ex-military," "for example," "for ex."
-- "Chorus" → "{Chorus}" — don't replace: "Anthropic"
-- "Penny" → "{Penny}" — don't replace: "pen" as writing instrument, "open," "happen"
+- "{Chorus}" → "{Chorus}" — don't replace: "Anthropic"
+- "{Penny}" → "{Penny}" — don't replace: "pen" as writing instrument, "open," "happen"
 
 **Files to update:**
 - `arcs/arc_01_falcon_and_fortuna.md`
 - `factions/faction_corporate_belt_control.md`
 - `universe-spec/spec_ip_economy_2100.md`
 - `universe-spec/concept_human_work_ai_age.md`
-- `characters/char_nick_lee.md` (Aura → {Aura} throughout)
-- `characters/char_jace_apollo.md` (Aura → {Aura} in HUD context; also update debt origin — see below)
+- `characters/char_nick_lee.md` ({Aura} → {Aura} throughout)
+- `characters/char_jace_apollo.md` ({Aura} → {Aura} in HUD context; also update debt origin — see below)
 
-**char_jace_apollo.md debt update:** The debt is from the Space Force billing Jace for the skull cap HUD installation upfront as a condition of keeping the hardware at discharge. Not from civilian Aura services. Update wherever the debt origin is mentioned.
+**char_jace_apollo.md debt update:** The debt is from the Space Force billing Jace for the skull cap HUD installation upfront as a condition of keeping the hardware at discharge. Not from civilian {Aura} services. Update wherever the debt origin is mentioned.

@@ -1,6 +1,6 @@
 ---
 description: "Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic."
-title: Master Synopsis — Aura Chronicles
+title: Master Synopsis — {Aura} Chronicles
 status: draft
 version: 0.1
 last_updated: 2026-04-28
@@ -42,7 +42,7 @@ In the asteroid belt, four to five major mining stations anchor along major aste
 
 - **Cyclers** (*Niña*, *Pinta*, *Santa María*) — Three permanent transit ships running continuously between Earth and Mars. Stay in orbit; never land. Pickup and dropoff via taxi craft. Rotating habitats provide partial gravity. Allowed nuclear and chemical propulsion only — no nuclear engines permitted in the inner solar system per international treaty.
 - **Nuclear ferries** — Mars-built, nuclear-thrust transports running from Mars to belt stations. Most of the ship's mass and crew are dropped off at the belt; thrusters return on a fast trajectory for reuse. Carry livestock, infrastructure, and settlers in 4–5 month transits.
-- **Aura** — A widely-used distributed AI architecture. Each user runs their own local instantiation on a wrist node, ship node, or cybernetic implant. Not omniscient, not central — a personal partner that learns, advises, translates, and remembers. Belters trust Aura because no single entity controls it.
+- **{Aura}** — A widely-used distributed AI architecture. Each user runs their own local instantiation on a wrist node, ship node, or cybernetic implant. Not omniscient, not central — a personal partner that learns, advises, translates, and remembers. Belters trust {Aura} because no single entity controls it.
 - **Cybernetic augmentations** — HUDs, neural interfaces, and sensory implants are slowly emerging. Buggy, expensive, but transformative. Powered by either electricity or by hijacking the body's glucose metabolism. Primarily military and corporate at story start.
 
 ### The Supernova and Returning Magic
@@ -59,7 +59,7 @@ Different cultures interpret the phenomenon through different philosophical fram
 
 ## Protagonist
 
-**Jace Apollo Grant** *(name is a working placeholder)* — Late twenties, U.S. Air Force officer recently stationed on Mars to command part of the American drone fleet. Ambitious, technically skilled, somewhat naive - a "Mary Sue" character that serves to explain the world to the reader. Carries significant student debt from going to a prestigious Earth college, where he planned that the military would pay off his bills. Has just received a first-generation cybernetic HUD implant, which will be disabled when he leaves the military.  Later, he will do a deal to keep his HUD working and gain money in exchange for helping a shady American operative. On his first flight to the belt, he loads a personal Aura instance.
+**Jace Apollo Grant** *(name is a working placeholder)* — Late twenties, U.S. Air Force officer recently stationed on Mars to command part of the American drone fleet. Ambitious, technically skilled, somewhat naive - a "Mary Sue" character that serves to explain the world to the reader. Carries significant student debt from going to a prestigious Earth college, where he planned that the military would pay off his bills. Has just received a first-generation cybernetic HUD implant, which will be disabled when he leaves the military.  Later, he will do a deal to keep his HUD working and gain money in exchange for helping a shady American operative. On his first flight to the belt, he loads a personal {Aura} instance.
 
 A genetic medical issue is diagnosed — something that disqualifies him from military service but is otherwise manageable as long as he never returns to Earth or high gravity. He is honorably discharged on Mars with no money, no return ticket, and massive debt. If he stays on Mars, he will be a wage slave for the rest of his life. The asteroid belt offers ten-year contracts that pay enough to clear his debts, despite all the problems recently reported in the news. He signs up as an animal handler and engineer aboard a livestock ferry bound for the belt.
 
@@ -76,7 +76,7 @@ See [[char_jace_apollo|Jace Apollo Grant]] for full profile.
 
 ## Plot Arc — Book One
 
-The four-month ferry transit from Mars to a major belter station forms the spine of the first book. Jace learns the work — care of juvenile livestock in rotating canisters, basic shipboard engineering, life with a crew of five to ten in a confined space. He bonds with the animals (this matters thematically — they are the first "family" he has after losing his career). His Aura instance learns alongside him.
+The four-month ferry transit from Mars to a major belter station forms the spine of the first book. Jace learns the work — care of juvenile livestock in rotating canisters, basic shipboard engineering, life with a crew of five to ten in a confined space. He bonds with the animals (this matters thematically — they are the first "family" he has after losing his career). His {Aura} instance learns alongside him.
 
 Strange phenomena begin appearing: animal behavior that defies normal patterns; sensor readings that disagree with what his crewmates' eyes report; small mechanical anomalies that resist diagnosis. Communication latency from the belt grows worse, and reports from earlier-arriving belters describe an environment where things are subtly wrong.
 
@@ -84,7 +84,7 @@ When the ferry arrives at the belt station, the situation has escalated. Earth a
 
 Jace arrives in the middle of this isolation. He is one of perhaps 150–300 people on his station, drawn from multiple national and corporate backgrounds. The station's three or four major factions must now figure out how to live together without external authority — and how to understand the strange new reality unfolding around them.
 
-Book One ends with the first unambiguous magical event Jace witnesses (or causes), and the recognition that his Aura instance has been quietly modeling something it cannot explain.
+Book One ends with the first unambiguous magical event Jace witnesses (or causes), and the recognition that his {Aura} instance has been quietly modeling something it cannot explain.
 
 ---
 
@@ -101,7 +101,7 @@ Book One ends with the first unambiguous magical event Jace witnesses (or causes
 ## Multimedia and Adaptation Notes
 
 - Visual touchstones: *The Expanse* (belter aesthetic, hard-sci-fi industrialism), early Shadowrun art (the moment magic and tech start mingling), Andrei Tarkovsky's *Solaris* (slow strangeness), *Annihilation* (radiation as transformation), *LitRPG Novels* (Many, where there is a System for managing magic powers).
-- Audio: distinguish the hum of Mars infrastructure from the colder, more isolated sound of the ferry, from the close, claustrophobic sound of the belt station habitats. Aura's voice should be warm and individuated — Jace's Aura sounds different from anyone else's.
+- Audio: distinguish the hum of Mars infrastructure from the colder, more isolated sound of the ferry, from the close, claustrophobic sound of the belt station habitats. {Aura}'s voice should be warm and individuated — Jace's {Aura} sounds different from anyone else's.
 - The first magical event should be visually quiet and physically wrong in a way the reader feels before they understand.
 
 ---
@@ -110,7 +110,7 @@ Book One ends with the first unambiguous magical event Jace witnesses (or causes
 
 - Jace's specific genetic condition — what is medically plausible, narratively useful, and not too on-the-nose as foreshadowing of his magical sensitivity?
 - The exact mechanism by which the radiation enables magic. Hand-wave or develop a quasi-rigorous pseudo-physics?
-- Does Aura "wake up" as magic returns, or does the returning physics simply give Aura new things to model?
+- Does {Aura} "wake up" as magic returns, or does the returning physics simply give {Aura} new things to model?
 - How many books? Trilogy following Jace, or longer series with expanding POV cast?
 - The fate of Earth — is the radiation reaching Earth a slow apocalypse, a slow renaissance, or something stranger?
 
@@ -119,7 +119,7 @@ Book One ends with the first unambiguous magical event Jace witnesses (or causes
 - See [[timeline_master|Master Timeline]] for the chronology.
 - See [[cosmology]] for the supernova and nebula.
 - See [[magic_returning_arts|The Returning Arts]] for magic mechanics.
-- See [[tech_aura_ai|Aura]] for Aura.
+- See [[tech_aura_ai|{Aura}]] for {Aura}.
 - See [[tech_cyclers|The Cycler System]] and [[tech_nuclear_ferries|Nuclear Ferry System]] for transit infrastructure.
 - See `/factions/` for political structure.
 - See [[char_jace_apollo|Jace Apollo Grant]] for the protagonist.

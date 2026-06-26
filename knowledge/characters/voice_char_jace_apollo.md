@@ -186,10 +186,10 @@ This file captures the vocal, dialogue, and speech-pattern characteristics of Ja
 - **Body language while speaking:** Pleasant, mildly distant
 - **Sample line:** "Coffee, eggs, anything quick. Thank you."
 
-### With AI/Aura (personal AI instance)
+### With AI/{Aura} (personal AI instance)
 - **Tone:** Treats it as a colleague, not a tool
 - **Mode:** Conversational, occasionally arguing
-- **Topics:** Anything — Aura knows him well
+- **Topics:** Anything — {Aura} knows him well
 - **Body language while speaking:** Subvocal or murmured aloud
 - **Sample line:** "Pull up the latest on the Odysseus comms. And give me a workout playlist."
 

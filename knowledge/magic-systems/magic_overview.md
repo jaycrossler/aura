@@ -30,7 +30,7 @@ What it means in practice:
 - Isolated, unmanned environments do not generate manifestations. Populated stations, cities, and ships do.
 - The *type* of manifestation is shaped by the *quality* of the consciousness it accumulates around. A science station studying Jupiter generates different manifestations than a mining operation or a military base.
 
-This is why Odysseus Station — with its concentrated population of scientists doing intense, focused intellectual work on one of the most complex objects in the solar system — is the first place where the outbreak becomes undeniable. The consciousness there is dense, focused, and pointed at mystery. The magic finds it first.
+This is why Metis Station — with its concentrated population of scientists doing intense, focused intellectual work on one of the most complex objects in the solar system — is the first place where the outbreak becomes undeniable. The consciousness there is dense, focused, and pointed at mystery. The magic finds it first.
 
 ---
 
@@ -86,9 +86,9 @@ This is a question the story will answer over time. The full explanation is a se
 
 ---
 
-## Aura and Magic
+## {Aura} and Magic
 
-The Aura AI system's distributed architecture makes it uniquely suited to survive and adapt to magical intrusion (documented in [[concept_aura_ai_system|Aura — The Distributed AI System]]). This is not a coincidence in the story — the engineer who built Aura was already, on some level, building for a world where centralized systems fail. Whether they knew this consciously is a question the story will address.
+The {Aura} AI system's distributed architecture makes it uniquely suited to survive and adapt to magical intrusion (documented in [[concept_aura_ai_system|{Aura} — The Distributed AI System]]). This is not a coincidence in the story — the engineer who built {Aura} was already, on some level, building for a world where centralized systems fail. Whether they knew this consciously is a question the story will address.
 
 ---
 
@@ -110,7 +110,7 @@ The Aura AI system's distributed architecture makes it uniquely suited to surviv
 - See [[magic_manifestations_early|Early Manifestations — Pre-Understanding Phase]]
 - See [[magic_cryptids_silicon|Silicon Manifestations — The Glass-Infestation Class]] (to be created)
 - See [[magic_improvised_responses|Improvised Responses to the Outbreak — Belt Field Adaptations]] (to be created from zip notes)
-- See [[concept_aura_ai_system|Aura — The Distributed AI System]]
+- See [[concept_aura_ai_system|{Aura} — The Distributed AI System]]
 
 ## Revision Notes
 

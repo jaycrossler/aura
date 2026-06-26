@@ -52,7 +52,7 @@ This hands Jace an authority-figure ally and an early, low-key investigative sea
 
 ## Method and Limits
 
-- Works Helena's case as a missing-person/possible-homicide. Interviews the partners. Pulls hatch logs, movement sensors, and (via Nick) the Aura network record.
+- Works Helena's case as a missing-person/possible-homicide. Interviews the partners. Pulls hatch logs, movement sensors, and (via Nick) the {Aura} network record.
 - Hits the wall every conventional investigator will hit against an accidental crossing: the evidence describes something that cannot have happened. She files it open. She does not invent a culprit to close it.
 - Ex-military: comfortable with chain-of-evidence, uncomfortable with mysticism. She will be one of the last to accept a magical explanation and one of the most valuable allies once she does, because her credibility is hard-earned.
 

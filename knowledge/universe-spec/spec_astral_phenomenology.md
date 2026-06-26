@@ -166,13 +166,13 @@ A conscious human appears as a brilliant, complex, fractal light source. Multipl
 
 Active Will use is visible as directed movement in the glow — brighter pulses, concentrated flows. A practitioner doing active work in physical space is brilliantly obvious to any Astral observer.
 
-### AI Systems (Aura)
+### AI Systems ({Aura})
 
-Aura instances glow differently from biological minds. Structured, regular, geometric — less fractal, more crystalline. Steady rather than pulsing. Minimal emotional color variation; brightness corresponds to processing intensity.
+{Aura} instances glow differently from biological minds. Structured, regular, geometric — less fractal, more crystalline. Steady rather than pulsing. Minimal emotional color variation; brightness corresponds to processing intensity.
 
 The difference between biological and AI glow is obvious to any observer. They are clearly different kinds of consciousness, not different magnitudes of the same thing.
 
-**The Jace-Aura pairing:** Jace's fractal biological glow and his Aura's crystalline steady glow are visible as separate but adjacent lights with a faint connecting luminescence between them. The Will interaction between a deeply paired human and their AI manifests as a visible bond. Sophia documents this carefully before she tells Jace about it.
+**The Jace-{Aura} pairing:** Jace's fractal biological glow and his {Aura}'s crystalline steady glow are visible as separate but adjacent lights with a faint connecting luminescence between them. The Will interaction between a deeply paired human and their AI manifests as a visible bond. Sophia documents this carefully before she tells Jace about it.
 
 ### Animals
 

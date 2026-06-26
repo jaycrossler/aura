@@ -49,7 +49,7 @@ The most consistent physical signature. When a manifestation materializes or pas
 This residue is the same material found at Odysseus Survey Corridor 7 and in the Mars maintenance tunnels during Jace's gig work. No one has yet connected these findings — the information environment suppresses the connection.
 
 ### The Static Signature
-Electronic sensors — cameras, telemetry systems, Aura sensor feeds — show static or scrambled imagery in the spatial vicinity of a manifestation event rather than recording what is physically present. This is not a camera malfunction; it is a specific interaction between magical energy and the electromagnetic substrate of electronic recording. The static has a quality that some observers describe as "patterned" — not random noise but structured disruption.
+Electronic sensors — cameras, telemetry systems, {Aura} sensor feeds — show static or scrambled imagery in the spatial vicinity of a manifestation event rather than recording what is physically present. This is not a camera malfunction; it is a specific interaction between magical energy and the electromagnetic substrate of electronic recording. The static has a quality that some observers describe as "patterned" — not random noise but structured disruption.
 
 Infrared sensors are more resilient and will often capture anomalous heat signatures where visible-spectrum cameras show only static. This makes IR cameras a more reliable early-detection tool than visible-spectrum systems.
 
@@ -80,11 +80,11 @@ Crawling through a maintenance access corridor beneath the residential dome, Jac
 
 He photographs them with his HUD camera. He runs searches — "crystalline fractal polymer," "silicon filament structures," "unusual robot failure mode." Nothing matches. The closest result is a lab-synthesized silicon polymer from an academic paper that has nothing to do with maintenance tunnels on Mars.
 
-> *In his Aura personal log: "Found something weird in tunnel 7-C. Photos attached. Doesn't look like normal failure. No idea what it is."*
+> *In his {Aura} personal log: "Found something weird in tunnel 7-C. Photos attached. Doesn't look like normal failure. No idea what it is."*
 
 He does not follow up. He keeps moving. He does not connect this to anything else until much later.
 
-**What this is:** A small manifestation that materialized in the tunnel, interacted with the robot's electronics, and dissipated. The fractal residue is the physical trace. This is the same material found at Odysseus Station. The information environment prevents any connection from being made.
+**What this is:** A small manifestation that materialized in the tunnel, interacted with the robot's electronics, and dissipated. The fractal residue is the physical trace. This is the same material found at Metis Station. The information environment prevents any connection from being made.
 
 ---
 
@@ -121,9 +121,9 @@ At the Bird Dome's fake lake, the geese and ducks become agitated — Cerberus, 
 
 **What happens afterward:** Dome management pulls the footage within six hours. A statement: "territorial behavior from a recently introduced species." Fragments circulate on underground feeds; AI authentication systems flag them as "likely synthetic" because the heat signature is inconsistent with any catalogued biology. The clip becomes one of the "great realistic AI wildlife" shares of the month.
 
-**What Jace knows:** He saw it live. He knows it's real. His Aura instance has no category for it.
+**What Jace knows:** He saw it live. He knows it's real. His {Aura} instance has no category for it.
 
-> *In his Aura personal log: "The duck attack was real. I was there. Cerberus knew before it happened. The snake went through the ground. No explanation. Photo attached — the camera glitched but infrared caught something."*
+> *In his {Aura} personal log: "The duck attack was real. I was there. Cerberus knew before it happened. The snake went through the ground. No explanation. Photo attached — the camera glitched but infrared caught something."*
 
 **What this is:** A mid-size manifestation passing through the civilian dome environment. Characteristic of what is emerging around Terminus's concentrated civilian population — different in type from the industrial-environment manifestations at Fortuna, but related in nature.
 
@@ -169,7 +169,7 @@ Information that cannot be synthesized — physical objects, analog records on p
 - [ ] When does Cerberus become a conscious instrument rather than just a noticed behavior?
 - [ ] Is there a single tipping-point moment where the accumulation becomes undeniable for Jace, or is it gradual?
 - [ ] Does Rich ever confirm to Jace what Rich knows? (Working: not in Book 1)
-- [ ] Does Jace's Aura instance begin behaving strangely as he approaches Fortuna?
+- [ ] Does Jace's {Aura} instance begin behaving strangely as he approaches Fortuna?
 
 ---
 
@@ -179,7 +179,7 @@ Information that cannot be synthesized — physical objects, analog records on p
 - See [[magic_overview|Magic — Overview and Fundamental Principles]]
 - See [[char_cerberus|Cerberus]] (flux barometer)
 - See [[char_jace_apollo|Jace Apollo Grant]]
-- See [[concept_aura_ai_system|Aura — The Distributed AI System]] (Mute Protocol)
+- See [[concept_aura_ai_system|{Aura} — The Distributed AI System]] (Mute Protocol)
 - See [[tech_information_environment|The Information Environment (2105)]]
 
 ## Revision Notes

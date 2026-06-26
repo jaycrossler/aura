@@ -56,7 +56,7 @@ U.S. Air Force Mars Detachment medical facility. Clinical, cool, familiar. A sta
 
 9. **The sister mentions.** Doctor adds, gently, that because the disease has a genetic component, the protocol is to screen first-degree relatives. She has already filed two requests. Athena's screening was done by her university health service — clear. *Athena does not have it.* The first thing in this conversation that has been good news.
 
-10. **The Artemis problem.** The second request, for Artemis at Odysseus Station, has been filed but the comms situation is making it complicated. *"The signal to Odysseus has been bad lately. We've sent the request through their station medical office. If they receive it, they'll run the scans on their equipment and send results back. But..."* She trails off. Both of them know.
+10. **The Artemis problem.** The second request, for Artemis at Metis Station, has been filed but the comms situation is making it complicated. *"The signal to Odysseus has been bad lately. We've sent the request through their station medical office. If they receive it, they'll run the scans on their equipment and send results back. But..."* She trails off. Both of them know.
 
 11. **The HUD blow.** Almost as a footnote — but devastating in its own register — the doctor mentions the HUD. Military equipment. Since he is being discharged, the device will be deactivated remotely. *"The hardware stays in your head. We can remove it surgically later if you choose, but most people just leave it. With deactivation, it becomes inert."* Jace watches the overlay go dark in real time during the meeting. He says nothing. Says "copy" when she asks if he understands.
 

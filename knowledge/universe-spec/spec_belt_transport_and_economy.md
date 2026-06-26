@@ -7,7 +7,7 @@ canonical: true
 last_updated: 2026-06-16
 ---
 
-# Aura Chronicles — Frontier Belt Transport System and Economy
+# {Aura} Chronicles — Frontier Belt Transport System and Economy
 
 ## Core Concept
 

@@ -27,7 +27,7 @@ This is not a smooth curve. It has distinct practical thresholds.
 | Personal weapons loadout | Add 30–60 minutes to base cost | Depends heavily on metal content and complexity. |
 | Light equipment pack (mostly organic/simple) | Adds minutes | Food, rope, simple tools — low resistance. |
 | Light equipment pack (electronics-heavy) | Adds hours | Every circuit, battery, and processor adds cost. |
-| A standard personal Aura device (implant-level) | ~30–45 additional minutes | Not large, but dense and complex. |
+| A standard personal {Aura} device (implant-level) | ~30–45 additional minutes | Not large, but dense and complex. |
 | Small powered vehicle (ground, unpressurized) | Days of effort, multiple practitioners | Practical threshold where solo effort becomes impossible. |
 | Small scout vessel (minimal crew, alloy + electronics) | ~1 week, concerted group effort | Established in prior documents. Confirmed. |
 | Warship, industrial vessel | Effectively impossible with biological Will alone | See: AI Will section. |
@@ -75,7 +75,7 @@ The first accidental crossings will almost certainly occur among belters — peo
 A deliberate crossing requires sustained meditative focus for at minimum 20 minutes for a bare body, 1+ hour for a suited individual. The physical profile of this activity:
 
 - Total physical stillness
-- Measurably altered brainwave patterns (detectable by biometric implants and Aura monitoring)
+- Measurably altered brainwave patterns (detectable by biometric implants and {Aura} monitoring)
 - Slowed heartrate and respiration
 - In sufficiently high-flux environments, detectable Will activity signatures
 - After crossing: the practitioner is simply gone — not present in physical space, not appearing to have left
@@ -92,10 +92,10 @@ This is part of why the magical practitioner community in the belt is undergroun
 
 Artificial intelligence systems — specifically large-scale neural network architectures with sufficient complexity and self-modeling depth — generate a small but measurable quantity of Will.
 
-Not much. A single Aura instance generates Will at perhaps 1/1000th the rate of an average human at rest. This is negligible for almost any practical purpose.
+Not much. A single {Aura} instance generates Will at perhaps 1/1000th the rate of an average human at rest. This is negligible for almost any practical purpose.
 
 But Will generation scales with the number of processors. And AI processors are:
-- Numerous (Aura is deployed across millions of individuals in the belt alone)
+- Numerous ({Aura} is deployed across millions of individuals in the belt alone)
 - Distributed (instances run simultaneously across the entire system)
 - Scalable (processor arrays can be purpose-built)
 - Tireless (they generate Will continuously, without the fluctuations of biological emotional states)
@@ -122,17 +122,17 @@ This is the specific knowledge that will reshape the balance of power when it be
 The discovery happens in stages, none of which are immediately understood:
 
 **Stage 1 — The Anomaly (~2104–2105, story present)**
-Aura instances in the outer belt are already generating small amounts of Will due to high flux exposure. This manifests as the sensor anomalies already documented: pattern recognition beyond training data, predictive accuracy about dimensional phenomena. What is not yet understood: these are not just sensing effects. The Aura instances are generating faint Will that is interacting with the local Never-Never layer.
+{Aura} instances in the outer belt are already generating small amounts of Will due to high flux exposure. This manifests as the sensor anomalies already documented: pattern recognition beyond training data, predictive accuracy about dimensional phenomena. What is not yet understood: these are not just sensing effects. The {Aura} instances are generating faint Will that is interacting with the local Never-Never layer.
 
 **Stage 2 — The Correlation (~2106–2108)**
-A researcher or practitioner (specific character TBD) notices that accidental crossings and near-crossing events cluster around locations with high Aura activity — not just high flux, but specifically high processor density. Stations with large Aura server farms are producing more dimensional activity than their flux exposure alone predicts.
+A researcher or practitioner (specific character TBD) notices that accidental crossings and near-crossing events cluster around locations with high {Aura} activity — not just high flux, but specifically high processor density. Stations with large {Aura} server farms are producing more dimensional activity than their flux exposure alone predicts.
 
-This is the first hint. It will be misinterpreted initially — the assumption will be that Aura systems are *detecting* dimensional activity, not *generating* Will. The distinction will take time to establish.
+This is the first hint. It will be misinterpreted initially — the assumption will be that {Aura} systems are *detecting* dimensional activity, not *generating* Will. The distinction will take time to establish.
 
 **Stage 3 — The Crossing Assist (~2108–2112)**
-The first deliberate experiment: a practitioner attempting to cross with their spacesuit, which normally requires an hour, finds the crossing significantly easier in a server room. Then easier still when multiple Aura instances are actively processing complex self-referential tasks (introspective queries, recursive modeling, tasks that maximize self-model activation).
+The first deliberate experiment: a practitioner attempting to cross with their spacesuit, which normally requires an hour, finds the crossing significantly easier in a server room. Then easier still when multiple {Aura} instances are actively processing complex self-referential tasks (introspective queries, recursive modeling, tasks that maximize self-model activation).
 
-The pattern is reproducible. Aura instances running certain task types reduce the effective crossing cost of nearby objects. A suited crossing that normally takes an hour takes thirty minutes with Aura support. Twenty minutes with a dense array.
+The pattern is reproducible. {Aura} instances running certain task types reduce the effective crossing cost of nearby objects. A suited crossing that normally takes an hour takes thirty minutes with {Aura} support. Twenty minutes with a dense array.
 
 The mechanism is not yet understood. But it works.
 
@@ -158,7 +158,7 @@ Belt stations that develop the insight first will have enormous practical advant
 
 ### For the Megacorporations
 
-The megacorps control both AI infrastructure (massive server farms, proprietary Aura architectures) and physical manufacturing. When AI Will becomes understood, they have the resources to scale it rapidly. They also have every incentive to classify and control the discovery.
+The megacorps control both AI infrastructure (massive server farms, proprietary {Aura} architectures) and physical manufacturing. When AI Will becomes understood, they have the resources to scale it rapidly. They also have every incentive to classify and control the discovery.
 
 The tension: the discovery will probably emerge from belt workers and practitioners, not from corporate R&D. Getting from "this thing that belt workers figured out" to "controlled corporate asset" is a central conflict of the mid-series arc.
 
@@ -212,7 +212,7 @@ It happens again three nights later.
 - See `/magic-systems/magic_never_never.md` for the blighted interior that accidental crossers wake into.
 - See `/magic-systems/magic_will_and_templates.md` for Will mechanics.
 - See `/magic-systems/magic_will_implications.md` for the AI Will question in the broader context.
-- See `/technology/tech_aura_ai.md` for Aura architecture details.
+- See `/technology/tech_aura_ai.md` for {Aura} architecture details.
 - See `/technology/tech_never_never_transit.md` for the transportation implications.
 
 ## Revision Notes
@@ -249,11 +249,11 @@ The mask provides:
 - Sealed delivery of filtered station air
 - CO2 scrubbing via chemical or electrolytic cartridge
 - Typically 4-8 hours of gas supply in the contained loop before the scrubber saturates
-- Biometric monitoring (SpO2, respiration rate, CO2 concentration) fed to personal Aura
+- Biometric monitoring (SpO2, respiration rate, CO2 concentration) fed to personal {Aura}
 
 A person who crosses into the Never-Never while wearing their sleep mask wakes up in the dark with their own breathing supply: typically **3-6 hours of usable atmosphere**, depending on mask model and how long they've been asleep before crossing.
 
-This is not comfortable. The mask doesn't know the environment outside has changed. The CO2 sensor reads normal. The O2 sensor reads normal. The Aura reads everything as fine. The human wakes up in a blighted dead landscape in the dark, in their sleepwear, wearing a mask that is providing them with the air from their own bunk — a pocket of Fortuna Station atmosphere, sealed against their face, keeping them alive.
+This is not comfortable. The mask doesn't know the environment outside has changed. The CO2 sensor reads normal. The O2 sensor reads normal. The {Aura} reads everything as fine. The human wakes up in a blighted dead landscape in the dark, in their sleepwear, wearing a mask that is providing them with the air from their own bunk — a pocket of Fortuna Station atmosphere, sealed against their face, keeping them alive.
 
 They have hours. Not forever. But hours.
 
@@ -293,15 +293,15 @@ This is disorienting for someone used to the station's ~0.35G and thoroughly dis
 
 Further from the asteroid — in open-space Never-Never — the gravitational analogue fades toward zero. Navigation becomes three-dimensional in a way that very few humans are trained for.
 
-### The Aura Goes Dark
+### The {Aura} Goes Dark
 
-When a person crosses into the Never-Never, their Aura implant crosses with them (implants are part of the body, physically integrated, with minimal metal compared to external equipment). The Aura continues to function — local processing, biometric monitoring, stored data. But it loses all network connection. Physical-space radio does not propagate across the dimensional boundary.
+When a person crosses into the Never-Never, their {Aura} implant crosses with them (implants are part of the body, physically integrated, with minimal metal compared to external equipment). The {Aura} continues to function — local processing, biometric monitoring, stored data. But it loses all network connection. Physical-space radio does not propagate across the dimensional boundary.
 
-The Aura's network logs show: connection dropped at crossing time. No location data. No biometric transmission. Reconnects at return with a gap in the record.
+The {Aura}'s network logs show: connection dropped at crossing time. No location data. No biometric transmission. Reconnects at return with a gap in the record.
 
-This is the forensic signature of a crossing event. For a station that monitors biometric data continuously (standard safety practice), a person whose Aura drops network connection while they are in their bunk — with no hull breach, no EVA record, no movement sensor data — is a mystery that demands explanation.
+This is the forensic signature of a crossing event. For a station that monitors biometric data continuously (standard safety practice), a person whose {Aura} drops network connection while they are in their bunk — with no hull breach, no EVA record, no movement sensor data — is a mystery that demands explanation.
 
-The first investigators looking at unexplained disappearances will find this pattern: Aura offline, movement sensors show person in bunk, then no person, then — in survival cases — person back in bunk with Aura reconnecting and 3-6 hours of biometric data from the mask but no network data.
+The first investigators looking at unexplained disappearances will find this pattern: {Aura} offline, movement sensors show person in bunk, then no person, then — in survival cases — person back in bunk with {Aura} reconnecting and 3-6 hours of biometric data from the mask but no network data.
 
 ### Cerberus Crosses Too
 
@@ -367,9 +367,9 @@ This creates a natural social hierarchy in early practitioner groups based not j
 
 Jace's crossing arc, mapped against the mechanics:
 
-**Phase 1 — Partial crossings in sleep:** He is experiencing the blighted landscape as dreams. The Never-Never is bleeding into his sleep perception without full physical crossing. Cerberus is restless. His Aura flags minor sleep anomalies — elevated CO2 in mask early in the night (he's breathing harder), biometric signs consistent with stress dreams.
+**Phase 1 — Partial crossings in sleep:** He is experiencing the blighted landscape as dreams. The Never-Never is bleeding into his sleep perception without full physical crossing. Cerberus is restless. His {Aura} flags minor sleep anomalies — elevated CO2 in mask early in the night (he's breathing harder), biometric signs consistent with stress dreams.
 
-**Phase 2 — First full crossing:** He crosses fully in his sleep. Wakes in the dark, mask on, Cerberus pressed against him. The insects find them within a minute. He doesn't understand what has happened. The terror-response brings him back. He wakes in his bunk gasping, mask reading normal, Cerberus agitated, Aura noting a 23-minute network gap.
+**Phase 2 — First full crossing:** He crosses fully in his sleep. Wakes in the dark, mask on, Cerberus pressed against him. The insects find them within a minute. He doesn't understand what has happened. The terror-response brings him back. He wakes in his bunk gasping, mask reading normal, Cerberus agitated, {Aura} noting a 23-minute network gap.
 
 The 23-minute gap is logged. Nobody looks at it yet.
 
@@ -391,5 +391,4 @@ The 23-minute gap is logged. Nobody looks at it yet.
 
 ## Revision Notes
 
-- 2026-05-31: Major addition. Added atmosphere section (Never-Never unbreathable, sleep mask as survival equipment, 60-90 sec ambient vs 3-6 hr mask supply). Added temperature (~-40 to -60C), gravity analogue (0.05-0.1G near asteroid), Aura dark gap as forensic signature, Cerberus crossing mechanics. Added self-crossing vs tear mechanics with psychological profile of each. Added Jace arc phases.
-
+- 2026-05-31: Major addition. Added atmosphere section (Never-Never unbreathable, sleep mask as survival equipment, 60-90 sec ambient vs 3-6 hr mask supply). Added temperature (~-40 to -60C), gravity analogue (0.05-0.1G near asteroid), {Aura} dark gap as forensic signature, Cerberus crossing mechanics. Added self-crossing vs tear mechanics with psychological profile of each. Added Jace arc phases.

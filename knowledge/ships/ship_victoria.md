@@ -28,7 +28,7 @@ notable_equipment:
   - Anomalous radiation signature detection (Vela Junior remnant speciality)
   - Full physics laboratory and sample analysis equipment
   - Long-range sensor package
-  - Aura-networked instrument suite
+  - {Aura}-networked instrument suite
 
 # Story Function
 role: Sophia's home base; site of her initial flux research; the vessel she crosses from during early Astral expeditions

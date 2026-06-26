@@ -42,11 +42,11 @@ Her disappearance lands hard. She was beautiful, warm, and visibly woven into st
 
 ## What the Investigation Finds (Physical-Space Facts)
 
-This is the forensic signature of an accidental crossing, presented to the characters as an impossibility (see the "Aura goes dark" section of [[spec_crossing_mechanics]]):
+This is the forensic signature of an accidental crossing, presented to the characters as an impossibility (see the "{Aura} goes dark" section of [[spec_crossing_mechanics]]):
 
 - Her pod was **never opened** after she retired for the night. Hatch logs show her entering; nothing shows her leaving.
 - **No hull breach, no EVA record, no movement-sensor track** leaving the pod.
-- Her personal **Aura device connected to the network as normal, then stopped transmitting at ~01:00 local** — abruptly, mid-record, with no fault code. After that: nothing. No location, no biometrics, no reconnection.
+- Her personal **{Aura} device connected to the network as normal, then stopped transmitting at ~01:00 local** — abruptly, mid-record, with no fault code. After that: nothing. No location, no biometrics, no reconnection.
 - No video or data evidence of another person present. No struggle. No mess.
 - Multiple casual partners exist; all are interviewed; all are cleared by the simple fact that **no one entered or left the pod.**
 
@@ -58,7 +58,7 @@ Helena wore her CO2-scrubbing rebreather mask (which is normal safety gear for s
 
 "Without breathing gear" refers to her lack of specialized Never-Never survival equipment (thermal suits, navigation arrays, etc.), not her sleep mask. The exact cause of her death post-crossing remains open: she either eventually suffocated once her mask's air expired or fell victim to an attack by Astral fauna.
 
-Either way, the physical-space evidence is identical: empty pod, Aura flatlining at 01:00, no breach.
+Either way, the physical-space evidence is identical: empty pod, {Aura} flatlining at 01:00, no breach.
 
 ---
 
@@ -86,10 +86,10 @@ Helena appears mostly through other people's accounts: her students, her partner
 
 ## Cross-References
 
-- See [[spec_crossing_mechanics]] (accidental sleep-crossing; the empty-bunk disappearance; the Aura-dark forensic signature; the sleep-mask survival window)
+- See [[spec_crossing_mechanics]] (accidental sleep-crossing; the empty-bunk disappearance; the {Aura}-dark forensic signature; the sleep-mask survival window)
 - See [[spec_astral_phenomenology]] (-20°C near Fortuna; the cold that kills first-crossers)
 - See [[char_suzi]] (the investigating station police chief)
-- See [[char_nick_lee]] (the Aura-network flatline clue)
+- See [[char_nick_lee]] (the {Aura}-network flatline clue)
 - See [[location_fortuna_station]] (the disappearance as a station event)
 
 ## Revision Notes

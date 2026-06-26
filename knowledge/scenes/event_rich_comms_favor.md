@@ -35,7 +35,7 @@ After Jace is discharged for the bone disease and stripped of his HUD and milita
 ## Open Questions / TBD
 
 - **What specifically is the favor?** Possibilities to choose from or combine:
-  1. Rich verifies whether Jace's outgoing messages to Artemis (sister at Odysseus Station) are actually being delivered, or being filtered/dropped — and confirms quietly that something is wrong with the comms pipe to Odysseus
+  1. Rich verifies whether Jace's outgoing messages to Artemis (sister at Metis Station) are actually being delivered, or being filtered/dropped — and confirms quietly that something is wrong with the comms pipe to Odysseus
   2. Rich helps Jace get one priority message through to family on Earth using base infrastructure (formally improper but not disastrous)
   3. Rich pulls a copy of Jace's own HUD personal-data archive before it's purged, so Jace at least has his memories/logs
   4. Rich runs a back-channel diagnostic on Jace's comms attempts and tells Jace exactly which of his messages are actually arriving where

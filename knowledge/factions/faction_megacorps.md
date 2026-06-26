@@ -40,7 +40,7 @@ Successor to Russian state space programs and several oligarch-owned firms. Smal
 European multinational with strong national-government participation. Strong in research, science, and high-precision manufacturing. Less aggressive than its peers; more politically embedded.
 
 ### Specialty / Niche Players
-A long tail of smaller corporations specializing in narrower domains — Aura development and licensing (multiple firms), cybernetic implants (medical-tech specialists), specific mining technologies, agricultural systems, niche logistics. Some of these may become major story players.
+A long tail of smaller corporations specializing in narrower domains — {Aura} development and licensing (multiple firms), cybernetic implants (medical-tech specialists), specific mining technologies, agricultural systems, niche logistics. Some of these may become major story players.
 
 ## How the Corporations Operate
 
