@@ -1,3 +1,4 @@
+---
 id: faction_long_sovereignties
 name: The Long Sovereignties
 aliases:
@@ -6,7 +7,7 @@ aliases:
   - sometimes confused with Typhon-spawn (Greek; associated with catastrophe)
 type: faction_outsider_species
 status: background_arc3
-last_updated: 2026-06-21
+last_updated: 2026-06-26
 description: >
   Serpentine atmospheric and plasma-adapted sophonts. Imperial navigators whose courts
   rule storm basins, gas-giant layers, charged Astral corridors, and ancient route systems.

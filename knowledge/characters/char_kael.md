@@ -66,8 +66,8 @@ character_arc: >
   to protect humanity over reporting requirements → death fighting for humanity → captured
   and used as leverage → off-system prisoner entering Arc 3
 themes_embodied: [the cost of choosing conscience over institution, what it means to be "civilized" vs. alive, the moment a soldier stops following orders]
-
-last_updated: 2026-06-21
+description: "Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice."
+last_updated: 2026-06-26
 ---
 
 # Kael

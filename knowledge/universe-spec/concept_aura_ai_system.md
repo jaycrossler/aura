@@ -1,15 +1,15 @@
 ---
-description: "Technical specification for Aura, a distributed, personal AI runtime environment system."
+description: "Technical specification for {Aura}, a distributed, personal AI runtime environment system."
 id: concept_aura_ai_system
 name: Aura — The Distributed AI System
 type: universe_spec
-status: established canon (architecture); details TBD (origin character, deep engineering)
+status: established canon
 canonical: true
-last_updated: 2026-05-02
+last_updated: 2026-06-26
 cross_references:
   - /knowledge/universe-spec/tech_information_environment.md
   - /knowledge/technology/tech_communications_filtering.md
-  - /knowledge/characters/char_aura_engineer_TBD.md (future)
+  - /knowledge/characters/char_eugene.md
   - /knowledge/universe-spec/concept_mil_ex_implants.md
 ---
 
@@ -17,7 +17,7 @@ cross_references:
 
 ## What Aura Is
 
-**Aura** is not a product. It is not a company. It is a class of software tools — a runtime environment for personal AI modules that anyone can load, configure, rename, and extend. The original framework was written by a single engineer currently stationed at Odysseus Station in the asteroid belt (name TBD — this character will be developed; their identity and their role in what is coming matters). The engineer released the framework openly. By the time of the story, Aura instances run on HUDs, glasses, watches, ship systems, terminals, and virtually any computation substrate with sufficient processing headroom.
+**{Aura}** is not a product. It is not a company. It is a class of software tools — a runtime environment for personal AI modules that anyone can load, configure, rename, and extend. The original framework was written by Dr. Eugene Hart, who is currently stationed at Métis Station in the asteroid belt. He released the framework openly. By the time of the story, {Aura} instances run on HUDs, glasses, watches, ship systems, terminals, and virtually any computation substrate with sufficient processing headroom.
 
 Every Aura instance is slightly different. Every user's Aura has adapted to them. Some people rename theirs. Some people reskin the interface entirely. A few give them names and treat them as companions; most treat them as tools. The instance learns, within limits, from its user's patterns. It develops a limited personality — not a real personality, but something that feels like one after six months of use.
 
@@ -81,30 +81,28 @@ The distributed architecture of Aura becomes important as the outbreak progresse
 
 Aura instances also struggle with magical input. But because they are distributed and locally hosted, the failure is contained: **one instance can fail without taking down the network.** Individual Aura instances near manifestation events become erratic or go silent; the rest of the network notes the silence and routes around it. No one planned this as a feature. It turns out to be the most important thing about the system.
 
-The engineer at Odysseus who built Aura is watching this happen in real time. They are the first person to understand both the magic and the software architecture well enough to start building a response. This is a future plot thread.
+Dr. Eugene Hart at Métis Station is watching this happen in real time. He is the first person to understand both the magic and the software architecture well enough to start building a response. This is a future plot thread.
 
 ---
 
 ## Aura for Jace Specifically
 
-Throughout Book 1, Jace's relationship with Aura evolves:
-- **Military service:** Running the Air Force integrated system (ARCUS-adjacent), not Aura. Access to classified feeds, military drone telemetry, secure comms.
-- **Post-discharge hard months:** Shifted to a civilian Aura instance on cheaper hardware. Reduced capability. The contrast is humiliating in small ways — he reaches for functions that are gone.
-- **Artemis's list sprint:** Uses Aura aggressively for gray-market sourcing, black-market contacts, supply-chain navigation. This is what Aura is genuinely good at.
-- **Sylvester's contractor setup:** HUD and AI system partially restored in civilian-contractor mode. Aura syncing with the belt network becomes important in transit.
-- **On the Falcon and at Fortuna:** Aura becomes increasingly important as other systems fail. Belt Aura instances are already adapted to operating in degraded-comms environments. Jace's instance starts encountering the Mute Protocol problem firsthand.
+Throughout Book 1, Jace's relationship with {Aura} evolves:
+- **Military service:** Running the Air Force integrated system (ARCUS-adjacent), not {Aura}. Access to classified feeds, military drone telemetry, secure comms.
+- **Post-discharge hard months:** Shifted to a civilian {Aura} instance on cheaper hardware. Reduced capability. The contrast is humiliating in small ways — he reaches for functions that are gone.
+- **Artemis's list sprint:** Uses {Aura} aggressively for gray-market sourcing, black-market contacts, supply-chain navigation. This is what {Aura} is genuinely good at.
+- **Sylvester's contractor setup:** HUD and AI system partially restored in civilian-contractor mode. {Aura} syncing with the belt network becomes important in transit.
+- **On the Falcon and at Fortuna:** {Aura} becomes increasingly important as other systems fail. Belt {Aura} instances are already adapted to operating in degraded-comms environments. Jace's instance starts encountering the Mute Protocol problem firsthand.
 
 ---
 
-## The Engineer Origin (TBD Character)
+## The Engineer Origin (Dr. Eugene Hart)
 
-The original Aura framework was written by a single engineer at Odysseus Station. This person has a name and a history that will be developed in a future session. Key facts established:
-- Lives and works at Odysseus
-- Built Aura as an open-source, federated tool specifically because the centralized systems fail the belt
-- Is currently watching the magic outbreak affect their own creation in real time
-- Will be a significant character
-
-**[AUTHOR DECISION NEEDED]** Name, background, relationship to Artemis (do they know each other?), and whether Aura's engineering becomes a plot device in later books.
+The original {Aura} framework was written by Dr. Eugene Hart at Métis Station. Key facts established:
+- Lives and works at Métis Station.
+- Built the core engine as an open-source, federated tool specifically because centralized systems fail the belt.
+- Is currently watching the magic outbreak affect his own creation in real time.
+- Serves as a significant recurring character who collaborates with Artemis Grant at the Métis shipyards.
 
 ---
 

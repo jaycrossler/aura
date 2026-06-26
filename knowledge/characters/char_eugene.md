@@ -56,11 +56,13 @@ distinguishing_features: >
 # Story Function
 archetypes: [the inconvenient expert, the one who always comes through, the comedy recurring character who earns their weight]
 character_arc: >
-  Introduced as impediment → revealed as essential → improbably survives things he
-  should not survive → becomes an asset the team cannot function without → continues to
-  be difficult about it
+  Introduced as impediment → revealed as essential → demands evacuation and is refused
+  (Jace nearly punches him; he stays at Metis) → has the revelation that shipbuilding
+  is obsolete → improbably survives things he should not survive → becomes an asset
+  the team cannot function without → continues to be difficult about it
 themes_embodied: [expertise without social grace, the difference between knowing something and being able to explain it, the person nobody wants around who turns out to be the one you needed]
-last_updated: 2026-06-23
+description: "Character profile for Dr. Eugene Hart, the brilliant and loud original architect of the Aura core engine."
+last_updated: 2026-06-26
 ---
 
 # Eugene
@@ -117,6 +119,45 @@ He has been doing exactly what he was doing before the emergence: working on the
 
 He is not callous about the deaths. He attended the funerals. He helped move the bodies. He said, at the most recent funeral, something that was technically condolences and that no one in the room knew what to do with. He is not built for loss in any conventional way. He grieves by working harder and does not know this about himself.
 
+## The Evacuation Demand and the Revelation
+
+When Kael prepares to leave Metis with Artemis, Hart immediately declares that his
+survival takes priority over Artemis's medical evacuation. This is not sociopathy —
+he genuinely calculates that his knowledge and capabilities are a greater strategic
+asset, and he presents this as a logical argument at volume.
+
+Jace's response is brief and physical enough that only Kael's presence prevents it
+from escalating further. Kael's actual reason for refusing Hart is simpler than anyone
+realizes: she can carry one incapacitated person in Hyperspace; she has already made
+the calculation; the argument is over before it started; she does not explain herself.
+
+Hart stays at Metis.
+
+In the hours after the rescue team departs — after the ward is set, after he has
+watched two humans and a dimensional entity walk into a layer of reality that his
+shipyard exists specifically to avoid needing — he sits in the fabrication bay and
+does the math out loud to an empty room.
+
+He gets to his conclusion fast, because that is how he works.
+
+*"Walking between stars."* He says this twice. Once as a question. Once as a statement.
+
+He does not say: the shipyard is over. He says: the *problem* has changed. There is
+still mass to move. There will always be mass to move. The question of *how* has
+just become deeply interesting again in a way it hasn't been since he was twenty-two.
+
+He starts a new document in his notes. The title, in his notation, is: `WHAT IS A 
+SHIP FOR (REVISED)`.
+
+He is rude about this to everyone who asks. He is also correct, and he knows it, and
+they will catch up eventually.
+
+The Nick rivalry gets a new dimension here: Nick built infrastructure for a transportation
+network that is now being circumvented at the fundamental level. Hart's core engine is
+the thing that will matter going forward. He does not say this to Nick because he
+does not say kind things to Nick. He begins modifying the core engine for Will-transit
+optimization anyway.
+
 ## The Nick Dynamic
 
 The comedy of the Eugene-Nick relationship is that it is entirely asymmetrical.
@@ -153,10 +194,19 @@ Jace generates this quality of attention from Eugene at Metis. Eugene finds Jace
 
 ## Open Questions
 
-- Surname (to develop alongside his character)
-- His history before Metis — what he was doing before and why he ended up at the farthest station
-- Whether he is developing magical abilities and whether he has noticed
-- His relationship with Artemis — she has been at Metis during the siege and knows how to work with him; this is a skill not everyone has
+- His history before Metis — what he was doing before and why he ended up here
+- Whether he is developing magical abilities — high likelihood given Metis's flux
+  level; he may have noticed and filed it as a data point; he has almost certainly
+  not mentioned it
+- How Kael's departure affected him beyond the professional recalibration — he watched
+  a practitioner demonstrate what three centuries of training looks like; he now has
+  a performance benchmark he cannot stop thinking about
+- When and how the Falcon reaches Metis to evacuate/resupply the station; this is
+  the point at which he comes to Fortuna (Arc 3 or later)
+- Whether `WHAT IS A SHIP FOR (REVISED)` produces anything publishable or useful
+  before he can communicate it properly
+- What specifically he is modifying in the core engine for Will-transit optimization,
+  and whether Nick's implementation can absorb the changes
 
 ## Cross-References
 
@@ -166,10 +216,21 @@ Jace generates this quality of attention from Eugene at Metis. Eugene finds Jace
 - `char_sophia_lotte` — the physicist who can translate between his framework and standard physics
 - `concept_aura_ai_system` — the engine he built is the core of what Nick distributes
 - `spec_crossing_mechanics` — his theoretical framework for AI Will is the missing piece in the AI Will discovery arc
-- `location_metis_station` — his base; he survives the siege
+- `location_metis_station.md` — his base; he stays here after the Arc 2 rescue; not
+  at Fortuna until the Falcon evacuates Metis crew (Arc 3 or later)
+- `arc_02_woven_and_unbound.md` — the evacuation demand scene; stays at Metis
+- `arc_03_the_return_and_the_trap.md` — at Metis during Arc 3; comms contact only;
+  the Falcon rescue is an Arc 3+ event
 
 ## Revision Notes
 
 - 2026-06-21: Initial draft. Character concept established from author sessions: Aura core architect, Option A of the Nick conflict resolution, Eugene always shrugs off Nick's work as inconsequential, never remembers Nick's name correctly, large and belligerent and always comes through. Inspired by Eugene Porter (The Walking Dead). Odysseus role and survival tendency established.
 - 2026-06-23: Patch created. All Odysseus Station references updated to Métis Station.
   Context note added from session canon.
+- 2026-06-26: Canon correction. Eugene stays at Metis after Arc 2 rescue — does not
+  travel to Fortuna with Kael/Jace/Artemis. Evacuation demand scene added (he demanded
+  priority; Jace nearly punched him; Kael refused; he stays). Shipbuilding obsolescence
+  revelation added as a major character beat: he recognizes immediately that dimensional
+  travel changes what a ship is for; begins WHAT IS A SHIP FOR (REVISED); starts
+  modifying core engine for Will-transit optimization. Open Questions updated.
+  Cross-References updated with location note.

@@ -1,3 +1,12 @@
+---
+id: readme
+name: StoryOps — The Aura Chronicles
+type: readme
+status: canonical
+description: "Main repository documentation and directory list for the Aura Chronicles project knowledge base."
+last_updated: 2026-06-26
+---
+
 # StoryOps — The Aura Chronicles
 
 A working repository for a hard sci-fi novel series set in the late 21st–early 22nd century,
@@ -129,11 +138,11 @@ on the *Falcon* as a civilian contractor with a secret intelligence arrangement.
 _None yet._
 
 ### Templates
-- [[Concept Name]](templates/concept-template.md)
-- [[Faction Name]](templates/faction-template.md)
-- [[Location Name]](templates/location-template.md)
-- [[Magic System Name]](templates/magic-system-template.md)
-- [[Technology Name]](templates/technology-template.md)
+- [Concept Template](templates/concept-template.md)
+- [Faction Template](templates/faction-template.md)
+- [Location Template](templates/location-template.md)
+- [Magic System Template](templates/magic-system-template.md)
+- [Technology Template](templates/technology-template.md)
 
 ### Review Queue
 - [[session_notes_2026-05-02|Session Notes — 2026-05-02 (Voice Session, Rich + Early Scenes + Cerberus + Hard Months)]]
@@ -160,8 +169,10 @@ _None yet._
 - **`[STORYBOT]`** or **`[STORYBOT: ...]`** — Explicit invitation for the generation
   pipeline to extrapolate consistently with established canon. Never auto-resolves to canon.
 - **`[TBD]`** in YAML values — Author has not yet decided; pipeline should treat as unknown.
-- YAML frontmatter (`---` blocks) — Machine-readable metadata for every KB file.
-  Standard fields: `id`, `name`, `type`, `status`, `canonical`, `last_updated`.
+- **YAML frontmatter (`---` blocks)** — Machine-readable metadata for every KB file. Standard fields: `id`, `name`, `type`, `status`, `canonical`, `description`, `last_updated`.
+  * **Rule:** A `description` field should always be added to the frontmatter of every markdown file.
+  * **Rule:** Story and arc goals should be verified against the active story specifications.
+  * **Rule:** `build_tree.py` must be run after making edits to regenerate the directory tree `_index.md`.
 
 ---
 

@@ -183,6 +183,9 @@ When asked to review a scene or chapter against arc contracts:
 - Do not add `[Skill]` brackets to magic abilities in prose drafts set before Jace
   establishes the bracket convention in-story (Arc 2, during the Metis teaching scenes).
   In KB spec files and character sheets, brackets are always permitted.
+- Never edit or create a markdown file in the knowledge base without ensuring it has a descriptive `description` field in its YAML frontmatter.
+- Verify story and arc goals against active story specifications.
+- Always run `build_tree.py` after editing or creating files to keep `_index.md` updated.
 
 ## Session Start Behavior
 

@@ -5,7 +5,8 @@ type: magic_system
 subtype: progression_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-06-25
+description: "Reference guide for the magic skills framework, defining the bracketed [Skill] system, skill trees, and Sol human progression."
+last_updated: 2026-06-26
 cross_references:
   - magic-systems/magic_will_orbs.md
   - magic-systems/magic_will_and_templates.md

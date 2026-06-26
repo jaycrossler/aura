@@ -49,7 +49,8 @@ distinguishing_features: >
   like Kai is moving through positions rather than between them. Humans find this
   unsettling until they are used to it, which takes longer than they expect.
 
-last_updated: 2026-06-21
+description: "Character profile for Kai, a Woven scout familiar who is Will-bonded to Kael and possesses unique Astral perception capabilities."
+last_updated: 2026-06-26
 ---
 
 # Kai

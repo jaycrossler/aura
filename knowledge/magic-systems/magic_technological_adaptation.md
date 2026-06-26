@@ -4,9 +4,9 @@ id: magic_technological_adaptation
 name: Technological Adaptation to the Outbreak — The Static Problem
 type: magic_system
 subtype: practical_response
-status: draft — Fortuna/Odysseus context; broader applicability TBD
+status: established canon
 canonical: true
-last_updated: 2026-05-02
+last_updated: 2026-06-26
 environment: asteroid belt stations; gradually Mars
 cross_references:
   - /knowledge/magic-systems/magic_overview.md
@@ -27,7 +27,7 @@ This document tracks the progression of that adaptation at belt stations, primar
 
 ## Phase 0: The Blind Spot
 
-The earliest phase of Static effects, coinciding with the first anomalies at Odysseus and Fortuna.
+The earliest phase of Static effects, coinciding with the first anomalies at Métis and Fortuna.
 
 ### Aura Interpretation Error
 Personal AI instances (Aura and others) began reporting **Sensor Ghosting** and **Hardware Latency** — terms that already existed in the diagnostic vocabulary but now applied to a fundamentally different cause. An Aura instance would report an airlock sealed while the user's eyes saw a shimmering distortion stretching the metal like heated glass. The Aura was not wrong that the airlock was sealed by its sensor data. The sensor data was wrong.
@@ -44,7 +44,7 @@ Early operator response was simply to restart affected Aura instances or reboot 
 
 ## Phase 1: The Mute Protocol
 
-**Developed at Fortuna, approximately Month 7 of the outbreak. Credited to the TBD engineer (Odysseus) via Aura module sync.**
+**Developed at Fortuna, approximately Month 7 of the outbreak. Credited to Dr. Eugene Hart (Métis Station) via {Aura} module sync.**
 
 The breakthrough insight: **don't try to reconcile the anomalous data. Selectively disable the affected sensor input.**
 

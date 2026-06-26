@@ -4,7 +4,8 @@ name: Character Progression Sheets — System and Conventions
 type: kb_system
 status: canonical
 canonical: true
-last_updated: 2026-06-25
+description: "System documentation defining conventions and templates for character progression sheets (snapshots of states at story checkpoints)."
+last_updated: 2026-06-26
 cross_references:
   - magic-systems/magic_skills_framework.md
   - magic-systems/magic_will_orbs.md
