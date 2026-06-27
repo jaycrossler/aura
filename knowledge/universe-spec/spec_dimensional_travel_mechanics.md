@@ -63,8 +63,6 @@ asteroid belt and beyond). Distance compresses at **distance-cubed**.
 - Dramatically more dangerous than the Astral: worse fauna, more extreme geometry,
   higher atomic tension over distance
 - Fortuna → Metis: ~80 million km physical; **~450 km Hyperspace**
-- Kael's hoverboard lives permanently in Hyperspace — pulling it to the Astral would
-  take many hours of Will expenditure
 
 **Distance table:**
 
@@ -203,8 +201,10 @@ The voids between stars are valleys. The ancient roads follow the ridgelines and
 the optimal paths through this terrain that pre-Scar navigators mapped over millennia.
 
 Vehicles traverse Hyperspace terrain the way boats traverse water — the substrate
-provides purchase and resistance, not conventional gravity. Kael's hoverboard rides
-against the substrate. Jace's engineered vehicles will eventually do the same.
+provides purchase and resistance, not conventional gravity.   Kael rides Kai against
+the substrate — Kai's wings work as propulsion surfaces in
+both the Astral and Hyperspace, providing movement force while Kael navigates.
+Jace's engineered vehicles will eventually do the same.
 
 **Losing frame anchoring in Hyperspace:** In the Astral, gravity wells provide a
 reference frame (see Section 4). In Hyperspace, that anchor is gone. Navigators must

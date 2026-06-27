@@ -5,7 +5,7 @@ type: series_bible
 status: canonical
 last_updated: 2026-06-26
 description: >
-  Series-level creative constitution for The {Aura} Chronicles. Covers the core progression
+  Series-level creative constitution for The Aura Chronicles. Covers the core progression
   model, magic design principles, narrative laws, tonal laws, the nomenclature thread,
   and things to avoid across all 10–20 books. This document is the highest-level creative
   authority; arc files are legislation that interprets it; the universe-spec files are the
@@ -18,7 +18,7 @@ cross_references:
   - factions/faction_galactic_species_index.md
 ---
 
-# The {Aura} Chronicles — Series Bible
+# The Aura Chronicles — Series Bible
 
 This document is the creative constitution of the series. Arc files and scene contracts
 are legislation — they interpret and apply what is here. Universe-spec files are the
@@ -259,7 +259,7 @@ decisions in prose drafts.
 
 **In-universe AI names always use curly braces:** `{Alex}`, `{SpoX}`, `{Gem}`,
 `{Chorus}`, `{Penny}`, `{Seek}`, `{Misty}`, `{Aura}`. No exceptions in any prose,
-dialogue, or KB document. The brace drop for `{Aura}` → `{Aura}` is a late-series
+dialogue, or KB document. The brace drop for `{Aura}` → `Aura` is a late-series
 deliberate signal of transformation; it is not yet implemented.
 
 **The bracket convention belongs to Jace's POV.** `[Skill]` notation does not appear
@@ -348,7 +348,7 @@ in an individual arc file without flagging the series-level implications here.
   officially adopted outside the belt? Who resists and why?
 - AI Will's strategic implications: when does galactic civilization discover humanity's
   AI advantage, and what is their first response?
-- The {Aura} transformation arc: the brace drop from `{Aura}` → `{Aura}` is a late-series
+- The {Aura} transformation arc: the brace drop from `{Aura}` → `Aura` is a late-series
   signal. What event triggers it? What does it mean narratively?
 - Template stabilization policy: when does this become a civilizational crisis for
   humanity rather than an individual decision?

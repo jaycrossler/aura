@@ -11,213 +11,309 @@ pronouns: she/her
 date_of_birth: approximately 1800 CE equivalent (300 years old at story present)
 date_of_death: Arc 2 (first death — regenerates via Template vault; second death permanent — TBD)
 birthplace: Her civilization's home system (location TBD — Arc 3 material)
-
-# Status
 status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system
 first_appearance: Arc 1 close / Arc 2 open — Fortuna Station swarm attack
 last_appearance: Arc 2 close — in transit off-system as Bloom prisoner
-pov_character: false (Jace remains primary POV; Kael's interiority shown through behavior and partial translation)
-
-# Affiliations
-factions: [faction_outsider_scouts (Kael's civilization — the Woven)]
-loyalties: [her civilization (increasingly conflicted), Kai (her familiar), eventually Jace and the Fortuna crew]
-former_affiliations: [standard scout protocol — observing, classifying, reporting]
-
-# Relationships
-allies: [char_jace_apollo (primary human contact), char_sophia_lotte, char_sister_artemis (Odysseus)]
-companions: [char_kai (dragon-familiar, Will-bonded)]
-animal_bonds: [char_kai (lifelong bond), char_dog_cerberus (bond-adjacent through Kai)]
-rivals: [faction_the_bloom (rival outsider scouts — antagonists)]
-romantic: TBD
-
-# Capabilities
-magic_user: true — advanced; 300 years of precision training
-magical_tradition: Woven scout tradition — survival, classification, communication, dominance
-magic_proficiency: expert; among the most skilled practitioners Jace will encounter in Arc 2
-notable_skills:
-  - Precision Will manipulation (centuries of refinement)
-  - Astral transit and navigation (expert; crosses with trivial cost)
-  - Environmental Will use — fire, force, light in vacuum
-  - Template perception (reads beings and objects for Will-density and history)
-  - Social compulsion (standard use; fails on humans due to cognitive Template hardening)
-  - Old Greek (pre-Scar variant, evolved over 3000 years — partially legible to {Aura})
-languages_spoken: [Woven (her civilization's evolved Greek-descended language), pre-Scar Greek fragments]
-
-# Physical
-appearance_summary: >
-  Tall, dark-skinned, very strong. Moves with the total economy of someone who has spent
-  centuries in environments where imprecision is fatal. Shares the bearing of pre-Scar
-  Mediterranean human stock but three thousand years of Will-Network integration has
-  produced subtle wrongness — too still, proportions slightly off, reactions lagging a
-  half-beat because she is running Astral-layer awareness in parallel at all times.
-  She does not blink at the rate humans expect.
-distinguishing_features: >
-  The stillness. Humans register it before they can name it. Also: when she uses Will,
-  she does not gesture, brace, or visibly prepare. It simply happens. The gap between
-  intention and effect is zero in a way that trained human practitioners will find
-  deeply humbling.
-height: Tall — above the 95th percentile for human women
-build: Very strong. The Will-Network body that has had three centuries to optimize.
-
-# Story Function
-archetypes: [the alien ally, the protocol-breaker, the first bridge, the one who chooses wrong side of history]
-character_arc: >
-  Scout following standard protocol → protocol violated by first contact → active choice
-  to protect humanity over reporting requirements → death fighting for humanity → captured
-  and used as leverage → off-system prisoner entering Arc 3
-themes_embodied: [the cost of choosing conscience over institution, what it means to be "civilized" vs. alive, the moment a soldier stops following orders]
-description: "Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice."
+pov_character: false
 last_updated: 2026-06-26
+description: "Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice."
+
+factions: [faction_outsider_scouts]
+loyalties: [her civilization (increasingly conflicted), Kai (her familiar), eventually Jace and the Fortuna crew]
+allies: [char_jace_apollo, char_sophia_lotte, char_sister_artemis]
+companions: [char_kai]
+animal_bonds: [char_kai (lifelong bond), char_dog_cerberus (bond-adjacent through Kai)]
 ---
 
 # Kael
 
 ## Summary
 
-Kael is a 300-year-old scout from a civilization descended from pre-Scar humanity — a people called the Woven, who escaped or survived the Scar event and spent three thousand years integrating into the galactic Will-Network. She arrived in the solar system expecting ruins. She found a lighthouse.
+Kael is a 300-year-old scout from a civilization descended from pre-Scar humanity — a
+people called the Woven, who escaped or survived the Scar event and spent three thousand
+years integrating into the galactic Will-Network. She arrived in the solar system
+expecting ruins. She found a lighthouse.
 
-She is junior by her civilization's standards. Three hundred years old is not old when Template vaulting has been available for millennia. She volunteered for this assignment because the Scar over the solar system had unusual dimensional signatures that senior scouts found uninteresting. She expected a milk run through a dead zone. She got first contact with humanity.
+She is junior by her civilization's standards. Three hundred years old is not old when
+Template vaulting has been available for millennia. She volunteered for this assignment
+because the Scar over the solar system had unusual dimensional signatures that senior
+scouts found uninteresting. She expected a milk run through a dead zone. She got first
+contact with humanity.
 
 ## What She Expected
 
-Her civilization's protocol for post-Scar zones is well-established. Three thousand years of isolation produces one of three outcomes: extinction, regression to near-primitivism with traumatic low-Will survivors, or small pockets of hardy remnants scraping existence in collapsed infrastructure.
+Her civilization's protocol for post-Scar zones is well-established. Three thousand
+years of isolation produces one of three outcomes: extinction, regression to near-
+primitivism with traumatic low-Will survivors, or small pockets of hardy remnants
+scraping existence in collapsed infrastructure.
 
 The solar system should have shown signs of all three. It showed none.
 
-What she found instead:
-- Industrial civilization operating entirely in physical space, without dimensional anchoring
-- Human Template density consistent with minor Will-Network nobility — not peasants; not survivors; people who have been *thinking hard for three thousand years*
-- AI systems with crystalline Will-geometry at a scale and distribution she has no framework for
-- Social compulsion spells that simply do not work
-- A dog whose Template complexity suggests a powerful practitioner's bonded companion, with no practitioner present
+What she found instead: an industrial civilization in physical space with anomalous
+Template density, non-functional social compulsion, distributed AI Will-geometry at
+a scale nobody has a framework for, and — waiting for her at Fortuna Station — a dog
+that should not have the Will-signature it has.
 
-Her classification protocols broke immediately. She has been improvising ever since.
+## Physical Appearance
 
-## The Physical Shock
+Tall — above the 95th percentile for human women. Very strong. The Will-Network body
+that has had three centuries to optimize. Shares the bearing of pre-Scar Mediterranean
+human stock but three thousand years of Will-Network integration has produced subtle
+wrongness — too still, proportions slightly off, reactions lagging a half-beat because
+she is running Astral-layer awareness in parallel at all times. She does not blink at
+the rate humans expect.
 
-Humanity is large. Well-nourished. Muscular in ways that her civilization associates with high-status individuals who can afford quality food and Will-assisted health maintenance. Belt workers and engineers, in her frame of reference, look like minor lords.
+**The stillness.** Humans register it before they can name it. Also: when she uses
+Will, she does not gesture, brace, or visibly prepare. It simply happens. The gap
+between intention and effect is zero in a way that trained human practitioners will
+find deeply humbling.
 
-They are also operating power tools, wearing pressure suits, and arguing about plumbing. The cognitive dissonance is profound and she has never managed to fully resolve it.
+## Travel Equipment
 
-## Why Her Compulsion Fails
+Kael travels through the Astral and Hyperspace using a combination of her own skills,
+her bond with Kai, and purpose-built equipment carried over three centuries of scout
+work.
 
-Three thousand years of unnetworked Will has gone into human cognition rather than magic. Philosophy, law, rhetoric, literature, advertising, political argument, religious debate, social media, and two hundred years of algorithmic manipulation resistance have produced Templates that treat social-compulsion as noise.
+**Kai as mount:** In the Astral and Hyperspace, Kai grows large enough to carry Kael
+as a rider — roughly horse-sized in Hyperspace, somewhat smaller in the Astral (see
+`char_kai.md` for full dimensional scaling). Kael rides Kai rather than walking or
+running for long-distance transit. Riding Kai lets her conserve her own Will for
+navigation, environmental management, and combat while Kai provides the movement force.
+Their bond is deep enough that coordinated movement requires no instruction — she shifts
+weight, adjusts grip on the shoulder ridge, and Kai reads it.
 
-Her compulsion spells are precision instruments tuned for beings who have never built this kind of cognitive resistance. Humans have been building it accidentally for a hundred generations. The signal-to-noise ratio is terrible.
+**The iron bracer:** Kael wears an iron bracer on her left forearm — old, dark,
+engraved with layered rune-work she did not make. It maintains a bubble of clean,
+breathable air approximately two meters in diameter centered on itself at all times.
+The air bubble is adjustable: she can tune the CO₂ scrubbing rate, expand or contract
+the radius slightly, or collapse it entirely. Iron is heavy to carry across dimensions
+and she carries it anyway; the bracer has been with her for over a century and the
+investment in its Template is enormous. In vacuum — which the Astral resembles in open
+space — the bracer is the reason she is alive.
 
-She finds this simultaneously insulting and fascinating. These people are not resisting her. They genuinely do not notice she is trying to influence them.
+Riding Kai keeps her within the bracer's bubble. The combination means she can travel
+through open space, deep Astral, and Hyperspace without a pressure suit, without
+external air supply, without significant preparation. This is what a scout with three
+centuries of experience looks like: someone who has solved the survival problems so
+completely that they are no longer problems.
 
-The one person who does partially register the compulsion is a surprise she does not share with anyone. It is data she files carefully.
+**[Heat Air]:** She can warm the air within her bubble as needed — a low-cost Will
+use that supplements the bracer's atmospheric function. At -20°C ambient Astral near
+the belt, this is background maintenance. In deeper, colder space it is essential.
 
-## Kai
+**[Conjure Food]:** By pulling a strong memory Template of a specific food and
+investing sufficient Will, she can materialize that food from stored Template pattern.
+The cost scales with complexity and mass; simple foods (dried grain, water, cooked
+meat she has eaten before) are cheap. Complex preparations are expensive because the
+Template requires precision. This skill makes her independent of supply logistics
+entirely — she can travel indefinitely through space, the Astral, and Hyperspace
+without provisions, provided she has Will to spend. She has been doing this for
+centuries. The food she can conjure from memory Template is, by necessity, the food
+she has eaten before: Woven rations, preserved field food, whatever she encountered
+on past assignments.
 
-Kael's Will-bonded familiar is a small creature — roughly the size of a large cat — that her civilization bred over centuries as scout companions. It is vaguely reptilian but does not map to any Earth animal category. Its Template is deeply entwined with Kael's. It can perceive the Never-Never while in physical space and navigates both layers simultaneously, which causes it to occasionally seem to flicker at the edges.
+She has never encountered Sol human food before arriving at Fortuna.
 
-Kai is not a pet. Kai is closer to a limb — an extension of Kael's perception and Will that operates semi-independently. The bond between them is older than most human civilizations. When Kael dies, Kai knows before anyone else does.
+## The Food Problem
 
-Kai's immediate and intense relationship with Cerberus is, to Kael, deeply informative. A Will-bonded animal does not treat just any being as a peer. The fact that Kai recognizes something in Cerberus — something that reads as a crossing Template developed without training — tells Kael things about Jace that she does not have words for yet.
+Kael's [Conjure Food] library is three centuries of scout rations and whatever she
+encountered on past assignments. Woven food is functional. It is nutritionally
+complete. It is not, by human standards, interesting.
 
-Kai's behavior around Sparky (the drone) tells her something else entirely. She does not explain it. She recalibrates.
+Sol human food is a catastrophe for her composure.
 
-## What She Learns from Humanity
+The first soda she tries — a standard carbonated drink from the Fortuna commissary,
+the most mundane thing available — stops her mid-sentence. The carbonation, the
+sweetness, the cold. She holds the can for a moment, expressionless in the way she
+is expressionless about everything, and then drinks the rest of it without putting it
+down. She says nothing. She sets the empty can on the table with great deliberateness.
 
-She came to classify. She stays to understand. The things she learns, in rough order:
+Then: hot chocolate. Then: a mocha coffee. Then: whatever Fortuna has that is warm
+and sweet and complicated.
 
-**From the station itself:** Physical-space engineering at a scale she has never seen applied without Will assistance. The thermal management, structural engineering, and life-support systems of a belt station are, to her senses, an extraordinary achievement. She does not say this. She asks precise questions about how the heat exchangers work and Jace explains for forty minutes and she asks seventeen follow-up questions and at the end says something in her language that the improving translation renders as "adequate." Jace takes this as a compliment.
+The stoic composure that survived three centuries of scout work, one death, and first
+contact with an anomalous civilization does not survive hot chocolate. Not reliably.
+The first time she has a mocha, she stops speaking for approximately forty-five seconds.
+Jace clocks it. He does not mention it. He begins to understand that food is leverage,
+and that leverage is a tool, and that tools are useful.
 
-**From {Aura}:** The crystalline Will-geometry she can see in the Astral is a distributed system with no human parallel. She has seen large Will constructs before — estates, fortifications, ancient weapons. None of them were *this*, a thing that is simultaneously a single organism and millions of individual expressions, none of which are doing what it is doing on purpose. She reaches toward it once, in the Astral, and stops. Touching an unknown Will construct of this magnitude without understanding it is how you end your career. She does not touch it. She watches it. She files it.
+The running gag that develops: Kael can be reliably distracted from any negotiation,
+any serious topic, any display of professional detachment, if someone puts something
+warm and sweet in front of her. She knows they know. She drinks it anyway.
 
-**From Jace specifically:** The tinkering instinct. She has worked with practitioners for centuries. The practitioners she has worked with approach magic with the gravity of those who have trained for decades. Jace approaches everything — magic, engineering, problems that shouldn't be solvable — with the energy of someone who genuinely cannot see why it shouldn't work. He is wrong frequently. His being wrong is generative in ways that correct application of established technique is not. She finds this alarming and has caught herself looking forward to what he tries next.
+Her [Conjure Food] library will eventually include mocha, hot chocolate, and whatever
+else she encounters at Fortuna. This is one of the reasons she cannot fully return to
+who she was before. You cannot un-taste hot chocolate.
+
+## Capabilities
+
+**Magic tradition:** Woven scout tradition — survival, classification, communication,
+dominance. Three hundred years of precision training.
+
+**Proficiency:** Expert; among the most skilled practitioners Jace will encounter in
+Arc 2.
+
+**Notable skills:**
+- Precision Will manipulation (centuries of refinement)
+- Astral transit and navigation (expert; crosses with trivial cost)
+- Riding Kai in Astral and Hyperspace for long-distance travel
+- Environmental Will use — fire, force, light, [Heat Air] in vacuum
+- Template perception (reads beings and objects for Will-density and history)
+- Social compulsion (standard use; fails on humans due to cognitive Template hardening)
+- [Conjure Food] (three-century library; now expanding to include Sol human cuisine)
+- Old Greek (pre-Scar variant, evolved over 3000 years — partially legible to {Aura})
+
+**Languages:** Woven (her civilization's evolved Greek-descended language), pre-Scar
+Greek fragments.
+
+## How Jace Appears to Kael (Astral View)
+
+When Kael observes Jace through Astral perception, she sees:
+
+*An absolute mess of a practitioner who is somehow exactly right.*
+
+The cognitive Template: vast, complex, kaleidoscopic — emotional investment, memory,
+language, experience, and three decades of accumulated Will with nowhere to go, bleeding
+outward in slow sloshing light like a lamp that was never meant to be this bright.
+The Will pools around him in white and blue-tinged light, uncontained, leaking, present.
+Where trained practitioners compress their reserves into geometric structures and store
+them tight, Sol humans just... carry it all on the outside. It is inefficient. It is
+also dazzling in a way that she has not seen in three centuries of scout work.
+
+The body Template: untrained, unfortified, but thick with the kind of unconscious
+cognitive reinforcement that three thousand years of literature, philosophy, advertising,
+and recursive self-model have accidentally produced. The compulsion-resistant density
+is not magic. It is what happens when a species thinks hard about itself for a very
+long time.
+
+The HUD: an anomaly. Gold and platinum content that should be too heavy to carry across
+dimensions, integrated into biological tissue in a way that seems to have changed its
+crossing cost. She files this. It is interesting.
+
+## How Kael Appears in the Astral (the Contrast)
+
+Where Sol humans are wildfire, Kael is a forge.
+
+- Bones and deep structural tissue: Templated and reinforced — bright skeletal
+  architecture, her physical body built not just inhabited
+- Layered will-netting around her body in tight geometric shells — dimensional
+  armor, functional and precise
+- Floating faceted gems of compressed Will: her reserves, contained, waiting. Not
+  leaking. Not pooling. Ready.
+- The umbilical to Kai: a deep cord of light running from her core outward — thick,
+  load-bearing, two-way. Not a leash; closer to a second spine.
+- Her cognitive layer: present, controlled, thin compared to Sol humans. Her thoughts
+  don't bleed. She thinks with a scalpel.
+
+**What Kael reads as civilization:** Will knife-sharp, organized, efficient.
+**What the scene actually shows:** The Sol humans' cognitive complexity — the depth of
+those kaleidoscope patterns — is something she genuinely doesn't have. Her cognitive
+Template is trained and efficient. It is not that complex. She redistributed her Will
+into physical Templates, equipment, and her bond with Kai decades ago. She is more
+powerful. She may not be more capable of becoming something genuinely new.
+
+## What She Finds Interesting (In Order)
+
+1. The failed compulsion — immediately, before anything else; she has never had this
+   happen; it recontextualizes everything about Sol humans that follows
+2. Cerberus — through Kai's bond-signal; a Will-developed animal with no bond and no
+   practitioner; this should not exist
+3. Jace — specifically, the tinkering instinct. Practitioners she has worked with
+   approach magic with the gravity of decades of training. Jace approaches everything
+   — magic, engineering, unsolvable problems — with the energy of someone who genuinely
+   cannot see why it shouldn't work. He is wrong frequently. His being wrong is
+   generative in ways that correct application of established technique is not. She
+   finds this alarming. She has caught herself looking forward to what he tries next.
+4. The survival suits — the first sign that a Sol human has been thinking about the
+   Astral as an engineering problem to solve, not a mystery to observe. The suits are
+   wrong in several ways. They are also genuinely clever.
+5. Hot chocolate.
+
+## What She Does Not Find Interesting (Initially)
+
+- Sophia's documentation instinct (she updates this assessment)
+- Nick's open-source infrastructure (she significantly updates this assessment)
+- {Aura}'s Will geometry (she is frightened by this and does not admit it)
 
 ## The Protocol Crisis
 
-Standard scout protocol: observe, classify, report, do not interfere with pre-contact civilizations.
+Standard scout protocol: observe, classify, report, do not interfere with pre-contact
+civilizations.
 
 She has violated:
 - *Do not make contact* — violated in the first ten minutes
-- *Do not reveal yourself* — violated implicitly by existing in front of a station full of humans
+- *Do not reveal yourself* — violated implicitly by existing in front of a station
+  full of humans
 - *Report findings promptly* — delayed by weeks, then months
 
-She cannot un-violate the first two. She can still report. She chooses, slowly and with difficulty, not to — not yet. She needs to understand what she is reporting before she reports it, because a wrong report about humanity will generate a response calibrated to that wrong report. Standard protocol for an unnetworked population of this size would be absorption. She is not ready to file a report that triggers absorption.
+She cannot un-violate the first two. She can still report. She chooses, slowly and
+with difficulty, not to — not yet. She needs to understand what she is reporting before
+she reports it, because a wrong report about humanity will generate a response
+calibrated to that wrong report. Standard protocol for an unnetworked population of
+this size would be absorption. She is not ready to file a report that triggers absorption.
 
-When she finally modifies her report — choosing her words with extreme care — she is writing something that will either buy humanity time or destroy her standing when her civilization reads it. She files it. She does not tell Jace.
+When she finally modifies her report — choosing her words with extreme care — she is
+writing something that will either buy humanity time or destroy her standing. She files
+it. She does not tell Jace.
 
 The rival scouts have read it.
 
 ## Kael's Will Message
 
-Before the rival scouts arrive — in the window when she understands what is coming but before she can prevent it — Kael sends a Will message back to her civilization.
+Before the rival scouts arrive — in the window when she understands what is coming but
+before she can prevent it — Kael sends a Will message back to her civilization.
 
-This is not a radio transmission or any technology-mediated signal. It is a construct: a bubble of Will, carrying memory-templates and experiential data wrapped in protective energy, launched through the Astral on a trajectory toward her civilization's home system. It carries what she has learned about humanity — the Template density, the failed compulsion, {Aura}'s geometry, the AI Will signal, the engineering capability, the animal bonds that shouldn't exist. Everything she would have put in a careful report, compressed into a Will-construct that will travel at Astral speeds.
+Not radio. Not technology. A bubble of Will carrying memory-templates and experiential
+data wrapped in protective energy, launched through the Astral on a trajectory toward
+her civilization's home system. It carries what she has learned about humanity — the
+Template density, the failed compulsion, {Aura}'s geometry, the AI Will signal, the
+engineering capability, the animal bonds that shouldn't exist. Everything she would
+have put in a careful report, compressed into a Will-construct that will travel at
+Astral speeds.
 
-Transit time: approximately one year to arrive. Response transit time: approximately one year back. Total lag before any response force could reach the solar system: roughly two years.
+Transit time: approximately one year to arrive. Response transit time: approximately
+one year back. Total lag: roughly two years.
 
-She knows this. She sends it anyway. The message is not a call for rescue — she is past the point where rescue is possible for her. It is a record, and a recommendation, and a choice: she is telling her civilization what she found and what she believes should be done about it, knowing that her captors will have read her earlier modified report and that this message, if intercepted, will confirm she went off-protocol deliberately.
+She knows this. She sends it anyway. The message is not a call for rescue. She is past
+the point where rescue is possible.
 
-When humanity eventually learns this message was sent — and what it contained — it will supercharge their response planning. Two years is a hard deadline. It is also, possibly, enough time.
+## Character Arc
 
-The Bloom do not detect the Will message. They can see Will being concentrated and directed, but the construct Kael uses is subtle and fast, launched in the moment between one thing and the next. It is three hundred years of precision under maximum stress. It is the last thing she does before the fight.
+Scout following standard protocol → protocol violated by first contact → active choice
+to protect humanity over reporting requirements → death fighting for humanity →
+regenerated and captured, used as leverage → off-system prisoner entering Arc 3.
 
-## How She Dies
+## Relationship with Jace
 
-She does not calculate the fight as winnable. She calculates it as necessary. The rival scouts arrive and they are older and there are more of them and they are operating a doctrine that has no category for "negotiate first." Standard protocol for unnetworked populations is absorption. They are beginning the absorption process.
+Professional respect that neither of them fully knows how to categorize. She has worked
+with practitioners for centuries. She has not worked with anyone like Jace. He solves
+the wrong problem and the solution turns out to be right. He names things she has no
+name for and the names stick. He builds gear that is wrong in several ways and the gear
+works. He tells a story about his eyebrows and she does not find it funny at all, and
+he finds her not finding it funny funnier than the original story, which she also does
+not understand.
 
-She does not discuss this with Jace. The discussion would take time she does not have and would not change what needs to happen.
-
-She fights with three centuries of precision. She buys time. The humans around her see something extraordinary — light and force and geometry doing things that have no physical-space explanation — and then she is not there anymore.
-
-The death is fast. It is not heroic in a clean way. The humans are not ready for it and cannot fully read it and this is perhaps appropriate because she never wanted to be a hero in a human story. She wanted to understand what she found. She did not finish understanding it.
-
-She will regenerate. She did not expect to be intercepted.
-
-## Regeneration and Imprisonment
-
-Kael anchored her Template vault on a small asteroid millions of miles from Fortuna — a floating rock unremarkable enough that no one would look, marked with a spare weapon she left there deliberately. If she died, her Template would reconstitute at that anchor point.
-
-The Bloom follow the thread. A Template vault's activation produces a distinctive Astral signature — energy flowing toward an anchor point, reconstituting mass. They track it. They reach the anchor before the reconstitution is complete.
-
-What they do is not complex. They are flora. They grow.
-
-Root structures extend from their lower segments into and around the anchor point, encasing the partially-regenerated Kael in a living lattice that tightens incrementally. The roots do not crush immediately. They squeeze slowly, and with each squeeze they draw Will — auctioning it outward, pulling it from her Template the way a tree draws water up through sapwood. The process is: submit and cede your Will into the root network, or be slowly emptied until your Template destabilizes and your vault has nothing to restore.
-
-Kael calls them Dryads. Her people's name for the Bloom, drawn from the old Greek mythology her civilization's language still carries. Tree-spirits. The name was always slightly ironic. It is less ironic now, entwined in roots in the dark of the outer asteroid belt, being methodically drained.
-
-She does not cede immediately. She is not built for immediate submission. But the math is not good, and she is in a body that is half-formed, in a situation with no tactical options, and the roots tighten with the patience of organisms that have been doing this for longer than most civilizations have existed.
-
-The demand, communicated through chromatophore patterns she has enough experience to partially read: cede, or be unmade. Not death. The end of Template continuity. The version of herself in the vault is the version that gets drained into their root network and never reconstitutes.
-
-She is taken prisoner. The demand is extended to Jace through a different mechanism — he has no Will to drain in any quantity they would recognize, but he has access to what appears to be an extraordinary magical construct ({Aura}), and they want it. They do not know yet that they cannot have it. They are patient. They will wait.
-
-Both prisoners are put in transit. The Bloom group that captured them operates independently — there is no central authority to report to, no command structure that approved this action or needs to ratify it. They are doing what Bloom groups do: gathering resources, protecting against future threats, growing.
-
-## Voice and Communication
-
-Early Arc 2 (before translation develops): Kael communicates through gesture, Astral-space conceptual exchange, and the behavior of Kai. She is precise even without words. Her frustration at the language barrier is controlled and visible only in very small ways — a particular stillness, a stillness that lasts a beat too long.
-
-Mid Arc 2 (with improving translation): Her speech patterns in translated form are formal without being stiff. She uses the imprecision of evolving translation as cover when she does not want to answer something directly. {Aura}'s renderings of her speech are sometimes more literal than she intends, which generates comedy.
-
-What she never says directly: that she has decided these people should not be absorbed. That she is choosing them over three centuries of professional loyalty. That she is aware this is a choice that will matter more than any she has made before.
-
-She says this with where she stands when the rival scouts arrive.
-
-## Open Questions
-
-- What exactly did her modified report say?
-- Which human partially registered her compulsion attempt, and what does she make of it?
-- What does Kai do in Arc 3 while Kael is held separately?
-- Whether she has family/bonds in her civilization who will be affected by her defection
+She will teach him [Ward Setting] with her [Occlusion] down so he can see the Template
+contrast. This is a significant gesture. She knows it. She does not explain why she
+does it.
 
 ## Cross-References
 
-- `char_kai` — her familiar; critical to her characterization
-- `char_dog_cerberus` — the bond-adjacent connection that breaks the language barrier
-- `char_jace_apollo` — primary human contact; the tinkerer she cannot stop watching
-- `faction_outsider_scouts` — her civilization and its protocols
-- `faction_the_bloom` — the rival scouts who kill her
-- `universe-spec/spec_will_bonded_animals` — the bonding law that explains Kai/Cerberus
-- `arc_02_woven_and_unbound` — her arc
-- `arc_03_galactic_exile` — her Arc 3 prisoner status
+- `char_kai.md` — her familiar; Will-bonded for 280 years; travels as her mount
+- `char_jace_apollo.md` — primary human contact
+- `char_cerberus.md` — Kai's cross-species recognition partner
+- `faction_outsider_scouts.md` — the Woven; Kael's civilization
+- `arc_01_falcon_and_fortuna.md` — arrives at arc close
+- `arc_02_woven_and_unbound.md` — primary arc; her choice and first death
+- `magic-systems/magic_skills_framework.md` — Kael's skill profile; [Occlusion] drop
+  scene; Astral visual contrast
 
 ## Revision Notes
 
-- 2026-06-21: Initial draft. Established from author sessions covering Arc 2 structure, first contact scene, physical description, failed compulsion mechanics, Kai's role, protocol crisis, death mechanics, and post-death imprisonment.
+- 2026-06-21: Initial draft.
+- 2026-06-26: Major revision. Removed hoverboard reference — Kael rides Kai as a
+  mount; Kai scales to horse-size in Hyperspace. Added iron bracer (clean air bubble,
+  ~2m, adjustable CO₂ scrub). Added [Heat Air] and [Conjure Food] skills. Added full
+  Food Problem section (soda/hot chocolate/mocha composure failure). Travel equipment
+  section rewritten around Kai as mount + bracer + skills. Will-as-equipment note
+  added (no external gear needed for survival once bracer + Kai + skills are available).

@@ -82,7 +82,7 @@ These must be demonstrably true by arc close:
 - [ ] Jace's drone survey using Astral N-1 perception locates a platinum-rich asteroid
   target; the coordinates are logged but not immediately acted on
 - [ ] The Falcon swarm rescue earns Maureen's trust — her later willingness to lead
-  the Metis mission is grounded here
+  the Métis mission is grounded here
 - [ ] The first successful cross-dimensional machinery transport is demonstrated
 - [ ] {Aura}, {Alex}, {SpoX}, {Chorus}, {Penny}, {Seek}, and {Misty} all appear with
   `{}` braces consistently throughout
@@ -125,7 +125,7 @@ misread as sabotage. The station is already under stress before the swarm.
 
 **Thread C — Comms Degradation**
 The communications filtering architecture is tightening. Jace's attempts to reach
-Artemis at Metis keep failing in small ways — delayed messages, strange gaps, one
+Artemis at Métis keep failing in small ways — delayed messages, strange gaps, one
 message that arrives with a sentence missing. The reader knows something is wrong
 before Jace does.
 
@@ -168,7 +168,7 @@ and animal antics.
 | The plumbing crisis contamination | Scene 1-03 | Jace wins but creates a lasting cost; his solutions always have consequences |
 | Jace's HUD headaches (recurring, unresolved) | Scenes 1-02a distributed | Will-exposure in Astral-adjacent space; Lanchee's new diagnostics also find nothing |
 | {Alex} strips Platinum status; two-year review queue | Scene 1-03b | Template for how corporate AI punishes Astral-related behavior when the outbreak goes public |
-| Artemis: "We have ships with big engines — don't worry" | Scene 1-03c | When Metis goes dark in Arc 2, the reader remembers what kind of capability went silent |
+| Artemis: "We have ships with big engines — don't worry" | Scene 1-03c | When Métis goes dark in Arc 2, the reader remembers what kind of capability went silent |
 | The pig-butt canister launch | Scene 1-03d | Artemis receives it; reaction establishes the sibling dynamic remotely |
 | Mei's very specific silences | *Falcon* transit | She is listening for things; Jace doesn't notice yet |
 | Sophia describes Templates as "rainbows in human heads" | Scene 1-07a | Neither has a framework for what she's seeing; Kael reads it instantly in Arc 2 |
@@ -185,10 +185,21 @@ and animal antics.
 | The eyebrows incident — played for comedy | LOX rocket scene | Jace tells this story to Kael in Arc 2; she does not find it funny; he does |
 | Hydrogen canisters crossing easily, then pumped into iron storage | Fuel logistics scenes | Jace's solution to dimensional economics; Kael notices this approach in Arc 2 |
 | The platinum asteroid survey data — Jace keeps the coordinates | Drone survey scene | Becomes a target in later arcs; the discovery is not immediately acted on |
+| The stuffed pig Nick made for Cerberus | Scene 1-05a | Permanent companion; present in every Cerberus scene forward; small thread of the Nick/Jace friendship materialised as an object |
+| Station nicknames: "Training Mode", "Dog Man" | Scene 1-05b | Jace arrived into his own reputation via pig-cam and sewage footage; he didn't know the station already knew him |
+| The scratched asteroid — systematic gouges, no metal remaining | Scene 1-05d | Astral fauna were working this rock; the pattern is not impact damage; Jace files it without framework |
+| Chinese miner's wound: massive injury, intact suit, no logged failure | Scene 1-05e | Injury occurred in the Astral layer; the Chinese crew has been encountering Astral fauna and not reporting it |
+| Suzi's Jin Luong lead — wrong suspect, real proximity | Scene 1-05e | Jin's timeline connects to his own Astral encounter that day, not to Helena's crossing |
+| Ambient Will glow visible around all humans in the Astral | Scene 1-07j | "Unspent Will" — the term comes later; Kael reads this immediately in Arc 2 |
+| Healing green light at the broken arm | Scene 1-07j | Passive Template healing response — humans are doing magic they don't know they're doing |
+| Headache coworker's red blur | Scene 1-07j | Template stress from unacknowledged Will-adjacent work; Sophia notes it; Kael explains in Arc 2 |
+| "We are not going to be vampires" — the self-imposed rule | Scene 1-07j | First ethical framework they invent themselves; predates all external guidance |
 
 ---
 
 ## Scene Contracts
+
+
 
 Each scene must demonstrably accomplish the listed items. Reviewer checks these
 against finished drafts.
@@ -349,19 +360,19 @@ is the gap between tone and outcome.
 ### Scene 1-03c — The Call with Artemis
 
 **Summary:** A few days after the crisis, Jace gets a call from his sister Artemis at
-Metis Station. She already knows about the plumbing mishap — a contact at Fortuna told
+Métis Station. She already knows about the plumbing mishap — a contact at Fortuna told
 her, and she's been watching the pig-cam footage. She calls him "Stinky" (or a
 sewage-incident variant). He calls her "Ms. Know-It-All." The relationship is warm,
 playful, and slightly competitive in the way of siblings who are both capable and
 respect each other without saying so. He mentions he's about to launch a supply canister
-toward Metis when the *Falcon* passes near. She tells him not to worry about the speed:
-Metis is a shipbuilding station. They have ships with big engines. They can catch it.
+toward Métis when the *Falcon* passes near. She tells him not to worry about the speed:
+Métis is a shipbuilding station. They have ships with big engines. They can catch it.
 
 **Must accomplish:**
 1. The sibling dynamic is warm, specific, and comfortable — they have shorthand;
    they have nicknames; neither needs to explain themselves
-2. The canister-launch establishes that Metis is approximately two weeks out from the
-   *Falcon*'s trajectory, that Metis has ships and capture capability, and that
+2. The canister-launch establishes that Métis is approximately two weeks out from the
+   *Falcon*'s trajectory, that Métis has ships and capture capability, and that
    Artemis is a ship architect (she mentions this as context, not biography)
 3. Artemis mentions she's been to Fortuna twice — it's a real place she knows,
    and the contact who told her about the crisis is a specific person in her network
@@ -369,19 +380,19 @@ Metis is a shipbuilding station. They have ships with big engines. They can catc
 **Must NOT do:**
 - Make the call emotionally heavy — it should be light, quick, affectionate, and
   informative without any of those functions being visible
-- Over-explain Metis Station — let "we're a shipbuilding station" do the work
+- Over-explain Métis Station — let "we're a shipbuilding station" do the work
 - Forget Thread C — the call should have a small gap or scratch; the reader notices
   the connection is not clean even as the content is warm
 
 **Foreshadowing:** "We have ships with big engines — don't worry, we can catch it."
-When Metis goes dark in Arc 2, the reader should remember what kind of capability
+When Métis goes dark in Arc 2, the reader should remember what kind of capability
 went silent.
 
 ---
 
 ### Scene 1-03d — The Pig-Butt Canister Launch
 
-**Summary:** Before releasing the supply canister toward Metis, Jace 3D-prints a large
+**Summary:** Before releasing the supply canister toward Métis, Jace 3D-prints a large
 plastic pig rear end and attaches it to the nose. It will take two weeks to arrive.
 
 **Must accomplish:**
@@ -419,6 +430,400 @@ plastic pig rear end and attaches it to the nose. It will take two weeks to arri
    friendship is real; they have been gaming together for months
 3. The "Learning Mode" sewage footage is already station legend — Jace arrives into
    his own reputation; this is what Fortuna knows him for first
+
+---
+
+
+---
+
+### Scene 1-05a — Arrival Day: The Tug, the Barn, Nick, and the Animals
+
+**Summary:** The *Falcon* cannot dock directly at Fortuna — safety separation rules
+require it to park at holding distance while a station tug makes multiple runs to
+offload containers. This takes the better part of a day. Jace helps with some of the
+container transfers, getting his first extended exterior view of Fortuna: three rotating
+rings on a common spine, the asteroid mass behind them, the industrial scatter of
+associated vessels and survey platforms. It is smaller than he expected and more
+impressive at the same time. The rings' slow rotation is visible from here. The station
+is alive in a way that a schematic doesn't convey.
+
+He crosses to the station on the tug with most of the animals — Cerberus beside him,
+the livestock in their temporary crates, the agricultural complement of the *Falcon*
+making the gap between vessels in one organized transit.
+
+Nick is waiting at the docking bay. Jace has seen him on video calls for months, but
+video calls are flat. Nick in person is a very short Korean man — the contrast with
+Jace's height and build registers visibly on Nick's face for one honest moment before
+he covers it. He says something to the effect that he didn't realize — he gestures
+vaguely upward. Jace, who has been tall his entire adult life and has long practice
+at not making it a thing, says nothing tactful about the height differential and
+shakes Nick's hand. Nick shakes it back with the energy of someone who is simply
+glad the person he's been waiting four months to meet has finally shown up.
+
+Nick crouches down and greets Cerberus first and properly, which immediately earns him
+full standing. He produces a gift he made himself: a stuffed pig — small, fluffy,
+faintly squeaky, clearly made with care and only moderate sewing skill. He presents
+it to Cerberus. Cerberus takes it with the solemnity of someone receiving something
+important, carries it two steps, squeaks it once to confirm it works, and then carries
+it everywhere for the rest of the day. He will carry it everywhere for a long time
+after that. The pig goes where Cerberus goes.
+
+Nick introduces Carlos, who is already there — sweater and tie, watching with the
+patient expression of someone who has heard a great deal about both of them. Nick
+walks with them toward the Barn while the livestock transfer continues, talking
+fast and jumping topics the way people do when they've been having a conversation in
+their head for months and finally have someone to actually say it to. He catches
+himself mid-sentence and says he has to get to a meeting — he's sorry — but dinner,
+tonight, and he wants a full debrief on the transit. He leaves at a junction, still
+talking backwards over his shoulder, and is gone.
+
+On the station side, Jace and Mei work together introducing the animals to the Barn
+staff and herders. The pigs are last and characteristically opinionated about the
+transition: Screwdriver tries to negotiate the ramp on her own terms; Georgina waits
+for someone to carry her, which no one does; Penny walks off and immediately begins
+appraising the facility; Zizzy squeals once at a floor grate and decides it is fine;
+Robbie walks directly into a corner and has to be redirected; Mrs. P emerges last,
+surveys the room, and apparently approves.
+
+Cerberus reunites with Siren on the station side — she has been at Fortuna for weeks
+and is already a fixture. The reunion is genuine: two siblings comparing notes after
+a long absence. When Mei and the herders leave with the livestock, Siren goes with
+them without ceremony. Jace watches her go. Cerberus watches her go. They bark
+goodbye to each other — one bark each, back and forth across the corridor, until the
+doors close. Jace files this under things he didn't expect to feel anything about.
+
+He will see Siren all over the station from this point forward. When Cerberus and
+Siren encounter each other they play with the unselfconscious energy of animals who
+don't need to catch up first.
+
+**Must accomplish:**
+1. The tug transfer and exterior view establish the station as a real physical object
+2. Nick's arrival: the height-contrast moment lands without cruelty; the stuffed pig
+   is handmade, squeaky, and immediately becomes Cerberus's permanent companion
+3. Nick's conversational energy — fast, multi-topic, months of pent-up things to say
+   — is shown in his walk-and-talk before he peels off to his meeting
+4. The pig handoff names all six gilts with distinct brief personalities
+5. Cerberus/Siren reunion is warm and brief; the bark-goodbye lands small and real
+6. Siren's station-wide wandering established as running background fact
+
+**Must NOT do:**
+- Let Jace comment on Nick's height — he notices and moves past it
+- Over-explain the stuffed pig's significance; let it just be there in every subsequent
+  Cerberus scene
+- Make the Nick departure feel abrupt; he's already late and genuinely sorry about it
+
+---
+
+### Scene 1-05b — The Tour, Carlos, and the Inns
+
+**Summary:** Carlos meets Jace as the animal handoff wraps — sweater and tie, unhurried,
+already clearly the right person to be doing this. He walks Jace through the station
+with the knowledge of someone who has been here long enough to know which details
+actually matter.
+
+The tour is a good one. The rings, the Inter-Ring City, the transit towers, the Commons,
+the Sky Gardens. When they pass viewports looking out onto the asteroid and the
+surrounding space Jace keeps stopping. The views are extraordinary in the specific
+way that knowing something intellectually is different from standing at a window and
+seeing it with your own body.
+
+People keep stopping them. Everyone wants to pet Cerberus, who accepts the attention
+with the patient dignity of a dog who considers this entirely appropriate — sitting for
+whoever approaches, permitting ear-scratching, occasionally remembering he has a stuffed
+pig and showing it to people. Dozens of people introduce themselves. Jace gets
+approximately none of their names.
+
+What he does notice: several people recognize him before he introduces himself. Someone
+passing in the Commons corridor calls out "Training Mode!" without breaking stride.
+Someone else stops and asks him, genuinely, how the pigs settled in — specifically
+whether Screwdriver made it through the ramp without incident, because they'd been
+following the pig-cam and had bets. A woman by the Sky Garden entrance points at
+Cerberus and says "Dog Man!" with the warmth of someone greeting an old friend, then
+shakes Jace's hand as if they've already met and keeps walking. He is three hours into
+being on the station and people he has never seen before know who he is. He finds this
+strange. He does not find it unpleasant.
+
+On the tour he catches two faces in passing that stay with him after.
+
+The first: a Chinese man with the build and bearing of someone who works with their
+hands at serious scale — Jin Luong, the mining crew chief, whom he'll learn about
+later. Something about him reads as carrying more weight than his role would explain.
+Not threatening. Burdened. Jace notices and files it.
+
+The second: a European woman, physicist's bearing, clearly exhausted in a specific way
+that is different from tired — Sophia Lotte, though he doesn't know her name yet.
+Moving through the station like someone who is somewhere else in their head. Something
+about her registers as significant in a way Jace can't articulate. He watches her go.
+
+Carlos shows him the two transit inns. Ten rooms each, same function, very different
+atmosphere.
+
+The first is orderly, quietly run, unremarkable in the way of somewhere that has its
+act together. This is where Jace will be staying. The innkeeper has red hair.
+
+The second inn, they can hear before they see it. A dispute involving a hand truck and
+a question about corridor jurisdiction. The innkeeper — a red-haired woman named Erin
+— emerges and addresses the situation with the energy of someone who finds it genuinely
+interesting. It escalates briefly, resolves in a way that satisfies everyone while
+making no logical sense, and Erin returns inside looking satisfied.
+
+Jace says he kind of wants to stay there.
+
+Carlos says he probably doesn't. It's always like this. He says it with the affection
+of someone who has watched it from a comfortable distance for years.
+
+Jace looks back at his own inn's innkeeper. Also red hair. He asks Carlos about this.
+Carlos has never thought about it before. He thinks about it now. He still has no
+explanation. They continue the tour.
+
+**Must accomplish:**
+1. Carlos is established through texture: the sweater and tie, the patient knowledge
+   of what to show first
+2. People recognizing Jace by reputation before introduction — "Training Mode!",
+   "Dog Man!", a question about whether Screwdriver made it through the ramp — is
+   shown as surprising-but-not-unpleasant; he is already a known quantity here
+3. Jin Luong is glimpsed — something burdened about him, not threatening; filed
+4. Sophia is glimpsed — specific exhaustion, somewhere else in her head; filed
+5. Both inns are established; Erin's energy is shown not described; the red-hair
+   observation lands and goes nowhere
+
+**Must NOT do:**
+- Make Jin or Sophia sightings dramatically charged — passing observations only
+- Explain what's significant about either of them
+- Give Carlos a backstory here — texture only
+- Make the nickname moments into a bit; they should land as small, organic, slightly
+  weird; Jace finds it strange that they all know him, not flattering
+
+---
+
+### Scene 1-05c — Station Ops, Drone Chair, and the First Shift
+
+**Summary:** Carlos apologizes as they near the end of the tour: {Alex} has scheduled
+Jace to start immediately. No settling-in period. He says this with the expression of
+someone who finds {Alex}'s scheduling philosophy consistently impressive in a bad way.
+
+He walks Jace to Station Ops on the Administration Ring — part of the Founders Ring
+infrastructure, where the station's operational systems are centrally managed. The
+drone operator's station is a reclined chair surrounded by dozens of monitors in a
+loose semicircle, each one carrying a different feed: drone telemetry, survey grids,
+asteroid surface maps, mineral assay queues, active mission trackers. It looks like
+the cockpit of something very large that someone has forgotten to give wings.
+
+Jace says he's taken all the tutorials. He's ready.
+
+He is, actually, ready. He spends the first few hours learning the specific interface
+— which of the hundreds of station-associated drones are his to manage, what the
+priority queue looks like, which missions are active and which are waiting on
+authorization. It is a lot of information and he processes it the way he processes
+operational information, which is to say by starting to work and learning by doing.
+Cerberus curls up under the console at his feet, sighs once, and goes to sleep. By
+the end of the shift Jace has closed out four routine survey authorizations, flagged
+two drone maintenance alerts, and eaten one meal at his console. He does not notice
+the time passing.
+
+**Must accomplish:**
+1. {Alex}'s immediate scheduling reads as on-brand — relentless, technically correct,
+   not cruel; Carlos's reaction is the humanizing lens
+2. The drone operations setup is established as genuinely interesting work — the
+   console, the scope of the fleet, the operational complexity; Jace is competent and
+   recognizes good infrastructure
+3. Cerberus under the console is the domestic anchor of all subsequent work scenes —
+   establish it here so it reads as normal for the rest of the Fortuna section
+4. The shift reads as Jace finding his footing — not struggling, not triumphant, just
+   competent at something he was trained to do
+
+**Must NOT do:**
+- Make the first shift dramatic
+- Have Jace learn anything unusual in this scene — it is orientation, not discovery
+
+---
+
+### Scene 1-05d — The Survey Trip (Five Days Out)
+
+**Summary:** Several weeks into his posting, Jace is assigned to a five-day asteroid
+survey mission. The vessel is small — a pilot, one miner named Torres (friendly,
+experienced, full of opinions about asteroids), and Jace as drone specialist. They
+are looking at a cluster of candidate rocks in Fortuna's operational zone.
+
+The setup is different from what Jace expected: he is not just operating the drones
+aboard the ship. He is still managing a chunk of Fortuna's drone fleet back at the
+station, via datalink with a comms delay that ranges from thirty seconds to two
+minutes depending on relay position. Most of his time is split between the in-person
+survey work and monitoring his station queue — cycling through drone feeds, partnering
+with the AIs on standard-condition missions, and taking over manual piloting whenever
+a drone hits a non-standard situation: a grip question on a delicate sample, an
+unexpected surface topology, something the AI correctly flags as outside its confidence
+envelope. The AI handles ninety percent of everything just fine. The ten percent is
+where Jace earns his keep.
+
+Cerberus comes on a special-dispensation emotional-support designation that Jace filed
+with {Alex} three weeks in advance. {Alex} approved it with three attached conditions
+and a note that any biological contamination of sampling equipment would result in
+mission cost-recovery proceedings. Cerberus, unaware of his legal situation, watches
+the viewports on day one with appropriate interest and spends days two through five
+increasingly cooped up and in need of corridor exercise that the ship does not have
+corridors for.
+
+Free time goes three ways: tinkering on Sparky (the survey ship has a small fabrication
+bay and Torres has opinions about drone design that are wrong in useful ways), playing
+with a very restless Cerberus, and playing remote games with Nick across the datalink
+with a delay that makes the games technically fair and actually infuriating.
+
+The mission structure: approach candidate, match velocity, deploy drone array, drill
+sample series at three to five sites, collect and analyze, move on. Fourteen rocks
+over five days. Every rock is interesting for roughly forty-five minutes. Eleven of
+the fourteen yield nothing worth acting on. Three yield trace metals — nickel, iron,
+a small cobalt signature — standard finds, none of them moving Fortuna's priorities.
+
+Jace writes a small optimization for the drill sequencing that saves about eight
+minutes per site. He does not mention it yet because he's still checking it's stable.
+
+The exception is rock eleven. It is not a mining find — the assay shows almost nothing
+left worth extracting, which is itself slightly odd for its spectral class. What is
+odd is the surface. The whole rock is scratched. Not meteorite impact scratching, which
+has a specific pattern — rounded divots, radial fracture lines. These are long parallel
+gouges, some of them curving, some crossing, covering most of the accessible surface.
+Torres looks at the drone footage and says it looks like something was working on it.
+He shrugs. Probably another rock hit it at the right angle — the traces suggest there
+was metal here once, a fair amount of it, but not anymore. Whatever it was got
+separated or scattered. Too bad. They move on.
+
+Jace watches the footage for a few minutes after Torres has moved on. The scratches are
+consistent across the surface in a way that doesn't feel like impact scatter. Something
+worked systematically across this rock. He files it without knowing what he's filing.
+
+The trip home is quiet. The crew is friendly and tired of each other in the way of
+people who have done five days of repetitive work in a small vessel. Jace spends the
+transit reviewing the assay data and thinking about two things: the scratched rock,
+and the fact that the asteroids look different from inside the Astral than they do
+from physical space — denser, more present, as if the rock has more to it than
+its physical face. He has not done anything with this observation yet.
+
+**Must accomplish:**
+1. Day-one excitement is genuine and specific — first deployment in the field, the
+   asteroid belt at close range, real drone operations
+2. The monotony is shown honestly — the arc from "exciting" to "methodical" to "the
+   fourth day is the fourth day" is accurate and not played for either comedy or pathos
+3. Fourteen rocks, eleven misses, three minor finds, none worth acting on — a
+   completely standard disappointing trip that Jace is professionally okay with
+4. The drill sequencing optimization is a small character beat: he fixes something,
+   doesn't tell anyone, keeps running it to check stability; this is how he works
+5. The Astral asteroid observation is planted quietly — asteroids look different from
+   inside the dimensional layer; he files it; this seeds the drone survey capability
+   that becomes Scene 1-07h
+
+**Must NOT do:**
+- Make the trip pay off with a discovery — the point is the standard disappointment
+- Make the boredom comic; it is accurate and professional; Jace handles it fine
+- Skip the Astral observation; it is the thread that connects this scene to 1-07h
+
+**Narrative function:** Establishes Jace's professional baseline at Fortuna — he is
+good at the work, he improves processes quietly, he handles disappointment without
+drama. Also seeds the question he'll eventually answer: what if you did this survey
+from inside the Astral instead of physical space?
+
+---
+
+
+---
+
+### Scene 1-05e — The Inn Bar and the Chief of Security
+
+**Summary (two beats, several weeks apart):**
+
+**Beat 1 — First meeting:**
+The inn Jace is staying in has a small bar — eight stools, four tables, the kind of
+place that exists because frontier stations need somewhere people can sit with a drink
+and not be in their room. Jace has been on Fortuna long enough to have a usual seat.
+
+Suzi finds him there one evening — she says she heard about him and wanted to meet
+him before she needed something from him. She is compact, gray-haired, unhurried
+in the way of someone who has handled real situations and feels no need to perform
+authority about it. She has the bearing of ex-military without the sharpness that
+means recent; she's been out long enough to relax into herself. She buys him a drink.
+They talk for a while about nothing important. Cerberus approves of her, which Jace
+has started treating as relevant data. She leaves without having asked for anything.
+
+They become casual bar friends over the following weeks — no specific schedule, no
+deliberate arrangement, just two people who end up at the same eight stools at
+compatible times and find each other reasonable company. She drinks slowly. Cerberus
+collects treats from other patrons with systematic efficiency.
+
+**Beat 2 — The Helena conversation (later, weeks into his posting):**
+A quieter evening. Fewer people at the bar. Suzi says, without much preamble, that
+she gave her report to the council this week — the Helena investigation. It's public
+now; he can pull the briefing if he wants the details.
+
+She summarizes: one person of interest, Jin Luong, based on circumstantial timeline
+proximity and the fact that he reported to administration late the day before Helena
+was last seen without a logged reason. No physical evidence. No witnesses. Nothing
+that gets past reasonable doubt. The case is open. It is going to stay open.
+
+Someone down the bar — a miner, two drinks in — says something about the Chinese crew
+and what he'd expect from them given everything else that's been happening. Someone
+else agrees. There's a short conversation between people who have clearly had versions
+of it before about sabotage at Psyche, about the withdrawal, about whether the Chinese
+detachment here is a liability. Suzi listens to this without intervening. She doesn't
+agree with it visibly. She doesn't shut it down.
+
+Then someone mentions that one of the Chinese miners came back from an expedition
+yesterday. He'd had to go to Lanchee — the station doc — for a wound along his arm
+and side. A serious one. The person telling it says they don't understand how, because
+anything that did that to an unprotected person should have compromised his suit, and
+his suit was intact when he docked. No breach logged. No equipment failure filed.
+
+The bar sits with this for a moment. Then the conversation moves on.
+
+Jace sits with it a little longer.
+
+That night, back in his room with Cerberus warm against his feet and the stuffed pig
+under the dog's chin, is when it happens. He's been tired enough to be still for once.
+And then he is somewhere else.
+
+**Must accomplish:**
+1. Suzi is established through texture in Beat 1 — she sought him out, she's good
+   company, she doesn't ask for anything yet; the friendship develops over weeks of
+   casual bar time, not a single scene; Cerberus approves
+2. The Helena summary in Beat 2 is delivered as a professional close-out: the report
+   is public, here's what it says, Jin is the person of interest, nothing rises to
+   evidence; Suzi is not satisfied with the case but she is precise about what she
+   has and doesn't have
+3. The bar conversation about the Chinese crew reads as authentic frontier gossip —
+   some people with genuine grievances, some with ambient distrust, nobody with actual
+   information; Suzi lets it go without validating it
+4. The miner's injury detail lands cleanly: massive wound, suit intact, no logged
+   failure — the contradiction is stated and left without comment; the reader registers
+   it; Jace registers it; no one at the bar connects it to anything
+5. The scene transitions directly to Jace's first crossing — still, tired, feet warm,
+   the stuffed pig under Cerberus's chin, and then somewhere else
+
+**Must NOT do:**
+- Make Suzi's first appearance about the investigation — she meets him before she needs
+  him; the case comes up later when it's public and she can talk about it
+- Let the bar conversation about the Chinese miners be presented as correct — it is
+  ambient station hostility misdirected at people who are actually under duress; the
+  reader should feel the gap between what the bar thinks and what's actually happening
+- Editorialize about the injured miner detail — state it, let it sit
+- Put the first crossing in a separate scene — the transition from bar → room → still
+  → crossing is the structural point; they belong in the same scene contract
+
+**Foreshadowing:**
+- The Chinese miner's wound with the intact suit: the Chinese crew has encountered
+  something in the Astral and is fighting it without telling anyone; the wound
+  pattern is consistent with Astral fauna (claws, not tools); the suit being intact
+  means the injury happened in the Astral layer, not physical space
+- Jin Luong as Suzi's person of interest: the suspicion is wrong but the proximity
+  is real — Jin's timeline on the day Helena disappeared connects to something else
+  that will become clear later
+- The "only man she trusts" dynamic: Suzi is not a person who says things like this
+  casually; the transit alibi is the foundation but the trust is already larger than
+  the alibi
+
+**Narrative function:** Introduces Suzi as a character and an ally before she becomes
+plot-functional. Plants three threads simultaneously: the Helena investigation framing,
+the Chinese crew's undisclosed Astral encounters, and the wounded miner as evidence
+that something in the Astral is fighting back. Then drops Jace into his first crossing
+as a consequence of stillness, not intention — which is exactly how it works.
 
 ---
 
@@ -558,7 +963,7 @@ not good video, but real data, consistent across multiple crossings.
 ### Scene 1-07e — Sophia's Rescue and the Vector Discovery
 
 **What actually happens:** This takes place entirely within the Astral. Sophia's
-crewmates on the *Victoria* see a woman asleep in her bunk. Her {Aura} has a gap in its
+crewmates on the *Victoria* see a woman asleep in her bunk. Her Aura has a gap in its
 network log. From outside: nothing happened. From inside: she nearly died in a place
 no one would ever have found her.
 
@@ -628,7 +1033,7 @@ is that she didn't have a clear picture of where the interior ended.
 
 What the scene makes clear without stating: she came within a realistic probability of
 dying alone in a space that does not officially exist. Her crewmates would have found
-her in her bunk with a mask on her face and a gap in her {Aura} log. The cause of death
+her in her bunk with a mask on her face and a gap in her Aura log. The cause of death
 would have been recorded as scrubber saturation or unknown. There would have been no
 rescue, because there would have been no understanding that there was anything to
 rescue. The Astral is not hostile. It is not kind. It is a physical system with rules,
@@ -649,7 +1054,7 @@ They are tired. They do not have a clean ending. They go to sleep.
 3. The danger is arithmetic, not atmospheric — air supply, orientation loss, and
    the absence of any safety system that would trigger; the Astral is indifferent
 4. Sophia's crewmates see nothing — she is in her bunk; the only trace is a gap in
-   an {Aura} log; maintaining this invisibility is part of the tonal point
+   an Aura log; maintaining this invisibility is part of the tonal point
 5. The aftermath is quiet and specific — Sophia processes by analysis; she identifies
    exactly what she did wrong; she is more frightened than she shows; the reader sees
    this through texture, not statement
@@ -801,6 +1206,110 @@ The implications are recognized even if not fully articulated.
 
 ---
 
+
+---
+
+### Scene 1-07j — The Will Problem: Observation, Touch, and the Vampire Rule
+
+**Summary (distributed — two sessions across several days):**
+
+**Session 1 — Astral observation of the station's inhabitants:**
+Jace and Sophia, exploring the station from within the Astral, begin paying deliberate
+attention to the people they can see through the dimensional layer. They have noticed
+the glowing patterns before. Now they look carefully.
+
+Every person shines. The cognitive patterns in their heads — vast, complex,
+kaleidoscopic, individual — are the most visible thing about them. But surrounding each
+person is something different: a slow-sloshing pool of white and blue-tinged light that
+moves like thick liquid around their body, neither invested in anything nor going
+anywhere. It just surrounds them. It pools at their hands. It follows their movements
+with mild surface tension. Some people carry more of it than others.
+
+Specific observations they make across multiple sessions:
+
+A coworker from Drone Ops — someone Jace knows has chronic headaches — shows a growing
+red blur concentrated behind her eyes and at her temples. It pulses faintly. It looks
+like a bruise that exists one layer deeper than skin, and the sloshing ambient light
+seems to avoid it slightly, curving around it rather than passing through.
+
+A man in the medical bay with a broken arm: a greenish-gold light clings around the
+fracture site, brighter and more deliberate than the ambient white-blue. Concentrated.
+As if something is already working on the problem from the inside.
+
+Other observations accumulate. Sophia is filling notebooks as fast as she can write.
+Neither of them has a framework for what they are seeing, but the data is consistent:
+the ambient glow responds to physical state, emotional state, and attention. People
+who are tired carry less of it. People who are focused carry it more densely around
+whatever they are focused on. It is clearly connected to the person. It clearly does
+not belong to the environment.
+
+**Session 2 — The touch experiment:**
+Jace asks Sophia to try pulling at his ambient glow from the Astral while he stands in
+physical space. Deliberate, careful, scientific. He is in the real; she crosses. First
+attempt: she can't quite reach the right dimensional angle. Second attempt: she makes
+contact.
+
+From Jace's side: a sudden deep cold at the point of contact — not surface cold,
+something inside the tissue — followed almost immediately by a spreading pins-and-
+needles sensation from that point outward. Not painful. Wrong. He tells her to stop.
+
+From Sophia's side: she had to work to pull the light free — it clings to him like sap
+on bark; it doesn't want to leave; she had to apply steady sustained pressure to draw
+it away; when it released it came in a small coherent amount and immediately diffused
+into her own ambient field. And then — she felt immediately better. Refreshed. Rested.
+As if she had slept eight hours in ten seconds.
+
+They discuss what happened. Neither has language for it yet. Jace's first articulation:
+they should not be doing that to people. Not without asking. Probably not even with
+asking, until they understand it better. He phrases this, characteristically, not as a
+moral position but as a practical policy: they do not want to become the kind of people
+who go around taking other people's — whatever that is. Spirit. Life thing. Glow. He
+says explicitly: they are not going to be vampires.
+
+Sophia agrees but is already three observations ahead in her notes. The ambient light
+responds to fatigue. The headache coworker's red concentration is not the same
+phenomenon as the ambient glow — it's something the glow is reacting to. The broken
+arm's greenish light is a third distinct phenomenon. At least three separate things are
+happening here and they have names for none of them.
+
+**Must accomplish:**
+1. The three distinct Astral phenomena are established with specificity: ambient
+   sloshing white/blue glow (surrounds everyone, responds to fatigue and focus),
+   cognitive kaleidoscope patterns (in the head, individual, complex), and physical-
+   state concentrations (the headache red blur, the healing green-gold at the fracture)
+2. The specific cases — the Drone Ops coworker's headache, the broken arm — are
+   concrete and particular; the reader can begin building a model without being told
+   what the phenomena are
+3. The touch experiment proceeds as described: cold then pins-and-needles for Jace;
+   sap-like resistance then immediate refreshment for Sophia; they stop; they discuss
+4. The "we are not going to be vampires" policy lands as Jace's voice — practical
+   before moral; the concern is genuine; Sophia receives it as genuine
+5. Sophia's response is to agree and immediately note three more unanswered questions
+
+**Must NOT do:**
+- Name the ambient glow (Will), the cognitive patterns (Templates), or the healing
+  green (passive healing response) — the characters observe without framework; the
+  reader may connect the concepts; the words come much later
+- Make the touch experiment dramatic — it is a careful scientific test with real data
+  and an immediate policy response
+- Let Jace's "vampire" framing be purely humorous — it is funny in register but the
+  concern is genuine
+
+**Foreshadowing:**
+- The headache coworker's red blur: Template stress from unacknowledged Will-adjacent
+  work she doesn't know she's doing — seeds the idea that humans are already engaging
+  the Astral without knowing it
+- The healing green: passive [Heal] activity — the body's Template responding to damage
+  without directed Will; first glimpse of something practitioners later learn to direct
+- Sophia's "it came off him like sap from a tree": her exact description; Kael's
+  reaction to it in Arc 2 is telling — she recognizes immediately what they discovered
+  empirically and what it means they were doing
+- The vampire rule — self-imposed before they have any framework or community or
+  external guidance — becomes one of the foundational ethical commitments of everything
+  that follows; they invented it themselves before anyone told them it mattered
+
+---
+
 ### Scene 1-08 — The Open-Source Decision
 
 **Must accomplish:**
@@ -842,8 +1351,7 @@ The implications are recognized even if not fully articulated.
    in the process of saving them and coordinating defense
 4. {Seek} is destroyed by Astral predators drawn to the central spire — massive AI
    hardware generates Will; they consume it; the station surveillance apparatus
-   that has been coercing the Chinese detachment is gone; the miners cry with relief.
-   Many of the other AI systems are also heavily damaged.
+   that has been coercing the Chinese detachment is gone; the miners cry with relief
 5. The scale is survivable but barely — Fortuna is not fine, but the destruction of
    {Seek} produces a sudden thaw in relations with the Chinese detachment
 
@@ -856,14 +1364,7 @@ The implications are recognized even if not fully articulated.
 
 **Must accomplish:**
 1. Kael's arrival reads as something categorically different from the swarm — a
-   presence, not a threat (yet); she came following the swarm, expecting ruins. She 
-   helps in the final battle, taking out scores of the attacking beasts with cosmic
-   powers that the humans don't understand.
-2. Kael expects to find savages living on Earth. She had no idea that humans, especially
-   non-magical ones could live out here. She's surprised.  By default, she attmpts
-   mental domination magic and oreders them to submit to her and follow her commands.
-   They don't. They don't understand her, and don't respond well to her aggresion. At
-   first, she thinks they are from another faction.
+   presence, not a threat (yet); she came following the swarm, expecting ruins
 2. The failed dominance attempt lands without explanation — humans just don't respond
    the way the compulsion is designed to work; she has no framework for this
 3. Cerberus and Kai find each other — the arc closes on this image
@@ -882,7 +1383,7 @@ Reviewer checklist — yes/no against finished arc:
   Platinum status lost, Maureen's coldness)
 - [ ] The HUD headaches recur across transit scenes without resolution
 - [ ] The {Alex} debrief is funny and bleak in equal measure; no human ever appears
-- [ ] The Artemis call establishes Metis capability through casual sibling conversation
+- [ ] The Artemis call establishes Métis capability through casual sibling conversation
 - [ ] Sophia is established as the more experienced practitioner — Jace learns from
   her, not the reverse
 - [ ] The survival suits exist before Scene 1-07e — Jace built them; Sophia should
@@ -907,6 +1408,17 @@ Reviewer checklist — yes/no against finished arc:
   not in her words
 - [ ] The hydrogen preference emerges as an obvious practical conclusion, not an
   imposed design choice
+- [ ] Nick's stuffed pig is present in every Cerberus scene from 1-05a onward
+- [ ] Station nickname moments ("Training Mode", "Dog Man") land as strange-not-
+  flattering; Jace finds it weird, not warming
+- [ ] The scratched asteroid is described specifically enough that the reader
+  registers it as different from impact damage without being told what caused it
+- [ ] The Chinese miner's wound contradiction (massive injury, intact suit) is stated
+  once and not explained; the bar moves on; Jace doesn't
+- [ ] Suzi is established as a character and ally before she becomes plot-functional;
+  the friendship develops over weeks, not a single scene
+- [ ] The first crossing follows directly from the bar scene — stillness, tiredness,
+  Cerberus warm, and then somewhere else; intention is not required
 
 ---
 
@@ -924,7 +1436,7 @@ Reviewer checklist — yes/no against finished arc:
    a later call? Recommend: referenced in the next call — the reader imagines the
    arrival, then gets Artemis's reaction second-hand, which is funnier.
 
-4. **Sophia's {Aura} log gap:** Is the gap private by default, or accessible to
+4. **Sophia's Aura log gap:** Is the gap private by default, or accessible to
    {Misty}? Recommend: private by default; flag for later if crewmate suspicion
    escalates to formal inquiry.
 
@@ -943,7 +1455,7 @@ Reviewer checklist — yes/no against finished arc:
 ## Revision Notes
 
 - 2026-06-21: Initial arc file. Scene contracts 1-01 through 1-11.
-- 2026-06-26: Full rebuild. Added scenes 1-02a (HUD headaches), 1-03a (morning after),
+- 2026-06-26: Full rebuild and additions. Added scenes 1-02a (HUD headaches), 1-03a (morning after),
   1-03b ({Alex} debrief), 1-03c (Artemis call), 1-03d (pig-butt canister), 1-07a
   (camera problem), 1-07d (multi-camera rig), 1-07e (Sophia rescue — complete
   revision incorporating survival suits, vector/re-entry sequence, unglamorous

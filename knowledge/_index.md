@@ -1,23 +1,25 @@
 # Directory Tree
 
 - arcs/
-    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-06-26; type: arc; description: >; lines: 954; xrefs: 20; canonical: true; open_decisions: 6; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong
+    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-06-26; type: arc; description: >; lines: 1466; xrefs: 20; canonical: true; open_decisions: 6; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
     - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
     - arc_04_the_bloom.md - name: Arc 4 — The Bloom; id: arc_04_the_bloom; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 320; xrefs: 0; canonical: false; open_decisions: 5
 - build_tree.py
 - characters/
+    - char_carlos.md - name: Carlos [surname TBD]; id: char_carlos; status: alive; updated: 2026-06-26; type: character; description: Drone operations coworker at Fortuna Station. Older, always wears a cardigan sweater and tie. Jace's guide on arrival day.; lines: 63; xrefs: 3; canonical: false; chars: jace_apollo
     - char_cerberus.md - name: Cerberus; id: char_cerberus; status: alive; updated: 2026-06-21; description: Character profile for Cerberus, a Mars-bred companion dog to Jace Apollo.; lines: 214; xrefs: 0; canonical: false
     - char_dawn_chris_grant.md - name: Dawn Grant and Chris Grant; id: char_dawn_chris_grant; status: alive; updated: 2026-04-28; description: Character profile detailing Dawn and Chris Grant, parents of protagonist Jace Apollo.; lines: 90; xrefs: 0; canonical: false
     - char_dog_siren.md - name: Siren; id: char_dog_siren; status: alive; updated: 2026-06-03; description: Character profile detailing Siren, the communal dog and sister of Cerberus.; lines: 118; xrefs: 0; canonical: false
+    - char_erin.md - name: Erin [surname TBD]; id: char_erin; status: alive; updated: 2026-06-26; type: character; description: Innkeeper of the second transit inn on Fortuna Station. Red-haired, chaotic energy, genuinely engaged by whatever is happening.; lines: 57; xrefs: 3; canonical: false; chars: carlos
     - char_eugene.md - name: Dr. Eugene Hart; id: char_eugene; status: alive; updated: 2026-06-26; description: Character profile for Dr. Eugene Hart, the brilliant and loud original architect of the {Aura} core engine.; lines: 236; xrefs: 0; canonical: false
     - char_helena.md - name: Helena [surname TBD]; id: char_helena; status: deceased (disappeared; body never recovered) — TRUE CAUSE IS GM/REVEAL-LATER; updated: 2026-06-24; description: Character profile detailing Helena's disappearance and magical crossing into the Astral plane.; lines: 98; xrefs: 0; canonical: false
     - char_jace_apollo.md - name: Jace Grant; id: char_jace_apollo; status: alive; updated: 2026-06-17; description: Character profile detailing Jace Grant, a discharged Air Force officer discovering latent magical abilities.; lines: 365; xrefs: 0; canonical: false
     - char_jelly_grant.md - name: Jelly; id: char_jelly_grant; status: alive (off-page, on Earth); updated: 2026-05-02; description: Character profile for Jelly Grant, a dog representing home and enduring family connection.; lines: 76; xrefs: 0; canonical: false
     - char_jin_luong.md - name: Jin Luong; id: char_jin_luong; status: alive; description: Character profile for Jin Luong, head mining supervisor of the Chinese detachment on Fortuna Station.; lines: 54; xrefs: 0; canonical: false
     - char_jinx_grant.md - name: Jinx; id: char_jinx_grant; status: alive (off-page, on Earth); updated: 2026-05-02; description: Character profile for Jinx, the primary family horse and symbol of home on a Virginia farm.; lines: 85; xrefs: 0; canonical: false
-    - char_kael.md - name: Kael; id: char_kael; status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system; updated: 2026-06-26; description: Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice.; lines: 223; xrefs: 0; canonical: false
-    - char_kai.md - name: Kai; id: char_kai; status: alive; updated: 2026-06-26; description: Character profile for Kai, a Woven scout familiar who is Will-bonded to Kael and possesses unique Astral perception capabilities.; lines: 128; xrefs: 0; canonical: false
+    - char_kael.md - name: Kael; id: char_kael; status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system; updated: 2026-06-26; description: Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice.; lines: 319; xrefs: 0; canonical: false
+    - char_kai.md - name: Kai; id: char_kai; status: alive; updated: 2026-06-26; description: Character profile for Kai, a Crystal Dragon familiar Will-bonded to Kael, who scales in size and capability across dimensional layers and serves as Kael's mount in the Astral and Hyperspace.; lines: 181; xrefs: 0; canonical: false
     - char_lanchee.md - name: Lanchee (last name TBD); id: char_lanchee; status: alive; description: >; lines: 96; xrefs: 0; canonical: false
     - char_lina_mills.md - name: Lina Mills; id: char_lina_mills; status: alive — departs Mars during Jace's hard months; occasional later comms possible; updated: 2026-05-02; description: Character profile for Lina Mills, dog breeder at the Mars facility and acquaintance of Jace Apollo.; lines: 147; xrefs: 0; canonical: false
     - char_lt_rich_cullivan.md - name: Rich Cullivan; id: char_lt_rich_cullivan; status: alive; updated: 2026-05-02; description: Character profile detailing Rich Cullivan, an Air Force sponsor and communications expert on Mars.; lines: 151; xrefs: 0; canonical: false
@@ -54,7 +56,7 @@
     - faction_united_states_military_intelligence.md - name: United States Military and Intelligence (Mars Command); id: faction_united_states_military_intelligence; status: active; updated: 2085-05-12; type: military; description: Faction profile detailing the United States military and intelligence operations on Mars, operating out of Joint Base Terminus under the 56th State framework.; lines: 97; xrefs: 0; canonical: false
     - faction_vetala_residua.md - name: The Vetala Residua; id: faction_vetala_residua; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 81; xrefs: 0; canonical: true
 - livestock/
-    - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-17; type: livestock_manifest; description: Manifest detailing livestock pairings and life support allocation for the Falcon voyage.; lines: 117; xrefs: 0; canonical: false
+    - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-26; type: livestock_manifest; description: Manifest detailing livestock pairings and life support allocation for the Falcon voyage.; lines: 135; xrefs: 0; canonical: false
 - locations/
     - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; canonical: true; updated: 2026-04-28; type: region; description: Overview of the Asteroid Belt region, its geography, and major human stations.; lines: 113; xrefs: 0; canonical: true
     - location_elysium.md - name: Elysium; id: location_elysium; status: active, International/European hub; updated: 2026-05-02; type: city; description: Description of the cosmopolitan, high-stakes international business hub city of Mars.; lines: 22; xrefs: 0; canonical: false
@@ -206,7 +208,6 @@ These files are not referenced by any other file's `cross_references`. They may 
 
 - `CLAUDE_PROJECT_INSTRUCTIONS`
 - `MASTER-SYNOPSIS`
-- `arc_01_falcon_and_fortuna`
 - `arc_03_the_return_and_the_trap`
 - `arc_04_the_bloom`
 - `book01-ch01-afternoon-workshop`
@@ -214,6 +215,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `book01-opening-notes`
 - `book01-transit-vignettes`
 - `char_dawn_chris_grant`
+- `char_erin`
 - `char_kai`
 - `char_mr_sylvester`
 - `char_saul`
