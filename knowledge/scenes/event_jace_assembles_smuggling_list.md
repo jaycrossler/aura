@@ -1,4 +1,5 @@
 ---
+
 description: "Jace acquires restricted goods for Artemis's list during a desperate smuggling sprint on Mars."
 id: event_jace_assembles_smuggling_list
 name: Assembling Artemis's List — The Smuggling Sprint
@@ -12,7 +13,7 @@ characters: [jace, char_the_rat, various_gray_market_contacts]
 location: various (Terminus civilian domes, market district, gray-market contacts, Chinese military warehouse area)
 status: draft
 storybot_extrapolation_allowed: true
-last_updated: 2105-04-15
+last_updated: 2105-04-22
 cross_references:
   - /knowledge/characters/char_jace_apollo.md
   - /knowledge/characters/char_smuggler_mars.md

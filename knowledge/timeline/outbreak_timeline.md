@@ -1,11 +1,12 @@
 ---
+
 description: "Chronological timeline detailing the gradual return and manifestation of magic in space."
 id: outbreak_timeline
 name: The Outbreak — Chronological Timeline of Magic's Return
 type: timeline
 status: working draft
 canonical: true (phases and structure); partial (specific scene details)
-last_updated: 2105-04-15
+last_updated: 2105-04-22
 description: "Chronological timeline detailing the gradual return and manifestation of magic in space, centered around Metis Station and Fortuna Station."
 cross_references:
   - /knowledge/universe-spec/magic_manifestations_early.md
