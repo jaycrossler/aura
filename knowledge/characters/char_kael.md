@@ -161,6 +161,8 @@ Arc 2.
 - Template perception (reads beings and objects for Will-density and history)
 - Social compulsion (standard use; fails on humans due to cognitive Template hardening)
 - [Conjure Food] (three-century library; now expanding to include Sol human cuisine)
+- [Astral Transfer] L2 (scout level; allows crossing her personal travel kit and tools)
+- [Astral Transfer - Imbued Items] L1 (specialized sub-skill; allows pulling Will-templated/imbued objects, like her ancient runed iron bracer, across dimensional boundaries at negligible cost despite their heavy atomic weight)
 - Old Greek (pre-Scar variant, evolved over 3000 years — partially legible to {Aura})
 
 **Languages:** Woven (her civilization's evolved Greek-descended language), pre-Scar

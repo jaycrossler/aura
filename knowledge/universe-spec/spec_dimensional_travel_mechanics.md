@@ -410,6 +410,8 @@ Matter with a living **Template** â€” a higher-dimensional pattern of its own â€
 with relative ease. The Template aligns with the higher layer. Inert matter without a
 Template must be pushed across by brute Will.
 
+**Imbued / High-Template Objects:** Manufactured objects do not naturally possess Templates. However, objects that have been extensively invested with Will over long periods, or specifically crafted to hold a Template (such as Kael's ancient runed iron bracer), develop a synthetic Template affinity. This substantially reduces their crossing cost relative to raw, un-Templated metals of the same weight. A practitioner with specialized skills like `[Astral Transfer - Imbued Items]` can exploit this synthetic Template to pull these items across the dimensional membrane with far less effort.
+
 ### Crossing Cost Scale
 
 | What                                         | Approximate cost                               | Notes                                             |
@@ -423,6 +425,9 @@ Template must be pushed across by brute Will.
 | Small powered vehicle                        | Days, multiple practitioners                   | Practical limit for solo effort.                  |
 | Small scout vessel                           | ~1 week, concerted group effort                | Alloys + electronics combined.                    |
 | Warship or industrial vessel                 | Effectively impossible (biological Will alone) | See: AI Will.                                     |
+
+> [!NOTE]
+> These costs represent an untrained practitioner. A practitioner with [Astral Transfer] L3+ substantially reduces these costs for objects within their current ceiling. See [magic_astral_transfer_skill.md](file:///d:/Projects/aura/knowledge/magic-systems/magic_astral_transfer_skill.md).
 
 ### Atomic Weight Rule
 

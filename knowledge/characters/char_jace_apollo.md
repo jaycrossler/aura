@@ -31,7 +31,7 @@ romantic: [TBD]
 magic_user: true (latent at story start, emerging through Book 1)
 magic_systems: [magic_returning_arts]
 magic_proficiency: novice (unaware/emerging)
-notable_skills: [drone command and control, military tactics, basic engineering, marksmanship, animal handling (learned), augmented-reality systems operation, dimensional tear-pull (discovered under duress)]
+notable_skills: [drone command and control, military tactics, basic engineering, marksmanship, animal handling (learned), augmented-reality systems operation, dimensional tear-pull (discovered under duress), [Astral Transfer] L2 (acquired during plumbing crisis; expert L3 at Arc 1 end)]
 languages_spoken: [English (native), Mandarin (basic, military-trained), Spanish (conversational)]
 
 # Physical
@@ -310,6 +310,19 @@ What Jace does **not** know: the asset is the quiet Chinese woman he'll share fo
 ### Departure
 
 Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactivated HUD. Barely-sufficient animal handling certification. A puppy named after the three-headed guardian of the underworld. One conversation with his family before the communications lag makes real-time calls impossible.
+
+## Capabilities
+
+### Astral Skills
+
+*   **[Mind Wall] (L1 passive)**: Sol human cognitive baseline. Unconsciously protects his cognitive Template layers against external compaction and compulsion; a result of three decades of latent Will accumulation.
+*   **[Astral Transfer] (L2 at plumbing crisis, L3 at Arc 1 end)**: His primary active skill. Acquired accidentally during the plumbing crisis, and consciously practiced at Fortuna. Allows transferring objects across dimensional membranes. L2 permits crossing personal kit and Cerberus. L3 permits crossing Sparky and the lidar rig, plus short-range tear-pulling of items from physical space.
+*   **[Self Template] (L1 unstable)**: Unconscious activation during the plumbing crisis. Templates his cybernetic HUD implant, resolving high-Z crossing stress and eliminating the headaches.
+
+### Trained Skills
+
+*   **Drone Operations & Design (Expert)**: Proficient with commercial and custom drones (like Sparky).
+*   **Mechanical & Systems Engineering (Expert)**: Pragmatic engineering, fabrication, and low-gravity maintenance.
 
 ---
 
