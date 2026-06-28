@@ -58,6 +58,7 @@
 - livestock/
     - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-26; type: livestock_manifest; description: Manifest detailing livestock pairings and life support allocation for the Falcon voyage.; lines: 135; xrefs: 0; canonical: false
 - locations/
+    - fortuna_station_population_neighborhoods.md - lines: 0; xrefs: 0; canonical: false
     - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; canonical: true; updated: 2026-04-28; type: region; description: Overview of the Asteroid Belt region, its geography, and major human stations.; lines: 113; xrefs: 0; canonical: true
     - location_elysium.md - name: Elysium; id: location_elysium; status: active, International/European hub; updated: 2026-05-02; type: city; description: Description of the cosmopolitan, high-stakes international business hub city of Mars.; lines: 22; xrefs: 0; canonical: false
     - location_fortuna_station.md - name: Fortuna Station; id: location_fortuna_station; status: active, growth phase; updated: 2026-06-17; type: station; description: Description of the industrial inner belt mining hub, Fortuna Station.; lines: 151; xrefs: 0; canonical: false
@@ -255,6 +256,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `faction_united_states_mars`
 - `faction_united_states_military_intelligence`
 - `faction_vetala_residua`
+- `fortuna_station_population_neighborhoods`
 - `location_asteroid_belt_overview`
 - `location_elysium`
 - `location_juno_station`

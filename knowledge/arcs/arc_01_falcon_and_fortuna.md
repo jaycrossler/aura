@@ -182,7 +182,7 @@ Scenes are organized by thread. Threads interleave in actual narrative order.
 | Are there more Tick-Maws on the station or docked ships? | Partial | Three sweeps done; no systematic survey of all docked vessels yet |
 | What drove the Scavenging Queen to Fortuna specifically? | Open | Ecological drift or something pushing the swarm inward? Kael has an opinion she does not share yet |
 | How many nests remain in the Fortuna asteroid? | Open | Jin cleared eleven; the swarm had to originate somewhere larger |
-| What does the Queen's orb do to Sophia long-term? | Partial | [Force Application] L4 established; whether the Queen's Will has lasting character effects is unresolved |
+| What does the Queen's orb do to Sophia long-term? | Partial | [Force Application] L2 established; whether the Queen's Will has lasting character effects is unresolved |
 
 ---
 
