@@ -137,6 +137,117 @@ tempting, add a cost.
 
 ---
 
+## Progression Narrative Rules
+
+These rules govern how skill advancement is *written* — not what the mechanics are
+(those live in `magic-systems/magic_skills_framework.md`), but how advancement
+appears on the page. They are binding for all prose drafts, scene files, and StoryBot
+chapter generation.
+
+### The Level Numbers Stay in the KB
+
+Skill levels (L1, L2, L3) are internal tracking tools — continuity anchors in character
+sheets and arc files. They do not appear in prose. A character does not think "I am L2
+in [Force Application]." They think: *That actually worked. I didn't have to push as hard
+as last time.* The reader tracks progress through effort, observer reactions, and
+capability demonstrations — never through stated numbers.
+
+**In dialogue:** Characters may say things like "you've improved significantly" or "you
+have real capability now." They do not say "you're at the third level." Kael's taxonomy
+has different words entirely; she doesn't use Jace's bracket system internally.
+
+**In {Aura} logs:** {Aura} may use bracket notation and functional descriptors — "output
+characteristics consistent with established L2 capability" — but not bare numbers
+divorced from observation.
+
+### Advancement Is Shown Through Four Signals
+
+Every scene that delivers an advancement moment must show at least two of these:
+
+**1. Effort signals.** How physically and mentally expensive does the working feel?
+Sweat, headache, nausea, hunger after, exhausted sleep. As skill develops, the same
+working becomes cheaper — then free. The reader tracks this without being told to.
+*Do not skip the cost, even when the cost is shrinking.*
+
+**2. Ceiling signals.** What can the practitioner attempt now that was impossible
+before? What still fails? The failure mode changes with level — "I couldn't start it"
+becomes "I started it but lost the thread" becomes "I held it but couldn't sustain
+long enough." The *quality* of failure is a progress bar.
+
+**3. Observer reactions.** Kael is the precision instrument for this. When she stops
+raising an eyebrow and starts asking questions, something changed. When galactic
+practitioners react to Sol humans in ways that don't fit their "primitives" model —
+that's advancement showing through the story's skin. Use sparingly; every recalibration
+from Kael should feel earned.
+
+**4. Comparison demonstrations.** Not stated comparisons ("he's better than her now")
+but demonstrated ones. Sophia can't move the copper block. Jace manages it in thirty
+minutes. Kael manages it with visible effort. No one needs to explain the hierarchy.
+
+### Advancement Is Never a Tutorial Pop-Up
+
+Skills are not announced. Jace does not realize mid-scene that he's "unlocked" something.
+{Aura} does not congratulate him. A skill crystallizes because he has been practicing,
+an orb influx accelerated the process, and the Template integrated the pattern. The
+moment of realization — if there is one — is recognizing something already present, not
+receiving something new.
+
+**The {Aura} log as slow reveal:** {Aura} may document the capability expansion in her
+log, which Jace reads later. This is a legitimate way to show advancement without an
+in-scene announcement. {Aura}'s voice is observational, not congratulatory.
+
+### New Skills Open Doors, Not Just Stats
+
+When a character acquires a skill they didn't have before, it should immediately create
+at least one new *category of problem* it enables them to attempt — and at least one new
+*category of danger* that follows. A skill that just makes existing things easier is
+probably not a new skill; it's a level advancement in an existing one.
+
+**[Self Template]** doesn't make Jace better at fighting. It makes him survivable enough
+to attempt things that would have killed him before. Which means he will attempt them.
+Which means new categories of harm.
+
+**[Ward Setting]** doesn't make Jace a combat practitioner. It means he can protect a
+space — and suddenly has to think about what is worth protecting, what the wards reveal
+about dimensional activity, and what happens when something is designed to break wards.
+
+### Sol Humans Stay Behind — By Conventional Metrics
+
+Through Arc 4, Sol human practitioners should be measurably behind galactic peers in
+almost every skill except their areas of emergent asymmetric advantage. This is not a
+temporary embarrassment to power through. It is the story's central dramatic irony:
+the readers see what Kael doesn't, and what galactic civilization has no framework for.
+
+The Sol human edge is not "they catch up fast." It is:
+- Mental Fortification so deep that Will-based coercion simply doesn't work on them
+- Transfer capability (Jace specifically) that surprises practitioners with twice his age
+- {Aura}/Will integration infrastructure with no galactic equivalent
+- A cognitive Template complexity that produces capabilities no practitioner tradition
+  predicted
+
+**None of these advantages should be named or explained in-story until Arc 3+.** They
+should be visible to the reader as something strange, and puzzling to galactic observers.
+
+### The Kael/Jace Dynamic Is the Reader's Progress Bar
+
+Kael's assessment of Jace is the series' most reliable signal of how Sol human
+practitioners are developing. Track it carefully:
+
+- **Arc 1:** She reads him as unbalanced, primitive, unexpectedly capable at Transfer
+  (which she considers a narrow and relatively unimpressive skill tree)
+- **Arc 2:** She is teaching him. She expects slow progress. She gets unexpected
+  moments. She is updating her model but not yet dramatically.
+- **Arc 3:** She still considers him far behind. But she has stopped being surprised
+  by individual surprises, which is itself a kind of recalibration.
+- **Arc 4+:** Her model of what Sol humans are begins to strain against what she is
+  observing.
+
+Kael must never be made stupid to make Jace look impressive. She is right about
+almost everything she thinks she knows. What she doesn't know is the thing that will
+matter.
+
+---
+
 ## The Nomenclature Thread
 
 This is one of the series' most important long-running background threads. It should
@@ -323,6 +434,34 @@ destroy the tension that makes humanity interesting to the galaxy.
 comes from repair, rescue, documentation, restraint, bonding, engineering, teaching,
 and governance. Violence should have cost. Farming should feel wrong narratively even
 when it is mechanically available.
+
+**Do not state skill levels in prose.** Numbers belong in the KB. Advancement in
+prose is effort, comparison, observer reaction, and new capability — never a stated
+level or explicit announcement that someone has "reached" something.
+
+**Do not name the skill trees.** Characters don't know they're in a "Locomotion tree"
+or a "Templating tree." They know what they can do and what they're trying to learn.
+The taxonomy is Jace and {Aura}'s emergent documentation system, not an in-world
+institution.
+
+**Do not let advancement flatten the challenge.** Every time a practitioner gains a
+capability, the world must present them with a problem that new capability creates or
+enables. Power growth without new consequence is stagnation in disguise. The
+progression review guide calls this "stakes escalation" — it applies to magic
+specifically as much as to plot.
+
+**Do not give Sol humans orb windfalls without ethical friction.** Fauna orbs are
+acceptable field resources — this is established. But as practitioners grow, the orbs
+they encounter grow too. Larger orbs may carry Echo fragments, memory noise, or
+frequency incompatibility. The ethical and practical weight should escalate with
+practitioner power. Never treat a significant orb absorption as purely beneficial.
+
+**Do not let Will affinity from absorbed orbs go unremarked.** When a practitioner
+absorbs an orb from a fire-aligned creature, the absorbed Will has fire affinity —
+it flows more easily into fire-related skills, or resists flowing into cold/
+perception skills. This is a nuance, not a hard rule, and practitioners in the early
+arcs won't understand the mechanism. But {Aura} should note anomalies in progression
+efficiency, and Kael should eventually have vocabulary for it.
 
 **No purely external horror.** The strongest horror in the series is identity horror.
 Memory loss, Template drift, Echo contamination, {Aura} logs that remember impossible

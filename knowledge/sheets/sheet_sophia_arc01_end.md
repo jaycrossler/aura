@@ -41,7 +41,7 @@ stopped. She has accumulated more trauma than she has processed.
 |---|---|---|---|
 | *[Mind Wall]* | passive | Sol human baseline | Standard; Kael's assessment: strong and well-developed even by her own tradition's standards |
 | **[Astral Transfer]** | **L1** | Self-developed through necessity | Crosses standard personal kit; notebooks; simple analog equipment. Cannot cross most electronics. Cannot cross another practitioner's equipment. Gap with Jace's L3 is visible to Kael on first assessment — Sophia cannot move a copper block; Jace manages it in ~30 minutes |
-| **[Force Application]** | **L2** | Nascent ability developed during solo month (L1); borderline L2 after Tick-Maw orb + daily practice; Queen kill orb delivered solid L3 — the advancement that should take years; L3 is expert level, the practical ceiling for most practitioners | Can apply directed Will force at precision and scale; killed the Scavenging Queen by finding and compressing its Will-convergence point; in physical space: real environmental effects at range; L3 is the expert ceiling most practitioners never reach — she has arrived here through solo practice + two orbs; she does not yet know what the next level requires |
+| **[Force Application]** | **L2** | Nascent ability developed during solo month (L1); solid L2 after Tick-Maw orb + daily practice + Queen kill orb consolidation; L2 is reliable, functional, combat-capable | Can apply directed Will force with precision at range; killed the Scavenging Queen by finding and compressing its Will-convergence point; in physical space: real environmental effects at moderate range; L2 is solid but not yet expert — she feels the ceiling when she pushes hard; L3 requires a qualitative shift in understanding she does not yet have |
 | **[Far Sight]** | **L1** | Developed during solo documentation work | Can sense living minds in the Astral at moderate range; reads Will-glow quality with more precision than Jace; her seventeen notebooks contain the first systematic mapping of how different minds appear in the Astral |
 | **[Dimensional Sight]** | **L1** | Developed as a safer alternative to full crossings during early exhausted periods | Can perceive the dimensional layer without entering it; brief duration; costs less than a crossing; useful for checking whether something is present before going in |
 
@@ -126,7 +126,7 @@ stopped. She has accumulated more trauma than she has processed.
 ## Open Notes for Next Sheet
 
 - [ ] The "Invasion Force?" notebook — when does this come into play and how?
-- [ ] [Force Application] development trajectory — this is her combat skill; at what level does it become genuinely dangerous to Kael-class opponents?
+- [ ] [Force Application] development trajectory — currently L2; arc 2 training + orb event targets L3; at L3 becomes genuinely dangerous to Kael-class opponents; at what point does Kael acknowledge this?
 - [ ] ESA relationship — her crewmates; her reporting obligations; what happens when the open-source release is public
 - [ ] Whether Kael reads Sophia's trauma directly or only the Astral skills surface
 - [ ] [Astral Transfer] gap with Jace — Kael's test; Sophia's reaction; does she try to close the gap or accept the specialization?

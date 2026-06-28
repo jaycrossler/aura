@@ -5,6 +5,7 @@
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
     - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
     - arc_04_the_bloom.md - name: Arc 4 — The Bloom; id: arc_04_the_bloom; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 320; xrefs: 0; canonical: false; open_decisions: 5
+    - arc_05_the_reckoning.md - name: Arc 5 — The Reckoning (working title); id: arc_05_the_reckoning; status: draft; updated: 2026-06-27; type: arc; description: >; lines: 690; xrefs: 0; canonical: false; open_decisions: 8
 - build_tree.py
 - characters/
     - char_carlos.md - name: Carlos [surname TBD]; id: char_carlos; status: alive; updated: 2026-06-26; type: character; description: Drone operations coworker at Fortuna Station. Older, always wears a cardigan sweater and tie. Jace's guide on arrival day.; lines: 63; xrefs: 3; canonical: false; chars: jace_apollo
@@ -58,7 +59,7 @@
 - livestock/
     - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-26; type: livestock_manifest; description: Manifest detailing livestock pairings and life support allocation for the Falcon voyage.; lines: 135; xrefs: 0; canonical: false
 - locations/
-    - fortuna_station_population_neighborhoods.md - lines: 0; xrefs: 0; canonical: false
+    - fortuna_station_population_neighborhoods.md - updated: 2026-06-27; lines: 688; xrefs: 0; canonical: false
     - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; canonical: true; updated: 2026-04-28; type: region; description: Overview of the Asteroid Belt region, its geography, and major human stations.; lines: 113; xrefs: 0; canonical: true
     - location_elysium.md - name: Elysium; id: location_elysium; status: active, International/European hub; updated: 2026-05-02; type: city; description: Description of the cosmopolitan, high-stakes international business hub city of Mars.; lines: 22; xrefs: 0; canonical: false
     - location_fortuna_station.md - name: Fortuna Station; id: location_fortuna_station; status: active, growth phase; updated: 2026-06-17; type: station; description: Description of the industrial inner belt mining hub, Fortuna Station.; lines: 151; xrefs: 0; canonical: false
@@ -77,15 +78,19 @@
     - location_the_long_burn_bar.md - id: location_the_long_burn_bar; status: draft; type: location; description: Description of The Long Burn, an underground commercial bar in Terminus' old tunnels.; lines: 97; xrefs: 3; canonical: false; chars: the_rat
     - location_the_scar_never_never.md - name: The Scar — Never-Never Region; id: location_scar_never_never; status: reopening; canonical: true; updated: 2026-05-31; type: location_dimensional_region; description: Description of the dimensional region known as The Scar and its Never-Never ecology.; lines: 134; xrefs: 0; canonical: true
 - magic-systems/
+    - advancement_ledger.md - name: Character Advancement Ledger; id: advancement_ledger; status: canonical; canonical: true; updated: 2026-06-27; type: kb_system; description: >; lines: 422; xrefs: 8; canonical: true
     - magic_astral_transfer_skill.md - name: [Astral Transfer] — Skill Specification; id: magic_astral_transfer_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 239; xrefs: 5; canonical: true; chars: jace_apollo
     - magic_breach_crossers_transient.md - name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger); id: magic_breach_crossers_transient; status: working draft — extends canonical crossing/fauna specs; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology); updated: 2026-06-25; type: magic_system; description: Taxonomy and mechanics for astral organisms crossing into physical reality during magical breaches.; lines: 123; xrefs: 5; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
+    - magic_cryptid_species_reference.md - name: Belt Cryptid Species — Will Profile and Orb Reference; id: magic_cryptid_species_reference; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 337; xrefs: 5; canonical: true
     - magic_cryptids_silicon.md - name: Silicon Manifestations — The Glass-Infestation Class; id: magic_cryptids_silicon; status: draft — Fortuna-context established; broader taxonomy TBD; canonical: true (Fortuna context); partial (wider applicability); updated: 2026-05-02; type: magic_system; description: Taxonomy of silicon-based magical manifestations found in industrial manufacturing environments.; lines: 116; xrefs: 4; canonical: true (Fortuna context); partial (wider applicability)
     - magic_cultural_schools.md - name: Cultural Schools of the Returning Arts; id: magic_cultural_schools; status: emerging; canonical: true; updated: 2026-05-31; type: magic_subsystem; description: Details various cultural traditions and schools of magic arts and their core principles.; lines: 133; xrefs: 0; canonical: true
     - magic_improvised_responses.md - name: Improvised Responses to the Outbreak — Belt Field Adaptations; id: magic_improvised_responses; status: draft — Fortuna context; broader applicability TBD; canonical: true (field adaptations); partial (wider use); updated: 2026-05-02; type: magic_system; description: Details improvised magical technology built from salvaged materials for asteroid belt survival.; lines: 100; xrefs: 4; canonical: true (field adaptations); partial (wider use)
     - magic_manifestations_early.md - name: Early Manifestations — Pre-Understanding Phase; id: magic_manifestations_early; status: established canon (observable phenomena); theoretical explanations TBD; canonical: true; updated: 2105-03-15; type: magic_system; description: Catalog of early, observable magical phenomena encountered during the solar system outbreak.; lines: 187; xrefs: 5; canonical: true; chars: jace_apollo, cerberus
     - magic_never_never.md - name: The Never-Never; id: magic_never_never; status: foundational; canonical: true; updated: 2026-05-31; type: foundational_location_magic_system; description: Describes the Never-Never location, detailing its two distinct environments and history.; lines: 156; xrefs: 0; canonical: true
     - magic_overview.md - name: Magic — Overview and Fundamental Principles; id: magic_overview; status: working draft — foundational canon established; details to be developed across books; canonical: true (foundational principles); updated: 2026-05-02; type: magic_system; description: Foundational overview detailing the core principles and mechanics of the returning magic system.; lines: 117; xrefs: 3; canonical: true (foundational principles)
+    - magic_progression_signals_guide.md - name: Progression Signals — Prose Writing Guide; id: magic_progression_signals_guide; status: canonical (editorial/developmental — not world canon); canonical: true; updated: 2026-06-27; type: dev_guide; description: >; lines: 353; xrefs: 4; canonical: true
     - magic_returning_arts.md - name: The Returning Arts; id: magic_returning_arts; status: foundational; canonical: true; updated: 2026-05-31; type: magic_system; description: Describes the mechanics and scope of magic returning to the solar system.; lines: 166; xrefs: 0; canonical: true
+    - magic_self_template_skill.md - name: [Self Template] — Skill Specification; id: magic_self_template_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 444; xrefs: 6; canonical: true; chars: jace_apollo, kael
     - magic_skill_level_scale.md - name: Skill Level Scale — Canonical Reference; id: magic_skill_level_scale; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 205; xrefs: 4; canonical: true; chars: jace_apollo, kael
     - magic_skills_framework.md - name: Skills Framework — [Skill] System, Trees, and Progression; id: magic_skills_framework; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: Reference guide for the magic skills framework, defining the bracketed [Skill] system, skill trees, and Sol human progression.; lines: 625; xrefs: 7; canonical: true; chars: jace_apollo, kael
     - magic_technological_adaptation.md - name: Technological Adaptation to the Outbreak — The Static Problem; id: magic_technological_adaptation; status: established canon; canonical: true; updated: 2026-06-26; type: magic_system; description: Details the technical challenges and adaptations for electronic systems facing magical interference (the Static).; lines: 123; xrefs: 4; canonical: true
@@ -123,7 +128,7 @@
     - event_jace_origin_negotiation.md - id: event_jace_origin_negotiation; status: pre-draft (emotional beats / structural sketch); updated: 2026-06-03; type: scene; description: Jace negotiates his contract with Origin Industries, establishing his diminished bargaining position.; lines: 109; xrefs: 0; canonical: false
     - event_rich_comms_favor.md - name: Rich's Comms Favor for Jace; id: event_rich_comms_favor; status: sketch; updated: 2026-05-02; type: scene; description: Rich uses his comms access to grant Jace a significant favor after his discharge.; lines: 121; xrefs: 4; canonical: false; chars: lt_rich_cullivan, jace_apollo
     - scene_notes_ai_interactions.md - id: scene_notes_ai_interactions; status: pre-draft; updated: 2026-06-18; type: scene_notes; description: Scene notes for two key AI-interaction beats: the {Alex} morning greeting routine and Nick's pitch to install {Aura}. Updated to reflect that Jace has no pre-installed {Aura} — just a bare military HUD reformatted as civilian OS.; lines: 185; xrefs: 0; canonical: false
-- SERIES_BIBLE.md - name: The Aura Chronicles — Series Bible; id: series_bible; status: canonical; updated: 2026-06-26; type: series_bible; description: >; lines: 365; xrefs: 5; canonical: false
+- SERIES_BIBLE.md - name: The Aura Chronicles — Series Bible; id: series_bible; status: canonical; updated: 2026-06-26; type: series_bible; description: >; lines: 504; xrefs: 5; canonical: false
 - sheets/
     - sheet_jace_arc01_end.md - name: Jace Grant — Arc 1 End (Kael Arrival); id: sheet_jace_arc01_end; subject: jace_apollo; arc: arc_01; checkpoint: Swarm repelled; Kael has arrived; Arc 1 closes; seq: 2; updated: 2026-06-27; lines: 144; ⚠️ IMMUTABLE — do not edit
     - sheet_jace_arc01_start.md - name: Jace Grant — Arc 1 Start (Falcon Departure); id: sheet_jace_arc01_start; subject: jace_apollo; arc: arc_01; checkpoint: Boards the Falcon at Mars — before any Astral exposure; seq: 1; updated: 2026-06-27; lines: 113; ⚠️ IMMUTABLE — do not edit
@@ -199,6 +204,7 @@ These files have non-canonical status and should not be treated as authoritative
 - `arcs\arc_02_woven_and_unbound.md`
 - `arcs\arc_03_the_return_and_the_trap.md`
 - `arcs\arc_04_the_bloom.md`
+- `arcs\arc_05_the_reckoning.md`
 - `locations\location_mars_livestock_farm.md`
 - `locations\location_terminus.md`
 - `locations\location_the_long_burn_bar.md`
@@ -218,8 +224,10 @@ These files are not referenced by any other file's `cross_references`. They may 
 
 - `CLAUDE_PROJECT_INSTRUCTIONS`
 - `MASTER-SYNOPSIS`
+- `advancement_ledger`
 - `arc_03_the_return_and_the_trap`
 - `arc_04_the_bloom`
+- `arc_05_the_reckoning`
 - `book01-ch01-afternoon-workshop`
 - `book01-ch01-morning-round`
 - `book01-opening-notes`
@@ -266,7 +274,9 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `location_psyche_station`
 - `location_sylvia_station`
 - `location_the_scar_never_never`
+- `magic_cryptid_species_reference`
 - `magic_improvised_responses`
+- `magic_progression_signals_guide`
 - `magic_returning_arts`
 - `magic_will_implications`
 - `metadata_template_guide`
@@ -274,10 +284,6 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `review_2026-06-16_falcon_redesign`
 - `scene_notes_ai_interactions`
 - `session_notes_2026-05-02`
-- `sheet_jace_arc01_end`
-- `sheet_jin_arc01_end`
-- `sheet_nick_arc01_end`
-- `sheet_sophia_arc01_end`
 - `ship_livestock_ferry_class`
 - `ship_nina`
 - `ship_pinta`
