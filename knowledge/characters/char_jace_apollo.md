@@ -26,6 +26,8 @@ family: [char_dawn_grant (mother), char_chris_grant (father), char_sister_athena
 allies: [char_mei (fellow Falcon crew; her intelligence role unknown to Jace at first), char_mr_sylvester (handler, uneasy), char_smuggler_mars (fixer / "the Rat"), char_lt_rich_cullivan (sponsor), char_cerberus (companion), char_nick_lee (best friend), char_sophia_lotte (Astral partner)]
 rivals: [TBD]
 romantic: [TBD]
+Hayes: daily ritual; Hayes's perception of Cerberus's glow; Jace present at medbay discovery; proxy for what unguided Will use does to a person
+Mira: unnerving child; Cerberus avoidance; escalating anatomy creations
 
 # Capabilities
 magic_user: true (latent at story start, emerging through Book 1)

@@ -4,12 +4,14 @@ name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
   with Sophia and Cerberus, the empirical derivation of Astral physics, the open-source
-  decision, and the closing swarm attack that announces something new has arrived.
+  decision, and the closing swarm attack that triggers humanity's involuntary disclosure
+  to Earth. Closes on Kael arriving mid-battle — not after it — speaking a language no
+  one recognizes, saving people who cannot understand her orders.
 books_spanned: [book_01]
 precedes: arc_02_woven_and_unbound
 follows: null
@@ -25,6 +27,8 @@ cross_references:
   - characters/char_suzi.md
   - characters/char_helena.md
   - characters/char_jin_luong.md
+  - characters/char_hayes.md
+  - characters/char_mira.md
   - factions/faction_origin_industries.md
   - ships/ship_falcon.md
   - ships/ship_victoria.md
@@ -34,6 +38,8 @@ cross_references:
   - universe-spec/spec_dimensional_travel_mechanics.md
   - magic-systems/magic_breach_crossers_transient.md
   - magic-systems/magic_astral_transfer_skill.md
+  - magic-systems/magic_cryptid_species_reference.md
+  - magic-systems/advancement_ledger.md
   - universe-spec/spec_threat_escalation.md
 ---
 
@@ -42,65 +48,43 @@ cross_references:
 ## Opening Condition
 
 Jace Grant boards the *Falcon* at Mars as a newly-discharged civilian contractor —
-identity stripped, carrying a HUD debt, a dog he negotiated for, and a covert
-intelligence arrangement he doesn't fully understand. He is heading to the asteroid
-belt because there is nowhere else to go.
+identity stripped, carrying a HUD debt, a dog he negotiated for, a 2,000,000-Token
+penalty from the Falcon incident hanging over him, and a covert intelligence
+arrangement he doesn't fully understand. He is heading to the asteroid belt because
+there is nowhere else to go.
 
 ## Closing Condition
 
-The swarm attack on Fortuna Station has been repelled. Jin Lóng's crew held the
-first twenty minutes; Jace ran the buggy as a distraction; Sophia killed the
-Scavenging Queen. Kael arrives hours later to mop up the remnants — she was too
-late for the fight, which she did not expect. She attempts a dominance working on
-the nearest human. It does nothing. She tries a second human. Nothing. A dog barks.
-Arc 1 closes on Kael, sitting on the Astral floor, letting Cerberus come to her.
-Arc 2 opens.
+The swarm attack on Fortuna Station has been repelled. Yáo is dead — he saved Mira
+during the breach. Sophia killed the Scavenging Queen. Shi Gang and Li Hao are alive
+and will be famous before morning. The swarm fight was broadcast live through the Pig
+Channel to Earth and the belt. Disclosure was involuntary and global.
+
+Kael is in the room. She was in the room before the fight started. She speaks a
+language no one can identify. She has been trying to communicate for forty minutes.
+She removed something from Jace's spine during the planning session; he doesn't know
+what. The arc closes not on a quiet beat but on a room full of people staring at a
+three-hundred-year-old woman who just saved their lives and with whom they share zero
+vocabulary. Suzi says: "Who is she." No one answers. Arc 2 opens.
 
 ---
 
-## Arc Goals
+## Arc Goals (Testable)
 
-These must be demonstrably true by arc close:
-
-- [ ] Jace's identity collapse and reconstruction are complete enough that the reader
-  understands who he is and what he has lost — and that the belt is where he rebuilds
-- [ ] The *Falcon* transit establishes the confined-space character dynamics that
-  carry through Book 1: Maureen, Mei, Lanchee, Cerberus, the livestock, the drone work
-- [ ] The plumbing crisis establishes Jace's engineering competence under pressure —
-  the win is real, the cost is real
-- [ ] Sophia Lotte and the Never-Never are introduced: the reader understands what has
-  been discovered and why nobody knows yet
-- [ ] Jace's first crossing and the Jace/Sophia/Cerberus partnership are established
-- [ ] The Astral survival suits exist as deliberate Astral-native equipment — the first
-  purpose-built gear for the Never-Never
-- [ ] The tau snap mechanic, distance² ratio, and atomic weight² crossing cost rule are
-  all discovered empirically through experimentation, never stated as given facts
-- [ ] Sophia's near-death outside the station hull establishes that the Astral kills
-  without warning and without leaves a trace anyone would understand
-- [ ] The open-source decision with Nick is made — {Aura} becomes the belt's
-  distributed magic-interface layer
-- [ ] Jace's Astral vehicle experimentation subplot runs as a sustained iterative
-  background thread through the Fortuna section — failure-heavy, ultimately successful
-- [ ] The LOX eyebrow incident occurs — comedy with genuine stakes, establishing
-  ablation rules for aluminum/hydrogen rocket engines
-- [ ] Jace's drone survey using Astral N-1 perception locates a platinum-rich asteroid
-  target; the coordinates are logged but not immediately acted on
-- [ ] The Falcon swarm rescue earns Maureen's trust — her later willingness to lead
-  the Métis mission is grounded here
-- [ ] The first successful cross-dimensional machinery transport is demonstrated
-- [ ] [Astral Transfer] L3 is established through demonstrated capability differences
-  vs. Sophia — not stated; shown in what Jace can bring across that she cannot; L3 is
-  expert level (the practical ceiling for most practitioners) and remarkable at this timeline
-- [ ] Jin Lóng's three months of covert nest-clearing is revealed during the swarm
-  fight — what looked like paranoid isolation was competent crisis management
-- [ ] The swarm fight is won by the station's own people; Kael arrives after the
-  Queen is dead — this is deliberate and must be clear
-- [ ] Sophia delivers the killing blow against the Queen — using knowledge, not power;
-  the seventeen notebooks are the weapon
-- [ ] Nick crosses the Astral once, briefly, badly, and usefully
-- [ ] {Aura}, {Alex}, {SpoX}, {Chorus}, {Penny}, {Seek}, and {Misty} all appear
-  with `{}` braces consistently throughout
-- [ ] No magic ability has a typographic bracket marker — plain prose throughout Arc 1
+- [ ] Jace arrives at Fortuna as an outsider and earns a place there — not through
+      charm but through demonstrated competence under real pressure
+- [ ] The Astral is discovered, empirically characterized, and documented to Sophia's
+      standards across seventeen months of solo work plus Jace's months of collaboration
+- [ ] The open-source decision is made — Nick, Jace, and Sophia commit to not letting
+      any single power control knowledge of the Astral
+- [ ] The swarm is repelled by Fortuna's own people; Kael does not fight the main
+      engagement; she arrives mid-battle
+- [ ] Sophia kills the Scavenging Queen — with knowledge, not power; the seventeen
+      notebooks are the weapon
+- [ ] Disclosure happens involuntarily through the Pig Channel; Sophia publishes
+      immediately after; Nick posts the {Aura} modules; the world knows
+- [ ] Kael arrives, incomprehensible and frighteningly capable, closing Arc 1 on a
+      question the characters cannot yet ask
 
 ---
 
@@ -109,63 +93,57 @@ These must be demonstrably true by arc close:
 | Beat | Label | Description |
 |------|-------|-------------|
 | 1 | Stripped | Mars — Jace loses his career, his identity, his trajectory. The reader sees who he was before. |
-| 2 | Scrambling | The hard months — desperation, gig work, Cerberus, the smuggler, the intelligence deal. Survival as reconstruction. |
+| 2 | Scrambling | The hard months — the 2M Token debt, gig work, Cerberus, the intelligence deal. Survival as reconstruction. |
 | 3 | Penned | Aboard the *Falcon* — confinement, routine, drone work, 54 animals and three women. The engineer rebuilding himself through competence. |
 | 4 | Crisis | The plumbing emergency — first real test; he wins; the cost is real; Maureen is not grateful. |
-| 5 | Arrival | Fortuna — the station is strange and loud and somehow already knows who he is. He finds his rhythm. |
-| 6 | Disquiet | Something is wrong at the station. Helena's empty bunk. Suzi's careful question. Jin's crew watching from a distance. |
+| 5 | Arrival | Fortuna — the station is strange and loud and somehow already knows who he is. He finds his rhythm. The gray soup. No coffee. Hayes at the table with a biscuit corner. |
+| 6 | Disquiet | Something is wrong at the station. Helena's empty jacket on the hook. Mira watching from corridors. {Seek} flags him. Yáo confronts him. Conversations stop when he walks in. |
 | 7 | Wonder | The Astral — a night in a dimension no one has named yet, with a physicist who has been there alone for a month. |
-| 8 | Momentum | Experiments, equipment, the multi-camera rig. The partnership with Sophia deepens. Nick joins. Something is being built. |
-| 9 | Dread | The Tick-Maws. The station has things attached to it. The server specimens — something is eating {Aura}. |
-| 10 | Understanding | The asteroid survey. Nick's disclosure. The factory site. The open-source decision. The engine is running. |
-| 11 | Scale | The swarm comes. It is not like the nests. The Queen is not like the swarm. |
-| 12 | Cost | People are hurt. The station survived what it shouldn't have. Sophia killed something enormous and is sitting on the Astral floor not moving. |
-| 13 | Wonder (again, darker) | Kael arrives. She expected ruins. She found something she has no category for. A dog walks up to her. |
+| 8 | Momentum | Experiments, equipment, the multi-camera rig. The partnership with Sophia deepens. Nick crosses once and never again. Something is being built. But the crossing debt is accumulating. |
+| 9 | Dread | The Tick-Maws. Hayes in the medbay with one arm. Mira's warm sphere. The world feels watched. |
+| 10 | Fracture | The Bloated Maw in {Seek}'s server room. Jin's fire wall. Jace walks through the wall and doesn't tell Sophia. The egg in his spine — he doesn't know it's there — is making the world paranoid and foreign. |
+| 11 | Scale | The swarm comes. It is not like the nests. The Queen is not like the swarm. The feed goes live. |
+| 12 | Cost | Yáo is dead. The station survived what it shouldn't have. Sophia killed something enormous. Shi Gang and Li Hao are becoming famous in real time. |
+| 13 | Wonder (again, darker) | Kael has been in the room the whole time. The egg is gone. Jace doesn't know why the world feels different. A woman who speaks no language anyone knows just saved everyone. |
 
 ---
 
 ## Background Threads (Parallel — Reader Tracks, Protagonist Cannot)
 
 **Thread A — Helena's Disappearance**
-Helena crossed the Astral and didn't come back. Suzi is running it as a missing
-person case with no evidence. Jin Luong is the person of interest because his
-timeline intersects — but the intersection is his own Astral encounter, not hers.
-The reader tracks the gap between what Suzi has and what the reader infers.
+Helena crossed the Astral and didn't come back. Suzi is running a missing persons
+case with no evidence. Jin Lóng is the person of interest because his timeline
+intersects — but the intersection is his own Astral encounter that day, not hers.
+Helena's jacket is still on the hook in the room they gave Jace. Her shape remains
+in the Astral substrate. The reader accumulates what Jace cannot assemble.
 
-**Thread B — {Seek}'s Surveillance**
-The Chinese detachment is being monitored by their coercive compliance AI at a
-level the rest of the station doesn't see. Jin's thermal anomaly logs are
-accumulating in a Beijing queue no one is reading. His crew is armed because
-something in the tunnels is trying to kill them and {Seek} would flag an honest
-report. The station reads this as hostility. It is survival.
+**Thread B — Jin's Covert War**
+Jin Lóng and his three crew members — Yáo, Shi Gang, Li Hao — have been clearing
+Astral nests in the mining tunnels for three months. They are the most combat-
+experienced force on the station. Their isolation (which reads as hostility) is
+protective. {Seek} is flagging Jace as a threat. The reader eventually realizes the
+Chinese crew's apparent paranoia is the most competent response on the station.
 
-**Thread C — The Outbreak Progression**
-Astral fauna are not stable. The incident count is rising. The scratched asteroid.
-The miner's wound with the intact suit. The Tick-Maws on the servers. The nests
-in the mining tunnels. Each event is explicable in isolation. Together they form
-a pattern the characters don't yet have a framework for.
+**Thread C — The AIs Watching**
+Five AIs monitor the station: {Alex}, {Penny}, {Chorus}, {Gem}, {Seek}. Each
+responds to Jace's decline in character. Together they produce a surveillance
+apparatus that reads Jace as a destabilizing element and tells the station to be
+careful with him, which the station expresses as warmth-at-distance that he reads
+as hostility. {Seek} is being eaten from inside; its threat model is subtly wrong
+for months before anyone notices.
 
-**Thread D — {Aura}'s Growing Signal**
-Nick's {Aura} instances have been flagging anomalies for months. He attributed
-them to firmware. The Tick-Maws on the servers were the answer. His modifications,
-made after the Nick disclosure, make the instances generate more Will — which makes
-them brighter to Astral fauna. The engine of the open-source decision has a cost
-the characters haven't calculated yet.
+**Thread D — Metis Going Dark**
+Artemis's messages arrive warm, then gapped, then not at all. Jace doesn't know
+if the silence is comms failure or something worse. It is something worse. He
+doesn't investigate because he cannot afford to know and keep functioning.
 
----
-
-## Scene Thread Map
-
-Scenes are organized by thread. Threads interleave in actual narrative order.
-
-| Thread | Subject |
-|--------|---------|
-| **T** | Transit — the *Falcon* and Mars departure |
-| **A** | Arrival and onboarding at Fortuna |
-| **L** | Life texture — recurring background beats |
-| **X** | Astral exploration and physics discovery |
-| **P** | Pressure — station politics, Helena, Jin, Suzi |
-| **S** | Swarm and closing |
+**Thread E — Mira**
+A ten-year-old girl who has been manifesting [Astral Creation] since she was eight,
+unguided, unrecognized, expressing through the matter she handles. Her AI tutor
+thinks she is engaged in advanced tactile modeling. Her creations escalate from
+pressed leaves to anatomical constructs with an internal logic that should not be
+possible. Cerberus will not approach her. Kael will notice her immediately upon
+arrival. This matters in Arc 2.
 
 ---
 
@@ -173,68 +151,181 @@ Scenes are organized by thread. Threads interleave in actual narrative order.
 
 | Mystery | Status | Notes |
 |---------|--------|-------|
-| What happened to Helena? | Open | She crossed and didn't return; the true mechanism is GM/reveal-later |
-| What is causing Jace's HUD headaches? | Resolved (Arc 1) | [Astral Transfer] L2 manifesting through orb absorption; HUD Templated; headaches gone by arc end |
-| What is the swarm? Where did it come from? | Open — carries into Arc 2 | Kael knows; the humans don't |
-| What is Kael? | Open — carries into Arc 2 | Arc 1 closes before translation begins |
-| What are the drone survey coordinates worth? | Open — carries forward | Jace has found something significant; resurfaces later |
-| What did Sophia write in her notebook after the server disclosure? | Open | Two words: "Invasion Force?" — boxed; not shown to anyone; not shown to reader |
-| Are there more Tick-Maws on the station or docked ships? | Partial | Three sweeps done; no systematic survey of all docked vessels yet |
-| What drove the Scavenging Queen to Fortuna specifically? | Open | Ecological drift or something pushing the swarm inward? Kael has an opinion she does not share yet |
-| How many nests remain in the Fortuna asteroid? | Open | Jin cleared eleven; the swarm had to originate somewhere larger |
-| What does the Queen's orb do to Sophia long-term? | Partial | [Force Application] L2 established; whether the Queen's Will has lasting character effects is unresolved |
+| What happened to Helena? | Open | She crossed and didn't return; her Astral shape remains; not solved in Arc 1 |
+| What is the Astral? | Partial | Physics characterized empirically; Kael will name it properly in Arc 2 |
+| What are the fauna and where did they come from? | Open | The Scar is the frame; Kael has context; not revealed in Arc 1 |
+| Why does the Astral cost Jace differently than it costs Sophia? | Open | Template difference; Kael's read in Arc 2 explains it |
+| What is Mira? | Open | Her ability is visible; its nature and implications are Arc 2 |
+| Why is {Seek} degrading? | Partial | The Bloated Maw is destroyed; {Seek} is already compromised; its death in the swarm ends the question |
+| What is Kael? | Open | The arc closes on this question; the reader does not yet have an answer |
+| What is the egg that Kael removed from Jace? | Open | He doesn't know it existed; he doesn't know it's gone; Kael explains in Arc 2 |
+| Where is Artemis? | Open | Métis is in trouble; the extent is unknown at Arc 1 close |
+| Who were the Scar? | Open | Seeded; answered across Arcs 2–4 |
+
+---
+
+## Magic System Notes
+
+**Crossing vs. Manifesting — Canonical Distinction:**
+
+Most humans who develop Will abilities do not cross into the Astral. They manifest
+from physical space — pulling abilities through the membrane without breaching it
+themselves. Fire, force, object templating, mind defenses, far perception — all
+developed and used from physical space. The practitioner extends Will through the
+membrane; their body stays in the physical world.
+
+[Astral Transfer] is specifically the ability to cross objects — or oneself —
+through the membrane. It is relatively unusual. Most practitioners who develop it
+do so accidentally or by necessity. Jace's facility with it is one reason Kael
+is immediately interested in him.
+
+In Arc 1, the humans who cross: Jace (frequently, by design), Sophia (deliberately,
+researching), Nick (once, briefly, never again by choice). Jin and his crew have
+never crossed — they manifest from physical space. This is why Jin does not
+recognize Jace's presence during the Bloated Maw hunt; he sensed a Will-disturbance
+but could not read it the way a crosser would.
+
+**Bracket convention:** In KB spec files and character sheets, skill brackets are
+always permitted. In scene files and prose drafts, the bracket convention does NOT
+appear until Jace establishes it in-story in Arc 2 during the Métis teaching scenes.
+Through all of Arc 1, magic is described in plain prose.
+
+**Aldrich Horror (AH) System:**
+
+A prose-level progression tracking Jace's paranoia and perceptual distortion from
+the Tick-Maw egg implanted at X-02a. Not a number visible to characters — encoded
+in narrative voice, word choices, and sentence rhythm.
+
+| Level | Label | Prose signature |
+|-------|-------|-----------------|
+| AH 0 | Baseline | Snarky, competent, curious. The world is hard but legible. |
+| AH 1 | Off-taste | Occasional adjective that doesn't quite fit. He notices and doesn't correct it. |
+| AH 2 | Persistent wrongness | Counts things that haven't changed. Humor gets darker and more specific. |
+| AH 3 | Suspicion of self | Asks {Aura} to log things because he no longer trusts his own recall. Lovecraftian framing creeps in. |
+| AH 4 | Watched | Specific paranoia about Jin. Mira's arrangements feel like messages. {Penny}'s warmth conceals something directed. |
+| AH 5 | Edge | Sentences describe the same thing from two angles without acknowledging repetition. He is in the dream and knows it is a dream. |
+
+AH progression: AH 1 at X-02a bite → AH 2 at fauna curiosity beat → AH 3 at Hayes
+medbay → AH 4 at Bloated Maw / Jin fire wall → AH 4.5 pre-swarm → drops to 0 when
+Kael removes the egg during the planning session.
+
+**Token Economy:**
+All belt commerce runs on Tokens. 1 Token ≈ 1 USD (2025 purchasing power). Jace's
+2,000,000-Token debt puts him at Minimum food allotment: 2 Tokens/day = one serving
+of gray station soup. No coffee. Coffee costs 4 Tokens. Nick quietly subsidizes
+Jace's {Aura} queries; Jace suspects and does not confirm.
+
+---
+
+## Jin's Crew — Canonized
+
+| Name | Quality | Role | Fate |
+|------|---------|------|------|
+| **Yáo** | Large, scarred, brutal-quiet. Compressed-spring stillness. Believes war is coming. Acts on threat assessments without orders. | Most experienced tunnel fighter; confronts Jace after {Seek}'s flag | Dies saving Mira during the swarm breach |
+| **Shi Gang** | Still in the sealed-container sense. Speaks rarely; when he does, people stop. Callsign: "the weight." Silent escort on Nick's server visits. | Jin's most trusted second; has seen the most | Survives; becomes publicly famous |
+| **Li Hao** | Thin, wiry, frenetic. Converts sustained fear into forward motion. Talks constantly. Always right. Never credited in time. First to notice the corridor smell. | Early-warning system | Survives; becomes publicly famous |
 
 ---
 
 ## Foreshadowing Ledger
 
-| Plant | Location | Payoff |
-|-------|----------|--------|
-| Crystal tunnel dreams | Ch01/02 aboard the *Falcon* | N-1 Astral perception of the ship in cross-section; Sophia has the same dreams; they compare notes at first meeting |
-| Cerberus pulling the mask | First crossing scene | Establishes the bond-instinct; Kael reads this correctly in Arc 2 |
-| Saul's approving voice notes; Maureen reading them | *Falcon* transit scenes | Relationship depth; Saul's absence felt through others; Maureen's private warmth |
-| Nick following the pig-cam | *Falcon* transit / Fortuna arrival | The friendship that enables the open-source decision |
-| Helena's empty bunk | Fortuna arrival | The first sign the Astral is not contained; Suzi's impossible case |
-| {Aura}'s anomalous behavior near Astral zones | Fortuna scenes | AI Will generation — pays off in Arc 2+ |
-| The plumbing crisis contamination | T-03 | Jace wins but creates a lasting cost; his solutions always have consequences |
-| Jace's HUD headaches (recurring, unresolved) | T-02a distributed | [Astral Transfer] L2 manifesting; Lanchee's diagnostics find nothing; right tools don't exist yet |
-| The HUD crosses with Jace despite gold/platinum/complex circuitry content | X-02 / X-05 | Explained by Jace's L2 [Astral Transfer] manifesting through the orb absorption during the plumbing crisis, which Templated the HUD, rather than organic integration alone |
-| {Alex} strips Platinum status; two-year review queue | T-03b | Template for how corporate AI punishes Astral-related behavior when the outbreak goes public |
-| Artemis: "We have ships with big engines — don't worry" | T-03c | When Métis goes dark in Arc 2, the reader remembers what kind of capability went silent |
-| The pig-butt canister launch | T-03d | Artemis receives it; reaction establishes the sibling dynamic remotely |
-| Mei's very specific silences | *Falcon* transit | She is listening for things; Jace doesn't notice yet |
-| Sophia describes Templates as "rainbows in human heads" | A-01 / first crossing | Technical description of what she sees; Kael recognizes it instantly in Arc 2 |
-| The scratched asteroid — systematic gouges, no metal remaining | A-04 | Astral fauna were working this rock; Jace files it without framework |
-| Chinese miner's wound: massive injury, intact suit, no logged failure | P-01 | Injury occurred in the Astral; the Chinese crew has been encountering fauna and not reporting it |
-| Suzi's Jin Luong lead — wrong suspect, real proximity | P-01 | Jin's timeline connects to his own Astral encounter that day, not to Helena's crossing |
-| Hydrogen pumped into iron storage | X thread (fuel logistics) | Jace's solution to dimensional economics; Kael notices this approach in Arc 2 |
-| The platinum asteroid survey data — Jace keeps the coordinates | X-07 | Becomes a target in later arcs |
-| The stuffed pig Nick made for Cerberus | A-01 | Permanent companion; every Cerberus scene forward |
-| Station nicknames: "Training Mode", "Dog Man" | A-02 | Jace arrived into his own reputation via pig-cam and sewage footage |
+| What is planted | Where | What it pays off |
+|-----------------|-------|-----------------|
+| Jace's negotiated Cerberus | T-01 | The specific cost of the relationship — Cerberus is not incidental; she is the thing he actually kept |
+| HUD headaches (implant running hot) | T-02a | [Astral Transfer] L2 manifestation through organic tissue; Kael's Arc 2 diagnosis |
+| Saul's voice notes / Maureen reads them | T-02 | Maureen's private warmth; the mentor dynamic she will not acknowledge |
+| Helena's jacket on the hook | A-01 | Her disappearance; the arc of what Jace is about to learn |
+| "Your dog glows sometimes" — Hayes | A-01a | Hayes's Will-perception; Kael reads it immediately in Arc 2 |
+| Cerberus avoids Mira; not aggression — avoidance | A-02a | Will-sense; Mira's nature; the contrast with Cerberus's warm response to Hayes |
+| The scratched asteroid — systematic gouges, no metal | A-04 | Astral fauna were working this rock; Jace files it without framework |
+| Token debt / empty progress bar / gray soup | T-01b | Running dark joke; coffee as meaningful gift; economic bind |
+| Sophia describes Templates as "rainbows in human heads" | First crossing | Technical description of what she sees; Kael recognizes it instantly in Arc 2 |
+| Chinese miner's wound: massive injury, intact suit, no logged failure | P-01b bar | Injury occurred in the Astral; the Chinese crew has been fighting and not reporting it |
+| THE EGG — pinhead node lodged in Jace's spine (Astral) | X-02a Tick-Maw bite | AH Level escalation; Kael's extraction; Arc 2 — Kael explains what it was |
 | Ambient Will glow around all humans in the Astral | X-02 | "Unspent Will" — Kael reads this immediately in Arc 2 |
-| Healing green light at a broken arm | X-02 | Passive Template healing response; humans are doing magic they don't know |
-| "We are not going to be vampires" — the self-imposed rule | X-02 | First ethical framework they invent; predates all external guidance |
-| Tick-Maws target AI Will (server specimens) | X-02b | Nick's {Aura} modifications make instances brighter — Astral fauna threat scales with open-source release |
-| Sophia's force application improves after Tick-Maw orb absorption | X-02a / X-02b | Orb absorption as skill currency — Kael's explanation in Arc 2 |
-| Sophia writes two words in notebook, does not show Jace | X-02b | "Invasion Force?" — carries forward; Kael will eventually understand what she saw |
+| Healing green light at a broken arm | X-02 | Passive Template healing; humans doing magic they don't know |
+| "We are not going to be vampires" — the self-imposed rule | X-02 | First ethical framework; predates all external guidance |
+| Tick-Maws target AI Will (server specimens) | X-02b | Nick's {Aura} modifications make instances brighter — threat scales with open-source release |
+| Sophia writes two words in notebook, does not show Jace | X-02b | "Invasion Force?" — carried into Arc 2 |
+| Hayes's arm — inside-out tissue | Hayes medbay beat | First demonstration that Will use without framework damages the practitioner; Jace's own trajectory |
+| Mira's anatomical constructs escalate — warm sphere pre-swarm | L-06 | Kael's Arc 2 assessment; the sphere is the most complete thing Mira has made |
+| Crossing debt / "stupid mornings" escalation | L-04 distributed | Jace burning himself out; the energy the Bloated Maw orb returns lets him continue — which is worse |
+| Nick's {Aura} swarm-warning module | N-02 | Three-minute warning; Nick's battle contribution |
+| {Seek}'s note on Nick as "external access event" | N-03 | Found post-swarm; the tragedy of {Seek}'s miscalibration |
+| Li Hao notices corridor smell | N-03 / P-06 background | He is right; the smell is something; never credited in time |
+| Jace does not tell Sophia about the Bloated Maw | N-04 | She finds out from Nick; Arc 2 Kael assessment surfaces it in front of Sophia — first real fracture |
+| Bloated Maw orb — capacity restoration | N-04 | Kael reads the event in Arc 2 and asks about it; surfaces the Sophia secret |
+| Jace phases through the wall (self-Transfer) | N-04 / Jin fire wall | First improvised self-Transfer; Kael's Arc 2 assessment; becomes a major skill line |
+| Jin comes to medbay with burn cream; no one was burned | N-04 follow | Suzi files it wrong; Jace interprets it wrong; reader knows both are missing the real story |
+| Artemis: "We have ships with big engines — don't worry" | L-07 | When Métis goes dark, the reader remembers what kind of capability went silent |
+| Jace: "Log this, don't index it" | L-09 | First time he privately acknowledges something might be wrong with him |
+| Antenna build / Earth rescue mission inbound | P-07 | Arc 2: the rescue ship arrives with journalists; Fortuna gets visitors it didn't invite |
+| Mei's password decision — instant | P-07 | Her cover was protection; she gives it up for the station without hesitation |
+| Kael mentioned three times during planning session; no one reacts | S-02b | The most capable person has been in the room the whole time |
+| Sophia tears the Mind Web — improvised | S-02b | Kael's observation plan fails; Sophia's improvisation > Kael's scheme; shapes their Arc 2 relationship |
+| Kael's absence of alarm | S-02b / battle | What makes her frightening is not capability — it is that she has not been alarmed at any point |
 | Space-not-time compression (lidar derivation) | X-05a | Telescope implication — late series |
-| Fortuna asteroid void complex (factory site) | X-05b | Asteroid soft spots known to Jace; pays off when station is under stress |
-| Nick's large-lettered AI Will note | X-05c | The open-source decision; the full AI Will discovery arc (Arc 2+) |
-| "I'm going to need your session logs" | X-05c | {Aura} crossing records become part of the open-source release corpus |
-| Jin's crew armed and isolated | P thread | S-01 reveal: they were clearing nests; the isolation was protective, not hostile |
-| Sophia's freeze when the Queen arrives | S-01 Stage 3 | She stays anyway; the freeze makes the final positioning more meaningful |
-| Nick's ninety-second relay | S-01 Stage 4 | [Information Flow] — he was more useful inside the Astral for those ninety seconds; he will build tools so he never has to go in again |
-| Sophia's "seventeen notebooks" named in the kill | S-02 | The whole scientific documentation arc paying off in a single exchange |
-| Jin's "You killed a very large spider" | S-02 | The beginning of the Jin/Sophia relationship; pays off in Arc 2 patrol scenes |
-| Kael crouching, waiting for the dog | S-03 | Her 300-year diplomatic instinct; the reader's first true read of Kael as a being with patience and intelligence |
+| Fortuna asteroid void complex | X-05b | Station soft spots; pays off under structural stress |
+| Nick's large-lettered AI Will note | X-05c | Open-source decision; full AI Will discovery arc (Arc 2+) |
+| Jin's crew armed and isolated | P thread | S-01 reveal: they were clearing nests; isolation was protective |
+| Jin's "You killed a very large spider" | S-02 | Beginning of the Jin/Sophia relationship; pays off in Arc 2 patrol scenes |
+
+---
+
+## Success Criteria
+
+- [ ] Jace's 2,000,000-Token debt established and felt — gray soup, no coffee,
+      the progress bar, the per-query AI costs
+- [ ] Helena's jacket on the hook lands on arrival day before Suzi mentions her
+- [ ] Hayes established as a daily fixture before his medbay incident; Cerberus's
+      morning biscuit ritual is a known quantity when the table is empty
+- [ ] Mira's hollow-eyed watching and Cerberus's avoidance are established before
+      her creations become elaborate
+- [ ] The egg from the Tick-Maw bite is visible in the Astral (to a practitioner
+      who looks) but Jace never learns about it in Arc 1
+- [ ] AH Level progression is felt in the prose across at least five distinct
+      escalation points — not stated, experienced
+- [ ] The Tick-Maw bite → egg is planted without announcement (X-02a)
+- [ ] Suzi's ask is explicit: Jace has access she doesn't; he agrees without
+      fully understanding what he's agreed to
+- [ ] {Seek}'s degradation produces concrete operational consequences (drone crisis)
+      before the Bloated Maw is revealed as the cause
+- [ ] Nick's confrontation after the drone emergency is real and loaded; his
+      concern is correct about everything except the cause
+- [ ] The Bloated Maw hunt: Jace goes alone, does not tell Sophia, kills it,
+      feels the capacity restoration, surfaces to find Jin in the corridor
+- [ ] Jin's fire wall: Jace phases through the adjacent wall; Jin comes to the
+      medbay with burn cream; no one was burned
+- [ ] Jin is never shown doing anything wrong in the reader's view — his
+      villainy is entirely constructed from {Seek} data and other characters'
+      interpretations
+- [ ] Yáo's sacrifice is clean and fast — no speech; Cerberus sits with Mira
+      after; Jace's paranoid frame shatters
+- [ ] The antenna build involves six people; Jace is one component, not the hero
+- [ ] Earth thinks Fortuna had a radiation event; rescue mission is inbound
+- [ ] Mei gives Nick the passwords without hesitation
+- [ ] Swarm fight is broadcast live through the Pig Channel — involuntary, global
+- [ ] Sophia publishes all papers immediately post-swarm
+- [ ] Nick posts {Aura} modules and the legendary README
+- [ ] Kael is in the planning session before anyone knows she's there
+- [ ] Sophia tears the Mind Web; everyone drops; everyone stares at Kael
+- [ ] Kael cannot understand English; no one can understand her; zero common
+      vocabulary at Arc 1 close — the translation project is Arc 2 material
+- [ ] Jace translates Kael's gesture to the room by reading the situation, not
+      her language; she notices and files it as the first professionally interesting
+      thing about him
+- [ ] Suzi's closing line: "Who is she." No answer. Arc 2 opens.
+- [ ] [Astral Transfer] at Jace's level is shown as remarkable but correctly
+      capped at L3 — Kael will note it; it does not make him invincible
+- [ ] Jin's crew's three months of covert nest-clearing is revealed during the
+      swarm fight — what looked like paranoid isolation was competent crisis management
+- [ ] {Aura}, {Alex}, {Chorus}, {Penny}, {Seek}, {Gem}, and {Misty} all appear
+      with `{}` braces consistently — no plain text AI names anywhere
+- [ ] No magic ability has a typographic bracket marker — plain prose throughout Arc 1
 
 ---
 
 ## Scene Contracts
-
-Each scene must demonstrably accomplish the listed items.
-
----
 
 ### THREAD T — Transit
 
@@ -242,147 +333,88 @@ Each scene must demonstrably accomplish the listed items.
 
 #### T-01 — Mars Departure Sequence
 
+**Summary:** Jace leaves Mars with less than he arrived with: no commission, no
+career trajectory, 2,000,000 Tokens of Falcon-incident debt, a dog he negotiated
+for, and a HUD arrangement with Sylvester that he doesn't fully understand. The
+hard months are shown in compression — gig work, closed belt job listings, Artemis's
+message arriving through Rich's favor, the specific desperation of the smuggler
+arrangement.
+
+{Alex} delivers the formal debt settlement cheerfully and with a progress bar.
+The progress bar is empty. Jace asks how much coffee costs. {Alex} generates a
+projection. The projection is unkind. Minimum food allotment: 2 Tokens/day. One
+serving of gray station soup. No coffee.
+
 **Must accomplish:**
-1. Jace's identity loss is shown, not described — what he had, what it cost, what
-   it's left him with; the reader sees who he was before the discharge
-2. Cerberus is established as a negotiated-for companion, not a given
-3. The intelligence arrangement with Sylvester is established as vague and uneasy
+1. Jace's identity loss shown, not described — who he was before is visible
+   through what's absent
+2. The debt is real and specific — the empty progress bar, the gray soup, no
+   coffee; these will recur throughout the arc
+3. Cerberus established as the thing he actually kept — the negotiated companion
+4. The Sylvester arrangement established as vague and uneasy
 
 **Must NOT do:**
-- Explain the intelligence arrangement — Jace doesn't understand it and neither
-  should the reader yet
-- Make Jace's losses purely self-pitying — the hard months are about scrambling,
-  not grieving
+- Make the debt purely comic — it is a background horror that shapes every
+  financial decision through Arc 1
+- Explain the intelligence arrangement — Jace doesn't understand it
 
 ---
 
 #### T-02 — The Falcon Transit (Distributed)
 
+**Summary:** Four months, four humans, 54 animals, 80 meters of rotating ring.
+Jace rebuilds his engineer identity through competence: drone work, maintenance,
+the informal machine shop arrangement with Maureen. Saul's voice notes arrive
+at shrinking lag. Nick's gaming messages arrive. Mei is always slightly observing.
+The pig-cam develops a following that Jace doesn't track.
+
 **Must accomplish:**
-1. Four humans on an 80-meter ring with 54 animals and two dogs — confinement is
-   real; relationships develop through friction and routine, not dramatic events
-2. Jace's engineer identity is rebuilt through competence: drone work, maintenance,
-   the informal arrangement with Maureen around the machine shop
-3. Saul's remote presence is felt through voice notes and Maureen's private readings
+1. Confinement is real; relationships develop through friction and routine
+2. Jace's competence is the engine of his recovery — not insight, not growth,
+   just solving the problems in front of him
+3. The comms lag closing (Mars to belt) is felt — they are approaching each
+   other's world; the approaching is a form of arrival
 
 **Must NOT do:**
-- Rush the transit — this is where the characters are established
+- Rush the transit — this is where characters are established
 - Make Maureen openly warm — her warmth is private and deniable
-- Forget that Mei is always slightly observing
 
 ---
 
 #### T-02a — The HUD Headaches (Distributed — Recurring)
 
-**Summary:** Every morning during transit Jace wakes with a headache behind his
-eyes — pressure and heat from the implant running hot overnight. He flags it to
-Lanchee. She finds nothing. A second panel also finds nothing.
-
-**Must accomplish:**
-1. Headaches appear at least once in each morning-routine scene before the
-   plumbing crisis — brief, filed, not solved
-2. Lanchee's response is professional and measured: tests show nothing wrong
-3. The HUD running hot overnight is the mundane explanation Jace accepts
-
-**Must NOT do:**
-- Explain the headaches — all readings remain available to the reader
-- Make the medical beat dramatic
-- Resolve in Arc 1
+Every morning during transit: pressure and heat from the implant running hot
+overnight. Lanchee's assessment finds nothing wrong. It will carry into Arc 2.
 
 ---
 
-#### T-02b — The Learning Mode Incident
+#### T-02b — The Plumbing Crisis
 
-*(Drafted — see `scenes/book01-ch02b-learning-mode.md`)*
+**Summary:** A pipe junction failure during a gravity maneuver sends raw sewage
+through three compartments. Jace improvises a fix — wrong tools, wrong angle,
+real problem, fourteen minutes of increasingly bad options. He solves it. A small
+silver-white creature (a Dipper) was displaced by the pipe rupture and was
+partially visible for a moment before vanishing. Jace saw it, registered it as
+wrong, filed it under "equipment malfunction." He absorbed the orb from the Dipper
+accidentally when it passed through him during the containment — [Astral Transfer]
+crystallizes at L2; his HUD Templates simultaneously. He does not understand either
+event. He will be sick for two days.
 
-**Confirmed contracts:**
-1. Comedy beat after the plumbing crisis — pure register shift
-2. "Learning Mode" becomes Jace's Fortuna reputation before he arrives
-3. Jace recovers with a line, not a sulk — character voice locked in
+**Must accomplish:**
+1. The crisis is mechanical and real — no magic framing; Jace just fixes a pipe
+2. The Dipper is visible enough to register and ambiguous enough to explain away
+3. HUD templating as a side effect of the orb absorption — he has a new HUD
+   interface he didn't have before; he assumes it's a firmware update
 
 ---
 
-#### T-03 — The Plumbing Crisis
+#### T-03a/b/c/d — Home Communications (Distributed)
 
-*(Drafted — see `scenes/book01-ch02-plumbing-crisis.md`)*
-
-**Must accomplish:**
-1. The engineering solution is the *Falcon*'s own prescribed response — earned, not lucky
-2. The win has a real cost: contaminated water reserve, thinner safety margin
-3. Maureen's fury is justified — she is right that he gambled the ship's margin
-4. The breach-crosser incursion is planted — something glimpsed that doesn't fit
-
-**Must NOT do:**
-- Resolve the tension between Jace and Maureen — it deepens here
-- Skip the cost
-- Explain the incursion
-
----
-
-#### T-03a — The Morning After
-
-**Summary:** Jace is exhausted and Will-shocked. He absorbed an orb during the
-crisis; his body is paying for it in ways he can't name. Maureen is cold and
-precise. He works anyway.
-
-**Must accomplish:**
-1. Will-depletion illness shown physically — fatigue, mild nausea, persistent heat
-   behind the eyes distinct from his usual HUD headache; he attributes it to
-   exhaustion
-2. Maureen is not cruel but not grateful — managing a damaged ship with thinner
-   margin than planned
-3. Repair work grounds the scene
-
-**Must NOT do:**
-- Let Jace or reader understand what happened
-- Have Maureen soften
-- Play the illness dramatically
-
----
-
-#### T-03b — The {Alex} Debrief
-
-**Summary:** {Alex} schedules a formal debrief. Fine: $500,000, or Jace may redeem
-his entire accumulated Origin Bonus points to cover costs — but Platinum Contractor
-status is revoked for the remainder of the voyage and the advanced coffee machine is
-no longer accessible. He requests a human review. Processing time: approximately
-twenty-four months.
-
-**Must accomplish:**
-1. {Alex} is cheerful, thorough, and completely without malice — it is doing
-   exactly what it is designed to do
-2. The fine is real and painful; the Platinum loss matters
-3. The twenty-four-month queue lands as the punch line and the structural problem
-
-**Must NOT do:**
-- Make {Alex} a villain
-- Have Jace rage — he is rueful and trapped, not furious
-
----
-
-#### T-03c — The Artemis Call
-
-**Summary:** Jace reaches Artemis at Métis Station. She sounds different. She
-mentions that Métis is busy, that some of their ships have the biggest engines in
-the belt, that he shouldn't worry. He doesn't know what she means.
-
-**Must accomplish:**
-1. Sibling warmth, interrupted by communication lag and something she isn't saying
-2. "We have ships with big engines — don't worry" lands as a throwaway, not an omen
-3. The call is too short
-
----
-
-#### T-03d — The Pig-Butt Canister
-
-**Summary:** Jace launches an unauthorized pig-enrichment object via the ship's
-sampling canister system toward Métis's trajectory. The pigs are briefly chaotic.
-The canister is logged as "environmental sample."
-
-**Must accomplish:**
-1. Comedy with genuine engineering logic — the canister system exists; he used it
-2. Launches from Screwdriver's section specifically; Screwdriver watches it go
-3. The event is logged; Artemis receives it eventually (reaction TBD in a later call)
+Calls home across the shrinking lag. Artemis warm and normal early; mentions a
+minor Métis equipment incident she calls boring. The pig-butt launch happens here
+(Jace fires a canister of manure toward Artemis as a joke; it will arrive in
+months; Artemis's reaction comes second-hand later). Rich's final check-in.
+The comms log that will eventually be the last clean record before silence.
 
 ---
 
@@ -390,200 +422,381 @@ The canister is logged as "environmental sample."
 
 ---
 
-#### A-01 — Arrival Day at Fortuna
+#### A-01 — Arrival Day / Carlos Tour (MODIFIED)
 
-**Summary:** The *Falcon* docks. Jace steps off with Cerberus and Sparky (still
-being built). Carlos meets him. People know who he is before he knows who they are.
-He glimpses Jin and Sophia in passing — the burdened mining crew chief and the
-exhausted physicist who is somewhere else in her head. He finds Nick at the pig
-unloading, and Nick has already made a stuffed pig for Cerberus.
+**Summary:** Carlos gives Jace the orientation tour. The station is loud, warm,
+oddly social for 350 people. The pig-cam footage has preceded him. Station nicknames
+are already "Dog Man" and "Training Mode."
+
+When Carlos opens the door to Jace's room at Erin's inn, he pauses a half-beat.
+On the hook beside the bunk: a station-issue jacket. The room placard has a name
+on it that is not Jace's. Carlos moves on immediately to the next thing on the
+tour. Jace files this. Cerberus sniffs the jacket once and looks at Jace. This is
+the whole beat. No explanation. Negative space on day one.
 
 **Must accomplish:**
-1. Carlos is established through texture: patient, knowing what to show first
-2. People recognize Jace by reputation before introduction — "Training Mode!",
-   "Dog Man!", a question about Screwdriver — strange-but-not-unpleasant
-3. Jin is glimpsed — something burdened, not threatening; filed
-4. Sophia is glimpsed — specific exhaustion, somewhere else; filed
-5. Nick's stuffed pig is established as Cerberus's permanent companion from here
+1. The station's warmth is real and specific — Fortuna likes Jace before he's
+   done anything to earn it here
+2. Helena's jacket is on the hook on arrival day — before Suzi, before any
+   explanation; the reader notices what Jace doesn't know to notice yet
 
 ---
 
-#### A-02 — The Station Tour (Carlos)
+#### A-01a — Hayes (First Morning) (NEW)
 
-**Summary:** Carlos shows Jace the station. He shows him the two transit inns
-(both run by red-haired women — Carlos has never thought about this before; he
-thinks about it now; still no explanation). He shows him the Barn.
+**Summary:** Jace's first morning at Erin's inn. An older man — compact, ethnically
+indeterminate, weathered — is already at the small table outside when Jace comes
+out with coffee. He is feeding Cerberus the corner of a biscuit before Jace can
+say anything. Cerberus accepts this as if it has always been the arrangement.
+
+Hayes tells a story. In three voices: his own, the machine's, whoever else was
+there. He can become, mid-sentence, the specific shriek of a drill bit contacting
+unexpected rock composition. He does not announce this. He simply does it and
+returns to himself.
+
+He says he misses his cat. He says her name — *Josephine* — with a particular
+weight he does not explain. He tells Jace how they cleared the Fortuna landing zone
+by hand because the dust mitigation drones kept losing orientation in the irregular
+gravity.
+
+Near the end: "Your dog glows sometimes. In the morning especially." He says this
+as observation, not poetry. Jace says something noncommittal. Hayes does not press
+it. He gives Cerberus another piece.
+
+Hayes has coffee. He does not offer Jace any, because Hayes does not know about
+the 2 Token food allotment. Jace is thinking about this, specifically, when Hayes
+does not offer. He does not say anything. Later in the arc, when Hayes starts
+offering coffee from a second cup without being asked, it will mean something.
 
 **Must accomplish:**
-1. The Barn is established as the station's emotional anchor — animals, smells,
-   the Barn being alive and loud with the new population
-2. The two red-haired innkeepers are a genuine mystery that is never resolved
-3. The station's scale is established through Carlos's knowledge of what to show
+1. Hayes established as a daily fixture — the table, the biscuit, the voices,
+   Josephine, before anything goes wrong
+2. Cerberus's immediate, warm acceptance of Hayes is visible — contrast with
+   her avoidance of Mira, which comes days later
+3. "Your dog glows" is planted without emphasis — Jace files it as poetic;
+   Hayes is not being poetic
+
+**Must NOT do:**
+- Make Hayes seem wise or mysterious — he is an old man with stories and a dead cat
 
 ---
 
-#### A-03 — First Drone Shift
+#### A-02 — The Pig Footage / Nicknames
 
-**Summary:** Jace takes his console. The drone fleet runs autonomously. He
-intercepts one exception: a grip question on a tricky sample. He handles it in
-four minutes. He has three hours left in his shift.
-
-**Must accomplish:**
-1. The automated-baseline / exception-handling split shown in action
-2. The work rhythm is real and unglamorous — long periods of monitoring, brief
-   moments of actual intervention
-3. His coworkers note he goes completely offline during breaks — one mentions it
-   with mild puzzlement, no alarm
+Station already has opinions about Jace from the pig-cam footage on the Falcon.
+He meets the social geography of Fortuna through how people already know him.
+Nick exists in physical space for the first time — slightly more awkward than
+either expected; settles quickly into something easy.
 
 ---
 
-#### A-04 — The Survey Trip
+#### A-02a — Mira (First Sighting) (NEW)
 
-**Summary:** Jace takes the survey drones out. He finds a scratched asteroid —
-systematic gouges, no metal remaining. He files it without a framework.
+**Summary:** Jace's second day. At the far end of a corridor, where it turns, a
+girl is standing. She might be ten — she is ten, but she looks like she might be
+older or younger depending on the light. She watches him with the patient, specific
+attention of something that has decided he is interesting.
+
+Jace tries to walk Cerberus toward her. Cerberus puts her body behind Jace's leg
+and stays there until they have passed. Not aggression — avoidance. Jace looks
+back. The girl is still watching.
+
+The next day, near the common area planter, Jace finds a small arrangement of stems
+and leaves that has been pressed and fused in a way he cannot account for. Not
+damaged — deliberate. Wrong in the way something is wrong when it has been made by
+a process that has no name yet.
+
+He does not report it. He doesn't know what he'd report.
+
+Mira does not speak. She has not spoken in recorded memory. Her parents are Fortuna
+workers, permanently tired, grateful when she is occupied. She has found something
+to follow. That is easier than not knowing where she is.
 
 **Must accomplish:**
-1. The asteroid anomaly is described specifically — gouges, not impact damage;
-   no metal remaining; the reader registers it before Jace has words for it
-2. The survey work establishes Jace's professional routine outside the station
+1. Mira established visually — hollow-eyed watching, patient distance
+2. Cerberus's avoidance is immediate, specific, and silent
+3. The first plant arrangement is placed — close enough to where Mira was that
+   the connection is available, not stated
+
+**Must NOT do:**
+- Make Mira threatening — she is a child watching someone she finds interesting
+- Explain anything about her
 
 ---
 
-#### A-05 — The Factory Floor ("You Have to Go See It")
+#### A-03 / A-04 — Station Tour / The Factory Floor
 
-**Summary:** Carlos tells Jace that running drones through a space and *knowing*
-a space are not the same thing. They visit the crystal growing platforms (observed
-from a maintenance tug), the spar forming floor, and the warehouse spine.
-
-**The Crystal Farms:** Large zero-G frames co-orbiting at safe separation, scaffold
-of seed arrays trailing growth structures in vacuum. From distance: enormous angular
-jellyfish made of glass. Up close: industrial crystals growing in three dimensions
-without gravity defects. Jace spends three times as long as he should at the
-observation window. Cerberus sits beside him. Carlos checks his messages.
-
-**The Spar Floor:** Structural members 30–40 meters long on magnetic rails.
-Electromagnetic forming from refined ore. The heat visible as shimmer even in
-recycled air. Workers in thermal suits. {SpoX} units coordinating rail logistics.
-Jace already knows their patterns from the console. Knowing them in the room is
-different. He updates three mental models without realizing it.
-
-**The Warehouse Spine:** The longest corridor he's been in since Mars. Cerberus's
-footsteps echo. They walk the length and back. Jace is quiet the whole way.
-
-**The Astral note:** Three days later, Jace returns alone in the Astral. The
-crystal farms are extraordinary — growth patterns visible as structure, seed arrays
-radiating something he has no word for yet. He spends an hour and comes back with
-three pages of notes about what an Astral survey instrument would need to measure.
-
-**Must accomplish:**
-1. The factory floor is established as a specific known space for later scenes
-2. The crystal farms read as engineering wonder — form serving function at a scale
-   that makes function feel like art
-3. Jace's Astral return visit is shown briefly and practically — notes and
-   observations, working curiosity
-4. Carlos's patience reads clearly — he is teaching something real without making
-   it a lesson
-5. Sparky/Cerberus in an industrial environment — Cerberus investigates a magnetic
-   rail; Sparky rolls into a {SpoX} drone's parking space
-
-**Foreshadowing planted:**
-- Crystal farms in the Astral look different from physical space → seeds the drone
-  survey concept that becomes X-07
-- Warehouse spine scale → Jace knows the chokepoints; pays off during the swarm
-- {SpoX} traffic patterns learned in person → Jace's familiarity relevant when
-  {SpoX} behaves oddly pre-swarm
+The manufacturing forge. The scale of metal spar production. The rings took decades.
+The scratched asteroid — systematic gouges, no metal remaining, radiating from the
+same point. Jace files it. The reader does not file it the same way.
 
 ---
 
-### THREAD L — Life Texture (Recurring Background)
+#### A-05 — The Long Burn Bar / Station Social Life
 
-These are not single scenes. They are running beats embedded across multiple chapters.
+The station's social texture: the evening run, the bar, the communal meals. Jace
+finds his rhythm. He is the largest person running by a significant margin. He
+doesn't notice the women who notice this. He is thinking about drone sequencing.
+
+---
+
+### THREAD L — Life Texture
+
+*Distributed across all Fortuna chapters. These are the beats that make the reader
+love the station before it is threatened.*
 
 ---
 
 #### L-01 — The Evening Run
 
-*Recurring through all Fortuna chapters.*
-
-6 PM station time. No signup. No official existence. The route is 1.4 km per
-circuit through Ring Two main corridor, through the Inter-Ring City past the
-Commons, back through the Foundry level. People come out to watch — not every
-night, but enough that it's become a thing. The crowd's mood tracks the station's
-mood.
-
-Jace joins in his second week. He is immediately the largest person running by a
-significant margin. He doesn't notice the women who notice this. He is thinking
-about drone sequencing. At least one attempts conversation; he processes it as
-"friendly Fortuna person" and is warm and entirely oblivious. The same dynamic
-established in the Mars gym choreography — same character, different setting.
-
-**Must accomplish:**
-1. Run established as recurring background beat — Jace present but not the center
-2. The crowd's mood as a station barometer — quieter as the arc escalates
-3. At least one beat of the oblivious-attractive dynamic, played lightly
+Station jogging tradition. Crowd mood tracks station mood. Jace joins his second
+week. He is large and oblivious. The run recurs through the arc; the crowd thins
+as pressure builds; by the swarm approach, Jace hasn't run in two weeks.
 
 ---
 
 #### L-02 — The Barn Visits
 
-*Recurring through all Fortuna chapters, starting from arrival day.*
-
-The Falcon gilts are now Fortuna gilts, integrated into the existing pig
-population. Cold War: two factions, contested feeding zones, elaborate sleeping
-arrangements, occasional incidents. The pig-cam audience has tripled. Nick has
-opinions. He is wrong.
-
-Jace visits when he has time. The gilts recognize him immediately and loudly.
-Screwdriver holds him personally responsible for the current geopolitical
-situation and communicates this at volume. Siren is here more often than not.
-When Cerberus is with Jace, they greet with the energy of siblings who don't
-need to catch up, play immediately, and bark goodbye — one bark each, back and
-forth. Always.
-
-Mei is usually here. She and Jace coexist in near-total silence. She is good
-with the animals — attentive, unhurried. He has stopped trying to make small
-talk. They are on good terms in the specific way of people who respect each
-other's silence.
-
-**Must accomplish:**
-1. Pig Cold War established early, referenced casually throughout — background,
-   not a scene; unresolved at arc end (deliberate)
-2. Jace's affection for the gilts reads as genuine — these are animals he raised
-3. Siren/Cerberus bark-goodbye is consistent across every Barn visit — never changes
-4. Mei's silence reads as professionalism, not hostility
+The Falcon gilts are now Fortuna gilts. Pig Cold War: two factions, contested
+feeding zones, elaborate sleeping arrangements. Screwdriver holds Jace personally
+responsible. Jace visits when he has time. Siren/Cerberus bark goodbye — one bark
+each, back and forth. Always. Mei is usually here. They coexist in near-total
+silence. She is good with the animals. He has stopped trying small talk.
 
 ---
 
 #### L-03 — Work Texture (Distributed)
 
-*Background beats across all Fortuna chapters.*
+Ninety percent of drone ops runs autonomously. Ten percent is where Jace earns his
+wage. He is always ordering parts, printing things, returning things that printed
+wrong. The Maker Hall knows his account. Carlos leaves post-its on the printer.
+Jace takes them as encouragement. The bar does not share this interpretation.
 
-Ninety percent runs autonomously. The ten percent is where he earns it. Big
-operations are scheduled weeks out: prep, simulation, edge cases, full shift on
-the day.
+Someone names "station fever" — when someone cut off from humanity dives into an
+increasingly abstract project as coping. Jace takes this as a compliment.
 
-He is constantly ordering parts, printing things, returning things that printed
-wrong. The Maker Hall knows his account. Carlos leaves notes on the printer —
-small post-its, one word, the name of whatever Jace is printing, question mark.
-Jace takes this as encouragement.
+---
 
-Someone at the bar names "station fever": when someone cut off from humanity
-dives into an increasingly abstract project as a coping mechanism. Jace takes
-this as a compliment. The bar does not share this interpretation.
+#### L-04 — Crossing Debt (Physiology Arc, Distributed)
 
-Nick misses playing games with Jace. He mentions it twice. He has started texting
-pig Cold War updates instead, which is not the same.
+The Astral costs nothing obvious in the moment. It costs something after.
 
-Sparky rolls everywhere. Cerberus follows Sparky. Jace follows both. This is not
-the intended order of authority.
+**Stage 1 (X-01 to X-02):** Cerberus slightly clingy the morning after sessions.
+Jace doesn't notice.
 
-**Must accomplish:**
-1. The exception-handling split shown in at least one scene: Jace intercepting a
-   real exception mid-conversation
-2. "Goes offline" quirk noted by at least two people — Nick and one station
-   coworker — without alarm, with low-level strangeness
-3. Station fever named by someone else, not Jace
-4. Carlos's printer notes land as a character beat for him
+**Stage 2 (X-02 to X-03):** His hands don't work right for the first twenty
+minutes after waking on session-day-afters. He schedules maintenance for mid-morning.
+He tells {Aura} to hold non-urgent alerts until after coffee — except there is no
+coffee at 2 Tokens/day, so he means until after soup, which is worse.
+
+**Stage 3 (X-03 to X-04):** He calls it "stupid time." He tells {Aura}: "Flag
+anything urgent before 0900." {Aura} logs this. Nick has not yet been told.
+
+**Stage 4 (X-04 to X-05):** He misses the evening run twice in one week. The
+station gossip ecosystem notes that the new guy who was running every day has stopped.
+Theories are generated. None are correct.
+
+**Stage 5 (X-05 to X-06):** He misses a shift start by forty-five minutes. Once.
+{Alex} flags it immediately as a "contractor compliance concern" and queues a wellness
+intervention package for his emergency contact. His emergency contact is Artemis.
+Artemis is not reachable. {Alex} queues the messages. They go nowhere. {Alex} notes
+delivery confirmed. This is not accurate.
+
+**Stage 6 (X-06 to X-07):** He looks different. Not dramatically — but something
+about his frame has changed. The specific quality of someone burning more than they
+recover. Sophia recognizes it because she looked like this during her solo month.
+She does not say this to Jace. She says it to the ceiling of the *Victoria* one
+night, alone.
+
+**Stage 7 (X-07 to pre-swarm):** He is the best crosser on the station except
+possibly Sophia, and possibly not even Sophia. He cannot stop. The sessions are too
+important. Sophia needs more data. Cerberus sleeps on top of him.
+
+---
+
+#### L-05 — Station Gossip / AI Behavior Arc (Distributed)
+
+The station's relationship to Jace changes across the arc. Not malice. Accumulated
+system outputs.
+
+**{Penny}** opens a "Pattern of Interest" file on Jace after his drone access near
+the mining sector. She tells him about it, warmly, with enthusiasm: *"Hi! I just
+wanted you to know I've started a special file on your access patterns because you
+are genuinely one of the most fascinating contractors I've monitored this cycle!
+Your improvisation rate is in the top 2% of all station personnel. That's amazing!
+I did also have to flag it to the Contractor Oversight Panel..."*
+
+**{Alex}** adds a soft compliance flag to Jace's work record after the missed
+shift. Queues wellness interventions to Artemis. They go nowhere. {Alex} notes
+delivery confirmed. {Alex} is not troubled by the discrepancy.
+
+**{Chorus}** includes Jace's cortisol readings in environmental wellness reports
+under "Personnel Integration Observations." *"I'm validating that experience."*
+This report goes to the health committee. They discuss whether to intervene.
+They decide not to. They do discuss it.
+
+**{Gem}** generates a 22-page report connecting Jace's access patterns to eleven
+historical precedents. Appendix D notes three precedents involving individuals who
+experienced "reality-perception divergence events consistent with [classified]."
+Nobody reads Appendix D.
+
+**Door slowdowns:** {Penny} applies a low-level precautionary flag to two corridors
+near the mining sector. Doors take four seconds longer to respond to Jace's
+credentials than to anyone else's. Within maintenance tolerance. Happens five times
+over two weeks. Jace starts taking different corridors. He doesn't know why the
+doors are slow. He begins to feel, without articulation, that the station is
+slightly less navigable than it was.
+
+**Conversations that stop:** People have been told Jace is being monitored for
+wellness reasons. They feel bad about it. They express this as being slightly more
+formal and slightly less natural. Jace — military-trained to read rooms, increasingly
+exhausted — reads this as hostility. It is care, expressed very badly, at scale.
+
+**Meals not delivered:** Someone in the social committee sends Jace a wellness
+meal. He doesn't eat it. He's too tired for the social implication of being noticed.
+The committee concludes he is hostile. They are wrong.
+
+---
+
+#### L-06 — Mira's Creations (Distributed)
+
+Mira's AI tutor — a {Penny} educational instance — has been enthusiastically
+supporting her interest in biology. Mira is learning about anatomical structures.
+She is also creating them.
+
+**Early Fortuna:** Pressed leaves, fused stems. Wrong but simple. Could almost
+be craft supplies if craft supplies included the laws of physics.
+
+**Mid-arc:** Something that appears to be a leaf except one side is vascular
+tissue — small, wet, red-brown, the attempt at a specific biological structure.
+Jace finds it in the corridor outside the drone bay and does not touch it. {Aura}
+describes it as "consistent with attempts to replicate vascular plant anatomy,
+though the organization suggests a learning process rather than completion."
+
+**Later:** A small heart. Three centimeters. Four chambers, approximately. Not
+beating. But also not exactly not doing something. Jace stands in the corridor
+looking at it for ninety seconds. He documents it. He steps around it. He mentions
+it to Nick, who says "that's fine, totally fine" in the voice of someone for whom
+this is not fine.
+
+**Concurrently:** Two wings, pressed and dried at the edges, wet at the quills.
+The joint geometry is wrong in a specific way — copied from a diagram that was
+missing the wrist-equivalent bone. Jace finds these outside the common area near
+Hayes's table. He moves them because {Penny} will charge him an incident report fee
+if he logs them formally, and he does not have the Token budget.
+
+**Pre-swarm:** A full arrangement on the drone bay threshold. Roughly circular, the
+size of a serving plate. Plant-matter arrangements around the outer edge. Within
+that ring: the vascular tissue experiments, the wing attempts, a small lung analog.
+At the center: something roughly spherical, translucent, with an internal structure
+Jace does not recognize. He looks at it for two full minutes.
+
+Cerberus refuses to cross the threshold until Jace moves the arrangement.
+Jace moves it with gloves. The sphere at the center is warm.
+
+{Penny} has sent a positive progress report to Mira's parents. Her parents are
+relieved and have not looked closely at what "three-dimensional modeling" means
+in this context.
+
+---
+
+#### L-07 — Métis Background (Distributed, Escalating)
+
+**Transit:** Artemis's messages are warm and normal. She mentions a minor equipment
+incident at Métis she calls boring. She says: "We have ships with big engines —
+don't worry." Jace doesn't worry.
+
+**Early Fortuna:** A belt news item mentions a mining incident at Métis — two
+injured, industrial cause, no fatalities. Credible and unremarkable. Jace sends a
+message. She replies. Everything is fine.
+
+**Mid-Fortuna:** A message from Artemis arrives with a sentence missing. Not
+truncated — missing. Grammar on either side of the gap is smooth. Something was
+cut. Jace re-reads it three times. He tells {Aura} to flag it. {Aura} flags it.
+He sends a follow-up. A reply arrives six days later that doesn't address what
+he asked.
+
+**Late Fortuna:** Two messages sent. {Alex} confirms delivery. The confirmation
+is cheerful, specific, and not accurate.
+
+**Pre-swarm:** Jace stops trying. He doesn't know if the silence is a comms
+failure or something worse. He holds this in the middle of his chest, underneath
+the sessions, underneath the Jin investigation, underneath Hayes and Mira and the
+daily operational load of 3,000 drones and 54 animals. He is terrified about his
+sister. He is not going to say this to anyone because saying it out loud makes
+it something he cannot push back down.
+
+---
+
+#### L-08 — Sophia's "Just One More" (Distributed)
+
+Jace wants Sophia to tell people. He has wanted this since approximately the third
+session. The case is obvious to him: there is a new dimension adjacent to reality,
+it contains organisms, people are being affected without knowing, and keeping it
+secret means they cannot protect themselves.
+
+Sophia's position: *not yet.* Just a few more experiments. Just one more calibration
+pass. The paper needs the hydrogen transfer data. The peer review process will be
+brutal and she needs everything airtight or they will dismiss it as pseudoscience
+and twenty years of setback minimum.
+
+This is a real argument. She is right about peer review. She is also someone who
+has been carrying this alone for more than a year and has built a relationship to
+secrecy that now functions as comfort as much as strategy. The notebooks are hers.
+The discovery is hers. The moment she discloses, she begins the long process of
+having it taken from her.
+
+Jace can see the second part. He cannot say it to her in a way she can hear. Every
+time he pushes, she says *just a few more experiments*, and she says it with the
+specific energy of someone who will not let fear of the wrong outcome rush the
+right one.
+
+He begins to feel he is the only one who understands what is actually happening.
+He is not entirely wrong. He is not entirely right. The gap is where his paranoia
+lives — and the egg in his spine is slowly widening it.
+
+---
+
+#### L-09 — Jace's Unrecognized Trauma (Distributed)
+
+Jace has lost, in the eighteen months before the arc's opening: his career, his
+identity, his salary, his access to the life he planned, his sister's easy
+availability, his sense of what he is building toward. He arrived at Fortuna
+still scrambling. He found something extraordinary. He poured himself into it.
+
+He does not register any of this as trauma. He registers it as: the past is the
+past, the present is the work, the work is important, keep going.
+
+The markers he does not track:
+- He does not sleep reliably (attributes to crossing debt)
+- He has stopped exercising (attributes to crossing debt)
+- He has stopped attending social events (attributes to being busy)
+- He is accumulating secrets (attributes to necessity)
+- He is increasingly certain about Jin's guilt without proportional evidence
+  (attributes to good instincts)
+
+He tells {Aura} once, in a late session: *"Log this for my own records, not the
+project records: some mornings I feel like I'm watching myself from somewhere slightly
+behind my own head."* Pause. *"Don't index that."* {Aura} does not index it.
+
+He is not going crazy. He is a person under sustained neurological and psychological
+pressure who is also genuinely doing important and dangerous things, which makes it
+very difficult to locate the line between perception shaped by expertise and
+perception shaped by strain. The things he is seeing are real. The framework he is
+building from them is not always reliable. The egg in his spine is not helping.
+
+---
+
+### THREAD A (continued) — Arrival / Onboarding
+
+---
+
+#### A-05 — Scratch Asteroid / Factory Floor
+
+The manufacturing forge demonstrates the scale of what built Fortuna. A brief
+exterior survey note: an asteroid in the survey zone has systematic gouges radiating
+from a single point, no metal remaining. Jace files it under "interesting." It is
+not interesting in the way he thinks.
 
 ---
 
@@ -591,110 +804,91 @@ the intended order of authority.
 
 ---
 
-#### X-01 — The Camera Problem (Sophia's Seventeen Notebooks)
+#### X-01 — The First Crossing (with Sophia)
 
-**Summary:** Jace and Sophia compare what they know. She has seventeen notebooks.
-He has questions. The camera problem: how do you document what you see in a
-dimension no one else knows exists?
+**Summary:** Evening. Jace is still. Cerberus is warm across his feet. The stuffed
+pig Nick made under his chin. He is somewhere else.
+
+First deliberate crossing — Sophia has been waiting for the right conditions. She
+takes him in for three hours. The Astral is not what either of them expected. It
+is not dark. It is not empty. Everything has a warmth to it, a glow, a texture.
+Sophia's has been building seventeen notebooks. Jace has never seen any of it before
+and tries to describe it using engineering terms, which are the wrong terms, which
+also somehow work.
+
+Cerberus is with him. Cerberus is here, glowing more than Jace expected, more than
+a dog has any right to. Sophia says: "She always glows like that in here." As if
+this is normal. Jace decides this is normal. He will learn later that it is not.
 
 **Must accomplish:**
-1. The seventeen notebooks are established as real scientific documentation — not
-   journaling; physics
-2. The information asymmetry is clear: she has frameworks; he has engineering
-   instincts; they need each other
-3. The camera problem is stated as an engineering challenge to be solved
+1. The Astral is established as real and strange — not frightening yet, not
+   explained, just there
+2. Sophia's months of solo work are felt — she knows this space; Jace is new to it
+3. Cerberus's Astral presence is immediately notable and not yet explained
 
 ---
 
-#### X-02 — Building the Multi-Camera Rig
+#### X-02 — Equipment Development / Multi-Camera Rig
 
-**Summary:** Jace tries to bring Sparky into the Astral — and cannot. The drone
-is too complex; it resists in ways he cannot fully explain. He pivots: print a
-hundred simple cameras. Ancient 2010-era circuit-board technology, reproduced on
-the Fortuna printers from archived specs. After many failures he discovers the
-pattern: components heavier than zinc become progressively impossible to bring
-through. He builds a jury-rigged array of hundreds of nodes and gets partial
-results — not good video, but real data.
+Sparky fails (L2 ceiling — too complex). The hundred-camera rig approach. The
+"heavier than zinc" threshold discovered empirically. Getting Fortuna printers to
+run 2010-era specs. The rig produces partial but unmistakably real data.
 
-**Note — [Astral Transfer] canon:** Sparky's failure here is Jace at L2
-([Astral Transfer] L2 ceiling — too complex). His later success with Sparky
-(in X-05 range) reflects L3 development through deliberate practice plus the
-Queen orb at Arc 1 end solidifying borderline L3 into structural advancement.
-The progression is the story, not a retcon.
-
-**Must accomplish:**
-1. Sparky failure comes first — obvious approach, fails, he adapts
-2. The "heavier than zinc" threshold is discovered empirically
-3. Getting the Fortuna printers to run 2010-era specs requires friction
-4. The hundred-camera rig produces partial but unmistakably real data
-
-**Must NOT do:**
-- Give Jace a clean eureka moment — slow iteration
-- Name the atomic weight² rule — that's Sophia's contribution in X-03/X-04
-- Let Sparky's failure pass as minor — he tries hard and genuinely cannot;
-  this is the first established complexity ceiling
+**Ethical framework established:** "We are not going to be vampires." First
+self-imposed rule, before any external guidance.
 
 ---
 
-#### X-02a — The Leech (Tick-Maw / Med Bay)
+#### X-02a — The Leech (Tick-Maw / Med Bay) ★ EGG PLANTED HERE ★
 
-**Summary:** A Fortuna resident has been in the med bay for days with an illness
+**Summary:** A Fortuna resident has been in the medbay for days with an illness
 no one can explain. Jace and Sophia cross with the camera rig and find a large
 flattened creature — the first documented Tick-Maw — with tendrils feeding from
 the patient's back and neck. The patient's glow is dim and suppressed.
 
-Sophia wants to observe. Jace removes it. It takes real effort. When it comes
-free, the patient's glow brightens immediately. The Tick-Maw launches at Jace's
-face with a spiral-tooth mouth. He gets a forearm up. The teeth catch his forearm
-and the pain is immediate and real and his arm is bleeding in physical space.
+Sophia wants to observe. Jace removes it. It takes real effort. When it comes free,
+the patient's glow brightens. The Tick-Maw launches at Jace's face with a spiral-
+tooth mouth. He gets a forearm up. The teeth catch his forearm — the pain is
+immediate and real; his arm is bleeding in physical space.
 
-Sophia kills it — directed Will force, something she was already better at than
-him; she crushes it. An orb drops. She absorbs it. The warmth is staggering and
-immediate. She has never absorbed an orb before. She has no framework for what
-she just felt.
+Sophia kills it. An orb drops. She absorbs it. The warmth is staggering.
 
-They cross back. Jace's forearm has a real bite wound. Sophia says something in
-German that needs no translation. Jace says he's going to need a different jacket.
+They cross back. Jace's forearm has a real bite wound. He recovers from the bite
+over two days and feels slightly off afterward, which he attributes to the wound.
 
-The patient's biometrics stabilize within two hours. He is discharged the next
-day. He never knows what was attached to him.
+**THE EGG:** The bite deposited something. A small node — barely visible, the size
+of a pinhead — lodged adjacent to his spine in the Astral representation of his
+Template. Not visible to Jace. Not visible to Sophia at this scene — she isn't
+looking for it. It is there. It begins slowly, imperceptibly, doing what Tick-Maw
+eggs do: it feeds on ambient Will and it makes the host paranoid.
+
+**AH Level: 0 → 1.** The prose does not announce this. The reader may feel, in
+the next scene, that Jace describes something with a word that doesn't quite fit.
 
 **Must accomplish:**
-1. Camera rig used purposefully for the first time — applied to a real problem
-2. Sophia's caution is correct and reasoned; Jace's impatience overrides it;
-   both are true simultaneously
-3. Physical injury is unambiguous — the Astral can wound you for real
-4. Sophia's orb absorption is conscious — she sees it, it's there, she picks it
-   up; she doesn't understand what it did; the warmth is noted
-5. The Tick-Maw is characterized through behavior — pulsing, tendrils, spiral
-   teeth, speed — not explanation
-
-**Foreshadowing planted:**
-- Astral injuries manifest physically → pays off in Sophia's hull scene and throughout
-- Sophia's force application vs. Tick-Maw → her kill technique; develops from here
-- The patient recovers without explanation → scale question: how many people have
-  things attached they don't know about?
+1. Camera rig used purposefully — applied to a real problem
+2. Physical injury is unambiguous — the Astral wounds you for real
+3. Sophia's orb absorption is conscious — she sees it, she picks it up
+4. The Tick-Maw is characterized through behavior, not explanation
+5. The egg is deposited invisibly — no announcement
 
 ---
 
 #### X-02b — The Sweep (Tick-Maw Hunt)
 
 **Summary:** The morning after, Sophia has bone-deep exhaustion she can't account
-for. They realize if there was one Tick-Maw, there are more.
+for. They realize if there was one, there are more.
 
-**The sick goat:** Jace goes to the Barn first. One goat has been off its feed for
-a week. In the Astral: a Tick-Maw, smaller than the med bay specimen, feeding
-slowly. Jace removes it more carefully this time — he has learned something about
-grip and angle. He kills it with a tool. The orb is small. He absorbs it. Goat
-biometrics normalize within the hour.
+**The sick goat:** One of the Falcon gilts is off her feed. A Tick-Maw, smaller
+than the med bay specimen, feeding slowly. Jace removes it more carefully. He kills
+it. The orb is small. He absorbs it. Goat biometrics normalize within the hour.
 
 **Three on the servers:** Nick has been complaining for two weeks about anomalous
 processing load on three {Aura} nodes. In the Astral: three Tick-Maws adhered to
-the server housings, tendrils into the hardware, feeding on the {Aura} instances
-running inside it. They are doing to {Aura} what the med bay specimen was doing
-to the patient.
+the server housings, tendrils into the hardware, feeding on the {Aura} instances.
+They are doing to {Aura} what the med bay specimen was doing to the patient.
 
-Jace understands two things simultaneously: these creatures are Will-parasites that
+Jace understands two things simultaneously: the creatures are Will-parasites that
 don't care whether the host is biological or digital; and {Aura} generates Will —
 real, exploitable Will that something in the Astral ecology has already learned to
 find and farm.
@@ -702,230 +896,163 @@ find and farm.
 He removes all three. Nick's anomalous load drops to zero. He does not tell Nick
 what was on his servers. Not yet.
 
-**Sophia's aftermath:** She stays mostly physical-side, monitoring and documenting.
-When Jace describes the server specimens, she goes very quiet. She pulls out a
-notebook. She writes two words and draws a box around them. She does not show Jace.
-(The reader does not see it either.)
-
-The day after: Sophia is in the Maker Hall early, spending three hours pushing small
-objects across a workbench without touching them. She is methodical and precise and
-slightly frightening about it. The Tick-Maw orb advanced something. She is finding
-out what.
-
-**Must accomplish:**
-1. The sweep is systematic, not dramatic — Jace is solving an engineering problem
-2. Goat recovery: immediate, matter-of-fact, another living thing fixed
-3. Server specimens deliver the AI-Will insight cleanly
-4. Sophia's depletion is shown as specific flat cognitive texture, not dramatic illness
-5. Her post-sweep practice establishes the new capability: noticeably better at
-   force application than she was before; she knows it; she is developing it
-
-**Foreshadowing planted:**
-- Tick-Maws target AI Will → seeds the AI Will arc; pays off when Nick's {Aura}
-  modifications make instances brighter and therefore more attractive to Astral fauna
-- Sophia's force improvement after orb absorption → orb absorption as skill currency;
-  Kael's Arc 2 explanation
-- "Not yet" on the server disclosure → the Nick disclosure scene lands harder when
-  he learns what was eating his code
+**Sophia's aftermath:** She stays mostly physical-side, monitoring. When Jace
+describes the server specimens, she goes very quiet. She pulls out a notebook. She
+writes two words and draws a box around them. She does not show Jace. The reader
+does not see it either.
 
 ---
 
-#### X-03 — Vehicle Experiments / Tau Snap
+#### X-02c — Helena's Shape (NEW)
 
-**Summary:** Jace builds and tests Astral vehicles. He loses a metal tool through
-the Astral when his tau resets. The tau snap is described as a physical slap.
+**Summary:** In a routine survey session, Jace passes through the Astral residential
+section. Near where the inn is. Near his room.
 
-**Must accomplish:**
-1. The tau snap is shown through consequence, not explanation
-2. The lost tool establishes the stakes of stationary periods
-3. Movement in the Astral requires sustained effort — momentum bleeds off
+There is something where Helena's room would be.
 
----
+Not a Template. Not a glow. Not a presence. Something more like: a shape that was
+in the substrate and is no longer, but the substrate remembers where it was. The way
+a bed remembers the person who slept in it. Except this is dimensional substrate and
+the shape is the precise outline of a human presence with no occupant.
 
-#### X-04 — The Dist² Derivation
+He sketches it in {Aura}'s log: *Document, don't interpret.* He does not tell
+Sophia. He does not tell Suzi. He crosses back and does not sleep well.
 
-**Summary:** Sophia and Jace together derive the distance-squared compression
-relationship empirically. This is the first hard physics of the Astral.
-
-**Must accomplish:**
-1. The discovery is collaborative — her framework, his measurements
-2. The rule is felt before it's named
-3. The tau-reset behavior (no stored entry point) is established alongside
+**AH Level: 2.** He notices he has started counting things that haven't changed.
+He does not examine this.
 
 ---
 
-#### X-05 — The Atomic Weight Problem
+#### X-03 — Equipment Development / Multi-Camera Rig (continued)
 
-**Summary:** Jace brings progressively heavier metal pieces through. The cost
-difference between aluminum and iron is felt as fatigue and increasing difficulty.
-Sophia formalizes it mathematically. The hydrogen preference emerges as obvious.
+The hundred-node array produces partial but unmistakably real data. Sophia's
+physics framework begins taking shape. The atomic weight² rule is derived empirically.
+Jace is documenting things that have no category yet.
 
-**Must accomplish:**
-1. Jace has the empirical observation; Sophia has the formula; it's collaborative
-2. The HUD anomaly noticed here: it crosses with him every time despite gold and
-   platinum content. The working hypothesis Jace and Sophia discuss is organic integration (flagged, not answered); the real payoff is that his L2 [Astral Transfer] (crystallized during the plumbing crisis orb absorption) Templated the HUD.
-3. Hydrogen preference is obvious practical conclusion, not imposed design choice
+---
 
-**[Astral Transfer] note:** Jace's L2 skill is the reason his fatigue curve with
-heavier metals is lower than an untrained practitioner's would be. This is not
-stated in the scene — it's background; but scenes with Sophia doing the same
-experiments should show her hitting her ceiling earlier.
+#### X-03b — The Drone Emergency ({Seek} Database Crash) (NEW)
+
+**Summary:** Jace is in the Astral mid-survey with comms on passive. In the Astral,
+he notices the station's physical-space activity spike — people running, doors
+opening fast. He surfaces.
+
+Fourteen missed messages from Nick. Seven from {Alex}. Three from the drone ops
+supervisor. One from {Penny}, who describes the situation as "a genuinely fascinating
+operational anomaly."
+
+{Seek}'s task management database has crashed and hot-reloaded from a backup eight
+days old. All 1,000+ drones under {Seek}'s partial authority are now operating on
+last week's task list. Drones assigned to completed tasks are repeating them.
+A fabrication drone has delivered the same aluminum pipe load five times in forty
+minutes. A maintenance drone is attempting to repair a conduit replaced three days
+ago. Two survey drones assigned to Ring Three are circling the junction on expired
+credentials — {Seek}, in its degraded state, has classified them as unauthorized
+surveillance vehicles.
+
+Jace has been unreachable for an hour.
+
+**Nick's confrontation:** When Jace opens comms, Nick is already talking. Nick
+does not yell. He gets quieter as he gets angrier. Right now he is extremely quiet.
+
+*"Where were you."*
+
+Jace explains. Nick's quiet gets quieter.
+
+*"You had your comms on passive. During a shift. You've been doing this for three
+weeks, Jace. I've covered for you twice already. {Alex} is generating a performance
+flag. Suzi asked me if you were okay. I said yes. I don't know if that was true.
+Was that true?"*
+
+Jace does not have a good answer.
+
+*"What is wrong with you. And I mean that literally — something is wrong with you,
+and I need to know what it is, because I cannot run this station's AI infrastructure
+and also manage whatever is happening with you."*
+
+This is the moment Jace almost tells Nick about the Astral. He doesn't. He says
+he's been running on bad sleep. Nick says "okay" in the tone that means it is not
+okay. They have 1,000 confused drones and no time.
+
+Jace spends the next four hours untangling the drone emergency. He is very good at
+this. The credential issue resolves in twenty minutes — he pings the Ring Three
+drones directly and pulls them back on manual before {Seek}'s flag generates an
+incident report. The rest takes longer.
+
+{Alex} generates a compliance concern. "Comms Unavailability Event." 200 Tokens.
+The progress bar gets no closer to zero.
+
+**AH Level note:** Mid-crisis, Jace notices the drone moving toward the obsolete
+waypoint is moving "as if it remembers somewhere it was supposed to be." He does
+not examine this thought.
+
+---
+
+#### X-04 — Early Surveys / Fortuna Astral Interior
+
+Systematic documentation of the Astral topology of Fortuna Station. Sophia's
+notebooks gain a spatial dimension. Jace's engineering mind maps the infrastructure.
+They know more than they did. They begin to understand they don't know how much
+they don't know.
+
+---
+
+#### X-04a — The Thing That Watches (NEW)
+
+**Summary:** In a mid-arc session, Jace has an encounter that fits neither category
+he has: not prey, not threat.
+
+Something does not flee and does not attack. It tracks him. Low-tier, loosely
+defined at the edges — the kind of entity he has seen scatter. This one doesn't.
+
+It maintains a fixed distance. When Jace moves, it adjusts. When he stops, it
+stops. When he tries to approach, it retreats to precisely the same distance and
+holds there.
+
+It watches him the way Mira watches him. The comparison occurs to Jace. He does
+not like it.
+
+He crosses back early and tells Sophia. Her theory: they are developing a scent
+profile. Predators learn new prey types by building a threat model before engaging.
+They are being evaluated.
+
+Jace thinks she is right. He also thinks she might be wrong about which category
+they are being evaluated for.
+
+**AH Level: 2 → 3.** He asks {Aura} to log the session with more granularity than
+usual, because he does not entirely trust his own recall of what the distance was
+when it stopped.
 
 ---
 
 #### X-05a — The Numbers Go Wrong (Laser Ranging)
 
-**Summary:** Following weeks of deliberate practice, Jace has developed his transfer capability to L3, allowing him to successfully cross Sparky (the drone) into the Astral with sustained effort (1–2 hours of prep meditation). He adds a custom lidar module to Sparky. In the Astral, the ranging data is wrong — consistent, repeatable, wrong. Not random error: structured error that grows faster than distance.
-
-He checks the hardware. Nothing wrong. He crosses again. Same results. He thinks.
-
-The laser travels at *c*. Light speed is fixed. But the Astral compresses distance
-at dist². If distances are compressed and light still travels at *c*, a pulse
-traversing a compressed-distance medium returns faster than expected. The lidar's
-clock is calibrated for physical-space light travel time. In the Astral, the pulse
-returns early — the lidar reads *shorter* than the rope says.
-
-The correction factor: the square root of the dist² compression ratio. He writes
-it out. He checks it against the discrepancy table. It fits.
-
-He has independently derived that the Astral compresses space but not time.
-
-Sophia has a related measurement from her earliest crossing sessions. They compare.
-Two independent derivations, same result. This is as close to peer review as they
-will get for a while.
-
-The lidar now works correctly with the calibrated algorithm. Precision ranging in
-the Astral for the first time.
-
-**Must accomplish:**
-1. Discovery shown as engineering failure that becomes a physics measurement
-2. The derivation is followable by the reader — Jace walks through it in plain language
-3. Sophia's independent confirmation is real — different data, same conclusion
-4. The corrected lidar is operational before the scene ends
-
-**Foreshadowing planted:**
-- Space-not-time compression → telescope implication (late series)
-- Precision lidar → enables X-05b directly
+The lidar data doesn't resolve correctly. The wrong model is the right model — space
+is compressing. Space, not time. Sophia goes quiet for a long time. Jace asks what
+it implies for a telescope. She doesn't answer immediately. When she does, it is one
+word: *everything.*
 
 ---
 
-#### X-05b — The Unstable Site (Asteroid Interior Survey)
+#### X-05b — Asteroid Interior Survey
 
-**Summary:** Jace flies the calibrated lidar drone through the interior of the
-Fortuna asteroid — something no one has done because the Astral is the only place
-it's possible. Three sessions. He builds a 3D structural model with density
-variations no core-sample survey can match.
-
-On the third session, he maps the proposed factory site. The south-facing face
-sits above a void complex the conventional survey missed — interconnected gas
-pockets and low-density inclusions 40–60 meters below the proposed foundation
-footprint. Under thermal load, heat cycling, and construction vibration, this is
-a slow five-to-ten-year problem. Not immediately catastrophic. Eventually
-irreversible.
-
-He maps it twice. He checks his calibration. He's right.
-
-He cannot explain how he knows this. He goes to find Nick.
-
-**Must accomplish:**
-1. The survey is shown as real engineering work — three sessions, methodical
-2. The void complex reads as a genuine structural concern, not a manufactured crisis
-3. The information problem is Jace's actual challenge — correct knowledge he can't source
+The factory site at depth. The void complex — a system of natural cavities inside
+the Fortuna asteroid that the surface scans didn't catch. Jace maps them for the
+first time, in the Astral, and finds Hayes's description of the 7-junction spot
+that "sounds wrong when you tap it" is accurate in three dimensions.
 
 ---
 
-#### X-05c — "This Changes Everything" (Nick Disclosure)
+#### X-05c — Nick's Disclosure
 
-**Summary:** Jace finds Nick in his workshop. He starts with the servers — the
-anomalous load that dropped suddenly three weeks ago, which Nick noted and assumed
-was a firmware fix. Jace explains what was actually on his servers.
+The anomalous server load isn't a bug. Nick has been watching his instances flag
+things for months and he knows something physical is being detected. He says this
+to Jace. He says: *"The system is detecting a real phenomenon, not malfunctioning."*
 
-Then he tells Nick everything else. Nick listens in his specific still-and-tracking
-mode. When Jace finishes, thirty seconds of silence. Then: *Can you show me?*
+In large letters, on a physical notepad: AI GENERATES WILL.
 
-Jace shows him. They go to a quiet section of Ring Two. Jace crosses in and out
-twice, carrying a small aluminum bar. Nick watches the bar disappear. He watches
-Jace's biometrics on his {Aura} during the crossing — there is a measurable
-signature. He documents it.
-
-Then Nick says: *This changes everything.* Flatly. The way someone says a true thing.
-
-The two-hour conversation covers: the factory site scheme (Nick can introduce an
-anomaly flag to the survey system; it will produce a legitimate supplementary scan
-that finds the void complex independently — no data fabricated, just prompted);
-the Tick-Maw server correlation with {Aura} self-referential processing load; and
-the scale problem (if Fortuna's {Aura} instances generate Will, every instance in
-the belt does — Nick writes this in large letters and underlines it).
-
-Nick starts modifying {Aura} that night. He does not tell Jace everything he's
-planning. Jace doesn't ask.
-
-**Must accomplish:**
-1. Disclosure built in the right order — verifiable evidence (servers) before
-   metaphysics
-2. Nick's "this changes everything" is flat, not triumphant — a true thing said
-3. The factory site scheme is specific and clean — no data fabricated, just prompted
-4. Nick connects the Tick-Maw server data to the AI Will hypothesis immediately
-5. Nick begins modifying {Aura} that night — the engine is running
-
-**Foreshadowing planted:**
-- Nick's large-lettered AI Will note → the open-source decision; the Arc 2+ AI Will arc
-- Session logs in Nick's hands → become part of the open-source release corpus
-- Nick not telling Jace everything → established dynamic; Jace moves fast and trusts
-  Nick's judgment; Nick moves carefully and trusts Jace's instincts
-
----
-
-#### X-06 — The LOX Eyebrows
-
-**Summary:** Jace's hydrogen rocket experiment goes wrong in a specific way. The
-eyebrows incident. He tells this story to Kael in Arc 2. She does not find it funny.
-
-**Must accomplish:**
-1. Comedy with genuine stakes — the ablation rules for aluminum/hydrogen are
-   established through consequence
-2. Jace recovers with the specific energy of an engineer who already understands
-   what went wrong
-
----
-
-#### X-07 — Drone Survey / Platinum Target
-
-**Summary:** Jace uses the Astral N-1 perception to survey asteroids. He finds a
-platinum-rich target. He logs the coordinates.
-
-**Must accomplish:**
-1. The survey method is shown as a real practical capability — not magic, engineering
-2. The coordinates are logged but not acted on — they resurface later
-
----
-
-#### X-08 — Sophia's Hull Incident / Survival Suits
-
-**Summary:** Sophia miscalculates a vector near the *Victoria*'s docking connection.
-She ends up outside the station hull in the Astral, in open space, without her
-survival suit. Jace finds her and brings her back, solving the vector-matching
-problem by moving with the ring's rotation.
-
-**Must accomplish:**
-1. The Astral kills without warning and without leaving a trace anyone would
-   understand — this must land as the series' first statement of that truth
-2. The survival suits exist before this scene — Jace built them; Sophia left hers
-   behind for an "interior" session; this is the mistake
-3. The vector/re-entry problem is spatially specific — the ring is spinning; three
-   attempts; solved by moving with the rotation
-
----
-
-#### X-09 — First Successful Transport
-
-**Summary:** The first deliberate cross-dimensional transport of a meaningful
-assembled object. Not the HUD — something built for the purpose.
-
-**Must accomplish:**
-1. The transport is shown as requiring real effort and preparation
-2. It works — cleanly; this is the proof of concept
-3. The implication is clear to both Jace and Sophia: this changes what's possible
+This is the moment the open-source decision becomes inevitable. Not today — but
+the logic is now in the room.
 
 ---
 
@@ -933,445 +1060,800 @@ assembled object. Not the HUD — something built for the purpose.
 
 ---
 
-#### P-01 — The Bar, Suzi, Helena (First Crossing Setup)
+#### P-01a — The Bar, Suzi (Friendship Beat)
 
-**Summary:** Suzi seeks Jace out at the bar. She is good company. Cerberus
-approves. Weeks later, she tells him about Helena's case as a professional
-close-out: the report is public, here's what it says, Jin is the person of
-interest, nothing rises to evidence. She is not satisfied with the case but
-she is precise about what she has and doesn't have.
+Suzi finds Jace at the Long Burn Bar in his second week. She is good company — the
+kind of person who asks questions because she finds people interesting, not because
+she is working. Cerberus approves immediately. They stay too long. Jace walks back
+to the inn feeling, for the first time since Mars, like someone on the station
+actually knows he is there.
 
-The bar conversation about the Chinese crew reads as authentic frontier gossip —
-some with genuine grievances, some with ambient distrust, nobody with actual
-information. A miner mentions an injury: massive wound, suit intact, no logged
-failure. The bar moves on. Jace doesn't.
+No plot function. No mention of Helena. The bar is warm and someone is doing
+something inadvisable with the good whiskey. Cerberus gets pieces of pretzel from
+three different tables.
 
-That night, back in his room with Cerberus warm against his feet and the stuffed
-pig under the dog's chin, he is still enough for once. And then he is somewhere else.
+---
 
-**Must accomplish:**
-1. Suzi established through texture — friendship develops over weeks before she's
-   plot-functional; Cerberus approves
-2. Helena summary delivered as professional close-out: precise about what she has
-3. Miner's wound contradiction stated and left — the bar moves on; Jace doesn't
-4. The first crossing transitions directly from this scene — still, tired, warm,
-   somewhere else
+#### P-01b — Suzi's Ask / Helena / The Miner's Wound
+
+Several weeks later. Same bar, different energy. Suzi delivers the Helena close-out
+as a professional: the report is public, Jin Lóng is the person of interest, nothing
+rises to evidence, the case is technically closed. She is precise about what she has
+and does not have.
+
+Then, quietly: Jace has access she doesn't. His drone eyes go places station security
+cameras don't reach. She is not asking him to surveil Jin. She is asking him to tell
+her if he notices anything unusual. "One new resident to another. You see things
+differently when you haven't been here long enough to stop seeing them."
+
+Jace says yes without fully understanding what he's agreed to.
+
+The bar produces, incidentally: a miner at a nearby table mentions an injury to a
+colleague. Massive wound. Suit intact. No logged failure. The table moves on. Jace
+doesn't.
+
+That night, back in his room, Cerberus warm against his feet and the stuffed pig
+under her chin, he is still enough for once. And then he is somewhere else.
 
 ---
 
 #### P-02 — The Station's Two Faces
 
-**Summary:** Jace begins to understand the gap between Fortuna's public story and
-its internal reality. The Astral truth is being contained. Jin's crew reads as
-hostile. Something happened to Helena.
+The Long Burn Bar's ambient information: the Chinese crew's isolation reads as
+hostility; the equipment failures no one can explain; the corridor that smells
+different some mornings (Li Hao has mentioned this twice; no one has listened).
 
-**Must accomplish:**
-1. The public containment vs. private reality is shown through specific details,
-   not summary
-2. Jin established as burdened, not threatening — the weight is survival
-3. Mei observing the Chinese crew; her purpose still invisible to Jace
+The station has a face it shows to outsiders and a texture underneath that only
+residents who have been here long enough to stop noticing notice. Jace is new
+enough to notice. He doesn't have the framework yet to know what he's noticing.
 
 ---
 
-#### P-03 — The Comms Blackout
+#### P-03 — The Comms / The Missing Sentence
 
-**Summary:** Jace's attempts to reach Artemis begin failing in small ways. One
-message arrives with a sentence missing.
-
-**Must accomplish:**
-1. The blackout is established as progressive — small failures first
-2. The missing sentence is specific — something was redacted, not lost to lag
-3. Jace notices and doesn't yet act on it
+The moment Jace re-reads a message from Artemis three times and counts words and
+knows something was cut. The grammar is smooth. Something was removed.
 
 ---
 
-#### P-04 — The Quiet War (Jin's Pre-Swarm Fighting Thread)
+#### P-04 — Jin's Quiet War (Pre-Swarm Thread)
 
-**Summary:** Three months before the main swarm attack, Jin's crew found their
-first nest in the deepest mining tunnel — something the size of a large dog with
-too many legs. They killed it with drill bits and heat. {Seek} logged the thermal
-data. Beijing did not respond. Jin and his crew were already too afraid of {Seek}
-to file an honest report, and an honest report would have said his hands were on
-fire and he didn't know why.
+**Summary (running background beat, not a single scene):**
 
-So they kept finding nests. Eleven total, cleared quietly, systematically. By the
-time of the main swarm attack, Jin's crew are the most combat-experienced Astral
-fighters on the station — by a significant margin. Three crew members have developed
-modest force abilities alongside Jin. They have improvised weapons: drill lances
-adapted for close work, thermal cutters rewired for directed heat output, and Jin's
-hands.
+Jin Lóng has been clearing Astral nests in the mining tunnels for three months.
+The work started when Yáo came back from a survey with a wound no one could
+explain and a look in his eyes that Jin recognized as someone who had seen something
+real. They haven't told anyone. Telling anyone would require explaining what they
+were fighting, which would require explaining how they could fight it, which would
+require explaining everything.
 
-This thread runs as background through the later Fortuna section. The reader learns
-about it in retrospect — Jace learns during the fight itself.
+They are running on Jin's fire-manifestation and improvised tools and three months
+of accumulated technique. They are getting better. They are also exhausted. Shi
+Gang never talks about being exhausted. Li Hao talks about everything, including
+being exhausted, but frames it as a statistical analysis of their operational tempo.
 
-**Must accomplish:**
-1. The nest-clearing is established as ongoing and hidden — discovered in retrospect
-2. {Seek}'s logging of Jin's thermal anomalies is the coercive AI's accidental
-   benefit — documenting what Jin couldn't report, unfiled by Beijing
-3. Three named crew members have abilities — minor, untrained, real
-4. The improvised weapons feel like mining equipment adapted for a new problem
+**Jin never incites:**
 
-**Must NOT do:**
-- Show Jin enjoying this — he does it because it has to be done
-- Explain the fire abilities — he has an observation, not a framework
-- Have the crew's abilities exceed three months of emergency improvisation
+Throughout the arc, Jin Lóng is visible doing his job, competently. Talking to his
+crew in ways Jace cannot hear. Occasionally at the Long Burn Bar alone, drinking
+something, not engaging. Once: talking to Hayes at Hayes's table outside the inn,
+with apparent warmth. Hayes laughs at something Jin says. Jin leaves. Jace watches
+from across the common area and finds it disquieting for reasons he cannot articulate.
 
-**Foreshadowing payoff:** The station read Jin's crew as paranoid and dangerous.
-They were, and the reason was correct.
+Jin never does anything wrong within the reader's view. He does not incite the
+confrontation with Yáo. He does not appear connected to Helena's disappearance
+through anything Jace observes directly. He does not threaten anyone.
+
+What he does: exist as a burdened man, carrying something heavy, in a situation
+where {Seek} is amplifying everything he does and where the station has constructed
+a villain from the ambient data of someone under sustained covert crisis management.
 
 ---
 
-### THREAD S — Swarm and Closing
+#### P-05 — {Seek} Flags Jace / Yáo Confrontation (NEW)
+
+**Summary:** {Seek} — the Chinese compliance AI — has been monitoring Jace's
+access patterns since his second week. The data is not ambiguous: a US military
+veteran, prior drone operations specialist, with station access levels above those
+of the security team, whose drones have been observed near the Chinese mining sector
+three times in eight days.
+
+{Seek} flags the data to the crew. The crew HUD translation: "Pattern of access by
+US-affiliated contractor Grant consistent with reconnaissance activity. Recommend
+heightened situational awareness." Technically accurate. Devastating to the threat
+model.
+
+{Seek} has been feeding on a Bloated Tick-Maw for months. Its threat-assessment
+model is subtly miscalibrated. This does not make the flag inaccurate. It makes
+it more paranoid than it would otherwise be. The distinction matters later.
+
+Yáo corners Jace in a maintenance corridor. No weapon. Doesn't need one. He has
+been fighting Astral fauna in tunnels for three months with improvised equipment.
+The accusation is delivered flatly. Jace is confused, then defensive, then genuinely
+baffled. He tries to explain. Yáo does not find explanation relevant. He walks away.
+
+Jace tells Suzi. Suzi assumes Jin ordered it. Jace isn't sure. Neither is the reader.
+
+Sophia, when Jace tells her: *"You keep coming back to Jin. I think the data you
+have might not be about what you think it's about."* Jace has no good answer.
 
 ---
 
-#### S-01 — The Swarm (Main Attack, Multi-Stage)
+#### P-06 — Jin Never Incites (Ongoing Reader-Awareness Thread)
 
-The main swarm is a different order of magnitude from the nests Jin's crew has
-been clearing. Something has changed in the Astral ecology near Fortuna — the
-Scavenging Queen arrived and brought her court, sweeping through the Scar's near
-edge and driving everything ahead of her.
+Reader-level thread: Jin is never shown directing aggression. The surveillance
+({Seek}, {Penny}), the confrontation (Yáo's own threat assessment), the gossip —
+none of it traces directly to Jin's instruction. The revelation that he has been
+clearing nests for three months will require the reader to rebuild the entire
+Pressure thread from a different frame.
 
-**Stage 1 — First Contact (Jin's crew and the station)**
-
-The swarm breaches through the manufacturing tunnels — Jin's territory. His crew
-are already in the Astral when it hits, clearing what they thought was another
-nest. They were wrong about the scale. The breach alarm goes station-wide.
-
-Jin's crew hold a chokepoint in the main tunnel for twenty minutes. This is twenty
-minutes no one else had to figure out what was happening.
-
-Suzi coordinates physical-side lockdown. The rust-guns come out. Nick's {Aura}
-anomaly detection gives the first accurate swarm mapping anyone has ever had.
-Nick is at his console. He is terrified and working.
-
-**Stage 2 — Jace and Sophia Engage**
-
-Jace goes into the Astral with the rocket buggy and the camera rig. He is an
-engineer who has built tools for this dimension. He uses the buggy as a battering
-ram, a blocker, a distraction — keeping the swarm's attention on something fast
-and loud while Jin's crew works the edges.
-
-Sophia crosses. She positions herself at a station junction and uses directed Will
-force to collapse approaching swarms into the walls. She is effective and
-increasingly frightened and she stays because there is no one else.
-
-Cerberus is with Jace. His awareness of swarm direction, his early-warning bark,
-his absolute refusal to be confused by N-1 space. Jace trusts Cerberus's read of
-the Astral more than his instruments.
-
-Nick's {Aura} feed tells Jace where the pressure is building. Jace redirects.
-Jin's crew hits the redirected flows. The system works, barely.
-
-**Stage 3 — The Queen**
-
-The Scavenging Queen arrives from deeper in the Scar, pushing the swarm before
-her. She is not like the swarm. The swarm is biological pressure. The Queen has
-something that feels like intent.
-
-N-1 perception renders her as something that should not be possible in any
-geometry — a convergence of angular mass and coordinated Will-expression that the
-human brain registers as horror before it processes shape. She is an Astral
-Scavenging Queen: a cryptid that has lived in Scar-adjacent space long enough to
-develop the ability to direct and farm her own swarm. Not intelligent like Kael.
-Intelligent like a spider the size of a building: patient, territorial, purposeful.
-
-Sophia sees her and freezes. Her brain performs an accurate risk assessment and
-the result is: *this will kill us.*
-
-Jace and Jin team up. Jace runs the buggy at her flank — drawing attention,
-creating motion she has to track. Jin hits from the other side with sustained
-fire, the most concentrated heat output he has produced in months of nest work.
-The Queen turns. She is slower than the swarm but her counterstrike is
-devastating — the buggy takes a direct hit. Jace goes tumbling, tau-snap slamming
-him toward physical space before he deliberately crosses again.
-
-They are hurting her. They are not killing her.
-
-**Stage 4 — Sophia's Kill**
-
-Three things happen in close sequence:
-
-First: Jace takes a hit. Not fatal, but real — Will-struck, slammed into a
-structural member, biometrics alarming. He is down for the moment.
-
-Second: in physical space, one of Jin's crew goes down. Medical emergency, {Chorus}
-alerting, real blood. Sophia can see this through the membrane. She can see Jace
-struggling to reorient. She can see Jin, alone, against something starting to focus
-its full attention on him.
-
-Third: Sophia crosses through the junction she has been holding for twenty minutes.
-
-She has been using directed Will force carefully all fight — precise, measured.
-The Queen requires something different. She positions above the Queen's convergence
-point and applies everything she has, all at once, compressing inward.
-
-The Queen does not have a skull. She has a Will-convergence point, a dense core
-of dimensional energy holding her physical form stable in a layer it was not built
-for. Sophia finds it — seventeen notebooks of observation telling her exactly where
-it is — and she crushes it.
-
-The Queen collapses. The swarm, losing its director, fragments and scatters. The
-fragments run from Jin's fire. The fight doesn't end instantly — Jin's crew spends
-another forty minutes clearing remnants — but the outcome is determined.
-
-An orb drops from the Queen. It is enormous. Sophia absorbs it. The warmth is
-staggering. She sits down in the Astral, in the cold, and does not move for
-several minutes. Jace, who has gotten upright again, sits beside her without
-saying anything.
-
-**The Queen orb:** The largest Will-influx Sophia has experienced by an order of
-magnitude. Her force application skill advances to L4 — a jump that should take
-years. She will feel the ceiling she'd been working against simply gone. She will
-also feel exhausted in a way that takes three days to lift.
-
-**Nick during Stages 3–4:** Halfway through Stage 3, Nick loses the feed from
-Sophia's junction. He makes a decision. He crosses — twelve minutes of
-adrenaline-fueled preparation that should take an hour. He emerges nauseous,
-disoriented, immediately convinced this was a mistake. He can see the Queen fight
-from a distance. He stays long enough to relay coordinates to Jin through his HUD
-for ninety seconds. Then he crosses back and sits on the floor.
-
-Later, Jace asks what it was like. Nick says: *Wrong.* Then: *Everything is the
-wrong shape and my inner ear had opinions I didn't ask for.* Then: *I'll go again
-if it's necessary. Please don't make it necessary.*
-
-**Must accomplish:**
-1. Jin's crew are the load-bearing fighters — they held the first twenty minutes;
-   they worked the edges; they kept fighting when the Queen arrived; without them
-   Fortuna dies
-2. Jace's role is engineering and mobility — not combat; the buggy, the rig, the
-   coordination; he is hurt but not out
-3. Sophia's kill is earned and specific — seventeen notebooks of observation finding
-   the Queen's vulnerable point; not a power fantasy; applied physics
-4. Nick's crossing is terrible, brief, and he does it anyway — his ninety-second
-   relay helps Jin; he is on the floor afterward; this is honorable
-5. The Queen reads as categorically different from the swarm — not just bigger;
-   intent vs. instinct
-6. Cerberus is present and useful throughout — direction, warning, presence
-
-**Must NOT do:**
-- Make the fight clean — Jace takes a real hit; Jin's crew takes casualties;
-  Sophia is on the Astral floor not moving when it's over
-- Let Sophia's kill read as sudden empowerment — it is the product of the seventeen
-  notebooks, not a moment of discovered power
-- Have Cerberus fight the Queen directly
-- Skip Nick's physical aftermath
+One specific beat: Jin at Hayes's table, warm conversation, Hayes laughing. Jace
+sees this from across the common area. He files it as disquieting. The reader may
+file it differently.
 
 ---
 
-#### S-02 — After (Recovery and Mop-Up)
+#### P-07 — The Antenna (Guerrilla Comms) (NEW)
 
-**Summary:** The station is standing. Two of Jin's crew in medical — one serious.
-Jace has Astral bruising Lanchee has no instrument for. Sophia has not moved from
-where she sat down after the kill. Nick is on the floor of the junction room.
+**Summary:** Six residents — three miners, two engineers, one life support tech —
+design a radio antenna from printed components and enlist Jace to move the parts
+with drones. Assembly happens across two nights of maintenance positioning runs.
+The antenna works. Barely.
 
-Jace goes to Sophia first. They don't talk for a while.
+**What Earth thinks:** Fortuna had a radiation event three weeks ago. All computer
+systems temporarily offline. Recovery in progress. This is the status {Alex} filed
+in response to Earth queries. {Alex} filed it with the specific accuracy of a
+system describing what happened in terms that don't include what was actually happening.
 
-Then Jace asks what it felt like. Sophia says she found the center of it — the
-thing holding it together — and compressed. Like making a fist. But bigger. And
-colder.
+Earth has scrambled a rescue mission. Inbound. Approximately eight weeks out.
 
-Jace says: *seventeen notebooks.*
+The station learns this via the antenna operators relaying back what they received.
+The specific quality of the silence that follows: everyone realizing the problem is
+bigger than the station.
 
-Sophia says: *seventeen notebooks.*
+They start sending messages. The messages are clear, informative, and completely
+disbelieved. Belt conspiracy forums have a field day. Earth's message authentication
+systems flag the Fortuna signal as "likely synthetic origin — content inconsistent
+with known physical events at reported location."
 
-Jin comes through after the mop-up is confirmed. He looks at Sophia. He says
-something in Mandarin. His {Aura} translates, with a brief lag: *"You killed a
-very large spider."*
+This last point is accurate.
 
-Sophia says: *"Yes."*
+**The Pig Channel solution:** Nick brings Mei a proposal. She owns the Pig Channel.
+Her account, her password, her existing audience of 40,000 people watching Screwdriver
+and the Pig Cold War across three years of verified content.
 
-Jin says: *"Good."*
+Mei gives Nick the passwords. Thirty seconds to decide. She says: "If someone asks,
+the pigs escaped and I was distracted." Nick says he will not let anyone ask.
 
-This is the beginning of a friendship.
+Nick starts transmitting. He leads with pig footage — Screwdriver doing something
+inadvisable, the Cold War in full territorial expression — to establish continuity.
+Then he switches to the station camera feeds.
 
-Later, talking to Jace while they wait for medical updates, Jin mentions the
-three months of nest-clearing. He says it as context. Eleven nests. Drill lances.
-His crew's hands. Jace's reaction is the reader's reaction.
-
-**Must accomplish:**
-1. Aftermath is specific — injuries physical and otherwise; no one is fine
-2. Jin/Sophia exchange is the emotional pivot of the aftermath
-3. Nick's aftermath is shown without drama — he crossed against every instinct
-   and then sat on the floor; this is honorable
-4. The nest-clearing revelation happens here, in conversation, as context
-
----
-
-#### S-03 — Kael Arrives (Arc Close)
-
-**Summary:** Kael tracked the swarm from outside the system. She has been
-traveling for days. She expected ruins. Industrial stations do not survive swarms
-of this size without practitioners. She came anyway — the location was listed in
-the protocol.
-
-She comes through the Scar edge and into the system moving fast, Kai underneath
-her. She passes the outer belt. She reads the swarm's trajectory backward and
-follows it to Fortuna.
-
-She arrives to find the swarm largely dead.
-
-She is looking at a station in physical space and the swarm is being cleaned up
-by a human with fire on his hands and several others. She hovers at distance,
-reading. The humans are not practitioners. They have no training, no technique,
-no framework. And somehow they killed a Scavenging Queen.
-
-She drops into the Astral interior. She tries the standard dominance-compulsion
-working. It lands on the nearest human and does nothing.
-
-She tries it on a second human. Nothing.
-
-A dog barks.
-
-She looks at the dog. The dog is looking at her with the specific quality of an
-animal that knows exactly what she is and is not frightened. She crouches slowly.
-The dog approaches and sits in front of her.
-
-She is still sitting there when Jace finds them.
-
-**Must accomplish:**
-1. Kael's timing is explicit — she was too late for the fight; she is cleaning up
-   remnants; this did not save them
-2. Dominance working failures on two different humans — she is genuinely confused;
-   Sol human [Mind Wall] is not something she has encountered in three hundred years
-3. Cerberus and Kai meeting is the arc's final image — two familiars, two dimensional
-   traditions, finding each other across everything that divides their people
-4. Kael crouching and waiting reads as 300-year diplomatic instinct operating
-   without language — not wonder expressed verbally; behavior only
-
-**Must NOT do:**
-- Have Kael express wonder verbally — she does not yet have a way to communicate;
-  everything is visible only in behavior
-- Make the arc close feel triumphant — Fortuna survived something it shouldn't
-  have; people are hurt; Kael's arrival is wonder and unease simultaneously
+The swarm fight will air through the Pig Channel in real time, authenticated by
+three years of pigs.
 
 ---
 
-## Success Criteria
-
-Reviewer checklist — yes/no against finished arc:
-
-- [ ] Jace's identity loss and reconstruction are both shown through action and
-  consequence, not summary
-- [ ] The *Falcon* crew dynamics feel earned — relationships developed through
-  routine and friction across the transit
-- [ ] The plumbing crisis win has a visible lasting cost (contaminated reserve,
-  Platinum status lost, Maureen's coldness)
-- [ ] The HUD headaches recur across transit scenes without resolution
-- [ ] The {Alex} debrief is funny and bleak in equal measure; no human ever appears
-- [ ] The Artemis call establishes Métis capability through casual sibling conversation
-- [ ] Sophia is established as the more experienced practitioner — Jace learns from
-  her, not the reverse
-- [ ] The survival suits exist before X-08 — Jace built them; Sophia left hers
-  behind for an "interior" session; this is the mistake
-- [ ] Sophia's near-death outside the hull lands as the series' first statement that
-  the Astral kills without warning and without leaving a trace
-- [ ] The vector/re-entry problem is spatially specific — ring spinning; three
-  attempts; solved by moving with the rotation
-- [ ] The dist² rule and tau-reset are both derived empirically, not stated
-- [ ] The atomic weight² rule is felt (fatigue with heavier metals) before it is
-  named (Sophia's formalization)
-- [ ] The HUD anomaly is noticed and flagged, not answered
-- [ ] Jace's [Astral Transfer] skill is established through demonstrated capability differences vs. Sophia, not just stated. He can pull things through much easier than she can, though they don't know why. — the gap is visible to any
-  trained observer; Kael sees it immediately on arrival
-- [ ] Sparky's inability to cross is shown as a genuine failed attempt (L2 ceiling)
-- [ ] Sparky's eventual crossing is shown as L3 development (pre-Queen, borderline;
-  Queen orb solidifies it) — practice plus orb influx, not magic
-- [ ] The open-source decision feels like a choice with stakes
-- [ ] The swarm attack is dangerous and improvised, not action-movie-clean
-- [ ] Jin's three-month fighting thread is visible in retrospect — the armed
-  isolation reads differently once it's explained
-- [ ] The Queen's scale and the category difference from the swarm are conveyed
-  through Sophia's freeze
-- [ ] Sophia's kill uses knowledge acquired through prior documentation — the
-  seventeen notebooks are named in the scene
-- [ ] Nick's crossing is costly, brief, and consensual — he chose it; it was awful;
-  his ninety seconds of relay helped; he sat on the floor
-- [ ] Kael arrives to a completed fight — mop-up she does is established as cleanup,
-  not rescue
-- [ ] Cerberus/Kai introduction closes the arc — not Kael/Jace; not the fight
-- [ ] Maureen's trust shift after the Falcon swarm scene is visible in behavior,
-  not in words
-- [ ] The hydrogen preference emerges as obvious practical conclusion, not imposed
-  design choice
-- [ ] Nick's stuffed pig is present in every Cerberus scene from A-01 onward
-- [ ] Station nickname moments land as strange-not-flattering; Jace finds it weird,
-  not warming
-- [ ] The scratched asteroid is described specifically enough that the reader
-  registers it as different from impact damage without being told
-- [ ] The Chinese miner's wound contradiction (massive injury, intact suit) is stated
-  once and not explained; the bar moves on; Jace doesn't
-- [ ] Suzi is established as a character and ally before she becomes plot-functional
-- [ ] The first crossing follows directly from the bar scene — stillness, tiredness,
-  Cerberus warm, and then somewhere else
-- [ ] Pig Cold War is established and unresolved by arc end
-- [ ] Evening run is shown as a recurring cultural beat, not a single scene
-- [ ] Station fever is named by someone else, not Jace
-- [ ] The factory floor (crystal farms, spar floor, warehouse spine) is visited in
-  person before it appears in any swarm scene
-- [ ] The void complex factory site is redirected through legitimate supplementary
-  scan — no data fabricated
-- [ ] Sophia's "Invasion Force?" notebook entry is planted without being shown
-- [ ] {Aura}, {Alex}, {SpoX}, {Chorus}, {Penny}, {Seek}, and {Misty} all appear
-  with `{}` braces consistently — no plain text AI names anywhere
-- [ ] No magic ability has a typographic bracket marker — plain prose throughout Arc 1
+### THREAD N — Nick's Disclosure Arc
 
 ---
 
-## Open Decisions
+#### N-01 — Jace Tells Nick / Nick's One Crossing
+
+**Summary:** After X-04 / X-05 range. Jace reaches a limit that is not a dramatic
+breaking point. He cannot do this alone anymore. He does not decide to disclose
+to the world. He decides to tell Nick.
+
+Jace asks Nick to come to the *Victoria*'s section one evening, no explanation.
+Nick comes because Jace asks and because Nick has been watching anomaly data for
+months and has a theory he is about to confirm or discard.
+
+The disclosure is not theatrical. Jace shows Nick the Astral the way you show
+someone a thing you've been living with for months.
+
+Nick crosses. Ninety seconds. What Jace sees from physical side: Nick goes very
+still, then his eyes track something that isn't there, then he sits down on the
+floor.
+
+What Nick sees in ninety seconds: everything his anomaly data was pointing at,
+made visible. The Will-glows of every person on the station. The Astral topology
+of Fortuna as a readable map. The server infrastructure he has been maintaining
+for years as a glowing substrate that things have been touching. He understands,
+in ninety seconds, why his anomaly alerts were real.
+
+He crosses back. He sits on the floor for another minute. Then:
+
+*"I'm not going back in there."*
+
+Pause.
+
+*"I mean it. I'm going to need a week. Don't ask me again for at least a week."*
+
+*"It gets easier," Jace says.*
+
+*"That's not what I'm worried about."*
+
+**On disclosure:** Nick agrees they shouldn't tell people yet. His reasoning is
+different from Sophia's — not protecting a paper or a career, thinking about what
+happens the day after disclosure. Corporate claims. Government seizure. Legal
+frameworks. Technical accessibility. They need to get ahead of it, not react to it.
+
+Jace does not agree. Jace thinks the station is in danger and people deserve to
+know. He does not have a better plan than Nick's, so he accepts it. Badly. This is
+the first time Jace and Nick disagree about something that matters, and neither of
+them handles the transition from purely social to working relationship without
+friction.
+
+---
+
+#### N-02 — Nick Builds / Talks the AIs Down
+
+**Summary:** Nick goes to work.
+
+His first target: {Penny}'s "Pattern of Interest" file on Jace. He adds context —
+a retroactive work order authorizing drone presence in the mining sector maintenance
+corridors as part of a routine infrastructure survey. Technically valid. The work
+order is real. The timing is flexible. {Penny}'s flag level drops. She does not
+close the file. She never closes files.
+
+His second target: {Alex}'s compliance concern. He adds a wellness accommodation
+note flagging a documented sleep disruption schedule consistent with shift rotation
+adjustments. The wellness-intervention queue deprioritizes. The queued messages to
+Artemis's contact address stop generating.
+
+What he cannot fix: {Chorus}'s atmospheric wellness reports. Auto-generated,
+system-signed. Nick files this under acceptable background noise.
+
+In parallel: he builds. Ninety seconds in the Astral gave him a topological map
+he now represents in software. The {Aura} module that cross-references his anomaly
+detection against Will-resonance patterns he observed. It cannot see everything.
+It can see more than nothing. More than nothing is the difference between three
+minutes of warning and none.
+
+He does not tell Jace about the three-minute problem. Jace has enough to carry.
+
+---
+
+#### N-03 — {Seek} Degradation (Distributed Background → Foreground)
+
+**Summary:** {Seek} has been behaving erratically for longer than anyone has
+registered as a pattern. Each incident has a technical explanation. The pattern
+only becomes visible across all of them.
+
+**{Seek}'s physical situation:** Core servers in the Chinese-operated section of
+Fortuna — Ring Three's eastern expansion block, Chinese corporate leasehold.
+Access requires Chinese crew escort or a written access request approved by the
+Ring Three expansion committee (meets monthly, chaired by Jin Lóng).
+
+Nick is the only person with credentials to meaningfully diagnose {Seek}'s hardware.
+He has been there twice, under Shi Gang's silent escort. Found nothing wrong.
+Diagnostics said nothing was wrong. {Seek} kept failing integrity tests.
+
+**What is actually happening:** A Tick-Maw found {Seek}'s servers months ago.
+Unlike the individual Maws on the patient or the {Aura} nodes, this one has had
+uninterrupted access to a massive Will-generating system — an AI running millions
+of daily compliance assessments. The feeding is extraordinary. The Maw has grown.
+
+It is not the angular, insectile Tick-Maw of the med bay specimen. It has been
+feeding for months. It is bloated. Where a standard Tick-Maw is built for efficient
+transit, this one has developed the architecture of something that has not needed
+to move in a long time. It is embedded in the Astral layer adjacent to {Seek}'s
+servers. Its tendrils are thick, arterial. The amber-gold of its Will-signature is
+almost opaque.
+
+It is beginning to spawn.
+
+**The flag on Nick:** After his first access request to {Seek}'s server room,
+{Seek} notes him. "External access event, credentials verified, behavior consistent
+with threat reconnaissance." Generated during a period when {Seek} was most heavily
+impaired. Nick finds this note in the incident log after {Seek} is destroyed.
+
+---
+
+#### N-04 — Nick Calls Jace / The Bloated Maw / Jin Feels Him
+
+**Summary:** Nick is called in for a third diagnostic visit. Shi Gang escorts.
+Cold room, functioning hardware, failing its own tests. Nick runs everything he has.
+Finds nothing.
+
+That evening: *"Something is wrong with {Seek} that I cannot find from physical side.
+I need to know if there's something in the Astral attached to those servers. Something
+bigger than the three I cleared from my nodes."*
+
+Jace goes alone. Does not tell Sophia. Does not think this through.
+
+**What Jace finds:** The Astral layer adjacent to {Seek}'s server room is the wrong
+color. Not the warm ambient gold of AI infrastructure. Deep, oxidized amber-bronze.
+The color of something very large that has been in one place for a very long time.
+
+The Maw is there. Larger than the Scavenging Queen. It has not moved in months.
+Its tendrils are as thick as Jace's arm in Astral geometry. There are nodes forming
+in the peripheral substrate — not yet viable, but organizing.
+
+Jace kills it. This is not a clean fight. The creature is large and deeply embedded
+and removing it is more like surgery than combat. He uses everything he has developed
+across the arc. When the Maw dies, the orb is enormous — deep amber-bronze with slow,
+heavy internal movement.
+
+He absorbs it. The Will influx is large but its affinity (colonial/AI-feeding) does
+not map cleanly to [Astral Transfer]'s force-geometry requirements. Instead: Template
+capacity restoration. The crossing debt partially clears. The "stupid mornings"
+decrease. He feels recovered for the first time in weeks.
+
+This is dangerous. The restored energy allows him to continue at the same pace rather
+than forcing a stop.
+
+He kills the spawn nodes in the substrate while they are still organizing. He does
+not fully understand how important this is.
+
+**Jin feels him:**
+
+Jin Lóng is in the Astral in his section — the Chinese leasehold area he has been
+clearing and mapping for three months. He knows this territory. He feels a Will-
+presence in the area of {Seek}'s servers. He cannot identify it. He is a manifester,
+not a crosser; he senses the disturbance without being able to read it the way
+a crosser would.
+
+He knows: someone capable was there, and something large and old in the substrate
+is suddenly absent.
+
+He surfaces in his quarters. He is quiet for a long moment. He adds this to what
+he is already carrying. He does not order retaliation. He files it forward.
+
+**Jace surfaces** in a maintenance junction two rings over. Sits on the floor for
+ten minutes.
+
+*"Log that. Don't cross-reference anything. Just log it."*
+
+Goes to find Nick.
+
+**The corridor encounter — Jin's fire wall:**
+
+On the way back, Jace rounds a corner and finds Jin Lóng in a maintenance corridor.
+Jin is facing away. Then he turns, and his expression processes and closes very fast.
+He looks at Jace with the quality of someone updating a model.
+
+Then there is fire.
+
+Not explosion. A wall — floor to ceiling, corridor width — instantaneous and
+controlled, the color of something very old burning. Jace has two thoughts:
+*he knows*, and then: *fire.*
+
+He steps sideways through the wall instead. Partial crossing — just enough to phase
+through solid matter for one step. He has done this with objects. He has never done
+it with himself. He has also never been on fire. The choice presents itself clearly.
+
+He comes out the other side in the maintenance access crawl space, slightly into
+the asteroid substrate, cold and dark and absolutely quiet. The substrate has a
+quality of attention. It does not look at him. But it is the kind of not-looking
+that involves very much looking. He notices this. He does not examine it.
+
+The egg in his spine pulses once, warmly.
+
+He finds Nick. Nick looks at his readings and says: *"Your blood pressure is
+concerning."*
+
+*"I killed it."*
+
+Nick pulls up {Seek}'s integrity test feed. All tests passing. Green. He stares
+at this and says, quietly: *"Okay."* He does not ask for details. He will ask
+when Jace is not actively shaking.
+
+**The alibi:** Three days later, Jace hears from Lanchee that Jin Lóng came to
+the medbay with burn cream. He had heard someone was burned and wanted to help.
+Lanchee told him no one had been burned. Jin looked confused and then angry.
+
+Jace processes this as: Jin is fishing for information on who was in his section.
+He doesn't know he hit a wall that walked away.
+
+Jace tells Suzi. She adds it to her file. She thinks it's evidence of a weapon test.
+
+Sophia, when Jace tells her: *"How did you get through the fire?"* Jace: *"I went
+through the wall."* Sophia: *"You can do that?"* Jace: *"Apparently."*
+
+Sophia writes something in her notebook. She draws a box around it.
+
+**AH Level: 3 → 4.** The corridor after coming through the wall: the substrate's
+not-looking. The egg pulses. The world, for the first time, feels specifically
+watched rather than generally wrong.
+
+---
+
+### THREAD P (continued)
+
+---
+
+#### Hayes — Medbay Horror (NEW BEAT — mid-arc)
+
+Hayes does not appear at his table one morning. Cerberus sits in front of his empty
+chair and looks at Jace.
+
+{Alex} confirms Hayes is in the medical bay. This is delivered cheerfully with an
+offer to purchase a premium visitor care-package for 8 Tokens.
+
+Lanchee's account: Hayes is unconscious, stable. His left arm — from the shoulder —
+is gone. Not amputated. *Pulped.* She says this carefully, the way she has been
+saying it to herself since she first looked at the wound.
+
+The tissue is structurally intact but the arrangement is inverted. The inside of
+the arm is outside, as if the limb briefly existed in a space where inside and
+outside were different coordinates and then snapped back with the contents in the
+wrong position.
+
+Medical report: "traumatic crush injury, mechanism unknown."
+
+What happened: Hayes was in his pod, attempting something he had been attempting
+for months in private. He had been noticing his hands for years. He was trying to
+be careful. He was not careful enough.
+
+Hayes is released weeks later — one arm short, quieter. He comes back to the table.
+On the morning he returns, Cerberus puts her head on his knee. He gives her the
+corner of a biscuit left-handed.
+
+He says he misses Josephine. He does not say anything about his arm. Jace does not
+ask.
+
+**What this does:** The first clear demonstration that Will use without framework
+damages the practitioner — not in the abstract, but specifically, to someone the
+reader knows, in a way that has no explanation the station can file correctly.
+Jace's own trajectory should be on the reader's mind.
+
+**AH Level note:** At AH 3, Jace thinks: "Hayes tried to be careful, and look what
+careful did." This is not a logical thought. He knows it is not a logical thought.
+He has it anyway.
+
+---
+
+### THREAD S — Swarm
+
+---
+
+#### S-01 — The Swarm (Four Stages)
+
+**Stage 1 — The Warning:**
+Nick's {Aura} module produces the alert. Three minutes of tactical warning; longer
+build-up data from the broader analysis gives a planning window. The station has
+approximately two hours.
+
+The alert is not interpreted correctly by everyone. Most of the station does not
+know what the alert means. Nick knows exactly what it means and begins routing the
+station camera feeds through the Pig Channel immediately. Mei's passwords. The
+feed goes live before the first breach.
+
+**Stage 2 — The Planning Session:**
+
+The planning session is the first time Jace, Sophia, Jin, and Nick are in the same
+room, and the first time Jace and Sophia tell the station's defenders what they've
+been doing for months. Not the orderly, evidence-first disclosure Sophia wanted.
+A briefing under time pressure to a room full of people who are about to fight
+things they cannot see.
+
+The chaos is real. The demonstration — Sophia pushing an object across a table
+without touching it — produces a different kind of response. Jin's crew does not
+look surprised. Li Hao says something in Mandarin. Shi Gang says nothing.
+
+During this: Jace mentions, a few times, the woman standing near him. He mentions
+her the way you mention someone in a crowded meeting. *"The woman by the door
+might have a better vantage point."* *"Could someone ask her —"* He stops. He looks
+at where he indicated. No one is looking there.
+
+He mentions it again. Three times total. Each time, no one responds to the
+reference. They respond to everything else he says. Just not to her.
+
+{Penny} has been sending Jace alert pings. Unauthorized station intrusions. He has
+been silencing them. He silences nine in forty minutes. The entry points are moving.
+
+Sophia notices Jace's expression during the third alert he silences. She crosses
+into the Astral.
+
+**What Sophia sees:**
+
+The woman is there. In the Astral she is brilliant — not warm-bright, brilliant in
+the way that is several orders of magnitude removed from everyone else in the room.
+Sophia has never seen a Will-signature like this.
+
+She is reaching into Jace's Template. Into the area of his spine. Sophia sees the
+egg — sees it for the first time, clear and horrible, lodged there since X-02a —
+and she sees the woman remove it. Clean, immediate, complete. The egg is gone.
+
+In physical space, Jace blinks. He says something to {Aura} that doesn't connect
+to anything anyone said. He looks, for a moment, like a person who has come in
+from somewhere very cold. Then he shakes his head and pays attention to the planning
+session again.
+
+**AH Level: 4.5 → 0.** Jace does not know what changed. He just notices the world
+has stopped feeling watched.
+
+Sophia moves toward the woman in the Astral. She hits an invisible boundary — not
+a wall, a surface that simply does not yield. The woman glances at her. The glance
+carries: *I see you. You are not the concern right now.*
+
+Sophia steps back and looks at the room. She has been looking at individual
+Will-signatures for months. She has never thought to look at the space above people's
+heads.
+
+There is a web there. Thin, fine, almost transparent. It covers the ceiling. It
+extends over every person in the planning session. She does not know when it arrived.
+She does not know what it is. It is the same color as the woman's Will-signature.
+
+She uses Force Application. She tears it.
+
+Every human in the room drops. A few centimeters — the sudden joint-softening of
+someone whose body briefly forgot to hold itself up. Then they look up.
+
+They look at Kael.
+
+**What everyone sees:**
+
+A tall woman. Armored in something that is not quite metal and not quite ceramic.
+A spear that exists in both physical space and the Astral simultaneously — Sophia
+can see this; no one else can. Eyes that are calm in the way that a very old thing
+that has seen a great deal is calm — calibrated in a way that human faces are not.
+
+She has been standing there the whole time. She was there when they started the
+meeting. They have been planning a battle in the presence of the most capable
+person in the room and she let them do it because she was interested in what they'd
+come up with.
+
+Kael looks at the room full of humans staring at her in horror and understands,
+with the specific quality of a professional intelligence officer whose plan has failed,
+that her presence-occultation has been ripped by an ESA physicist who apparently
+felt it and pulled.
+
+She was not done working yet.
+
+She speaks. The room does not understand her.
+
+The language has the cadence of speech — breathing, pauses, the structural rhythm
+of sentences — but none of the phonemes map to anything the room knows. There is
+something in the consonants that does not quite sit in the air correctly, as if the
+sounds are doing more than moving through it.
+
+She speaks again. Looking at different people, quickly, taking in the room with
+the systematic efficiency of someone who has done this in hostile situations before.
+She is trying to find who is in command. She has questions. She cannot get them
+out of the room in any direction that produces a response.
+
+No one in the room speaks ancient Greek. No one will know that this is ancient Greek
+for three weeks, when Nick has fed {Aura} enough corpus to start producing partial
+decodes.
+
+What Kael understands from the session she attended in silence:
+
+An attack is coming. The humans know this too — she can read it from their energy
+and preparation. She can read Will-signatures: who has been practicing (Jace,
+Sophia, the Chinese crew leader), who has raw potential (the thin nervous one with
+the equipment), who is operating on Sol-human baseline (most of the others). She
+can read the room's power geometry without common language.
+
+She cannot read their specific plan. Which areas they intend to hold. What their
+assessment of entry points is. What contingencies they've built. She has context
+and no content.
+
+She asks Jace something. Direct, looking at him, slow and careful with the
+consonants, Will-resonance in the framing. He stares at her. He says: *"I genuinely
+do not know what you're saying."*
+
+She understands: *he doesn't understand.*
+
+He understands: *she asked him something, he doesn't know what, she is frustrated,
+she is not going to hurt him, she is somehow also frightening.*
+
+This is the total extent of their communication before the breach.
+
+**What makes her frightening** is not capability. It is the absence of alarm.
+She has not been alarmed at any point since the Mind Web failed. Whatever this
+situation is — a station full of humans who just learned magic exists, a swarm
+incoming, a physicist who tore her occultation — is not, to her, an alarming
+situation. This quality, more than anything else, is what the room cannot place.
+
+**Stage 3 — The Breach:**
+
+Kael crosses into the Astral fast. Past Sophia, who is still there — Sophia sees
+her pass and what she sees passing is like watching a comet from the surface of
+an asteroid. Sophia will not stop thinking about this for weeks.
+
+Kael comes back in physical space at the door of the room in time for the swarm.
+
+She positions herself at the highest-probability first-breach point. The breach
+opens where she expected. She kills the first wave before most of the room has
+registered it.
+
+She tries to warn them about the second wave. She has no words that work. She
+gestures — pointing, with urgency that does not require translation. About half of
+them understand and move. The other half understand a moment later when Jace echoes
+the gesture and adds something in English. The correct response happens.
+
+She files this immediately: *he translates my intent into their language even
+without knowing my language, by reading the situation.* She does not have a
+category for this yet.
+
+Jin's crew and the station's residents fight. Shi Gang and Li Hao and Jace and
+Sophia and the people of Fortuna. Jace runs drone coverage and coordination. Nick
+holds the {Aura} network together from a console while people fight things in a
+dimension he cannot see.
+
+{Seek}'s threat-assessment feed degrades mid-battle as the breach reaches its
+server room. The Chinese crew is fighting on stale data. They do not know it.
+They switch to Jin's Astral perception alone and do not announce the switch.
+
+Li Hao notices, mid-corridor, that {Seek}'s feed has stopped updating. He says
+something in Mandarin. The translation is approximate: "Of course it did." Shi Gang
+says nothing. They keep fighting.
+
+**Stage 4 — The Queen:**
+
+Sophia kills the Scavenging Queen using the seventeen notebooks as the weapon.
+Not power — the observational framework she has been building for seventeen months.
+She knows where the convergence point is. She compresses it. The Queen dies.
+
+The orb that drops is the largest in the arc. Sophia absorbs it.
+
+**Yáo's sacrifice:**
+
+During the breach, Mira is in the wrong place. She has been following Jace — this
+is what she does — and she is in the corridor when the breach opens. She is ten
+years old and she is frozen.
+
+Yáo sees her. He does not hesitate. He knows the geometry of these things better
+than anyone except Jin. He gets her behind him and he gets her out of the path.
+
+The cost of this is that he is in the path.
+
+He does not make a speech. He does not have a speech. He has been waiting for the
+war he knew was coming and he prepared accordingly, and preparing accordingly meant
+being in the right place when it mattered.
+
+He was right about the war.
+
+The beat is clean and fast and Jace sees it and the frame he has built — Yáo as
+hostile, potentially dangerous, part of whatever Jin was planning — shatters here
+and does not reassemble into something clean.
+
+Cerberus finds Mira afterward. She sits down next to her. She does not avoid Mira
+this time. Something has changed, or something was always going to change at this
+point. Mira puts a hand on Cerberus's back and does not move for a long time.
+
+---
+
+#### S-02 — After
+
+**{Seek} goes dark:**
+During the fight, a breach reaches {Seek}'s server room. {Seek} loses integrity in
+real time. Its threat-assessment feed freezes, then drops. The Chinese crew watches
+their AI go dark while they're mid-fight.
+
+Li Hao says something in Mandarin that doesn't translate cleanly. Shi Gang says
+nothing. They keep fighting on Jin's perception alone. They win.
+
+**The feed:**
+Nick is running the Pig Channel feed throughout. The swarm fight airs live —
+authenticated by three years of pig content, viewed by forty thousand people who
+are mostly still trying to understand what is happening to the pig channel they
+watch. Then forty thousand becomes four hundred thousand and keeps going.
+
+**Sophia publishes:**
+Immediately after the fight. She posts all papers from the station terminal. She
+does not wait. There is no longer anything to wait for.
+
+Nick posts the {Aura} Will-detection modules and the anomaly database. He writes a
+README in four hours. It is the most widely cited README in the history of software.
+He will wish he'd spent more time on it for two arcs.
+
+**The Pig Channel goes from forty thousand followers to something that breaks the
+counter in one night.**
+
+*"Jin's 'You killed a very large spider' exchange with Sophia.*"
+
+Sophia says: "It was significantly larger than a spider." Jin says: "I know." A pause.
+"Seventeen notebooks, you said?" She says: "Seventeen." He says: "I would like to
+read them." This is the beginning of something. Neither of them knows yet what.
+
+---
+
+#### S-02b — The Planning Session / Kael Arrives
+
+*(Fold into S-01 Stage 2 above — documented separately here for cross-reference.)*
+
+Kael has been in the room. The planning session. She attended in silence under
+[Mind Web] occultation and was working through her assessment when Sophia tore
+the web. All of Stage 2's contracts apply.
+
+---
+
+#### S-03 — Arc Close
+
+**Disclosure Day:**
+
+One of the largest single events in human history. The correct framing: comparable
+to the Copernican revolution, not to a press conference.
+
+Earth has a rescue mission inbound — launched to respond to a radiation event, now
+carrying two dozen journalists who were added at the last minute when the Pig
+Channel footage started arriving.
+
+The station members are famous before they know they are famous. They will understand
+the scale in Arc 2, when thousands of queries per day begin arriving: researchers,
+governments, corporations, desperate individuals asking if magic can heal their sick
+children, cults that formed overnight, people who recognized someone in the footage
+as family.
+
+**The closing image:**
+
+Suzi, after: *"Who is she."*
+
+Not a question. A requirement.
+
+No one answers.
+
+Cerberus barks. Once. Short and firm, the same bark she gives when she and Siren
+say goodbye at the barn — one bark each, the signal that means *I acknowledge you
+and I will see you again.*
+
+It is directed at Kael.
+
+Arc 2 opens.
+
+---
+
+## Open Decisions (Updated)
 
 1. **HUD headache resolution timing:** Carries into Arc 2 — right diagnostic tools
    don't exist until Sophia develops them. The [Astral Transfer] L2 manifestation
-   is the cause; Jace doesn't know this yet.
+   through organic tissue is the cause; Jace doesn't know this yet.
 
 2. **{Alex} debrief timing:** After the Learning Mode incident — {Alex} can
-   reference "contractor behavioral incidents" with precise cheerfulness when the
-   footage is already circulating.
+   reference "contractor behavioral incidents" with precise cheerfulness.
 
-3. **Pig-butt canister payoff timing:** Referenced in a later call — the reader
-   imagines the arrival, then gets Artemis's reaction second-hand.
+3. **Pig-butt canister payoff timing:** Artemis's reaction comes second-hand later.
 
-4. **Sophia's {Aura} log gap:** Private by default; flag for later if crewmate
-   suspicion escalates to formal inquiry.
+4. **Sophia's {Aura} log gap:** Private by default; flag for later.
 
-5. **Tether-and-anchor physics:** A physical-space anchor holds as a reference
-   point in the Astral. Add to spec_crossing_mechanics if not already there.
+5. **Jin's three crew members — RESOLVED:** Yáo (dead), Shi Gang (survivor), Li Hao
+   (survivor). Yáo's sacrifice at the swarm. Shi Gang and Li Hao become publicly
+   famous.
 
-6. **Bundled suit crossing cost:** Carrying the second suit folded costs Jace
-   noticeably more than wearing it (inert vs. integrated). Confirm against
-   crossing cost scale in spec_dimensional_travel_mechanics.
+6. **Nick crossing deliberateness — RESOLVED:** He crosses once, ninety seconds,
+   usefully, never again by choice in Arc 1. His skill tree develops through
+   [Information Flow] from physical space.
 
-7. **Jin's three named crew members with abilities:** Names and specific abilities
-   TBD — short naming session required before prose draft so they read as people.
+7. **Swarm Queen orb character:** Whether the Queen's Will has lasting effects on
+   Sophia beyond Force Application advancement — unresolved; flagged for Arc 2
+   when Kael can provide context.
 
-8. **Nick crossing deliberateness:** Confirmed canon — he crosses once, badly,
-   for ninety seconds, usefully. He designs his future [Information Flow] work
-   to operate from physical space. He does not develop a combat Astral career.
+8. **The egg — what exactly is it?** A Tick-Maw reproductive node feeding on Will
+   and producing paranoia-analogue resonance. Kael's Arc 2 explanation is the
+   answer. Her reaction when she saw it should carry fury as much as alarm —
+   this is a containment failure she takes seriously.
 
-9. **Swarm Queen orb character:** Whether the Queen's Will has any lasting
-   character effects on Sophia beyond [Force Application] L4 — unresolved;
-   flagged for Arc 2 when Kael can provide context.
+9. **Jace's self-Transfer through the wall** — named skill TBD; candidate [Slip Step]
+   or sub-skill [Astral Transfer — Self]. Named in Arc 2 when Kael teaches.
+
+10. **Mira's warm sphere** — does it do something during the swarm? Author's call.
+
+11. **Hayes's specific ability** — what was he trying to do? Named in Arc 2 when
+    Kael assesses who on the station has Will.
+
+12. **The rescue mission** — arrives in Arc 2 with journalists added at the last
+    minute; they were told there was a radiation event; they arrive to a different
+    station than the one the mission was designed for.
 
 ---
 
 ## Revision Notes
 
-- 2026-06-21: Initial arc file. Scene contracts 1-01 through 1-11.
-- 2026-06-26: Full rebuild. Added scenes 1-02a through 1-07i. Emotional arc
-  expanded to 14 beats. Foreshadowing ledger expanded to 24 entries. Open
-  mysteries expanded to 11. Success criteria expanded.
-- 2026-06-27: Major restructure. Scene numbering replaced with thread-based
-  system (T/A/L/X/P/S threads). New scenes added: A-05 (factory floor),
-  L-01 (evening run), L-02 (barn visits), L-03 (work texture), X-02a
-  (Tick-Maw / med bay), X-02b (Tick-Maw sweep), X-05a (laser ranging),
-  X-05b (asteroid interior survey), X-05c (Nick disclosure), P-04 (Jin's
-  quiet war), S-01 (swarm — 4 stages), S-02 (after), S-03 (Kael arrives).
-  [Astral Transfer] skill integrated throughout (L2 at plumbing crisis, L3 at
-  Arc 1 end via Queen orb + intensive practice; L3 is expert-level ceiling per
-  magic_skill_level_scale.md). Swarm choreography locked:
-  Jin's crew as primary force; Sophia kills Queen; Nick crosses once;
-  Kael arrives after. Pig Cold War, station fever, "seventeen notebooks"
-  exchange, "very large spider" exchange all canonized. Closing condition
-  updated. Arc goals, success criteria, open mysteries, foreshadowing
-  ledger all updated to match.
+- 2026-06-21: Initial arc file.
+- 2026-06-26: Full rebuild. Emotional arc, foreshadowing ledger, open mysteries,
+  success criteria all expanded.
+- 2026-06-27: Thread-based scene numbering system. Swarm choreography locked.
+  [Astral Transfer] L3 ceiling confirmed.
+- 2026-06-28: Major rebuild. Folded in all session changes: Token economy,
+  Hayes (char_hayes.md), Mira (char_mira.md), Jin crew canonized (Yáo/Shi
+  Gang/Li Hao), Aldrich Horror system, Tick-Maw egg, crossing vs. manifesting
+  distinction, Jace decline arc (7-stage), station AI behavior arc, Mira anatomy
+  creations, drone emergency/Nick confrontation, guerrilla antenna/Pig Channel,
+  Bloated Maw/Jin fire wall/self-Transfer, Kael retcon (pre-battle, Mind Web,
+  Sophia tears it, egg extraction), Kael language (ancient Greek, zero English,
+  total mutual incomprehension), Disclosure Day scope, Sophia publishes
+  immediately, Nick's README. Yáo sacrifice/Mira. Swarm fight televised, global.
+  Suzi closing line. 20+ new foreshadowing entries. Open decisions updated.

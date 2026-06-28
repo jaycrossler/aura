@@ -67,7 +67,7 @@ Mei was born and raised on a working farm in rural Montana to a second-generatio
 
 She was recruited into military intelligence while at college, where her language skills and agricultural background both flagged her for a profile that the Air Force found unusual and useful. Her cover identities have almost always been some variation of the same thing: a Chinese or Chinese-American woman with genuine farming knowledge. The irony that her real life is her deepest cover has not escaped her.
 
-She has been on Mars for approximately two years, embedded at the base Intelligence unit, prior to the belt posting. She is good at her job. She is beginning to distrust the mission framing.
+She has been on Mars for approximately two years, embedded at the base Intelligence unit, prior to the belt posting - and they have fabricated an entire past for her as a daughter of immigrants that care for animals. She is good at her job. She is beginning to distrust the mission framing.
 
 ## Mars Cover and Operations
 
@@ -116,6 +116,11 @@ At story start, Mei and Jace are not allies — but Jace doesn't even know that.
 Over the *Falcon* transit, this will shift. Jace will prove more reliable, more decent, and more ordinary than her briefing prepared her for. She will find herself genuinely caring about him in ways that complicate her professional posture. He will not be hard to underestimate; he will also not be hard to like.
 
 Whether this becomes romantic, fraternal, or something more uncategorizable is open. What is certain: by the time the *Falcon* reaches Fortuna, Mei will have to choose, in some moment, between mission cleanliness and Jace's wellbeing. She will choose Jace. The consequences will compound.
+
+## The Pig Cam channel
+Mei runs the "Pig Cam" that started on the Falcon and becomes semi-famous, continuing on to the Fortuna. She does it in the guize of raising money to help out her family on Mars, but the channel quickly catches on in popularity with many "Pigs in Space" comments on the station.  People love the pigs, and Mei is humble about it's success.  It actually is a collection of multiple camera feeds all aimed at the pigs, and her narrating in chinese stories about their daily lives.
+
+During Arc 1 the Pig Channel password scene (P-07); Mei makes an instant decision; "If someone asks, the pigs escaped and I was distracted"
 
 ## Relationship with Jin Luong
 

@@ -164,6 +164,21 @@ Sophia and Jace are complementary:
 
 She is also, for the first time, not alone. That matters more than she expected.
 
+## Meeting Kael at end of Arc 1
+
+Sophia first sees Kael when she tears Kael's Mind Web (Force Application, improvised); post-swarm immediate publication; "just one more experiment" pattern (L-08 context). Kael is impressed and sees that Sophia has assembled many low-level force powers.  Instead of being angry, she will spend time teaching Sophia better control techniques.  Sophia turns this into a series of papers.
+
+One detail from Kael's first interactions with Sophia: when Kael uses her own
+vocabulary for dimensional phenomena, her terms map more cleanly onto Greek-rooted
+words than any other Sol language. She uses a word for the Force tree that sounds
+like a variant of *dynamis* (power, force, potential). She uses a word for Template
+that sounds like *typos* (imprint, pattern). She uses a word for the Cognitive Layer
+that sounds like *logos* (the organizing principle, reason, pattern of meaning).
+
+Sophia, who reads classical Greek, notices this and does not say anything yet.  She can only understand one word in 3. 
+She writes it in notebook forty-one. She has a theory she is not ready to state, but starts a paper on it just in case.
+
+
 ## Open Questions
 
 - Names of French and Greek crewmates aboard the *Victoria*

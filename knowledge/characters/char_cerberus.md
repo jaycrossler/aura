@@ -31,6 +31,8 @@ human_bond_secondary: [Falcon crew during transit; Fortuna station residents pos
 family: [unnamed mother (died during or shortly after giving birth to the litter), char_dog_siren (Siren — his sister, alive, shipped to Fortuna ahead of him as breeding stock)]
 allies: [char_jace_apollo, char_dog_siren (sister, at Fortuna)]
 rivals: []
+Hayes: immediate affection and trust; morning biscuit; sits with him post-medbay
+Mira: specific, deliberate, silent avoidance (Will-sense); changes after Yáo's death — sits with Mira during aftermath; something resolved
 
 # Capabilities
 notable_skills: [puppy things at story start; grows into livestock handling assistance, low-G mobility, calm livestock socialization]

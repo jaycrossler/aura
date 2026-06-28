@@ -39,11 +39,19 @@ stopped. She has accumulated more trauma than she has processed.
 
 | Skill | Level | Acquisition | Current capability |
 |---|---|---|---|
-| *[Mind Wall]* | passive | Sol human baseline | Standard; Kael's assessment: strong and well-developed even by her own tradition's standards |
-| **[Astral Transfer]** | **L1** | Self-developed through necessity | Crosses standard personal kit; notebooks; simple analog equipment. Cannot cross most electronics. Cannot cross another practitioner's equipment. Gap with Jace's L3 is visible to Kael on first assessment — Sophia cannot move a copper block; Jace manages it in ~30 minutes |
-| **[Force Application]** | **L2** | Nascent ability developed during solo month (L1); solid L2 after Tick-Maw orb + daily practice + Queen kill orb consolidation; L2 is reliable, functional, combat-capable | Can apply directed Will force with precision at range; killed the Scavenging Queen by finding and compressing its Will-convergence point; in physical space: real environmental effects at moderate range; L2 is solid but not yet expert — she feels the ceiling when she pushes hard; L3 requires a qualitative shift in understanding she does not yet have |
-| **[Far Sight]** | **L1** | Developed during solo documentation work | Can sense living minds in the Astral at moderate range; reads Will-glow quality with more precision than Jace; her seventeen notebooks contain the first systematic mapping of how different minds appear in the Astral |
-| **[Dimensional Sight]** | **L1** | Developed as a safer alternative to full crossings during early exhausted periods | Can perceive the dimensional layer without entering it; brief duration; costs less than a crossing; useful for checking whether something is present before going in |
+| *[Mind Wall]* | passive | Sol human baseline | Standard; Kael's assessment: strong and well-developed even by her own tradition's standards — possibly the strongest passive fortification she has read on a Sol human |
+| **[Force Application]** | **L2** | Developed from solo experimentation during isolated month; L1 via deliberate Vector-physics approach; consolidated to solid L2 through Tick-Maw orb + daily practice + Queen kill orb stabilization | Applies directed Will-force at precision and range; killed the Scavenging Queen by locating and compressing its Will-convergence point; can produce real environmental effects in physical space; at L2 the force is reliable and combat-functional — she feels the ceiling when she pushes for larger effects; L3 requires a qualitative shift she has not yet found |
+| **[Force Sense]** | **L2** | Emerged alongside [Force Application] — the detection side of the same physics intuition | Perceives Will-pressure differentials in the local environment; can feel the structural integrity of a Template under stress; what let her locate the Queen's convergence point without being told what to look for; reads tension and load-bearing structures in the Astral the way an engineer reads a blueprint |
+| **[Force Shell]** | **L1** | Nascent; first appeared during the swarm fight under adrenaline; not yet reproducible on demand | A brief inward-directed force application that deflects or cushions incoming pressure; passive, reactive; Sophia cannot deploy this consciously yet; Kael will identify it in Arc 2 and note it as the seed of a serious defensive skill |
+| **[Astral Transfer]** | **L1** | Self-developed through necessity | Crosses standard personal kit; notebooks; simple analog equipment; cannot cross electronics; gap with Jace's L3 is visible to Kael — Sophia cannot move a copper block at all |
+| **[Far Sight]** | **L1** | Developed through systematic documentation work across the solo month | Reads Will-glow quality with unusual precision; senses living minds at range; her seventeen notebooks are the first systematic Astral observation record in Sol's history |
+| **[Dimensional Sight]** | **L1** | Developed as a lower-cost alternative to full crossings during periods of exhaustion | Perceives dimensional activity without entering; brief duration; useful for detection without exposure |
+
+**Force suite note:** Sophia's physics intuition produced three related skills that
+Jace's engineering focus did not. Where Jace's [Astral Transfer] is specialized and
+deep, Sophia's force tree is broad and interconnected. Kael assesses this as a
+fundamentally different practitioner type — Sophia is building a framework; Jace is
+building a tool. Both assessments are correct. Neither is superior.
 
 ---
 
@@ -126,7 +134,7 @@ stopped. She has accumulated more trauma than she has processed.
 ## Open Notes for Next Sheet
 
 - [ ] The "Invasion Force?" notebook — when does this come into play and how?
-- [ ] [Force Application] development trajectory — currently L2; arc 2 training + orb event targets L3; at L3 becomes genuinely dangerous to Kael-class opponents; at what point does Kael acknowledge this?
+- [ ] Force suite development trajectory — [Force Application] and [Force Sense] are both at L2; [Force Shell] is L1 nascent; at what point does this suite become genuinely dangerous to Kael-class opponents? Does [Force Shell] develop into a teachable defensive skill for the Fortuna community?
 - [ ] ESA relationship — her crewmates; her reporting obligations; what happens when the open-source release is public
 - [ ] Whether Kael reads Sophia's trauma directly or only the Astral skills surface
 - [ ] [Astral Transfer] gap with Jace — Kael's test; Sophia's reaction; does she try to close the gap or accept the specialization?

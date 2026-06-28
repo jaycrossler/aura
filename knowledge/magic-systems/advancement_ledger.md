@@ -42,6 +42,12 @@ Each advancement event has:
 capability, verify their current level in this ledger. If the required capability
 exceeds their confirmed level — flag to review queue, do not silently upgrade.
 
+**L4 ceiling rule:** No Sol human practitioner reaches L4 in any skill within
+the first five arcs. L4 represents decade-scale dedication or exceptional innate
+affinity (see magic_skill_level_scale.md). Any scene draft showing Sol human L4
+capability should be flagged before publication regardless of in-story justification.
+This rule supersedes individual orb advancement calculations.
+
 **Retcon rule:** When a retcon is applied, add a new entry with `confirmed: retcon`
 and reference the superseded entry in notes. Do not delete old entries.
 
@@ -116,6 +122,43 @@ advancement_events:
       any skill. This is the data point that causes Kael's recalibration in Arc 2.
       He has no combat or protection skills at L3; Kael initially considers Transfer
       a "parlor trick" specialization.
+
+  - id: jace_bloated_maw_orb_capacity
+    character: jace_apollo
+    skill: "[Astral Transfer]"
+    from_level: 2.8
+    to_level: 2.8
+    trigger: orb (Bloated Tick-Maw — capacity restoration, NOT advancement)
+    arc: arc_01
+    scene: N-04 (Bloated Maw hunt in {Seek} server area)
+    confirmed: true
+    notes: >
+      NOT a skill advancement event. The Bloated Maw orb is large but its affinity
+      (colonial Will / AI-feeding) does not cleanly map to [Astral Transfer]'s
+      force-geometry requirements. The Will influx instead restores Template
+      capacity — partially clearing the crossing debt accumulation, reducing
+      "stupid morning" frequency, allowing slightly heavier transfers without
+      the same exhaustion cost.
+
+      Subjective effect: Jace feels recovered for the first time in weeks. This
+      is dangerous — the restored energy allows him to continue at an unsustainable
+      pace rather than forcing a necessary stop. The crossing debt does not
+      disappear; it becomes bearable again.
+
+      Kael reads this Will event during her Arc 2 Template assessment. She
+      identifies it as a large orb absorption from an unusual creature she does
+      not immediately recognize. When she asks Jace to describe it, his explanation
+      reveals: (a) the Bloated Maw existed and was feeding on {Seek} for months,
+      (b) he hunted it alone, (c) Sophia did not know.
+      Sophia is present during this assessment. This is the first real fracture
+      in the Jace-Sophia partnership.
+
+      Progression level unchanged at ~L2.8 pre-event. Queen orb during swarm fight
+      pushes to confirmed L3 (see jace_queen_transfer_l3).
+
+      L4 NOTE: No Sol human reaches L4 in any skill for at least 5 arcs. L4 requires
+      decade-scale dedicated practice. This ceiling applies universally across
+      all Arc 1–5 Sol human practitioners.
 
   # ─────────────────────────────────────────────
   # SOPHIA LOTTE

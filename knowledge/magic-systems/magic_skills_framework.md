@@ -63,6 +63,12 @@ conscious beings and accumulates over time. It can also be obtained from Will or
   most practitioners ever reach. L4 is rare. L5+ is legendary. See
   `magic_skill_level_scale.md` for the full scale reference. Decimals can be tracked, eg L2.1
 
+### Emerging concepts
+   - [Astral Creation] as a nascent skill class; currently manifesting in Mira only;
+     no rules established yet; seeded for Arc 2 development where Kael can show Mira some tricks
+   - Crossing vs. manifesting distinction as a canonical section (most humans manifest,
+     not cross; [Astral Transfer] is required for crossing)
+
 ### The Sol Human Baseline
 
 Sol humans at story start have an unusual Will profile (see also `The Kael Observation`

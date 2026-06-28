@@ -43,6 +43,70 @@ Initially, Jin viewed Mei with the same guarded caution he applied to all non-cr
 
 Jin is an emerging practitioner. `{Seek}` had logged multiple "thermal anomalies" around him over the past eight months. During the Swarm attack, his abilities to manipulate Will and thermal energy become visible and crucial to the station's defense.
 
+## Crew 
+
+| Name | Quality | Role | Fate |
+|------|---------|------|------|
+| **Yáo** | Large, scarred, brutal-quiet. Compressed-spring stillness. Believes war is coming and has been preparing. Acts on threat assessments without waiting for orders. The specific competence of someone who has done hard physical work in close-quarters environments for most of his adult life. Multiple healed fractures in his hands and jaw. | Most experienced tunnel fighter; confronted Jace in maintenance corridor after {Seek}'s flag (acting on his own threat assessment — Jin did not order this); held Ring Three tunnels during the swarm | Dies saving Mira during the swarm fight. He sees her in the path of the breach. He does not hesitate. He gets her behind him. He does not survive it. No speech. |
+| **Shi Gang** | Still in the sealed-container sense — not quiet like Yáo (Yáo is a compressed spring; Shi Gang is a sealed container). Has been with Jin the longest. Speaks rarely; when he does, everyone stops. Callsign among the crew translates approximately as "the weight." Silent escort on Nick's two server diagnostic visits. | Jin's most trusted second; has seen the most; holds the crew together when Jin is focused | Survives the swarm. Becomes publicly famous against his preference. He and Li Hao are the most visible fighters in the Pig Channel footage. |
+| **Li Hao** | Thin, wiry, frenetic. Converts sustained fear into perpetual forward motion — stops moving only to think, and when he stops thinking he starts moving again. Has been frightened for a long time and has learned to express it as analysis and commentary. Talks constantly: mining yields, food ratios, his mother on Ceres, structural failures on Ring Three, the philosophical implications of whatever Shi Gang said last. The first one to notice out loud that the corridors smell different some mornings. No one listens to him. He is right. | Early-warning system; his observations are real and chronically undercredited | Survives the swarm. Becomes publicly famous. When {Seek} dies mid-fight, Li Hao says something in Mandarin that doesn't translate cleanly — approximately "of course it did." This line gets clipped and replays on Earth feeds for weeks. |
+
+## The Bloated Maw Reaction (Arc 1 — Late)
+
+Late in the X-thread phase, Jin is in the Astral in his section of the station —
+the Chinese-leasehold area of Ring Three that he has been clearing and mapping for
+three months. He knows this territory intimately. He manifests from physical space
+rather than crossing; he senses Will disturbances in his territory without being
+able to read them the way a crosser would.
+
+He feels a Will-presence in the area of {Seek}'s servers. He cannot identify it.
+He cannot know it is Jace. He knows it is capable — the presence is operating at
+a level above anything he has encountered in the fauna he has been clearing — and
+he knows that something large and old in the substrate, something he had registered
+as a persistent anomaly without understanding what it was, is suddenly absent.
+
+He surfaces in his quarters. He is quiet for a long moment.
+
+He adds this to what he is already carrying: three months of tunnel fighting, a crew
+that is exhausted, a station that has been treating his people as suspects, an AI
+({Seek}) that has been running wrong for weeks in ways he cannot fix, and now someone
+operating in his territory with enough capability to clear something he did not even
+recognize as a threat.
+
+He does not know if this is the same person {Seek} flagged. He does not know if it
+is hostile. He knows it was there, and he knows it is gone, and he will carry that
+uncertainty into the swarm fight.
+
+**What this does NOT mean:** Jin does not order retaliation. He does not warn his
+crew. He does not act on this in Arc 1. He files it forward, as something to
+understand later, if there is a later.
+
+**The fire wall corridor:** Shortly after the Bloated Maw is cleared, Jin encounters
+Jace in a maintenance corridor near the {Seek} server area. Jin senses a Will-
+signature that matches what he felt in his section. He does not know what Jace can
+do or what his abilities look like from physical space. He knows that the Will-
+presence he felt and the person in front of him have the same signature quality.
+
+He produces a wall of fire. Floor to ceiling, corridor width, instantaneous and
+controlled.
+
+He expects to contain someone. Instead the corridor is empty. He cannot account
+for this.
+
+He goes to the medbay three days later with burn cream, telling Lanchee he heard
+someone was burned. Lanchee tells him no one was burned. He looks confused and then
+angry. He leaves.
+
+He does not know that Jace walked through the adjacent wall using partial Astral
+crossing. He does not know that Jace has this capability. He knows his fire hit
+nothing and he cannot explain what he saw.
+
+**Jin's Arc 2 moment:** When he and Jace meet properly, for the first time with
+shared context, Jin will recognize Jace's Will-signature as the presence from his
+section. This recognition is the foundation of the complicated respect that develops
+between them. He will not say "that was you." He will not have to.
+
+
 ## Open Questions
 - What are the exact limits of Jin's thermal manipulation abilities?
 - How does his leadership role evolve in the newly unified Fortuna Station?

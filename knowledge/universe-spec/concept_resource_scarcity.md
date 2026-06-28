@@ -17,6 +17,13 @@ Life in the asteroid belt at story start operates under a specific scarcity regi
 
 This scarcity shapes belt culture, body type, social practice, and economy in ways that should be visible throughout the series rather than stated explicitly. This document collects those implications so the writing can show them rather than tell them.
 
+## Token economy
+   - The main currency name: Tokens (1 Token ≈ 1 USD 2025 purchasing power) - named after AI tokens
+   - Standard high-skilled contractor food allotment: 50 Tokens/day
+   - Minimum food allotment (debt flag): 2 Tokens/day = gray station lowest-effort soup
+   - AI queries cost Tokens (rates vary by system)
+   - Coffee: 4 Tokens per serving
+
 ## What Is Abundant
 
 - **Raw metals and minerals.** Asteroid mining yields iron, nickel, cobalt, platinum-group metals, water ice, carbonaceous compounds. Once smelting and fabrication infrastructure is in place, almost any structural object can be made locally.
