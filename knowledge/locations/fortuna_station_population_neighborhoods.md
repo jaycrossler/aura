@@ -1,688 +1,500 @@
-⸻
-
-description: “Population, housing, neighborhoods, and daily life at Fortuna Station.”
+---
+description: "Population, housing, neighborhoods, civic loadout, and daily life at Fortuna Station."
 id: fortuna_station_population_neighborhoods
 name: Fortuna Station Population and Neighborhoods
 type: supporting_location_bible
 parent_location: location_fortuna_station
-
-Status
-
+status: draft
+canonical: true
 era_of_relevance: story present and beyond
-last_updated: 2026-06-27
+last_updated: 2026-06-30
+related_locations: [location_fortuna_station, location_metis_station, location_asteroid_belt_overview]
+related_characters: [char_jace_apollo, char_nick_lee, char_suzi, char_mei, char_helena]
+---
 
-Cross-references
+# Fortuna Station Population and Neighborhoods
 
-related_locations: [location_fortuna_station]
-related_characters: [char_jace_apollo, char_nick_lee, char_suzi]
+## Summary
 
-Fortuna Station Population and Neighborhoods
+Fortuna is a frontier industrial town in transition. It is no longer a small outpost. It is not yet a true city.
 
-Summary
+At story start, Fortuna appears successful from the outside. New construction is visible from observation galleries and internal viewing walls. New settlers continue to arrive. Manufacturing capacity grows every quarter. Cargo traffic is increasing. The station seems to be winning.
 
-Fortuna is large enough to feel like a real settlement and small enough that its problems are intensely personal. It is no longer a small outpost. It is not yet a true city.
+Inside, the truth is more constrained. Fortuna is optimized, crowded in the wrong places, and perpetually stretched. Its largest bottlenecks are not raw volume or asteroid material. The real bottlenecks are life support margin, staffing depth, medical coverage, housing finish-out, plumbing, food production, maintenance backlog, and human attention.
 
-It is a frontier industrial town in transition.
+Fortuna has room to grow. It does not yet have enough skilled people to operate safely at the scale it is trying to become.
 
-At story start, Fortuna feels successful from the outside. New construction is visible from every observation port. New settlers continue to arrive. Manufacturing capacity grows every quarter. Cargo traffic is increasing. The station appears to be winning.
+## Population Overview
 
-Internally, the truth is more complicated.
+### Human Population
 
-Fortuna is heavily optimized and perpetually stretched. Its biggest constraints are not physical space or raw materials. The real bottlenecks are life support margin, staffing depth, housing, maintenance backlog, and human attention.
+Permanent residents: about 350.
 
-The station has room to grow. It does not yet have enough skilled people to operate safely at that scale.
+Transient population: about 50 to 150.
 
-⸻
+Typical total onboard population: about 420 to 470.
 
-Population Overview
-
-Human Population
-
-Permanent Residents
-
-~350
-
-Transient Population
-
-~50–150
+Peak temporary population during ferry arrivals, cargo windows, ship emergencies, or construction surges: about 500.
 
 Transient population includes:
+- Ferry passengers.
+- Contract labor.
+- Ship crews.
+- Visiting specialists.
+- Scientific teams.
+- Metis shipyard liaisons.
+- Mining crews between missions.
+- Corporate auditors.
+- Medical or training visitors.
 
-* ferry passengers
-* contract labor
-* ship crews
-* visiting specialists
-* scientific teams
-
-Typical total onboard population at any given time:
-~420–470
-
-During major arrivals or cargo windows, the station may temporarily exceed 500 humans.
-
-⸻
-
-Age Distribution
+### Age Distribution
 
 Fortuna is overwhelmingly working-age, with a small but visible child population.
 
-Age Group	Population
-0–5	14
-6–12	18
-13–17	11
-18–24	47
-25–34	103
-35–44	82
-45–54	44
-55–64	22
-65+	9
+| Age Group | Population |
+|---|---:|
+| 0-5 | 14 |
+| 6-12 | 18 |
+| 13-17 | 11 |
+| 18-24 | 47 |
+| 25-34 | 103 |
+| 35-44 | 82 |
+| 45-54 | 44 |
+| 55-64 | 22 |
+| 65+ | 9 |
 
-Children total:
-~43
+Children total: about 43.
 
-Children are socially important because they represent permanence. Every child born or raised on Fortuna becomes symbolic proof that the station is becoming a true home rather than a temporary worksite.
+Children matter socially because they prove the station is becoming a home rather than a work camp. Every school performance, animal birth, and youth certification feels larger than it would on Earth.
 
-⸻
-
-Employment and Labor Structure
+## Employment and Labor Structure
 
 Approximate workforce distribution:
 
-Sector	Count
-Mining and Surface Operations	42
-Manufacturing	68
-Robotics and Repair	57
-Logistics and Cargo	30
-Agriculture and Animal Care	24
-Science and R&D	29
-Medical	8
-Administration	11
-Hospitality and Retail	18
-Education and Childcare	7
-Security and Emergency Response	20
-Dependents / Unassigned	36
+| Sector | Count |
+|---|---:|
+| Mining and surface operations | 42 |
+| Manufacturing and smelting | 68 |
+| Robotics and repair | 57 |
+| Logistics and cargo | 30 |
+| Agriculture and animal care | 24 |
+| Science and R&D | 29 |
+| Medical | 8 |
+| Administration and governance | 11 |
+| Hospitality and retail | 18 |
+| Education and childcare | 7 |
+| Security and emergency response | 20 |
+| Dependents / unassigned / between contracts | 36 |
 
-The station relies heavily on automation.
-
-Approximately 3,000 drones and robots handle most physical labor, maintenance inspections, cargo movement, mining support, and repetitive manufacturing tasks.
+The station relies on about 3,000 drones and robots. This includes tiny inspection units, cleaning bots, cargo carts, repair crawlers, agricultural robots, surface mining units, drone swarms, and larger industrial handlers.
 
 Humans primarily handle:
+- Complex repair.
+- Anomaly investigation.
+- Diagnostics.
+- Safety sign-off.
+- Leadership.
+- Judgment calls.
+- Cross-system troubleshooting.
+- Animal care edge cases.
+- Training, teaching, and cultural continuity.
+
+The most valuable people are not the strongest. They are the people who can identify a small wrongness before it becomes fatal.
+
+## Civic Loadout Verification
+
+For 350 permanent residents plus transients, Fortuna should not have Earth-town civic counts. It should have a compressed but over-engineered loadout.
+
+Recommended civic loadout:
+- Main clinic / infirmary: 1.
+- Emergency surgical bay: 1, connected to clinic and medevac protocols.
+- Distributed aid rooms: 6 to 10.
+- School / learning center: 1 combined facility, subdivided by age.
+- Childcare rooms: 2 to 3.
+- Technical training classrooms: 3 to 6 shared with operations.
+- Main dining hall / Mess: 1.
+- Small restaurants, cafes, bars, and food counters: 6 to 10.
+- Market / retail cluster: 1 primary cluster plus small kiosks.
+- Recreation spaces: 4 to 6 major spaces.
+- Green / garden spaces: 3 to 5.
+- Animal and aquaculture areas: 1 major Barn complex plus support rooms.
+- Security and emergency response: 1 combined headquarters plus posts.
+- Fire / pressure response caches: 20+ distributed lockers.
+- Maker / community fabrication spaces: 1 large public hall plus small workrooms.
+- Industrial fabrication spaces: multiple, including Foundry, smelters, print farms, and repair bays.
+- Robot depots: 8 to 15 distributed across rings, spine, Barn, and surface operations.
+- Warehouses: several large surface/spine warehouses plus many smaller ring stores.
+
+This makes sense because Fortuna is not a normal 350-person village. It is a regional logistics hub with industrial infrastructure, ships, animals, schools, medical risk, and construction activity.
+
+## Housing Overview
+
+Housing is one of Fortuna's largest sources of tension.
+
+The station has enough structural volume to house significantly more people than it currently does. The problem is not raw space. The limitations are:
+- Life support capacity.
+- Air and water loops.
+- Plumbing.
+- HVAC load.
+- Food margin.
+- Finished radiation shielding.
+- Staffing.
+- Safety certification.
+- Emergency evacuation routing.
+- Unfinished construction.
+
+Housing allocation is political because it reflects who the station believes matters.
+
+## Housing Types
+
+### Worker Pods
+
+Engineering term: canister.
+
+Common term: pod.
+
+Belter slang: HomeCan.
+
+Pods are modular pressure-rated living units attached to ring walls, stacked in frame structures, or integrated into permanent buildings. They function as residence, shelter, lifeboat, emergency survival space, and personal workshop.
+
+Each pod contains independent backups for air, water, battery, comms, and emergency sealing. Pods are one layer of Fortuna's Rule of Three.
+
+### Pod Classes
+
+| Pod Type | Size | Occupancy | Notes |
+|---|---:|---:|---|
+| Type A - Single Worker Pod | ~220 sq ft | 1 | Standard for young workers and recent arrivals |
+| Type B - Couple Pod | ~350 sq ft | 2 | Better storage and slightly larger hygiene unit |
+| Type C - Family Pod | ~500 sq ft | 2-4 | Efficient but cramped; children spend much of their day in communal spaces |
+| Temporary Bunk Module | variable | 4-12 | Used for transients and construction crews |
+| Specialist Pod | variable | 1-2 | Better workspace, often assigned by critical skill |
+
+### Permanent Apartments
+
+Permanent apartments are built into inter-ring structures or mature ring sectors. They are highly desirable because they offer:
+- Better acoustic insulation.
+- Thicker walls.
+- More storage.
+- Better temperature stability.
+- Stronger privacy.
+- Better access to civic corridors.
+- Less vibration.
+- Higher social status.
+
+### Housing Inventory
+
+| Housing Type | Units |
+|---|---:|
+| Single Pods | 115 |
+| Couple Pods | 65 |
+| Family Pods | 45 |
+| Permanent Apartments | 80 |
+| Temporary bunks / transient blocks | variable, roughly 60-120 beds |
 
-* complex repair
-* anomaly investigation
-* diagnostics
-* leadership
-* edge-case decision making
+Total residential units: about 305, excluding transient bunks.
 
-This creates an unusual labor environment where the most valuable workers are often not the strongest or fastest, but the best at handling unexpected failures.
+This inventory fits 350 permanent residents if many single workers occupy Type A pods, families cluster in Type C pods or apartments, and transients use bunk blocks or ship berths.
 
-⸻
+## Housing Assignment Process
 
-Housing Overview
+New arrivals rarely receive permanent housing immediately. Most begin in:
+- Temporary shared quarters.
+- Transient bunk blocks.
+- Station inns.
+- Assigned HomeCans with probationary status.
 
-Housing is one of Fortuna’s largest sources of social tension.
+Housing applications are reviewed monthly. Decisions consider:
+- Critical skill needs.
+- Seniority.
+- Family size.
+- Medical necessity.
+- Long-term contract status.
+- Station contribution.
+- Safety record.
+- Political pressure from Origin Industries.
 
-The station has enough structural volume to house significantly more residents than it currently does. The problem is not raw space.
+Resentment is common. A newly recruited chip engineer may receive upgraded housing faster than a veteran mechanic or miner. Everyone understands the logic. That does not mean everyone accepts it.
 
-The real limitations are:
+## Ring Population Distribution
 
-* life support capacity
-* utilities
-* plumbing
-* HVAC load
-* food production
-* staffing
-* unfinished construction
+### Ring One - Founders Ring
 
-Housing allocation therefore becomes political.
-
-⸻
-
-Housing Types
-
-Worker Pods
-
-The standard housing unit.
-
-Engineering term: canister
-Common term: pod
-Belter slang: HomeCan
-
-Pods are modular pressure-rated living units attached to ring walls or integrated into permanent structures.
-
-They function as:
-
-* residence
-* shelter
-* lifeboat
-* emergency survival space
-* personal workshop
-
-Each pod contains independent backups for air, water, battery, and communications.
-
-This follows Fortuna’s Rule of Three philosophy.
-
-⸻
-
-Pod Classes
-
-Type A — Single Worker Pod
-
-220 sq ft
-Occupancy: 1
-
-Contains:
-
-* fold-out bed
-* compact hygiene unit
-* galley
-* storage wall
-* workstation
-
-Common among younger workers and recent immigrants.
-
-⸻
-
-Type B — Couple Pod
-
-350 sq ft
-Occupancy: 2
-
-Slightly larger living area with more storage.
-
-⸻
-
-Type C — Family Pod
-
-500 sq ft
-Occupancy: 2–4
-
-Efficient but cramped.
-
-Children raised in these pods tend to spend most waking hours in communal station spaces.
-
-⸻
-
-Permanent Apartments
-
-Highly desirable.
-
-These are built into the station’s permanent inter-ring structures.
-
-Types include:
-
-* studio
-* one-bedroom
-* two-bedroom
-* family suites
-
-They offer:
-
-* better insulation
-* more storage
-* thicker walls
-* reduced vibration
-* stronger privacy
-
-These are widely seen as status markers.
-
-⸻
-
-Housing Inventory
-
-Housing Type	Units
-Single Pods	115
-Couple Pods	65
-Family Pods	45
-Permanent Apartments	80
-
-Total residential units:
-~305
-
-⸻
-
-Housing Assignment Process
-
-New arrivals rarely receive permanent housing immediately.
-
-Most begin in:
-
-* temporary shared quarters
-* transient bunk blocks
-* station inns
-
-Housing applications are reviewed monthly.
-
-Assignment decisions consider:
-
-* critical skill needs
-* seniority
-* family size
-* medical necessity
-* long-term contract status
-* performance reviews
-* station contribution
-
-Housing decisions are among the most controversial station decisions.
-
-Resentment around housing assignments is common.
-
-A newly recruited chip engineer may receive upgraded housing faster than a veteran mechanic or miner.
-
-This creates quiet but persistent tension.
-
-⸻
-
-Ring Population Distribution
-
-Ring One — Founders Ring
-
-Approximate population:
-~85
-
-The oldest ring.
-
-This is the original settlement and carries significant cultural weight.
+Approximate population: 85.
 
 Primary residents:
-
-* founders
-* senior engineers
-* medical staff
-* leadership
-* long-term families
+- Founders.
+- Senior engineers.
+- Medical staff.
+- Leadership.
+- Long-term families.
+- Residents with historical claims to older pods.
 
 Characteristics:
+- Oldest infrastructure.
+- Oldest pods.
+- Most historical identity.
+- Highest prestige.
+- Most visible patchwork.
 
-* oldest infrastructure
-* oldest pods
-* most historical identity
-* highest prestige
+Nothing matches perfectly. The ring feels lived-in because people have survived there for years.
 
-Nothing matches perfectly. Every corridor has been patched, rebuilt, and modified repeatedly.
+### Ring Two - Civic Ring
 
-It feels lived-in.
-
-⸻
-
-Ring Two — Civic Ring
-
-Approximate population:
-~190
-
-The primary population center.
-
-Most civilian life happens here.
+Approximate population: 190.
 
 Primary residents:
-
-* families
-* teachers
-* mechanics
-* hospitality workers
-* mid-career technicians
+- Families.
+- Teachers.
+- Mechanics.
+- Hospitality workers.
+- Mid-career technicians.
+- Children.
+- Retail staff.
 
 Key features:
+- School.
+- Restaurants.
+- Clinics and aid rooms.
+- Recreation.
+- Shops.
+- Market access.
+- Main Street.
 
-* schools
-* restaurants
-* clinics
-* recreation
-* shops
+Ring Two is noisy, active, and crowded by station standards. It is the social heart of Fortuna.
 
-This is the social heart of Fortuna.
+### Ring Three - Expansion Ring
 
-It is noisy, active, and crowded.
-
-⸻
-
-Ring Three — Expansion Ring
-
-Approximate population:
-~35 permanent + transient crews
-
-Still under construction.
-
-Large sections remain:
-
-* unpressurized
-* unfinished
-* temporary
-* scaffolded
+Approximate population: 35 permanent plus transients.
 
 Primary residents:
+- Construction crews.
+- Fabricators.
+- Newest arrivals.
+- Temporary workers.
+- People waiting for better housing.
 
-* construction crews
-* fabricators
-* newest arrivals
-* temporary workers
+Large sections remain unfinished, unpressurized, scaffolded, sealed, or only partly certified. Ring Three represents Fortuna's future. Residents have been saying life will improve once Ring Three is complete for long enough that the phrase has become a joke.
 
-This ring represents Fortuna’s future.
+### Inter-Ring City
 
-Everyone believes prosperity improves once Ring Three is finished.
+The Inter-Ring City between Rings One and Two holds the densest mix of human activity. It includes the Commons, Sky Gardens, Foundry annexes, Transit Towers, market decks, and semi-permanent pod stacks.
 
-People have been saying that for years.
+It feels like downtown because nearly everyone passes through it.
 
-⸻
+## Corridor and Public-Space Standards
 
-The Inter-Ring City
+Main civic corridors:
+- 5 to 7 meters wide.
+- 3 to 4 meters high.
+- Ceiling LED cloudscapes.
+- Minimal real windows.
+- Bench alcoves, wall gardens, and emergency lockers.
+- Cargo-bot and pedestrian lanes separated by floor markings.
+- Pressure bulkheads at intervals.
+- Public status displays.
 
-The space between Rings One and Two has evolved into Fortuna’s unofficial downtown.
+Older corridors:
+- 2.5 to 3.5 meters wide.
+- Lower ceilings.
+- Mismatched panels.
+- More visible conduit.
+- More acoustic vibration.
+- Less expensive cloud programming.
 
-Most residents pass through daily.
+Industrial corridors:
+- 6 to 10 meters wide.
+- Tall enough for cargo bots, carts, pressure-suited crews, and replacement modules.
+- Stronger floor markings.
+- More warning signage.
+- Fewer aesthetic concessions.
 
-Key districts include:
+The lack of windows is deliberate. Real exterior views in rotating sections can cause dizziness, disorientation, and constant awareness of spin. Fortuna uses ceiling cloudscapes, calm horizon murals, plant walls, and internal vistas instead.
 
-* The Commons
-* Sky Gardens
-* The Foundry
-* Transit Towers
-* market decks
+## Major Neighborhoods and Civic Spaces
 
-This area contains the densest mix of human activity.
+### The Commons
 
-Shift changes are most visible here.
+Fortuna's public square. It is used for markets, festivals, speeches, political gatherings, safety briefings, memorials, celebrations, and public arguments.
 
-⸻
+### Main Street
 
-Major Neighborhoods and Civic Spaces
+Each ring has a central pedestrian corridor, but Ring Two Main Street is the most active. It has cloudscape ceilings, benches, storefronts, public displays, school notices, and robot traffic.
 
-The Commons
+Residents compete informally to improve cloud and weather programming. The station has no real weather, so projected weather becomes culture.
 
-Fortuna’s public square.
+### The Foundry
 
-Used for:
+Manufacturing-heavy inter-ring district. Contains machine shops, print farms, drone depots, fabrication labs, and repair bays.
 
-* markets
-* festivals
-* speeches
-* political gatherings
-* celebrations
+It is noisy, hot by station standards, and respected. People who work in the Foundry often spend more waking hours there than in their pods.
 
-The station’s social center.
+### Sky Gardens
 
-⸻
+The most psychologically important civilian space. Contains hydroponics, small trees, flowers, seating, walking paths, humidity, and a carefully managed smell of living plants.
 
-Main Street
+### The Barn
 
-Each ring has a central pedestrian corridor.
-
-Features:
-
-* 3m+ ceilings
-* projected skies
-* benches
-* storefronts
-* public displays
-
-Artificial sky cycles help regulate circadian rhythm.
-
-Residents compete to improve weather and visual programming.
-
-⸻
-
-The Foundry
-
-Manufacturing-heavy inter-ring district.
-
-Contains:
-
-* machine shops
-* print farms
-* drone depots
-* fabrication labs
-
-Noisy, hot, and busy.
-
-Many workers spend more waking hours here than in their homes.
-
-⸻
-
-Sky Gardens
-
-The most psychologically important civilian space.
-
-Contains:
-
-* hydroponics
-* trees
-* flowers
-* seating
-* walking paths
-
-Humidity is higher here.
-
-The air smells different.
-
-Most residents visit regularly.
-
-⸻
-
-The Barn
-
-One of Fortuna’s most distinctive spaces.
-
-The Barn is both agricultural infrastructure and emotional anchor.
-
-Contains:
-
-* livestock pods
-* veterinary areas
-* aquaculture tanks
-* grazing simulation spaces
-* feed processing
+The Barn is agricultural infrastructure and emotional anchor. It contains livestock pods, veterinary rooms, aquaculture tanks, grazing simulation lanes, feed processing, and animal monitoring.
 
 Animals include:
+- Chickens.
+- Rabbits.
+- Goats.
+- Sheep.
+- Pigs.
+- A small number of cattle or cattle-derived breeding assets.
+- Working dogs.
+- Cats.
+- Fish.
+- Insects or larvae for feedstock, if needed.
 
-* chickens
-* rabbits
-* goats
-* sheep
-* pigs
-* cattle
-* working dogs
-* cats
+The Barn smells organic and alive. Many residents call it the closest place to Earth.
 
-The Barn smells organic and alive.
+### The Market / The Mess
 
-Many residents describe it as the closest place to Earth.
+Informal dining and social hub. Always active. This is where rumors travel fastest because shift workers, families, ship crews, visitors, and station leadership all pass through.
 
-Animal births become station-wide events.
+### The Forge Market
 
-⸻
+Unofficial trade and barter district. Common goods include printed parts, custom tools, homemade goods, repaired electronics, clothing patches, favors, and labor trades.
 
-The Market / The Mess
+### The Inns
 
-Informal social and dining hub.
+The Last Stop is near docking and caters to cargo crews, transient workers, and contractors. It is loud, rough-edged, and useful.
 
-Always active.
+Gold Horizon Inn is near the Commons and serves visiting executives, technical specialists, negotiators, and people who want quiet drinks.
 
-Shift workers, families, and visiting crews overlap here.
+### The Tank
 
-This is where rumors spread fastest.
+A recreation pool, therapy pool, and emergency water reserve. It provides swimming, rehab, low-g exercise, and stress relief.
 
-⸻
+### Maker Hall
 
-The Forge Market
+Community fabrication space with printers, workbenches, tools, and hobby fabrication bays. It is popular with engineers, tinkerers, children, and people who need to fix something management would prefer to replace.
 
-Unofficial trade and barter district.
+### Observation Gallery
 
-Common goods:
+A major morale space. It provides controlled, non-rotating external views and is used for arrivals, departures, meteor showers, quiet reflection, and major announcements.
 
-* printed parts
-* custom tools
-* homemade goods
-* favors
-* labor trades
+### The Quiet Room
 
-Strong belter culture here.
+A meditation and multifaith reflection space. It is simple, low-light, acoustically soft, and intentionally calm.
 
-⸻
+## Immigration and Growth Tension
 
-The Inns
-
-The Last Stop
-
-Near docking.
-
-Caters to:
-
-* cargo crews
-* transient workers
-* contractors
-
-Loud and rough around the edges.
-
-⸻
-
-Gold Horizon Inn
-
-Near the Commons.
-
-More professional.
-
-Common for:
-
-* business meetings
-* visiting executives
-* quiet drinks
-
-⸻
-
-The Tank
-
-Large recreation pool and water therapy space.
-
-Very popular.
-
-Provides:
-
-* swimming
-* rehab
-* recreation
-* stress relief
-
-Psychologically valuable.
-
-⸻
-
-Maker Hall
-
-Community fabrication space.
-
-Contains:
-
-* printers
-* workbenches
-* tools
-* hobby fabrication bays
-
-Popular with engineers and tinkerers.
-
-⸻
-
-Observation Gallery
-
-Large panoramic viewing area.
-
-One of the most important morale spaces.
-
-People gather here for:
-
-* arrivals
-* departures
-* meteor showers
-* quiet reflection
-
-⸻
-
-The Quiet Room
-
-Meditation and multifaith reflection space.
-
-Used by residents from many backgrounds.
-
-Simple and intentionally calm.
-
-⸻
-
-Immigration and Growth Tension
-
-Fortuna actively recruits settlers.
-
-The station desperately wants another 200–300 permanent residents.
+Fortuna actively recruits settlers. The station wants another 200 to 300 permanent residents.
 
 Priority recruitment targets:
+- Robotics engineers.
+- Welders.
+- Electricians.
+- Fabrication specialists.
+- Medics.
+- Teachers.
+- Semiconductor experts.
+- Life-support technicians.
+- Animal handlers.
+- Surface operations specialists.
 
-* robotics engineers
-* welders
-* electricians
-* fabrication specialists
-* medics
-* teachers
-* semiconductor experts
+Recruitment messaging emphasizes frontier opportunity, ownership, wealth creation, and building the future.
 
-Recruitment messaging emphasizes:
+Reality includes long shifts, cramped housing, constant shortages, little privacy, dangerous work, and a maintenance backlog that never sleeps.
 
-* frontier opportunity
-* ownership
-* wealth creation
-* building the future
+## Cultural Identity
 
-Reality is harsher:
-
-* long shifts
-* cramped housing
-* constant shortages
-* heavy workload
-* little privacy
-
-This gap between promise and reality defines much of Fortuna’s social tension.
-
-⸻
-
-Cultural Identity
-
-Fortuna remains heavily American-influenced through Origin Industries and government backing.
-
-At the same time, a distinct belter identity is emerging.
+Fortuna is American-influenced through Origin Industries and U.S. backing, but a distinct belter identity is emerging.
 
 Common cultural traits:
-
-* practical
-* direct
-* skeptical of Earth politics
-* proud of self-sufficiency
-* highly adaptive
+- Practical.
+- Direct.
+- Skeptical of Earth politics.
+- Proud of self-sufficiency.
+- Strongly pro-maintenance.
+- Suspicious of management optimism.
+- Protective of children and animals.
+- More interested in competence than credentials.
 
 Residents increasingly think of themselves as Fortunans first and Earth nationals second.
 
-This identity shift matters politically.
+## Operational Truth
 
-⸻
+Fortuna looks successful. It is successful by several metrics.
 
-Operational Truth
+But it operates with little slack.
 
-Fortuna looks successful.
+Persistent stressors:
+- Labor shortages.
+- Maintenance backlog.
+- Housing pressure.
+- Construction delays.
+- Corporate debt.
+- Growing infrastructure complexity.
+- Thin medical depth.
+- Dependence on robot uptime.
+- Suppressed anomaly reports.
 
-And by many metrics, it is.
+The station feels stable because competent people work constantly to keep it stable.
 
-But internally it operates with very little slack.
+## Visual Prompt Library
 
-Persistent stressors include:
+### Prompt 1 - Civic Ring School Morning
 
-* labor shortages
-* maintenance backlog
-* housing pressure
-* construction delays
-* corporate debt
-* growing infrastructure complexity
+A one-third gravity school entrance inside Ring Two of Fortuna Station. The corridor is 6 meters wide with LED cloudscape ceiling panels, wall gardens, emergency mask lockers, and low benches. Children wear soft boots, durable school jackets, ID patches, and small breather packs clipped to their belts. A teacher checks a pressure-safety drill board while a child-safe courier robot delivers sealed lunch containers. The space is bright, practical, and calm, with no exterior windows.
 
-The station feels stable.
+### Prompt 2 - Housing Pod Stack
 
-In reality, it is balanced carefully on engineering, discipline, and human effort.
+A residential pod stack in Fortuna's Inter-Ring City. Modular HomeCans are mounted in a reinforced frame with shared stairs, utility trunks, emergency bulkheads, and small personal decorations outside each door. The corridor is clean but patched. A cleaning robot works under a row of potted algae lamps. Residents move in one-third gravity, carrying tool bags and meal containers.
 
-That fragility matters.
+### Prompt 3 - The Forge Market
 
-When anomalies begin to affect systems, Fortuna’s greatest weakness is revealed:
+A compact barter market inside Fortuna Station, with tables of printed parts, repaired tools, homemade clothing patches, small electronics, sealed spice packets, and custom brackets. The ceiling shows a projected cloudy afternoon. The crowd is a mix of miners, engineers, teachers, farmers, and ship crews. Cargo bots wait politely in marked lanes. The space should feel social, improvised, and regulated by safety signs rather than police.
 
-It has optimized aggressively for growth and efficiency, not resilience.
+### Prompt 4 - The Tank
+
+A low-g recreation and therapy pool inside Fortuna Station. The pool is enclosed by thick transparent panels, with safety nets, handrails, rescue equipment, and humidity control vents. People float and exercise in one-third gravity while a therapist supervises a worker recovering from injury. Signage notes that the pool is also an emergency water reserve. The scene is both relaxing and utilitarian.
+
+### Prompt 5 - Observation Gallery
+
+A non-rotating observation gallery attached to Fortuna's hub, with large protected windows looking out at 3 Fortuna, station trusses, radiators, docked ships, and distant construction lights. Residents grip handrails in low or zero gravity. A child presses a gloved hand against the glass while adults watch a cargo vessel approach. The gallery is quiet, reverent, and strongly engineered.
+
+### Prompt 6 - Shift Change at Transit Towers
+
+A busy transit hub connecting Ring One, Ring Two, the spine, and the Inter-Ring City. Elevators, stairs, cargo lifts, pressure doors, and robot lanes converge. Workers in different colored coveralls move between shifts. A public screen shows air-loop status, Ring Three construction status, and docking alerts. The ceiling sky transitions from sunrise to workday blue.
+
+### Prompt 7 - Emergency Redundancy Drill
+
+A Fortuna corridor during a safety drill. Bulkhead doors are half-closed, amber lights flash, residents calmly take breathers from wall lockers, and small robots deploy pressure patch kits. Children follow drill lines painted on the floor. No panic. The scene shows a community trained to survive.
+
+### Prompt 8 - Late Night Main Street
+
+Ring Two Main Street during night cycle. The LED cloudscape ceiling shows dark blue with slow artificial clouds. Shops are mostly closed, but a noodle counter, bar, and maintenance kiosk remain open. Cleaning robots outnumber people. A tired worker in coveralls eats alone under a tree mural while a cargo bot hums past.
+
+## StoryBot Notes
+
+CAN invent:
+- Names for small shops, teachers, pod clusters, station clubs, minor restaurants, and children.
+- Non-critical visual decorations and cloudscape themes.
+- Day-to-day conflicts around housing, noise, maintenance, and food.
+
+SHOULD NOT invent:
+- Large unshielded windowed residences in rotating rings.
+- Abundant unused luxury space.
+- Earthlike gravity behavior.
+- Single-layer safety systems.
+- A population scale that turns Fortuna into a full city without explicit revision.
+
+## Cross-References
+
+- [[location_fortuna_station]]
+- [[location_metis_station]]
+- [[location_asteroid_belt_overview]]
+- [[char_jace_apollo]]
+- [[char_nick_lee]]
+- [[char_suzi]]
+- [[char_mei]]
+- [[char_helena]]
+
+## Revision Notes
+
+- 2026-06-30: Repaired frontmatter, verified population and room loadout, added corridor dimensions, civic loadout, public-space standards, housing logic, and visual prompts.
+- 2026-06-27: Initial population and neighborhood bible.

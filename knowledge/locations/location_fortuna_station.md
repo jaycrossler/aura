@@ -16,10 +16,12 @@ asteroid_diameter: ~225 km
 status: active, growth phase
 era_of_relevance: story present and beyond
 founded: ~2099 (working)
-population: ~350 permanent residents at story start (largest belt station); +50-150 transient
+population: ~350 permanent residents at story start; +50-150 transient
 rings: three parallel rotating rings on a common spine (Ring Three under construction)
 ring_radius: ~100 m
-artificial_gravity: ~1/3 g (≈0.33g), constant, at roughly ~1.7 RPM (100 m radius)
+artificial_gravity: ~1/3 g (≈0.33g), constant, at roughly ~1.7 RPM at 100 m radius
+canonical: true
+last_updated: 2026-06-30
 
 # Fleet and Associated Vessels
 associated_vessels: 20-30 small ships and exploration platforms (various companies and mining groups)
@@ -31,121 +33,377 @@ local_authority: Station Commander (TBD)
 contested_by: [none at story start — this will change]
 
 # Connections
-travel_connections: [nuclear ferry from Mars (~4.5 months), inter-belt transits to Juno/Psyche/Sylvia (weeks to months)]
-strategic_significance: Inner-belt mining hub and emerging industrial platform; smelting and manufacturing capacity; relay point for comms before blackout
+travel_connections: [nuclear ferry from Mars (~4.5 months), inter-belt transits to Metis/Juno/Psyche/Sylvia (weeks to months)]
+strategic_significance: largest inner-belt station; food, smelting, manufacturing, mining coordination, comms relay before blackout
 
 # Cross-references
-notable_inhabitants: [char_jace_apollo, char_nick_lee, char_mei, char_suzi, char_helena (deceased/disappeared)]
-associated_vessels_docked: [ship_victoria, ship_falcon (in transit)]
+notable_inhabitants: [char_jace_apollo, char_nick_lee, char_mei, char_suzi, char_helena]
+associated_vessels_docked: [ship_victoria, ship_falcon]
 related_factions: [faction_belter_stations, faction_megacorps]
 related_ships: [ship_falcon, ship_victoria]
+related_locations: [fortuna_station_population_neighborhoods, location_metis_station, location_asteroid_belt_overview]
 related_events: [event_jace_arrives_fortuna, event_communications_blackout, event_first_magical_incident_fortuna, event_helena_disappearance, event_china_belt_withdrawal]
-last_updated: 2026-06-17
 ---
 
 # Fortuna Station
 
 ## Summary
 
-Fortuna Station is anchored to 3 Fortuna, a large carbonaceous asteroid in the inner belt. An American-anchored station with strong Origin Industries corporate management, built around asteroid mining and the manufacturing of refined materials. It is in growth phase at story start — actively expanding habitat, building out industrial capacity, integrating new ferry shipments. Jace arrives as part of a settler wave, the latest of several over the past two years.
+Fortuna Station is anchored to 3 Fortuna, a large carbonaceous asteroid in the inner belt. It is the largest permanent human station in the belt at story start, with about 350 permanent residents and 50 to 150 transient workers, ship crews, visitors, and contractors. It is large enough to feel like a real settlement and small enough that one disappearance, one housing decision, or one failed machine becomes personal.
 
-It is not glamorous. It smells of recycled air, metal, and animals. The settlers who have been here two years already call the newcomers "greenies."
+Fortuna is an American-anchored station with strong Origin Industries management and U.S. backing. It exists to mine, process, manufacture, feed, repair, and expand. It is not glamorous. It smells of recycled air, metal, cutting fluid, humidity, warm animals, plastic insulation, and human effort. Long-time residents call newcomers "greenies."
 
-## Population and Fleet
+The station's public identity is golden-age expansion. Its private reality is thin margin. Fortuna has more structure than population, more ambition than staffing depth, and more unfinished expansion volume than life-support capacity.
 
-Approximately **~350 permanent residents** at story start — the largest of the five belt stations — plus a transient population of **50-150** (contract crews, ships' personnel, visitors). Large enough that not everyone knows everyone, small enough that social dynamics are still intimate and visible. The population grows with each ferry arrival, and Fortuna is actively competing to become the biggest belt settlement by attracting workers and investors.
+## Verification Notes - Population and Loadout
 
-An additional **20-30 small ships and exploration platforms** are associated with Fortuna — various companies and mining groups that dock for supplies, trade information, and use the station as their operational base. Most non-station personnel live aboard these vessels or are on active missions. The *Victoria* (ESA science vessel, three physicists) maintains a regular docking berth and is a familiar presence at the station.
+The current population model is internally plausible if Fortuna operates as a small industrial town plus regional hub rather than as a closed residential colony.
 
-## Industrial Character — The Golden Age
+Working assumptions:
+- 350 permanent residents.
+- 50 to 150 transient people.
+- Peak onboard population during ferry or cargo windows: about 500.
+- 20 to 30 associated vessels and platforms using Fortuna as a hub.
+- About 3,000 robots and drones, including small inspection units, cleaning bots, cargo haulers, mining robots, repair crawlers, and agricultural automation.
 
-Fortuna is an industrial station in the golden age of belt expansion. Everyone working here knows they are building something that will outlast them. Key operations:
+This yields a human-to-robot ratio of roughly 1:6 to 1:8 when transient humans are included. That fits a high-automation belt station where humans handle judgment, maintenance, social continuity, and edge-case failures while machines perform repetitive physical work.
 
-- **Asteroid mining:** Continuous operations on nearby asteroids, with hundreds of small robots and drones managing extraction while humans direct and repair
-- **Smelting:** Active metal smelting facilities processing raw ore into refined feedstock
-- **Manufacturing:** Production facilities turning refined materials into metal slabs and structural components — for export and for building future station infrastructure
-- **Export pipeline:** The majority of refined resources sent to Earth and Mars; a significant portion retained to build Fortuna's own future capacity
+The station is not overpopulated by raw volume. It is constrained by life support, plumbing, staffing, medical depth, food margin, and maintenance backlog.
 
-The vision is long-term: the infrastructure being built now is designed to support hundreds and eventually thousands of residents.
+## Physical Architecture
 
-## Geography and Layout
+Fortuna consists of a central zero-g spine, three parallel rotating habitat rings, inter-ring structures between the first two rings, docked modules, industrial attachments, and surface operations tied to 3 Fortuna.
 
-Fortuna Station is a co-orbital habitat complex, tethered and station-keeping relative to 3 Fortuna, with the asteroid as resource base and structural anchor. The asteroid provides water ice, carbon compounds, silicates for construction, and proximity to mining operations.
+### Central Spine and Hub
 
-Key areas:
+The spine is the zero-g backbone. It carries docking, command, high-capacity utilities, cargo transfer, communications, and the main connection to surface operations and mining infrastructure. The spine feels more like a working port than a civic space.
 
-- **The Hub / Spine:** Central zero-gravity core and common spine carrying the three rings. Command, communications, central docking, primary engineering. A future asteroid elevator and heavy surface manufacturing tie the station to 3 Fortuna itself.
-- **The Rings (three):** Three parallel rotating habitat rings on the common spine, each ~100 m radius (~628 m circumference) held at a constant **~1/3 g** (≈0.33g), which at 100 m works out to roughly ~1.7 RPM. (Constant, comfortable spin is part of Fortuna's selling point versus the smaller, faster, queasier *Falcon*.)
-  - **Ring One — Founders Ring:** the original settlement. Administration, hospital, archives, markets, community spaces. Oldest residents (some in their 70s), oldest pods, highest prestige; nothing quite matches and every pod exterior has history.
-  - **Ring Two — Civic Ring:** the primary population center. Schools, restaurants, apartments, recreation, public gathering. Many pods replaced by permanent structures; station-born children consider it normal. (Rings One and Two are under constant refit.)
-  - **Ring Three — Expansion Ring:** under construction. Construction crews, fabrication, unpressurized sections, active assembly. Residents watch the build from observation galleries.
-- **The Inter-Ring City:** permanent structures now span the volume between Rings One and Two — the Commons (markets/festivals/politics), Sky Gardens (hydroponics/parks), the Foundry (manufacturing/printing/drone ops), and Transit Towers (multi-ring elevator hubs residents treat as "downtown"). Lease/purchase petitions for new inter-ring space are constant.
-- **The Barn:** Expanding livestock and agricultural section — most recently built, smelling newest and most organic. Community gathering point. The most-watched animal live feeds from the *Falcon* play here continuously.
-- **The Pit / Smelters / Factory Floor:** mining coordination, metal smelting, and manufacturing — the economic and industrial heart. Loud, hot by station standards, worked in shifts. Where Jace spends much of his working time.
-- **Main Street (per ring):** wide corridors, 3 m+ ceilings, projected artificial skies (clouds, sunrises, weather, imagined constructions — residents compete to add to the animation; alerts can be shown here), benches, shops.
-- **The Market / The Mess:** informal trade/social space; central all-hours dining (where Jace and Cerberus find Sophia during their first Astral crossing).
+Features:
+- Docking collars and cargo locks.
+- Zero-g freight corridors.
+- Emergency bulkheads.
+- Utility trunks with redundant power, air, data, and coolant lines.
+- Robot traffic lanes.
+- Tether and transit systems to asteroid-surface facilities.
+- Shielded command and communications spaces.
 
-**Pod culture and the Rule of Three** (engineering term *canister*, common *pod*, slang *HomeCan*): a pod is home/lifeboat/workshop/investment/heirloom — "the smallest legal unit of civilization." Every critical system exists in three layers ("one is none, two is one, three is safe"): station/pod/personal for air, water, power, and comms. Children are drilled to always carry their Phone and their Breather — a custom that will matter (see [[char_helena]], [[spec_crossing_mechanics]]). Architecture detail folded in here from the former Fortuna Habitat Architecture bible (now retired).
+### Rotating Rings
 
-## Fortuna in the Belt Context
+The three rings rotate at about 1.7 RPM with a radius of about 100 meters, creating roughly 0.33g. This is comfortable enough for long-term habitation and lower than Earth gravity, so people move with slightly longer steps, softer footfalls, and occasional careless over-lifting.
 
-Fortuna is one of **five asteroid belt stations** spaced around the belt, each covering a different section. The nearest other station is months away by conventional travel. Fortuna's personnel are genuinely isolated — they are building something, and help is not coming quickly if it goes wrong.
+Each ring has a circumference of about 628 meters. A practical walk around a ring feels like a neighborhood loop, not a city boulevard.
 
-The associated ships and platforms extend Fortuna's effective reach considerably, covering a much larger volume of space than the station itself.
+### Ring One - Founders Ring
+
+Ring One is the original settlement. It contains leadership offices, archives, older residential pods, clinic functions, some early market spaces, and the highest concentration of residents who remember Fortuna before it looked viable.
+
+It feels patched and beloved:
+- Older canisters mounted into newer frames.
+- Scuffed grab rails polished by hands.
+- Slight mismatches in floor panels.
+- Memorial plaques and first-settler names.
+- Maintenance labels written over older labels.
+- Narrower service cut-throughs behind newer pedestrian surfaces.
+
+Ring One has prestige because it has survived.
+
+### Ring Two - Civic Ring
+
+Ring Two is the social heart. It contains schools, restaurants, small shops, recreation, family housing, the main market, and most normal daily life. It is the place where Fortuna feels most like a town rather than a machine.
+
+Its main corridors are deliberately wide for a station of this size. A typical civic corridor is 5 to 7 meters wide and 3 to 4 meters high, with wider node spaces at intersections. The ceiling carries LED cloudscapes and artificial sky cycles. The station has very few real windows in rotating corridors because external views and spin geometry can cause disorientation. Instead, residents prefer sky ceilings, mural panels, and calm internal vistas.
+
+### Ring Three - Expansion Ring
+
+Ring Three is under construction. Some portions are pressurized and occupied by crews. Other sections are cold, bare, unpressurized, scaffolded, or blocked behind temporary seals. Ring Three is the promise everyone argues about.
+
+It contains:
+- Construction crew housing.
+- Future residential volume.
+- Staging yards.
+- Fabrication tie-ins.
+- Temporary pods used beyond their planned service life.
+- Observation galleries where residents watch the build.
+
+### Inter-Ring City
+
+The space between Ring One and Ring Two has evolved into the unofficial downtown. It is not a simple corridor. It is a layered set of permanent structures, gantries, pedestrian bridges, pod stacks, market decks, vertical transit towers, fabrication annexes, and greenhouse volumes.
+
+Important areas:
+- The Commons.
+- Sky Gardens.
+- The Foundry.
+- Transit Towers.
+- Market Decks.
+- The Tank.
+- Maker Hall.
+- The Quiet Room.
+
+This is where the station feels spacious despite its small population. Residents see cranes, temporary walls, robot convoys, and construction signs every day.
+
+## Corridor Design
+
+Fortuna corridors should feel engineered for morale as much as movement.
+
+Key corridor traits:
+- Civic corridors: 5 to 7 meters wide, 3 to 4 meters high.
+- Older utility corridors: 2 to 3 meters wide, 2.2 to 2.8 meters high.
+- Industrial corridors: 6 to 10 meters wide where cargo robots, carts, and pressure-suited crews pass.
+- Floor markings separate pedestrians, cargo bots, emergency lanes, and maintenance hatches.
+- LED cloudscapes occupy ceiling panels in main public corridors.
+- Very few direct windows in rotating sections.
+- Windowless sections use slow visual programming: clouds, dawn gradients, tree canopies, star maps, or abstract station weather.
+- Handholds and low railings are everywhere, but not theatrical.
+- Pressure bulkheads occur at regular intervals. Residents stop noticing them until one closes.
+- Every public node contains emergency masks, oxygen taps, fire kits, patch kits, and breather recharge points.
+- Triple-redundancy signs are visible. The Rule of Three is civic religion.
+
+The overall design should not look like sleek science fiction. It should look like a careful industrial town that learned to become pleasant without forgetting it can kill everyone.
+
+## Rule of Three
+
+Fortuna's operating law is simple: one is none, two is one, three is safe.
+
+Critical systems have three layers:
+- Station layer.
+- Pod or local-zone layer.
+- Personal layer.
+
+Examples:
+- Air: station atmosphere, pod reserve, personal breather.
+- Water: main loop, local tank, personal ration pack.
+- Power: grid, neighborhood battery, pod battery.
+- Comms: station net, local mesh, personal device.
+- Fire response: suppression system, local kit, personal training.
+- Navigation: station signs, personal map, memorized drill routes.
+
+Children are taught to carry their Phone and Breather. Adults judge one another by whether they maintain backups.
+
+## Robots and Drones
+
+Robots are everywhere, but most are not humanoid.
+
+Common types:
+- Wall-crawlers checking seals and conduit.
+- Floor scrubbers cleaning dust and biological residue.
+- Cargo tugs moving sealed crates.
+- Inspection snakes inside ducting.
+- Spider-like repair bots on exterior trusses.
+- Agricultural pickers in Sky Gardens and the Barn.
+- Mining drones staged for surface work.
+- Forklift-like industrial handlers in the Foundry.
+- Small courier bots with food, tools, samples, and medicine.
+- Child-safe helper bots near school and market areas.
+
+A person walking through Fortuna will see a robot every few seconds in public areas and several per minute in industrial zones. Robot sound is part of the station soundscape: soft wheels, servos, suction feet, warning chirps, docking clicks, and occasional irritated human commands.
+
+## Surface Operations on 3 Fortuna
+
+The asteroid surface is not scenic in a normal way. It is a low-gravity industrial landscape.
+
+Key features:
+- Anchored surface warehouses.
+- Excavation pits and graded pads.
+- Mining robot hives.
+- Regolith berms.
+- Solar collectors and radiators.
+- Ore bins and volatiles tanks.
+- Cargo catapults or mass-driver components, if operational.
+- Surface crawler garages.
+- Emergency shelters dug into the asteroid.
+- Beacon masts and navigation lights.
+- Vacuum-rated construction cranes attached directly to rock.
+
+Gravity on 3 Fortuna is tiny compared with the ring. Crews do not walk normally. They translate, hop, anchor, tether, and use crawler vehicles. Dust moves differently: it does not billow like Earth dust, but it clings, floats after disturbance, and contaminates seals. Everything has capture mats, electrostatic cleaning, and strict airlock discipline.
+
+## Giant Warehouses and Construction Facilities
+
+Fortuna's exterior and low-g industrial facilities are large because volume is cheaper outside the pressure rings. The station moves bulky, ugly, hazardous, and unfinished work away from the civic rings whenever possible.
+
+Surface and spine-adjacent warehouses contain:
+- Food reserves.
+- Animal feed.
+- Water and volatile tanks.
+- Oxygen and nitrogen reserves.
+- Metal ingots.
+- Carbonaceous feedstock.
+- Printed structural members.
+- Spare pressure panels.
+- Fabrication feedstock.
+- Mining robot parts.
+- Emergency shelter kits.
+- Expansion Ring modules.
+- Ship repair components bound for Metis.
+
+Warehouses are dim, cold, and huge. Humans visit in pressure suits, low-pressure work gear, or sealed carts. Robots do most inventory movement.
+
+Construction facilities include:
+- Ring Three module assembly yards.
+- Pressure test bays.
+- Radiation shielding block printers.
+- Truss fabrication.
+- Pod refurbishment lines.
+- Mobile gantry systems.
+- Docked temporary workshops.
+- Exterior hull repair rigs.
 
 ## The Barn and Animal Culture
 
-Fortuna was chosen partly for livestock development because of its C-type composition (water ice access, organics for feed synthesis) and the need for food autonomy. When the *Falcon*'s animal live feeds are patched into station screens, they become the most-watched content almost immediately. After communications blackout cuts external media, the animal feeds become the primary non-work entertainment. The animals are the uncomplicated life in a complicated world.
+The Barn is Fortuna's most distinctive civilian space. It is both agricultural infrastructure and emotional anchor. It includes livestock pods, veterinary areas, aquaculture tanks, feed processing, animal exercise lanes, and controlled grazing simulation spaces.
 
-## The Anomalies — and the Two Faces of Fortuna
+Animals include chickens, rabbits, goats, sheep, pigs, working dogs, cats, aquaculture fish, and a small number of high-status cattle or cattle-derived breeding assets. Large animals are rare because mass, feed, waste, and veterinary complexity matter.
 
-Fortuna sits in a high-flux zone. Anomalies began appearing months before Jace's arrival — equipment interference, Threshold Hound sightings, inexplicable sensor readings, quiet disappearances among the mining workforce — mostly suppressed by management. Every experienced resident has a story they don't tell officially. By the time Jace's ferry is inbound, the manufacturing core is quietly contending with early Glass-Vine activity (see [[magic_cryptids_silicon]]), and some of the job-board listings that drew settlers have gone dark.
+The Barn smells like warm life in a station that otherwise smells scrubbed and metallic. It is humid, bright, loud, and tightly monitored. Children love it. Engineers pretend not to. Animal births become station events. After the communications blackout, animal feeds become some of the most important morale programming on Fortuna.
 
-This produces the station's central tension at story start: **two faces.**
+## Civic and Commercial Spaces
 
-- **Public face:** golden-age expansion. A settler-and-investor wave is being courted; Fortuna is racing to become the biggest belt station; the animal feeds play in the Barn; the future hangs visibly outside every window.
-- **Suppressed face:** a station that is losing structures and people to things it cannot explain, and cannot afford to admit while it is recruiting.
+### The Commons
 
-Three pressures converge as the *Falcon* arrives:
+The Commons is the closest thing Fortuna has to a public square. It is in the Inter-Ring City where pedestrian paths from Ring One, Ring Two, the Market, and Transit Towers meet. It hosts shift notices, markets, speeches, holiday events, memorials, recruitment boards, and arguments.
 
-- **The cancelled settlers (China withdrawal).** A dozen Chinese settlers booked aboard the *Falcon* cancelled at the last minute; soon after, Chinese interests begin withdrawing from belt operations entirely (officially over "problems on Odysseus" — see [[location_odysseus_station]], [[location_psyche_station]]). Last-minute cancellations and a retreating major partner rattle Fortuna leadership badly during the exact window they need confidence. This isolation also tightens `{Seek}`'s grip on the remaining Chinese detachment under Jin Luong, forcing them into strange, heavily armed defensive postures.
-- **The *Falcon* "sabotage" rumor.** Some on the station read the *Falcon*'s near-disaster (the torn pipe — see [[book01-ch02-plumbing-crisis]]) as sabotage and tie it to the Chinese withdrawal. They are wrong on both counts; the reader knows it was neither sabotage nor the logged micrometeorite. The tension between the broader station and the Chinese crew will only be resolved when `{Seek}` is destroyed during the Swarm attack, leading to a sudden thaw in relations.
-- **Helena's disappearance.** In the last week before docking, a beloved information analyst and yoga instructor vanishes overnight from a sealed pod — no breach, no body (see [[char_helena]]). Unlike the suppressible miner disappearances, this one is public and cannot be buried. Station police chief **Suzi** (see [[char_suzi]]) opens an impossible case. Jace's four-month transit alibi makes him the one newcomer she can trust.
+### Main Street
 
-The *Victoria*'s docking berth is near one of the higher-flux zones adjacent to the station. This is not accidental — the ESA team positioned themselves based on flux readings. Sophia has been doing science in the most anomalous location available.
+Each ring has a Main Street corridor. The best-known one is in Ring Two. It has a wide pedestrian lane, small shops, benches, wall gardens, public screens, and ceiling cloudscapes.
 
-## Cultural Character
+### The Market / The Mess
 
-At story start: American frontier-corporate and genuine emerging belter identity. Origin Industries is present and visible; its management style is relatively benign but clearly extractive. Workers and settlers are developing their own norms: practical, direct, suspicious of anything that smells like Earth politics, proud of what they are building.
+The Market and Mess are partly separate functions but socially inseparable. Food service, rumor exchange, crew negotiations, barter, and casual meetings all happen here. The smell changes by shift: yeast bread, vat protein, goat cheese, coffee substitute, fried algae cakes, reheated ferry cargo, and sometimes real meat.
 
-Cross-cultural texture is present. The American majority includes significant Chinese-American, South Asian-American, and Latin American populations. Several settlers came from non-American Mars backgrounds. The ESA vessel and its European crew are a regular presence.
+### Bars and Restaurants
 
-## Sensory Texture
+Fortuna supports more eating and drinking places than its population suggests because people live in small pods and need third spaces. Most establishments are small.
 
-- **Visual:** Industrial, unfinished, busy. Temporary-looking fixtures that have become permanent.
-- **Sound:** The station has its own hum — slightly lower than the *Falcon*'s, with a rhythmic component from ring rotation. Animal sounds from the Barn carry further than planned. Smelter operations are felt as a deep vibration through the structure during shifts.
-- **Smell:** Recycled air everywhere. The Barn adds organic complexity. The Factory Floor smells of hot metal and cutting fluid.
+Examples:
+- A rough dockside inn near transient berths.
+- A quieter executive lounge near the Commons.
+- Worker canteens near the Foundry.
+- Tiny cafes embedded in Ring Two.
+- A family-friendly noodle shop with robot delivery drawers.
+- A Barn-adjacent grill that sells real eggs on good weeks.
+- A low-ceiling founders' bar with old pressure panels mounted as decoration.
 
-## Open Questions
+### Sky Gardens
 
-- Station Commander — name, character, relationship to Origin Industries
-- Specific layout dimensions and capacity
-- Cultural traditions unique to Fortuna
-- The first resident Jace bonds with who isn't from the *Falcon*
+Sky Gardens are psychologically essential. They are humid, bright, and alive. The ceiling LEDs mimic sky, but the plants are real. People come for dates, therapy walks, school lessons, memorials, and arguments that need privacy without leaving public space.
+
+### The Tank
+
+The Tank is a recreation pool, therapy pool, and emergency water asset. It is one of the station's luxuries and one of its reserves. Public messaging emphasizes wellness. Engineers know exactly how much emergency water it represents.
+
+## Industrial Core
+
+The Pit, Smelters, Factory Floor, and Foundry form Fortuna's economic heart. This is where Jace's technical value matters.
+
+Industrial spaces are loud, hot by station standards, and visually dense:
+- Metal printers.
+- Cutting rigs.
+- Smelter housings.
+- Drone repair cages.
+- Robotic arms.
+- Cooling lines.
+- Tool lockers.
+- Safety rails.
+- Shift boards.
+- Heat shimmer behind thick glass.
+- Warning lights that are not decorative.
+
+Industrial workers wear rugged coveralls, eye protection, ear protection, tool harnesses, emergency breathers, and magnetic or grip boots where needed.
+
+## Two Faces of Fortuna
+
+Public face:
+- Golden-age expansion.
+- Settler recruitment.
+- Growing markets.
+- Animal feeds.
+- Ring Three construction.
+- A future that can be seen in every work zone.
+
+Suppressed face:
+- Early anomalies.
+- Missing people.
+- Sensor readings that do not fit.
+- Glass-vine activity.
+- Management pressure to avoid panic.
+- The Helena disappearance.
+- China withdrawal anxiety.
+- The Falcon near-disaster misread as sabotage.
+
+This contrast should shape descriptions. Fortuna is not false. It is genuinely building something extraordinary. It is also hiding how close to the margin it operates.
+
+## Image and Scene Prompts
+
+### Prompt 1 - Ring Two Main Street
+
+A wide rotating-habitat corridor on Fortuna Station, about 6 meters wide and 3.5 meters high, curved subtly along the ring. There are very few windows. The ceiling is an LED cloudscape showing a slow artificial morning with pale blue sky and soft clouds. Shops, benches, wall gardens, emergency mask lockers, and pressure bulkhead seams line the corridor. People walk in one-third gravity with longer steps and slightly floating posture. Clothing is practical: layered work jackets, soft boots, tool clips, ID patches, and emergency breathers at the hip. Cleaning robots glide along the wall while small courier bots carry sealed food drawers. The style is realistic, industrial, lived-in, and over-engineered, not sleek or flashy.
+
+### Prompt 2 - Founders Ring Old Corridor
+
+An older corridor in Ring One of Fortuna Station, narrower than the civic ring, about 3 meters wide, with mismatched panels, patched conduit covers, worn handrails, old pod doors, memorial plaques, and printed labels layered over older labels. The ceiling has a simple warm LED sky strip rather than a full cloudscape. A wall-crawling inspection robot checks a pressure seam. Residents move calmly in one-third gravity, wearing practical clothes and carrying breathers. The space feels safe because it has been repaired hundreds of times, not because it is new.
+
+### Prompt 3 - Inter-Ring Commons
+
+A spacious inter-ring public commons inside Fortuna Station, with gantries, market decks, vertical transit towers, pod stacks, greenhouse alcoves, and pedestrian bridges connecting two rotating rings. The ceiling panels show a calm projected sky. Cargo robots follow marked lanes while children and workers cross at designated points. Signs point to Sky Gardens, the Market, Founders Ring, Civic Ring, and Docking. Everything is triple-labeled, safety-marked, and full of redundant systems. The mood is busy, civic, and frontier-practical.
+
+### Prompt 4 - The Barn
+
+Interior of Fortuna Station's Barn, a bright animal and agriculture facility with sealed livestock pods, veterinary windows, aquaculture tanks, feed conveyors, and low exercise lanes for goats, rabbits, chickens, working dogs, and a few larger animals. The corridor is 5 meters wide with washable floors, drainage channels, humidity haze, full-spectrum lights, and biosecurity stations. Children watch through thick transparent panels while farm workers in coveralls and emergency breathers check animal health. Cleaning robots scrub constantly. The scene feels warm, organic, and precious inside a metal station.
+
+### Prompt 5 - Dockside Bar
+
+A small dockside bar near Fortuna's transient berths, with a low ceiling, old pressure panels used as wall decor, bolted tables, foot rails for one-third gravity, and a menu board listing vat stew, algae cakes, goat cheese, yeast bread, and rare real eggs. Ship crews, miners, and station workers crowd the space in scuffed work clothing. A courier bot waits by the kitchen hatch. The air looks slightly hazy from warm food and too many people in a sealed room. The tone is rough but not lawless.
+
+### Prompt 6 - Sky Gardens
+
+Fortuna Station's Sky Gardens, with hydroponic trees, vertical plant racks, mossy seating walls, narrow water features, and a ceiling LED sky showing slow clouds. Residents sit quietly or walk in one-third gravity along a 4-meter-wide path with handrails. A small pruning robot works in the background. The lighting is bright and therapeutic. The scene should feel like a working life-support garden that became a park because humans needed it.
+
+### Prompt 7 - Surface Warehouse
+
+A giant low-gravity warehouse anchored to the surface of 3 Fortuna, with vacuum-rated trusses, cargo containers, ore bins, water tanks, oxygen cylinders, spare pressure panels, mining robot parts, and huge doors opening to black space. The asteroid surface outside is dark carbonaceous regolith, with anchor cables, beacons, crawler tracks, and distant mining machines. Workers in bulky but practical pressure suits move by tethers and handholds rather than normal walking. Robots do most lifting. The scale is industrial and cold.
+
+### Prompt 8 - Asteroid Surface Work Crew
+
+A crew on the surface of 3 Fortuna inspecting a mining robot hive. The asteroid has extremely low gravity, so workers are tethered to anchor points and use cautious hopping movements. Dust clings to suit boots and tool edges. The station rings are visible above or nearby as a complex structure of rotating habitats, spine, radiators, and cargo arms. Small repair robots crawl over the mining machines. The scene is realistic hard-space industry, with no unnecessary neon.
+
+### Prompt 9 - Ring Three Construction
+
+Interior view of Ring Three under construction, partly pressurized and partly sealed behind temporary bulkheads. Scaffolds, pressure panels, cables, portable lights, temporary pods, construction robots, and human crews fill the space. Floor markings show future corridors. A warning sign marks an unpressurized section. Workers wear coveralls, hard caps, tool harnesses, and breathers. The mood is optimistic but messy, a future neighborhood still pretending to be a construction site.
+
+### Prompt 10 - Foundry Floor
+
+The Foundry inside Fortuna Station, a loud manufacturing hall with metal printers, robotic arms, smelter housings behind thick safety glass, cooling lines, marked emergency lanes, and cargo bots moving ingots. Workers in rugged coveralls and eye protection supervise machines. Heat shimmer and warning lights are practical, not decorative. The structure feels overbuilt with redundant rails, valves, and backup panels.
+
+## StoryBot Extrapolation Notes
+
+CAN invent:
+- Shop names, bar names, small restaurants, work crews, maintenance robots, shift notices, school details, animal incidents, and local rituals.
+- Specific corridor decorations and cloudscape programs.
+- Surface warehouse layout and non-critical cargo inventories.
+- Minor associated vessels and docked crews.
+
+SHOULD NOT invent:
+- Population above the established order of magnitude without explicit author approval.
+- Real windows dominating ring corridors.
+- Single-point life-support failures where triple redundancy should apply.
+- Easy conventional rescue from Mars or Metis during urgent events.
+- Clean corporate perfection. Fortuna is competent, but it is patched, busy, and stretched.
 
 ## Cross-References
 
-- See [[char_jace_apollo]] for the primary POV character's arrival and Astral arc
-- See [[char_nick_lee]] for the {Aura} engineer and station best friend
-- See [[char_mei]] for the intelligence presence
-- See [[ship_victoria]] for the ESA science vessel docked here
-- See [[ship_falcon]] for the ferry that brought Jace
-- See [[char_helena]] and [[char_suzi]] for the disappearance that opens the Fortuna mystery
-- See [[location_odysseus_station]] and [[location_psyche_station]] for the China-withdrawal context
-- See [[magic_breach_crossers_transient]] for the Cryptid harbinger and the sabotage misread
+- [[fortuna_station_population_neighborhoods]]
+- [[location_asteroid_belt_overview]]
+- [[location_metis_station]]
+- [[ship_falcon]]
+- [[ship_victoria]]
+- [[char_jace_apollo]]
+- [[char_nick_lee]]
+- [[char_mei]]
+- [[char_suzi]]
+- [[char_helena]]
+- [[magic_breach_crossers_transient]]
 
 ## Revision Notes
 
-- 2026-04-28: Initial draft. Replaced "Demeter Station."
-- 2026-06-17: Population updated to ~350 permanent + 50-150 transient (largest belt station). Geography rewritten to three-ring architecture (Founders/Civic/Expansion rings, Inter-Ring City, pod culture, Rule of Three) from the Fortuna Habitat bible; constant ~1/3 g (~1.7 RPM). Added the public-vs-suppressed "two faces" framing, the China-withdrawal pressure, the Falcon-sabotage misread, and Helena/Suzi.
-- 2026-06-03: Population corrected from 300-450 to ~150 permanent residents (per author session). Added 20-30 associated ships and platforms. Added industrial detail (smelters, factory floor, manufacturing). Added *Victoria* as associated docked vessel. Added "one of five belt stations" context. Added The Mess as named area (site of Jace/Cerberus/Sophia first meeting). Updated framing to golden-age expansion era.
+- 2026-06-30: Expanded spatial logic, corridor design, surface operations, warehouse/construction facilities, Rule of Three, robot density, Barn details, and reusable visual prompts. Verified population/loadout as plausible for a 350-person permanent station with 50-150 transients and extensive automation.
+- 2026-06-17: Population and three-ring architecture update.
+- 2026-04-28: Initial draft replacing Demeter Station.

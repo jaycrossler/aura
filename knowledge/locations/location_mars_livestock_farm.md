@@ -1,115 +1,193 @@
 ---
-description: "Description of Terminus's underground Mars livestock farm location and operations."
+description: "Description of Terminus's livestock and ranching systems, including the underground farm where Jace meets Cerberus and the larger surface ranch dome complex that feeds Mars and the asteroid belt."
 id: location_mars_livestock_farm
 type: location
 category: agricultural_facility
 book: book01
 status: draft
 storybot_extrapolation_allowed: true
+parent_location: location_terminus
+last_updated: 2026-06-30
 cross_references:
-  - /knowledge/locations/location_terminus.md
-  - /knowledge/characters/char_cerberus.md
-  - /knowledge/scenes/event_jace_gym_arrival.md
+  - location_terminus.md
+  - location_mars_overview.md
+  - char_cerberus.md
+  - event_jace_gym_arrival.md
 revision_notes:
   - "2026-05: Initial file. Confirmed placement: underground at Level 2-3 in Terminus. Farm domes above ground referenced separately."
+  - "2026-06-30: Expanded into the full Terminus livestock/ranching system. Clarified underground facility versus above-ground ranch domes, Mars-wide food role, biosecurity, waste processing, exports, and visual prompts."
 ---
 
-# Mars Livestock Farm — Terminus Underground, Level 2–3
+# Mars Livestock Farm and Ranch Complex - Terminus
 
 ## Overview
 
-The Terminus livestock operation is one of the oldest continuously running facilities in the settlement — predating much of the current tunnel infrastructure around it. It sits at Level 2–3 underground, deep enough to maintain stable temperature and to be kept well away from the dome residential zones for atmospheric reasons. The facility is large by Terminus standards and occupies a significant portion of the old Level 3 northeast tunnel cluster.
+The Terminus livestock system is one of Mars's most strategically important food and biological infrastructure networks. It includes the original underground livestock farm at **Level 2-3** and a larger above-ground/buried hybrid **Ranch Dome Complex** that raises animals, processes feed, manages veterinary care, and exports preserved animal products and biological assets across Mars and to the asteroid belt.
 
-This is where Jace comes for his emergency animal handling certification (ch006). This is where he meets Cerberus.
+The underground facility is old, warm, intimate, and sensory. It predates much of the current tunnel infrastructure around it. It is where Jace comes for his emergency animal handling certification in ch006. It is where he meets Cerberus.
 
----
+The ranch dome complex is larger, more industrial, and more politically important. It helps feed all three Mars cities and provides high-value exports to the asteroid belt. Its existence changes Terminus from a city with farms into the agricultural capital of Mars.
 
-## Why livestock underground
+## Strategic role
 
-The decision to place livestock underground rather than in the farm domes was practical from the beginning: animals produce more atmospheric complexity than crops (CO₂, methane, humidity, organic particulates), and the tunnels allow the life support systems to be more precisely controlled per zone. The farm domes above ground handle controlled agriculture — crops, hydroponics — while the underground facility handles everything that breathes and moves.
+Terminus does not export much live livestock. Live animals are expensive, fragile, and biosecurity-sensitive. More common exports include:
 
-The farm domes and the livestock facility are part of the same operational system but feel completely different. The domes are bright and carefully managed. The livestock facility is older, warmer, and more complicated.
+- Frozen meat.
+- Cultured meat blocks.
+- Powdered egg.
+- Cheese and preserved dairy.
+- Preserved fats.
+- Microbial protein.
+- Feed cultures.
+- Embryos and breeding stock.
+- Veterinary genetic lines.
+- Luxury cuts for asteroid-belt stations.
 
----
+A steak, cheese wheel, or real egg from Terminus has status value in the asteroid belt. Ranch products carry cultural meaning because they prove that Mars is not merely surviving on paste and algae.
 
-## Physical layout
+## Why livestock is underground and dome-contained
 
-The facility occupies several interconnected tunnel sections with vaulted ceilings — some of the highest ceiling clearances in the underground sections, necessary for the larger animals and for the support equipment. The main access tunnel from the Level 2 lift is wider than most underground corridors, with painted floor markings for vehicle paths (the small electric carts that move feed, waste, and animals between sections).
+Animals produce atmospheric complexity: CO2, methane, humidity, heat, dander, organic particulates, disease risk, waste load, and odor. The original decision to place the older livestock operation underground was practical. Tunnels allow life-support systems to control each zone precisely, isolate contamination, and protect animals from radiation and surface temperature swings.
 
-**Key sections:**
+The above-ground ranch domes are not open Earth-style pastures. They are biosecure agricultural-industrial habitats. They combine transparent or translucent work areas, buried animal halls, water shielding, regolith berms, storm shutters, veterinary locks, waste digesters, feed conveyors, and quarantine zones.
 
-**Intake and processing corridor:** The first section you reach coming from the lift. Utilitarian. Lockers for protective clothing. A rack of certification materials. A small office window where the senior handler works. Smells like disinfectant and underlying animal.
+The crop domes and livestock systems are operationally linked but feel different. Crop domes are bright, humid, and carefully managed. The livestock areas are warmer, louder, more biological, and more complicated.
 
-**Small animal pens (Level 2-3 junction):** The rabbits, the chickens, and the dogs. The dog pen is in this section. The pen area is a cluster of individual runs separated by chest-height partition walls, with a shared open area for exercise and interaction. The mother dog's run is in the second row from the back wall.
+## Animal systems
 
-**Medium animal section (Level 3):** Goats, sheep. Larger runs. The ceiling is noticeably higher here. The smell shifts from small-animal to the heavier, warmer smell of ruminants.
+| Animal or system | Function | Notes |
+|---|---|---|
+| Chickens | Eggs, meat, cultural familiarity | Efficient and common; strong smell and noise management |
+| Rabbits | Compact meat source | Useful emergency protein and training animal |
+| Goats | Milk, cheese, meat | Hardy and valuable; odor is a constant issue |
+| Pigs | Meat and waste conversion | Efficient but biosecurity-sensitive |
+| Sheep | Wool, meat, symbolic Earth continuity | Limited and culturally valued |
+| Cattle | Prestige meat and genetics | Small herd only; expensive water/feed load |
+| Dogs | Working, companionship, breeding program | Cerberus thread; not treated as generic livestock |
+| Fish | Aquaculture protein | Often integrated with crop nutrient loops |
+| Insects | Feedstock and emergency protein | Socially divisive but efficient |
+| Lab-grown meat | Bulk protein | Industrial baseline, not the emotional heart of the ranch system |
 
-**Feed storage and prep (Level 3 rear):** Climate-controlled. Stark contrast with the animal areas — cooler, dryer, organized. The bags are stacked according to a rotation schedule that someone maintains obsessively.
+## Physical layout: underground facility
 
-**Waste processing corridor:** Runs along the exterior of the facility. Functional. The life support systems here are working harder than anywhere else in the underground. Loud with circulation machinery.
+The original underground livestock farm occupies several interconnected tunnel sections with vaulted ceilings. Some sections have the highest ceiling clearances in the underground city to allow larger animals, carts, feed systems, and overhead life-support hardware.
 
----
+**Intake and processing corridor.** First section from the Level 2 lift. Utilitarian. Lockers for protective clothing. Certification terminals. A small office window for the senior handler. Smells like disinfectant over animal warmth.
+
+**Small animal pens.** Level 2-3 junction. Rabbits, chickens, dogs, and training pens. The dog pen sits in this section. Runs are separated by chest-height partitions, with shared exercise space. Cerberus's mother has a run in the second row from the back wall.
+
+**Medium animal section.** Level 3. Goats and sheep. Larger runs, higher ceilings, heavier animal smell, more feed movement, louder fans.
+
+**Limited large-animal access.** Larger animals are mostly in the ranch dome complex, but the underground facility includes emergency handling, veterinary, or quarantine bays for larger animals when necessary.
+
+**Feed storage and prep.** Rear Level 3. Cooler, drier, organized by rotation schedule. Feed includes hydroponic straw, algae meal, insect meal, crop waste, processed grain analogs, and specialty supplements.
+
+**Waste processing corridor.** Runs along the facility exterior. Loud with circulation equipment, scrubbers, methane capture, water recovery, and bio-digesters. This corridor is one of the least romantic and most important places in Terminus.
+
+**Veterinary and biosecurity rooms.** Exam tables, isolation pens, sample lockers, disinfectant showers, autoclaves, sterile supplies, and medical robots.
+
+## Physical layout: ranch dome complex
+
+The ranch dome complex is a surface/buried hybrid located near the Green Dome Belt but downwind and pressure-isolated from public promenades. It includes:
+
+- Interconnected animal habitat domes with regolith berms and water-shielded lower walls.
+- Stacked animal decks rather than open pasture.
+- Exercise lanes and welfare spaces.
+- Feed production rooms.
+- Aquaculture tanks.
+- Veterinary labs.
+- Embryo and breeding storage.
+- Slaughter and processing rooms.
+- Waste digesters and methane capture.
+- Cold storage.
+- Biosecurity airlocks.
+- Cargo locks for rail and truck transfer.
+
+The ranch complex should feel like a sealed food factory crossed with a veterinary school and a working farm. It is not cute, but it is full of life.
 
 ## Sensory palette
 
-**Smell:** The defining sensory characteristic of this facility. The air here smells warm, organic, and alive in a way that almost nothing else on Mars does. There is animal presence — not unpleasant exactly, but distinctly biological: fur, straw bedding (hydroponically grown), the particular smell of animals in a sealed and managed space. The underlying Mars air (mineral, recycled, metallic) is still there, but it is losing to the biological layer here. For someone who has spent months breathing tunnel air, the smell of the livestock facility is a small shock. Not bad. Just dense with life.
+**Smell.** The defining sensory characteristic. Warm, organic, alive. Fur, feathers, hydroponic straw, feed, disinfectant, damp composite flooring, and the underlying Mars air. The small animal pen smells lighter and sharper. The goat section smells heavier. The dog area carries warm fur and bedding.
 
-The small animal pen smells different from the medium animal section: lighter, slightly sharper (the chickens contribute a specific quality), with the warm-fur smell of the dogs prominent in that cluster.
+**Sound.** The loudest underground space in Terminus. Fans, scrubbers, animal sounds, carts, feed conveyors, gate latches, cleaning robots, and occasional human commands. Dogs vocalize more than other animals. Chickens provide constant background noise. Goats interrupt everything.
 
-**Sound:** The livestock facility is the loudest underground space in Terminus. The life support system is working significantly harder here — the fans are louder, the circulation scrubbers run more aggressively. On top of that: animal sounds. The dogs vocalize more than the other animals. The chickens contribute a steady background. The goats are intermittently loud. The overall effect is a kind of ambient biological noise that the underground tunnels everywhere else completely lack.
+**Sight.** Full-spectrum lighting makes the animal areas look brighter than most tunnels. Walls are washable. Floors slope to drains. Pen labels, biosecurity signs, veterinary status markers, and emergency mask racks appear everywhere.
 
-There is a specific sound from the dog pen on quiet days: the sounds of the mother dog with her puppies. Movement, small vocalizations, the scratch of paws on the composite floor of the run.
+**Touch.** Warmer than surrounding tunnels. More humid. Composite partitions are smooth and dense. Gate latches require deliberate two-action operation.
 
-**Sight:** The lighting here is full-spectrum, same as the farm domes — necessary for animal welfare. It is the brightest underground space in Terminus. After the amber-yellow light of the old tunnel zones, the livestock facility looks almost clinical. The dog pen area has this quality: very bright, very visible, every detail of the animals sharp and clear.
+**Temperature.** One of the warmest enclosed spaces in Terminus because animals and life-support equipment both produce heat.
 
-**Touch:** The facility is warmer than the surrounding tunnels — a few degrees, noticeably so after the corridor walk. The air has more humidity. The partition walls between the dog runs are a smooth, dense composite material. The gate latches require deliberate operation — they do not open accidentally.
+## Clothing and safety gear
 
-**Temperature:** Warmest enclosed space in the Terminus underground. The animals and the life support equipment together produce heat that the facility does not fully vent. This warmth is present immediately on entry.
+Workers and students wear:
 
----
+- Washable coveralls or farm coats.
+- Rubberized boots or washable overshoes.
+- Gloves.
+- Hair covers where required.
+- Emergency breather clipped at the hip or chest.
+- Eye protection in waste, veterinary, and processing areas.
+- Color-coded badges showing certification level.
+- Wrist tablets or rugged tags for animal records.
+
+No one enters animal zones casually. Biosecurity matters because a disease outbreak can threaten the food system and the city economy.
 
 ## The dog pen and the mother
 
-The mother dog's run is in the second row of small animal pens, back wall side. She is a mixed-breed animal — the Mars livestock program is not particularly concerned with purity of line, only health and temperament. She has had this litter recently enough that the puppies are still in the pen with her. There are several puppies. They will be separated when they are old enough. The farm operation does not attach to individual animals in ways that interfere with function.
+Cerberus's mother is a mixed-breed Mars program dog. The program cares less about purity of line than health, temperament, low-g movement, tolerance for confined spaces, and handler responsiveness.
 
-The mother dog is not aggressive. She is watchful. She has been around humans who are certified and humans who are learning, and she has developed the ability to distinguish between them quickly. With certified handlers she is calm. With students she is patient but observant.
+She is not aggressive. She is watchful. She has been around certified handlers and students and distinguishes quickly between them. With certified handlers she is calm. With students she is patient but observant.
 
-The male puppy — the one Jace names Cerberus — is the most physically active of the litter. He is also the most persistent: when something catches his attention he stays with it. When Jace first makes contact with him through the gate, the puppy holds eye contact longer than the others do.
-
----
+The male puppy Jace names Cerberus is the most physically active of the litter. He is also the most persistent. When something catches his attention, he stays with it. When Jace first contacts him through the gate, the puppy holds eye contact longer than the others do.
 
 ## The certification program
 
 The emergency animal handling certification that the Rat arranges for Jace is a condensed version of a standard program. It covers:
-- Basic animal behavior and stress indicators
-- Handling procedures for small, medium, and large animals
-- Medical assessment (identifying illness or injury)
-- Emergency restraint
-- Care routines for transit situations
 
-Jace is not being certified as a farm worker. He is being certified as someone who can handle animals during transport or emergency situations. The certification is legitimate — it exists, it is recorded, it is the real credential — but it has been arranged on short notice for a reason that the Rat has not explained in detail.
+- Basic animal behavior and stress indicators.
+- Handling procedures for small, medium, and large animals.
+- Medical assessment: identifying illness or injury.
+- Emergency restraint.
+- Care routines for transit situations.
+- Biosecurity and contamination control.
+- Pressure-zone emergency movement with animals.
 
-During certification, Jace cleans pens, assists with feeding, and performs basic health assessments under supervision. He spends time in the small animal pen area. He spends time with the dogs.
+Jace is not certified as a farm worker. He is certified as someone who can handle animals during transport or emergency situations. The credential is legitimate and recorded, but it has been arranged on short notice for reasons the Rat has not fully explained.
 
----
+During certification, Jace cleans pens, assists with feeding, performs basic health assessments under supervision, and spends time in the small animal area. He spends time with the dogs.
 
 ## The naming walk
 
-After one of the certification sessions, Jace walks back through the tunnels toward the residential sections alone. The details of when the naming happens exactly are `[STORYBOT]` — the specific session, what he was doing just before, how tired he is. What is canonical:
+After one certification session, Jace walks back through the tunnels toward the residential sections alone. The specific session and moment are `[STORYBOT]`, but these details are canonical:
 
-- He has spent time with the mother dog and the puppies during this session
-- He is alone on the walk back
-- He names the male puppy Cerberus during this walk
-- He does it almost before he realizes he has decided anything
-- The Greek naming thread completes here: Apollo (shuttle), Artemis (sister at Metis), Athena (sister at college), Cerberus
-- He will not have made this connection consciously yet. He just named a puppy after a thing from Greek mythology, which is what his family does
+- He has spent time with the mother dog and the puppies during this session.
+- He is alone on the walk back.
+- He names the male puppy Cerberus during this walk.
+- He does it almost before he realizes he has decided anything.
+- The Greek naming thread completes here: Apollo, Artemis, Athena, Cerberus.
+- He has not made the connection consciously yet. He simply names a puppy after a thing from Greek mythology, which is what his family does.
 
----
+## Image prompt and scene vignette
+
+**Ranch dome livestock corridor.** A livestock facility inside the Terminus ranch dome complex, designed to feed Mars and export preserved food to the asteroid belt. Show a long service corridor about 5 meters wide, with sealed animal pens on both sides behind transparent polymer panels. The animals are mostly chickens, goats, rabbits, and small pigs, with cattle visible only in a larger high-status pen in the background. The corridor has floor drains, washable wall panels, feed conveyors, biosecurity signs, hand-sanitizer stations, and veterinary inspection windows. Workers wear white and green coveralls, hair covers, rubber boots, gloves, and compact emergency masks. Small cleaning robots scrub the floor, while ceiling-mounted monitors track humidity and ammonia. The space feels earthy and biological but still airtight and engineered. Avoid making it look like an open terrestrial barn.
+
+**Underground dog pen.** Bright full-spectrum lighting in an underground Level 2-3 animal facility. Chest-height composite pen walls, washable floors, floor drains, emergency mask racks, and an office window overlooking the small animal section. A mixed-breed mother dog watches calmly from the second row near the back wall while several puppies move in low-gravity clumsy arcs. Jace stands at the gate in farm coveralls, one hand on the latch, surprised by the warmth and smell of living animals after months of filtered tunnel air.
 
 ## Notes for generation
 
-- The warmth of the livestock facility is a sensory anchor. Use it on entry — after months of tunnel-cold, Jace notices the warmth here the same way he would notice stepping into sunlight.
-- The smell is the second anchor. It is the smell of something alive in a way that most of Terminus is not.
-- The mother dog's calm watchfulness contrasts with the puppy's persistence. This is character-establishing for Cerberus before he has a name.
-- The Mei encounter (ch006) also happens during or near this certification period. She is in a cover identity here (farmer/agricultural role). The flat-look cutoff — she shuts Jace down when he tries to acknowledge knowing her from Day 1 — can happen at the facility entrance, in a corridor near it, or anywhere in the facility itself. `[STORYBOT: choose placement that creates most plausible deniability for Mei's cover while giving Jace the clearest possible signal that she has decided he doesn't know her]`
-- The separation of the litter is mentioned in passing during certification, not focused on. It plants the seed for why Jace acquiring Cerberus later matters.
+- The warmth of the livestock facility is a sensory anchor.
+- The smell is the second anchor. It is the smell of something alive in a way most of Terminus is not.
+- The mother dog's calm watchfulness contrasts with the puppy's persistence.
+- The Mei encounter in ch006 can happen during or near this certification period. She is in a cover identity here as an agricultural worker. The flat-look cutoff can happen at the facility entrance, in a corridor near it, or inside the facility.
+- The separation of the litter is mentioned in passing during certification. It plants the seed for why Jace acquiring Cerberus later matters.
+- If writing a ranch dome scene, include biosecurity, water recovery, waste handling, and odor management. This is infrastructure, not a petting zoo.
+
+## StoryBot consistency checks
+
+Flag possible issues if:
+
+- The livestock area lacks smell, humidity, fan noise, waste systems, or biosecurity.
+- Large animals appear in open pasture without explaining pressure, feed, shielding, and waste load.
+- Characters enter animal areas without coveralls, boot controls, or certification checks.
+- Mars exports live animals casually rather than preserved food, embryos, genetics, or high-value specialty products.
+- Livestock appears only sentimental. It is also strategic food infrastructure.

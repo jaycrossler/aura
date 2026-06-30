@@ -32,6 +32,8 @@ Most discussion about the story, locations, and characters will be about the fil
 │
 ├── knowledge/                  # Ground truth — LLM must not contradict
 │   ├── MASTER-SYNOPSIS.md
+│   ├── _index.md               # Auto-generated directory tree and file metadata index
+│   ├── build_tree.py           # Indexer script (syncs dates, counts metrics, flags warnings)
 │   ├── universe-spec/          # Immutable physics/cosmology/magic laws
 │   ├── scenes/event_*.md       # Scene source notes and choreography
 │   ├── characters/char_*.md    # Character bibles + voice/ + states/
@@ -40,6 +42,14 @@ Most discussion about the story, locations, and characters will be about the fil
 │   ├── factions/
 │   ├── timeline/
 │   └── lore/
+│
+├── visual_profiles/            # Character and location visual/vocal specifications
+│   ├── visual_profile_*.md     # Visual profiles (Jace, Kael, locations, etc.)
+│   └── _tracker.svg            # Completeness tracker SVG
+│
+├── images/                     # Mirrored structure containing generated illustrations/concept art
+│   ├── _image_manifest.md      # Manifest log of all generated images and prompt parameters
+│   └── characters/             # Mirrored folder path for character portraits
 │
 ├── tools/storyops/             # Generation pipeline (Python)
 │   ├── chapter_planner.py      # Step 1: LLM → ChapterOutline
@@ -52,12 +62,15 @@ Most discussion about the story, locations, and characters will be about the fil
 │   ├── artifact_generators.py  # CLI runner
 │   └── common/llm.py           # OpenAI / Claude / Ollama / mock
 │
-└── generated/                  # All generated output
-    ├── drafts/{chapter_id}/    # v001.md, v001.meta.json, ...
-    ├── versions/               # {chapter_id}_manifest.json
-    ├── logs/                   # {job_id}.log + {job_id}.jsonl
-    ├── status/report.json      # Read by dashboard
-    └── dashboard/index.html    # Mission control
+├── generated/                  # All generated output
+│   ├── drafts/{chapter_id}/    # v001.md, v001.meta.json, ...
+│   ├── versions/               # {chapter_id}_manifest.json
+│   ├── logs/                   # {job_id}.log + {job_id}.jsonl
+│   ├── status/report.json      # Read by dashboard
+│   └── dashboard/index.html    # Mission control
+│
+├── VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md # Core guide for visual profiles & scene metadata
+└── README-STORYOPS.md          # Technical documentation for StoryOps pipeline
 ```
 
 ---
@@ -202,9 +215,34 @@ When user signals readiness to commit:
 
 ---
 
+## Metadata, Indexing & Visual Asset Management
+
+### 1. Directory Indexing & Validation (`build_tree.py` → `_index.md`)
+- The script `knowledge/build_tree.py` automatically walks the `knowledge/` tree to build `knowledge/_index.md`.
+- It synchronizes the `last_updated` date of each file based on the most recent date found within its text.
+- It parses standard YAML frontmatter fields (e.g., `name`, `id`, `status`, `canonical`, `last_updated`, `type`, `description`).
+- It extracts file metrics (line count, cross-reference count, open decisions, open mysteries, character references).
+- It performs **validation checks** and appends warning logs:
+  - **Draft/Staging Files**: Lists files with non-canonical/draft status.
+  - **Orphaned Files**: Lists files that are not referenced in the `cross_references` array of any other file.
+  - **Sheet Sequence Gaps**: Detects non-contiguous character progression sheet numbers.
+- **Workflow Action**: You **must** run `build_tree.py` whenever you edit or create files in the knowledge base to ensure the index is up-to-date.
+- **Rapid Lookup**: Use `_index.md` to see existing files, metadata summaries, and warning states before looking up detailed files or drafting content.
+
+### 2. Visual Profiles & Image Generation
+- **Visual Profiles**: Housed in `/visual_profiles/` as `visual_profile_{subject_id}.md` (for characters, locations, ships, creatures, and factions), following instructions in `VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md`. They record visual anchors, voice profiles, and completeness rating (0-100%).
+- **Completeness Tracker**: The file `/visual_profiles/_tracker.svg` is an auto-regeneratable graphic showing completeness. Keep this updated.
+- **Image Generation**: Managed by the Image Generation Agent using the prompt template in `knowledge/storybot/image_generation_agent_prompt.md`.
+- **Output Storage**: Generated images are stored in a mirrored structure under `images/` (e.g., `images/characters/char_kael__portrait.png`) and tracked in `images/_image_manifest.md` to avoid duplicate API calls.
+
+---
+
 ## What NOT to do
 
 - Do not auto-commit without explicit approval, ever.
+- Do not edit or create a markdown file in the knowledge base without ensuring it has a descriptive `description` field in its YAML frontmatter.
+- Always run `build_tree.py` after editing or creating files to keep `_index.md` updated.
+- Do not edit sheet files (`sheets/`) that are flagged as `immutable: true`.
 - Do not invent universe details not established — ask instead.
 - Do not overwhelm with long responses during voice conversations.
 - Do not silently resolve conflicts — always surface them.

@@ -66,11 +66,13 @@ StoryOps has four major systems:
 | Zone | Path | Who edits |
 |------|------|-----------|
 | **canon** | `/knowledge`, `/manuscript` | Human only — never auto-modified |
+| **visual_profiles** | `/visual_profiles` | Human only (or manual agent proposals) |
+| **images** | `/images` | Image Generation Agent only |
 | **generated** | `/generated` | Machine output — not canon |
 | **proposed** | `/proposals` | Agent suggestions — requires author approval to promote |
 | **control** | `/control` | Human-authored config read by all tools |
 
-StoryOps does **not** auto-edit `/knowledge` or `/manuscript`. Ever.
+StoryOps does **not** auto-edit `/knowledge`, `/manuscript`, or `/visual_profiles`. Ever.
 
 The generation pipeline writes to `/generated/drafts/` only. The importer routes files into `/knowledge/` but only on explicit author invocation. Agent proposals go to `/proposals/` and require explicit promotion to canon.
 
@@ -142,6 +144,13 @@ Imports knowledge markdown from `.zip`, directory, or single `.md`. Supports con
 python -m tools.storyops.importer <source>
 ```
 
+### `knowledge/build_tree.py`
+Runs inside the `knowledge/` directory. Walks all markdown files, updates `last_updated` timestamps based on the text contents, extracts standard frontmatter metadata, and builds the auto-generated directory tree `knowledge/_index.md`. Checks for draft files, orphaned files (files not referenced in other files' `cross_references`), and progression sheet sequence gaps.
+
+```bash
+cd knowledge && python build_tree.py
+```
+
 ---
 
 ## 4. The generation pipeline (StoryBot)
@@ -184,6 +193,16 @@ One LLM call. Produces:
 | `graphic_novel` | Yes | Page-by-panel script |
 | `animation_storyboard` | Yes | Shot-by-shot with camera + music cues |
 
+### Image Generation Agent
+The image generation agent is guided by the prompt definition in `knowledge/storybot/image_generation_agent_prompt.md`.
+- **Purpose**: Automate rendering of visual assets based on character and location descriptions.
+- **Workflow**:
+  1. Scan KB files for subjects needing visuals (characters, locations, factions, creatures, ships).
+  2. Load visual descriptions and prompts from `/visual_profiles/` (built according to `/VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md`).
+  3. Generate PNG/SVG images using the cloud image API.
+  4. Save output in a mirrored directory structure under `/images/` (e.g., `/images/characters/`, `/images/locations/`).
+  5. Log parameters to `/images/_image_manifest.md` and mark the frontmatter status as `generated` to avoid duplicate generation.
+
 ---
 
 ## 5. Knowledge base structure
@@ -191,6 +210,8 @@ One LLM call. Produces:
 ```
 knowledge/
 ├── MASTER-SYNOPSIS.md
+├── _index.md                             # Auto-generated directory tree & file metadata index
+├── build_tree.py                         # Indexer and validator tool
 ├── universe-spec/                        # Immutable core rules
 ├── scenes/
 │   ├── event_*.md                        # Scene narrative summaries
@@ -212,6 +233,14 @@ knowledge/
 │   ├── timeline_master.md
 │   └── scenes_temporal_map.md
 └── review-queue/                         # Pending author decisions
+
+visual_profiles/                          # Character and location visual/vocal specifications
+├── visual_profile_*.md                   # Visual profiles (Jace, Kael, locations, etc.)
+└── _tracker.svg                          # Completeness tracker SVG
+
+images/                                   # Mirrored generated image assets
+├── _image_manifest.md                    # Manifest of generated images and prompts
+└── characters/                           # Mirrored portraits folder
 ```
 
 **File ID convention:** `category_descriptor` — e.g. `char_jace_apollo`, `location_terminus`, `faction_origin_industries`. Lowercase, underscores.

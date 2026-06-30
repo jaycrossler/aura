@@ -1,23 +1,18 @@
 ---
 id: series_bible
-name: "The Aura Chronicles — Series Bible"
+name: The Aura Chronicles — Series Bible
 type: series_bible
 status: canonical
 last_updated: 2026-06-26
 description: >
-  Series-level creative constitution for The Aura Chronicles. Covers the core progression
-  model, magic design principles, narrative laws, tonal laws, the nomenclature thread,
-  and things to avoid across all 10–20 books. This document is the highest-level creative
-  authority; arc files are legislation that interprets it; the universe-spec files are the
-  physics it operates within.
+  Series-level creative constitution for The Aura Chronicles. Covers the core progression model, magic design principles, narrative laws, tonal laws, the nomenclature thread, and things to avoid across all 10–20 books. This document is the highest-level creative authority; arc files are legislation that interprets it; the universe-spec files are the physics it operates within.
 cross_references:
-  - storybot/progression_review_guide.md
-  - magic-systems/magic_skills_framework.md
-  - universe-spec/spec_astral_phenomenology.md
-  - magic-systems/magic_cultural_schools.md
-  - factions/faction_galactic_species_index.md
+  - [[progression_review_guide]]
+  - [[magic_skills_framework]]
+  - [[spec_astral_phenomenology]]
+  - [[magic_cultural_schools]]
+  - [[faction_galactic_species_index]]
 ---
-
 # The Aura Chronicles — Series Bible
 
 This document is the creative constitution of the series. Arc files and scene contracts

@@ -1,113 +1,150 @@
 ---
-description: "Overview of the Asteroid Belt region, its geography, and major human stations."
+description: "Overview of the Asteroid Belt region, its geography, major stations, travel logic, and belt-wide settlement economy."
 id: location_asteroid_belt_overview
 name: The Asteroid Belt (Overview)
 type: region
 status: actively_settled_frontier
 era: late 21st century onward
 canonical: true
-last_updated: 2026-04-28
+last_updated: 2026-06-30
 ---
 
 # The Asteroid Belt (Overview)
 
 ## Summary
 
-The asteroid belt is humanity's third frontier and, at the story's present, its most active. Thousands of objects ranging from sub-kilometer to dwarf-planet scale populate the belt, with the five major named anchors hosting permanent human stations. The belt also extends, for story purposes, to the Jupiter trojan cluster at L4, where Odysseus Station represents the farthest permanent human habitation.
+The asteroid belt is humanity's third frontier and, at the story's present, its most active off-world industrial region. It is not densely settled in the visual sense. The belt is mostly empty space, with working ships, prospecting platforms, automated mining swarms, and a few permanent hubs separated by millions of kilometers and weeks to months of conventional travel.
 
-The belt is the first region of the solar system being exposed to the supernova's resonance flux as the Veil clears. It is the cradle of returning magic, and it will become the cultural and political nucleus of a transformation that eventually reaches Mars and Earth.
+Mars is the jumping-off point. The three Martian cities provide the last large medical, legal, industrial, and logistics base before outbound crews enter the belt. Terminus launches food, livestock products, repair crews, settlers, military cargo, and high-value fabricated components. Pangu provides refined fuels and heavy industrial feedstock. Elysium provides contract law, finance, specialty biotech, insurance, and cross-faction arbitration.
+
+Fortuna Station is the largest and most important human settlement in the belt at story start. Metis Station, located near Fortuna in inner-belt terms, is smaller but strategically critical because it builds and repairs ships. Other stations exist, but Fortuna and Metis carry the story's main industrial and emotional weight.
+
+The belt is also the first region of the solar system exposed to the returning resonance flux as the Veil clears. Its isolation forces belters to develop practical answers before Earth or Mars can impose clean doctrine.
 
 ## Geography
 
-The main belt spans from approximately 2.2 to 3.2 AU from the Sun, between the orbits of Mars and Jupiter. The Jupiter trojans (L4 and L5) at ~5.2 AU are not physically part of the belt but are administratively and culturally linked to it in the story's context — Odysseus Station is considered a belter station despite its extreme distance.
+The main belt spans approximately 2.2 to 3.2 AU from the Sun, between Mars and Jupiter. Even in dense orbital neighborhoods, actual distances remain enormous. A station being "near" another belt site usually means it is near in orbital family, delta-v, supply routing, or dimensional travel terms. It does not mean visual proximity.
 
-Despite popular imagination, the belt is mostly empty — average separation between objects is large. Travel between destinations is slow and trajectory-dependent.
+For story purposes, the inner-belt cluster around 3 Fortuna and 9 Metis is important because it permits a plausible regional economy: Fortuna supplies food, refined materials, and general logistics; Metis supplies ship construction and repair; smaller operator vessels mine, survey, and haul between them.
 
-## The Five Major Stations
+## Mars-to-Belt Logistics
 
-Each station is anchored to a large named asteroid and serves as a hub for the surrounding community of smaller corporate and national worker ships. The hub-and-spoke model means that "Fortuna Station" refers both to the permanent habitat and to the broader operational community that uses its infrastructure.
+Mars is the gateway to the belt because it has gravity low enough to make launch economical, industry deep enough to support interplanetary operations, and cities large enough to train crews and absorb medical emergencies.
 
-### Fortuna Station — 3 Fortuna (C-type, inner belt, ~2.4 AU)
-Jace Grant's destination. Agricultural hub. American-anchored, Origin Industries. Largest station, strongest food production. Livestock-primary ferry runs terminate here first.
-See [[location_fortuna_station|Fortuna Station]]
+Typical conventional travel:
+- Mars to Fortuna: about 4 to 4.5 months by nuclear ferry or slow industrial transport.
+- Mars to Metis: about 4 to 5 months when Metis is in a favorable inner-belt routing window.
+- Fortuna to Metis: weeks to months by conventional transfer, depending on relative positions and trajectory constraints.
+- Fortuna to other inner-belt industrial stations: weeks to months.
+- Inner belt to outer belt stations: months.
+- Belt to Earth: long, expensive, and often politically filtered through Mars.
 
-### Psyche Station — 16 Psyche (M-type metallic, middle belt, ~2.92 AU)
-Most economically valuable. Chinese-anchored, Tianhe Cosmics. Iron-nickel and platinum-group metals. Strategic resource significance.
-See [[location_psyche_station|Psyche Station]]
+This means every major belt station must operate as if help will not arrive soon. Medical, food, repair, power, and life support redundancy are not luxuries. They are cultural law.
 
-### Juno Station — 3 Juno (S-type, inner belt, ~2.67 AU)
-Construction materials. Governance TBD. Silicates and stony minerals for habitat construction. Natural trading partner with Fortuna.
-See [[location_juno_station|Juno Station]]
+## Major Stations and Roles
 
-### Sylvia Station — 87 Sylvia (X-type, outer belt, ~3.49 AU, with moons Romulus and Remus)
-Triple-body system, outer belt. Complex orbital environment. Future expansion potential via moons. Higher flux exposure than inner stations.
-See [[location_sylvia_station|Sylvia Station]]
+### Fortuna Station - 3 Fortuna
 
-### Metis Station — 9 Metis (D-type, Jupiter L4, ~5.2 AU)
-Farthest permanent human habitation. Multinational. Artemis Grant stationed here. Highest flux exposure. First and most advanced magical emergence. Communications degraded earliest.
-See [[location_metis_station|Metis Station]]
+Fortuna is the largest belt station and the story's main asteroid hub. It is anchored to 3 Fortuna, a large C-type asteroid in the inner belt. Its strengths are food systems, carbonaceous feedstock, water access, smelting, manufacturing, robotics, general trade, and population growth.
 
-### Metis Station — 9 Metis (C-type, inner belt, ~2.4 AU)
-Small ship-building station near Fortuna. Run by Dr. Eugene Hart.
-See [[location_metis_station|Metis Station]]
+Fortuna is sometimes called "the Granary" as an aspirational nickname. This is only partly accurate. It grows food and raises animals, but it is also a factory town, warehouse node, mining coordinator, and political pressure cooker.
 
+See [[location_fortuna_station]] and [[fortuna_station_population_neighborhoods]].
 
-## Travel Times
+### Metis Station - 9 Metis
 
-- **Mars to Fortuna or Juno (nuclear ferry):** ~4-4.5 months outbound.
-- **Mars to Psyche (nuclear ferry):** ~4.5-5 months outbound.
-- **Mars to Sylvia (nuclear ferry):** ~5-6 months outbound.
-- **Mars to Metis (nuclear ferry):** ~8-10 months — rare runs, extreme commitment.
-- **Station to station (inner belt):** weeks to months depending on relative positions.
-- **Inner belt to outer belt:** months.
-- **Inner belt to Metis:** many months.
+Metis Station is a smaller shipyard station anchored to 9 Metis, a large S-type asteroid in the inner belt. It began as a salvage and repair outpost and matured into the most capable shipyard near Fortuna. It builds, overhauls, and repairs ships that Fortuna needs but cannot efficiently construct inside the rotating habitat rings.
 
-## Resources
+Metis is run in practice by Dr. Eugene Hart and is home to Artemis Grant. It is smaller, rougher, and more technically idiosyncratic than Fortuna. Its value lies in its shipyard, not its population.
 
-- **Metals:** Iron, nickel, cobalt, platinum-group, rare earths. Psyche is the dominant source.
-- **Water ice and carbonaceous materials:** Abundant at Fortuna (C-type) and Metis (D-type). Critical for life support and propellant.
-- **Silicates:** Juno's specialization. Construction and precision manufacturing.
-- **Outer belt volatiles:** Sylvia and Metis have primitive compositions with organics and ices.
+See [[location_metis_station]].
 
-## The Hub-and-Spoke Model
+### Psyche Station - 16 Psyche
 
-Each major station is surrounded by dozens of smaller operator vessels — prospecting ships, mining tugs, processing barges, and corporate transports that use the station's life support, medical, communications, and trade infrastructure. A station's "population" in the strict sense is the permanent habitat residents; its broader community includes the rotating workforce of the ships clustered around it.
+Psyche is the dominant heavy-metal prize of the belt. Its strategic importance comes from iron-nickel and platinum-group metals. It is more valuable than welcoming. It supports major extraction, refining, and security operations.
 
-This model creates dense cross-cultural contact at each station. Workers from American, Chinese, Indian, Russian, European, and other national backgrounds circulate through the same hubs. The station culture that emerges is not simply the national anchor's culture — it is a synthesis, pressured and imperfect, developing under the constraint of shared survival.
+### Juno Station - 3 Juno
+
+Juno specializes in silicates and construction materials. It supplies habitat panels, ceramics, mineral feedstocks, and stony material for radiation shielding and surface structures.
+
+### Sylvia Station - 87 Sylvia
+
+Sylvia is an outer-belt triple-body system with long-term expansion potential. It is farther from Mars, harder to supply, and more exposed to frontier effects.
+
+### Odysseus Station - Jupiter Trojan Cluster
+
+Odysseus is administratively tied to belter culture but physically distant. It is not the same location as Metis Station. Do not conflate the two. Odysseus is a far-out scientific and observation post, relevant to early anomaly reports and political retreat decisions.
+
+## Hub-and-Spoke Model
+
+The "station population" describes permanent residents inside the habitat. The actual operational community includes associated ships, construction platforms, mining tugs, prospecting crews, autonomous processing barges, and transient docked crews.
+
+Fortuna's broader community includes 20 to 30 associated small ships and platforms. These craft extend its influence across a large region. Many people who identify as part of Fortuna's economy do not sleep in Fortuna's rings.
+
+Metis has fewer people but an outsized strategic role because shipyards are rare, fragile, and hard to duplicate.
+
+## Belt Economy
+
+The belt economy has four visible layers.
+
+1. Extraction. Mining robots, surface crawlers, prospecting drones, and crewed inspection teams pull raw material from asteroids.
+
+2. Conversion. Smelters, refineries, volatiles processors, feedstock plants, and fabrication shops turn raw material into useful industrial goods.
+
+3. Transport. Nuclear ferries, cargo tugs, pressurized transfer pods, repair vessels, and automated containers move people and goods between Mars, Fortuna, Metis, and other hubs.
+
+4. Survival services. Medical care, food production, animal care, education, housing, water, air, repair, certification, and emergency response keep the human layer alive.
+
+Mars designs and finances much of the system, but belt workers increasingly believe Mars does not understand what the belt actually costs.
 
 ## Culture
 
-Belter culture at story start is in early formation. Common elements:
+Belter identity is forming earlier than Earth governments expected. Common traits include:
+- Technical competence as social currency.
+- Low tolerance for theatrical authority.
+- Strong respect for maintenance workers, medics, farmers, and shipfitters.
+- Cross-cultural fluency through mixed crews and translation systems.
+- Suspicion of corporate optimism when life support margins are thin.
+- Animal culture as morale infrastructure, especially at Fortuna.
+- Practical spirituality and improvised rituals around risk, birth, salvage, and death.
 
-- **High-skill technical workforce.** The belt does not reward unskilled labor.
-- **Tight community bonds** from dangerous conditions and shared infrastructure.
-- **Cross-cultural fluency** from the hub model and {Aura}-mediated translation.
-- **Pragmatic spirituality.** Many belters have personal practices, often eclectic and functional.
-- **Distrust of distant authority.** Local relationships matter most.
+Fortuna's children, animals, and growing pod neighborhoods make it feel like a permanent home. Metis's shipyard culture makes it feel like a machine shop that decided to become a town by accident.
 
-The animal culture developing around Fortuna Station's livestock program — pig-cams, named animals, community investment in herd welfare — is an early example of distinctively belter culture: practical but warm, finding community in the unglamorous.
+## The Belt and Returning Magic
 
-## The Belt and the Returning Magic
+The belt receives the earliest sustained exposure to the returning flux. Conventional institutions do not understand it. Station management suppresses reports because panic threatens recruitment, investment, and cargo contracts. Workers talk anyway.
 
-The belt is humanity's first observation post for the returning resonance flux. Metis, at the far end, is the most advanced. The inner stations are following on a delay.
+The result is a gap between official records and lived reality:
+- Sensor anomalies.
+- Unexplained disappearances.
+- Machine behavior that does not match fault logs.
+- Animal reactions before human perception catches up.
+- Station rumors treated as stress until they become operational facts.
 
-What the belt learns — about safety practices, cross-tradition synthesis, the relationship between AI and magic — will eventually transform Mars and Earth. The communications blackout ensures that the belt develops this knowledge on its own terms.
+## StoryBot Guidance
 
-## Open Questions
+CAN invent:
+- Small named operators, station bars, repair shops, ship names, cargo schedules, festivals, maintenance rituals, slang, and non-central outposts.
+- Visual details for corridors, docks, surface yards, warehouses, and mining operations.
+- Practical tension between Mars, Fortuna, Metis, and smaller ships.
 
-- Whether any additional stations exist beyond the five major ones.
-- The Belt Safety Council — origins, structure, key figures.
-- The first belt-wide political body to claim authority.
-- Cultural and linguistic synthesis — does a belt creole emerge?
-- What Metis Station has discovered that no one else knows yet.
+SHOULD NOT invent:
+- Additional major stations that replace Fortuna or Metis as story anchors.
+- A second Metis location.
+- Easy rescue timelines that contradict the weeks-to-months conventional travel model.
+- Magic explanations that bypass established returning-flux mechanics.
 
 ## Cross-References
 
-- See [[faction_belter_stations|The Belter Stations]] for political profiles of stations.
-- See [[tech_nuclear_ferries|Nuclear Ferry System]] for transit infrastructure.
-- See [[magic_returning_arts|The Returning Arts]] for magic emergence.
-- See [[cosmology]] for the radiation source.
+- [[location_fortuna_station]]
+- [[fortuna_station_population_neighborhoods]]
+- [[location_metis_station]]
+- [[location_mars_overview]]
+- [[tech_nuclear_ferries]]
+- [[magic_returning_arts]]
+- [[spec_dimensional_travel_mechanics]]
 
 ## Revision Notes
 
-- 2026-04-28: Major update — replaced Demeter/Tianjin/Ashok/Volga/Helios with Fortuna/Psyche/Juno/Sylvia/Odysseus. Added Odysseus at Jupiter L4 as fifth station. Added hub-and-spoke model description. Updated travel times for all five stations.
+- 2026-06-30: Expanded Mars-to-belt relationship. Clarified Fortuna as largest station and Metis as nearby shipbuilding station. Removed duplicate/conflicting Metis entries by treating Odysseus as the distant Jupiter Trojan post and Metis as the inner-belt shipyard.
+- 2026-04-28: Major update from earlier station set.

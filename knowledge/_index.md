@@ -18,7 +18,7 @@
     - char_helena.md - name: Helena [surname TBD]; id: char_helena; status: deceased (disappeared; body never recovered) — TRUE CAUSE IS GM/REVEAL-LATER; updated: 2026-06-24; description: Character profile detailing Helena's disappearance and magical crossing into the Astral plane.; lines: 98; xrefs: 0; canonical: false
     - char_jace_apollo.md - name: Jace Grant; id: char_jace_apollo; status: alive; updated: 2026-06-17; description: Character profile detailing Jace Grant, a discharged Air Force officer discovering latent magical abilities.; lines: 380; xrefs: 0; canonical: false
     - char_jelly_grant.md - name: Jelly; id: char_jelly_grant; status: alive (off-page, on Earth); updated: 2026-05-02; description: Character profile for Jelly Grant, a dog representing home and enduring family connection.; lines: 76; xrefs: 0; canonical: false
-    - char_jin_luong.md - name: Jin Luong; id: char_jin_luong; status: alive; description: Character profile for Jin Luong, head mining supervisor of the Chinese detachment on Fortuna Station.; lines: 54; xrefs: 0; canonical: false
+    - char_jin_luong.md - name: Jin Luong; id: char_jin_luong; status: alive; description: Character profile for Jin Luong, head mining supervisor of the Chinese detachment on Fortuna Station.; lines: 118; xrefs: 0; canonical: false
     - char_jinx_grant.md - name: Jinx; id: char_jinx_grant; status: alive (off-page, on Earth); updated: 2026-05-02; description: Character profile for Jinx, the primary family horse and symbol of home on a Virginia farm.; lines: 85; xrefs: 0; canonical: false
     - char_kael.md - name: Kael; id: char_kael; status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system; updated: 2026-06-26; description: Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice.; lines: 321; xrefs: 0; canonical: false
     - char_kai.md - name: Kai; id: char_kai; status: alive; updated: 2026-06-26; description: Character profile for Kai, a Crystal Dragon familiar Will-bonded to Kael, who scales in size and capability across dimensional layers and serves as Kael's mount in the Astral and Hyperspace.; lines: 181; xrefs: 0; canonical: false
@@ -36,9 +36,7 @@
     - char_smuggler_mars.md - name: [name TBD]; id: char_smuggler_mars; status: alive; updated: 2026-04-30; description: Character profile detailing a morally grey, essential smuggler operating within the Mars settlement's informal economy.; lines: 135; xrefs: 0; canonical: false
     - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-06-03; description: Character profile detailing Dr. Sophia Lotte, an ESA physicist who pioneered human Astral crossing.; lines: 203; xrefs: 0; canonical: false
     - char_suzi.md - name: Suzi [surname TBD]; id: char_suzi; status: alive; updated: 2026-06-17; description: Character profile for Suzi, Fortuna Station chief of security and investigative ally.; lines: 86; xrefs: 0; canonical: false
-    - voice_char_jace_apollo.md - id: voice_char_jace_apollo; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: Detailed vocal and speech pattern profile for character Jace Apollo Grant.; lines: 400; xrefs: 0; canonical: false
-    - voice_char_lt_rich_cullivan.md - id: voice_char_lt_rich_cullivan; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: Detailed voice profile for Lt. Rich Cullivan, including emotional and situational speech patterns.; lines: 326; xrefs: 0; canonical: false
-- CLAUDE_PROJECT_INSTRUCTIONS.md - lines: 192; xrefs: 0; canonical: false
+- CLAUDE_PROJECT_INSTRUCTIONS.md - lines: 202; xrefs: 0; canonical: false
 - factions/
     - faction_anzu_clades.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 62; xrefs: 0; canonical: true
     - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; canonical: true; updated: 2026-04-28; type: distributed_settlement_network; description: Describes the loose network of mining and habitation stations in the asteroid belt.; lines: 102; xrefs: 0; canonical: true
@@ -61,22 +59,24 @@
 - livestock/
     - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-26; type: livestock_manifest; description: Manifest detailing livestock pairings and life support allocation for the Falcon voyage.; lines: 135; xrefs: 0; canonical: false
 - locations/
-    - fortuna_station_population_neighborhoods.md - updated: 2026-06-27; lines: 688; xrefs: 0; canonical: false
-    - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; canonical: true; updated: 2026-04-28; type: region; description: Overview of the Asteroid Belt region, its geography, and major human stations.; lines: 113; xrefs: 0; canonical: true
+    - fortuna_station_population_neighborhoods.md - name: Fortuna Station Population and Neighborhoods; id: fortuna_station_population_neighborhoods; status: draft; canonical: true; updated: 2026-06-30; type: supporting_location_bible; description: Population, housing, neighborhoods, civic loadout, and daily life at Fortuna Station.; lines: 500; xrefs: 0; canonical: true
+    - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; canonical: true; updated: 2026-06-30; type: region; description: Overview of the Asteroid Belt region, its geography, major stations, travel logic, and belt-wide settlement economy.; lines: 150; xrefs: 0; canonical: true
+    - location_belt_visual_prompt_library.md - name: Belt Visual Prompt Library; id: location_belt_visual_prompt_library; status: draft; canonical: true; updated: 2026-06-30; type: visual_prompt_library; description: Reusable image prompts and descriptive vignettes for Fortuna Station, Metis Station, and inner-belt industrial life.; lines: 178; xrefs: 0; canonical: true
     - location_elysium.md - name: Elysium; id: location_elysium; status: active, International/European hub; updated: 2026-05-02; type: city; description: Description of the cosmopolitan, high-stakes international business hub city of Mars.; lines: 22; xrefs: 0; canonical: false
-    - location_fortuna_station.md - name: Fortuna Station; id: location_fortuna_station; status: active, growth phase; updated: 2026-06-17; type: station; description: Description of the industrial inner belt mining hub, Fortuna Station.; lines: 151; xrefs: 0; canonical: false
+    - location_fortuna_station.md - name: Fortuna Station; id: location_fortuna_station; status: active, growth phase; canonical: true; updated: 2026-06-30; type: station; description: Description of the industrial inner belt mining hub, Fortuna Station.; lines: 409; xrefs: 0; canonical: true
     - location_juno_station.md - name: Juno Station; id: location_juno_station; status: active; updated: 2026-04-28; type: station; description: Description of an inner belt asteroid station focused on mineral extraction and trade.; lines: 51; xrefs: 0; canonical: false
-    - location_mars_consumer_district.md - name: Mars Consumer District (working name); id: location_mars_consumer_district; status: active, expanding; canonical: true; updated: 2026-04-30; type: district; description: Description of a future retail district on Mars showcasing advanced technology and consumer culture.; lines: 90; xrefs: 0; canonical: true
-    - location_mars_fabrication_district.md - name: Mars Fabrication District (working name); id: location_mars_fabrication_district; status: active, expanding; canonical: true; updated: 2026-04-30; type: district; description: Description of a major Martian industrial district and its economic significance to the settlement.; lines: 105; xrefs: 0; canonical: true
-    - location_mars_livestock_farm.md - id: location_mars_livestock_farm; status: draft; type: location; description: Description of Terminus's underground Mars livestock farm location and operations.; lines: 115; xrefs: 3; canonical: false; chars: cerberus
-    - location_mars_overview.md - name: Mars (Inhabited World Overview); id: location_mars_overview; status: actively_settled; canonical: true; updated: 2026-05-02; type: planet; description: Overview of humanity's settled civilization, major settlements, and resource economy on Mars.; lines: 45; xrefs: 0; canonical: true
-    - location_mars_us_afspace_force_base.md - name: U.S. Air Force / Space Force Joint Base — Terminus; id: location_mars_us_afspace_force_base; status: active; canonical: true; updated: 2026-05-02; type: military_installation; description: Description of the joint US Air Force/Space Force military installation on Mars at Terminus.; lines: 130; xrefs: 5; canonical: true
-    - location_metis_station.md - name: Metis Station; id: location_metis_station; status: canonical; canonical: true; updated: 2026-06-23; type: location; description: >; lines: 164; xrefs: 5; canonical: true; chars: sister_artemis, eugene_hart
+    - location_mars_consumer_district.md - name: Mars Consumer District (working name); id: location_mars_consumer_district; status: active, expanding; canonical: true; updated: 2026-06-30; type: district; description: Description of a future retail, cafe, and consumer technology district in Terminus on Mars.; lines: 135; xrefs: 3; canonical: true
+    - location_mars_fabrication_district.md - name: Mars Fabrication District (working name); id: location_mars_fabrication_district; status: active, expanding; canonical: true; updated: 2026-06-30; type: district; description: Description of the major Martian industrial and fabrication district in Terminus, including heavy manufacturing, robot repair, truck depots, rail logistics, and launch-support industry.; lines: 172; xrefs: 4; canonical: true
+    - location_mars_livestock_farm.md - id: location_mars_livestock_farm; status: draft; updated: 2026-06-30; type: location; description: Description of Terminus's livestock and ranching systems, including the underground farm where Jace meets Cerberus and the larger surface ranch dome complex that feeds Mars and the asteroid belt.; lines: 193; xrefs: 4; canonical: false; chars: cerberus
+    - location_mars_overview.md - name: Mars (Inhabited World Overview); id: location_mars_overview; status: actively_settled; canonical: true; updated: 2026-06-30; type: planet; description: Overview of humanity's settled civilization, major settlements, infrastructure logic, and resource economy on Mars.; lines: 174; xrefs: 6; canonical: true
+    - location_mars_us_afspace_force_base.md - name: U.S. Air Force / Space Force Joint Base - Terminus; id: location_mars_us_afspace_force_base; status: active; canonical: true; updated: 2026-06-30; type: military_installation; description: Description of the joint U.S. Air Force / U.S. Space Force military installation on Mars at Terminus.; lines: 165; xrefs: 5; canonical: true
+    - location_mars_visual_prompt_library.md - name: Mars Visual Prompt Library; id: location_mars_visual_prompt_library; status: draft; canonical: true; updated: 2026-06-30; type: reference; description: Standalone visual prompt library for Mars city life in Terminus, Pangu, and Elysium.; lines: 69; xrefs: 7; canonical: true
+    - location_metis_station.md - name: Metis Station; id: location_metis_station; status: canonical; canonical: true; updated: 2026-06-30; type: location; description: >; lines: 228; xrefs: 5; canonical: true; chars: sister_artemis, eugene_hart
     - location_odysseus_station.md - name: Odysseus Station; id: location_odysseus_station; status: canonical; canonical: true; updated: 2026-06-26; type: location; description: >; lines: 118; xrefs: 3; canonical: true
-    - location_pangu.md - name: Pangu; id: location_pangu; status: active, primary Chinese hub; updated: 2026-05-02; type: city; description: Description of the industrial city Pangu on Mars, detailing its function and environment.; lines: 23; xrefs: 0; canonical: false
+    - location_pangu.md - name: Pangu; id: location_pangu; status: active, primary Chinese hub; updated: 2026-06-30; type: city; description: Description of Pangu, the Chinese-owned industrial city on Mars, including its planned infrastructure, transit, labor culture, and visual texture.; lines: 99; xrefs: 2; canonical: false
     - location_psyche_station.md - name: Psyche Station; id: location_psyche_station; status: active, economically significant; updated: 2026-06-17; type: station; description: Description of the economically vital station anchored to the metallic asteroid 16 Psyche.; lines: 72; xrefs: 0; canonical: false
     - location_sylvia_station.md - name: Sylvia Station; id: location_sylvia_station; status: active; updated: 2026-04-28; type: station; description: Detailed location profile for Sylvia Station, including its three-body asteroid system and potential story sites.; lines: 72; xrefs: 0; canonical: false
-    - location_terminus.md - id: location_terminus; status: draft; updated: 2026-05-02; type: location; description: Description of Terminus, the largest militarized human settlement on Mars.; lines: 125; xrefs: 3; canonical: false
+    - location_terminus.md - id: location_terminus; status: draft; updated: 2026-06-30; type: location; description: Description of Terminus, the largest U.S. city on Mars, including its buried neighborhoods, surface domes, agriculture, logistics, launch, and military-adjacent infrastructure.; lines: 305; xrefs: 8; canonical: false
     - location_the_long_burn_bar.md - id: location_the_long_burn_bar; status: draft; type: location; description: Description of The Long Burn, an underground commercial bar in Terminus' old tunnels.; lines: 97; xrefs: 3; canonical: false; chars: the_rat
     - location_the_scar_never_never.md - name: The Scar — Never-Never Region; id: location_scar_never_never; status: reopening; canonical: true; updated: 2026-05-31; type: location_dimensional_region; description: Description of the dimensional region known as The Scar and its Never-Never ecology.; lines: 134; xrefs: 0; canonical: true
 - magic-systems/
@@ -100,8 +100,8 @@
     - magic_will_implications.md - name: Will — Deep Implications and Universe-Wide Consequences; id: magic_will_implications; status: canonical_working; canonical: true; updated: 2026-05-31; type: foundational_analysis; description: Analyzes the universal biological and cosmic implications of conscious will generation.; lines: 309; xrefs: 0; canonical: true
     - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 228; xrefs: 5; canonical: true; chars: jace_apollo
 - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic.; lines: 125; xrefs: 0; canonical: false
-- priority_fix_list.md - lines: 55; xrefs: 0; canonical: false
-- README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-06-26; type: readme; description: Main repository documentation and directory list for the {Aura} Chronicles project knowledge base.; lines: 186; xrefs: 0; canonical: false
+- priority_fix_list.md - lines: 57; xrefs: 0; canonical: false
+- README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-06-26; type: readme; description: >; lines: 205; xrefs: 0; canonical: false
 - review-queue/
     - review_2026-06-16_falcon_redesign.md - id: review_queue_2026-06-16_falcon_redesign; status: open; updated: 2026-06-24; type: review_queue_item; description: Review notes detailing inconsistencies and required updates for the Falcon ship redesign.; lines: 30; xrefs: 0; canonical: false
     - session_notes_2026-05-02.md - name: Session Notes — 2026-05-02 (Voice Session); id: session_notes_2026-05-02; status: active; updated: 2026-05-02; type: session_log; description: Notes detailing character canon and plot resolutions for multiple characters and storylines.; lines: 152; xrefs: 0; canonical: false
@@ -130,7 +130,7 @@
     - event_jace_origin_negotiation.md - id: event_jace_origin_negotiation; status: pre-draft (emotional beats / structural sketch); updated: 2026-06-03; type: scene; description: Jace negotiates his contract with Origin Industries, establishing his diminished bargaining position.; lines: 109; xrefs: 0; canonical: false
     - event_rich_comms_favor.md - name: Rich's Comms Favor for Jace; id: event_rich_comms_favor; status: sketch; updated: 2026-05-02; type: scene; description: Rich uses his comms access to grant Jace a significant favor after his discharge.; lines: 121; xrefs: 4; canonical: false; chars: lt_rich_cullivan, jace_apollo
     - scene_notes_ai_interactions.md - id: scene_notes_ai_interactions; status: pre-draft; updated: 2026-06-18; type: scene_notes; description: Scene notes for two key AI-interaction beats: the {Alex} morning greeting routine and Nick's pitch to install {Aura}. Updated to reflect that Jace has no pre-installed {Aura} — just a bare military HUD reformatted as civilian OS.; lines: 185; xrefs: 0; canonical: false
-- SERIES_BIBLE.md - name: The Aura Chronicles — Series Bible; id: series_bible; status: canonical; updated: 2026-06-26; type: series_bible; description: >; lines: 504; xrefs: 5; canonical: false
+- SERIES_BIBLE.md - name: The Aura Chronicles — Series Bible; id: series_bible; status: canonical; updated: 2026-06-26; type: series_bible; description: >; lines: 499; xrefs: 5; canonical: false
 - sheets/
     - sheet_jace_arc01_end.md - name: Jace Grant — Arc 1 End (Kael Arrival); id: sheet_jace_arc01_end; subject: jace_apollo; arc: arc_01; checkpoint: Swarm repelled; Kael has arrived; Arc 1 closes; seq: 2; updated: 2026-06-27; lines: 144; ⚠️ IMMUTABLE — do not edit
     - sheet_jace_arc01_start.md - name: Jace Grant — Arc 1 Start (Falcon Departure); id: sheet_jace_arc01_start; subject: jace_apollo; arc: arc_01; checkpoint: Boards the Falcon at Mars — before any Astral exposure; seq: 1; updated: 2026-06-27; lines: 113; ⚠️ IMMUTABLE — do not edit
@@ -146,7 +146,7 @@
     - ship_santa_maria.md - name: Santa María; id: ship_santa_maria; status: active; updated: 2026-04-28; type: passenger / cargo cycler; description: Technical profile detailing the specifications, history, and role of the Cycler-class liner Santa María.; lines: 89; xrefs: 0; canonical: false
     - ship_victoria.md - name: Victoria; id: ship_victoria; status: active; updated: 2026-06-03; type: science research vessel; description: ESA science vessel used as home base and research platform for particle physics studies.; lines: 77; xrefs: 0; canonical: false
 - storybot/
-    - image_generation_agent_prompt.md - updated: 2026-06-27; lines: 658; xrefs: 0; canonical: false
+    - image_generation_agent_prompt.md - updated: 2026-06-27; lines: 610; xrefs: 0; canonical: false
     - metadata_template_guide.md - name: StoryBot Metadata Template Guide; id: storybot_metadata_template_guide; status: working draft; updated: 2105-03-16; type: system_documentation; description: Defines metadata structures for StoryBot to generate multimedia chapter content.; lines: 479; xrefs: 0; canonical: false
     - progression_review_guide.md - name: Progression & Chapter Review Guide; id: storybot_progression_review_guide; status: canonical (developmental guide — not world canon); canonical: true (as a working/reviewing guide); updated: 2026-06-17; type: dev_guide; description: Developmental guide for reviewing pacing and progression in a science-fantasy web serial.; lines: 109; xrefs: 0; canonical: true (as a working/reviewing guide)
 - technology/
@@ -209,7 +209,10 @@ These files have non-canonical status and should not be treated as authoritative
 - `arcs\arc_03_the_return_and_the_trap.md`
 - `arcs\arc_04_the_bloom.md`
 - `arcs\arc_05_the_reckoning.md`
+- `locations\fortuna_station_population_neighborhoods.md`
+- `locations\location_belt_visual_prompt_library.md`
 - `locations\location_mars_livestock_farm.md`
+- `locations\location_mars_visual_prompt_library.md`
 - `locations\location_terminus.md`
 - `locations\location_the_long_burn_bar.md`
 - `scenes\book01-ch01-afternoon-workshop.md`
@@ -268,12 +271,11 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `faction_vetala_residua`
 - `fortuna_station_population_neighborhoods`
 - `image_generation_agent_prompt`
-- `location_asteroid_belt_overview`
+- `location_belt_visual_prompt_library`
 - `location_elysium`
 - `location_juno_station`
-- `location_mars_consumer_district`
-- `location_mars_fabrication_district`
-- `location_pangu`
+- `location_mars_visual_prompt_library`
+- `location_odysseus_station`
 - `location_psyche_station`
 - `location_sylvia_station`
 - `location_the_scar_never_never`
@@ -307,6 +309,4 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `tech_seek_ai`
 - `timeline_book01_incursions`
 - `timeline_master`
-- `voice_char_jace_apollo`
-- `voice_char_lt_rich_cullivan`
 

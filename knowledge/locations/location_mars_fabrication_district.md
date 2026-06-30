@@ -1,105 +1,172 @@
 ---
-description: "Description of a major Martian industrial district and its economic significance to the settlement."
+description: "Description of the major Martian industrial and fabrication district in Terminus, including heavy manufacturing, robot repair, truck depots, rail logistics, and launch-support industry."
 id: location_mars_fabrication_district
 name: Mars Fabrication District (working name)
 type: district
-parent_location: location_mars_us_settlement
+parent_location: location_terminus
 status: active, expanding
 era_of_relevance: story present onward
 canonical: true
-last_updated: 2026-04-30
+last_updated: 2026-06-30
+cross_references:
+  - location_terminus.md
+  - location_mars_overview.md
+  - location_mars_consumer_district.md
+  - location_pangu.md
+revision_notes:
+  - "2026-04-30: Initial draft from voice session."
+  - "2026-06-30: Re-anchored as a Terminus district. Added truck depots, rail launch support, robot depots, warehouse scale, dust cleanup, and practical visual prompts."
 ---
 
-# Mars Fabrication District
+# Mars Fabrication District - Terminus
 
 ## Summary
 
-The Mars Fabrication District is the heavy-industry heart of the U.S. Mars settlement — a sprawling complex of large-scale additive manufacturing plants, semiconductor fabs, robotic assembly lines, smelters, and the orbital catch facilities that bring asteroid-belt ingots down to Mars surface processing. It is not a single building or even a contiguous zone; it is a network of pressurized industrial volumes connected by rail, pipeline, and tunnel, sprawling across several square kilometers near the settlement's primary power infrastructure.
+The Mars Fabrication District is the heavy-industry heart of Terminus. It is a network of pressurized industrial volumes connected by rail, pipeline, tunnel, truck yards, robot depots, cargo locks, and power infrastructure. It includes large-scale additive manufacturing, repair shops, semiconductor packaging and specialty fabs, robotic assembly lines, smelters, regolith processing, vehicle maintenance, and launch-support facilities.
 
-This district is one of Mars's most economically significant exports: not the products themselves, but the *manufacturing capacity*. Mars makes things. Earth uploads the design files; Mars fabricates and ships. For certain product categories — high-precision components, custom semiconductors, specialty alloys, in-situ-resource-utilization parts — Mars is now the cheapest place in the inner solar system to manufacture, because the raw materials don't have to climb out of Earth's gravity well.
+It is not a single building. It sprawls across several square kilometers of buried halls, bermed surface structures, freight corridors, maintenance bays, and industrial yards.
 
-## Significance to Story
+Mars makes things. Earth can upload design files, but Mars turns those designs into pressure vessels, rover frames, drone parts, life-support modules, rail components, agricultural equipment, habitat panels, emergency shelters, and export hardware.
 
-This district is where Jace's HUD almost certainly was *not* made — military-grade implants are still Earth-built — but where competing civilian models *are* made. It is where the supply-chain anxieties of the bar scenes ultimately point. It is the visible infrastructure of Mars's emerging industrial maturity. And it is the bottleneck that makes Mars matter strategically: shut down the Mars fabs and the inner solar system's logistics would convulse.
+## Strategic significance
 
-When Jace tours portions of the district as part of his initial Mars orientation (or as part of his menial work during the hard months), the reader sees the scale of what humans have built off-Earth.
+The district is one reason Terminus matters beyond its population. It supports:
 
-## Layout and Components
+- City maintenance.
+- Outpost construction.
+- Mars truck and rail repair.
+- Drone and robot manufacturing.
+- Agriculture and ranch equipment.
+- Launch infrastructure.
+- Belt supply chains.
+- Military and civilian emergency replacement parts.
 
-### Heavy Fabrication Halls
+If the district slows down, the entire U.S. Mars presence feels it within days or weeks.
 
-Multiple very large pressurized halls — football-field-scale internal volumes — housing industrial 3D printers and additive manufacturing systems. Some print metal parts at meter scales; some print plastics and composites; some print the kind of large structural components that would otherwise have to be shipped from Earth at enormous cost. Robots run most of the work. Human supervisors monitor, intervene, and maintain.
+## Layout and components
 
-The halls smell faintly of hot metal and the specific chemistry of curing resins. The lighting is bright and clinical. The acoustic environment is loud — industrial machinery, ventilation, conveyor systems — and most workers wear ear protection or use HUD-based active noise dampening.
+### Heavy fabrication halls
 
-### Semiconductor and Circuit Fabs
+Football-field-scale pressurized halls house metal printers, composite printers, ceramic/sintering systems, pressure-rated assembly fixtures, and large robotic arms. Human workers supervise, repair, inspect, and intervene. Robots move material, but humans remain responsible for certification and edge cases.
 
-A separate facility within the district, with much higher cleanliness requirements. Mars fabs produce a meaningful fraction of the inner solar system's specialty chips, particularly for radiation-hard and space-rated electronics where Mars's ambient environment is closer to deployment conditions than Earth's. Workers in cleanroom suits, the soft hum of vacuum systems, the smell of nothing at all.
+The halls smell faintly of hot metal, curing resins, lubricant, and filtered dust. Lighting is bright and clinical. Noise is high: ventilation, conveyors, printers, cutters, alarms, and robot carts. Workers use ear protection, eye protection, clipped emergency breathers, hard caps, and low-g safety harness points near hazardous machines.
 
-Mars semiconductor production is competitive with Earth and the Moon for certain niches. The Moon's vacuum-fab advantage is real but requires lunar logistics; Mars's fabs are reliable and operate continuously.
+### Semiconductor and circuit facilities
 
-### Smelting and Refining
+Clean areas produce specialty electronics, radiation-hard packaging, ruggedized sensors, replacement boards, and repair-grade chip assemblies. Mars may not produce every advanced chip, but it can package, test, repair, ruggedize, and manufacture important space-rated electronics.
 
-The district receives raw asteroid materials from the orbital catch network (see below) and processes them into usable feedstocks. Iron, nickel, cobalt, platinum-group metals, silicates. Belt-mined ingots arrive in bulk; Mars smelters turn them into rolling stock for the fabricators.
+These spaces smell like nothing. That is part of the point. Workers wear cleanroom suits. Robots dominate material handling.
 
-This is the dirtiest part of the district. High temperatures, high power consumption, heavy machinery, the kind of work where things can go very wrong if attention slips. A culture of safety enforcement and visible signage.
+### Smelting and regolith processing
 
-### Robotic Assembly Lines
+Dirty industrial areas process asteroid metals, Martian regolith, silicates, iron, nickel, cobalt, ceramics, glass, shielding blocks, and construction feedstock. These zones have higher hazard levels, strict signage, heavy thermal management, and strong safety culture.
 
-Pick-and-place systems, welding rigs, and automated assembly cells produce subassemblies and finished goods. Drones, surface vehicles, ferry components, agricultural equipment, life support modules, consumer electronics. The Mars assembly capacity is now mature enough that complete products — not just parts — are shipped from here to the belt and back to Earth.
+### Robot and drone depots
 
-### The Orbital Catch Network
+The district contains many robot depots because Mars runs on machines. Depots maintain cargo tugs, floor cleaners, inspection crawlers, agricultural robots, exterior dome crawlers, drone aircraft, medical carts, and truck-support units. A depot can be messy, practical, and full of half-disassembled machines.
 
-A network of space tugs in Mars orbit catch the metal ingots and processed materials sent from belt mining stations on slow, fuel-efficient trajectories. The tugs then deliver these materials to surface drop facilities — small reusable landers that bring the materials down to the fabrication district.
+### Truck depots
 
-This is one of the more visually distinctive parts of the system, and a great scene-setting opportunity. From the surface, on a clear day, observers can see the descent of materials lander vehicles dropping from orbit on a regular schedule.
+A Mars truck depot is a major industrial facility, not a parking lot. It includes:
 
-The orbital catch network ties the Mars fabrication district directly to belt mining operations. When belt operations are disrupted — as they will be, as the magic returns and the comms blackout falls — the Mars fabs feel it within weeks as inventory drops and certain material grades go scarce.
+- Heated maintenance bays.
+- Pressure-rated vehicle locks.
+- Dust vacuum systems.
+- Compressed-air cleaning rigs.
+- Battery or fuel-cell racks.
+- Spare wheels, treads, seals, filters, and radiators.
+- Cargo cranes.
+- Bunkrooms for convoy crews.
+- Rescue buggy storage.
+- Route-weather and traffic-control consoles.
 
-### Workers' Quarters and Adjacent Districts
+Terminus likely has 4-8 truck depots across the railhead, outpost, industrial, civil-service, and contractor sectors.
 
-A residential zone immediately adjacent to the fabrication district houses much of the workforce. Tightly packed, functional, mixed cultures, real Mars-born population density. This is the kind of area where Jace might end up living during the hard months — affordable, near the bar he frequents, near the launch facility where the Smuggler operates.
+### Rail and freight interfaces
 
-## Operations and Workforce
+The fabrication district links directly to freight rail, the main railhead, warehouses, and the remote rail launch range. Cargo moves through pressure locks and sealed containers. Freight lanes are clearly marked and separated from pedestrians.
 
-The Mars Fabrication District employs several thousand people directly and supports thousands more in adjacent industries. Workers are a mix of:
+### Launch-support industry
 
-- **Engineers and technicians** — the highest-skilled tier, well-paid, often Mars-born or long-term residents.
-- **Operators and supervisors** — running the machines, monitoring the lines, intervening when robotic systems fail or hit edge cases.
-- **Maintenance crews** — keeping the heavy machinery running. Often ex-military or ex-construction workers from Earth or Mars.
-- **Logistics workers** — moving materials, loading shipments, coordinating with the launch facility for outbound and the orbital catch for inbound.
+The district fabricates and maintains cargo sleds, launch rail components, electromagnetic coils, power-bank hardware, sealed payload containers, recovery equipment, and launch-control systems. It does not sit directly on the launch range, but it feeds the range constantly through freight corridors.
 
-Cross-cultural workforce. Mars-born young adults make up a growing share. The district is one of the places where Mars-born identity is becoming most distinct — these are people who will never go to Earth, who build things for a living, who are increasingly skeptical of Earth-centered authority structures.
+## Warehouses and storage
 
-## Cultural Notes
+The district has extensive warehousing. Some warehouse spaces are visible and busy; others are buried strategic reserves.
 
-- **The "send a file" economy.** Earth uploads design files; Mars manufactures. This has changed how Mars residents think about ownership of designs and intellectual property. Mars has a robust shadow industry of unofficial design modifications, "cracked" CAD files, and design-derivative products that Earth IP holders technically prohibit but cannot effectively enforce against.
-- **Pride of make.** Mars-fabricated goods carry an informal mark of pride. "Made on Mars" is starting to mean something — both as a quality signal (Mars fabs are good) and as an identity marker.
-- **The grey market.** Where there are fabs, there are grey-market fabs. Small specialist shops will print whatever you bring them, no questions, including things that should not be printed. The Smuggler / the Rat has relationships in this layer.
+Stored materials include:
 
-## Connection to Other Story Threads
+- Standard metal stock.
+- Regolith blocks.
+- Pressure-rated panels.
+- Seals and membranes.
+- Filters and scrubber cartridges.
+- Drone parts.
+- Rail components.
+- Truck wheels/treads.
+- Medical-grade plastics.
+- Emergency shelter kits.
+- Water and fuel system components.
+- Printed part blanks.
 
-- **The Smuggler's network.** Many of the Rat's contacts are in this district — fabrication-shop owners, logistics workers, small operators in the grey-market layer.
-- **The HUD upgrade economy.** Civilian HUD competitors are partly fabricated here. The "constantly improving" tech texture Jace experiences in the consumer electronics district has a counterpart upstream here.
-- **The supply-chain anxiety.** When belt operations falter, this district feels it. The merchant in the bar scene who is panicking about her quotas — her shop is in or near this district.
-- **Mei's cover.** Although Mei is a livestock-farm-cover operative, intelligence on Chinese Mars activity routes through fabrication-district contacts as well. This district may matter for her work even though it is not her direct cover environment.
+In a Mars crisis, inventory is a weapon, a currency, and a moral argument.
 
-## Open Questions
+## Workforce
 
-- A real or working name for the district. (Probably a neighborhood-style name.)
-- Specific corporate operators in the district — Origin Industries owns some capacity, but who else? Are there independent shops? Cooperatives? Foreign corporate enclaves?
-- The first manufacturing failure attributable to belt magical anomalies — when does Mars realize that something belt-side is starting to affect their feedstocks?
-- Whether any specific scenes are set here in Book 1, or whether the district is primarily background context.
+The district employs engineers, operators, supervisors, maintenance crews, rail workers, truck mechanics, robotics technicians, cleanroom staff, safety inspectors, logistics workers, and small-shop fabricators.
 
-## Cross-References
+The workforce is mixed: Mars-born technicians, Earth-born specialists, ex-military mechanics, contractors, corporate engineers, grey-market operators, and people one bad month away from leaving Mars.
 
-- See [[location_mars_overview|Mars (Inhabited World Overview)]]
-- See [[faction_megacorps|The Megacorporations]] (Origin Industries and others operate here)
-- See [[faction_origin_industries|Origin Industries]]
-- See [[location_asteroid_belt_overview|The Asteroid Belt (Overview)]] (source of feedstocks)
-- See [[event_jace_bar_rumors|Scene — The Bar (Rumors of Disaster)]] (supply-chain anxiety surfaces in dialogue)
-- See [[char_smuggler_mars|The Rat (the Mars Launch Facility Smuggler)]]
+## Cultural notes
 
-## Revision Notes
+**Pride of make.** "Made on Mars" has become a quality signal and identity marker.
 
-- 2026-04-30: Initial draft from voice session. District established as economically central to Mars and ribboned through multiple plot threads.
+**Send-a-file economy.** Earth sends designs. Mars makes them. Unofficial modifications, cracked CAD files, and derivative products create a grey-market layer.
+
+**Repair culture.** New equipment is valuable, but trusted repaired equipment has status. Old mechanics know which printed parts fail and which official parts are overdesigned.
+
+**Supply-chain anxiety.** Belt disruptions, launch delays, material shortages, and political controls show up first in this district as inventory gaps.
+
+## Image prompts and scene vignettes
+
+### Surface truck depot during dust cleanup
+
+A Mars truck depot on the edge of Terminus after a dust storm. Several large pressurized cargo trucks sit in rugged maintenance bays, with red dust coating wheels, seals, radiators, and lower hulls. The depot has high doors, compressed-air cleaning rigs, dust vacuum hoses, spare wheel assemblies, battery or fuel-cell racks, and overhead cranes. The building is squat, bermed, and practical, with few windows. Workers in partial pressure suits and dust hoods inspect seals and replace filters. Autonomous cargo tugs move crates between airlocks. A rescue buggy sits ready near the exit with medical markings. The sky outside is dim orange with suspended dust. Emphasize grime, labor, and logistics rather than shiny science fiction.
+
+### Heavy fabrication hall
+
+A large pressurized industrial hall in Terminus, big enough to hold rover frames and habitat panels. Metal printers, composite layup machines, robotic arms, cargo tugs, and overhead cranes fill the space. Workers in hard caps, ear protection, eye protection, and utility coveralls stand behind safety lines while robots move hot parts. The floor has marked low-g cargo lanes and emergency stop strips. The air looks clean but industrial, with bright clinical lighting and slight heat shimmer near a metal printer.
+
+### Robot repair depot
+
+A crowded robot repair bay with knee-high maintenance bots, wall-climbing inspection units, agricultural pickers, drone rotors, cargo-tug chassis, spare manipulators, and sensor heads on racks. Technicians work at benches under task lighting. The space is practical and messy, with labeled parts bins, worn floor tape, diagnostic screens, charging racks, and a red dust contamination cart near the lock.
+
+### Remote rail launch support yard
+
+A freight-linked industrial yard where launch sled parts, electromagnetic rail modules, sealed cargo containers, and power-bank components are inspected before shipment to the remote range. Suited technicians walk beside autonomous cargo tugs. A distant sign marks the restricted route to the launch range. The scene should look like a rail maintenance yard and power substation blended with aerospace logistics.
+
+## Connection to story threads
+
+- Jace's HUD was likely not made here if it is military-grade Earth-built, but competing civilian HUD models are partly fabricated, packaged, or repaired here.
+- The district makes Mars strategically important.
+- The Rat has contacts in small shops, logistics crews, grey-market printers, and launch-adjacent freight.
+- Mei's agricultural cover may intersect with fabrication-district intelligence because equipment, feed systems, and biosecurity hardware move through here.
+- Supply-chain anxiety appears here before it becomes visible to the general population.
+
+## Open questions
+
+- Final district name.
+- Specific corporate operators beyond Origin Industries.
+- Number and type of independent shops.
+- First manufacturing failure attributable to belt anomalies.
+- Whether Book 1 includes a direct fabrication scene or uses the district as background.
+
+## StoryBot consistency checks
+
+Flag possible issues if:
+
+- The district feels clean and weightless instead of noisy, practical, dusty at interfaces, and maintenance-heavy.
+- Robots replace human certification and responsibility entirely.
+- Truck depots look like parking lots rather than pressure-rated industrial sites.
+- Large fabrication lacks power, heat, noise, logistics, safety markings, and quality control.
+- Mars fabricates everything casually without acknowledging imported advanced chips, specialty materials, or supply-chain limits.

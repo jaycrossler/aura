@@ -1,130 +1,165 @@
 ---
 id: location_mars_us_afspace_force_base
-name: U.S. Air Force / Space Force Joint Base — Terminus
-aliases: ["The Base", "USAF/Space Force Detachment", "Mars Detachment"]
+name: U.S. Air Force / Space Force Joint Base - Terminus
+aliases: ["The Base", "USAF/Space Force Detachment", "Mars Detachment", "The Cantonment"]
 type: military_installation
 parent_location: location_terminus
 status: active
-description: "Description of the joint US Air Force/Space Force military installation on Mars at Terminus."
+description: "Description of the joint U.S. Air Force / U.S. Space Force military installation on Mars at Terminus."
 canonical: true
-last_updated: 2026-05-02
+last_updated: 2026-06-30
 era: late 21st century onward
 cross_references:
-  - /knowledge/locations/location_terminus.md
-  - /knowledge/locations/location_mars_overview.md
-  - /knowledge/scenes/event_jace_drone_center_tour.md
-  - /knowledge/scenes/event_jace_mars_tour_with_rich.md
-  - /knowledge/universe-spec/concept_military_address_culture.md
+  - location_terminus.md
+  - location_mars_overview.md
+  - event_jace_drone_center_tour.md
+  - event_jace_mars_tour_with_rich.md
+  - concept_military_address_culture.md
+revision_notes:
+  - "2026-05-02: Initial draft from voice session. Joint USAF/Space Force structure formalized."
+  - "2026-06-30: Reframed base as an adjacent isolated cantonment next to Terminus, with stronger separation from civilian pressure zones, military logistics, drone fields, restricted rail spur, and realistic Mars base imagery."
 ---
 
-# U.S. Air Force / Space Force Joint Base (Terminus)
+# U.S. Air Force / Space Force Joint Base - Terminus
 
 ## Summary
 
-The Mars military installation at Terminus is a **joint U.S. Air Force and U.S. Space Force base** — a collaborative facility that handles drone operations, robot control, satellite operations, and orbital traffic management for U.S. interests on and around Mars. Signage at major entry points reads "U.S. / USAF" and includes both service marks, reflecting the dual command structure. It is the workplace for Lieutenants Rich Cullivan and Jace Apollo Grant in their Air Force capacity, and home to a permanent contingent from both branches.
+The Mars military installation at Terminus is a **joint U.S. Air Force and U.S. Space Force base**: a permanent cantonment adjacent to, but isolated from, the civilian city. It handles drone operations, robot control, satellite operations, orbital traffic management, launch security, military communications, surface logistics, and strategic protection of U.S. interests on and around Mars.
 
-## Layout and Architecture
+The base is close enough to use Terminus rail, hospitals, power, food, logistics, and fabrication support. It is far enough away to protect civilians from munitions hazards, classified operations, vehicle accidents, fuel incidents, launch failures, and military security events. It has its own pressure zones, emergency shelters, access control, medical clinic, and restricted rail spur.
 
-The base is not a single facility. It is a collection of interconnected and stand-alone domes, surface structures, and underground tunnels embedded in and adjacent to the larger Terminus settlement. The 60–70 year history of Terminus shows in the base's architecture: original structures patched and re-patched, newer additions in cleaner contemporary lines, and visible scars from past expansions and accidents.
+Signage at major entry points reads **"U.S. / USAF / USSF"** or local variants including both service marks. The visual culture preserves the dual command structure: Air Force blue in operational spaces, Space Force black and silver in command/orbital spaces, and tan-gray Mars utility uniforms in field settings.
 
-### Connected Main Domes
-- **Drone Operations Dome** — the primary operations facility. Houses the drone control center (see [[event_jace_drone_center_tour|Scene — Jace's Drone Control Center Tour]]). The flight line runs along its outer perimeter.
-- **Command and Administrative Dome** — Colonel's office, briefing rooms, intel meeting spaces, base administration. Where Mei and Sylvester are sometimes glimpsed in meetings.
-- **Officer's Mess and Quarters Dome** — billets for officers including Rich and Jace, mess hall, common areas, small gym for indoor PT.
-- **Enlisted Quarters and Mess Dome** — separate facility, larger population, similar amenities.
-- **Comms and IT Dome** — Rich's primary workplace as base IT/comms lead. Server rooms, communications equipment, encryption suites, network operations center.
-- **Satellite and Orbital Operations Dome** — primarily Space Force personnel. Tracking, orbital traffic deconfliction, satellite control.
+## Layout and architecture
 
-### Stand-Alone Domes (Not Connected for Security or Industrial Reasons)
-- **Munitions and Restricted Materials Domes** — stand-alone for safety and security; reached via short surface transit in pressure suits or sealed rovers
-- **Industrial / Factory Domes** — drone manufacturing and major repair operations; kept separate due to industrial hazard
-- **Classified Operations Domes** — exact functions not specified to non-cleared personnel; assumed to relate to deeper intelligence work
+The base is not one building. It is a network of low hardened structures, stand-alone domes, buried command spaces, surface yards, tunnels, rail links, drone fields, and restricted storage zones. Much of it is partly buried under regolith berms. Structures are practical and dust-stained. The base is not sleek. It is old enough to have patched pressure doors and new enough to have clean classified modules grafted onto them.
 
-### Tunnel Network
-The base is integrated into Terminus's broader tunnel system at multiple levels. Internal tunnels connect the main domes. Restricted tunnels reach the stand-alone domes for cleared personnel. Civilian Terminus tunnels run nearby but do not directly connect.
+### Main cantonment zones
 
-### The Flight Line
-A large hardened apron extending from the Drone Operations Dome out onto the Mars surface. Hundreds of drones (cargo, surveillance, atmospheric, fixed-wing) and dozens of larger fixed-wing vehicles are parked, charging, or in maintenance at any given time. Robot crews swarm over them constantly — cleaners, maintenance bots, dust-management bots, refueling/repressurization bots. The flight line is in continuous motion and is one of the most visually arresting features of the base.
+| Zone | Function |
+|---|---|
+| **Command and Administration Dome** | Base command, briefing rooms, legal/admin, intel meeting spaces |
+| **Drone Operations Dome** | Primary drone control center and flight-line management |
+| **Comms and IT Dome** | Network operations, encryption, relay systems, Rich's primary workplace |
+| **Satellite and Orbital Operations Dome** | Mars orbit traffic, relay constellations, satellite control |
+| **Officer Quarters and Mess** | Billets, mess hall, small gym, common spaces |
+| **Enlisted Quarters and Mess** | Larger residential and support population |
+| **Training Tunnels** | Pressure-environment drills, urban rescue, emergency movement, decompression practice |
+| **Vehicle and Rover Bays** | Military rovers, rescue vehicles, armored trucks, engineering equipment |
+| **Drone Hangars** | Recon, cargo, maintenance, perimeter, and atmospheric drones |
+| **Armory and Restricted Storage** | Munitions, restricted equipment, secure materials, separated and bermed |
+| **Medical Clinic** | Stabilization, occupational medicine, radiation monitoring, casualty prep |
+| **Command Bunker** | Hardened operations center, emergency continuity, secure comms |
+| **Restricted Rail Spur** | Cargo and personnel movement without mixing through civilian passenger terminals |
 
-### The Outdoor Exercise Path
-A marked path on the Mars surface immediately outside the base perimeter, used by personnel for pressure-suit PT runs and conditioning. Painted markings read **"U.S. / USAF"** with both service marks visible — a small but constant reinforcement of the joint nature of the installation. Personnel who run the path do so in pressure suits with comms enabled; small groups are common, and Rich and Jace will run here together at various points.
+### Connected main domes
 
-### Indoor Recreation
-The main residential domes contain limited indoor rec space — a small gym, common areas, an outdoor courtyard within one of the larger domes that has hydroponic greenery and benches. Personnel who want serious outdoor exercise use the surface path. Personnel who want plant exposure use the civilian Terminus park dome.
+- **Drone Operations Dome.** Primary operations facility. Houses the drone control center. The flight line runs along its outer perimeter.
+- **Command and Administrative Dome.** Colonel's office, briefing rooms, intelligence spaces, administration, base legal, and secure meeting rooms.
+- **Officer's Mess and Quarters Dome.** Billets for officers including Rich and Jace, mess hall, common areas, small gym for indoor PT.
+- **Enlisted Quarters and Mess Dome.** Larger facility, practical and busy.
+- **Comms and IT Dome.** Server rooms, communications equipment, encryption suites, network operations center.
+- **Satellite and Orbital Operations Dome.** Space Force personnel manage tracking, deconfliction, satellite control, and orbital coordination.
 
-## Personnel and Command Structure
+### Stand-alone and restricted domes
+
+- **Munitions and Restricted Materials Domes.** Stand-alone for blast, contamination, and security reasons.
+- **Industrial / Factory Domes.** Drone manufacturing and major repair, separated by hazard class.
+- **Classified Operations Domes.** Exact functions not specified to non-cleared personnel.
+- **Surface Range and Drone Test Field.** Used for rover, drone, and weapons training outside civilian corridors.
+
+### Tunnel network
+
+Internal tunnels connect the main domes. Restricted tunnels reach stand-alone domes for cleared personnel. Civilian Terminus tunnels run nearby but do not directly connect except through controlled checkpoints and emergency interfaces. Military tunnels are wider and cleaner than old civilian service tunnels but less comfortable than civic corridors.
+
+## The flight line
+
+A hardened apron extends from the Drone Operations Dome across the Martian surface. Hundreds of drones and dozens of larger vehicles may be parked, charging, sealed, cleaned, or inspected at any time. Robot crews swarm across the line: dust-management bots, maintenance carts, seal checkers, refuel/recharge units, tire/tread handlers, and inspection crawlers.
+
+The flight line is visually arresting because it is always moving. There are no casual pedestrians. Personnel cross in pressure suits or partial pressure gear through marked lanes, with comms open and safety systems active.
+
+## Outdoor exercise path
+
+A marked path on the Mars surface outside the base perimeter is used for pressure-suit PT runs and conditioning. Painted markings read **"U.S. / USAF"** and include service marks. Running on Mars is awkward and controlled: low gravity changes stride, suits add bulk, boots throw dust, and comm discipline matters. Personnel run in groups or under drone watch.
+
+## Personnel and command structure
 
 ### Command
-- **Base Commander:** A **Colonel, U.S. Space Force.** Wears the Space Force black-and-silver uniform. Reports up the Space Force chain. Has operational authority over Air Force personnel attached to the base for joint operations purposes.
-- **Captain (U.S. Air Force):** TBD character. Direct supervisor for Rich and Jace and other Air Force lieutenants. Reports to the Colonel for joint operations matters and to Air Force chain for service-specific matters.
-- **Lieutenants (U.S. Air Force):** Rich Cullivan, Jace Apollo Grant, others. Operational officers running drone command, comms/IT, and related functions.
-- **Senior Enlisted:** Sergeants and senior NCOs in both branches; the operational backbone of the base.
-- **Junior Enlisted:** Airmen (USAF) and Guardians (USSF), drone operators, technicians, security personnel, cleaning and logistics staff.
 
-### Service Distribution (Approximate)
-- **Air Force:** Drone operations, fixed-wing operations, base IT/comms, much of the day-to-day operational workforce
-- **Space Force:** Satellite operations, orbital traffic management, command leadership at this installation
-- The split is functional, not absolute — joint operations require cross-service collaboration daily.
+- **Base Commander:** Colonel, U.S. Space Force. Wears Space Force black-and-silver uniform in formal settings. Reports up the Space Force chain.
+- **USAF Captain:** TBD character. Direct supervisor for Rich, Jace, and other Air Force lieutenants. Reports to the Colonel for joint operations and Air Force chain for service matters.
+- **Lieutenants, USAF:** Rich Cullivan, Jace Apollo Grant, and others. Run drone command, comms/IT, fixed-wing/atmospheric operations, and related functions.
+- **Senior Enlisted:** Air Force and Space Force NCOs. Operational backbone.
+- **Junior Enlisted:** Airmen and Guardians working drone operations, security, logistics, cleaning, base support, and maintenance.
 
-### Service Rivalry
-There is a real, persistent rivalry between Air Force and Space Force personnel on the base. It manifests as:
-- **Banter and ribbing.** Constant, mostly affectionate. The Space Force "we run space" attitude versus the Air Force "we actually fly things in atmosphere" attitude.
-- **Friction over command.** Air Force personnel sometimes resent that the Colonel is Space Force. Space Force personnel sometimes resent the Air Force-heavy operational workforce.
-- **Cultural difference in tone.** Air Force tends slightly more relaxed and operations-focused. Space Force tends slightly more formal and leadership-focused. (Generalization; many exceptions.)
-- **Visual difference (uniforms).** Air Force wears predominantly **blue** uniforms; Space Force wears predominantly **black and silver.** This is highly visible across the base at all times and is a constant reminder of branch identity.
+### Functional split
 
-This rivalry is friendly at the working level and occasionally sharper at command levels. It is a usable story element — particularly when joint operations require negotiation between branches, or when service loyalty cuts against personal loyalty.
+| Service | Primary roles |
+|---|---|
+| **Air Force** | Drone operations, fixed-wing atmospheric craft, base IT/comms, day-to-day operational workforce |
+| **Space Force** | Satellite operations, orbital traffic management, command leadership, Mars-Earth relay, orbital threat monitoring |
+| **Joint / contractor support** | Logistics, fabrication, vehicle repair, medical, food service, cleaning, base operations |
 
-## Key Activities
+## Service rivalry
 
-- **Drone Operations:** Continuous; the flight line is in constant motion. Surveillance, cargo, surface logistics, atmospheric science, fixed-wing patrols, military readiness sorties.
-- **Robot Operations:** Hundreds of robots maintain the base, the flight line, the outdoor environment. They are everywhere. They are managed primarily by the Air Force drone operations team.
-- **Satellite Operations:** Tracking and control of U.S. satellites in Mars orbit and Mars-Earth relay constellations. Primarily Space Force.
-- **Orbital Traffic Management:** Deconfliction of orbital traffic, coordination with civilian and corporate ferry traffic. Primarily Space Force, with Air Force liaison.
-- **Comms and IT:** Base communications, encrypted military comms, network operations, equipment maintenance. Run primarily by Rich Cullivan in his current role.
+The Air Force / Space Force rivalry is real and persistent. It appears as banter, uniform contrast, jokes about who does "real flying," resentment over command structure, and differences in operational culture. It is mostly friendly at working level and sharper at command level.
 
-## Story Function
+This rivalry is usable when joint operations require negotiation, when service loyalty cuts against personal loyalty, or when a Mars emergency blurs boundaries between air, space, ground, and civic rescue.
 
-- **Workplace setting** for the early arrival arc: tour, drone center, command welcome, daily operations.
-- **Site of Rich's IT authority,** which becomes story-relevant in [[event_rich_comms_favor|Scene — Rich's Comms Favor for Jace]] and possibly later.
-- **Visual establishment** of joint military presence on Mars: the U.S. has a serious, established, permanent installation, not a token outpost.
-- **Latent tension surface:** the service rivalry, the captain TBD, the Colonel's intel-adjacent meetings, all simmer below the surface of "normal base life."
+## Key activities
 
-## Open Questions
+- Continuous drone operations.
+- Surface patrol and rescue support.
+- Robot operations and maintenance.
+- Satellite and relay control.
+- Orbital traffic management.
+- Launch security and restricted-payload oversight.
+- Encrypted comms and network operations.
+- Military logistics and convoy support.
+- Training in pressure environments.
+- Cyber defense and information control.
 
-- **Captain (USAF) name and personality.** Currently TBD.
-- **Specific Colonel name and personality.** Mentioned but not detailed.
-- **Whether the rivalry escalates into a story event** in Book 1 or later.
-- **Specific dome names and informal nicknames** that personnel use day-to-day — ripe for "Made on Mars" worldbuilding flavor.
-- **Whether magic returning produces visible effects on base operations** (anomalies in drone telemetry, comms artifacts) — when and how.
+## Image prompt and scene vignette
 
-## StoryBot Extrapolation Notes
+**Military cantonment near Terminus.** A U.S. military cantonment near Terminus, isolated from civilian hubs by distance, berms, fences, and controlled rail access. Low hardened buildings sit partly buried in regolith. A small vehicle yard holds armored Mars rovers, drone hangars, comms masts, radar dishes, and a secure tunnel entrance. The base is practical, not flashy: dust-stained walls, modular barracks, pressure doors, emergency lights, and marked exclusion zones. Personnel wear tan-gray utility uniforms indoors, with pressure suit components staged near airlocks. Military police and engineering crews share the scene with cargo robots and maintenance drones. In the distance, civilian agricultural domes and a rail line are visible, showing connection but separation.
+
+**Drone flight line.** A dusty Mars flight line outside the Drone Operations Dome. Rows of cargo, surveillance, and atmospheric drones sit on charging pads. Boxy maintenance robots crawl under wings and along rotor hubs. Technicians in partial pressure suits replace filters and check seals. The dome behind them is functional, ribbed, and bermed at the base. No chrome fantasy styling. The equipment looks used, repaired, labeled, and mission-critical.
+
+## Story function
+
+- Workplace setting for early arrival arc: tour, drone center, command welcome, daily operations.
+- Site of Rich's IT authority, which becomes story-relevant in the comms favor thread.
+- Visual establishment that the U.S. has a serious, established, permanent installation on Mars.
+- Latent tension surface: service rivalry, unclear classified operations, command relationships, and proximity to civilian Terminus.
+
+## Open questions
+
+- Captain name and personality.
+- Colonel name and personality.
+- Whether rivalry escalates into a story event in Book 1 or later.
+- Specific dome names and informal base nicknames.
+- How magic returning first appears in telemetry, comms, drones, or orbital operations.
+
+## StoryBot extrapolation notes
 
 CAN invent:
-- Specific dome interiors, signage, smells, ambient sounds
-- Specific personnel (named NCOs, non-recurring airmen/guardians)
-- Specific banter exchanges between branches
-- Specific drone and robot model designations
-- Specific rec area details, mess hall menu items
-- Daily-life routines, shift structures, watch rotations
+
+- Specific dome interiors, signage, smells, ambient sounds.
+- Non-recurring NCOs, airmen, guardians, contractors, and medics.
+- Drone and robot model designations.
+- Daily routines, watch rotations, base banter, mess hall menus.
+- Minor flight-line mishaps, dust cleanup, and routine training details.
+
+SHOULD preserve:
+
+- The base is adjacent to Terminus but isolated from civilian hubs.
+- The base has its own pressure zones, restricted rail, medical clinic, drone field, and command bunker.
+- Air Force and Space Force roles overlap but remain culturally distinct.
+- Base infrastructure looks practical, hardened, dust-stained, and maintained rather than glossy.
 
 SHOULD NOT invent:
-- Named senior officers beyond the established Colonel and TBD Captain
-- Magic-system events (that's a major plot beat)
-- Specific intel operations (Mei/Sylvester storyline)
-- Resolutions to the comms-filtering theme
 
-## Cross-References
-
-- See [[location_terminus|Terminus — Mars City (U.S. 56th State)]] (parent settlement)
-- See [[location_mars_overview|Mars (Inhabited World Overview)]] (parent planet)
-- See [[event_jace_mars_tour_with_rich|Scene — Mars Sponsor Tour with Lt. Rich Cullivan]]
-- See [[event_jace_drone_center_tour|Scene — Jace's Drone Control Center Tour]]
-- See [[event_rich_comms_favor|Scene — Rich's Comms Favor for Jace]]
-- See [[concept_military_address_culture|Military Address Culture — USAF and Space Force on Mars]]
-- See [[char_lt_rich_cullivan|Lieutenant Rich Cullivan]]
-- See [[char_jace_apollo|Jace Apollo Grant]]
-
-## Revision Notes
-
-- 2026-05-02: Initial draft from voice session. Joint USAF/Space Force structure formalized. Service rivalry, uniform colors, command structure established. Outdoor exercise path with U.S./USAF signage planted.
+- Named senior officers beyond established Colonel and TBD Captain.
+- Magic-system events before planned plot beats.
+- Specific classified intel operations.
+- Resolutions to the comms-filtering theme.

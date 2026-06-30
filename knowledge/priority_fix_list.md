@@ -1,3 +1,5 @@
+---
+---
 # Priority List of Things to Fix & Open Questions
 
 This document tracks unresolved story details, technical discrepancies, missing files, and open design questions within **The Aura Chronicles** knowledge base.
