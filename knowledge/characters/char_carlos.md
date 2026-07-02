@@ -10,6 +10,7 @@ cross_references:
   - "[[char_jace_apollo]]"
   - "[[location_fortuna_station]]"
   - "[[arc_01_falcon_and_fortuna]]"
+  - "[[char_erin]]"
 ---
 
 # Carlos

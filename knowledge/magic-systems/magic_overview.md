@@ -9,7 +9,7 @@ last_updated: 2026-05-02
 cross_references:
   - "[[outbreak_timeline]]"
   - "[[magic_manifestations_early]]"
-  - "[[magic-systems]]"
+  - "[[magic_will_implications]]"
 ---
 
 # Magic — Overview and Fundamental Principles

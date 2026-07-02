@@ -129,6 +129,10 @@ related_ships: [ship_victoria]
 related_locations: [location_fortuna_station]
 related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
 last_updated: 2026-06-30
+sheets:
+  - sheet_sophia_arc01_end
+cross_references:
+  - "[[sheet_sophia_arc01_end]]"
 ---
 
 # Dr. Sophia Lotte

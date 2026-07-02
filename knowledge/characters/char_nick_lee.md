@@ -125,6 +125,10 @@ character_arc: gray-market {Aura} provider → recognized infrastructure backbon
 themes_embodied: [the open-source ethic, knowledge as commons, infrastructure as power]
 
 last_updated: 2026-06-30
+sheets:
+  - sheet_nick_arc01_end
+cross_references:
+  - "[[sheet_nick_arc01_end]]"
 ---
 
 # Nick Lee

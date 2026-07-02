@@ -68,6 +68,9 @@ related_characters: [char_maureen, char_jace_apollo]
 related_ships: [ship_falcon]
 related_locations: [location_mars_overview, location_fortuna_station]
 last_updated: 2026-06-17
+cross_references:
+  - "[[char_maureen]]"
+  - "[[char_jace_apollo]]"
 ---
 
 # Saul

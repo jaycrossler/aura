@@ -19,6 +19,9 @@ description: "Character profile for Kai, a Crystal Dragon familiar Will-bonded t
 
 factions: [bonded to char_kael]
 loyalties: [char_kael (primary bond), char_jace_apollo (post-Kael death), char_dog_cerberus (cross-species recognition)]
+cross_references:
+  - "[[char_kael]]"
+  - "[[spec_will_bonded_animals]]"
 ---
 
 # Kai

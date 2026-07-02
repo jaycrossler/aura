@@ -264,6 +264,7 @@ all_cross_refs: set[str] = set()       # stems referenced by any file
 sheet_sequences: dict[str, list[int]] = {}  # subject_id → [seq numbers]
 draft_files:   list[str] = []
 all_md_stems:  set[str] = set()
+non_canonical_stems: set[str] = set()
 
 for path in sorted(ROOT.rglob("*")):
     # Skip the output file itself and hidden dirs
@@ -296,8 +297,12 @@ for path in sorted(ROOT.rglob("*")):
     for ref in xrefs:
         all_cross_refs.add(Path(ref).stem.strip("[]"))
 
+    is_canonical = str(meta.get("canonical", "true")).lower() != "false"
+    if not is_canonical:
+        non_canonical_stems.add(path.stem)
+
     status_val = str(meta.get("status", "")).lower()
-    if status_val in DRAFT_STATUSES:
+    if is_canonical and (status_val in DRAFT_STATUSES):
         draft_files.append(str(rel))
 
     # ── Metrics ───────────────────────────────────────────────────────
@@ -338,8 +343,8 @@ warnings: list[str] = []
 if draft_files:
     warnings.append("### Draft and Staging Files")
     warnings.append(
-        "These files have non-canonical status and should not be "
-        "treated as authoritative:\n"
+        "These files were marked as draft or have non-canonical status and should not be "
+        "treated as finalized:\n"
     )
     for f in sorted(draft_files):
         warnings.append(f"- `{f}`")
@@ -355,6 +360,7 @@ ORPHAN_EXCLUDE_PREFIXES = ("README", "_index", "build_tree",
 orphans = [
     stem for stem in sorted(all_md_stems)
     if stem not in all_cross_refs
+    and stem not in non_canonical_stems
     and not any(stem.startswith(p) for p in ORPHAN_EXCLUDE_PREFIXES)
 ]
 if orphans:

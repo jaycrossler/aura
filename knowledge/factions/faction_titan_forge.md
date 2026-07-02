@@ -13,6 +13,8 @@ description: >
   forward sensor cluster. Ancient macro-engineers whose tools did not look like human
   technology. Respect humans who build; dismiss humans who posture.
 canonical: true
+cross_references:
+  - "[[spec_magic_items_and_artifacts]]"
 ---
 
 # The Titan-Forge Lithoids

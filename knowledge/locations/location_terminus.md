@@ -18,7 +18,6 @@ cross_references:
   - "[[location_mars_fabrication_district]]"
   - "[[location_pangu]]"
   - "[[location_mars_overview]]"
-  - "[[universe-spec]]"
 revision_notes:
   - "2026-05: Initial file. Author-confirmed: dome/tunnel split, farm domes, underground livestock."
   - "2026-06-30: Updated from discussion: Terminus is ~10,000 residents, ~70 years old, U.S.-owned, one of three Mars cities. Added large agriculture/ranching domes, buried storage vaults, remote rail launch system, military cantonment, regional support role, civic inventory, and visual prompt guidance."

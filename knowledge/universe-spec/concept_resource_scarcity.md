@@ -7,6 +7,8 @@ status: established (story present onward)
 canonical: true
 last_updated: 2026-04-30
 era: belt expansion era and beyond
+cross_references:
+  - "[[spec_belt_transport_and_economy]]"
 ---
 
 # Belt Resource Scarcity and Selection Pressure

@@ -1,17 +1,6 @@
-# Cross-Reference Normalization Report — 2026-07-02
-
-Mode: APPLIED
-
-Files scanned: 190
-Files normalized: 67
-Files with broken references: 10
-
-## Files Changed
-
-### `arcs\arc_01_falcon_and_fortuna.md`
-
-| Before | After |
-|---|---|
+---
+last_updated: 2026-07-02
+---|
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |
@@ -41,6 +30,7 @@ Files with broken references: 10
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
+| `"[[char_erin]]"` | `[[char_erin]]` |
 
 ### `characters\char_erin.md`
 
@@ -60,6 +50,57 @@ Files with broken references: 10
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
+### `characters\char_helena.md`
+
+| Before | After |
+|---|---|
+| `"[[sheet_helena_prologue_death]]"` | `[[sheet_helena_prologue_death]]` |
+| `"[[sheet_helena_epilogue_resurrection]]"` | `[[sheet_helena_epilogue_resurrection]]` |
+
+### `characters\char_jace_apollo.md`
+
+| Before | After |
+|---|---|
+| `"[[sheet_jace_arc01_start]]"` | `[[sheet_jace_arc01_start]]` |
+| `"[[sheet_jace_arc01_end]]"` | `[[sheet_jace_arc01_end]]` |
+| `"[[char_dawn_chris_grant]]"` | `[[char_dawn_chris_grant]]` |
+| `"[[char_sister_athena]]"` | `[[char_sister_athena]]` |
+| `"[[char_mr_sylvester]]"` | `[[char_mr_sylvester]]` |
+| `"[[char_hayes]]"` | `[[char_hayes]]` |
+| `"[[char_mira]]"` | `[[char_mira]]` |
+| `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_mei]]"` | `[[char_mei]]` |
+| `"[[char_lt_rich_cullivan]]"` | `[[char_lt_rich_cullivan]]` |
+| `"[[char_smuggler_mars]]"` | `[[char_smuggler_mars]]` |
+
+### `characters\char_jin_luong.md`
+
+| Before | After |
+|---|---|
+| `"[[sheet_jin_arc01_end]]"` | `[[sheet_jin_arc01_end]]` |
+
+### `characters\char_kael.md`
+
+| Before | After |
+|---|---|
+| `"[[char_kai]]"` | `[[char_kai]]` |
+
+### `characters\char_kai.md`
+
+| Before | After |
+|---|---|
+| `"[[char_kael]]"` | `[[char_kael]]` |
+
+### `characters\char_maureen.md`
+
+| Before | After |
+|---|---|
+| `"[[char_saul]]"` | `[[char_saul]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+
 ### `characters\char_mira.md`
 
 | Before | After |
@@ -69,6 +110,25 @@ Files with broken references: 10
 | `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
+
+### `characters\char_nick_lee.md`
+
+| Before | After |
+|---|---|
+| `"[[sheet_nick_arc01_end]]"` | `[[sheet_nick_arc01_end]]` |
+
+### `characters\char_saul.md`
+
+| Before | After |
+|---|---|
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+
+### `characters\char_sophia_lotte.md`
+
+| Before | After |
+|---|---|
+| `"[[sheet_sophia_arc01_end]]"` | `[[sheet_sophia_arc01_end]]` |
 
 ### `locations\location_mars_consumer_district.md`
 
@@ -136,7 +196,7 @@ Files with broken references: 10
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[location_asteroid_belt_overview]]"` | `[[location_asteroid_belt_overview]]` |
 | `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
-| `"[[char_eugene_hart]]"` | `[[char_eugene_hart]]` |
+| `"[[char_eugene]]"` | `[[char_eugene]]` |
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 
 ### `locations\location_odysseus_station.md`
@@ -165,14 +225,13 @@ Files with broken references: 10
 | `"[[location_mars_fabrication_district]]"` | `[[location_mars_fabrication_district]]` |
 | `"[[location_pangu]]"` | `[[location_pangu]]` |
 | `"[[location_mars_overview]]"` | `[[location_mars_overview]]` |
-| `"[[universe-spec]]"` | `[[universe-spec]]` |
 
 ### `locations\location_the_long_burn_bar.md`
 
 | Before | After |
 |---|---|
 | `"[[location_terminus]]"` | `[[location_terminus]]` |
-| `"[[char_the_rat]]"` | `[[char_the_rat]]` |
+| `"[[char_smuggler_mars]]"` | `[[char_smuggler_mars]]` |
 | `"[[event_jace_bar_rumors]]"` | `[[event_jace_bar_rumors]]` |
 
 ### `magic-systems\advancement_ledger.md`
@@ -225,7 +284,7 @@ Files with broken references: 10
 | `"[[magic_overview]]"` | `[[magic_overview]]` |
 | `"[[magic_manifestations_early]]"` | `[[magic_manifestations_early]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-| `"[[improvised_responses]]"` | `[[improvised_responses]]` |
+| `"[[magic_improvised_responses]]"` | `[[magic_improvised_responses]]` |
 
 ### `magic-systems\magic_improvised_responses.md`
 
@@ -252,7 +311,6 @@ Files with broken references: 10
 |---|---|
 | `"[[outbreak_timeline]]"` | `[[outbreak_timeline]]` |
 | `"[[magic_manifestations_early]]"` | `[[magic_manifestations_early]]` |
-| `"[[magic-systems]]"` | `[[magic-systems]]` |
 
 ### `magic-systems\magic_progression_signals_guide.md`
 
@@ -292,8 +350,9 @@ Files with broken references: 10
 | `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_kael]]"` | `[[char_kael]]` |
-| `"[[faction_titans]]"` | `[[faction_titans]]` |
+| `"[[faction_titan_forge]]"` | `[[faction_titan_forge]]` |
 | `"[[magic_skill_level_scale]]"` | `[[magic_skill_level_scale]]` |
+| `"[[advancement_ledger]]"` | `[[advancement_ledger]]` |
 
 ### `magic-systems\magic_technological_adaptation.md`
 
@@ -333,17 +392,17 @@ Files with broken references: 10
 | `"[[book01-ch02-plumbing-crisis]]"` | `[[book01-ch02-plumbing-crisis]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `scenes\event_jace_assembles_smuggling_list.md`
+### `scenes\non-canonical-ideas\event_jace_assembles_smuggling_list.md`
 
 | Before | After |
 |---|---|
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_smuggler_mars]]"` | `[[char_smuggler_mars]]` |
-| `"[[char_artemis_grant]]"` | `[[char_artemis_grant]]` |
+| `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
 | `"[[outbreak_timeline]]"` | `[[outbreak_timeline]]` |
 | `"[[event_jace_bar_rumors]]"` | `[[event_jace_bar_rumors]]` |
 
-### `scenes\event_jace_day2_acclimation.md`
+### `scenes\non-canonical-ideas\event_jace_day2_acclimation.md`
 
 | Before | After |
 |---|---|
@@ -351,7 +410,7 @@ Files with broken references: 10
 | `"[[event_jace_drone_center_tour]]"` | `[[event_jace_drone_center_tour]]` |
 | `"[[scenes_temporal_map]]"` | `[[scenes_temporal_map]]` |
 
-### `scenes\event_jace_dog_breeder_visits.md`
+### `scenes\non-canonical-ideas\event_jace_dog_breeder_visits.md`
 
 | Before | After |
 |---|---|
@@ -361,7 +420,7 @@ Files with broken references: 10
 | `"[[event_jace_origin_negotiation]]"` | `[[event_jace_origin_negotiation]]` |
 | `"[[location_terminus]]"` | `[[location_terminus]]` |
 
-### `scenes\event_jace_drone_center_tour.md`
+### `scenes\non-canonical-ideas\event_jace_drone_center_tour.md`
 
 | Before | After |
 |---|---|
@@ -374,18 +433,17 @@ Files with broken references: 10
 | `"[[concept_mil_ex_implants]]"` | `[[concept_mil_ex_implants]]` |
 | `"[[scenes_temporal_map]]"` | `[[scenes_temporal_map]]` |
 
-### `scenes\event_jace_horse_farm_offer.md`
+### `scenes\non-canonical-ideas\event_jace_horse_farm_offer.md`
 
 | Before | After |
 |---|---|
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_dawn_grant]]"` | `[[char_dawn_grant]]` |
-| `"[[char_chris_grant]]"` | `[[char_chris_grant]]` |
+| `"[[char_dawn_chris_grant]]"` | `[[char_dawn_chris_grant]]` |
 | `"[[char_jelly_grant]]"` | `[[char_jelly_grant]]` |
 | `"[[char_jinx_grant]]"` | `[[char_jinx_grant]]` |
 | `"[[event_jace_origin_negotiation]]"` | `[[event_jace_origin_negotiation]]` |
 
-### `scenes\event_jace_lina_yoga_scene.md`
+### `scenes\non-canonical-ideas\event_jace_lina_yoga_scene.md`
 
 | Before | After |
 |---|---|
@@ -394,7 +452,7 @@ Files with broken references: 10
 | `"[[magic_manifestations_early]]"` | `[[magic_manifestations_early]]` |
 | `"[[magic_overview]]"` | `[[magic_overview]]` |
 
-### `scenes\event_rich_comms_favor.md`
+### `scenes\non-canonical-ideas\event_rich_comms_favor.md`
 
 | Before | After |
 |---|---|
@@ -502,6 +560,12 @@ Files with broken references: 10
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[location_mars_us_afspace_force_base]]"` | `[[location_mars_us_afspace_force_base]]` |
 
+### `universe-spec\concept_resource_scarcity.md`
+
+| Before | After |
+|---|---|
+| `"[[spec_belt_transport_and_economy]]"` | `[[spec_belt_transport_and_economy]]` |
+
 ### `universe-spec\cosmology.md`
 
 | Before | After |
@@ -535,6 +599,12 @@ Files with broken references: 10
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_kael]]"` | `[[char_kael]]` |
+
+### `universe-spec\spec_belt_transport_and_economy.md`
+
+| Before | After |
+|---|---|
+| `"[[concept_resource_scarcity]]"` | `[[concept_resource_scarcity]]` |
 
 ### `universe-spec\spec_cognitive_layer.md`
 
@@ -653,13 +723,4 @@ Files with broken references: 10
 
 These stems don't match any filename in the repo. Do NOT guess the intended target — resolve manually or flag to review-queue.
 
-- `locations\location_metis_station.md` → missing: `char_eugene_hart`
 - `locations\location_odysseus_station.md` → missing: `faction_china_belt_operations`
-- `locations\location_terminus.md` → missing: `universe-spec`
-- `locations\location_the_long_burn_bar.md` → missing: `char_the_rat`
-- `magic-systems\magic_cryptids_silicon.md` → missing: `improvised_responses`
-- `magic-systems\magic_overview.md` → missing: `magic-systems`
-- `magic-systems\magic_skills_framework.md` → missing: `faction_titans`
-- `scenes\event_jace_assembles_smuggling_list.md` → missing: `char_artemis_grant`
-- `scenes\event_jace_horse_farm_offer.md` → missing: `char_dawn_grant`, `char_chris_grant`
-- `sheets\system_character_sheets_skill_format.md` → missing: `system_character_sheets`

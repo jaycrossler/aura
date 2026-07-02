@@ -61,6 +61,9 @@ related_characters: [char_saul, char_jace_apollo, char_mei, char_siren]
 related_ships: [ship_falcon]
 related_locations: [location_fortuna_station]
 last_updated: 2026-06-17
+cross_references:
+  - "[[char_saul]]"
+  - "[[char_jace_apollo]]"
 ---
 
 # Maureen

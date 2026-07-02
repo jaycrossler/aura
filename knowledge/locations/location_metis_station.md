@@ -7,12 +7,12 @@ canonical: true
 last_updated: 2026-06-30
 related_characters:
   - char_sister_artemis
-  - char_eugene_hart
+  - char_eugene
 cross_references:
   - "[[location_fortuna_station]]"
   - "[[location_asteroid_belt_overview]]"
   - "[[char_sister_artemis]]"
-  - "[[char_eugene_hart]]"
+  - "[[char_eugene]]"
   - "[[arc_02_woven_and_unbound]]"
 description: >
   Shipyard station anchored to asteroid 9 Metis. Run by Dr. Eugene Hart.
@@ -216,7 +216,7 @@ SHOULD NOT invent:
 ## Cross-References
 
 - [[char_sister_artemis]]
-- [[char_eugene_hart]]
+- [[char_eugene]]
 - [[location_fortuna_station]]
 - [[location_asteroid_belt_overview]]
 - [[arc_02_woven_and_unbound]]

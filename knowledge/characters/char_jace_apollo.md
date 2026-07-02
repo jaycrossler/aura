@@ -45,6 +45,24 @@ archetypes: [reluctant frontiersman, fish out of water, naive idealist, eventual
 character_arc: identity-loss-and-rebuilding; rationalist confronts mystery; needs-to-be-needed boy learns who he actually is
 themes_embodied: [stripped identity, frontier reinvention, the rigid mind learning to bend, attractiveness as a thing he doesn't wield]
 last_updated: 2026-06-17
+sheets:
+  - sheet_jace_arc01_start
+  - sheet_jace_arc01_end
+cross_references:
+  - "[[sheet_jace_arc01_start]]"
+  - "[[sheet_jace_arc01_end]]"
+  - "[[char_dawn_chris_grant]]"
+  - "[[char_sister_athena]]"
+  - "[[char_mr_sylvester]]"
+  - "[[char_hayes]]"
+  - "[[char_mira]]"
+  - "[[char_sister_artemis]]"
+  - "[[char_cerberus]]"
+  - "[[char_nick_lee]]"
+  - "[[char_sophia_lotte]]"
+  - "[[char_mei]]"
+  - "[[char_lt_rich_cullivan]]"
+  - "[[char_smuggler_mars]]"
 ---
 
 # Jace Apollo Grant

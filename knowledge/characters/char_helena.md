@@ -33,6 +33,12 @@ related_locations: [location_fortuna_station]
 related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_threat_escalation]
 related_events: [event_helena_disappearance, event_helena_prologue, event_helena_epilogue]
 related_sheets: [sheet_helena_prologue_death, sheet_helena_epilogue_resurrection]
+sheets:
+  - sheet_helena_prologue_death
+  - sheet_helena_epilogue_resurrection
+cross_references:
+  - "[[sheet_helena_prologue_death]]"
+  - "[[sheet_helena_epilogue_resurrection]]"
 ---
 
 # Helena

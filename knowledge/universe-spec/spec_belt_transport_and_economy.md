@@ -5,6 +5,8 @@ name: Frontier Belt Transport System and Economy
 type: universe_spec
 canonical: true
 last_updated: 2026-06-16
+cross_references:
+  - "[[concept_resource_scarcity]]"
 ---
 
 # {Aura} Chronicles — Frontier Belt Transport System and Economy

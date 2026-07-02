@@ -149,8 +149,9 @@ def main():
     args = ap.parse_args()
     write_mode = not (args.dry_run or args.report_only)
 
-    md_files = [p for p in sorted(ROOT.rglob("*.md")) if not should_skip(p.relative_to(ROOT))]
-    all_stems = {p.stem for p in md_files}
+    all_md_files = sorted(ROOT.rglob("*.md"))
+    all_stems = {p.stem for p in all_md_files}
+    md_files = [p for p in all_md_files if not should_skip(p.relative_to(ROOT))]
 
     changed_files = []
     broken_report = []

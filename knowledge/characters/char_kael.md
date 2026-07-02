@@ -23,6 +23,9 @@ loyalties: [her civilization (increasingly conflicted), Kai (her familiar), even
 allies: [char_jace_apollo, char_sophia_lotte, char_sister_artemis]
 companions: [char_kai]
 animal_bonds: [char_kai (lifelong bond), char_dog_cerberus (bond-adjacent through Kai)]
+cross_references:
+  - "[[char_kai]]"
+  - "[[spec_magic_items_and_artifacts]]"
 ---
 
 # Kael

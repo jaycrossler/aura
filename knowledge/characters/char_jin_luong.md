@@ -128,6 +128,10 @@ post_liberation: Same clarity; the ceiling is gone
 when_angry: Quieter, not louder; more precise; the danger is in the reduction
 
 last_updated: 2026-06-30
+sheets:
+  - sheet_jin_arc01_end
+cross_references:
+  - "[[sheet_jin_arc01_end]]"
 ---
 
 # Jin Lóng

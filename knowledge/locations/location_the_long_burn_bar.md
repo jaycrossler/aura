@@ -8,7 +8,7 @@ status: draft
 storybot_extrapolation_allowed: true
 cross_references:
   - "[[location_terminus]]"
-  - "[[char_the_rat]]"
+  - "[[char_smuggler_mars]]"
   - "[[event_jace_bar_rumors]]"
 revision_notes:
   - "2026-05: Initial file. Placed in Terminus underground tunnels, Level 1-2 old commercial area."

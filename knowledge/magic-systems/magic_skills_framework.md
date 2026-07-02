@@ -13,8 +13,9 @@ cross_references:
   - "[[spec_dimensional_travel_mechanics]]"
   - "[[char_jace_apollo]]"
   - "[[char_kael]]"
-  - "[[faction_titans]]"
+  - "[[faction_titan_forge]]"
   - "[[magic_skill_level_scale]]"
+  - "[[advancement_ledger]]"
 ---
 
 # Skills Framework — [Skill] System, Trees, and Progression

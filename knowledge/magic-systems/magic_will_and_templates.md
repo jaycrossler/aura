@@ -7,6 +7,8 @@ status: foundational
 canonical: true
 last_updated: 2026-05-31
 parent_system: magic_never_never
+cross_references:
+  - "[[magic_will_implications]]"
 ---
 
 # Will and Templates

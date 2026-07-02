@@ -48,6 +48,8 @@ related_locations: [location_mars_us_settlement, ship_falcon (arrived separately
 related_characters: [char_jace_apollo, char_cerberus]
 related_events: [event_first_dogs_to_belt]
 last_updated: 2026-06-03
+cross_references:
+  - "[[spec_will_bonded_animals]]"
 ---
 
 # Siren — The Station's Dog

@@ -13,7 +13,7 @@ cross_references:
   - "[[magic_overview]]"
   - "[[magic_manifestations_early]]"
   - "[[location_fortuna_station]]"
-  - "[[improvised_responses]]"
+  - "[[magic_improvised_responses]]"
 ---
 
 # Silicon Manifestations — The Glass-Infestation Class

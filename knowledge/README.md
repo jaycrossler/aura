@@ -6,6 +6,9 @@ status: canonical
 description: >
   Main repository documentation and directory list for the {Aura} Chronicles project knowledge base.
 last_updated: 2026-06-26
+cross_references:
+  - "[[MASTER-SYNOPSIS]]"
+  - "[[VISUAL_PROFILE_SYSTEM_INSTRUCTIONS]]"
 ---
 # StoryOps — The {Aura} Chronicles
 
