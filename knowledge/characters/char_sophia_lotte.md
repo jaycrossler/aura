@@ -8,10 +8,12 @@ aliases:
 species: human
 gender: female
 pronouns: she/her
-nationality: German
-date_of_birth: ~2068 (approximately mid-30s at story start — confirm)
+nationality: German / Alsatian (Colmar-born; German citizenship; French cultural heritage)
+date_of_birth: ~2072 (30 at Arc 1 start)
 date_of_death: alive
-birthplace: TBD, Germany
+birthplace: Colmar, Alsace (French territory at time of birth; the region alternates
+  between French and German sovereignty every few decades; she notes this with dry amusement)
+childhood: Raised in Strasbourg; parents were diplomats stationed there
 
 # Status
 status: alive
@@ -29,7 +31,6 @@ loyalties: [science, knowledge, the Astral itself, her crew]
 crewmates: [char_victoria_physicist_french (TBD name), char_victoria_physicist_greek (TBD name)]
 first_contact_astral: char_jace_apollo (finds him and Cerberus in Fortuna mess hall during their first crossing)
 companions_astral: [char_jace_apollo, char_dog_cerberus]
-notable_relationships: TBD
 
 # Capabilities
 magic_user: true — first deliberate human crosser in three thousand years
@@ -37,167 +38,192 @@ magical_tradition: none — entirely self-developed from first principles as a p
 notable_skills:
   - Dimensional physics (self-developed empirical framework)
   - Astral survival and navigation
-  - Scientific observation and documentation
+  - Scientific observation and documentation (Arc 1 ends with 17+ filled paper notebooks)
   - Improvised equipment engineering
   - Extraordinary personal courage and discipline
 
-languages_spoken: [German (native), English (fluent), French (working — crewmates), likely others]
+languages_spoken: [German (native), French (native — Alsatian upbringing), English (fluent), Alsatian dialect]
+code_switching: French for emotion and warmth; German for precision; English as neutral baseline;
+  "Hopla" (Alsatian) as verbal tic meaning "Let's go" / "Okay" / "Sorry"
 
 # Physical
-appearance_summary: Mid-30s, thin from weeks of disrupted sleep and overwork. A month of Astral crossings has left visible marks — the particular gauntness of someone burning more than they recover. But her eyes are intensely alive. She is not broken. She is a person who has been having experiences that no other human has had, carrying them entirely alone — the loneliness is real, and so is the delight.
-distinguishing_features: Moves with the careful deliberateness of someone conserving energy. Lights up completely when the subject is physics.
+height: 5'2" (~157cm)
+build: Slight; slightly overweight; not athletic or muscular
+skin_tone: Very pale white; never tans
+hair: Long messy brown; usually in a quick bun with strands escaping
+eyes: Blue
+appearance_summary: >
+  Short (5'2"), pale, slightly chaotic — the specific chaos of someone whose mind is
+  outpacing her surroundings. Colourful clothing (pastels, reds, florals). Always
+  a slightly-askew scarf from her rotating collection. Delicate expressive face that
+  looks French. Very animated when talking physics. Loses things constantly;
+  never loses her pen.
+distinguishing_features: >
+  The fountain pen — a quality pen with a nib modified to work on tablet and paper;
+  always in a pocket; always being lost and returned. The paper notebook she uses
+  in the Astral because she cannot pull her tablet across. The scarf always slightly
+  askew. The habit of trailing off mid-sentence to write something down, then
+  continuing ten minutes later.
+
+# Personality
+money: Very rich. Very cheap. Will walk to the other side of the station to save
+  1 token. Does not connect these two facts.
+christmas: Loves decorating the Victoria for Christmas; decorations appear as early
+  as she can justify them.
+cheese: Extremely excited about the new station cheeses being developed from the
+  livestock; brings this up at somewhat unrelated moments.
+room_preference: Constantly complains she wants to move her room to the higher deck
+  because the air is fresher up there.
+absent_mindedness: Loses everything except her pen and her notebooks. Notebooks are
+  backed up across multiple servers. Data is never lost.
+
+# The Fountain Pen
+description: A quality pen whose nib was modified to work on tablet surfaces
+function: Used for journal writing, tablet annotation, Astral notebook diagrams,
+  underlining things she wants to say out loud
+loss_frequency: Often — Jace frequently returns it to her after finding it in the Astral
+without_it: Audibly unhappy; types more aggressively; slightly clipped
+
+# Victoria Cabin
+layout: One of three tiny cabins on a three-physicist ship
+organisation: Very organised despite appearing chaotic
+walls:
+  - Large woodcut-style map of Colmar (birthplace)
+  - Large woodcut-style stork print (Alsace's symbol)
+  - Christmas tree image (up most of the year)
+  - Scarves hanging on every available hook
+storage: A shelf of paper journals; a closet of colourful clothes carefully stored
+character: Warm and distinctly hers; not much accumulated stuff but colourful and personal
 
 # Story Function
 archetypes: [the first discoverer, the lone pioneer, the scientist as explorer]
 character_arc: solitary discoverer → first teacher → central figure in developing human Astral practice
 themes_embodied: [the scientist's approach to the unknown, the cost of being first, knowledge acquired at personal risk]
-last_updated: 2026-06-03
+publications_arc1_end: ~20 papers; they become the foundation of humanity's scientific
+  understanding of the Astral
+
+# Trauma Aftermath (Arc 1 end)
+traumas_sealed: 3
+visible_aftermath:
+  - Flinches at sudden loud noises
+  - Always carries an extra rebreather; does not discuss why
+
+# Astral Notes
+crossing_suit: Jace-built leather suit; became obsessive about wearing it after first
+  near-catastrophe; forgets it sometimes at Arc 1 start; never at Arc 1 end
+post_crossing_ritual: Wraps in blanket with Glühwein (spiced mulled wine) and writes
+  frantic notes in her journal
+astral_signature: Natural greens tinged with blues; organic branching "pruned garden"
+  structure; slow considered continuous movement; among the calmest human signatures
+  in the Astral; Kael reads it as remarkable for an untrained practitioner
+
+# Kael Language Note
+kael_greek_observation: Sophia notices that Kael's vocabulary maps onto classical Greek terms
+  (dynamis for force/Will, typos for Template, logos for the Cognitive Layer). She can
+  understand about one word in three. She writes this in notebook 41. She has a theory
+  she is not ready to state, but starts a paper on it just in case.
+
+# Cross-References
+related_characters: [char_jace_apollo, char_dog_cerberus, char_kael]
+related_ships: [ship_victoria]
+related_locations: [location_fortuna_station]
+related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
+last_updated: 2026-06-30
 ---
 
 # Dr. Sophia Lotte
 
 ## Summary
 
-Sophia Lotte is a German physicist aboard the ESA research vessel *Victoria*, docked at Fortuna Station in the asteroid belt. She became, without intending to and without anyone else knowing, the first human being to deliberately cross into the Astral in three thousand years.
+Sophia Lotte is a German physicist aboard the ESA research vessel *Victoria*, docked
+at Fortuna Station in the asteroid belt. She became, without intending to and without
+anyone else knowing, the first human being to deliberately cross into the Astral in
+three thousand years.
 
-She named it the Never-Never — after Baba Yaga's domain in Slavic folklore, not Peter Pan. She has been returning for over a month, alone, exhausting herself crossing every few nights. She is the most important scientist in human history. Nobody knows.
+Born in Colmar, Alsace and raised in Strasbourg by diplomat parents, she is the product
+of French expressiveness and German precision in equal measure — warm and spicy with
+friends, cold and aloof with strangers, and always mid-thought. She codes-witches between
+French (for emotion), German (for precision), and English (as neutral ground), with the
+Alsatian "Hopla" appearing at the end of sentences when she is excited or flustered.
 
-## Background
+She is 5'2", pale white, slightly built, and slightly overweight. Her brown hair is
+usually in a quick bun that never fully holds. She dresses colourfully — pastels and
+florals — and always has a scarf slightly askew. She loses things constantly. She never
+loses her fountain pen for long (Jace frequently returns it; she left it in the Astral again).
 
-Sophia is one of three physicists posted to the *Victoria* by the European Space Agency to study asteroid compositions and the anomalous flux phenomena accumulating in the outer belt. Her speciality is high-energy particle physics — specifically the exotic radiation signatures associated with the Vela Junior supernova remnant. She was trying to understand why the flux produces the anomalies it does: equipment interference, strange biological effects on fauna, sensor readings that don't fit any existing physical model.
+## The Victoria
 
-She wasn't looking for the Astral. She was doing physics.
+The *Victoria* carries three physicists — Sophia and two colleagues (French and Greek,
+names TBD). It has maintained a regular docking berth at Fortuna Station. The *Victoria*'s
+research mission was meant to take them to Odysseus Station to study Jupiter's magnetic
+fields; when Odysseus went silent, the mission pivoted to crystal growth in vacuum.
 
-Her two crewmates — a French physicist and a Greek physicist (names TBD) — are equally credentialed but have not been affected by the flux in the same way. The *Victoria* docks at Fortuna Station regularly for supplies, maintenance, and data exchange. Sophia has been a familiar face at the station for months — known for attending yoga classes, sociable, reliably present in the common areas.
+Sophia's crewmates know something has changed about her over the past month. They give
+her space. They do not know what she is doing.
 
-That was before the crossing.
+## The Astral Discovery
 
-## The First Crossing
+Sophia crossed into the Astral by accident while trying to explain instrument readings
+that current physics couldn't account for. She was alone for a month before Jace and
+Cerberus found her. She had been keeping meticulous paper notebooks — she cannot pull
+her tablet across the dimensional membrane.
 
-An accident.
+She will publish approximately 20 papers by Arc 1 end. They become the foundation of
+humanity's scientific understanding of the Astral.
 
-Sophia was running high-flux measurements when a brief event partially bridged the physical and Astral spaces in her immediate vicinity. She saw through the membrane. She made the mistake of reaching toward what she saw.
+## Characteristic Behaviours
 
-She survived by approximately three seconds. Her respirator was on the shelf above her workspace. She had exactly enough time to grab it and pull it through with her before the crossing completed — the first tear-pull performed by any human in three thousand years, entirely instinctive, entirely without understanding what she'd done.
+**Dictating:** Paces constantly; gestures energetically with both hands (Jace has
+learned to step back); switches languages when excited; trails off mid-sentence to
+write something down, then continues ten minutes later.
 
-She landed in the dark. In the dead landscape. With a respirator she had yanked through at the cost of what felt like pulling her arm out of its socket. She had thirty seconds of held breath before she got the mask on.
+**Observation mode:** Hunches forward, stops blinking, murmurs in French under her
+breath, draws in her notebook. Ignores interruptions. Will continue a sentence
+after a very long pause.
 
-She stayed for eleven minutes before finding her way back. She sat for three hours staring at nothing. She wrote six pages of notes. She did not go back the next night — she was frightened. She went back two nights later.
+**The height dynamic:** Does not notice or care that Jace is 6'1". He has unconsciously
+adopted a slight crouch when talking to her. She gestures vigorously enough that he
+has learned to lean back.
 
-## Crossing Pattern — Sustainable but Barely
+**Post-crossing cold ritual:** Blanket, *Glühwein*, frantic notes. This is her most
+reliable recovery pattern and her most personal one.
 
-Sophia does not cross every night. The effort is too costly. Her pattern:
+**Money:** Will walk the long way to save one token. Rich. Cheap. Does not examine this.
 
-- **First crossing:** Accidental, 11 minutes, terrifying. Does not go back immediately.
-- **Second crossing (2-3 nights later):** Deliberate, ~35 minutes, exhausting. Returns with data.
-- **Ongoing rhythm:** Every 2-3 nights when her Will has partially recovered.
+**Christmas:** Decorates the *Victoria* as early as possible. Enthusiastic.
 
-Each crossing costs her significantly. She is accumulating a slow Will-debt she isn't fully recovering between sessions. The toll is visible. She has been skipping duties on the *Victoria* and her routine visits to Fortuna Station. She used to attend yoga classes. She used to eat at the common tables. People notice she isn't there. Her crewmates are worried — she deflects their concerns, citing the research, telling them she's fine. They give her space.
+**Cheese:** Brings up the new station cheese programme at unrelated moments.
 
-She is not fine. She is also not stopping.
+## The Kael Greek Observation
 
-## What She Has Built — Over a Month, Alone
-
-- A reliable crossing routine (~35 minutes with her current kit, improving)
-- A small supply cache on the Astral side: sealed food, water in containers, a laptop (four separate exhausting sessions to pull through), a dedicated {Aura} AI device (multiple sessions), measurement equipment
-- **Seventeen physical notebooks** of observations
-- A working empirical framework for the physics of the Astral
-- No idea anyone else has crossed
-- Complete scientific isolation — she has told no one, because she has no framework for how to tell anyone
-
-At the point Jace and Cerberus arrive, Sophia has been alone in the dark for over a month. She has been the only human being in the Astral since the Scar formed. She has been doing science in that condition because she doesn't know how to stop. The loneliness of it is enormous. She has not let herself feel it because there was no one to feel it with.
-
-## The Meeting — Fortuna Mess Hall
-
-Jace and Cerberus survive their first crossing — Cerberus pulling the mask through, the two of them sharing it until Jace pulls a second — and then, rather than immediately panicking back, begin to explore. Jace is an engineer. He looks around. The walls are semi-transparent. He can see into adjacent rooms, out into space. Cerberus, calmer than he is and following familiar smells, leads them through the corridors of the station's Astral layer toward the mess hall.
-
-Sophia is there.
-
-She is exhausted, focused on a micro-pull — trying to draw some food through from the kitchen without committing to a full crossing prep session. She is hungry and running on fumes and not paying attention to her surroundings. She does not notice them.
-
-Cerberus barks.
-
-Sophia startles badly — spinning, heart going, and then:
-
-*Someone else.*
-
-For Jace: he is not hallucinating. Another person exists in whatever this is.
-
-For Sophia: the most profound relief she has felt since her first crossing. She is not imagining this. She is not alone. She is not crazy.
-
-There are no insects in the immediate area — the station's Astral layer near Fortuna is not yet heavily infested, and the interior of the station structure provides some natural shelter. Jace and Cerberus have been wandering for hours before they find her. They are cold, disoriented, and deeply relieved to find another human being.
-
-Sophia's introduction is direct:
-
-*"You need to follow me. I have supplies and I know where we are. How long have you been here?"*
-
-She has a spare thermal layer. She was not expecting to need it. She is a physicist. She plans for contingencies.
-
-## Sophia's Scientific Framework
-
-Sophia approaches the Astral entirely as a physicist confronting new physical laws:
-
-- **Dimensional geometry** — she has worked out the dist² compression relationship empirically from timing traversals and triangulating against known stellar positions. Her numbers are right; she doesn't have the terminology yet.
-- **The missing dimension** — extensive notes on perceiving 4D space. Her physics background gives her better tools to tolerate what she cannot resolve.
-- **Will as a physical force** — she documents "luminosity gradients," the brightness differentials she navigates by. She doesn't yet know she is mapping Will.
-- **The fauna** — catalogued, observed, documented. She calls the dimensional insects "motes" in her notes.
-- **The algae** — scraping samples, documenting growth patterns. Suspects something she's doing is affecting them. Hasn't identified the variable yet.
-
-## The Baba Yaga Name
-
-Sophia named the Astral "the Never-Never" on her first night back, in her notebook, in German.
-
-The reference is not to J.M. Barrie. It is to a Russian expression — *za tridevyat' zemel'*, "beyond the thrice-nine lands" — and to the space beyond the deep forest where Baba Yaga lives: the place you go when you need dangerous knowledge, knowing it will cost you something. You go there because nowhere else has what you need.
-
-She went there knowing it would cost her something. She went back because nowhere else has what she needs.
-
-When Jace later adopts the term and splits it into "the Astral" and "Hyperspace," she accepts the new nomenclature practically — more precise, easier to communicate — while privately keeping the original name in her own notes.
-
-## The Partnership
-
-Sophia and Jace are complementary:
-
-- Sophia wants to understand the rules. Jace wants to build with them.
-- Sophia documents everything. Jace tests everything.
-- Her month of observation gives his experiments direction. His engineering instinct finds applications she wouldn't have prioritized.
-- She is cautious but not timid. She has been alone in the dark for a month. She is not easily frightened anymore.
-
-She is also, for the first time, not alone. That matters more than she expected.
-
-## Meeting Kael at end of Arc 1
-
-Sophia first sees Kael when she tears Kael's Mind Web (Force Application, improvised); post-swarm immediate publication; "just one more experiment" pattern (L-08 context). Kael is impressed and sees that Sophia has assembled many low-level force powers.  Instead of being angry, she will spend time teaching Sophia better control techniques.  Sophia turns this into a series of papers.
-
-One detail from Kael's first interactions with Sophia: when Kael uses her own
-vocabulary for dimensional phenomena, her terms map more cleanly onto Greek-rooted
-words than any other Sol language. She uses a word for the Force tree that sounds
-like a variant of *dynamis* (power, force, potential). She uses a word for Template
-that sounds like *typos* (imprint, pattern). She uses a word for the Cognitive Layer
-that sounds like *logos* (the organizing principle, reason, pattern of meaning).
-
-Sophia, who reads classical Greek, notices this and does not say anything yet.  She can only understand one word in 3. 
-She writes it in notebook forty-one. She has a theory she is not ready to state, but starts a paper on it just in case.
-
+In notebook 41, Sophia writes down that Kael's vocabulary maps onto classical Greek terms:
+*dynamis* for Will/force/potential, *typos* for Template/imprint, *logos* for the Cognitive
+Layer/organizing principle. She can only understand about one word in three of Kael's Greek,
+but the structural similarity is unmistakable. She starts a paper on it just in case. She
+does not state her theory out loud.
 
 ## Open Questions
 
-- Names of French and Greek crewmates aboard the *Victoria*
+- Names and backgrounds of the French and Greek crewmates aboard the *Victoria*
 - Whether her crewmates eventually learn about the Astral — and when
-- The seventeen notebooks' most significant findings that Jace learns from her
-- Whether any latent magical tradition influences her approach unknowingly
-- Her reaction when the galactic context (Will-Networks, returning gods) eventually becomes known
+- Specific cheese she becomes obsessed with once the livestock programme matures
+- Her reaction when the galactic context eventually becomes known
 
 ## Cross-References
 
 - See [[ship_victoria]] for her home vessel and ESA affiliation
 - See [[location_fortuna_station]] for the station she docks at
-- See [[spec_crossing_mechanics]] for the mechanics she pioneered
-- See [[spec_astral_phenomenology]] for the physical properties she documented
-- See [[char_jace_apollo]] for the meeting and subsequent partnership
+- See [[char_jace_apollo]] for the partnership
 - See [[char_cerberus]] for Cerberus's role in the first meeting
-- See [[magic_returning_arts]] for how her framework intersects with rediscovered tradition
+- See [[spec_astral_glow_and_signatures]] for her Astral signature details
+- See [[visual_profiles/visual_profile_sophia_lotte]] for image generation reference
 
 ## Revision Notes
 
-- 2026-05-31: New file. First crossing, background, scientific framework, the Baba Yaga name, meeting with Jace and Cerberus.
-- 2026-06-03: Major update. Affiliation updated to ESA, ship to *Victoria*, crewmates noted as French and Greek (names TBD), station updated to Fortuna dock (not resident). Crossing pattern corrected: every 2-3 nights, not nightly. Meeting scene corrected: Jace and Cerberus find Sophia in the mess hall hours after their crossing — no insects present, Cerberus barks and startles her. Removed incorrect claim that Sophia finds them within seconds. Removed spare mask / insect-warning framing. Added exhaustion/drain arc, partnership dynamic detail.
+- 2026-05-31: New file. First crossing, background, scientific framework, meeting with Jace.
+- 2026-06-03: Major update. ESA affiliation, Victoria, Fortuna dock. Crossing pattern corrected.
+- 2026-06-30: Major physical and biographical update. Age corrected to 30 (from ~mid-30s).
+  Birthplace confirmed: Colmar, Alsace; raised Strasbourg. Height, build, skin/eye colour
+  all confirmed. Fountain pen, scarf collection, dictation habits, observation mode, height
+  dynamic, Glühwein ritual, money habits, Christmas enthusiasm, cheese excitement, Victoria
+  cabin description all added. Trauma aftermath (flinch, extra rebreather) added.

@@ -6,7 +6,7 @@ aliases: ["Apollo", "LT" (former), "Dog Man" (post-discharge), "Barnyard" (and v
 species: human
 gender: male
 pronouns: he/him
-date_of_birth: ~2076 (placeholder)
+date_of_birth: ~2101 (27 at Arc 1 start — confirmed)
 date_of_death: alive
 birthplace: location_virginia
 
@@ -37,7 +37,7 @@ notable_skills: [drone command and control, military tactics, basic engineering,
 languages_spoken: [English (native), Mandarin (basic, military-trained), Spanish (conversational)]
 
 # Physical
-appearance_summary: Late twenties, tall (~6'0" / 183cm), white, lean military build with broad shoulders. Short blond hair. Conventionally handsome in a clean-cut way he doesn't register himself as. Recent surgical scarring at temple from cybernetic implant. Through the hard months his frame thins visibly.
+appearance_summary: appearance_summary: 27, 6'1" (not 6'0"), caucasian white (Virginia-born), muscular at 180 lbs, hazel eyes, number-3/2 military short blond haircut, no visible HUD hardware. Conventionally handsome in a clean-cut way he doesn't register himself as. Recent surgical scarring at temple from cybernetic implant. Through the hard months of Arc 1 his frame thins visibly.
 distinguishing_features: First-generation cybernetic HUD implant (visible scar at temple), Air Force pilot's posture even out of uniform, the kind of looks he doesn't realize he has.
 
 # Story Function

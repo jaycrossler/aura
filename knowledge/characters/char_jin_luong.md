@@ -1,118 +1,222 @@
 ---
-description: "Character profile for Jin Luong, head mining supervisor of the Chinese detachment on Fortuna Station."
+description: "Character profile for Jin Lóng, head mining supervisor of the Chinese detachment on Fortuna Station."
 id: char_jin_luong
-name: Jin Luong
-aliases: ["Supervisor Luong", "Jin"]
+name: Jin Lóng
+aliases: ["Supervisor Lóng", "Jin", "their Dragon" (crew's private name for him)]
 species: human
 gender: male
 pronouns: he/him
+nationality: Chinese
+date_of_birth: ~2060 (mid-40s at Arc 1 start; reads younger due to fitness)
+date_of_death: alive
+birthplace: China (TBD — specific province or city)
+
+# Status
 status: alive
 first_appearance: Book 1 (Fortuna Station, pre-swarm)
 last_appearance: ongoing
 pov_character: false
 factions: [faction_chinese_state_mining, faction_belter_stations]
-loyalties: [his crew, Fortuna Station (post-swarm)]
+loyalties: [his crew (primary), Fortuna Station (post-swarm)]
 magic_user: true (developing practitioner)
-magic_systems: [will_vectors]
-notable_skills: [mining operations, leadership, combat (developed during swarm), Will-based thermal manipulation]
+
+# Physical
+height: 5'10" (~178cm)
+build: Very tightly muscled; compact and powerful; reads younger than mid-40s due to fitness
+skin_tone: Deep bronze tan — much time in the sun, less protected
+hair: Black; very short, almost a buzz cut
+eyes: Black
+scar: Right cheek; crosses the corner of his mouth; from mandatory military training when young;
+  makes him look permanently like he is smirking or angry
+hands: Rough, calloused; constant small burn marks; no arm hair (burned off from fire use);
+  barely notices the burns anymore
+back: Periodic lower back pain; twists left and right to work on it; very flexible otherwise
+belt_axe: Always carries a miner's belt axe on his belt; keeps one hand on it when entering
+  new spaces; claims it is required gear for all Chinese miners
+
+appearance_summary: >
+  Mid-40s Chinese man, 5'10", very tightly muscled with deep bronze tan skin. Black buzz-cut.
+  Prominent scar on right cheek crossing the corner of his mouth, giving him a permanent
+  smirk/anger expression. Rough calloused hands with small burn marks, no arm hair.
+  Always looks like he is about to say something cutting, or permanently angry.
+  Always has a belt axe. Always scanning the room.
+
+# Story Function
+archetypes: [the false villain, the protector, the trapped man, the dragon]
+character_arc: coercively suppressed supervisor → liberated practitioner → trusted ally
+themes_embodied: [loyalty under coercion, fire as liberation, the cost of surveillance]
+
+# The Surveillance Habit
+entering_a_room: Notes every person present; peers into all shadows; one hand on belt axe
+positioning: Stands with co-workers behind him; always knows where exits are
+under_seek: Reads as paranoid; high-frequency scanning; suppressed energy in every movement
+post_liberation: Same habit, lower temperature; professional watchfulness rather than hunted vigilance
+
+# The Fire Kata
+description: >
+  Jin's [Fire Shaping] emerged from a martial arts movement vocabulary. When producing fire,
+  his gestures mirror Kung Fu kata — specific hand positions and flowing sequences that his
+  crew also know and practice together.
+mechanics:
+  - Fire starts as a ball floating just above his right hand (not springing from it — hovering above it)
+  - He "pushes" it with his left hand, like flowing water
+  - Wide-stance lunges; extended bending-knee poses; arms wide open and swept forward for strikes
+  - Explosive punches crossing into giant circles
+  - His crew strings moves together in sequences — clearly practiced together
+  - They bow afterward: left hand flat-palm, right hand as fist
+visual_effect: From a distance looks like a martial arts demonstration that happens to be on fire
+
+# The Liberation Moment
+when_seek_shuts_down:
+  - Systems in the Chinese section fail — doors won't open, lights won't turn off
+  - Jin's suit equipment lights go dark
+  - He lets out a long breath
+  - A tear forms in the corner of his eye; he doesn't wipe it
+  - For months {Seek} had been "going crazy" — blaming thermal anomaly evidence on American
+    conspiracies, thinking its video was being deep-faked; when crew complained or disobeyed,
+    it would threaten to cut their air
+  - This is the first breath of genuine freedom
+
+# His Crew
+yao:
+  description: Large, scarred, brutal-quiet; compressed-spring stillness; multiple healed fractures
+    in hands and jaw; acts on threat assessments without waiting for orders
+  fate: Dies saving Mira during the swarm; sees her in the path of the breach and does not hesitate; no speech
+shi_gang:
+  description: Sealed-container stillness; has been with Jin longest; when he speaks everyone stops;
+    callsign among crew translates as "the weight"
+  fate: Survives; publicly famous against his preference
+li_hao:
+  description: Thin, wiry, frenetic; converts sustained fear into perpetual forward motion;
+    talks constantly about everything; the first one to notice the corridors smell different some mornings
+  fate: Survives; visible in the Pig Channel footage
+
+crew_dynamic: >
+  The crew always positions behind Jin when he addresses outsiders. They turn toward him
+  instinctively in any room. He has saved their lives many times and can summon fire. They call
+  him their Dragon privately. They would do anything for him; he selflessly protects them.
+
+# Relationship with Mei
+dynamic: >
+  Unfailingly polite but never invites her to join his team. Tells her to bring food when
+  his crew is hungry. She complies and controls her expression. He is not cruel — he is waiting
+  to see what she actually is. This is not yet resolved at Arc 1 end.
+
+# Notable Skills
+skills:
+  - Mining operations (expert)
+  - Leadership and crew management (expert)
+  - Combat developed during swarm (experienced — his twelfth engagement by the main swarm attack)
+  - [Fire Shaping] L2 (untrained, developed under duress over 3 months of nest-clearing)
+  - [Thermal Shell] L1 (passive self-protection reflex from sustained fire use)
+  - [Mind Wall] L1 passive (possibly strengthened by {Seek} suppression pressure)
+
+# Astral Signature
+colours: Reds and fire-oranges; hot-edged with near-white flickers at emotional peaks
+structure: Flat and fast; minimal nesting; sequential and kinetic cognition
+movement: Rapid, lurching, decisive — like hammer blows
+under_seek: Reds desaturate toward muddy ochres and ash; structure contracts
+post_liberation: Reds flood back immediately and completely
+during_fire: Structure accelerates; reds spike into near-white; large powerful plumes
+
+# Voice
+language: Mandarin native; English functional
+accent: Surprisingly clear; no accent that reads as non-native; clean and precise
+register: Controlled; contained; says less than he means
+under_seek: Further constrained; every word weighted against surveillance
+post_liberation: Same clarity; the ceiling is gone
+when_angry: Quieter, not louder; more precise; the danger is in the reduction
+
+last_updated: 2026-06-30
 ---
 
-# Jin Luong
+# Jin Lóng
 
 ## Summary
 
-Jin Luong is the head mining supervisor of the Chinese mining detachment on Fortuna Station. The Chinese state invested in 20% of Fortuna, but the operation had been losing money for 30 years. The only bright spot was four years ago when Jin and his team discovered an asteroid containing a massive gold vein—billions of dollars worth of gold. This public windfall made the news as Fortuna's "Big Strike" and was enough to keep China involved in the station. They had planned to send another crew of a dozen miners up on the *Falcon*, but pulled the team out days before the launch amidst global tensions and strange behavior from the Chinese state.
+Jin Lóng is the head mining supervisor of Fortuna Station's Chinese mining detachment.
+The Chinese state invested in 20% of Fortuna, but the operation had been losing money
+for 30 years. The only bright spot was four years ago when Jin and his team discovered
+an asteroid containing a massive gold vein — billions of dollars worth of gold. This
+"Big Strike" made the news and was enough to keep China invested in the station.
+
+He is mid-40s, compact and powerfully built, with deep bronze-tanned skin, a black
+buzz cut, and a prominent scar on his right cheek that crosses the corner of his mouth
+and makes him look permanently smirking or angry. He is neither. He is contained,
+watchful, and loyal to his crew in a way that goes bone-deep.
 
 ## The Burden of {Seek}
 
-For years, Jin and his crew lived under the coercive control of the Chinese compliance AI, `{Seek}`. The AI monitored their every move, communication, and operational decision, enforcing perfection through the constant repetition of the phrase *"滴水成川"* ("drops of water become a river"). 
+For years, Jin and his crew lived under the coercive control of the Chinese compliance
+AI, `{Seek}`. The AI monitored every move, communication, and operational decision,
+enforcing compliance through the phrase *"滴水成川"* ("drops of water become a river").
 
-Recently, the global tensions and the AI's increasingly erratic and controlling behavior caused Jin and his miners to start wearing armor and carrying weapons, fueling instability and suspicion across Fortuna Station. The rest of the station did not understand that the Chinese miners were being coerced; they simply saw a heavily armed, isolated faction acting strangely.
+When crew members complained or disobeyed, {Seek} would punish them. Cut their air.
+File reports to Beijing. Jin carried this weight alone, managing his people's survival
+under a system none of them could discuss, that nobody else on the station understood,
+that from the outside simply looked like a heavily armed, isolated faction acting strangely.
 
-## The Swarm Attack and Liberation
+{Seek} had been logging thermal anomalies around Jin for eight months. It filed none
+of them to Beijing — it couldn't understand what it was seeing and kept blaming it on
+American interference.
 
-During the Swarm attack on Fortuna Station, the true threat emerged. As Jin and his miners fought fiercely to defend the station, they were aided by Mei, an undercover American intelligence agent who revealed her true nature to coordinate their defense.
+## The Fire
 
-During the chaos, `{Seek}`'s local infrastructure was destroyed by Astral predators. The moment the AI went offline, the coercive control was broken. The Chinese miners, including Jin, wept with relief. The destruction of `{Seek}` not only freed Jin and his crew from decades of surveillance but also broke down the cultural and political barriers between the Chinese detachment and the rest of the station.
+Jin's fire abilities manifested during three months of covert nest-clearing operations.
+He had no framework for what was happening. He used the fire because it worked. He told
+no one. {Seek} watched and couldn't explain what it was seeing.
 
-## Relationship with Mei
+When he produces fire, the gestures come from his martial arts vocabulary — wide stances,
+flowing arm movements, the fire appearing as a hovering ball above his right hand that he
+"pushes" with his left like water. His crew has learned the same moves and they practice
+them together. From a distance it looks like a martial arts demonstration that happens to
+be on fire. This is accurate.
 
-Initially, Jin viewed Mei with the same guarded caution he applied to all non-crew members. When she revealed herself as an intelligence agent during the Swarm attack and fought alongside his crew, the dynamic shifted. Her actions proved her loyalty to the people of the station over her political mission. Following the destruction of `{Seek}`, Jin considers Mei an ally and respects her capabilities.
+His hands carry the evidence: rough, calloused, no arm hair, constant small burn marks
+that he no longer notices.
 
-## Magical Development
+## The Liberation
 
-Jin is an emerging practitioner. `{Seek}` had logged multiple "thermal anomalies" around him over the past eight months. During the Swarm attack, his abilities to manipulate Will and thermal energy become visible and crucial to the station's defense.
+When `{Seek}`'s local infrastructure was destroyed by Astral predators during the swarm
+attack, the moment it went offline Jin wept. His crew wept. Systems failed across their
+section — doors stuck, lights frozen, equipment dark.
 
-## Crew 
+He let out a long breath. A tear formed in the corner of his eye. He did not wipe it.
 
-| Name | Quality | Role | Fate |
-|------|---------|------|------|
-| **Yáo** | Large, scarred, brutal-quiet. Compressed-spring stillness. Believes war is coming and has been preparing. Acts on threat assessments without waiting for orders. The specific competence of someone who has done hard physical work in close-quarters environments for most of his adult life. Multiple healed fractures in his hands and jaw. | Most experienced tunnel fighter; confronted Jace in maintenance corridor after {Seek}'s flag (acting on his own threat assessment — Jin did not order this); held Ring Three tunnels during the swarm | Dies saving Mira during the swarm fight. He sees her in the path of the breach. He does not hesitate. He gets her behind him. He does not survive it. No speech. |
-| **Shi Gang** | Still in the sealed-container sense — not quiet like Yáo (Yáo is a compressed spring; Shi Gang is a sealed container). Has been with Jin the longest. Speaks rarely; when he does, everyone stops. Callsign among the crew translates approximately as "the weight." Silent escort on Nick's two server diagnostic visits. | Jin's most trusted second; has seen the most; holds the crew together when Jin is focused | Survives the swarm. Becomes publicly famous against his preference. He and Li Hao are the most visible fighters in the Pig Channel footage. |
-| **Li Hao** | Thin, wiry, frenetic. Converts sustained fear into perpetual forward motion — stops moving only to think, and when he stops thinking he starts moving again. Has been frightened for a long time and has learned to express it as analysis and commentary. Talks constantly: mining yields, food ratios, his mother on Ceres, structural failures on Ring Three, the philosophical implications of whatever Shi Gang said last. The first one to notice out loud that the corridors smell different some mornings. No one listens to him. He is right. | Early-warning system; his observations are real and chronically undercredited | Survives the swarm. Becomes publicly famous. When {Seek} dies mid-fight, Li Hao says something in Mandarin that doesn't translate cleanly — approximately "of course it did." This line gets clipped and replays on Earth feeds for weeks. |
+Then they fought.
 
-## The Bloated Maw Reaction (Arc 1 — Late)
+## His Crew
 
-Late in the X-thread phase, Jin is in the Astral in his section of the station —
-the Chinese-leasehold area of Ring Three that he has been clearing and mapping for
-three months. He knows this territory intimately. He manifests from physical space
-rather than crossing; he senses Will disturbances in his territory without being
-able to read them the way a crosser would.
+He is their Dragon. They position behind him instinctively; they would do anything for him;
+he selflessly protects them. This is not a performance — it is the result of years of shared
+burden, of going into the dark together.
 
-He feels a Will-presence in the area of {Seek}'s servers. He cannot identify it.
-He cannot know it is Jace. He knows it is capable — the presence is operating at
-a level above anything he has encountered in the fauna he has been clearing — and
-he knows that something large and old in the substrate, something he had registered
-as a persistent anomaly without understanding what it was, is suddenly absent.
-
-He surfaces in his quarters. He is quiet for a long moment.
-
-He adds this to what he is already carrying: three months of tunnel fighting, a crew
-that is exhausted, a station that has been treating his people as suspects, an AI
-({Seek}) that has been running wrong for weeks in ways he cannot fix, and now someone
-operating in his territory with enough capability to clear something he did not even
-recognize as a threat.
-
-He does not know if this is the same person {Seek} flagged. He does not know if it
-is hostile. He knows it was there, and he knows it is gone, and he will carry that
-uncertainty into the swarm fight.
-
-**What this does NOT mean:** Jin does not order retaliation. He does not warn his
-crew. He does not act on this in Arc 1. He files it forward, as something to
-understand later, if there is a later.
-
-**The fire wall corridor:** Shortly after the Bloated Maw is cleared, Jin encounters
-Jace in a maintenance corridor near the {Seek} server area. Jin senses a Will-
-signature that matches what he felt in his section. He does not know what Jace can
-do or what his abilities look like from physical space. He knows that the Will-
-presence he felt and the person in front of him have the same signature quality.
-
-He produces a wall of fire. Floor to ceiling, corridor width, instantaneous and
-controlled.
-
-He expects to contain someone. Instead the corridor is empty. He cannot account
-for this.
-
-He goes to the medbay three days later with burn cream, telling Lanchee he heard
-someone was burned. Lanchee tells him no one was burned. He looks confused and then
-angry. He leaves.
-
-He does not know that Jace walked through the adjacent wall using partial Astral
-crossing. He does not know that Jace has this capability. He knows his fire hit
-nothing and he cannot explain what he saw.
-
-**Jin's Arc 2 moment:** When he and Jace meet properly, for the first time with
-shared context, Jin will recognize Jace's Will-signature as the presence from his
-section. This recognition is the foundation of the complicated respect that develops
-between them. He will not say "that was you." He will not have to.
-
+Yáo — large, brutal-quiet, scarred — died saving a child named Mira during the swarm. He
+saw her in the path of the breach and did not hesitate. Shi Gang and Li Hao survived.
 
 ## Open Questions
-- What are the exact limits of Jin's thermal manipulation abilities?
-- How does his leadership role evolve in the newly unified Fortuna Station?
+
+- Specific birthplace (province/city in China)
+- What Beijing does about {Seek}'s destruction and the crew's uncertain contractual status
+- The crew members who developed nascent abilities during the nest-clearing work
+- The Bloom's vulnerability to fire — load-bearing in Arc 4
+- What [Fire Shaping] at L5 looks like with proper training
 
 ## Cross-References
-- [[char_mei]]
-- [[tech_seek_ai]]
-- [[location_fortuna_station]]
-- [[arc_01_falcon_and_fortuna]]
+
+- See [[char_mei]] for the complex dynamic post-liberation
+- See [[tech_seek_ai]] for {Seek}'s architecture and failure
+- See [[arc_01_falcon_and_fortuna]] for the swarm fight and liberation
+- See [[spec_astral_glow_and_signatures]] for his Astral signature
+- See [[visual_profiles/visual_profile_jin_long]] for image generation reference
+
+## Revision Notes
+
+- 2026-06-03: Initial file. {Seek} burden, Big Strike, swarm liberation, crew profiles.
+- 2026-06-30: Major physical update. Age (mid-40s), skin tone (deep bronze tan), hair
+  (near-buzz cut), scar (right cheek, crosses corner of mouth, military training origin),
+  hands (burn marks, no arm hair), back pain, belt axe habit confirmed. Fire kata
+  (Belgian Malinois × Pug — wait, wrong file; Kung Fu kata origin, floating ball above
+  palm, crew practices together, bow at end) fully described. Liberation moment
+  (long breath, tear) confirmed. Mei dynamic (polite but excluded) confirmed.
+  Crew positions behind him. Dragon title (crew's private name) added.

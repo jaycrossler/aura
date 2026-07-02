@@ -360,7 +360,7 @@ advancement_events:
     confirmed: true
     notes: >
       Kael arrives at Fortuna with established skills. Reference levels per
-      magic_skill_level_scale.md: [Long Step] L4, [Occlusion] L4, [Force Shell] L4,
+      magic_skill_level_scale.md: [Long Step] L4, [Occlusion] L3, [Force Shell] L4,
       [Self Template] L3, [Far Sight] L3, [Psychic Anchor] L3, [Mind Wall] L3
       (active/directional), [Template Reading] L2, [Frame Walking] L2,
       [Force Application] L2, [Object Template] L2, [Astral Transfer] L2.

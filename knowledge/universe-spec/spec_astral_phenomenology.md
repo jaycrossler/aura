@@ -158,7 +158,7 @@ Jace uses a survey drone pulled across into the Astral to systematically survey 
 
 ## The Glow of Minds
 
-Every Will-generating consciousness appears in the Astral as a visible glow. Brightness, color, and structure reflect the nature and intensity of the consciousness generating it.
+Every Will-generating consciousness appears in the Astral as a visible glow. Brightness, color, and structure reflect the nature and intensity of the consciousness generating it. [[spec_astral_glow_and_signatures]]
 
 ### Human Minds
 
