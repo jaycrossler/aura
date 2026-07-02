@@ -235,11 +235,35 @@ Each scene must demonstrably accomplish the listed items.
 
 ---
 
-### Prequel
+### Prequel (Prologue)
+
+**Scene file:** [[event_helena_prologue]]
 
 **Must accomplish:**
-1. Establish Helena's back story and that Helena dies and her body isn't found
-TBD - to add later
+1. Establish Helena's backstory: first child born on Fortuna Station, grew up
+   there, knows everyone; wealthiest person on the station via inheritance and
+   station-wide gifting
+2. Show her daily yoga class in the park as a beloved fixture of station life
+3. Show her wandering the station on informal jobs — checking pressure seals,
+   feeding animals, helping with small tasks. She really wants to go outside the station
+   and is thinking of hitching a ride on the next shuttle down to the asteroid just to
+   see her amazing home.
+4. Orient the reader to the physical world: a space station with three rings above an
+   asteroid, animals aboard, the *Falcon* inbound and due to dock soon
+5. Introduces a few of the {AI} Systems and shows how she cares for each and they
+   all are not villains. Shows how she coexists with the American and Chinese communities
+5. Establish her excitement for tonight's party — celebrating Sophia's 30th
+   birthday — and her plan to flirt with Jin
+6. During yoga class, show her chakras aligning in a moment of transcendence,
+   played as purely positive — no signal to the reader that anything is wrong
+7. She heads to the bar in the inn, happy, to meet friends
+8. State plainly, without a death scene, that she is dead in the dark
+
+**Must NOT do:**
+- Must not depict, imply, or foreshadow a death scene, body, breach, or EVA
+- Must not use `[Skill]` bracket notation (predates Jace's convention)
+- Must not signal that the yoga transcendence moment is significant
+- Must not leave any doubt that she is dead
 
 ### THREAD T — Transit
 
@@ -1261,6 +1285,10 @@ traveling for days. She expected ruins. Industrial stations do not survive swarm
 of this size without practitioners. She came anyway — the location was listed in
 the protocol.
 
+**TO CHANGE** Kael arrives earlier, removes the Tick from Jace, is chased, but leaves
+to send a message to her Family of what she's seen, missing the final battle.  She comes
+back ready to fight the boss monster to see the aftermath.
+
 She comes through the Scar edge and into the system moving fast, Kai underneath
 her. She passes the outer belt. She reads the swarm's trajectory backward and
 follows it to Fortuna.
@@ -1302,6 +1330,33 @@ She is still sitting there when Jace finds them.
   have; people are hurt; Kael's arrival is wonder and unease simultaneously
 
 ---
+
+### Epilogue
+
+**Scene file:** [[event_helena_epilogue]]
+
+**Placement:** Closes Book 1, paired with the Prologue as a framing device.
+
+**Must accomplish:**
+1. Helena wakes cold, disoriented, with a massive headache, naked in a
+   freezing room, breathing mask off for the first time in her life
+2. She misattributes her state to an extreme hangover
+3. Sync pipes read as frozen; she grows worried about a CO2 leak and reports
+   it to {Penny}
+4. She realizes she's nearly late for yoga class and rushes to dress and go
+5. Her last clear memory is finishing yoga class and heading to the bar — the
+   party itself and everything after are gone, which she chalks up to the
+   hangover
+6. Escalating small station wrongness around her (malfunctioning doors, a
+   coffee machine failing twice before succeeding) and a forming, staring
+   crowd — unexplained to her
+7. She begins teaching class as normal; someone screams — resurrection
+   revealed
+
+**Must NOT do:**
+- Must not have Helena or the narration name or understand what actually
+  happened to her until the closing beat
+- Must not resolve the resurrection mechanism on-page — reveal-later thread
 
 ## Success Criteria
 

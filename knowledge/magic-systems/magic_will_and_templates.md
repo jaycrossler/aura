@@ -35,6 +35,44 @@ This has practical consequences:
 
 **Death and Resurrection.** When the Template fully dissociates from the physical body, the physical body dies. In most circumstances, this is the end. However, with an immense expenditure of Will and the correct spell, a preserved Template copy can be used to re-anchor and resurrect a deceased person. This process is highly constrained: the resurrected person will have no recollection of the events after the Template copy was made (losing any skills or memories learned since that time), and their immediate post-resurrection memories will be extremely blurry. Otherwise: Echoes (see below).
 
+### Accidental Self-Template Storage Under First-Crossing Duress
+
+Deliberate Self-Template storage (see [[magic_self_template_skill]]) is a
+trained, conscious act. However, an untrained latent sensitive undergoing
+extreme duress or disorientation during an early, uncontrolled crossing can
+trigger an **unwitting, unrefined Template store** — a raw vault copy created
+without training, intent, or awareness that anything has happened.
+
+This is not a controlled skill use. It produces the same functional result as
+a deliberate store (a preserved Template copy usable for later resurrection),
+but with none of the precision or reliability a trained practitioner would
+bring to the act. It appears to require a moment of profound
+psychological/physiological intensity — the canonical case (Helena, see
+[[char_helena]]) occurs during a transcendent peak experience (yoga) that
+coincides with the very beginning of an uncontrolled sleep-crossing.
+
+**Precedent established by:** Helena's Prologue/Epilogue arc (Book 1). She
+stores an accidental vault moments before a fatal, disoriented crossing in
+which she steps outside her station's Astral footprint and dies of exposure.
+She is later resurrected from this accidental store, retaining nothing past
+the moment of the store and experiencing the standard blurry post-resurrection
+memory window (see below).
+
+**Open questions for future use of this precedent:**
+- Is this store triggerable only during a first crossing, or could it recur
+  in later uncontrolled crossings for other latent sensitives?
+- What specifically triggers it — the emotional/spiritual peak, the onset of
+  crossing duress, or the combination?
+- Does anyone or anything (a Will-sensitive AI, another practitioner, a
+  station system) detect the store at the moment it happens, or does it pass
+  entirely unnoticed? (Current assumption per Helena's case: unnoticed.)
+- Is a resurrection from an accidental store riskier, less stable, or
+  otherwise different from a resurrection from a deliberate, trained vault?
+
+This remains a reveal-later mechanism in-story — characters do not have a
+framework for it at the time of Helena's death or resurrection. Treat this
+addendum as GM/author-only canon until the story chooses to surface it.
+
 ### Template Vaults
 
 The most advanced pre-Scar civilizations built Template Vaults — facilities that could store a stable copy of a Template independent of the physical body. A Template Vault is a checkpoint: a preserved version of a person's higher-dimensional pattern at the moment of storage.
