@@ -11,9 +11,9 @@ description: >
   hybrid littermates. Breed, appearance, behaviour, size arc, movement in
   low-g, and Astral signatures all confirmed.
 cross_references:
-  - characters/char_cerberus.md
-  - characters/char_dog_siren.md
-  - universe-spec/spec_astral_glow_and_signatures.md
+  - "[[char_cerberus]]"
+  - "[[char_dog_siren]]"
+  - "[[spec_astral_glow_and_signatures]]"
 images:
   - path: images/characters/char_cerberus__portrait.png
     type: portrait

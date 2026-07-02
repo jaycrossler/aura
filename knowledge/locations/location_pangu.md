@@ -9,8 +9,8 @@ population: ~7,000
 age: ~50 years old
 last_updated: 2026-06-30
 cross_references:
-  - location_mars_overview.md
-  - location_terminus.md
+  - "[[location_mars_overview]]"
+  - "[[location_terminus]]"
 revision_notes:
   - "2026-05-02: Initial Pangu draft."
   - "2026-06-30: Updated population to ~7,000 and reframed Pangu as one of three mature Mars cities connected by rail. Added standardized infrastructure, transit concourse imagery, industrial realism, and balanced rumors versus known facts."

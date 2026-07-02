@@ -10,10 +10,10 @@ last_updated: 2026-05-02
 environment: industrial belt stations (smelting, manufacturing, mineral processing)
 first_observed: Fortuna Station, approximately Month 6–8 of outbreak
 cross_references:
-  - /knowledge/magic-systems/magic_overview.md
-  - /knowledge/magic-systems/magic_manifestations_early.md
-  - /knowledge/locations/location_fortuna_station.md
-  - /knowledge/magic-systems/improvised_responses.md
+  - "[[magic_overview]]"
+  - "[[magic_manifestations_early]]"
+  - "[[location_fortuna_station]]"
+  - "[[improvised_responses]]"
 ---
 
 # Silicon Manifestations — The Glass-Infestation Class

@@ -15,11 +15,11 @@ status: draft
 storybot_extrapolation_allowed: true
 last_updated: 2105-04-22
 cross_references:
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/characters/char_smuggler_mars.md
-  - /knowledge/characters/char_artemis_grant.md
-  - /knowledge/timeline/outbreak_timeline.md
-  - /knowledge/scenes/event_jace_bar_rumors.md
+  - "[[char_jace_apollo]]"
+  - "[[char_smuggler_mars]]"
+  - "[[char_artemis_grant]]"
+  - "[[outbreak_timeline]]"
+  - "[[event_jace_bar_rumors]]"
 ---
 
 # Scene Cluster — Assembling Artemis's List (The Smuggling Sprint)

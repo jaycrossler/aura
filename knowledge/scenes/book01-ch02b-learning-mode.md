@@ -13,9 +13,9 @@ location: ship_falcon
 status: draft (beats + illustrative)
 last_updated: 2026-06-17
 cross_references:
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/scenes/book01-ch02-plumbing-crisis.md
-  - /knowledge/location_fortuna_station.md
+  - "[[char_jace_apollo]]"
+  - "[[book01-ch02-plumbing-crisis]]"
+  - "[[location_fortuna_station]]"
 ---
 
 # Chapter 2b — Learning Mode

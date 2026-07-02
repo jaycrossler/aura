@@ -7,12 +7,12 @@ canonical: true
 last_updated: 2026-06-25
 supersedes: cosmology_2026-05-31
 cross_references:
-  - universe-spec/spec_scar_clearing_mechanics.md
-  - universe-spec/spec_crossing_mechanics.md
-  - universe-spec/spec_astral_phenomenology.md
-  - magic-systems/magic_never_never.md
-  - magic-systems/magic_will_and_templates.md
-  - universe-spec/spec_dimensional_travel_mechanics.md
+  - "[[spec_scar_clearing_mechanics]]"
+  - "[[spec_crossing_mechanics]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[magic_never_never]]"
+  - "[[magic_will_and_templates]]"
+  - "[[spec_dimensional_travel_mechanics]]"
 ---
 
 # Cosmology — Vela Junior, the Scar, and the Reopening

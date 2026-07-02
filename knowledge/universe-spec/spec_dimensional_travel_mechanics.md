@@ -9,12 +9,12 @@ supersedes: >
   Partial content in spec_crossing_mechanics, spec_astral_phenomenology,
   magic_never_never, legacy_lexicon_and_rulebook_reconciliation
 cross_references:
-  - universe-spec/cosmology.md
-  - universe-spec/spec_crossing_mechanics.md
-  - universe-spec/spec_astral_phenomenology.md
-  - magic-systems/magic_never_never.md
-  - magic-systems/magic_will_and_templates.md
-  - universe-spec/legacy_lexicon_and_rulebook_reconciliation.md
+  - "[[cosmology]]"
+  - "[[spec_crossing_mechanics]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[magic_never_never]]"
+  - "[[magic_will_and_templates]]"
+  - "[[legacy_lexicon_and_rulebook_reconciliation]]"
 description: >
   Authoritative single-source reference for how dimensional travel works in
   The {Aura} Chronicles. Covers the three layers, tau mechanics, crossing costs,

@@ -9,10 +9,10 @@ era_of_relevance: story present onward
 canonical: true
 last_updated: 2026-06-30
 cross_references:
-  - location_terminus.md
-  - location_mars_overview.md
-  - location_mars_consumer_district.md
-  - location_pangu.md
+  - "[[location_terminus]]"
+  - "[[location_mars_overview]]"
+  - "[[location_mars_consumer_district]]"
+  - "[[location_pangu]]"
 revision_notes:
   - "2026-04-30: Initial draft from voice session."
   - "2026-06-30: Re-anchored as a Terminus district. Added truck depots, rail launch support, robot depots, warehouse scale, dust cleanup, and practical visual prompts."

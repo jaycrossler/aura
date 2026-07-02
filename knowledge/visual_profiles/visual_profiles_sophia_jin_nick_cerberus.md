@@ -10,8 +10,8 @@ description: >
   Canonical visual, voice, and production reference for Sophia Lotte, ESA physicist.
   Very little physical description exists in the KB. Almost entirely [AUTHOR INPUT NEEDED].
 cross_references:
-  - characters/char_sophia_lotte.md
-  - sheets/sheet_sophia_arc01_end.md
+  - "[[char_sophia_lotte]]"
+  - "[[sheet_sophia_arc01_end]]"
 images:
   - path: images/characters/char_sophia_lotte__portrait.png
     type: portrait

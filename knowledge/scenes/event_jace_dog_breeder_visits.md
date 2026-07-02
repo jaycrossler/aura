@@ -14,11 +14,11 @@ status: draft
 storybot_extrapolation_allowed: true
 last_updated: 2026-06-03
 cross_references:
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/characters/char_cerberus.md
-  - /knowledge/characters/char_dog_siren.md
-  - /knowledge/scenes/event_jace_origin_negotiation.md
-  - /knowledge/locations/location_terminus.md
+  - "[[char_jace_apollo]]"
+  - "[[char_cerberus]]"
+  - "[[char_dog_siren]]"
+  - "[[event_jace_origin_negotiation]]"
+  - "[[location_terminus]]"
 ---
 
 # Scene — Jace's Dog Breeder Visits

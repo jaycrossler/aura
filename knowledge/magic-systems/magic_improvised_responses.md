@@ -9,10 +9,10 @@ canonical: true (field adaptations); partial (wider use)
 last_updated: 2026-05-02
 environment: asteroid belt stations (Fortuna and similar)
 cross_references:
-  - /knowledge/magic-systems/magic_cryptids_silicon.md
-  - /knowledge/magic-systems/magic_technological_adaptation.md
-  - /knowledge/magic-systems/magic_overview.md
-  - /knowledge/locations/location_fortuna_station.md
+  - "[[magic_cryptids_silicon]]"
+  - "[[magic_technological_adaptation]]"
+  - "[[magic_overview]]"
+  - "[[location_fortuna_station]]"
 ---
 
 # Improvised Responses to the Outbreak — Belt Field Adaptations

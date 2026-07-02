@@ -8,9 +8,9 @@ canonical: true
 last_updated: 2026-05-02
 era: late 21st century onward
 cross_references:
-  - /knowledge/characters/char_lt_rich_cullivan.md
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/locations/location_mars_us_afspace_force_base.md
+  - "[[char_lt_rich_cullivan]]"
+  - "[[char_jace_apollo]]"
+  - "[[location_mars_us_afspace_force_base]]"
 ---
 
 # Military Address Culture — USAF and Space Force on Mars

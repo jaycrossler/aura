@@ -8,11 +8,11 @@ canonical: true
 description: "Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression."
 last_updated: 2026-06-26
 cross_references:
-  - magic-systems/magic_will_and_templates.md
-  - magic-systems/magic_skills_framework.md
-  - universe-spec/spec_dimensional_travel_mechanics.md
-  - magic-systems/magic_breach_crossers_transient.md
-  - characters/char_jace_apollo.md
+  - "[[magic_will_and_templates]]"
+  - "[[magic_skills_framework]]"
+  - "[[spec_dimensional_travel_mechanics]]"
+  - "[[magic_breach_crossers_transient]]"
+  - "[[char_jace_apollo]]"
 ---
 
 # Will Orbs — Death-Drop Mechanic and Skill Currency

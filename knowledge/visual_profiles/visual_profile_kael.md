@@ -12,9 +12,9 @@ description: >
   gear, and bracer artifact confirmed. Eye color, hair detail, and voice
   register still needed.
 cross_references:
-  - characters/char_kael.md
-  - universe-spec/spec_astral_glow_and_signatures.md
-  - magic-systems/magic_skills_framework.md
+  - "[[char_kael]]"
+  - "[[spec_astral_glow_and_signatures]]"
+  - "[[magic_skills_framework]]"
 images:
   - path: images/characters/char_kael__portrait.png
     type: portrait

@@ -9,11 +9,11 @@ related_characters:
   - char_sister_artemis
   - char_eugene_hart
 cross_references:
-  - location_fortuna_station
-  - location_asteroid_belt_overview
-  - char_sister_artemis
-  - char_eugene_hart
-  - arc_02_woven_and_unbound
+  - "[[location_fortuna_station]]"
+  - "[[location_asteroid_belt_overview]]"
+  - "[[char_sister_artemis]]"
+  - "[[char_eugene_hart]]"
+  - "[[arc_02_woven_and_unbound]]"
 description: >
   Shipyard station anchored to asteroid 9 Metis. Run by Dr. Eugene Hart.
   Home to Artemis Grant. Site of the Arc 2 siege and rescue mission.

@@ -15,14 +15,14 @@ status: draft
 storybot_extrapolation_allowed: true
 last_updated: 2026-05-02
 cross_references:
-  - /knowledge/scenes/event_jace_mars_tour_with_rich.md
-  - /knowledge/scenes/event_jace_day2_acclimation.md
-  - /knowledge/characters/char_lt_rich_cullivan.md
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/locations/location_mars_us_afspace_force_base.md
-  - /knowledge/factions/faction_megacorps.md
-  - /knowledge/universe-spec/concept_mil_ex_implants.md
-  - /knowledge/timeline/scenes_temporal_map.md
+  - "[[event_jace_mars_tour_with_rich]]"
+  - "[[event_jace_day2_acclimation]]"
+  - "[[char_lt_rich_cullivan]]"
+  - "[[char_jace_apollo]]"
+  - "[[location_mars_us_afspace_force_base]]"
+  - "[[faction_megacorps]]"
+  - "[[concept_mil_ex_implants]]"
+  - "[[scenes_temporal_map]]"
 ---
 
 # Scene — Jace's Drone Control Center Tour

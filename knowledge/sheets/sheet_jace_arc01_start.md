@@ -13,8 +13,8 @@ is_vault_snapshot: false
 last_updated: 2026-06-27
 description: "Jace at Falcon departure — discharged, indebted, no Astral skills yet; baseline sheet."
 cross_references:
-  - characters/char_jace_apollo.md
-  - arcs/arc_01_falcon_and_fortuna.md
+  - "[[char_jace_apollo]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Jace Grant — Arc 1 Start (Falcon Departure)

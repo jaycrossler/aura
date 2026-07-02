@@ -14,27 +14,27 @@ books_spanned: [book_01]
 precedes: arc_02_woven_and_unbound
 follows: null
 cross_references:
-  - arcs/arc_02_woven_and_unbound.md
-  - characters/char_jace_apollo.md
-  - characters/char_cerberus.md
-  - characters/char_sophia_lotte.md
-  - characters/char_nick_lee.md
-  - characters/char_maureen.md
-  - characters/char_mei.md
-  - characters/char_lanchee.md
-  - characters/char_suzi.md
-  - characters/char_helena.md
-  - characters/char_jin_luong.md
-  - factions/faction_origin_industries.md
-  - ships/ship_falcon.md
-  - ships/ship_victoria.md
-  - locations/location_fortuna_station.md
-  - universe-spec/spec_astral_phenomenology.md
-  - universe-spec/spec_crossing_mechanics.md
-  - universe-spec/spec_dimensional_travel_mechanics.md
-  - magic-systems/magic_breach_crossers_transient.md
-  - magic-systems/magic_astral_transfer_skill.md
-  - universe-spec/spec_threat_escalation.md
+  - "[[arc_02_woven_and_unbound]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_cerberus]]"
+  - "[[char_sophia_lotte]]"
+  - "[[char_nick_lee]]"
+  - "[[char_maureen]]"
+  - "[[char_mei]]"
+  - "[[char_lanchee]]"
+  - "[[char_suzi]]"
+  - "[[char_helena]]"
+  - "[[char_jin_luong]]"
+  - "[[faction_origin_industries]]"
+  - "[[ship_falcon]]"
+  - "[[ship_victoria]]"
+  - "[[location_fortuna_station]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[spec_crossing_mechanics]]"
+  - "[[spec_dimensional_travel_mechanics]]"
+  - "[[magic_breach_crossers_transient]]"
+  - "[[magic_astral_transfer_skill]]"
+  - "[[spec_threat_escalation]]"
 ---
 
 # Arc 1 — The Falcon and Fortuna

@@ -11,13 +11,13 @@ description: >
   Template-locked artifact classes. Covers construction, visual signatures,
   dimensional behavior, and known artifact inventory.
 cross_references:
-  - magic-systems/magic_will_and_templates.md
-  - magic-systems/magic_skills_framework.md
-  - magic-systems/magic_self_template_skill.md
-  - universe-spec/spec_astral_glow_and_signatures.md
-  - universe-spec/spec_dimensional_travel_mechanics.md
-  - factions/faction_titan_forge.md
-  - characters/char_kael.md
+  - "[[magic_will_and_templates]]"
+  - "[[magic_skills_framework]]"
+  - "[[magic_self_template_skill]]"
+  - "[[spec_astral_glow_and_signatures]]"
+  - "[[spec_dimensional_travel_mechanics]]"
+  - "[[faction_titan_forge]]"
+  - "[[char_kael]]"
 ---
 
 # Magic Items and Artifacts — System Specification

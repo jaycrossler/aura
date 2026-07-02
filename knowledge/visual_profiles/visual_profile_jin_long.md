@@ -11,8 +11,8 @@ description: >
   anchors, fire kata, crew dynamics, liberation moment, and {Seek} suppression
   tells all confirmed.
 cross_references:
-  - characters/char_jin_luong.md
-  - universe-spec/spec_astral_glow_and_signatures.md
+  - "[[char_jin_luong]]"
+  - "[[spec_astral_glow_and_signatures]]"
 images:
   - path: images/characters/char_jin_luong__portrait.png
     type: portrait

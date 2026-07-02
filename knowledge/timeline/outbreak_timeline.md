@@ -9,13 +9,13 @@ canonical: true (phases and structure); partial (specific scene details)
 last_updated: 2105-04-22
 description: "Chronological timeline detailing the gradual return and manifestation of magic in space, centered around Metis Station and Fortuna Station."
 cross_references:
-  - /knowledge/universe-spec/magic_manifestations_early.md
-  - /knowledge/magic-systems/magic_overview.md
-  - /knowledge/timeline/scenes_temporal_map.md
-  - /knowledge/characters/char_sister_artemis.md
-  - /knowledge/locations/location_metis_station.md
-  - /knowledge/locations/location_fortuna_station.md
-  - /knowledge/universe-spec/concept_aura_ai_system.md
+  - "[[magic_manifestations_early]]"
+  - "[[magic_overview]]"
+  - "[[scenes_temporal_map]]"
+  - "[[char_sister_artemis]]"
+  - "[[location_metis_station]]"
+  - "[[location_fortuna_station]]"
+  - "[[concept_aura_ai_system]]"
 ---
 
 # The Outbreak — Chronological Timeline of Magic's Return

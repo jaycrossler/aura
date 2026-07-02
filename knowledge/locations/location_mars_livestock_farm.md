@@ -9,10 +9,10 @@ storybot_extrapolation_allowed: true
 parent_location: location_terminus
 last_updated: 2026-06-30
 cross_references:
-  - location_terminus.md
-  - location_mars_overview.md
-  - char_cerberus.md
-  - event_jace_gym_arrival.md
+  - "[[location_terminus]]"
+  - "[[location_mars_overview]]"
+  - "[[char_cerberus]]"
+  - "[[event_jace_gym_arrival]]"
 revision_notes:
   - "2026-05: Initial file. Confirmed placement: underground at Level 2-3 in Terminus. Farm domes above ground referenced separately."
   - "2026-06-30: Expanded into the full Terminus livestock/ranching system. Clarified underground facility versus above-ground ranch domes, Mars-wide food role, biosecurity, waste processing, exports, and visual prompts."

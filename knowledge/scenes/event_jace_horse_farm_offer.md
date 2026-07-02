@@ -14,12 +14,12 @@ status: draft
 storybot_extrapolation_allowed: true
 last_updated: 2026-05-02
 cross_references:
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/characters/char_dawn_grant.md
-  - /knowledge/characters/char_chris_grant.md
-  - /knowledge/characters/char_jelly_grant.md
-  - /knowledge/characters/char_jinx_grant.md
-  - /knowledge/scenes/event_jace_origin_negotiation.md
+  - "[[char_jace_apollo]]"
+  - "[[char_dawn_grant]]"
+  - "[[char_chris_grant]]"
+  - "[[char_jelly_grant]]"
+  - "[[char_jinx_grant]]"
+  - "[[event_jace_origin_negotiation]]"
 ---
 
 # Scene — The Horse Farm Offer

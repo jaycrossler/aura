@@ -13,13 +13,13 @@ description: >
   been building architecture for 3,000 years. Kael calls it the Pattern Library
   or the Unmoved.
 cross_references:
-  - universe-spec/spec_dimensional_travel_mechanics.md
-  - universe-spec/spec_dungeon_systems.md
-  - magic-systems/magic_self_template_skill.md
-  - magic-systems/magic_will_and_templates.md
-  - magic-systems/magic_skills_framework.md
-  - characters/char_kael.md
-  - factions/faction_titan_forge.md
+  - "[[spec_dimensional_travel_mechanics]]"
+  - "[[spec_dungeon_systems]]"
+  - "[[magic_self_template_skill]]"
+  - "[[magic_will_and_templates]]"
+  - "[[magic_skills_framework]]"
+  - "[[char_kael]]"
+  - "[[faction_titan_forge]]"
 ---
 
 # The Cognitive Layer — Fourth Dimension Specification

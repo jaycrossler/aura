@@ -7,9 +7,9 @@ first_appearance: Scene 1-05a — arrival day at Fortuna
 last_updated: 2026-06-26
 description: "Innkeeper of the second transit inn on Fortuna Station. Red-haired, chaotic energy, genuinely engaged by whatever is happening."
 cross_references:
-  - char_carlos
-  - location_fortuna_station
-  - arc_01_falcon_and_fortuna
+  - "[[char_carlos]]"
+  - "[[location_fortuna_station]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Erin

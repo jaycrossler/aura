@@ -7,9 +7,9 @@ status: working draft — foundational canon established; details to be develope
 canonical: true (foundational principles)
 last_updated: 2026-05-02
 cross_references:
-  - /knowledge/timeline/outbreak_timeline.md
-  - /knowledge/universe-spec/magic_manifestations_early.md
-  - /knowledge/magic-systems/
+  - "[[outbreak_timeline]]"
+  - "[[magic_manifestations_early]]"
+  - "[[magic-systems]]"
 ---
 
 # Magic — Overview and Fundamental Principles

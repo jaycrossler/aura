@@ -13,11 +13,11 @@ is_vault_snapshot: true
 last_updated: 2026-07-02
 description: "Helena's Template state at the moment of her unwitting accidental vault store during the Prologue yoga class, shortly before her death from exposure after stepping outside the station's Astral footprint. This is the resurrection baseline."
 cross_references:
-  - characters/char_helena.md
-  - scenes/event_helena_prologue.md
-  - scenes/event_helena_epilogue.md
-  - magic-systems/magic_will_and_templates.md
-  - universe-spec/spec_crossing_mechanics.md
+  - "[[char_helena]]"
+  - "[[event_helena_prologue]]"
+  - "[[event_helena_epilogue]]"
+  - "[[magic_will_and_templates]]"
+  - "[[spec_crossing_mechanics]]"
 ---
 
 # Helena — Prologue Death (Vault Snapshot)

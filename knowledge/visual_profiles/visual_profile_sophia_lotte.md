@@ -10,9 +10,9 @@ description: >
   Canonical visual, voice, and production reference for Sophia Lotte. All major
   physical anchors, mannerisms, wardrobe, workspace, and voice confirmed.
 cross_references:
-  - characters/char_sophia_lotte.md
-  - ships/ship_victoria.md
-  - universe-spec/spec_astral_glow_and_signatures.md
+  - "[[char_sophia_lotte]]"
+  - "[[ship_victoria]]"
+  - "[[spec_astral_glow_and_signatures]]"
 images:
   - path: images/characters/char_sophia_lotte__portrait.png
     type: portrait

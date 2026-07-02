@@ -10,11 +10,11 @@ canonical: true
 last_updated: 2026-06-30
 era: late 21st century onward
 cross_references:
-  - location_terminus.md
-  - location_mars_overview.md
-  - event_jace_drone_center_tour.md
-  - event_jace_mars_tour_with_rich.md
-  - concept_military_address_culture.md
+  - "[[location_terminus]]"
+  - "[[location_mars_overview]]"
+  - "[[event_jace_drone_center_tour]]"
+  - "[[event_jace_mars_tour_with_rich]]"
+  - "[[concept_military_address_culture]]"
 revision_notes:
   - "2026-05-02: Initial draft from voice session. Joint USAF/Space Force structure formalized."
   - "2026-06-30: Reframed base as an adjacent isolated cantonment next to Terminus, with stronger separation from civilian pressure zones, military logistics, drone fields, restricted rail spur, and realistic Mars base imagery."

@@ -13,14 +13,14 @@ description: >
   Supersedes any conflicting level claim in other files (sheets are snapshots;
   this ledger is the authoritative timeline).
 cross_references:
-  - magic-systems/magic_skills_framework.md
-  - magic-systems/magic_skill_level_scale.md
-  - magic-systems/magic_self_template_skill.md
-  - magic-systems/magic_astral_transfer_skill.md
-  - sheets/sheet_jace_arc01_end.md
-  - sheets/sheet_sophia_arc01_end.md
-  - sheets/sheet_jin_arc01_end.md
-  - sheets/sheet_nick_arc01_end.md
+  - "[[magic_skills_framework]]"
+  - "[[magic_skill_level_scale]]"
+  - "[[magic_self_template_skill]]"
+  - "[[magic_astral_transfer_skill]]"
+  - "[[sheet_jace_arc01_end]]"
+  - "[[sheet_sophia_arc01_end]]"
+  - "[[sheet_jin_arc01_end]]"
+  - "[[sheet_nick_arc01_end]]"
 ---
 
 # Character Advancement Ledger

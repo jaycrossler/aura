@@ -12,10 +12,10 @@ description: >
   signature confirmed. Remaining gaps: voice register confirmation, exact
   Arc 1 end deterioration endpoint.
 cross_references:
-  - characters/char_jace_apollo.md
-  - sheets/sheet_jace_arc01_start.md
-  - sheets/sheet_jace_arc01_end.md
-  - universe-spec/spec_astral_glow_and_signatures.md
+  - "[[char_jace_apollo]]"
+  - "[[sheet_jace_arc01_start]]"
+  - "[[sheet_jace_arc01_end]]"
+  - "[[spec_astral_glow_and_signatures]]"
 images:
   - path: images/characters/char_jace_apollo__portrait.png
     type: portrait

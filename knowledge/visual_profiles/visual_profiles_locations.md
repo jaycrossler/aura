@@ -10,8 +10,8 @@ description: >
   Canonical visual, sensory, and production reference for Fortuna Station.
   Good detail from location files; some zone-specific details need confirmation.
 cross_references:
-  - locations/location_fortuna_station.md
-  - locations/fortuna_station_population_neighborhoods.md
+  - "[[location_fortuna_station]]"
+  - "[[fortuna_station_population_neighborhoods]]"
 images:
   - path: images/locations/location_fortuna_station__concept.png
     type: concept

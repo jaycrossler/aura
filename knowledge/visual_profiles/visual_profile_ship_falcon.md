@@ -12,10 +12,10 @@ description: >
   Remaining gaps: specific plumbing sound geography, exact cargo container
   placement logic by weight zone.
 cross_references:
-  - ships/ship_falcon.md
-  - characters/char_maureen.md
-  - characters/char_jace_apollo.md
-  - characters/char_mei.md
+  - "[[ship_falcon]]"
+  - "[[char_maureen]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_mei]]"
 images:
   - path: images/ships/ship_falcon__exterior.png
     type: concept

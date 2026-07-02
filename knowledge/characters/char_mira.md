@@ -17,11 +17,11 @@ description: >
   Has none of the Sol human Mental Fortification defenses because she was too young
   when she first began. Will be a significant character in later arcs.
 cross_references:
-  - characters/char_jace_apollo.md
-  - characters/char_cerberus.md
-  - magic-systems/magic_skills_framework.md
-  - locations/location_fortuna_station.md
-  - arcs/arc_01_falcon_and_fortuna.md
+  - "[[char_jace_apollo]]"
+  - "[[char_cerberus]]"
+  - "[[magic_skills_framework]]"
+  - "[[location_fortuna_station]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Mira

@@ -15,9 +15,9 @@ status: sketch
 storybot_extrapolation_allowed: true
 last_updated: 2105-03-16
 cross_references:
-  - /knowledge/scenes/event_jace_mars_tour_with_rich.md
-  - /knowledge/scenes/event_jace_drone_center_tour.md
-  - /knowledge/review-queue/scenes_temporal_map.md
+  - "[[event_jace_mars_tour_with_rich]]"
+  - "[[event_jace_drone_center_tour]]"
+  - "[[scenes_temporal_map]]"
 ---
 
 # Scene — Day 2: Acclimation Day

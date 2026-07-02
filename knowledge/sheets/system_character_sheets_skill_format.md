@@ -12,8 +12,8 @@ description: >
   Blades in the Dark, and Ironsworn for structural inspiration, adapted
   for the Aura Chronicles' physics-first worldbuilding and web-novel pacing.
 cross_references:
-  - templates/system_character_sheets.md
-  - magic-systems/magic_skills_framework.md
+  - "[[system_character_sheets]]"
+  - "[[magic_skills_framework]]"
 ---
 
 # Character Sheet Skill Format — Design Spec

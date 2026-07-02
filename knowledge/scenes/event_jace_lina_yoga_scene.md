@@ -14,10 +14,10 @@ status: draft
 storybot_extrapolation_allowed: true
 last_updated: 2026-05-02
 cross_references:
-  - /knowledge/characters/char_lina_mills.md
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/universe-spec/magic_manifestations_early.md
-  - /knowledge/magic-systems/magic_overview.md
+  - "[[char_lina_mills]]"
+  - "[[char_jace_apollo]]"
+  - "[[magic_manifestations_early]]"
+  - "[[magic_overview]]"
 ---
 
 # Scene — Low-G Yoga with Lina (The Fingertips)

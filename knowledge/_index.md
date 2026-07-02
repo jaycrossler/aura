@@ -37,6 +37,8 @@
     - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-06-30; description: A quality pen whose nib was modified to work on tablet surfaces; lines: 229; xrefs: 0; canonical: false
     - char_suzi.md - name: Suzi [surname TBD]; id: char_suzi; status: alive; updated: 2026-06-17; description: Character profile for Suzi, Fortuna Station chief of security and investigative ally.; lines: 86; xrefs: 0; canonical: false
 - CLAUDE_PROJECT_INSTRUCTIONS.md - lines: 202; xrefs: 0; canonical: false
+- cleanup_reports/
+    - normalize_cross_references_2026-07-02.md - updated: 2026-07-02; lines: 654; xrefs: 0; canonical: false
 - factions/
     - faction_anzu_clades.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 62; xrefs: 0; canonical: true
     - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; canonical: true; updated: 2026-04-28; type: distributed_settlement_network; description: Describes the loose network of mining and habitation stations in the asteroid belt.; lines: 102; xrefs: 0; canonical: true
@@ -100,6 +102,7 @@
     - magic_will_implications.md - name: Will — Deep Implications and Universe-Wide Consequences; id: magic_will_implications; status: canonical_working; canonical: true; updated: 2026-05-31; type: foundational_analysis; description: Analyzes the universal biological and cosmic implications of conscious will generation.; lines: 309; xrefs: 0; canonical: true
     - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 228; xrefs: 5; canonical: true; chars: jace_apollo
 - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic.; lines: 125; xrefs: 0; canonical: false
+- normalize_cross_references.py
 - priority_fix_list.md - lines: 90; xrefs: 0; canonical: false
 - README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-06-26; type: readme; description: >; lines: 205; xrefs: 0; canonical: false
 - review-queue/
@@ -311,6 +314,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `magic_returning_arts`
 - `magic_will_implications`
 - `metadata_template_guide`
+- `normalize_cross_references_2026-07-02`
 - `priority_fix_list`
 - `review_2026-06-16_falcon_redesign`
 - `scene_notes_ai_interactions`

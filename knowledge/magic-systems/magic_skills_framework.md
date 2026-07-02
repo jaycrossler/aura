@@ -8,13 +8,13 @@ canonical: true
 description: "Reference guide for the magic skills framework, defining the bracketed [Skill] system, skill trees, and Sol human progression."
 last_updated: 2026-06-27
 cross_references:
-  - magic-systems/magic_will_orbs.md
-  - magic-systems/magic_will_and_templates.md
-  - universe-spec/spec_dimensional_travel_mechanics.md
-  - characters/char_jace_apollo.md
-  - characters/char_kael.md
-  - factions/faction_titans.md
-  - magic-systems/magic_skill_level_scale.md
+  - "[[magic_will_orbs]]"
+  - "[[magic_will_and_templates]]"
+  - "[[spec_dimensional_travel_mechanics]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_kael]]"
+  - "[[faction_titans]]"
+  - "[[magic_skill_level_scale]]"
 ---
 
 # Skills Framework — [Skill] System, Trees, and Progression

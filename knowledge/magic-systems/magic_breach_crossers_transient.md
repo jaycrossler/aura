@@ -8,11 +8,11 @@ status: working draft — extends canonical crossing/fauna specs
 canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
 last_updated: 2026-06-25
 cross_references:
-  - /knowledge/universe-spec/spec_scar_clearing_mechanics.md
-  - /knowledge/universe-spec/spec_threat_escalation.md
-  - /knowledge/universe-spec/spec_astral_phenomenology.md
-  - /knowledge/magic-systems/magic_cryptids_silicon.md
-  - /knowledge/magic-systems/magic_manifestations_early.md
+  - "[[spec_scar_clearing_mechanics]]"
+  - "[[spec_threat_escalation]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[magic_cryptids_silicon]]"
+  - "[[magic_manifestations_early]]"
 ---
 
 # Transient Breach-Crossers — The Flash-Freeze Class

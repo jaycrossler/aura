@@ -13,10 +13,10 @@ status: sketch
 storybot_extrapolation_allowed: true
 last_updated: 2026-05-02
 cross_references:
-  - /knowledge/characters/char_lt_rich_cullivan.md
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/scenes/event_jace_doctor_appointment.md
-  - /knowledge/technology/tech_communications_filtering.md
+  - "[[char_lt_rich_cullivan]]"
+  - "[[char_jace_apollo]]"
+  - "[[event_jace_doctor_appointment]]"
+  - "[[tech_communications_filtering]]"
 ---
 
 # Scene — Rich's Comms Favor for Jace

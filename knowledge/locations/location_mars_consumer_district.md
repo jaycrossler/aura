@@ -9,9 +9,9 @@ era_of_relevance: story present onward
 canonical: true
 last_updated: 2026-06-30
 cross_references:
-  - /knowledge/locations/location_terminus.md
-  - /knowledge/locations/location_mars_overview.md
-  - /knowledge/locations/location_mars_fabrication_district.md
+  - "[[location_terminus]]"
+  - "[[location_mars_overview]]"
+  - "[[location_mars_fabrication_district]]"
 revision_notes:
   - "2026-04-30: Initial draft from voice session."
   - "2026-06-30: Re-anchored district inside Terminus's realistic dome/tunnel infrastructure. Added food halls, cafes, corridor dimensions, low-g furniture, safety gear, and image prompts."

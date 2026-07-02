@@ -13,12 +13,12 @@ location: ship_falcon
 status: rewrite_draft (beats + illustrative dialogue)
 last_updated: 2026-06-17
 cross_references:
-  - /knowledge/ships/ship_falcon.md
-  - /knowledge/magic-systems/magic_breach_crossers_transient.md
-  - /knowledge/livestock/falcon_animal_manifest_book1.md
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/characters/char_maureen.md
-  - /knowledge/scenes/book01-ch02b-learning-mode.md
+  - "[[ship_falcon]]"
+  - "[[magic_breach_crossers_transient]]"
+  - "[[falcon_animal_manifest_book1]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_maureen]]"
+  - "[[book01-ch02b-learning-mode]]"
 ---
 
 # Chapter 2 — The Plumbing Crisis (Rewrite)

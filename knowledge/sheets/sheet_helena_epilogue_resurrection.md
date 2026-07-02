@@ -13,10 +13,10 @@ is_vault_snapshot: false
 last_updated: 2026-07-02
 description: "Helena's state immediately upon resurrection from the accidental vault store captured in sheet_helena_prologue_death. Documents memory loss window and the hangover misattribution."
 cross_references:
-  - characters/char_helena.md
-  - sheets/sheet_helena_prologue_death.md
-  - scenes/event_helena_epilogue.md
-  - magic-systems/magic_will_and_templates.md
+  - "[[char_helena]]"
+  - "[[sheet_helena_prologue_death]]"
+  - "[[event_helena_epilogue]]"
+  - "[[magic_will_and_templates]]"
 ---
 
 # Helena — Epilogue Resurrection

@@ -7,10 +7,10 @@ status: established canon
 canonical: true
 last_updated: 2026-06-26
 cross_references:
-  - /knowledge/universe-spec/tech_information_environment.md
-  - /knowledge/technology/tech_communications_filtering.md
-  - /knowledge/characters/char_eugene.md
-  - /knowledge/universe-spec/concept_mil_ex_implants.md
+  - "[[tech_information_environment]]"
+  - "[[tech_communications_filtering]]"
+  - "[[char_eugene]]"
+  - "[[concept_mil_ex_implants]]"
 ---
 
 # {Aura} — The Distributed AI System

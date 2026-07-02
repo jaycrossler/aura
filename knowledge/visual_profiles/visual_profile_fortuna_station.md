@@ -12,9 +12,9 @@ description: >
   night cycle confirmed. Remaining gaps: exact ring diameter annotations,
   Drone Ops precise location, and Erin's Inn exact ring position.
 cross_references:
-  - locations/location_fortuna_station.md
-  - locations/fortuna_station_population_neighborhoods.md
-  - universe-spec/spec_belt_transport_and_economy.md
+  - "[[location_fortuna_station]]"
+  - "[[fortuna_station_population_neighborhoods]]"
+  - "[[spec_belt_transport_and_economy]]"
 images:
   - path: images/locations/location_fortuna_station__exterior.png
     type: concept

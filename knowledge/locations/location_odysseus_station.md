@@ -6,9 +6,9 @@ status: canonical
 canonical: true
 last_updated: 2026-06-26
 cross_references:
-  - location_metis_station
-  - location_fortuna_station
-  - faction_china_belt_operations
+  - "[[location_metis_station]]"
+  - "[[location_fortuna_station]]"
+  - "[[faction_china_belt_operations]]"
 description: >
   Jupiter L4 observation and science station. Retained as canon but no longer
   Artemis Grant's posting. Site of the early flux anomalies that triggered

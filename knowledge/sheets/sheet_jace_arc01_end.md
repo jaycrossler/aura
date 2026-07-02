@@ -13,9 +13,9 @@ is_vault_snapshot: false
 last_updated: 2026-06-27
 description: "Jace at Arc 1 close — [Astral Transfer] L3, combat-blooded, Sophia/Nick partnerships established, HUD Templated."
 cross_references:
-  - characters/char_jace_apollo.md
-  - arcs/arc_01_falcon_and_fortuna.md
-  - sheets/sheet_jace_arc01_start.md
+  - "[[char_jace_apollo]]"
+  - "[[arc_01_falcon_and_fortuna]]"
+  - "[[sheet_jace_arc01_start]]"
 ---
 
 # Jace Grant — Arc 1 End (Kael Arrival)

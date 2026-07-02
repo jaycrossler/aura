@@ -14,11 +14,11 @@ description: >
   minor character; his wrongness is the arc's first clear demonstration of what
   unguided Will use does to a person.
 cross_references:
-  - characters/char_jace_apollo.md
-  - characters/char_cerberus.md
-  - characters/char_lanchee.md
-  - locations/location_fortuna_station.md
-  - arcs/arc_01_falcon_and_fortuna.md
+  - "[[char_jace_apollo]]"
+  - "[[char_cerberus]]"
+  - "[[char_lanchee]]"
+  - "[[location_fortuna_station]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Hayes

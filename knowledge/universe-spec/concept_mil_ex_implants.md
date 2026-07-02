@@ -7,9 +7,9 @@ status: established canon
 canonical: true
 last_updated: 2026-05-02
 cross_references:
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/universe-spec/concept_aura_ai_system.md
-  - /knowledge/technology/tech_cybernetics.md
+  - "[[char_jace_apollo]]"
+  - "[[concept_aura_ai_system]]"
+  - "[[tech_cybernetics]]"
 ---
 
 # MilX — Military Implant Systems and the Implant Ecosystem

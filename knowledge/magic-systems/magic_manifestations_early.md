@@ -7,11 +7,11 @@ status: established canon (observable phenomena); theoretical explanations TBD
 canonical: true
 last_updated: 2105-03-15
 cross_references:
-  - /knowledge/timeline/outbreak_timeline.md
-  - /knowledge/magic-systems/magic_overview.md
-  - /knowledge/characters/char_jace_apollo.md
-  - /knowledge/characters/char_cerberus.md
-  - /knowledge/universe-spec/concept_aura_ai_system.md
+  - "[[outbreak_timeline]]"
+  - "[[magic_overview]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_cerberus]]"
+  - "[[concept_aura_ai_system]]"
 ---
 
 # Early Manifestations — Pre-Understanding Phase

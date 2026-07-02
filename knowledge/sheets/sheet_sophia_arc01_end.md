@@ -13,8 +13,8 @@ is_vault_snapshot: false
 last_updated: 2026-06-27
 description: "Sophia at Arc 1 close — first human deliberate crosser; strong perception and force skills; accumulating trauma; [Astral Transfer] underdeveloped relative to Jace."
 cross_references:
-  - characters/char_sophia_lotte.md
-  - arcs/arc_01_falcon_and_fortuna.md
+  - "[[char_sophia_lotte]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Sophia Lotte — Arc 1 End (Kael Arrival)

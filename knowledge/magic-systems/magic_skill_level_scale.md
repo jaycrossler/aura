@@ -12,10 +12,10 @@ description: >
   in magic_skills_framework.md for any conflict — those descriptions should be
   retconned to match this scale in the next skills framework revision.
 cross_references:
-  - magic-systems/magic_skills_framework.md
-  - magic-systems/magic_astral_transfer_skill.md
-  - characters/char_jace_apollo.md
-  - characters/char_kael.md
+  - "[[magic_skills_framework]]"
+  - "[[magic_astral_transfer_skill]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_kael]]"
 ---
 
 # Skill Level Scale — Canonical Reference

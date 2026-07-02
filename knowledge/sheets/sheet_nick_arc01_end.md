@@ -13,8 +13,8 @@ is_vault_snapshot: false
 last_updated: 2026-06-27
 description: "Nick at Arc 1 close — no Astral combat skills; AI infrastructure mastery; early {Aura} Will-detection modifications in place; the open-source engine is running."
 cross_references:
-  - characters/char_nick_lee.md
-  - arcs/arc_01_falcon_and_fortuna.md
+  - "[[char_nick_lee]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Nick Lee — Arc 1 End (Kael Arrival)

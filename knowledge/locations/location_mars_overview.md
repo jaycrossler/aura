@@ -8,12 +8,12 @@ era: late 21st century onward
 canonical: true
 last_updated: 2026-06-30
 cross_references:
-  - location_terminus.md
-  - location_pangu.md
-  - location_mars_livestock_farm.md
-  - location_mars_us_afspace_force_base.md
-  - location_mars_consumer_district.md
-  - location_mars_fabrication_district.md
+  - "[[location_terminus]]"
+  - "[[location_pangu]]"
+  - "[[location_mars_livestock_farm]]"
+  - "[[location_mars_us_afspace_force_base]]"
+  - "[[location_mars_consumer_district]]"
+  - "[[location_mars_fabrication_district]]"
 revision_notes:
   - "2026-05-02: Initial inhabited Mars overview."
   - "2026-06-30: Updated Mars population model to three mature cities: Terminus ~10k, Pangu ~7k, Elysium ~5k, plus outposts. Added train/truck logistics, agriculture/ranching role, launch infrastructure, and realistic visual-generation guidance."

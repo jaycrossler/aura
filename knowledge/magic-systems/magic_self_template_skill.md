@@ -14,12 +14,12 @@ description: >
   weapon, place), and the full skill level scale. Introduces the Cognitive Layer
   as a canonical fourth dimension.
 cross_references:
-  - magic-systems/magic_skills_framework.md
-  - magic-systems/magic_skill_level_scale.md
-  - magic-systems/magic_will_and_templates.md
-  - universe-spec/spec_dimensional_travel_mechanics.md
-  - characters/char_jace_apollo.md
-  - characters/char_kael.md
+  - "[[magic_skills_framework]]"
+  - "[[magic_skill_level_scale]]"
+  - "[[magic_will_and_templates]]"
+  - "[[spec_dimensional_travel_mechanics]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_kael]]"
 ---
 
 # [Self Template] — Skill Specification

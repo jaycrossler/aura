@@ -13,8 +13,8 @@ is_vault_snapshot: false
 last_updated: 2026-06-27
 description: "Jin at Arc 1 close — {Seek} destroyed, crew liberated, fire abilities manifested openly in combat for the first time."
 cross_references:
-  - characters/char_jin_luong.md
-  - arcs/arc_01_falcon_and_fortuna.md
+  - "[[char_jin_luong]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Jin Lóng — Arc 1 End (Kael Arrival)

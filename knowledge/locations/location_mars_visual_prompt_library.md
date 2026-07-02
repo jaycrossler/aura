@@ -7,13 +7,13 @@ status: draft
 canonical: true
 last_updated: 2026-06-30
 cross_references:
-  - location_mars_overview.md
-  - location_terminus.md
-  - location_pangu.md
-  - location_mars_livestock_farm.md
-  - location_mars_us_afspace_force_base.md
-  - location_mars_consumer_district.md
-  - location_mars_fabrication_district.md
+  - "[[location_mars_overview]]"
+  - "[[location_terminus]]"
+  - "[[location_pangu]]"
+  - "[[location_mars_livestock_farm]]"
+  - "[[location_mars_us_afspace_force_base]]"
+  - "[[location_mars_consumer_district]]"
+  - "[[location_mars_fabrication_district]]"
 ---
 
 # Mars Visual Prompt Library

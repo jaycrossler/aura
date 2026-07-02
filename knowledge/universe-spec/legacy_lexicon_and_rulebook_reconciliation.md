@@ -7,12 +7,12 @@ status: reconciliation (folds the retired "Physics and Metaphysics Rulebook" pro
 canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision
 last_updated: 2026-06-24
 cross_references:
-  - /knowledge/universe-spec/spec_astral_phenomenology.md
-  - /knowledge/universe-spec/spec_crossing_mechanics.md
-  - /knowledge/universe-spec/spec_scar_clearing_mechanics.md
-  - /knowledge/universe-spec/physics-and-magic-interaction.md
-  - /knowledge/magic-systems/magic_never_never.md
-  - /knowledge/technology/tech_never_never_transit.md
+  - "[[spec_astral_phenomenology]]"
+  - "[[spec_crossing_mechanics]]"
+  - "[[spec_scar_clearing_mechanics]]"
+  - "[[physics-and-magic-interaction]]"
+  - "[[magic_never_never]]"
+  - "[[tech_never_never_transit]]"
 ---
 
 # Legacy Lexicon & Physics-Rulebook Reconciliation

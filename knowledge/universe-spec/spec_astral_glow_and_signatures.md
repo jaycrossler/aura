@@ -12,13 +12,13 @@ description: >
   Complements spec_astral_phenomenology.md (which covers terrain, navigation,
   and gross phenomena); this file covers mind-perception and working-detection.
 cross_references:
-  - universe-spec/spec_astral_phenomenology.md
-  - universe-spec/spec_cognitive_layer.md
-  - magic-systems/magic_will_and_templates.md
-  - magic-systems/magic_skills_framework.md
-  - characters/char_sophia_lotte.md
-  - characters/char_jace_apollo.md
-  - characters/char_kael.md
+  - "[[spec_astral_phenomenology]]"
+  - "[[spec_cognitive_layer]]"
+  - "[[magic_will_and_templates]]"
+  - "[[magic_skills_framework]]"
+  - "[[char_sophia_lotte]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_kael]]"
 ---
 
 # Astral Glow, Thought Signatures, and Working Detection

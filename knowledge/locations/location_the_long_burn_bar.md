@@ -7,9 +7,9 @@ book: book01
 status: draft
 storybot_extrapolation_allowed: true
 cross_references:
-  - /knowledge/locations/location_terminus.md
-  - /knowledge/characters/char_the_rat.md
-  - /knowledge/scenes/event_jace_bar_rumors.md
+  - "[[location_terminus]]"
+  - "[[char_the_rat]]"
+  - "[[event_jace_bar_rumors]]"
 revision_notes:
   - "2026-05: Initial file. Placed in Terminus underground tunnels, Level 1-2 old commercial area."
 ---

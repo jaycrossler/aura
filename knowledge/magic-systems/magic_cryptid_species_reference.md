@@ -12,11 +12,11 @@ description: >
   affinity), skill advancement effects on absorption, and narrative visual cues.
   Uses the same skill level scale as practitioner progression.
 cross_references:
-  - magic-systems/magic_will_orbs.md
-  - magic-systems/magic_skills_framework.md
-  - magic-systems/magic_skill_level_scale.md
-  - magic-systems/magic_breach_crossers_transient.md
-  - arcs/arc_01_falcon_and_fortuna.md
+  - "[[magic_will_orbs]]"
+  - "[[magic_skills_framework]]"
+  - "[[magic_skill_level_scale]]"
+  - "[[magic_breach_crossers_transient]]"
+  - "[[arc_01_falcon_and_fortuna]]"
 ---
 
 # Belt Cryptid Species — Will Profile and Orb Reference

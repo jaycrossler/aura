@@ -11,8 +11,8 @@ description: >
   anchors, workspace, earrings, keyboard gloves, glasses habit, and cultural
   background all confirmed.
 cross_references:
-  - characters/char_nick_lee.md
-  - universe-spec/spec_astral_glow_and_signatures.md
+  - "[[char_nick_lee]]"
+  - "[[spec_astral_glow_and_signatures]]"
 images:
   - path: images/characters/char_nick_lee__portrait.png
     type: portrait

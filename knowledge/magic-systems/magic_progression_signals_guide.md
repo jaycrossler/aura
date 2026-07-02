@@ -11,10 +11,10 @@ description: >
   for reviewers. Applies to all scene drafts, StoryBot chapter generation, and
   editorial passes.
 cross_references:
-  - SERIES_BIBLE.md
-  - magic-systems/magic_skills_framework.md
-  - magic-systems/magic_skill_level_scale.md
-  - storybot/progression_review_guide.md
+  - "[[SERIES_BIBLE]]"
+  - "[[magic_skills_framework]]"
+  - "[[magic_skill_level_scale]]"
+  - "[[progression_review_guide]]"
 ---
 
 # Progression Signals — Prose Writing Guide

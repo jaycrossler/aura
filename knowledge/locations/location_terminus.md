@@ -11,14 +11,14 @@ storybot_extrapolation_allowed: true
 population: ~10,000
 last_updated: 2026-06-30
 cross_references:
-  - location_the_long_burn_bar.md
-  - location_mars_livestock_farm.md
-  - location_mars_us_afspace_force_base.md
-  - location_mars_consumer_district.md
-  - location_mars_fabrication_district.md
-  - location_pangu.md
-  - location_mars_overview.md
-  - universe-spec/
+  - "[[location_the_long_burn_bar]]"
+  - "[[location_mars_livestock_farm]]"
+  - "[[location_mars_us_afspace_force_base]]"
+  - "[[location_mars_consumer_district]]"
+  - "[[location_mars_fabrication_district]]"
+  - "[[location_pangu]]"
+  - "[[location_mars_overview]]"
+  - "[[universe-spec]]"
 revision_notes:
   - "2026-05: Initial file. Author-confirmed: dome/tunnel split, farm domes, underground livestock."
   - "2026-06-30: Updated from discussion: Terminus is ~10,000 residents, ~70 years old, U.S.-owned, one of three Mars cities. Added large agriculture/ranching domes, buried storage vaults, remote rail launch system, military cantonment, regional support role, civic inventory, and visual prompt guidance."

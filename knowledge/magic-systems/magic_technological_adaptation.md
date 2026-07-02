@@ -9,10 +9,10 @@ canonical: true
 last_updated: 2026-06-26
 environment: asteroid belt stations; gradually Mars
 cross_references:
-  - /knowledge/magic-systems/magic_overview.md
-  - /knowledge/universe-spec/concept_aura_ai_system.md
-  - /knowledge/universe-spec/concept_mil_ex_implants.md
-  - /knowledge/magic-systems/magic_manifestations_early.md
+  - "[[magic_overview]]"
+  - "[[concept_aura_ai_system]]"
+  - "[[concept_mil_ex_implants]]"
+  - "[[magic_manifestations_early]]"
 ---
 
 # Technological Adaptation to the Outbreak — The Static Problem
