@@ -1,30 +1,5 @@
-# Aura Chronicles — Visual Profile & Production Metadata System
-# Instruction Document for New Conversations
-# Version 1.0 — 2026-06-28
-#
-# Give this document to a new Claude conversation (with project knowledge access)
-# to continue visual profile development, scene metadata work, or image generation prep.
-
 ---
-
-## WHAT THIS SYSTEM IS
-
-The Visual Profile & Production Metadata system has three purposes:
-
-1. **Image generation readiness** — structured visual anchors for every character,
-   location, creature, and faction so the image generation agent produces consistent,
-   accurate results without manual prompt correction.
-
-2. **Audiobook production** — voice profiles, emotional tone metadata, and dialogue
-   attribution for every scene, enabling an audiobook director to cast and direct
-   without re-reading the prose.
-
-3. **Video/animation production** — the same scene metadata that serves audiobooks
-   also serves AI video generation tools: who is in frame, what they look like,
-   what emotional register they're in, what the environment looks like.
-
-These three outputs share the same underlying data. You capture it once.
-
+last_updated: 2026-06-28
 ---
 
 ## FILES IN THIS SYSTEM

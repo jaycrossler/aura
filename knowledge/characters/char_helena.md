@@ -1,4 +1,5 @@
 ---
+
 description: "Character profile detailing Helena's disappearance and magical crossing into the Astral plane."
 id: char_helena
 name: Helena [surname TBD]
@@ -11,7 +12,7 @@ status: deceased, then resurrected (disappeared; body never recovered; resurrect
 first_appearance: Book 1, final transit week (offscreen — disappearance reported before Jace docks)
 pov_character: false
 recurring: posthumous (her case recurs as mystery thread)
-last_updated: 2026-06-24
+last_updated: 2026-07-02
 
 # Affiliations
 employer status: independently wealthy — first child born on Fortuna Station; parents'

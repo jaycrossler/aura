@@ -6,9 +6,42 @@ This document tracks unresolved story details, technical discrepancies, missing 
 
 ---
 
-## 1. Technical & Narrative Open Questions
+## 1. Prioritized Open Questions & Decisions
 
-- **Naming Conventions & The Nomenclature Thread:** Check the alignment of the bracketed `[Skill]` notation across the series. Ensure that brackets do not appear in any drafted prose set before Jace establishes them in Arc 2.
+This section organizes the universe's unresolved details, narrative forks, and design choices by the urgency of their resolution.
+
+### High Priority (Arc 1 / Book 1 — Mars & Falcon Transit)
+*These questions directly impact the drafting of the immediate Book 1 scenes, characters, and initial mechanical limits.*
+
+- **Rich's Comms Favor (from [event_rich_comms_favor.md](file:///D:/Projects/aura/knowledge/scenes/event_rich_comms_favor.md)):** What specific favor does Rich perform? Does it succeed cleanly or complicate things? (Options: verifying outgoing messages to Artemis, retrieving Jace's HUD archive, or running back-channel diagnostics). How does the resulting complication weave Rich into the comms-filtering arc?
+- **Jace's Bone Disease & Breakdown (from [char_jace_apollo.md](file:///D:/Projects/aura/knowledge/characters/char_jace_apollo.md)):** What is the specific medical name/fictional designation of Jace's bone disease? Where does Jace break down in private afterwards (quarters, stairwell)? Does he call his parents immediately?
+- **Horse Farm Offer Realtor Details (from [event_jace_horse_farm_offer.md](file:///D:/Projects/aura/knowledge/scenes/event_jace_horse_farm_offer.md)):** Does the realtor's offer cover Jace's 1M credit debt fully or only partially? Does Chris/Dawn separately follow up to express relief at his refusal?
+- **Falcon Plumbing/Propellant Crisis (from [book01-ch02-plumbing-crisis.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch02-plumbing-crisis.md)):** Which two spokes are iced (pig + small-animal)? What is the exact contaminant (reserve propellant/water+argon)?
+- **Suzi's Background & Role (from [char_suzi.md](file:///D:/Projects/aura/knowledge/characters/char_suzi.md)):** What is Suzi's surname and specific military background? Is she read into the station's suppressed anomaly history or kept in the dark by Origin management?
+- **Mars Dog Breeder Handler & Siren (from [char_cerberus.md](file:///D:/Projects/aura/knowledge/characters/char_cerberus.md)):** Who is the senior animal handler/livestock breeder? What is Siren's final name, breed, and human pairing on Fortuna?
+- **Jace's Gym Flirtation (from [event_jace_gym_arrival.md](file:///D:/Projects/aura/knowledge/scenes/event_jace_gym_arrival.md)):** Does the woman at the gym become a recurring character (e.g., a settler on the *Falcon* later)? What specific exercises does Jace perform?
+- **Cerberus's Will-Glow Color (from [spec_astral_glow_and_signatures.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_astral_glow_and_signatures.md)):** What color is Cerberus's Will-glow?
+- **Sleep Mask Scrubber Lifetime (from [spec_crossing_mechanics.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_crossing_mechanics.md)):** What is the exact scrubber lifetime of the standard belt sleep mask (4-8 hours)?
+- **The Long Burn Bar & Bartender (from [event_jace_bar_rumors.md](file:///D:/Projects/aura/knowledge/scenes/event_jace_bar_rumors.md)):** What is the bar's name (working: *The Long Burn*)? Is the bartender/merchant recurring?
+- **USAF Task Force Commander (from [faction_united_states_military_intelligence.md](file:///D:/Projects/aura/knowledge/factions/faction_united_states_military_intelligence.md)):** What is the exact identity and political motivations of the Task Force commander supervising Rich and Jace?
+
+### Medium Priority (Arc 2 — The Woven & Dungeon Emergence)
+*These questions affect the Woven first contact, early dungeons on Earth/Mars, and the Metis Station rescue.*
+
+- **Dungeon Systems & Guardians (from [spec_dungeon_systems.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_dungeon_systems.md)):** Which specific dungeon types are active in the solar system, and what were their original purposes? What are the dungeon guardian types?
+- **Kael's Sibling Count and Names (from [arc_05_the_reckoning.md](file:///D:/Projects/aura/knowledge/arcs/arc_05_the_reckoning.md)):** How many siblings does Kael have, what are their names/titles, and who is the oldest/most dangerous?
+- **Eugene's AI Will Framework (from [char_eugene.md](file:///D:/Projects/aura/knowledge/characters/char_eugene.md)):** What are the details of Eugene's theoretical framework for AI Will? What specifically is he modifying in the core engine for Will-transit?
+- **Will-Bonded Animals (from [spec_will_bonded_animals.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_will_bonded_animals.md)):** Will Cerberus's bond formalize in Arc 3? Does Kai bond with anyone while Kael is held?
+- **Silicon-Class Manifestations (from [magic_cryptids_silicon.md](file:///D:/Projects/aura/knowledge/magic-systems/magic_cryptids_silicon.md)):** Do Silicon-class manifestations (Glass-Vine) have intelligence, communication, or purpose? Can the Hollow Miners be recovered?
+
+### Low/Series Priority (Arcs 3–5 & Universe Spec)
+*These questions cover series-level mythology, deep space exploration, and long-term consequences of magic.*
+
+- **Naming Conventions & The Nomenclature Thread (from [SERIES_BIBLE.md](file:///D:/Projects/aura/knowledge/SERIES_BIBLE.md)):** Check the alignment of the bracketed `[Skill]` notation across the series. Ensure that brackets do not appear in any drafted prose set before Jace establishes them in Arc 2. At what point, if ever, does Jace's taxonomy become adoptable outside the belt?
+- **The "Apollo" Working (from [spec_cognitive_layer.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_cognitive_layer.md)):** What was the major Cognitive Layer working performed in Sol ~3,200 years ago? Why does "Apollo" command Kael's attention?
+- **AI Cognitive Layer & Templates (from [spec_cognitive_layer.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_cognitive_layer.md)):** Do AI systems have Templates in the Cognitive Layer? What self-referential tasks maximize Will generation?
+- **The Bloom's Vulnerability (from [faction_the_bloom.md](file:///D:/Projects/aura/knowledge/factions/faction_the_bloom.md)):** What is the Bloom's vulnerability to fire? How many Bloom arrive in the solar system, and what is their authority structure?
+- **Woven Response Force (from [arc_04_the_bloom.md](file:///D:/Projects/aura/knowledge/arcs/arc_04_the_bloom.md)):** What is the composition of the Woven response force mobilizing in response to Kael's Will message?
 
 ---
 
