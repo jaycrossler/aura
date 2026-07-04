@@ -8,22 +8,23 @@ This document tracks unresolved story details, technical discrepancies, missing 
 
 ## 1. Prioritized Open Questions & Decisions
 
-This section organizes the universe's unresolved details, narrative forks, and design choices by the urgency of their resolution.
+This section organizes the universe's unresolved details, narrative forks, and design choices by the urgency of their resolution, focusing strictly on canonical timeline events and prioritizing earlier chapters first.
 
-### High Priority (Arc 1 / Book 1 — Mars & Falcon Transit)
-*These questions directly impact the drafting of the immediate Book 1 scenes, characters, and initial mechanical limits.*
+### High Priority (Arc 1 / Book 1 — The Falcon & Fortuna Transit)
+*These questions directly impact the immediate Book 1 scenes, characters, and initial mechanical limits, ordered chronologically.*
 
-- **Rich's Comms Favor (from [event_rich_comms_favor.md](file:///D:/Projects/aura/knowledge/scenes/event_rich_comms_favor.md)):** What specific favor does Rich perform? Does it succeed cleanly or complicate things? (Options: verifying outgoing messages to Artemis, retrieving Jace's HUD archive, or running back-channel diagnostics). How does the resulting complication weave Rich into the comms-filtering arc?
-- **Jace's Bone Disease & Breakdown (from [char_jace_apollo.md](file:///D:/Projects/aura/knowledge/characters/char_jace_apollo.md)):** What is the specific medical name/fictional designation of Jace's bone disease? Where does Jace break down in private afterwards (quarters, stairwell)? Does he call his parents immediately?
-- **Horse Farm Offer Realtor Details (from [event_jace_horse_farm_offer.md](file:///D:/Projects/aura/knowledge/scenes/event_jace_horse_farm_offer.md)):** Does the realtor's offer cover Jace's 1M credit debt fully or only partially? Does Chris/Dawn separately follow up to express relief at his refusal?
-- **Falcon Plumbing/Propellant Crisis (from [book01-ch02-plumbing-crisis.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch02-plumbing-crisis.md)):** Which two spokes are iced (pig + small-animal)? What is the exact contaminant (reserve propellant/water+argon)?
+- **Helena's Prologue Death (from [event_helena_prologue.md](file:///D:/Projects/aura/knowledge/scenes/event_helena_prologue.md)):** How does Helena die in the dark? What does she discover before dying that precipitates her crossing?
+- **First {Aura} Conversation (from [scene_book01_transit_vignettes](file:///D:/Projects/aura/knowledge/scenes/book01-transit-vignettes.md) / [scene_notes_ai_interactions.md](file:///D:/Projects/aura/knowledge/scenes/scene_notes_ai_interactions.md)):** What is Jace's partition environment like? What specifically is said in Jace's first conversation with {Aura} during HUD installation over the comms lag during early transit?
+- **Falcon Transit Vignettes Details (from [scene_book01_transit_vignettes](file:///D:/Projects/aura/knowledge/scenes/book01-transit-vignettes.md)):**
+  - Who is the senior animal handler/livestock breeder on the ship, and what is their relationship with Jace?
+  - What are the official/manifest names of the heifer and Smiley the pig vs Jace's personal ones?
+  - When exactly does the lost-animal scene happen (before or after the first major anomaly)?
+- **HUD Headaches & Dreams (from [book01-ch01-morning-round.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch01-morning-round.md) / [book01-ch01-afternoon-workshop.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch01-afternoon-workshop.md)):** What are the details of the crystal tunnel dreams? How are Jace's HUD headaches managed by Lanchee in the medical files before the plumbing crisis?
+- **Falcon Plumbing/Propellant Crisis (from [book01-ch02-plumbing-crisis.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch02-plumbing-crisis.md)):** Which two berths are iced (pig + small-animal), and is Siren's pen among them? What is the exact contaminant (reserve propellant/water+argon)? How is Jace told his actions will violate Origin's contract before he proceeds?
+- **Learning Mode Sewage Fumble (from [book01-ch02b-learning-mode.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch02b-learning-mode.md)):** What is the exact placement of Chapter 2b relative to Chapter 2? Is Nick watching live feeds from the ship and referencing the fumble in real time across the shrinking comms lag?
 - **Suzi's Background & Role (from [char_suzi.md](file:///D:/Projects/aura/knowledge/characters/char_suzi.md)):** What is Suzi's surname and specific military background? Is she read into the station's suppressed anomaly history or kept in the dark by Origin management?
-- **Mars Dog Breeder Handler & Siren (from [char_cerberus.md](file:///D:/Projects/aura/knowledge/characters/char_cerberus.md)):** Who is the senior animal handler/livestock breeder? What is Siren's final name, breed, and human pairing on Fortuna?
-- **Jace's Gym Flirtation (from [event_jace_gym_arrival.md](file:///D:/Projects/aura/knowledge/scenes/event_jace_gym_arrival.md)):** Does the woman at the gym become a recurring character (e.g., a settler on the *Falcon* later)? What specific exercises does Jace perform?
-- **Cerberus's Will-Glow Color (from [spec_astral_glow_and_signatures.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_astral_glow_and_signatures.md)):** What color is Cerberus's Will-glow?
+- **Cerberus's Will-Glow Color (from [spec_astral_glow_and_signatures.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_astral_glow_and_signatures.md)):** What color is Cerberus's Will-glow? (Author input needed).
 - **Sleep Mask Scrubber Lifetime (from [spec_crossing_mechanics.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_crossing_mechanics.md)):** What is the exact scrubber lifetime of the standard belt sleep mask (4-8 hours)?
-- **The Long Burn Bar & Bartender (from [event_jace_bar_rumors.md](file:///D:/Projects/aura/knowledge/scenes/event_jace_bar_rumors.md)):** What is the bar's name (working: *The Long Burn*)? Is the bartender/merchant recurring?
-- **USAF Task Force Commander (from [faction_united_states_military_intelligence.md](file:///D:/Projects/aura/knowledge/factions/faction_united_states_military_intelligence.md)):** What is the exact identity and political motivations of the Task Force commander supervising Rich and Jace?
 
 ### Medium Priority (Arc 2 — The Woven & Dungeon Emergence)
 *These questions affect the Woven first contact, early dungeons on Earth/Mars, and the Metis Station rescue.*
@@ -47,7 +48,7 @@ This section organizes the universe's unresolved details, narrative forks, and d
 
 ## 2. Missing Core Files & Concepts
 
-- **Character Stubs:** Details on the USAF Captain (direct supervisor of Rich and Jace on Mars) and the livestock breeder handler need to be finalized for historical reference.
+- **Character Stubs:** Details on the senior animal handler/livestock breeder handler aboard the Falcon need to be finalized for historical reference.
 
 ---
 

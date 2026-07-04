@@ -105,7 +105,7 @@
     - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 228; xrefs: 5; canonical: true; chars: jace_apollo
 - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic.; lines: 125; xrefs: 0; canonical: false
 - normalize_cross_references.py
-- priority_fix_list.md - lines: 90; xrefs: 0; canonical: false
+- priority_fix_list.md - lines: 91; xrefs: 0; canonical: false
 - README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-06-26; type: readme; description: >; lines: 208; xrefs: 2; canonical: false
 - scenes/
     - book01-ch01-afternoon-workshop.md - id: book01-ch01-afternoon-workshop; status: draft; updated: 2026-06-05; type: scene_draft; description: Draft scene detailing Jace's engineering work, character interactions, and project development on the Falcon ship.; lines: 114; xrefs: 0; canonical: false
@@ -215,8 +215,6 @@
     - visual_profile_nick_lee.md - name: Visual Profile — Nick Lee; id: visual_profile_nick_lee; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 238; xrefs: 2; canonical: false; chars: nick_lee
     - visual_profile_ship_falcon.md - name: Visual Profile — The Falcon; id: visual_profile_ship_falcon; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 368; xrefs: 4; canonical: false; chars: maureen, jace_apollo, mei
     - visual_profile_sophia_lotte.md - name: Visual Profile — Sophia Lotte; id: visual_profile_sophia_lotte; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 233; xrefs: 3; canonical: false; chars: sophia_lotte
-    - visual_profiles_locations.md - name: Visual Profile — Fortuna Station; id: visual_profile_fortuna_station; status: good; updated: 2026-06-28; type: visual_profile; description: >; lines: 258; xrefs: 2; canonical: false
-    - visual_profiles_sophia_jin_nick_cerberus.md - name: Visual Profile — Sophia Lotte; id: visual_profile_sophia_lotte; status: minimal; updated: 2026-06-28; type: visual_profile; description: >; lines: 355; xrefs: 2; canonical: false; chars: sophia_lotte
     - voice_char_jace_apollo.md - id: voice_char_jace_apollo; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: Detailed vocal and speech pattern profile for character Jace Apollo Grant.; lines: 400; xrefs: 0; canonical: false
     - voice_char_lt_rich_cullivan.md - id: voice_char_lt_rich_cullivan; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: Detailed voice profile for Lt. Rich Cullivan, including emotional and situational speech patterns.; lines: 326; xrefs: 0; canonical: false
 
@@ -306,8 +304,6 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `visual_profile_nick_lee`
 - `visual_profile_ship_falcon`
 - `visual_profile_sophia_lotte`
-- `visual_profiles_locations`
-- `visual_profiles_sophia_jin_nick_cerberus`
 - `voice_char_jace_apollo`
 - `voice_char_lt_rich_cullivan`
 

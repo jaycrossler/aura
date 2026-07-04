@@ -406,4 +406,5 @@ OUTPUT.write_text("\n".join(lines_out) + "\n", encoding="utf-8")
 print(f"Wrote {OUTPUT} with {len(lines_out) - 1} entries.")
 if warnings:
     warn_sections = sum(1 for w in warnings if w.startswith("### "))
-    print(f"⚠️  {warn_sections} warning section(s) appended — review ## Warnings in _index.md")
+    print(f"WARNING: {warn_sections} warning section(s) appended — review ## Warnings in _index.md")
+
