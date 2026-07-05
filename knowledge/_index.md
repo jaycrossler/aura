@@ -1,7 +1,7 @@
 # Directory Tree
 
 - arcs/
-    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-06-27; type: arc; description: >; lines: 1488; xrefs: 21; canonical: true; open_decisions: 9; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong
+    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-06-27; type: arc; description: >; lines: 1621; xrefs: 21; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
     - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
     - arc_04_the_bloom.md - name: Arc 4 — The Bloom; id: arc_04_the_bloom; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 320; xrefs: 0; canonical: false; open_decisions: 5
@@ -40,6 +40,7 @@
 - CLAUDE_PROJECT_INSTRUCTIONS.md - lines: 202; xrefs: 0; canonical: false
 - cleanup_reports/
     - normalize_cross_references_2026-07-02.md - updated: 2026-07-02; lines: 726; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-07-04.md - updated: 2026-07-04; lines: 733; xrefs: 0; canonical: false
 - factions/
     - faction_anzu_clades.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 62; xrefs: 0; canonical: true
     - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; canonical: true; updated: 2026-04-28; type: distributed_settlement_network; description: Describes the loose network of mining and habitation stations in the asteroid belt.; lines: 102; xrefs: 0; canonical: true
@@ -278,6 +279,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `magic_returning_arts`
 - `metadata_template_guide`
 - `normalize_cross_references_2026-07-02`
+- `normalize_cross_references_2026-07-04`
 - `priority_fix_list`
 - `scene_notes_ai_interactions`
 - `ship_livestock_ferry_class`

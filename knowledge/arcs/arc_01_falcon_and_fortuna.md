@@ -252,12 +252,14 @@ Each scene must demonstrably accomplish the listed items.
    asteroid, animals aboard, the *Falcon* inbound and due to dock soon
 5. Introduces a few of the {AI} Systems and shows how she cares for each and they
    all are not villains. Shows how she coexists with the American and Chinese communities
-5. Establish her excitement for tonight's party — celebrating Sophia's 30th
+6. Show that when talking to the AI, they each have curly braces around their names -
+   establish this naming convention when she talks to {Alex} and {Seek} and {Penny}
+7. Establish her excitement for tonight's party — celebrating Sophia's 30th
    birthday — and her plan to flirt with Jin
-6. During yoga class, show her chakras aligning in a moment of transcendence,
+8. During yoga class, show her chakras aligning in a moment of transcendence,
    played as purely positive — no signal to the reader that anything is wrong
-7. She heads to the bar in the inn, happy, to meet friends
-8. State plainly, without a death scene, that she is dead in the dark
+9. She heads to the bar in the inn, happy, to meet friends
+10. State plainly, without a death scene, that she is dead in the dark
 
 **Must NOT do:**
 - Must not depict, imply, or foreshadow a death scene, body, breach, or EVA
@@ -272,16 +274,19 @@ Each scene must demonstrably accomplish the listed items.
 #### T-01 — Mars Departure Sequence
 
 **Must accomplish:**
-1. Jace's identity loss (being forced out of the military) is shown, not described —
+1. Jace was an up-and-comping military (US Space Force officer), but was forced out of the military
+  because he was found to have a disease - low bone density caused by the anti-cancer medication they
+  all take. This destroyed his life trajectory.  His sadness and loss of identiy is shown, not described —
   he misses that life and feels isolated and lonely; the reader sees who he was
   before the discharge, a "golden boy officer" that now is a no-named drone operator
   on the edges of populated space
+1a. Show that Jace woke up with a splitting headache, took pain killers with his anti-radiation meds and that Jace has a HUD
 2. Cerberus is established as a negotiated-for companion, not a given
-3. Show Jace running and running with the dogs, introduce Cerberus and Siren
+3. Show Jace running (and wearing weighted vests) with the dogs, introduce Cerberus and Siren
 4. Show that Jace exercises and pushes himself hard because he eventually wants to go back to earth
 5. Show that the Falcon has a round "donut" path and has a rotating ring that Jace can run around
 6. Introduce that there are a few other people on the Ship - Mei and Maureen and Lanchee
-7. Show that Jace loves his morning coffee ritual
+7. Show that Jace loves his morning coffee ritual and talks to {Alex} while doing it
 8. Show that there are multiple robots walking through the hallways of the Falcon
 9. Explain they are on a space ship hurtling towards the Asteroid Belt from Mars
 
@@ -290,21 +295,23 @@ Each scene must demonstrably accomplish the listed items.
   reader shouldn't yet know why
 - Make Jace's losses purely self-pitying — the hard months are about scrambling,
   not grieving
+- Explaion why he has headaches
+- Give too many details on his HUD
 
 ---
 
 #### T-01a — Taking care of the ladies
 
 **Must Accomplish**
-1. Introduce many of the animals
+1. Introduce many of the animals and the range of different animals
 2. Describe why there are animals going to the Asteroid belt
 3. Explain why they are all young and female (so they can be bred there)
 4. Show that Jace is a patient caretaker and not a macho military soldier
 5. Show that Jace has a wry self-deprecating sense of humor
-6. Show that the Pig Cam channel exists
+6. Show that the Pig Cam channel exists and show that he feeds the ducks and pigs as well as other animals
 7. Set up the animals as a little bit of comic relief -that the reader cares about them
 8. Show that Jace wants to move on to work in his shop, that he pauses to make the next move in a video game with Nick, and show that he will use his HUD to order an object to be printed - establish his HUD as important and a thing where he can give it mental orders
-9. Show Jace talking with the AI
+9. Show Jace talking with {Alex} and planning his day and reporting on progress
 
 **Must not do:**
 1. Be overly cute
@@ -321,17 +328,22 @@ Each scene must demonstrably accomplish the listed items.
    the informal arrangement with Maureen around the machine shop
 3. Saul's remote presence is felt through voice notes and Maureen's private readings
 4. Jace talks to Artemis briefly who is on Metis station - shows that he's excited
-   to be near his sister again after 5 years, and introduce that Metis station is a place
+   to be near his sister again after 5 years, and introduce that Metis station is a place.
+   Show that Artemis is "high up" - 3rd human in charge, but a team of 30 and 1000 robots.
+4a. Have Artemis wish Jace a Happy Birthday and share in his sadness of leaving the military
 5. Explain the water shushing sounds of water being pumped through ballasts around the
    ship, both for balance and shielding as people move
 6. Show that the ship has an AI that is controlling everything and the humans interact
    with it constantly
+7. Show that Mei sends him an email "did you eat my duck?" and that a Duck is inexplicitly
+   missing - and there is no conceivable place a duck could go missing on a space ship
 
 **Must NOT do:**
 - Rush the transit — this is where the characters are established
 - Make Maureen openly warm — her warmth is private and deniable
 - Forget that Mei is always slightly observing
 - Overly explain his relationship with Artemis
+- Make it seem that anyone hurt the duck - the absence is a mystery
 
 ---
 
@@ -344,16 +356,18 @@ anti-radiation and anti-nausea medicine.
 
 **Must accomplish:**
 1. Headaches appear at least once in each morning-routine scene before the
-   plumbing crisis — brief, filed, not solved
+   plumbing crisis — brief, filed, not solved. They have been occuring every day for a month and getting worse
 2. Lanchee's response is professional and measured: tests show nothing wrong
 3. The HUD running hot overnight is the mundane explanation Jace accepts
 4. Show that he's having weird dreams - and hint that the HUD is causing this
 5. Reiterate that Jace uses his breathing gear at night for safety reasons, takes
    radiation pills each morning
+6. Jace hears from Nich that a girl was murdered on Fortuna station and so everyone is in mourning there (foreshadowing)
 
 **Must NOT do:**
 - Explain the headaches — all readings remain available to the reader
 - Make the medical beat dramatic
+- Go into details of the murder or Helena's dissapearance
 
 ---
 
@@ -377,14 +391,16 @@ anti-radiation and anti-nausea medicine.
 
 **Still need to add to scene**
 - Jace is told that his actions are dangerous and will violate Origin's contract, he still goes ahead
+- Show that Jace accidently killed a Cryptid hiding in the ice and absorbed a Will orb (don't show or explain this)
 
 ---
 
 #### T-03a — The Morning After
 
 **Summary:** Jace is exhausted and Will-shocked. He absorbed an orb during the
-crisis; his body is paying for it in ways he can't name. Maureen is cold and
-precise. He works anyway.
+crisis (don't explain this to readers - only barely hint at it); his body is paying
+for it in ways he can't name - but his headaches went away. Maureen is cold and
+precise and angry. He works anyway to try to fix her ship.
 
 **Must accomplish:**
 1. Will-depletion illness shown physically — fatigue, mild nausea, persistent heat
@@ -398,6 +414,7 @@ precise. He works anyway.
 - Let Jace or reader understand what happened
 - Have Maureen soften
 - Play the illness dramatically
+- Mention anything about the orb or cryptid monster
 
 ---
 
@@ -414,7 +431,7 @@ twenty-four months.
 **Must accomplish:**
 1. {Alex} is cheerful, thorough, and completely without malice — it is doing
    exactly what it is designed to do
-2. The fine is real and painful; the Platinum status loss matters
+2. The fine is real and painful; the Platinum status loss matters to Jace - he's poor and knows it
 3. The twenty-four-month queue lands as the punch line and the structural problem
 
 **Must NOT do:**
@@ -433,6 +450,8 @@ twenty-four months.
 3. Jace recovers with a line, not a sulk — character voice locked in
 4. Introduce Thing one and Thing two as comedic, but not-fully-trusted drones
 5. Mention more about Sparky
+6. Show that having Thing One and Thing Two always controlled by Origin and surveiling
+   everything is a bit problematic - having local control and autonomy is a better path
 ---
 
 #### T-03c — The Artemis Call
@@ -444,10 +463,11 @@ the belt, that he shouldn't worry. He doesn't know what she means.
 **Must accomplish:**
 1. Sibling warmth, interrupted by communication lag and something she isn't saying
 2. "We have ships with big engines — don't worry" lands as a throwaway, not an omen
-3. The call is too short
-4. Mentions that Metis is someplace you can't go to - a military-funded shipyard
+3. The call is too short, Jace is so close to her but can't spend time with her - he is lonely
+4. Mentions that Metis is someplace Jace can't go to - a military-funded shipyard
 5. Possibly mention Artemis' boss is famous and rude
 6. Mentions they will launch a container of supplies that Maureen is delivering remotely
+7. Artemis asks Jace if he's heard of the missing girl on Fortuna station, but didn't think it was a murder
 
 ---
 
@@ -461,6 +481,8 @@ he 3d-prints a large pig's butt and sticks it on the canister.
 2. Introduces more details of how the canister's work
 3. Reiterates that Metis station is a few weeks travel from Fortuna, and they make ships
 4. He uses Sparky to mount it (as it's not an approved Origin activity), establishes more about Sparky
+5. He talks about using special plastic - the cheap stuff would outgass too much in space and degrade
+   quickly.  Picking the right material matters
 ---
 
 ### THREAD A — Arrival
@@ -469,33 +491,44 @@ he 3d-prints a large pig's butt and sticks it on the canister.
 
 #### A-01 — Arrival Day at Fortuna
 
-**Summary:** The *Falcon* docks. Jace steps off with Cerberus and Sparky (still
-being perfected). Carlos meets him. People know who he is before he knows who they are.
+**Summary:** The *Falcon* docks a km away from Fortuna, and canisters start offloading via tugs.
+Jace rides over with Cerberus and Mei and Sparky (scene still being perfected). Carlos meets
+him. People know who he (especially the pig cam and Training Mode video) is before he knows a little of who they are.
 He glimpses Jin and Sophia in passing — the burdened mining crew chief and the
-exhausted physicist who is somewhere else in her head. He finds Nick at the pig
-unloading, and Nick has already made a stuffed pig for Cerberus.
+exhausted physicist who is somewhere else in her head. He finds Nick as the animals are
+unloading, and Nick has already made a stuffed pig for Cerberus. They meet in person for the first time.
 
 **Must accomplish:**
 1. Carlos is established through texture: patient, knowing what to show first
 2. People recognize Jace by reputation before introduction — "Training Mode!",
-   "Dog Man!", a question about Screwdriver — strange-but-not-unpleasant
+   "Dog Man!", a question about Sparky — strange-but-not-unpleasant
 3. Jin is glimpsed — something burdened, not threatening; filed
 4. Sophia is glimpsed — specific exhaustion, somewhere else; filed
-5. Nick's stuffed pig is established as Cerberus's permanent companion from here
+5. Nick's stuffed pig is established as Cerberus's permanent companion from here on
+6. Nick talks about how his {Aura} helps him with everything, asks Jace if he still
+   doesn't want to upgrade to use one
 
 ---
 
 #### A-02 — The Station Tour (Carlos)
 
-**Summary:** Carlos shows Jace the station. He shows him the two transit inns
-(both run by red-haired women — Carlos has never thought about this before; he
-thinks about it now; still no explanation). He shows him the Barn.
+**Summary:** Carlosand Nick show Jace the station. Carlos shows him the two transit inns
+(both run by red-haired Innkeepers — Carlos has never thought about this before; he
+thinks about it now; still no explanation). He shows him the Barn adn where they will work.
 
 **Must accomplish:**
 1. The Barn is established as the station's emotional anchor — animals, smells,
    the Barn being alive and loud with the new population
 2. The two red-haired innkeepers are a genuine mystery that is never resolved
 3. The station's scale is established through Carlos's knowledge of what to show
+4. The station is huge - three "floors" of different rings.
+5. Jace sees a group of people running through on an exercise run, he wants to join them
+   the next day
+6. {Alex} and {Seek} and {Penny} and the other AI all greet Jace and welcome him
+7. Carlos introduces Jace to the Security Chief - a hardnosed woman named Suzi
+8. Jace sees news footage of problems at Odysseus station and about suspected Chinese Sabotage
+9. There are pictures of Helena up with a "missing" sign.  Some people have put up a
+   small shrine to her.
 
 ---
 
@@ -503,34 +536,144 @@ thinks about it now; still no explanation). He shows him the Barn.
 
 **Summary:** Jace takes his console. The drone fleet runs autonomously. He
 intercepts one exception: a grip question on a tricky sample. He handles it in
-four minutes. He has three hours left in his shift.
+four minutes. He has hours left in his shift.
 
 **Must accomplish:**
 1. The automated-baseline / exception-handling split shown in action
 2. The work rhythm is real and unglamorous — long periods of monitoring, brief
    moments of actual intervention
-3. His coworkers note he goes completely offline during breaks — one mentions it
-   with mild puzzlement, no alarm
+3. His coworkers note he has an mediocre level of skill. He thought he did a
+   great job.  He tries harder and harder next time.  A week passes
+4. Jace has weird dreams that night where he thinks he's a robot
+5. Jace hears about tensions with the Chinese miners and is warned about sabotage
+
+### THREAD P — Pressure
 
 ---
 
+#### P-01 — The Bar, Suzi, Helena (First Crossing Setup)
+
+**Summary:** Suzi seeks Jace out at the bar where he has a room. She is good company. Cerberus
+approves. She tells him about Helena's case as a mystery. Later she tells him in confidence 
+(she trusts his military experience): the report is public, but hse thinks Jin is the person of
+interest, nothing rises to evidence. She is not satisfied with the case but
+she is precise about what she has and doesn't have. With Jace's extra access through Drone Ops,
+she asks him to look out for anything weird.
+
+The bar conversation about the Chinese crew reads as authentic frontier gossip —
+some with genuine grievances, some with ambient distrust, nobody with actual
+information. A miner mentions an injury: massive wound, suit intact, no logged
+failure. The bar moves on. Jace doesn't.
+
+That night, back in his room with Cerberus warm against his feet and the stuffed
+pig under the dog's chin, he is still enough for once. And then he dreams he sees
+a dead girl floating in space.
+
+**Must accomplish:**
+1. Suzi established through texture — friendship develops over weeks before she's
+   plot-functional; Cerberus approves
+2. Helena summary delivered as professional close-out: precise about what she has
+3. Miner's wound contradiction stated and left — the bar moves on; Jace doesn't
+4. Hint that he can see things outside the station
+
+**Must not do**
+1. Suzi is manipulative and using Jace for info - don't be obvious about it
+2. Don't explain how Jace sees things in the Astral - he doesn't know that's what is happening
+3. Jace isn't a heavy drinker - he's lonely and so is excited to meet new people
+4. Don't forget about Cerberus - make him part of the experience
+
+---
+
+#### L-01 — The Evening Run
+
+*Recurring through all Fortuna chapters.*
+
+6 PM station time. No signup. No official existence. The route is 1.4 km per
+circuit through Ring Two main corridor, through the Inter-Ring City past the
+Commons, back through the Foundry level. People come out to watch — not every
+night, but enough that it's become a thing. The crowd's mood tracks the station's
+mood.
+
+Jace joins in his second week. He is immediately the largest person running by a
+significant margin. He doesn't notice the women who notice this. He is thinking
+about drone sequencing. At least one attempts conversation; he processes it as
+"friendly Fortuna person" and is warm and entirely oblivious. The same dynamic
+established in the Mars gym choreography — same character, different setting.
+
+**Must accomplish:**
+1. Run established as recurring background beat — Jace present but not the center
+2. The crowd's mood as a station barometer — quieter as the arc escalates
+3. At least one beat of the oblivious-attractive dynamic, played lightly
+4. Show the scope of the station, meet a few characters.  Introduce Mira the scared girl
+5. Show that the Chinese people and American people don't get along well
+6. Show that people still mourn for Helena and are suspicious
+7. Show that Jace is still having weird dreams - he saw something in his dream that he now sees
+   in real life for the first time and it freaks him out.
+
+------
+
 #### A-04 — The Survey Trip
 
-**Summary:** Jace takes the survey drones out. He finds a scratched asteroid —
+**Summary:** His third day at the station, Jace takes a 3-day mining exploration tour, and
+is excited that if he finds a valuable asteroid, he could get rich. He doesn't.
+He takes the 3 survey drones with him. He finds a scratched asteroid —
 systematic gouges, no metal remaining. He files it without a framework.
 
 **Must accomplish:**
 1. The asteroid anomaly is described specifically — gouges, not impact damage;
    no metal remaining; the reader registers it before Jace has words for it
 2. The survey work establishes Jace's professional routine outside the station
+3. Jace makes friends with Torres - the pilot/miner.
+4. Show that Jace can still help with drone management even away from the station
+5. Show how rare it is to find mineral-rich asteroids and how far apart rocks
+   actually are in space.
+6. Jace sees Fortuna up close from the outside - as well as the astroid they are
+   floating above. He now has the context to understand what he's seeing.
+7. Jace is having more and more vivid dreams about seeing through things like asteroids, and is
+   very scared of the scratched asteroid and feels wrongness there
+8. Jace notes that some of the AI are behaving weird and there is tension about Metis
+   station and the Chinese - Jace can't get ahold of Artemis
+---
 
 ---
 
+### THREAD X — Astral Exploration
+
+#### X-00 - Almost dying in the Astral
+
+**Summary:** Jace returns from the survey trip, exhausted. Jace and Cerberus cross into the Astral.
+They almost suffocate.  Cerberus pulls Jace's breathing mask through and Jace gets them both able to breathe.
+They survive, and explore this weird crystal hallway world, thinking they are walking through a dream.  Jace meets Sophia
+in the Fortuna cafeteria where she is trying to pull food across.  They make friends.  Sophia is relieved that she is not
+going crazy. She shows him how to breathe and promises to meet up tomorrow.
+
+**Must accomplish:**
+1. Show that Jace and Cerberus almost die in the Astral from suffocation and that Cerberus saves Jace
+2. Show the mind-blowing nature of 4D space
+3. Show Jace taking an Engineer's view of the Astral
+4. Show that people in the Real cant see people in the Astral - Jace can spy on anyone
+5. Describe how people look weird and glowy in 4D in the Astral
+6. Show Jace meeting Sophia
+7. Jace and Sophia become co-conspirators
+8. Show there is a tiny amount of air in the astral, but they are still in space.  Have Jace walk through a wall accidently
+9. After, Jace meets with Lanchee but doesn't tell her what happened.  She mentions that she has a sick patient that won't wake up
+
+
+**Must Not Do**
+1. No romance between characters.
+2. Don't make the magic weird or fantastical - it's an Engineer and Scientist's viewpoint
+3. Don't forget to involve Cerberus
+4. Don't make it seem easy - they are in another dimension in the vacuum of space, and might suffocate
+
+
 #### A-05 — The Factory Floor ("You Have to Go See It")
 
-**Summary:** Carlos tells Jace that running drones through a space and *knowing*
+**Summary:** Jace is reeling from his trip to the astral, tired, and thinks he hallucinated a dream.
+He has a big trip in the morning, and quickly reads a slew of messages from Sophia - he agrees to meet her for dinner.
+Carlos tells Jace that running drones through a space and *knowing*
 a space are not the same thing. They visit the crystal growing platforms (observed
-from a maintenance tug), the spar forming floor, and the warehouse spine.
+from a maintenance tug), the spar forming floor, and the warehouse spine. Jace is distracted, and wants to go back
+to the Astral and Sophia.
 
 **The Crystal Farms:** Large zero-G frames co-orbiting at safe separation, scaffold
 of seed arrays trailing growth structures in vacuum. From distance: enormous angular
@@ -561,7 +704,10 @@ three pages of notes about what an Astral survey instrument would need to measur
 4. Carlos's patience reads clearly — he is teaching something real without making
    it a lesson
 5. Sparky/Cerberus in an industrial environment — Cerberus investigates a magnetic
-   rail; Sparky rolls into a {SpoX} drone's parking space
+   rail; Sparky rolls into a {SpoX} drone's parking space and is reprimanded by the AI
+6. Weave in the Jace talks to Sophia, they both come down to the asteroid a few days later
+   from within the Astral - to explore and see it in the Astral. They ride along with
+   another work group - and show the difference from the two viewpoints.
 
 **Foreshadowing planted:**
 - Crystal farms in the Astral look different from physical space → seeds the drone
@@ -576,30 +722,6 @@ three pages of notes about what an Astral survey instrument would need to measur
 
 These are not single scenes. They are running beats embedded across multiple chapters.
 
----
-
-#### L-01 — The Evening Run
-
-*Recurring through all Fortuna chapters.*
-
-6 PM station time. No signup. No official existence. The route is 1.4 km per
-circuit through Ring Two main corridor, through the Inter-Ring City past the
-Commons, back through the Foundry level. People come out to watch — not every
-night, but enough that it's become a thing. The crowd's mood tracks the station's
-mood.
-
-Jace joins in his second week. He is immediately the largest person running by a
-significant margin. He doesn't notice the women who notice this. He is thinking
-about drone sequencing. At least one attempts conversation; he processes it as
-"friendly Fortuna person" and is warm and entirely oblivious. The same dynamic
-established in the Mars gym choreography — same character, different setting.
-
-**Must accomplish:**
-1. Run established as recurring background beat — Jace present but not the center
-2. The crowd's mood as a station barometer — quieter as the arc escalates
-3. At least one beat of the oblivious-attractive dynamic, played lightly
-
----
 
 #### L-02 — The Barn Visits
 
@@ -623,11 +745,13 @@ talk. They are on good terms in the specific way of people who respect each
 other's silence.
 
 **Must accomplish:**
-1. Pig Cold War established early, referenced casually throughout — background,
+1. Pig Cold War (where the new pigs don't like the old established pigs) established
+   early for comic relief, referenced casually throughout — background,
    not a scene; unresolved at arc end (deliberate)
 2. Jace's affection for the gilts reads as genuine — these are animals he raised
 3. Siren/Cerberus bark-goodbye is consistent across every Barn visit — never changes
-4. Mei's silence reads as professionalism, not hostility
+4. Mei's silence reads as aloof professionalism, not hostility - Jace thinks she barely
+   understands English
 
 ---
 
@@ -635,7 +759,7 @@ other's silence.
 
 *Background beats across all Fortuna chapters.*
 
-Ninety percent runs autonomously. The ten percent is where he earns it. Big
+Ninety percent of Jace's work runs autonomously. The ten percent is where he earns it. Big
 operations are scheduled weeks out: prep, simulation, edge cases, full shift on
 the day.
 
@@ -662,9 +786,27 @@ the intended order of authority.
 3. Station fever named by someone else, not Jace
 4. Carlos's printer notes land as a character beat for him
 
+##### P-01a - A fight with the Chinese Miners
+
+Jace gets into a fight with Yao (one of Jin's mining crew) at a bar when he overheard
+Suzi and Jace talking about the Chinese miners.
+
+Jace gets fined for fighting and loses more credits from {Alex}.
+
 ---
 
-### THREAD X — Astral Exploration
+#### P-02 — The Station's Two Faces
+
+**Summary:** Jace begins to understand the gap between Fortuna's public story and
+its internal reality. The Astral truth is being contained. Jin's crew reads as
+hostile. Something happened to Helena. Magic is real?   From the Astral, he sees things
+and realizes he doesn't really know what is going on.
+
+**Must accomplish:**
+1. The public containment vs. private reality is shown through specific details,
+   not summary
+2. Jin established as burdened, not threatening — the weight is survival
+3. Mei observing the Chinese crew; her purpose still invisible to Jace
 
 ---
 
@@ -672,7 +814,8 @@ the intended order of authority.
 
 **Summary:** Jace and Sophia compare what they know. She has seventeen notebooks.
 He has questions. The camera problem: how do you document what you see in a
-dimension no one else knows exists?
+dimension no one else knows exists? This starts a number of engineering exploration
+questions.
 
 **Must accomplish:**
 1. The seventeen notebooks are established as real scientific documentation — not
@@ -888,6 +1031,21 @@ the Astral for the first time.
 
 ---
 
+#### X-09 — First Successful Transport
+
+**Summary:** The first deliberate cross-dimensional transport of a meaningful
+assembled object - a fully working remote drone with a hydrogen rocket harness, using the
+camera system and telemetry that they designed.
+
+
+**Must accomplish:**
+1. The transport is shown as requiring real effort and preparation
+2. It works — cleanly; this is the proof of concept
+3. The implication is clear to both Jace and Sophia: this changes what's possible
+4. Jace can move these devices 10x better than Sophia, but not sure why.  But she can
+   "move things with her mind" and they don't know why.
+---
+
 #### X-05b — The Unstable Site (Asteroid Interior Survey)
 
 **Summary:** Jace flies the calibrated lidar drone through the interior of the
@@ -904,12 +1062,13 @@ irreversible.
 
 He maps it twice. He checks his calibration. He's right.
 
-He cannot explain how he knows this. He goes to find Nick.
+He cannot explain how he knows this to anyone, and needs to or there will be a disaster. He goes to find Nick.
 
 **Must accomplish:**
 1. The survey is shown as real engineering work — three sessions, methodical
 2. The void complex reads as a genuine structural concern, not a manufactured crisis
 3. The information problem is Jace's actual challenge — correct knowledge he can't source
+4. Nick is angry at him, distrustful of his previous failures.
 
 ---
 
@@ -965,18 +1124,31 @@ eyebrows incident. He tells this story to Kael in Arc 2. She does not find it fu
    established through consequence
 2. Jace recovers with the specific energy of an engineer who already understands
    what went wrong
+3. Jace is embarassed and doesn't tell Nick what happened.
+
+
+---
+
+### L-0? - Jace late to work
+
+**Summary:** Jace is late to work and cant explain his absence. {Alex} fines him. Jace is resigned to the punishment
+but starting to really feel the effects of not eating, crossing to the Astral each night, and more stress.  He's
+stressed and a little aggressive.  He is worried about money and about Fortuna's future.
 
 ---
 
 #### X-07 — Drone Survey / Platinum Target
 
-**Summary:** Jace uses the Astral N-1 perception to survey asteroids. He finds a
-platinum-rich target. He logs the coordinates.
+**Summary:** Jace uses the Astral N-1 perception to survey asteroids, sending Sparky and his rockets through
+thousands of rocks, bouncing through a hundred each night and seeing their insides.  Each night, he improves his
+algorithms and robot efficiency, improving the rockets, and finding better ways to bring across fuel and gear. He
+eventually finds a platinum-rich target very far (100,000km? away). He logs the coordinates and visits it later.
 
 **Must accomplish:**
 1. The survey method is shown as a real practical capability — not magic, engineering
 2. The coordinates are logged but not acted on — they resurface later
-
+3. Show that there is lots of problems that he slowly overcomes
+4. Show him getting better with hydrogen rockets and aiming and printing new gear
 ---
 
 #### X-08 — Sophia's Hull Incident / Survival Suits
@@ -993,76 +1165,39 @@ problem by moving with the ring's rotation.
    behind for an "interior" session; this is the mistake
 3. The vector/re-entry problem is spatially specific — the ring is spinning; three
    attempts; solved by moving with the rotation
+4. Jace saves her, but they realize this is dangerous.
+
+
 
 ---
 
-#### X-09 — First Successful Transport
+--- ---------------------------------------------------
+#### Many undecided chapters go here
 
-**Summary:** The first deliberate cross-dimensional transport of a meaningful
-assembled object. Not the HUD — something built for the purpose.
+Need to:
+0) Have Maureen leave with the old doctor and gear after Jace arrives
+1) Have more exploration
+2) Have some fights with monsters
+3) Have Kael start to be seen observing them
+4) HAve more hints about the Chinese aggression and {Seek}
+5) Have the entire scene of going into the Chinese section and seeing Leeches in their computers
+6) Have Jin start burning the cooridors in a fight with Jace
+7) Hace Jin and Jace make friends
+8) Have Jace go out to claim the huge Platinum asteroid
+9) Explain more the loss in comms with Earth and with Metis
+10) Show the AI slowly going crazy
+11) Show more Sophia learning her force powers
+12) Show inside Sophia's ship
+13) Have more animal time
+14) Sophia describe Jace and Cerberus in the Real
+15) Introduce Mira and Hayes
+16) Have Hayes get sick
+17) Have Mira be freaky
 
-**Must accomplish:**
-1. The transport is shown as requiring real effort and preparation
-2. It works — cleanly; this is the proof of concept
-3. The implication is clear to both Jace and Sophia: this changes what's possible
+--- ---------------------------------------------------
 
----
 
-### THREAD P — Pressure
 
----
-
-#### P-01 — The Bar, Suzi, Helena (First Crossing Setup)
-
-**Summary:** Suzi seeks Jace out at the bar. She is good company. Cerberus
-approves. Weeks later, she tells him about Helena's case as a professional
-close-out: the report is public, here's what it says, Jin is the person of
-interest, nothing rises to evidence. She is not satisfied with the case but
-she is precise about what she has and doesn't have.
-
-The bar conversation about the Chinese crew reads as authentic frontier gossip —
-some with genuine grievances, some with ambient distrust, nobody with actual
-information. A miner mentions an injury: massive wound, suit intact, no logged
-failure. The bar moves on. Jace doesn't.
-
-That night, back in his room with Cerberus warm against his feet and the stuffed
-pig under the dog's chin, he is still enough for once. And then he is somewhere else.
-
-**Must accomplish:**
-1. Suzi established through texture — friendship develops over weeks before she's
-   plot-functional; Cerberus approves
-2. Helena summary delivered as professional close-out: precise about what she has
-3. Miner's wound contradiction stated and left — the bar moves on; Jace doesn't
-4. The first crossing transitions directly from this scene — still, tired, warm,
-   somewhere else
-
----
-
-#### P-02 — The Station's Two Faces
-
-**Summary:** Jace begins to understand the gap between Fortuna's public story and
-its internal reality. The Astral truth is being contained. Jin's crew reads as
-hostile. Something happened to Helena.
-
-**Must accomplish:**
-1. The public containment vs. private reality is shown through specific details,
-   not summary
-2. Jin established as burdened, not threatening — the weight is survival
-3. Mei observing the Chinese crew; her purpose still invisible to Jace
-
----
-
-#### P-03 — The Comms Blackout
-
-**Summary:** Jace's attempts to reach Artemis begin failing in small ways. One
-message arrives with a sentence missing.
-
-**Must accomplish:**
-1. The blackout is established as progressive — small failures first
-2. The missing sentence is specific — something was redacted, not lost to lag
-3. Jace notices and doesn't yet act on it
-
----
 
 #### P-04 — The Quiet War (Jin's Pre-Swarm Fighting Thread)
 
@@ -1097,6 +1232,8 @@ about it in retrospect — Jace learns during the fight itself.
 
 **Foreshadowing payoff:** The station read Jin's crew as paranoid and dangerous.
 They were, and the reason was correct.
+
+**Still to do:** Need to move this to a better place in the story flow
 
 ---
 
@@ -1431,10 +1568,6 @@ Reviewer checklist — yes/no against finished arc:
 ---
 
 ## Open Decisions
-
-1. **HUD headache resolution timing:** Carries into Arc 2 — right diagnostic tools
-   don't exist until Sophia develops them. The [Astral Transfer] L2 manifestation
-   is the cause; Jace doesn't know this yet.
 
 2. **{Alex} debrief timing:** After the Learning Mode incident — {Alex} can
    reference "contractor behavioral incidents" with precise cheerfulness when the
