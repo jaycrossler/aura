@@ -1,7 +1,7 @@
 # Directory Tree
 
 - arcs/
-    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-07-05; type: arc; description: >; lines: 2504; xrefs: 21; canonical: true; open_decisions: 14; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong
+    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-07-05; type: arc; description: >; lines: 2485; xrefs: 21; canonical: true; open_decisions: 6; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
     - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
     - arc_04_the_bloom.md - name: Arc 4 — The Bloom; id: arc_04_the_bloom; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 320; xrefs: 0; canonical: false; open_decisions: 5

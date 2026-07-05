@@ -252,7 +252,7 @@ Scenes are organized by thread. Threads interleave in actual narrative order.
 | Nick's ninety-second relay | S-01 Stage 4 | [Information Flow] — he was more useful inside the Astral for those ninety seconds; he will build tools so he never has to go in again |
 | Sophia's "seventeen notebooks" named in the kill | S-02 | The whole scientific documentation arc paying off in a single exchange |
 | Jin's "You killed a very large spider" | S-02 | The beginning of the Jin/Sophia relationship; pays off in Arc 2 patrol scenes |
-| Kael crouching, waiting for the dog | S-03 (retconned — see S-02b) | Replaced by: Kael in the room the whole time; Jace mentions her three times and no one reacts |
+| Kael in the room the whole time | S-02b | She is mentioned three times and no one reacts |
 | Helena's jacket on the hook | A-01 | Her disappearance; before Suzi mentions her; negative space on arrival day |
 | Hayes: "Your dog glows sometimes" | A-01a | Hayes's Will-perception; Kael reads it immediately in Arc 2 |
 | Cerberus avoids Mira — not aggression, avoidance | A-02a | Will-sense; Mira's nature; contrasts with warm response to Hayes |
@@ -490,7 +490,7 @@ twenty-four months.
  to save the animals and he is not sorry, but regretful
 
 ---
-#### T-02b — The Learning Mode Incident
+#### T-03b2 — The Learning Mode Incident
 
 *(Drafted — see `scenes/book01-ch02b-learning-mode.md`)*
 
@@ -560,7 +560,7 @@ unloading, and Nick has already made a stuffed pig for Cerberus. They meet in pe
 
 ---
 
-#### A-02 — The Station Tour (Carlos)
+#### A-02 — The Station Tour (Carlos sponsors Jace and takes him around)
 
 **Summary:** Carlosand Nick show Jace the station. Carlos shows him the two transit inns
 (both run by red-haired Innkeepers — Carlos has never thought about this before; he
@@ -577,7 +577,7 @@ thinks about it now; still no explanation). He shows him the Barn adn where they
 6. {Alex} and {Seek} and {Penny} and the other AI all greet Jace and welcome him
 7. Carlos introduces Jace to the Security Chief - a hardnosed woman named Suzi
 8. Jace sees news footage of problems at Odysseus station and about suspected Chinese Sabotage
-9. There are pictures of Helena up with a "missing" sign.  Some people have put up a
+9. There are memorial posters of Helena up with a "missing" sign.  Some people have put up a
    small shrine to her.
 
 ---
@@ -592,9 +592,10 @@ four minutes. He has hours left in his shift.
 1. The automated-baseline / exception-handling split shown in action
 2. The work rhythm is real and unglamorous — long periods of monitoring, brief
    moments of actual intervention
-3. His coworkers note he has an mediocre level of skill. He thought he did a
-   great job.  He tries harder and harder next time.  A week passes
-4. Jace has weird dreams that night where he thinks he's a robot
+3. He overhears Kim (his coworker) tell Carlos that Jace has only a mediocre level
+   of skill. He thought he did a great job, but is now embarrased.  He tries harder
+   and harder next time.  Kim always scowls at him.
+4. Jace has weird dreams that night where he thinks he's moving around outside the station
 5. Jace hears about tensions with the Chinese miners and is warned about sabotage
 
 ---
@@ -630,7 +631,7 @@ it out loud makes it something he cannot push back down.
 
 #### P-01a — The Bar, Suzi (Friendship Beat)
 
-**Summary:** Suzi finds Jace at the Long Burn Bar in his second week. She is good
+**Summary:** Suzi finds Jace at the Long Burn Bar. She is good
 company — the kind of person who asks questions because she finds people interesting,
 not because she is working. Cerberus approves immediately. They stay too long. Jace
 walks back to the inn feeling, for the first time since Mars, like someone on the
@@ -643,16 +644,15 @@ different tables.
 **Must accomplish:**
 1. Suzi established as genuinely warm — the friendship is real before it becomes useful
 2. The bar established as the social space where station gossip lives
-3. Jace feels less alone; worth showing
+3. Jace feels sad after his first mediocre day at work then less alone; worth showing he is lonely
 
 ---
 
 #### P-01b — Suzi's Ask / Helena / The Miner's Wound
 
-**Summary:** Several weeks later. Same bar, different energy. Suzi delivers the
-Helena close-out as a professional: the report is public, Jin Lóng is the person of
-interest, nothing rises to evidence, the case is technically closed. She is precise
-about what she has and doesn't have. She is not satisfied.
+**Summary:** Later, Suzi tells Jace that Jin Lóng is the person of
+interest in Helena's dissapearance, nothing rises to evidence, the case is
+technically closed. She is precise about what she has and doesn't have. She is not satisfied.
 
 Then, quietly: Jace has access she doesn't. Drone eyes go places station security
 cameras don't. She is not asking him to surveil Jin. She is asking him to tell her
@@ -694,8 +694,8 @@ Commons, back through the Foundry level. People come out to watch — not every
 night, but enough that it's become a thing. The crowd's mood tracks the station's
 mood.
 
-Jace joins in his second week. He is immediately the largest person running by a
-significant margin. He doesn't notice the women who notice this. He is thinking
+Jace joins in the running group. He is immediately the largest person running by a
+significant margin. He doesn't notice the women who flirt with him. He is thinking
 about drone sequencing. At least one attempts conversation; he processes it as
 "friendly Fortuna person" and is warm and entirely oblivious. The same dynamic
 established in the Mars gym choreography — same character, different setting.
@@ -714,10 +714,10 @@ established in the Mars gym choreography — same character, different setting.
 
 #### A-04 — The Survey Trip
 
-**Summary:** His third day at the station, Jace takes a 3-day mining exploration tour, and
+**Summary:** His first week at the station, Jace takes a 3-day mining exploration tour, and
 is excited that if he finds a valuable asteroid, he could get rich. He doesn't.
 He takes the 3 survey drones with him. He finds a scratched asteroid —
-systematic gouges, no metal remaining. He files it without a framework.
+systematic gouges, no metal remaining. He files it for later.
 
 **Must accomplish:**
 1. The asteroid anomaly is described specifically — gouges, not impact damage;
@@ -733,8 +733,10 @@ systematic gouges, no metal remaining. He files it without a framework.
    very scared of the scratched asteroid and feels wrongness there
 8. Jace notes that some of the AI are behaving weird and there is tension about Metis
    station and the Chinese - Jace can't get ahold of Artemis
----
-
+9. Show that the survey teams send out 100+ mini survey bots each trip - they are launched
+   into rocks, then the plumes are used to look for resources. They mostly find nothing, but
+   can be used for telemetry later - the humans are slowly mapping every rock in the belt (this will
+   be a callback later to find and map the positions of cryptid breeding rocks)
 ---
 
 ### THREAD X — Astral Exploration
@@ -751,20 +753,23 @@ going crazy. She shows him how to breathe and promises to meet up tomorrow.
 1. Show that Jace and Cerberus almost die in the Astral from suffocation and that Cerberus saves Jace
 2. Show the mind-blowing nature of 4D space
 3. Show Jace taking an Engineer's view of the Astral
+3b. Jace's HUD has many messages showing errors - the clock is off, the radios don't work, it reboots into safe mode
 4. Show that people in the Real cant see people in the Astral - Jace can spy on anyone
 5. Describe how people look weird and glowy in 4D in the Astral
-6. Show Jace meeting Sophia
-7. Jace and Sophia become co-conspirators
-8. Show there is a tiny amount of air in the astral, but they are still in space.  Have Jace walk through a wall accidently
-9. After, Jace meets with Lanchee but doesn't tell her what happened.  She mentions that she has a sick patient that won't wake up
-
+6. Show Jace meeting Sophia in the cafeteria, both being spooked. She's excited and amazed to see Cerberus
+7. Show there is a tiny amount of air in the astral, but they are still in space.  Have Jace walk through a wall accidently
+8. After, Jace meets with Lanchee but doesn't tell her what happened.  She mentions that she has a sick patient that won't wake up
+9. Sophia tells Jace how to cross back, then messages him after once she returns to her ship, both have their entire
+   frames of reference changed forever.  It's exhausting crossing over, feels like a massive workout each time
+10. Jace and Sophia become co-conspirators and agree to meet up so they can talk through this
+11. Jace needs to sleep because he has a big day tomorrow at work, but lays awake thinking about it all night
 
 **Must Not Do**
 1. No romance between characters.
 2. Don't make the magic weird or fantastical - it's an Engineer and Scientist's viewpoint
 3. Don't forget to involve Cerberus
 4. Don't make it seem easy - they are in another dimension in the vacuum of space, and might suffocate
-
+5. Don't forget to highlight the physical costs, the exhaustion of moving matter through
 
 #### A-05 — The Factory Floor ("You Have to Go See It")
 
@@ -805,7 +810,8 @@ three pages of notes about what an Astral survey instrument would need to measur
    it a lesson
 5. Sparky/Cerberus in an industrial environment — Cerberus investigates a magnetic
    rail; Sparky rolls into a {SpoX} drone's parking space and is reprimanded by the AI
-6. Weave in the Jace talks to Sophia, they both come down to the asteroid a few days later
+6. Weave in the Jace is sending messages back and forth to Sophia, and want to meet up
+7. Add that they both come down to the asteroid a week later after exploring
    from within the Astral - to explore and see it in the Astral. They ride along with
    another work group - and show the difference from the two viewpoints.
 
@@ -818,17 +824,20 @@ three pages of notes about what an Astral survey instrument would need to measur
 
 ---
 
-#### X-00a - The Astral
+#### X-01 - The Astral Crossing Teamup
 
   Jace and Sophia meet up in person for the first time. Sophia is nervous, Jace is terrified. They
   meet at the Inn, and have a short dinner - Sophia has a glass of wine which she says helps her relax into it.
-  After, Sophia jokingly asks "Your place or mine?" Jace blanches, and Sophia laughs. "You know, you don't have
-  to sleep to cross over? I just want to do it where there are no cameras so I think rooms are better. They head
-  up to his room and he's embarrased at how emptry it is.  Cerberus senses the excitement and plays with Sophia.
-  They sit on his bed, and Jace watches as Sophia outs on her breather, takes a deep breath, then closes her eyes.
+  After, Sophia jokingly asks "Your place or mine?" Jace blanches, and Sophia laughs. 
+  
+  "I just want to do it where there are no cameras so I think rooms are better." She takes him to her ship, which is
+  docked on a nearby ring. Her roommates/shipmates are watching - they want to make sure she is safe on her "date", 
+  but don't know about the Astral. One grins as she takes Jace into her room - her ship is beatiful and warm and
+  nice. She gives him a piece of bread that she cooked.  Cerberus senses the excitement and plays with Sophia.
+  They sit at her desk and Jace watches as Sophia outs on her breather, takes a deep breath, then closes her eyes.
   A few minutes later her body turns rainbow transparent, she stands up, then she steps sideways into invisibility.
 
-  It's amazing to see, and he tries to replicate it. It's harder, and cerberus growls. Finally he opens his eyes as
+  It's amazing to see, and he tries to replicate it. It's harder, and cerberus is nervous. Finally he opens his eyes as
   he feels the change in air on his skin. "20 minutes" Sophia said, "It took me an hour my first time.  You're a
   natural at this! And Cerberus is a good magic dog, too!"
 
@@ -863,7 +872,7 @@ three pages of notes about what an Astral survey instrument would need to measur
 
 
 
-##### P-01a - A fight with the Chinese Miners
+##### P-01c - A fight with the Chinese Miners
 
 Jace gets into a fight with Yao (one of Jin's mining crew) at a bar when he overheard
 Suzi and Jace talking about the Chinese miners.
@@ -1225,7 +1234,7 @@ explained. This arrangement is reaching its natural limit.
 ---
 
 
-#### X-01 — The Camera Problem (Sophia's Seventeen Notebooks)
+#### b — The Camera Problem (Sophia's Seventeen Notebooks)
 
 **Summary:** Jace and Sophia compare what they know. She has seventeen notebooks.
 He has questions. The camera problem: how do you document what you see in a
@@ -1590,8 +1599,16 @@ problem by moving with the ring's rotation.
 #### Many undecided chapters go here
 
 Need to:
-1) Have more exploration in the astral
+1) Have more exploration in the astral, Jace and Sophia finding things and discovering what's there, examining people and animals, learning how powers and Will work
 2) Have some fights with monsters
+3) Need scene of Jace going out again and bringing home the most expensive Platinum asteroid ever and finally getting to eat
+4) Need a payoff with the scratched asteroid - right before the swarm, maybe finding another scratched asteroid like that, covered with cryptids. They are breeding and when the information is put together with what the Chinese team knows, they see the swarm is building in a circle around the station and coming nearer. Jace then sends out a drone and sees thousands hinding behind a big rock, preparring to attack
+5) They rally the people on station, build a giant defense of engineers and drones, and there is an epic battle with machines and drones and improvised explosives vs space cryptids.  People die (Torres, Yao, 20 others), humans win. It's all televised via the pig cam and Humanity now knows the secret is out
+6) Need some resolution to Kael cutting the Tick out of Jace.  Does she just do it in front of everyone? How does he survive? Or is she about to kill Jace and Sophia jumps in and stops her, then Kael shows her the tick and they get Lanchee to remove it relatively-safely?
+7) Have Kael leave before the final battle not knowing about the attack, she went back to message her family of what she's seen, comes back to the carnage?
+8) Need some conflict that resolves in Jin and Jace trusting each other and realizing there never was a murder - maybe it's when {Seek} is destroyed and Jin can finally talk openly
+9) Have small scenes in the final battle where Mira uses her summoning powers to fight off monsters, summon a chair to block a hungry mouth, summon a door, a spike, something.  Have Kim be attacked in Drone Ops. Her migrane suddenyl stops when she injests a will spear and she can now slice things apart at a distance, and she rips a group of cryptids to shreads saving Carlos and herself
+
 
 
 --- ---------------------------------------------------
@@ -1600,7 +1617,7 @@ Need to:
 
 #### P-05 — {Seek} Flags Jace / Yáo Confrontation (NEW)
 
-**Summary:** {Seek} has been monitoring Jace's access patterns since his second week.
+**Summary:** {Seek} has been monitoring Jace's access patterns since he arrived.
 The data is not ambiguous from a compliance AI's perspective: US military veteran,
 prior drone operations specialist, station access above the security team's level,
 drones observed near the Chinese mining sector three times in eight days. {Seek} flags
@@ -2264,7 +2281,8 @@ yet. It is the first professionally interesting thing about him.
 **Must accomplish:**
 1. Helena wakes cold, disoriented, with a massive headache, naked in a
    freezing room, breathing mask off for the first time in her life
-2. She misattributes her state to an extreme hangover
+2. She misattributes her state to an extreme hangover, not being in a room that
+   had been set to a dormancy cycle.  Can't find her missing comms bracelet
 3. Sync pipes read as frozen; she grows worried about a CO2 leak and reports
    it to {Penny}
 4. She realizes she's nearly late for yoga class and rushes to dress and go
@@ -2391,46 +2409,17 @@ Reviewer checklist — yes/no against finished arc:
 
 ## Open Decisions
 
-2. **{Alex} debrief timing:** After the Learning Mode incident — {Alex} can
-   reference "contractor behavioral incidents" with precise cheerfulness when the
-   footage is already circulating.
-
-3. **Pig-butt canister payoff timing:** Referenced in a later call — the reader
+1. **Pig-butt canister payoff timing:** Referenced in a later call — the reader
    imagines the arrival, then gets Artemis's reaction second-hand.
 
-4. **Sophia's {Aura} log gap:** Private by default; flag for later if crewmate
-   suspicion escalates to formal inquiry.
-
-5. **Tether-and-anchor physics:** A physical-space anchor holds as a reference
+2. **Tether-and-anchor physics:** A physical-space anchor holds as a reference
    point in the Astral. Add to spec_crossing_mechanics if not already there.
 
-6. **Bundled suit crossing cost:** Carrying the second suit folded costs Jace
-   noticeably more than wearing it (inert vs. integrated). Confirm against
-   crossing cost scale in spec_dimensional_travel_mechanics.
-
-7. **Jin's three named crew members — RESOLVED:** Yáo (large, scarred, brutal-quiet;
-   compressed-spring stillness; dies saving Mira during the swarm — no speech),
-   Shi Gang (sealed-container stillness; "the weight"; silent escort on Nick's
-   server visits; survives, publicly famous), Li Hao (thin, wiry, frenetic;
-   talks constantly; always right, never credited; when {Seek} dies mid-fight
-   says something untranslatable — approximately "of course it did"; survives,
-   publicly famous). All three are established as people before the swarm.
-
-8. **Nick crossing deliberateness:** Confirmed canon — he crosses once, badly,
-   for ninety seconds, usefully. He designs his future [Information Flow] work
-   to operate from physical space. He does not develop a combat Astral career.
-
-9. **Swarm Queen orb character:** Whether the Queen's Will has any lasting
+3. **Swarm Queen and orb:** Whether the Queen's Will has any lasting
    character effects on Sophia beyond Force Application advancement — unresolved;
    flagged for Arc 2 when Kael can provide context.
 
-10. **Token economy:** Canonical. 1 Token ≈ 1 USD (2025 purchasing power). Jace's
-    debt: 2,000,000 Tokens at 40% wage garnishment (~12–14 years to clear). Minimum
-    food allotment at debt-flag: 2 Tokens/day = one serving of gray station soup.
-    No coffee (4 Tokens/serving). Nick quietly subsidizes Jace's {Aura} queries;
-    Jace suspects, does not confirm.
-
-11. **Tick-Maw egg / Aldrich Horror system:** The X-02a Tick-Maw bite deposits a
+4. **Tick-Maw egg / Aldrich Horror system:** The X-02a Tick-Maw bite deposits a
     node adjacent to Jace's Astral spine Template — invisible to him, growing
     through the arc, producing a paranoia-analogue effect tracked as "AH Level"
     (0–5) in the prose style rather than stated explicitly. AH 1 after bite;
@@ -2438,23 +2427,15 @@ Reviewer checklist — yes/no against finished arc:
     AH 4.5 pre-swarm; drops to 0 when Kael silently removes it during the planning
     session. Jace never learns about it in Arc 1.
 
-12. **Closing condition retcon — RESOLVED:** Kael arrives pre-battle, not after.
-    She has been in the planning session under [Mind Web] occultation. Sophia
-    tears the Mind Web with improvised Force Application. Kael's original
-    observation plan (remain undetected, gather more data) fails at that moment.
-    She crosses into the Astral, returns at the door, fights. She speaks only
-    ancient Greek; no one understands her; she cannot understand English. The
-    translation project begins in Arc 2.
-
-13. **Hayes's specific ability:** What was he trying to do alone in his pod?
+5. **Hayes's specific ability:** What was he trying to do alone in his pod?
     Candidates: basic [Force Application]; involuntary Transfer; something
     unnamed. Not required for Arc 1 — the damage is what matters. Establish
     in Arc 2 when Kael assesses who on the station has Will.
 
-14. **Mira's warm sphere:** Does it do anything during the swarm? Candidate:
+6. **Mira's warm sphere:** Does it do anything during the swarm? Candidate:
     Cerberus reacts differently to it in the chaos. Author's call.
 
-15. **Sophia learns about Bloated Maw:** During Kael's Arc 2 Template assessment
+7 **Sophia learns about Bloated Maw:** During Kael's Arc 2 Template assessment
     of Jace, in front of Sophia — the answer to Kael's question surfaces the
     secret. This is the first real fracture in the partnership.
 

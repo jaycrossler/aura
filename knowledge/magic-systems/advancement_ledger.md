@@ -83,7 +83,7 @@ advancement_events:
     to_level: 1
     trigger: orb (Dipper-class, Falcon plumbing crisis — accidental absorption)
     arc: arc_01
-    scene: T-04 (plumbing crisis)
+    scene: T-03 (plumbing crisis)
     confirmed: true
     notes: >
       Accidental. HUD implant (gold/platinum) caused Template stress; absorbed
@@ -98,7 +98,7 @@ advancement_events:
     to_level: 2
     trigger: orb (Dipper-class, Falcon plumbing crisis) + months unconscious practice
     arc: arc_01
-    scene: T-04 (plumbing crisis)
+    scene: T-03 (plumbing crisis)
     confirmed: true
     notes: >
       Acquired at L2 rather than L1 because Jace had been unconsciously practicing
