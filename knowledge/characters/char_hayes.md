@@ -93,6 +93,12 @@ Jace encounters Hayes every morning from A-01 forward. The ritual:
    actually learning the station's physical structure from the inside — chokepoints,
    old decisions, corridors that don't make sense until you know what they replaced.
 
+**The coffee beat:** Hayes has coffee every morning. In Jace's first weeks, Hayes
+does not offer because he does not know about the 2-Token food allotment. Later in
+the arc, without comment, he starts handing Jace a second cup. Jace takes it without
+comment. Something small and real has been established. It has actual Token value;
+he does not acknowledge this.
+
 ### What Cerberus Glow Means
 
 Hayes says, once, that Cerberus glows. Not as a metaphor. As an observation: "Your

@@ -122,6 +122,29 @@ Mei runs the "Pig Cam" that started on the Falcon and becomes semi-famous, conti
 
 During Arc 1 the Pig Channel password scene (P-07); Mei makes an instant decision; "If someone asks, the pigs escaped and I was distracted"
 
+
+### The Password Decision (Arc 1 — Late, P-07)
+Nick brings Mei a proposal during the communications crisis. The station can't reach
+Earth through official channels; Earth thinks Fortuna had a radiation event; a rescue
+mission is inbound. Nick wants to transmit real footage through the Pig Channel —
+authenticated by three years of pig content and a follower base that vouches for its
+legitimacy.
+
+Mei gives Nick the passwords. Thirty seconds to decide.
+
+She says: "If someone asks, the pigs escaped and I was distracted."
+
+Nick says he will not let anyone ask.
+
+The decision is instant because the calculation is simple: the channel's cover
+(a farming account, her privacy, the innocence of the pig content) was protection
+for her and for the station. The station needs the protection to end now. She hands
+it over.
+
+The Pig Channel goes from 40,000 followers to something that breaks the counter
+in one night after the swarm fight airs live. Mei built that audience over three
+years. She gives it away in thirty seconds without ceremony.
+
 ## Relationship with Jin Luong
 
 At Fortuna Station, Mei infiltrates the Chinese mining detachment led by Jin Luong. She observes their strange, heavily-armed behavior and realizes they are not preparing for sabotage, but are being coercively controlled by the Chinese AI, `{Seek}`. During the Swarm attack, Mei makes a critical choice: she blows her cover as a simple farmer and reveals her true nature as an intelligence agent to help coordinate the defense and save Jin's crew. After `{Seek}` is destroyed by Astral predators, Jin and his crew are freed, and Mei earns Jin's lasting respect and alliance.

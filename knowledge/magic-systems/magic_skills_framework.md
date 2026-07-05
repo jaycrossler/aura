@@ -65,10 +65,52 @@ conscious beings and accumulates over time. It can also be obtained from Will or
   `magic_skill_level_scale.md` for the full scale reference. Decimals can be tracked, eg L2.1
 
 ### Emerging concepts
-   - [Astral Creation] as a nascent skill class; currently manifesting in Mira only;
-     no rules established yet; seeded for Arc 2 development where Kael can show Mira some tricks
-   - Crossing vs. manifesting distinction as a canonical section (most humans manifest,
-     not cross; [Astral Transfer] is required for crossing)
+   - [Astral Creation] as a nascent skill class; currently manifesting in Mira (age 10,
+     Fortuna Station) only; no rules established yet; ability manifested too early for
+     Mental Fortification to develop alongside it — she is entirely forward-facing Will
+     with no internal buffer; seeded for Arc 2 development where Kael can provide
+     initial guidance
+
+### Canonical Distinction: Crossing vs. Manifesting
+
+**Most humans who develop Will abilities do not cross into the Astral. They manifest
+from physical space.**
+
+Manifesting means extending Will through the dimensional membrane to produce an
+effect, without the practitioner's body breaching the membrane. Fire, force
+application, object templating, mind defenses, far perception — all of these can
+be developed and used from physical space. The practitioner extends Will through the
+membrane; their body stays in the physical world.
+
+**[Astral Transfer] is specifically the ability to move objects — or oneself —
+through the membrane.** It is relatively unusual. Most practitioners who develop it
+do so accidentally (Jace's plumbing crisis orb absorption) or by necessity, not by
+deliberate design. It is not considered a prerequisite for most skill trees.
+
+**Practical implications:**
+
+- Jin Lóng and his crew manifest from physical space. They have never crossed into
+  the Astral. They sense Will disturbances in their territory but cannot read them
+  the way crossers can. Jin felt Jace's presence during the Bloated Maw hunt as
+  a disturbance, not an identifiable signature.
+
+- Sophia Lotte crosses, but her primary capability is force application, which she
+  can use from physical space. Her [Astral Transfer] is functional but her weakest
+  skill relative to Jace.
+
+- Nick Lee crossed once (ninety seconds) and will not cross again in Arc 1. His
+  entire toolchain is designed to operate from physical space. This is a deliberate
+  strategic choice, not a limitation.
+
+- Jace Grant's facility with [Astral Transfer] — particularly his improvised
+  self-Transfer through the fire wall — is notable enough that Kael will assess
+  it specifically in Arc 2.
+
+**For new Arc 2+ practitioners:** Most will develop manifestation skills first and
+crossing skills later, if at all. The Arc 4 structured training program will
+formalize this distinction. Until then, practitioners generally discover which
+path they have affinity for through practice and accident.
+
 
 ### The Sol Human Baseline
 

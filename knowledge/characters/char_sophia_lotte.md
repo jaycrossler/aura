@@ -155,15 +155,17 @@ usually in a quick bun that never fully holds. She dresses colourfully — paste
 florals — and always has a scarf slightly askew. She loses things constantly. She never
 loses her fountain pen for long (Jace frequently returns it; she left it in the Astral again).
 
-## The Victoria
+### The *Victoria* Interior
+Three-person crew: Sophia, plus two crewmates (French and Greek; names TBD) who are
+increasingly aware something has changed about Sophia and giving her space. They have
+not asked. She has not explained. This arrangement is approaching its natural limit
+at arc close.
 
-The *Victoria* carries three physicists — Sophia and two colleagues (French and Greek,
-names TBD). It has maintained a regular docking berth at Fortuna Station. The *Victoria*'s
-research mission was meant to take them to Odysseus Station to study Jupiter's magnetic
-fields; when Odysseus went silent, the mission pivoted to crystal growth in vacuum.
-
-Sophia's crewmates know something has changed about her over the past month. They give
-her space. They do not know what she is doing.
+The ship's interior is lived-in in the specific way of seventeen months of solitary
+obsessive work. Notebooks stacked by date in a sequence only Sophia can navigate.
+Equipment labeled in three languages. A coffee machine that still works — Sophia
+started handing Jace a cup when he arrived, without comment, because she noticed
+the Token constraint and the coffee machine was there.
 
 ## The Astral Discovery
 
@@ -174,6 +176,46 @@ her tablet across the dimensional membrane.
 
 She will publish approximately 20 papers by Arc 1 end. They become the foundation of
 humanity's scientific understanding of the Astral.
+
+### The "Just One More" Pattern (Arc 1)
+Sophia's position on disclosure: not yet. Just a few more experiments. The paper
+needs the hydrogen transfer data. Peer review will be brutal and she needs everything
+airtight. This is a real argument. She is right about peer review.
+
+She is also someone who has been carrying this alone for more than a year and has
+built a relationship to secrecy that functions as comfort as much as strategy. The
+notebooks are hers. The moment she discloses, she begins the long process of having
+it taken from her. She knows this. She does not name it as a reason. It is a reason.
+
+Jace sees the second part. He cannot say it to her in a way she can hear.
+
+### What Sophia Sees (Jace's Decline)
+Sophia has been watching Jace's Template change for weeks by the arc's midpoint.
+She recognizes the crossing debt by its symptoms because she had them too during
+her solo month. She recognizes the specific quality of someone burning more than
+they recover because she saw it in her own mirror.
+
+She says nothing to him directly. She says it to the ceiling of the *Victoria*
+one night, alone. She writes two lines in a notebook about what his Template looks
+like now versus six weeks ago. She draws a box around the second line.
+
+She does not tell Jace what she sees because she does not know what role she
+has — she is not his doctor or his superior. She watches and tracks and says
+nothing. This is its own kind of cost.
+
+### Post-Swarm Publication
+Immediately after the swarm fight. Sophia posts all papers from the station terminal
+while the corridor outside is still being assessed for structural damage. She does
+not wait. There is no longer anything to wait for — the Pig Channel footage already
+reached Earth; disclosure was involuntary. Her papers are the explanatory framework
+that should have preceded the footage and will now follow it.
+
+She posts them without drama. She has been ready for seventeen months. The act itself
+takes less than two minutes.
+
+
+
+
 
 ## Characteristic Behaviours
 

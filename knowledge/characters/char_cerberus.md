@@ -153,6 +153,31 @@ Cerberus is in every book. He ages over the series — slowly, under low-G he ma
 
 He is never killed for plot. Other than the first time almost running out of air, he is never seriously injured for plot. The author commits to this at the outset. His stable presence is part of what makes the series livable.
 
+## Relationships at Fortuna
+
+### Relationship: Hayes
+Immediate, warm, uncomplicated acceptance from Cerberus's first morning at Fortuna.
+Hayes feeds him biscuit corners before Jace can say anything; Cerberus accepts this
+as if it has always been the arrangement. This is the baseline: how Cerberus normally
+responds to a friendly person.
+
+After Hayes's medbay admission, Cerberus sits in front of Hayes's empty chair and
+looks at Jace. On the morning Hayes returns (weeks later, one arm short), Cerberus
+puts his head on Hayes's knee. Hayes gives him a biscuit corner left-handed.
+
+### Relationship: Mira
+Specific, deliberate, silent avoidance. Not aggression — Cerberus will not come
+within three meters of Mira regardless of context. When Jace tries to walk him toward
+her, he puts his body behind Jace's leg and stays there until they've passed.
+
+This is Will-sense. Mira's [Astral Creation] ability, operating without framework,
+produces a quality Cerberus can perceive and finds deeply wrong. He is not frightened
+— the same dog has approached Threshold Hounds at breach zones. He simply will not
+go near her.
+
+After Yáo's death during the swarm, Cerberus finds Mira and sits beside her. He does
+not avoid her this time. Whether something resolved or whether proximity to something
+true (the sacrifice, the cost) created a new context — the avoidance ends here.
 
 
 ## Arc 2 Developments

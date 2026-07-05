@@ -24,7 +24,7 @@ former_affiliations: [US Air Force, US Air Force Mars Detachment]
 # Relationships
 family: [char_dawn_grant (mother), char_chris_grant (father), char_sister_athena (younger sister), char_sister_artemis (older sister)]
 allies: [char_mei (fellow Falcon crew; her intelligence role unknown to Jace at first), char_mr_sylvester (handler, uneasy), char_smuggler_mars (fixer / "the Rat"), char_lt_rich_cullivan (sponsor), char_cerberus (companion), char_nick_lee (best friend), char_sophia_lotte (Astral partner)]
-rivals: [TBD]
+rivals: [char_jin_luong]
 romantic: [TBD]
 Hayes: daily ritual; Hayes's perception of Cerberus's glow; Jace present at medbay discovery; proxy for what unguided Will use does to a person
 Mira: unnerving child; Cerberus avoidance; escalating anatomy creations
@@ -61,8 +61,7 @@ cross_references:
   - "[[char_nick_lee]]"
   - "[[char_sophia_lotte]]"
   - "[[char_mei]]"
-  - "[[char_lt_rich_cullivan]]"
-  - "[[char_smuggler_mars]]"
+  - "[[char_jin_luong]]"
 ---
 
 # Jace Apollo Grant
@@ -226,6 +225,7 @@ Jace wakes gasping — CO2 poisoning. He sees Cerberus with the mask. He takes i
 
 They share the mask, taking turns, until Jace recovers enough to pull a second mask through himself. Massive effort — his first deliberate dimensional act. They survive together.
 
+
 ## Exploration and the Meeting
 
 With two masks and breathing stabilized, Jace doesn't immediately panic back to physical space. He is an engineer. He looks around.
@@ -260,6 +260,33 @@ They fall into a natural rhythm quickly. Sophia documents. Jace experiments. Her
 **The temperature probe moment:** Early in the partnership, Jace builds a simple temperature probe and sticks it through a station wall into the open Astral space outside. Reading: -20°C. Not -270°C. He stares at the gauge for a long time, then shows Sophia. This is the first data point they generate together, and it opens the question of whether they can work outside the station entirely.
 
 **Going outside:** They step through a station wall into open Astral space. Cold, dark, the asteroid as a translucent mineral map below them, the distant glow of Earth in one direction, the absolute darkness of the Scar in another. This is the moment the scale of what they are doing becomes real.
+
+## Relationships on Fortuna
+
+### Hayes
+- Daily morning ritual: Hayes at the table outside Erin's inn, coffee, biscuit
+  corner for Cerberus. From Jace's first morning until Hayes's medbay admission.
+- Jace thinks Hayes is a harmless old man who likes stories and mimics voices.
+  Hayes is not harmless. He has been noticing things for years.
+- After Hayes's medbay incident (inside-out arm, mechanism unknown), Jace visits
+  once, sits for a few minutes, leaves without knowing what to do.
+- The coffee Hayes sometimes provides has actual Token value to Jace; he does not
+  acknowledge this. Hayes does not press it.
+- Hayes is one of the few people on the station who treats Jace with uncomplicated
+  friendliness throughout the arc's decline phase.
+
+### Mira
+- An unnerving child who follows Jace with hollow-eyed patience from his second day.
+  Mute. Never speaks. Her parents are glad she has something to follow.
+- Cerberus will not approach her. Not aggression — specific avoidance. This is the
+  most reliable signal Jace has that something about Mira is different.
+- Jace finds her plant-matter arrangements (later: anatomical constructs) near
+  wherever she has been. He does not report them. He does not know what he would
+  report.
+- He does not notice that she watches his Will-signature change between sessions.
+  She does. She is waiting to understand why.
+- Cerberus sits with Mira after Yáo's death during the swarm. Something has changed,
+  or something was always going to change at that moment.
 
 ## Nick Lee and the Open-Source Decision
 

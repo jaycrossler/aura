@@ -1,4 +1,5 @@
 ---
+
 description: "Character profile for Jin Lóng, head mining supervisor of the Chinese detachment on Fortuna Station."
 id: char_jin_luong
 name: Jin Lóng
@@ -65,6 +66,70 @@ mechanics:
   - His crew strings moves together in sequences — clearly practiced together
   - They bow afterward: left hand flat-palm, right hand as fist
 visual_effect: From a distance looks like a martial arts demonstration that happens to be on fire
+
+## The Bloated Maw Reaction and Fire Wall (Arc 1 — Late)
+
+Late in the X-thread phase, Jin is in the Astral in his section of the station —
+the Chinese-leasehold area of Ring Three that he has been clearing and mapping for
+three months. He manifests from physical space; he senses Will disturbances in his
+territory without being able to read them the way a crosser would.
+
+He feels a Will-presence in the area of {Seek}'s servers. He cannot identify it.
+He knows it is capable — operating at a level above anything he has encountered
+in the fauna he has been clearing — and he knows that something large and old in
+the substrate, a persistent anomaly he had registered without understanding, is
+suddenly absent.
+
+He surfaces in his quarters. He is quiet for a long moment. He adds this to what
+he is carrying: three months of tunnel fighting, a crew that is exhausted, a station
+treating his people as suspects, an AI ({Seek}) that has been running wrong for weeks,
+and now someone operating in his territory with enough capability to clear something
+he did not even recognize as a threat.
+
+He does not know if this is hostile. He does not retaliate in Arc 1. He files it
+forward.
+
+**The fire wall:** Shortly after, Jin encounters Jace in a maintenance corridor near
+the server area. Jin senses a Will-signature quality matching what he felt in his
+section. He produces a wall of fire — floor to ceiling, corridor width, instantaneous
+and controlled. He expects to contain someone. The corridor is empty. He cannot
+account for this. (Jace phased through the adjacent wall using partial self-Transfer
+— an improvised technique he had never used before and did not know he could do.)
+
+Jin goes to the medbay three days later with burn cream. He tells Lanchee he heard
+someone was burned. No one was burned. He looks confused and then angry.
+
+**What this does NOT resolve:** Jin does not know what Jace can do. He does not know
+that Jace has [Astral Transfer] capability. He knows his fire hit nothing and he
+cannot explain it. He files this forward too.
+
+**Arc 2 recognition:** When Jin and Jace meet properly — with shared context, after
+disclosure — Jin will recognize Jace's Will-signature as the presence from his
+section. He will not say "that was you." He will not have to. This recognition is
+the foundation of the complicated respect that develops between them.
+
+last_updated: 2026-06-30
+---
+
+## The Jin / Jace Exchange at the Long Burn Bar (Arc 1 — Late)
+
+After the fire wall / medbay alibi sequence, Jin and Jace have their first real human
+exchange. It is not dramatic. It is two men at the Long Burn Bar at an unusual hour
+— late, the bar mostly empty. They talk about something small: the quality of the
+recycled water in Ring Three (worse than Ring One; a consistent grievance).
+
+At some point Jin says: "You should be careful in the maintenance corridors near the
+server section." Flat. Testing whether Jace understands what kind of warning it is.
+Jace says: "I know." Not: I'll avoid it. Not: thank you. Just: I know.
+
+Jin looks at him for a moment and then looks away. They finish their drinks and leave
+separately.
+
+This is the beginning of something. Not yet friendship — two people who have been
+circling each other deciding, independently, that the other one is real. The swarm
+fight and Yáo's sacrifice build on this. Arc 2 builds on this.
+
+---
 
 # The Liberation Moment
 when_seek_shuts_down:

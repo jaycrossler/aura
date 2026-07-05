@@ -1,4 +1,5 @@
 ---
+
 description: "Character profile for Suzi, Fortuna Station chief of security and investigative ally."
 id: char_suzi
 name: Suzi Gonzales
@@ -12,7 +13,7 @@ status: alive
 first_appearance: Book 1, Fortuna arrival arc (Helena investigation)
 pov_character: false
 recurring: true (Fortuna authority figure / investigative ally)
-last_updated: 2026-06-17
+last_updated: 2026-07-04
 
 # Affiliations
 role: Fortuna Station chief of security / station police (de facto — small frontier force)

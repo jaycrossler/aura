@@ -1,10 +1,11 @@
 ---
+
 id: spec_astral_glow_and_signatures
 name: "Astral Glow, Thought Signatures, and Working Detection"
 type: universe_spec
 status: canonical
 canonical: true
-last_updated: 2026-06-30
+last_updated: 2026-07-04
 description: >
   Canonical specification for how consciousness appears in the Astral as light and
   structure — individual thought-pattern signatures, emotional overlays, AI Will,
