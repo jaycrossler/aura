@@ -246,7 +246,3 @@ Mood: Exuberant. Thrilled. The queen of this space.
 **Status: READY**
 
 ---
-
-## Open Items
-- [ ] Cerberus's exact Astral colour confirmation (reds/greens/yellows confirmed as concept; specific dominant colour at rest?)
-- [ ] Sophia's umbilical discovery — which notebook number, approximate scene position in Arc 1?

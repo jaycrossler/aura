@@ -56,9 +56,9 @@ He stares at the ceiling. The skull cap is faintly warm from the processing load
 
 ## Beat 2: Nick's {Aura} Pitch
 
-**Where it lives:** Transit vignettes aboard the Falcon, or early Fortuna days. Nick and Jace have been gaming for weeks. This is the first time Nick raises {Aura} seriously.
+**Where it lives:** Transit vignettes aboard the Falcon, or early Fortuna days. Nick and Jace have been gaming for weeks, and Nick loves to talk about the {Aura} system he has built - it's his main hobby. This is the first time Nick raises {Aura} seriously as something Jace should have.
 
-**Critical context:** Jace does NOT have a pre-installed {Aura}. He has a military HUD reformatted as civilian OS — think bare Linux. The civilian partition runs apps he has installed himself: messaging, drone ops software, games, task management. There is no AI layer. There is no voice in his head that he didn't put there. This is unusual — most people's commercial HUDs or watch/phone/earring rigs come with {Aura} or a competitor pre-installed. Jace actively chose not to install one. The reasons are the scene.
+**Critical context:** Jace does NOT have a pre-installed {Aura}. He has a military HUD reformatted as civilian OS — think bare Linux. The civilian partition runs apps he has installed himself: messaging, drone ops software, games, task management. There is no AI layer. There is no voice in his head that he didn't put there. This is unusual — most people's commercial HUDs or watch/phone/earring rigs come with {Aura} or a competitor pre-installed. Jace actively chose not to install one - he doesn't want someone talking into his brain and constantly bugging him. The reasons are the scene.
 
 Nick's {Aura} is a system-level app — not a floating assistant that lives in a corner of the overlay. It installs as a compositor, a window manager: it sits between the OS and every app Jace runs, with access to all sensor inputs, all processing capacity, all display outputs. Like the difference between running apps on bare Linux versus having a full desktop environment that can coordinate them. It can use the skull cap's full processing power, which will generate noticeable warmth during intensive operation.
 
@@ -71,63 +71,57 @@ Nick's {Aura} is a system-level app — not a floating assistant that lives in a
 
 **The scene:**
 
-They're in the middle of a game neither of them is fully concentrating on. Nick has been working up to something for twenty minutes — Jace can tell because Nick gets slightly more precise in his gameplay when he's thinking about something else.
+They're in the middle of a game neither of them is fully concentrating on. Nick has been working up to something for twenty minutes — Jace can tell because Nick gets slightly more precise in his gameplay when he's thinking about something else. Jace on the other hand is in the gym next to the inn, running on the tradmill with a weighted jacket on.  Grueling, but they are playing a strategy game so he doesn't need quick reflexes or hands-on control.
 
 "So," Nick says. "Your HUD. What are you running on the civilian partition?"
 
 Jace tells him: drone ops, messaging, task queue, games. The usual.
 
-"No {Aura}?"
-
-"No."
-
 Nick processes this the way engineers process unexpected information — not judgment, just recalibration. "How long have you had the system?"
 
 "Since the Pinta. Spent the whole transit recovering from the surgery."
 
-"And you never installed {Aura}."
+"And you never installed a local AI?  Your skulljack is perfect for that."
 
-"I have {Alex} briefing me every morning before I'm out of bed. I have {Penny} logging my access patterns. I have {SpoX} sending me alerts about ore priorities at 0542. I have enough AIs in my day." Jace sets down his controller. "I don't want something in my head that knows what I'm thinking before I do."
+"I have {Alex} briefing me every morning before I'm out of bed. I have {Penny} logging my access patterns. I have {SpoX} sending me alerts about ore priorities at 5 every morning. I have enough AIs in my day." Jace sets down his controller. "I don't want something in my head constantly giving me more to do."
 
-Nick nods slowly. "That's fair. That's actually—" He stops. Starts again. "Most people's rigs come with {Aura} pre-installed. You chose not to have it."
+Nick nods slowly. "That's fair. That's actually—" He stops. Starts again. "You know, there's a "buddy" mode where it never criticizes you..."
 
-"I chose not to have it."
+"Ugh, I don't want to force an AI to by my Buddy. My HUD is great for everything I need. And it doesn't nag me unless I set it to. I'm talking to you now through it, I can read messages, what more do I need?"
 
-"The thing is," Nick says, "what you're describing — the morning briefing, the access logs, the alerts — that's not {Aura}. That's the corporate AIs using the station's infrastructure to reach into your wristband and your bone-conduction and your overlay. They can do that because they have authority over the station systems. Your HUD just receives what they send."
+"The thing is," Nick says, "what you're describing — the morning briefing, the access logs, the alerts — that's not {Aura}. That's the corporate AIs constantly watching and trying to control you. Your HUD just..."
 
-Jace is listening.
+Jace grimaces, Nick just won the game they were playing while also delivering his sales pitch. "Man, with respect, I have a degree in engineering. I know how it
+works." Jace 
 
-"What I'm building is different. It's not a station system. It runs on your hardware, locally. It doesn't report to Origin. It doesn't have a morning briefing — I didn't build one, I don't want one. It doesn't have a compliance score. The only place your data goes is your own processing."
+Nick continues on now that he's on a roll. "What I'm building is different. It's not a station system. It runs on your hardware, locally. It doesn't report to Origin. It doesn't have a morning briefing. It doesn't have a compliance score."
 
 "If it's system-level it sees everything."
 
-"Yes."
+"Yeah."
 
 "So instead of {Alex} seeing everything, your {Aura} sees everything."
 
-"Except {Aura} isn't looking for contract violations. It's not filing reports. It can't — the architecture makes it structurally impossible. There's no endpoint to send the reports to." Nick pauses. "It's more like... you know how your skull cap runs warm when you're running heavy drone feeds?"
+"Except {Aura} isn't looking for contract violations. You know that HUD chip is pretty powerful right? Right now you're probably using maybe 30% of what that chip can do. The rest is idle. {Aura} as a system-level compositor can use all of it. Your hardware is wasted on a bare OS."
 
-"Yeah."
+This lands differently than everything else Nick has said, because Jace paid for that hardware. Paid for it with years of his life and a debt that he is still working off. 
 
-"Right now you're probably using maybe 30% of what that chip can do. The rest is idle. {Aura} as a system-level compositor can use all of it. Not for monitoring you — for drone coordination, sensor fusion, the stuff you actually need. Your hardware is wasted on a bare OS."
+"I'll think about it.  I've got"
 
-This lands differently than everything else Nick has said, because Jace paid for that hardware. Paid for it with years of his life and a debt that he is still working off. The idea that he is running it at 30% because he didn't want an AI watching him.
+Nick knows not to push.
 
-"Does it do the morning briefing?" he says.
+## Beat 3: Jace needs more processing power
 
-"No."
+Later, after Jace and Sophia have been through the Astral a few times, Jace decides he needs more tools to help him understand what the Astral is and how it
+works.  He pulls up a game with Nick and they start chatting while playing, both of them also doing other things.
 
-"Does it know when I wake up?"
+"How's your side-gig going?  Still want to stick your baby in my brain?"
 
-"Not unless you tell it you're awake."
+"This is not imagery I'm comfortable with." Nick responds dryly.
 
-"Does it tell me I have a 94.2% compliance score?"
+Jace laughs, "I just want to know what I'm buying."
 
-"It doesn't know what a compliance score is."
-
-The pause that follows is Jace working out that he has run out of objections that aren't just pride.
-
-"I'm not selling you a product," Nick adds. "I've never had hardware like yours to build on. I want to know what {Aura} can do at full system depth on a military-grade skull cap. You'd be—" he considers "—a co-developer, basically."
+"I'm not selling you a product," Nick responds, a bit put out. "I've never had hardware like yours to run it on. I want to know what {Aura} can do at full system depth on a military-grade skull cap."
 
 "I'm going to hate it," Jace says.
 
@@ -141,7 +135,7 @@ The pause that follows is Jace working out that he has run out of objections tha
 
 "That's the plan."
 
-Jace picks his controller back up. "Fine. But when I don't like something, I'm going to tell you."
+Jace send his troops in, destroying Nick's base in the game. Game over. "Fine. But when I don't like something, I'm going to complain.  Alot."
 
 "I'm counting on it."
 
@@ -160,26 +154,4 @@ Jace picks his controller back up. "Fine. But when I don't like something, I'm g
 
 ---
 
-## Find-Replace Reference — Other Files
-
-Files using AI names without curly braces:
-
-**Safe replacements (no edge cases):**
-- "Awe" → "{Alex}" (not a common word in other contexts)
-- "{Gem}" → "{Gem}" (check for gemstone references — in context should be clear)
-- "{Aura}" → "{Aura}" (check for magical/atmospheric "aura" references — context will distinguish)
-
-**Edge cases — replace only when clearly the AI system:**
-- "Spok" → "{SpoX}" — don't replace: "ex-USAF," "ex-military," "for example," "for ex."
-- "{Chorus}" → "{Chorus}" — don't replace: "Anthropic"
-- "{Penny}" → "{Penny}" — don't replace: "pen" as writing instrument, "open," "happen"
-
-**Files to update:**
-- `arcs/arc_01_falcon_and_fortuna.md`
-- `factions/faction_corporate_belt_control.md`
-- `universe-spec/spec_ip_economy_2100.md`
-- `universe-spec/concept_human_work_ai_age.md`
-- `characters/char_nick_lee.md` ({Aura} → {Aura} throughout)
-- `characters/char_jace_apollo.md` ({Aura} → {Aura} in HUD context; also update debt origin — see below)
-
-**char_jace_apollo.md debt update:** The debt is from the Space Force billing Jace for the skull cap HUD installation upfront as a condition of keeping the hardware at discharge. Not from civilian {Aura} services. Update wherever the debt origin is mentioned.
+**char_jace_apollo.md debt:** The debt is from the Space Force billing Jace for the skull cap HUD installation upfront as a condition of keeping the hardware at discharge. Not from civilian {Aura} services.

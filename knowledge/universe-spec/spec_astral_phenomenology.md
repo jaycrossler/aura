@@ -176,10 +176,7 @@ The difference between biological and AI glow is obvious to any observer. They a
 
 ### Animals
 
-Animals glow — less brightly and with simpler structure than humans. Dogs and primates show the most structure, with multiple centers and some emotional color variation.
-
-**Cerberus** shows the most complex animal glow in the belt. After repeated crossings, her glow is developing additional structure — a faint echo of the fractal complexity of human minds. It should not be happening at this rate. Sophia is watching it closely.
-
+Animals glow — less brightly and with simpler structure than humans. Dogs and primates show the most structure, with multiple centers and some emotional color variation.  See [[spec_astral_glow_and_signatures]]
 ---
 
 ## The Clockwork Dance

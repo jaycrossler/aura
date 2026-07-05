@@ -183,6 +183,7 @@ Scenes are organized by thread. Threads interleave in actual narrative order.
 | What drove the Scavenging Queen to Fortuna specifically? | Open | Ecological drift or something pushing the swarm inward? Kael has an opinion she does not share yet |
 | How many nests remain in the Fortuna asteroid? | Open | Jin cleared eleven; the swarm had to originate somewhere larger |
 | What does the Queen's orb do to Sophia long-term? | Partial | [Force Application] L4 established; whether the Queen's Will has lasting character effects is unresolved |
+| Are the station's "sabotage" data-gap reports connected to Astral crossings? | Open | Station-wide AI reads them as security incidents; only Jace's personal {Aura}, post-install, reframes his own gaps correctly |
 
 ---
 
@@ -226,7 +227,7 @@ Scenes are organized by thread. Threads interleave in actual narrative order.
 | Sophia's "seventeen notebooks" named in the kill | S-02 | The whole scientific documentation arc paying off in a single exchange |
 | Jin's "You killed a very large spider" | S-02 | The beginning of the Jin/Sophia relationship; pays off in Arc 2 patrol scenes |
 | Kael crouching, waiting for the dog | S-03 | Her 300-year diplomatic instinct; the reader's first true read of Kael as a being with patience and intelligence |
-
+| Station AI flags unexplained data disconnects as possible sabotage | Fortuna, post-arrival | Jace's own {Aura} later flags his own historical HUD gaps directly to him — the hint that this is how astral crossers get identified. Pays off in Arc 2+. |
 ---
 
 ## Scene Contracts
@@ -330,13 +331,14 @@ Each scene must demonstrably accomplish the listed items.
 4. Jace talks to Artemis briefly who is on Metis station - shows that he's excited
    to be near his sister again after 5 years, and introduce that Metis station is a place.
    Show that Artemis is "high up" - 3rd human in charge, but a team of 30 and 1000 robots.
-4a. Have Artemis wish Jace a Happy Birthday and share in his sadness of leaving the military
-5. Explain the water shushing sounds of water being pumped through ballasts around the
+5. Have Artemis wish Jace a Happy Birthday and share in his sadness of leaving the military
+6. Explain the water shushing sounds of water being pumped through ballasts around the
    ship, both for balance and shielding as people move
-6. Show that the ship has an AI that is controlling everything and the humans interact
+7. Show that the ship has an AI that is controlling everything and the humans interact
    with it constantly
-7. Show that Mei sends him an email "did you eat my duck?" and that a Duck is inexplicitly
+8. Show that Mei sends him an email "did you eat my duck?" and that a Duck is inexplicitly
    missing - and there is no conceivable place a duck could go missing on a space ship
+9. Have Jace playing games with Nick while doing other things, establish more on his HUD
 
 **Must NOT do:**
 - Rush the transit — this is where the characters are established
@@ -551,7 +553,7 @@ four minutes. He has hours left in his shift.
 
 ---
 
-#### P-01 — The Bar, Suzi, Helena (First Crossing Setup)
+#### P-01 — The Bar, Suzi, Helena
 
 **Summary:** Suzi seeks Jace out at the bar where he has a room. She is good company. Cerberus
 approves. She tells him about Helena's case as a mystery. Later she tells him in confidence 
@@ -718,6 +720,52 @@ three pages of notes about what an Astral survey instrument would need to measur
 
 ---
 
+#### X-00a - The Astral
+
+  Jace and Sophia meet up in person for the first time. Sophia is nervous, Jace is terrified. They
+  meet at the Inn, and have a short dinner - Sophia has a glass of wine which she says helps her relax into it.
+  After, Sophia jokingly asks "Your place or mine?" Jace blanches, and Sophia laughs. "You know, you don't have
+  to sleep to cross over? I just want to do it where there are no cameras so I think rooms are better. They head
+  up to his room and he's embarrased at how emptry it is.  Cerberus senses the excitement and plays with Sophia.
+  They sit on his bed, and Jace watches as Sophia outs on her breather, takes a deep breath, then closes her eyes.
+  A few minutes later her body turns rainbow transparent, she stands up, then she steps sideways into invisibility.
+
+  It's amazing to see, and he tries to replicate it. It's harder, and cerberus growls. Finally he opens his eyes as
+  he feels the change in air on his skin. "20 minutes" Sophia said, "It took me an hour my first time.  You're a
+  natural at this! And Cerberus is a good magic dog, too!"
+
+  **Must accomplish:**
+
+   1. Sophia gets comfortable with Jace, Cerberus helps
+   2. They establish what it looks like to cross to the astral, and how the mechanics work
+   3. A few joint crossings with Sophia (and Cerberus)
+   4. Jace concludes he needs better data-collection tools — this, not
+      Nick's earlier pitch alone, is what tips him into agreeing
+   5. Sophia tells JAce what he looks like in the Real, and that there's a "cord" or "umbilical" connecting him to Cerberus
+   6. They look at other people in the Real, and they think it's amazin gno one can see them.  They can go anywhere and spy
+      on people, but can't hear any sound - Sophia thinks there's tiny virbrations, by isn't sure
+
+   **Must NOT do:**
+   - Use `[Skill]` bracket notation (predates Jace's convention — still Arc 1)
+   - Resolve what the crossings mean systemically — Jace and Sophia are still
+     figuring this out empirically at this point
+
+#### L-01 — Jace concludes he needs an {Aura}
+
+  Jace decides he needs better tools to figure out what is in the Astral and gets Nick to help him install it
+
+
+   1. {Aura} install scene: clinic, Lanchee monitoring, OS backup beforehand,
+      avatar choice (Male/Female/Generic) — Jace picks Female, {Aura} reviews
+      his last two weeks of HUD logs and recommends "mostly quiet companion
+      mode," Jace agrees, ends with him configuring settings before sleep,
+      excited, impressed with Nick
+   2. {Penny}/{Alex} snark beat: something like "Oh, another one. These
+      mini-AI are very annoying" — needs a drafted line, not yet canon
+
+
+---
+
 ### THREAD L — Life Texture (Recurring Background)
 
 These are not single scenes. They are running beats embedded across multiple chapters.
@@ -725,7 +773,7 @@ These are not single scenes. They are running beats embedded across multiple cha
 
 #### L-02 — The Barn Visits
 
-*Recurring through all Fortuna chapters, starting from arrival day.*
+*Recurring through all Fortuna chapters, starting from arrival day. Maybe move chapters earlier or later*
 
 The Falcon gilts are now Fortuna gilts, integrated into the existing pig
 population. Cold War: two factions, contested feeding zones, elaborate sleeping
@@ -1597,6 +1645,25 @@ Reviewer checklist — yes/no against finished arc:
    character effects on Sophia beyond [Force Application] L4 — unresolved;
    flagged for Arc 2 when Kael can provide context.
 
+10. **{Aura} install timing vs. first-crossing sequence (author-confirmed
+       2026-07-04):** Jace's first full sleep-crossing happens ~1 week after
+       arriving on Fortuna — *before* he has {Aura}. He meets Sophia shortly
+       after, they cross together a few more times, and it's *that* experience
+       — realizing he needs better data-collection tools — that finally
+       convinces him to say yes to Nick. {Aura} installs after this, in the
+       clinic with Lanchee monitoring.
+
+       ⚠️ **CONFLICT FLAG:** `scenes/scene_notes_ai_interactions.md` currently
+       drafts the {Aura} pitch/install scene as happening *during the Falcon
+       transit* (a game-night scene with Nick, mid-voyage, well before
+       Fortuna). That draft needs to either move to post-arrival/post-Sophia,
+       or the transit version needs to be reframed as an earlier *unsuccessful*
+       pitch (Nick raises it early, Jace says no, the real install happens
+       later on Fortuna after the crossings). Recommend the latter — it fits
+       "Nick finally convinces him" language from the author and gives Nick's
+       persistence an arc. Needs author confirmation before scene files are
+       revised.
+
 ---
 
 ## Revision Notes
@@ -1619,3 +1686,9 @@ Reviewer checklist — yes/no against finished arc:
   exchange, "very large spider" exchange all canonized. Closing condition
   updated. Arc goals, success criteria, open mysteries, foreshadowing
   ledger all updated to match.
+- 2026-07-04: Added gap-detection foreshadowing (station-AI sabotage read
+     vs. Jace's personal {Aura} hint). Re-sequenced {Aura} install to occur
+     after Jace's first crossings and meeting Sophia, not independently timed
+     to "~1 week on Fortuna" alone. Flagged conflict with
+     scene_notes_ai_interactions.md's transit-set pitch scene — needs author
+     resolution.

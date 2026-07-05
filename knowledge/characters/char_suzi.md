@@ -1,12 +1,13 @@
 ---
 description: "Character profile for Suzi, Fortuna Station chief of security and investigative ally."
 id: char_suzi
-name: Suzi [surname TBD]
+name: Suzi Gonzales
+ethnicity: Hispanic-American
 aliases: ["Chief", "Chief Suzi"]
 species: human
 gender: female
 pronouns: she/her
-approximate_age: early-to-mid 60s
+approximate_age: 49
 status: alive
 first_appearance: Book 1, Fortuna arrival arc (Helena investigation)
 pov_character: false
@@ -15,7 +16,7 @@ last_updated: 2026-06-17
 
 # Affiliations
 role: Fortuna Station chief of security / station police (de facto — small frontier force)
-former_affiliations: United States military (retired; long career, hands-on)
+former_affiliations: United States Army (retired; Security Forces sergeant, Earth-stationed)
 
 # Relationships
 allies: [char_jace_apollo (grows to trust him), char_nick_lee (relies on his network data)]
@@ -37,6 +38,32 @@ themes_embodied: [integrity over expedience, the limits of conventional investig
 ## Summary
 
 Suzi is Fortuna Station's chief of security — a gray-haired ex-US-military retiree who took the job thinking it would be quiet frontier policing and instead caught the **Helena disappearance** (see [[char_helena]]), an impossible locked-room case with no body, no breach, and no evidence.
+
+Suzi served as a Security Forces sergeant in the U.S. Army, stationed on Earth,
+before retiring and taking the Fortuna security chief job ten years ago. She
+plans to live out the rest of her life on Fortuna — this is not a stopover for
+her the way it is for most transplants. She keeps herself in very good shape
+and carries herself with the compact, no-nonsense economy of someone who
+trained for confrontation and never stopped expecting to need it.
+
+Short hair, practical, unhurried. Most of her working hours are not spent on
+crime — they're spent standing between Fortuna's factions before an argument
+becomes something worse. She is genuinely even-handed in the abstract, but
+carries a real, specific bias against the Chinese community on-station — not
+loudly, not in a way she'd admit to herself as prejudice, but it colors her
+instincts and her patience. This should read as a real flaw, not a quirk;
+it is one of the places her honesty runs out.
+
+She knew Helena personally. Helena's disappearance is Fortuna's first murder
+investigation, and Suzi takes it hard — not just professionally. Around the
+same time, she starts hearing scattered reports of anomalies she has no
+framework for, and doesn't know what to make of them. Her orderly,
+evidence-based worldview is slowly coming apart over the course of Arc 1.
+
+When the swarm attack hits the station near the end of the arc, this cracks
+the other way: she is extremely competent under fire, holding the defense
+organized and functional. Competence under pressure is her real self,
+underneath the fraying certainty — worth showing both.
 
 She is honest to a fault. Faced with zero physical evidence and a station eager to pin it on one of Helena's boyfriends, she refuses to railroad anyone. She would rather say "I don't know" than close a case dirty. This makes her unpopular with people who want the matter settled and quietly makes her the most trustworthy authority figure on the station.
 
@@ -68,7 +95,6 @@ Suzi is not a Jace-support appliance. She is keeping a fragile frontier town saf
 
 ## Open Questions
 
-- Surname and specific military background (branch, role, why she emigrated to the belt).
 - Whether she is read into the station's suppressed anomaly history, or is being kept in the dark by Origin management.
 - How and when she crosses from "stumped" to "willing to entertain the impossible."
 - Her relationship to the (TBD) Station Commander and to Origin's preference for quiet.
@@ -84,3 +110,12 @@ Suzi is not a Jace-support appliance. She is keeping a fragile frontier town saf
 ## Revision Notes
 
 - 2026-06-17: New file. Established Fortuna police chief — ex-US-military retiree, honest, stumped by Helena's impossible case, trusts Jace because his transit alibi clears him. Investigative-ally function and independent goals defined.
+   - 2026-07-04: Surname (Gonzales) and ethnicity (Hispanic-American) confirmed.
+     Corrected military background to U.S. Army Security Forces sergeant,
+     Earth-stationed (was previously unspecified branch); corrected age to 49
+     (was "early-to-mid 60s" — inconsistent with "very good shape" framing and
+     retiring ten years ago after an Army career). Added bias against the
+     Chinese community as a real character flaw. Added personal connection to
+     Helena and the emotional stakes of the first murder investigation. Added
+     the swarm-attack competence beat as a counterpoint to her fraying
+     certainty earlier in the arc.

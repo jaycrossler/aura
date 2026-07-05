@@ -189,6 +189,38 @@ appears.
 
 ---
 
+**Will-bonded creatures — signature inheritance:** 
+A creature bonded to a human practitioner does not generate an independent thought-pattern
+signature the way an unbonded animal does. Instead, its Astral glow mirrors
+its bonded person's base color and signature family almost exactly — the
+bond overwrites what would otherwise be a simple, low-complexity animal
+glow with a reflection of the human partner's signature.
+
+**Cerberus** is the first documented case in the belt. His glow reads as a
+near-exact match to Jace's — same base color family, same underlying
+structure — which is unusual and initially confusing to observers, since he
+has no formal bond and Jace doesn't yet know he's a practitioner. What
+distinguishes Cerberus from Jace at a glance is not color but *behavior*:
+his glow is intensely, rapidly reactive in a way no human's is. Where a
+human mind runs many concurrent emotional and cognitive threads at once —
+a fractal orchestra of colors, changing at different rates in different
+regions simultaneously — Cerberus's glow changes as a single unified block,
+"all at once." He also generates dramatically less total Will than a human
+(roughly 20%), so the glow is smaller and dimmer even when it's shaped like
+Jace's. [[spec_will_bonded_animals]]
+
+Observed pattern (per Sophia's notes, watching Cerberus from the Astral
+while he is in the Real): calm/half-asleep reads as soft and quiet:
+instantly, fully alert and reads red at the sound of fast or aggressive
+footsteps; snaps to orange/joyful the instant he recognizes a friendly
+person, tail wagging; shifts to purple/hungry at the smell of food. Each
+transition is total and immediate — no blending, no competing simultaneous
+states. Sophia finds this quality genuinely moving to watch: dogs, she
+says, are "so honest and genuine" in the Astral, and Cerberus's total,
+undivided attention in each state is a small joy.
+
+---
+
 ## Layer 3 — AI Will
 
 AI systems generate Will, but it appears entirely differently from biological Will.
@@ -319,7 +351,6 @@ for the first time.
 
 ## Open Questions
 
-- [ ] What color is Cerberus's Will-glow? (Author input needed)
 - [ ] Do non-human galactic species have recognizably different signature structures,
   or does the four-component model (color/structure/movement/nesting) apply universally?
 - [ ] Can a practitioner learn to suppress their own signature? (Kael's
@@ -338,3 +369,10 @@ for the first time.
   AI Will appearance, and Cherenkov working-detection mechanic including scale rules,
   scavenger-attraction mechanism, and Kael's summoning signature. Cross-referenced
   to spec_astral_phenomenology.md.
+- 2026-07-04: Resolved Cerberus's Will-glow color question. Established the
+  general rule that Will-bonded creatures mirror their bonded human's base
+  signature color/family rather than generating an independent one — this
+  applies to all Will-bonded animals going forward, not just Cerberus.
+  Added the "all at once" emotional-transition model for animal cognition,
+  contrasted with the human fractal-simultaneous model, per Sophia's
+  Astral-observation notes.
