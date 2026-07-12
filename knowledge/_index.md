@@ -1,7 +1,14 @@
 # Directory Tree
 
 - arcs/
-    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-07-05; type: arc; description: >; lines: 2485; xrefs: 21; canonical: true; open_decisions: 6; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong
+    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-07-05; type: arc; description: >; lines: 408; xrefs: 24; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong, kim, torres, carlos
+    - arc_01_thread_A_arrival.md - name: Arc 1 — Thread A: Arrival; id: arc_01_thread_A_arrival; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 200; xrefs: 8; canonical: true; chars: jace_apollo, carlos, kim, torres, mira, hayes
+    - arc_01_thread_L_life_texture.md - name: Arc 1 — Thread L: Life Texture; id: arc_01_thread_L_life_texture; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 213; xrefs: 6; canonical: true; chars: jace_apollo, sophia_lotte, mei, mira, kim
+    - arc_01_thread_N_nick_ai.md - name: Arc 1 — Thread N: Nick / AI; id: arc_01_thread_N_nick_ai; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 121; xrefs: 6; canonical: true; chars: jace_apollo, nick_lee, jin_luong
+    - arc_01_thread_P_pressure.md - name: Arc 1 — Thread P: Pressure; id: arc_01_thread_P_pressure; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 251; xrefs: 6; canonical: true; chars: jace_apollo, suzi, jin_luong, helena, mei
+    - arc_01_thread_S_swarm.md - name: Arc 1 — Thread S: Swarm and Closing; id: arc_01_thread_S_swarm; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 197; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, jin_luong, nick_lee, suzi, kael, torres, kim, carlos, mira
+    - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 197; xrefs: 7; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
+    - arc_01_thread_X_astral.md - name: Arc 1 — Thread X: Astral Exploration; id: arc_01_thread_X_astral; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 423; xrefs: 8; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
     - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
     - arc_04_the_bloom.md - name: Arc 4 — The Bloom; id: arc_04_the_bloom; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 320; xrefs: 0; canonical: false; open_decisions: 5
@@ -42,6 +49,7 @@
     - normalize_cross_references_2026-07-02.md - updated: 2026-07-02; lines: 726; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-04.md - updated: 2026-07-04; lines: 733; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-05.md - updated: 2026-07-05; lines: 739; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-07-12.md - updated: 2026-07-12; lines: 833; xrefs: 0; canonical: false
 - factions/
     - faction_anzu_clades.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 62; xrefs: 0; canonical: true
     - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; canonical: true; updated: 2026-04-28; type: distributed_settlement_network; description: Describes the loose network of mining and habitation stations in the asteroid belt.; lines: 102; xrefs: 0; canonical: true
@@ -230,6 +238,13 @@ These files were marked as draft or have non-canonical status and should not be 
 
 - `MASTER-SYNOPSIS.md`
 - `arcs\arc_01_falcon_and_fortuna.md`
+- `arcs\arc_01_thread_A_arrival.md`
+- `arcs\arc_01_thread_L_life_texture.md`
+- `arcs\arc_01_thread_N_nick_ai.md`
+- `arcs\arc_01_thread_P_pressure.md`
+- `arcs\arc_01_thread_S_swarm.md`
+- `arcs\arc_01_thread_T_transit.md`
+- `arcs\arc_01_thread_X_astral.md`
 - `arcs\arc_02_woven_and_unbound.md`
 - `arcs\arc_03_the_return_and_the_trap.md`
 - `arcs\arc_04_the_bloom.md`
@@ -251,6 +266,13 @@ These files were marked as draft or have non-canonical status and should not be 
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
 - `CLAUDE_PROJECT_INSTRUCTIONS`
+- `arc_01_thread_A_arrival`
+- `arc_01_thread_L_life_texture`
+- `arc_01_thread_N_nick_ai`
+- `arc_01_thread_P_pressure`
+- `arc_01_thread_S_swarm`
+- `arc_01_thread_T_transit`
+- `arc_01_thread_X_astral`
 - `arc_03_the_return_and_the_trap`
 - `arc_04_the_bloom`
 - `arc_05_the_reckoning`
@@ -283,6 +305,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `normalize_cross_references_2026-07-02`
 - `normalize_cross_references_2026-07-04`
 - `normalize_cross_references_2026-07-05`
+- `normalize_cross_references_2026-07-12`
 - `priority_fix_list`
 - `scene_notes_ai_interactions`
 - `ship_livestock_ferry_class`
@@ -297,7 +320,6 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `tech_misty_ai`
 - `tech_modular_pod_canisters`
 - `tech_nuclear_ferries`
-- `tech_seek_ai`
 - `tech_sleep_masks`
 - `tech_space_materials_and_fabrication`
 - `timeline_book01_incursions`
