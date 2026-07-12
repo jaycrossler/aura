@@ -203,6 +203,12 @@ temporarily offline. Recovery in progress. Earth has scrambled a rescue mission.
 *(Remainder not fully retrieved — verify against source, including Mei's
 password decision.)*
 
+**See also:** `timeline_disclosure_political_response.md` — new author material
+expanding what happens after this antenna reaches Earth: multi-government
+confusion, AI-behind-the-chaos fears, competing feed cuts, and the beginning of
+a military buildup toward Fortuna. Not yet integrated as scene content here —
+delivered as a standalone timeline document.
+
 ---
 
 #### P-08 — Jin and Jace, "I Know"

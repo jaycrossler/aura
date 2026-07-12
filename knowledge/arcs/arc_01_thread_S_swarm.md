@@ -53,6 +53,10 @@ cross_references:
   source; add explicitly to this scene's casualty list)
 - Twenty others die (per the "Many undecided chapters" notes below)
 - The fight is broadcast live through the Pig Channel — involuntary, global disclosure
+  (see `timeline_disclosure_political_response.md` for the political/military
+  chain reaction this triggers — including a still-undecided question of whether
+  Chinese or U.S. military reinforcements arrive during, after, or too late for
+  this fight)
 
 **NEW — from author notes, candidates for this scene (not yet formalized as contract items):**
 - Mira uses her summoning powers in the fight — summons a chair to block a

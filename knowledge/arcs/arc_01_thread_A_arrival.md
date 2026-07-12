@@ -64,6 +64,15 @@ elements: Helena's jacket on the hook lands before Suzi mentions her; the stuffe
 pig Nick made for Cerberus is introduced here; station nicknames "Training Mode" /
 "Dog Man" established via T-03b2's footage preceding him.)*
 
+**NEW — from author notes, not yet in canon (recommend adding):**
+- Cerberus is a novelty on arrival — most people on the station are excited to
+  meet her; many residents have never seen a dog in person before, and reactions
+  split between delight and open wariness
+- Kim is the one clear exception: she does not like dogs, and this is established
+  here before it becomes a running friction point in A-03. Her reaction to
+  Cerberus should read as genuine dislike, separate from and unrelated to her
+  later scowl toward Jace — two different things the reader shouldn't conflate
+
 ---
 
 #### A-01a — Hayes
@@ -117,6 +126,12 @@ four minutes. He has hours left in his shift.
 4. Jace has weird dreams that night where he thinks he's moving around outside the station
 5. Jace hears about tensions with the Chinese miners and is warned about sabotage
 
+**NEW — from author notes, not yet in canon (recommend adding):**
+- Cerberus stays in a dog bed by Jace's feet during his shift. Kim complains
+  regularly about dog hair and dog smell in the workspace — a small, recurring
+  friction that sits alongside her mediocrity comment rather than explaining it;
+  the reader shouldn't assume one causes the other
+
 ---
 
 #### A-04 — The Survey Trip
@@ -150,6 +165,10 @@ gouges, no metal remaining. He files it without a framework.
   to leave as soon as possible
 - Torres is friendly, devoutly religious and superstitious — a cross hangs in his cockpit
 - Torres only scowls when near the scratched asteroid; otherwise warm and easygoing
+- Jace arranges for Cerberus to stay at the animal ranch area with Siren for the
+  3-day trip rather than bring her — his first extended separation from her since
+  Mars. He misses having her with him; worth a beat of him noticing the absence,
+  reaching down out of habit and finding nothing there
 
 ---
 
