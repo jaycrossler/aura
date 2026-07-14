@@ -5,7 +5,10 @@ name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol
 type: foundational_cosmology_detail
 status: canonical
 canonical: true
-last_updated: 2026-06-21
+last_updated: 2026-07-14
+cross_references:
+  - "[[spec_dungeon_anchor_mechanics]]"
+  - "[[spec_dungeon_systems]]"
 ---
 
 # The Scar — Clearing Mechanics and the Membrane Model
@@ -49,6 +52,33 @@ Breach zones are not stable portals. They are more like tide pools — areas whe
 - In sustained breach zones: physical manifestation of Never-Never ecology at the margins
 
 At story start, the asteroid belt contains dozens of documented anomaly zones that are, without anyone understanding it yet, breach zones of varying intensity.
+
+---
+
+## Dungeon Anchors as Local Stabilizers
+
+Active dungeon anchors ([[spec_dungeon_anchor_mechanics]]) have a secondary effect on
+local Scar clearing beyond their own function: a maintained Cognitive Program with a
+stable anchor acts as a **local stabilizer**, producing a small persistent zone of
+more coherent Astral/Hyperspace terrain around it — the dungeon's own maintenance
+routines are, incidentally, holding a patch of the membrane together.
+
+This means:
+
+- Breach zones near an active (even partially dormant) dungeon anchor may clear
+  faster or more predictably than isolated breach zones.
+- A dungeon's **reopening sequence** ([[spec_dungeon_systems]]: Dormancy → Trickle
+  Awakening → Reconciliation → Partial Projection → Scope Expansion → Purpose Crisis
+  → Externalization → Stabilization/Collapse) produces a distinctive **room-by-room
+  flickering pattern** rather than a uniform clearing gradient — individual chambers
+  or corridors stabilize independently as the program reconciles each subsystem
+  against modern conditions, which reads externally as patchy, inconsistent access
+  rather than a smooth wavefront.
+- A destroyed or starved anchor removes the local stabilizing effect, which may cause
+  the surrounding breach zone to destabilize or revert to earlier clearing stages.
+
+See [[spec_dungeon_anchor_mechanics]] and [[spec_dungeon_systems]] ("Reopening
+Sequence") for the underlying mechanism.
 
 ---
 
@@ -285,3 +315,4 @@ a question of when, not whether.
 
 - 2026-05-31: New file. Establishes the Scar as a patchy healing membrane rather than a wall; introduces breach zone mechanics; creates the first catalogue of Scar-specific fauna with story functions; establishes the God-Scout protocol and the discovery moment.
 - 2026-06-21: Added Arc 2 tie-ins
+- 2026-07-14: Added dungeon anchors as local stabilizers and the room-by-room flicker pattern.

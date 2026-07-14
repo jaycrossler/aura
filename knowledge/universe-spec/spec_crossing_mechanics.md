@@ -5,7 +5,9 @@ name: Dimensional Crossing — Costs, Accidents, and the AI Discovery
 type: foundational_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-05-31
+last_updated: 2026-07-14
+cross_references:
+  - "[[spec_dungeon_entry_and_interface]]"
 ---
 
 # Dimensional Crossing Mechanics
@@ -83,6 +85,31 @@ A deliberate crossing requires sustained meditative focus for at minimum 20 minu
 In a belt station environment, where personal space is minimal, privacy is limited, and biometric monitoring is standard for safety reasons, this is extraordinarily difficult to conceal. The first deliberate crossings will either happen in the most private spaces on a station (maintenance crawlspaces, isolated modules, outside on tethered EVA) or will be noticed.
 
 This is part of why the magical practitioner community in the belt is underground. Discovery is not just socially risky — in the wrong corporate jurisdiction, a practitioner who can cross into the Never-Never is an asset, a liability, or a threat. Probably all three.
+
+---
+
+## Dungeon Forced-Crossing Surcharge, Emergence Delay, and Occupancy Failure
+
+Dungeon-forced entries ([[spec_dungeon_entry_and_interface]]) are a special case of
+crossing and carry additional cost/risk on top of standard crossing mechanics:
+
+- **Forced-crossing surcharge.** Involuntary entry costs the dungeon substantially
+  more Will than a voluntary crossing of equivalent mass/complexity — the program is
+  overriding the entrant's own Template resistance rather than working with it. This
+  is *why* dungeons cannot casually abduct anyone within range; the Will cost gates
+  frequency.
+- **Emergence delay.** Dungeon crossings are not instant. Entrants pass through a
+  staged sequence (lock → overlap → alignment → transfer → reconciliation → release)
+  during which they may be immobile, disoriented, or vulnerable — an extended version
+  of the ordinary crossing-accident window already described in this file.
+- **Destination occupancy failure.** If the dungeon's intended destination is already
+  occupied by matter, the crossing can fail in several ways: rejection, destination
+  shift, boundary holding, forced displacement (with injury risk), or a fragmented/
+  partial crossing. This is a dungeon-specific elaboration of the general occupancy
+  problem — flag if the base file doesn't yet address occupancy conflicts for
+  non-dungeon crossings, since the same failure mode likely applies there too.
+
+See [[spec_dungeon_entry_and_interface]] for the full entry/exit/failure rules.
 
 ---
 
@@ -392,3 +419,4 @@ The 23-minute gap is logged. Nobody looks at it yet.
 ## Revision Notes
 
 - 2026-05-31: Major addition. Added atmosphere section (Never-Never unbreathable, sleep mask as survival equipment, 60-90 sec ambient vs 3-6 hr mask supply). Added temperature (~-40 to -60C), gravity analogue (0.05-0.1G near asteroid), {Aura} dark gap as forensic signature, Cerberus crossing mechanics. Added self-crossing vs tear mechanics with psychological profile of each. Added Jace arc phases.
+- 2026-07-14: Added dungeon-forced crossing surcharge, delay, and occupancy failure rules; flagged occupancy-conflict behavior for ordinary crossings.

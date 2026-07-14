@@ -4,7 +4,7 @@ name: Dimensional Travel — Complete Mechanics Reference
 type: foundational_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-06-25
+last_updated: 2026-07-14
 supersedes: >
   Partial content in spec_crossing_mechanics, spec_astral_phenomenology,
   magic_never_never, legacy_lexicon_and_rulebook_reconciliation
@@ -15,6 +15,8 @@ cross_references:
   - "[[magic_never_never]]"
   - "[[magic_will_and_templates]]"
   - "[[legacy_lexicon_and_rulebook_reconciliation]]"
+  - "[[spec_dungeon_entry_and_interface]]"
+  - "[[spec_dungeon_systems]]"
 description: >
   Authoritative single-source reference for how dimensional travel works in
   The {Aura} Chronicles. Covers the three layers, tau mechanics, crossing costs,
@@ -447,6 +449,31 @@ through careful observation.
 
 ---
 
+## Dungeon Thresholds Do Not Bypass Standard Crossing Rules
+
+Dungeon-generated thresholds ([[spec_dungeon_entry_and_interface]]) are a special
+**access method** into existing spatial layers — they are not a separate physics.
+A dungeon entrance still obeys every standard crossing constraint already defined in
+this file:
+
+- Cost still scales with mass, material complexity, and atomic density.
+- Distance-squared/cubed geometry (Astral/Hyperspace) still applies to any projection
+  the dungeon maintains in those layers.
+- Occupancy at the destination is still a real constraint — a dungeon cannot place an
+  entrant where matter already exists without displacement, rejection, or injury (see
+  [[spec_dungeon_entry_and_interface]], "Occupancy Conflict").
+- Emergence is not instantaneous. A dungeon crossing follows its own staged sequence
+  (Cognitive lock → Astral overlap → Template alignment → matter transfer → sensory
+  reconciliation → release), analogous to but distinct from an ordinary practitioner
+  crossing.
+
+What a dungeon threshold *adds* is not new physics but a **pre-negotiated access
+path** — Cognitive Layer program logic that can force, filter, or ease a crossing
+according to its own rules (Purpose Kernel, anchor range, role recognition). See
+[[spec_dungeon_systems]] and [[spec_dungeon_anchor_mechanics]] for the full mechanism.
+
+---
+
 ## 7. Gravity and Physical Forces Within the Layers
 
 ### No Conventional Gravity
@@ -840,3 +867,4 @@ new content:
   distinction, Kael's navigational intuition, light propagation in compressed distance,
   telescope implication. (4) Section 9 updated: tau reset releases tension; Template
   extension of distance limits clarified.
+- 2026-07-14: Added dungeon-threshold clarification — dungeon crossings obey standard mass/complexity/occupancy rules.

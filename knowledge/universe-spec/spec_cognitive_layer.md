@@ -1,10 +1,10 @@
 ---
 id: spec_cognitive_layer
-name: The Cognitive Layer — Fourth Dimension Specification
+name: The Cognitive Layer — Structure, Storage, and Addressing
 type: universe_spec
 status: canonical
 canonical: true
-last_updated: 2026-06-27
+last_updated: 2026-07-14
 description: >
   Foundational specification for the Cognitive Layer — the fourth dimensional
   layer in which Templates, programs, patterns, and stored configurations exist
@@ -20,9 +20,12 @@ cross_references:
   - "[[magic_skills_framework]]"
   - "[[char_kael]]"
   - "[[faction_titan_forge]]"
+  - "[[spec_dungeon_anchor_mechanics]]"
+  - "[[spec_dungeon_cognitive_evolution]]"
+  - "[[spec_dungeon_entry_and_interface]]"
 ---
 
-# The Cognitive Layer — Fourth Dimension Specification
+# The Cognitive Layer — Structure, Storage, and Addressing
 
 ## The Four Layers
 
@@ -309,3 +312,4 @@ else can do what they do: you cannot edit code you cannot read.
   Unmoved, Deep Store). Titan-Forge relationship established. Sol human anomaly
   explained. Dungeon programs as Cognitive Layer architecture. Four open questions
   flagged including "Apollo" working and AI Layer 4 access.
+- 2026-07-14: Renamed specification title; added cross-references to new dungeon-system specifications.

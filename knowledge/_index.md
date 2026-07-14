@@ -52,6 +52,7 @@
     - normalize_cross_references_2026-07-04.md - updated: 2026-07-04; lines: 733; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-05.md - updated: 2026-07-05; lines: 739; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-12.md - updated: 2026-07-12; lines: 833; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-07-14.md - updated: 2026-07-14; lines: 913; xrefs: 0; canonical: false
 - factions/
     - faction_anzu_clades.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 62; xrefs: 0; canonical: true
     - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; canonical: true; updated: 2026-04-28; type: distributed_settlement_network; description: Describes the loose network of mining and habitation stations in the asteroid belt.; lines: 102; xrefs: 0; canonical: true
@@ -78,6 +79,7 @@
     - fortuna_station_population_neighborhoods.md - name: Fortuna Station Population and Neighborhoods; id: fortuna_station_population_neighborhoods; status: draft; canonical: true; updated: 2026-06-30; type: supporting_location_bible; description: Population, housing, neighborhoods, civic loadout, and daily life at Fortuna Station.; lines: 500; xrefs: 0; canonical: true
     - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; canonical: true; updated: 2026-06-30; type: region; description: Overview of the Asteroid Belt region, its geography, major stations, travel logic, and belt-wide settlement economy.; lines: 150; xrefs: 0; canonical: true
     - location_belt_visual_prompt_library.md - name: Belt Visual Prompt Library; id: location_belt_visual_prompt_library; status: draft; canonical: true; updated: 2026-06-30; type: visual_prompt_library; description: Reusable image prompts and descriptive vignettes for Fortuna Station, Metis Station, and inner-belt industrial life.; lines: 178; xrefs: 0; canonical: true
+    - location_earth_dungeon_network.md - name: Earth Dungeon Network; id: location_earth_dungeon_network; status: draft; canonical: false; type: distributed_location; description: >; lines: 93; xrefs: 0; canonical: false
     - location_fortuna_station.md - name: Fortuna Station; id: location_fortuna_station; status: active, growth phase; canonical: true; updated: 2026-06-30; type: station; description: Description of the industrial inner belt mining hub, Fortuna Station.; lines: 409; xrefs: 0; canonical: true
     - location_mars_consumer_district.md - name: Mars Consumer District (working name); id: location_mars_consumer_district; status: active, expanding; canonical: true; updated: 2026-06-30; type: district; description: Description of a future retail, cafe, and consumer technology district in Terminus on Mars.; lines: 135; xrefs: 3; canonical: true
     - location_mars_fabrication_district.md - name: Mars Fabrication District (working name); id: location_mars_fabrication_district; status: active, expanding; canonical: true; updated: 2026-06-30; type: district; description: Description of the major Martian industrial and fabrication district in Terminus, including heavy manufacturing, robot repair, truck depots, rail logistics, and launch-support industry.; lines: 172; xrefs: 4; canonical: true
@@ -106,20 +108,22 @@
     - magic_improvised_responses.md - name: Improvised Responses to the Outbreak — Belt Field Adaptations; id: magic_improvised_responses; status: draft — Fortuna context; broader applicability TBD; canonical: true (field adaptations); partial (wider use); updated: 2026-05-02; type: magic_system; description: Details improvised magical technology built from salvaged materials for asteroid belt survival.; lines: 100; xrefs: 4; canonical: true (field adaptations); partial (wider use)
     - magic_manifestations_early.md - name: Early Manifestations — Pre-Understanding Phase; id: magic_manifestations_early; status: established canon (observable phenomena); theoretical explanations TBD; canonical: true; updated: 2105-03-15; type: magic_system; description: Catalog of early, observable magical phenomena encountered during the solar system outbreak.; lines: 187; xrefs: 5; canonical: true; chars: jace_apollo, cerberus
     - magic_never_never.md - name: The Never-Never; id: magic_never_never; status: foundational; canonical: true; updated: 2026-05-31; type: foundational_location_magic_system; description: Describes the Never-Never location, detailing its two distinct environments and history.; lines: 156; xrefs: 0; canonical: true
-    - magic_overview.md - name: Magic — Overview and Fundamental Principles; id: magic_overview; status: working draft — foundational canon established; details to be developed across books; canonical: true (foundational principles); updated: 2026-05-02; type: magic_system; description: Foundational overview detailing the core principles and mechanics of the returning magic system.; lines: 117; xrefs: 3; canonical: true (foundational principles)
+    - magic_overview.md - name: Magic — Overview and Fundamental Principles; id: magic_overview; status: working draft — foundational canon established; details to be developed across books; canonical: true (foundational principles); updated: 2026-07-14; type: magic_system; description: Foundational overview detailing the core principles and mechanics of the returning magic system.; lines: 143; xrefs: 4; canonical: true (foundational principles)
     - magic_progression_signals_guide.md - name: Progression Signals — Prose Writing Guide; id: magic_progression_signals_guide; status: canonical (editorial/developmental — not world canon); canonical: true; updated: 2026-06-27; type: dev_guide; description: >; lines: 353; xrefs: 4; canonical: true
     - magic_returning_arts.md - name: The Returning Arts; id: magic_returning_arts; status: foundational; canonical: true; updated: 2026-05-31; type: magic_system; description: Describes the mechanics and scope of magic returning to the solar system.; lines: 166; xrefs: 0; canonical: true
     - magic_self_template_skill.md - name: [Self Template] — Skill Specification; id: magic_self_template_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 444; xrefs: 6; canonical: true; chars: jace_apollo, kael
     - magic_skill_level_scale.md - name: Skill Level Scale — Canonical Reference; id: magic_skill_level_scale; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 205; xrefs: 4; canonical: true; chars: jace_apollo, kael
     - magic_skills_framework.md - name: Skills Framework — [Skill] System, Trees, and Progression; id: magic_skills_framework; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: Reference guide for the magic skills framework, defining the bracketed [Skill] system, skill trees, and Sol human progression.; lines: 674; xrefs: 8; canonical: true; chars: jace_apollo, kael
     - magic_technological_adaptation.md - name: Technological Adaptation to the Outbreak — The Static Problem; id: magic_technological_adaptation; status: established canon; canonical: true; updated: 2026-06-26; type: magic_system; description: Details the technical challenges and adaptations for electronic systems facing magical interference (the Static).; lines: 123; xrefs: 4; canonical: true
-    - magic_will_and_templates.md - name: Will and Templates — Core Metaphysical Mechanics; id: magic_will_and_templates; status: foundational; canonical: true; updated: 2026-05-31; type: foundational_magic_mechanics; description: Defines core metaphysical mechanics: Will and Templates governing all magic.; lines: 215; xrefs: 1; canonical: true
+    - magic_will_and_templates.md - name: Will and Templates — Core Metaphysical Mechanics; id: magic_will_and_templates; status: foundational; canonical: true; updated: 2026-07-14; type: foundational_magic_mechanics; description: Defines core metaphysical mechanics: Will and Templates governing all magic.; lines: 244; xrefs: 3; canonical: true
     - magic_will_implications.md - name: Will — Deep Implications and Universe-Wide Consequences; id: magic_will_implications; status: canonical_working; canonical: true; updated: 2026-05-31; type: foundational_analysis; description: Analyzes the universal biological and cosmic implications of conscious will generation.; lines: 309; xrefs: 0; canonical: true
     - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 228; xrefs: 5; canonical: true; chars: jace_apollo
 - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic.; lines: 125; xrefs: 0; canonical: false
 - normalize_cross_references.py
 - priority_fix_list.md - lines: 91; xrefs: 0; canonical: false
 - README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-06-26; type: readme; description: >; lines: 208; xrefs: 2; canonical: false
+- review-queue/
+    - review_queue.md - lines: 28; xrefs: 0; canonical: false
 - scenes/
     - book01-ch01-afternoon-workshop.md - id: book01-ch01-afternoon-workshop; status: draft; updated: 2026-06-05; type: scene_draft; description: Draft scene detailing Jace's engineering work, character interactions, and project development on the Falcon ship.; lines: 114; xrefs: 0; canonical: false
     - book01-ch01-morning-round.md - id: book01-ch01-morning-round; status: draft; updated: 2026-06-05; type: scene_draft; description: Opening chapter establishing crew dynamics, ship life, and Jace's routine aboard the Falcon.; lines: 205; xrefs: 0; canonical: false
@@ -200,7 +204,17 @@
     - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); canonical: true; updated: 2105-03-16; type: chronology_index; description: Chronological index mapping all scenes, dates, and character continuity for the book's timeline.; lines: 519; xrefs: 0; canonical: true
     - timeline_book01_incursions.md - name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helena); id: timeline_book01_incursions; status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md; canonical: working; updated: 2026-06-17; type: timeline; description: Timeline detailing events during the Falcon transit, covering plot crises and character arcs.; lines: 56; xrefs: 0; canonical: working
     - timeline_disclosure_political_response.md - name: The Disclosure Crisis — Political and Military Response; id: timeline_disclosure_political_response; status: working draft; canonical: true (structure) / partial (specific scene placement); updated: 2026-07-12; type: timeline; description: >; lines: 165; xrefs: 9; canonical: true (structure) / partial (specific scene placement)
+    - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-06-03; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 227; xrefs: 0; canonical: true
+- to_merge/
+    - MERGE_INSTRUCTIONS.md - lines: 82; xrefs: 0; canonical: false
+    - PATCH_magic_overview.md - lines: 42; xrefs: 0; canonical: false
+    - PATCH_magic_will_and_templates.md - lines: 44; xrefs: 0; canonical: false
+    - PATCH_physics-and-magic-interaction.md - lines: 46; xrefs: 0; canonical: false
+    - PATCH_spec_cognitive_layer_RENAME.md - lines: 50; xrefs: 0; canonical: false
+    - PATCH_spec_crossing_mechanics.md - lines: 44; xrefs: 0; canonical: false
+    - PATCH_spec_dimensional_travel_mechanics.md - lines: 47; xrefs: 0; canonical: false
+    - PATCH_spec_scar_clearing_mechanics.md - lines: 45; xrefs: 0; canonical: false
 - universe-spec/
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
     - concept_mil_ex_implants.md - name: MilX — Military Implant Systems and the Implant Ecosystem; id: concept_mil_ex_implants; status: established canon; canonical: true; updated: 2026-05-02; type: universe_spec; description: Details military implant systems, consumer tech, and their differing capabilities in 2105.; lines: 227; xrefs: 3; canonical: true; chars: jace_apollo
@@ -208,16 +222,19 @@
     - concept_resource_scarcity.md - name: Belt Resource Scarcity and Selection Pressure; id: concept_resource_scarcity; status: established (story present onward); canonical: true; updated: 2026-04-30; type: cultural_phenomenon; description: Guiding rules defining the belt resource scarcity regime of abundant raw materials and scarce processed goods.; lines: 120; xrefs: 1; canonical: true
     - cosmology.md - id: spec_cosmology; status: foundational; canonical: true; updated: 2026-06-25; description: Cosmological foundations: Vela Junior, the Scar, the resonance flood, and the Reopening.; lines: 540; xrefs: 6; canonical: true
     - legacy_lexicon_and_rulebook_reconciliation.md - name: Legacy Lexicon & Physics-Rulebook Reconciliation; id: spec_legacy_lexicon_reconciliation; status: reconciliation (folds the retired "Physics and Metaphysics Rulebook" project bible); canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision; updated: 2026-06-24; type: foundational_reference; description: Reconciles old physics rulebook terminology and mechanics with current universe canon specifications.; lines: 75; xrefs: 6; canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision
-    - physics-and-magic-interaction.md - id: spec_physics_magic_interaction; status: foundational; canonical: true; updated: 2026-05-31; description: Defines hard rules for how magic interacts with established physical laws and reality.; lines: 152; xrefs: 0; canonical: true
+    - physics-and-magic-interaction.md - id: spec_physics_magic_interaction; status: foundational; canonical: true; updated: 2026-07-14; description: Defines hard rules for how magic interacts with established physical laws and reality.; lines: 182; xrefs: 2; canonical: true
     - spec_astral_glow_and_signatures.md - name: Astral Glow, Thought Signatures, and Working Detection; id: spec_astral_glow_and_signatures; status: canonical; canonical: true; updated: 2026-07-04; type: universe_spec; description: >; lines: 379; xrefs: 7; canonical: true; chars: sophia_lotte, jace_apollo, kael
     - spec_astral_phenomenology.md - name: The Astral — Physical Properties and Perceptual Experience; id: spec_astral_phenomenology; status: canonical; canonical: true; updated: 2026-06-03; type: foundational_phenomenology; description: Technical specification detailing the physical properties and perception of the Astral dimension.; lines: 235; xrefs: 0; canonical: true
     - spec_belt_transport_and_economy.md - name: Frontier Belt Transport System and Economy; id: spec_belt_transport_and_economy; canonical: true; updated: 2026-06-16; type: universe_spec; description: Details the modular transport system and economy of the asteroid belt.; lines: 239; xrefs: 1; canonical: true
-    - spec_cognitive_layer.md - name: The Cognitive Layer — Fourth Dimension Specification; id: spec_cognitive_layer; status: canonical; canonical: true; updated: 2026-06-27; type: universe_spec; description: >; lines: 311; xrefs: 7; canonical: true; chars: kael
-    - spec_crossing_mechanics.md - name: Dimensional Crossing — Costs, Accidents, and the AI Discovery; id: spec_crossing_mechanics; status: canonical; canonical: true; updated: 2026-05-31; type: foundational_mechanics; description: Details the mechanical costs and limitations of traversing dimensions in the Never-Never.; lines: 394; xrefs: 0; canonical: true
-    - spec_dimensional_travel_mechanics.md - name: Dimensional Travel — Complete Mechanics Reference; id: spec_dimensional_travel_mechanics; status: canonical; canonical: true; updated: 2026-06-25; type: foundational_mechanics; description: >; lines: 842; xrefs: 6; canonical: true
-    - spec_dungeon_systems.md - name: Dungeon Systems — Architecture, History, and Modern Behavior; id: spec_dungeon_systems; status: canon; canonical: true; updated: 2026-06-21; type: universe_spec; description: >; lines: 229; xrefs: 0; canonical: true
+    - spec_cognitive_layer.md - name: The Cognitive Layer — Structure, Storage, and Addressing; id: spec_cognitive_layer; status: canonical; canonical: true; updated: 2026-07-14; type: universe_spec; description: >; lines: 315; xrefs: 10; canonical: true; chars: kael
+    - spec_crossing_mechanics.md - name: Dimensional Crossing — Costs, Accidents, and the AI Discovery; id: spec_crossing_mechanics; status: canonical; canonical: true; updated: 2026-07-14; type: foundational_mechanics; description: Details the mechanical costs and limitations of traversing dimensions in the Never-Never.; lines: 422; xrefs: 1; canonical: true
+    - spec_dimensional_travel_mechanics.md - name: Dimensional Travel — Complete Mechanics Reference; id: spec_dimensional_travel_mechanics; status: canonical; canonical: true; updated: 2026-07-14; type: foundational_mechanics; description: >; lines: 870; xrefs: 8; canonical: true
+    - spec_dungeon_anchor_mechanics.md - name: Dungeon Anchor Mechanics; id: spec_dungeon_anchor_mechanics; status: draft; canonical: false; type: universe_spec; description: >; lines: 120; xrefs: 0; canonical: false
+    - spec_dungeon_cognitive_evolution.md - name: Dungeon Cognitive Evolution; id: spec_dungeon_cognitive_evolution; status: draft; canonical: false; type: universe_spec; description: >; lines: 144; xrefs: 0; canonical: false
+    - spec_dungeon_entry_and_interface.md - name: Dungeon Entry, Abduction, and Interface Mechanics; id: spec_dungeon_entry_and_interface; status: draft; canonical: false; type: universe_spec; description: >; lines: 108; xrefs: 0; canonical: false
+    - spec_dungeon_systems.md - name: Dungeon Systems - Architecture, History, and Modern Behavior; id: spec_dungeon_systems; status: draft; canonical: false; type: universe_spec; description: >; lines: 260; xrefs: 0; canonical: false
     - spec_magic_items_and_artifacts.md - name: Magic Items and Artifacts — System Specification; id: spec_magic_items_and_artifacts; status: canonical; canonical: true; updated: 2026-06-30; type: universe_spec; description: >; lines: 307; xrefs: 7; canonical: true; chars: kael
-    - spec_scar_clearing_mechanics.md - name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol; id: spec_scar_clearing_mechanics; status: canonical; canonical: true; updated: 2026-06-21; type: foundational_cosmology_detail; description: Details the dimensional instability, clearing mechanics, and membrane model of The Scar.; lines: 287; xrefs: 0; canonical: true
+    - spec_scar_clearing_mechanics.md - name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol; id: spec_scar_clearing_mechanics; status: canonical; canonical: true; updated: 2026-07-14; type: foundational_cosmology_detail; description: Details the dimensional instability, clearing mechanics, and membrane model of The Scar.; lines: 318; xrefs: 2; canonical: true
     - spec_threat_escalation.md - name: Astral Threat Escalation — The Leveling Arc; id: spec_threat_escalation; status: working draft; canonical: true; updated: 2026-06-03; type: narrative_mechanics; description: Describes the escalating threat level in the Astral dimension based on human magical capability.; lines: 168; xrefs: 0; canonical: true
     - spec_will_bonded_animals.md - name: Will-Bonded Animals — Universal Law and Mechanics; id: spec_will_bonded_animals; status: canon; canonical: true; updated: 2026-06-21; type: universe_spec; description: >; lines: 135; xrefs: 0; canonical: true
 - VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md - updated: 2026-06-28; lines: 428; xrefs: 0; canonical: false
@@ -270,6 +287,14 @@ These files were marked as draft or have non-canonical status and should not be 
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
 - `CLAUDE_PROJECT_INSTRUCTIONS`
+- `MERGE_INSTRUCTIONS`
+- `PATCH_magic_overview`
+- `PATCH_magic_will_and_templates`
+- `PATCH_physics-and-magic-interaction`
+- `PATCH_spec_cognitive_layer_RENAME`
+- `PATCH_spec_crossing_mechanics`
+- `PATCH_spec_dimensional_travel_mechanics`
+- `PATCH_spec_scar_clearing_mechanics`
 - `arc_01_thread_N_nick_ai`
 - `arc_01_thread_T_transit`
 - `arc_01_thread_X_astral`
@@ -303,7 +328,9 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `normalize_cross_references_2026-07-04`
 - `normalize_cross_references_2026-07-05`
 - `normalize_cross_references_2026-07-12`
+- `normalize_cross_references_2026-07-14`
 - `priority_fix_list`
+- `review_queue`
 - `scene_notes_ai_interactions`
 - `ship_livestock_ferry_class`
 - `system_character_sheets_skill_format`

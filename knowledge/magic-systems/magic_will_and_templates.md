@@ -5,10 +5,12 @@ name: Will and Templates — Core Metaphysical Mechanics
 type: foundational_magic_mechanics
 status: foundational
 canonical: true
-last_updated: 2026-05-31
+last_updated: 2026-07-14
 parent_system: magic_never_never
 cross_references:
   - "[[magic_will_implications]]"
+  - "[[spec_dungeon_anchor_mechanics]]"
+  - "[[spec_dungeon_cognitive_evolution]]"
 ---
 
 # Will and Templates
@@ -95,6 +97,32 @@ An Echo is not a person. It is a partial record: memories, skills, languages, ma
 Explorers in the Never-Never can encounter and sometimes absorb Echoes — a process that grants the knowledge or capability the Echo contains, but which may also alter the absorber's own Template. The more powerful the Echo, the more significant the alteration. Absorbing an Echo is not without risk. Absorbing multiple Echoes is profoundly dangerous.
 
 This is the mechanism behind many magical traditions, relics, and legendary figures on Earth: distorted memories of genuine pre-Scar capabilities, preserved in oral tradition or in partial Echoes that sensitive individuals encountered without understanding what they were touching.
+
+---
+
+## Location, Institution, Family, and Composite Authority Templates
+
+Beyond personal and object Templates, larger and longer-lived Template structures
+exist that this file should account for, since they underpin dungeon anchor
+mechanics ([[spec_dungeon_anchor_mechanics]]):
+
+- **Location Templates** — a place's own persistent pattern (a city district, a
+  mountain, a road junction), which is what a **territorial anchor** actually binds
+  to. Locations can hold identity across physical change (a river shifting course, a
+  city rebuilt) the way a personal Template holds identity across injury.
+- **Institutional/Family (Authority) Templates** — a persistent pattern of legitimate
+  authority attached to a bloodline, House, office, or institution rather than any
+  single body. This is what a **dynastic** or **institutional anchor** recognizes,
+  and why succession disputes are real metaphysical questions, not just legal ones —
+  the Template itself must judge who currently qualifies.
+- **Composite Templates** — a synthesized authority pattern a Cognitive Program may
+  construct when the original authority Template is gone (no living heir, no
+  surviving institution) — assembled from stored rulers, prior administrators, and
+  operating history. See [[spec_dungeon_cognitive_evolution]], "Composite Authority."
+- **Multi-anchor projection** — a single Cognitive Program may hold and reference
+  more than one authority Template simultaneously (e.g., recognizing both a dynastic
+  claimant and an institutional successor), which is a common source of internal
+  dungeon contradiction when the two don't agree.
 
 ---
 
@@ -213,3 +241,4 @@ The most significant gap regarding **Will** is **Will Seeding**. Human practitio
 ## Revision Notes
 
 - 2026-05-31: New file. Extracted and formalized Will, Templates, Will Seeding, Echoes, Template Vaults, and galactic stagnation from Story Background into structured knowledge-base format.
+- 2026-07-14: Added location, institutional/family, composite, and multi-anchor Template categories.

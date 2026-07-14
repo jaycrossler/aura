@@ -4,8 +4,11 @@ id: spec_physics_magic_interaction
 title: Physics and Magic Interaction — Hard Rules
 status: foundational
 canonical: true
-last_updated: 2026-05-31
+last_updated: 2026-07-14
 supersedes: physics-and-magic-interaction_2026-04-28
+cross_references:
+  - "[[spec_dungeon_systems]]"
+  - "[[spec_dungeon_cognitive_evolution]]"
 ---
 
 # Physics and Magic Interaction
@@ -46,6 +49,32 @@ Every practitioner has a Template — a higher-dimensional pattern of their iden
 
 **7. Magic interacts with consciousness.**
 Animals sense flux changes before humans do — they appear to perceive Never-Never effects at a biological level. AI systems in sufficient flux develop unusual behaviors that may constitute a form of magical sensitivity. The nature of AI Templates, if they exist, is an open question.
+
+---
+
+## Will Supplies Work; Cognitive Templates Specify Organization
+
+A recurring point of confusion worth stating as an explicit hard rule: **Will is
+energy; a Template (or Cognitive Program) is structure.** Neither substitutes for the
+other.
+
+- Will supplies the *work* — the energy cost of manifesting, maintaining, or
+  transforming matter and geometry. Without sufficient Will, a pattern produces
+  nothing, no matter how detailed or ancient.
+- A Template (personal, object, or the larger Cognitive Programs that run dungeons —
+  see [[spec_dungeon_systems]]) supplies the *organization* — what gets built, in what
+  shape, under what rules. Without a valid pattern, Will applied has no coherent
+  target and simply dissipates or produces chaotic, unstable results.
+- Neither more Will nor a more detailed Template alone solves a problem that requires
+  both. A dungeon with enormous accumulated Will but a corrupted or contradictory
+  Purpose Kernel does not become *more* capable of fulfilling its original mission —
+  it becomes more capable of enacting its *drifted, possibly pathological*
+  interpretation of that mission at greater scale and consequence.
+
+This is the underlying physical logic behind why "more Will does not resolve
+contradictions" ([[spec_dungeon_cognitive_evolution]], "Contradiction Amplification")
+— it isn't a dungeon-specific quirk, it's this general Will/Template relationship
+playing out at institutional scale.
 
 ---
 
@@ -150,3 +179,4 @@ No tradition has the full picture. The central thematic argument of the series i
 ## Revision Notes
 
 - 2026-05-31: Major revision. Integrated Will, Templates, and Never-Never as explanatory framework beneath the existing five-category model. Retained all existing category definitions. Added Template-stress mechanism for practitioner limits. Added Template-bleed as a new spaceflight risk. Reconciled resonance flux with Never-Never connectivity. Added cultural tradition analysis.
+- 2026-07-14: Added the Will/Template work-vs-organization clarification.
