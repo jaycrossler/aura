@@ -5,7 +5,7 @@ name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helen
 type: timeline
 status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md
 canonical: working
-last_updated: 2026-06-17
+last_updated: 2026-07-14
 note: >
   Focused event placements for the four plot threads added 2026-06-17. Kept as a
   separate sub-timeline so it can be reviewed before being merged into the master
@@ -25,7 +25,7 @@ All anchored to the ~4-month Mars→Fortuna *Falcon* transit. Exact chapter numb
 
 - A primary ring water pipe is torn open (true cause: a transient breach-crosser — see [[magic_breach_crossers_transient]]; logged as a micrometeorite). Tons of water vent and freeze as ice over one arc of the ring, encasing two animal berths. (Plots 1 + 2)
 - Spin imbalance → a worsening once-per-rotation thump (~23 s at full spin, **lengthening** as Maureen de-spins). Strut grinding. (Plot 2)
-- Maureen prepares to seal and jettison the iced section (killing the trapped animals). Jace counter-ballasts with water + propellant into opposite canisters, halting the wobble; drones cut the external ice (Thing One + Thing Two, Sparky coordinating). (Plot 2)
+- Maureen prepares to seal and jettison the iced section (killing the trapped animals). Jace counter-ballasts with water + propellant into opposite canisters, halting the wobble; drones cut the external ice (Thing One + Thing Two, prototype board coordinating). (Plot 2)
 - **First documented physical breach-crosser contact in human space** — undocumented as such. Jace's glimpse + the unexplained interior ice + torn pipe + dead sensor cluster. (Plot 1)
 
 ## Mid-transit — Aftermath

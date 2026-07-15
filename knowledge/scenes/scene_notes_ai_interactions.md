@@ -4,7 +4,7 @@ id: scene_notes_ai_interactions
 type: scene_notes
 status: pre-draft
 arc: arc_01_falcon_and_fortuna
-last_updated: 2026-06-18
+last_updated: 2026-07-14
 ---
 
 # Scene Notes — AI Interaction Beats
@@ -57,6 +57,8 @@ He stares at the ceiling. The skull cap is faintly warm from the processing load
 ## Beat 2: Nick's {Aura} Pitch
 
 **Where it lives:** Transit vignettes aboard the Falcon, or early Fortuna days. Nick and Jace have been gaming for weeks, and Nick loves to talk about the {Aura} system he has built - it's his main hobby. This is the first time Nick raises {Aura} seriously as something Jace should have.
+
+**Context:** they have already been collaborating on Jace's drone project — a bot built to run a full local {Aura} instance. Nick's push here is the escalation: not just {Aura} on your drone, {Aura} in your **HUD**. Jace resists (the scene as drafted). The drone he'll accept; his head is the last unmonitored territory.
 
 **Critical context:** Jace does NOT have a pre-installed {Aura}. He has a military HUD reformatted as civilian OS — think bare Linux. The civilian partition runs apps he has installed himself: messaging, drone ops software, games, task management. There is no AI layer. There is no voice in his head that he didn't put there. This is unusual — most people's commercial HUDs or watch/phone/earring rigs come with {Aura} or a competitor pre-installed. Jace actively chose not to install one - he doesn't want someone talking into his brain and constantly bugging him. The reasons are the scene.
 

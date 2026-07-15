@@ -5,7 +5,7 @@ type: visual_profile
 subject_id: jace_apollo
 status: good
 completeness: 92
-last_updated: 2026-06-30
+last_updated: 2026-07-14
 description: >
   Canonical visual, voice, and production reference for Jace Apollo Grant.
   All major physical anchors, behavior patterns, stress tells, and Astral
@@ -137,7 +137,7 @@ Falcon and later his financial situation at Fortuna.
 ### Falcon Transit (early Arc 1)
 - USAF-surplus civilian workwear (he isn't yet Origin staff)
 - Same practical approach; same Cerberus kit
-- Sparky in early build — the core sphere ("the Ball") is the functional unit
+- Sparky in early build — a workbench graveyard of prototype parts (no operational drone during transit)
 
 ### Astral Crossing — Leather Suit
 - Custom 3D-printed leather outfit; starts as hiking gear for warmth

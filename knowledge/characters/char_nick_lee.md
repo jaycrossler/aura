@@ -123,8 +123,13 @@ archetypes: [the wizard in the back room, the gatekeeper of the underground, the
 character_arc: gray-market {Aura} provider → recognized infrastructure backbone → de facto
   authority on {Aura}/Will interaction → open-source movement architect → reluctant leader
 themes_embodied: [the open-source ethic, knowledge as commons, infrastructure as power]
+beliefs: >
+  The 10× vision (early canon): During transit conversations, Nick articulates his dream:
+  Fortuna ten times its current size, thousands of robots to maintain, and {Aura} as the
+  commons underneath it all — so the infrastructure isn't corporate-owned. Subversive,
+  dreamy, sincere. This is the seed of the Arc 1 open-source decision.
 
-last_updated: 2026-06-30
+last_updated: 2026-07-14
 sheets:
   - sheet_nick_arc01_end
 cross_references:
@@ -152,8 +157,18 @@ with his family to Mars, then emigrated to the belt after a falling-out with a
 corporate employer — likely an IP dispute, an ethical objection, or both. He has
 been at Fortuna long enough to be known by everyone and trusted by the people who matter.
 
+He met Jace Apollo Grant through Fortuna's online gaming boards after Jace signed his Origin contract and left Mars. Their drone prototyping collaboration grew out of Jace's questions about running local AI on drone hardware without Origin's proprietary stack.
+
 His monitor background cycles through photographs of the San Francisco Bay Bridge that
 his father took before the coastal flooding. He occasionally mentions this without prompting.
+
+## The Drone-Testbed Collaboration
+
+Nick has put {Aura} on plenty of bots — that's routine on a station full of them. What excites him about Jace's drone project:
+- **Experimental branches against milspec HUD hardware**: Jace's military HUD allows testing automatic processing offload from the user's HUD to the drone, a federated HUD-drone pairing that nobody has had the hardware to try.
+- **Origin protocol mirror**: An experimental branch mirroring Origin's drone-control protocols that might talk directly to a dispatcher's actual work environment.
+
+---
 
 ## What {Aura} Actually Is
 
@@ -210,3 +225,4 @@ the subject.
   performance, drops with trusted people). Bay Bridge monitor background (father's photos,
   pre-flooding). 90-second crossing aftermath (noodle vomit, "not like in the games", 4D
   wrongness). Belt-adapted movement (20 years in low gravity).
+- 2026-07-14: Reworked transit companions: updated Jace friendship origin, added 10× vision belief, added drone-testbed HUD pairing note.

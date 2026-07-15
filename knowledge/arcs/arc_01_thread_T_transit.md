@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-07-14
 description: >
   Scene contracts for Thread T — the Falcon's Mars-to-Fortuna transit. Migrated out
   of arc_01_falcon_and_fortuna.md during the thread-split restructure. Naming
@@ -151,7 +151,7 @@ months.
 2. "Learning Mode" becomes Jace's Fortuna reputation before he arrives
 3. Jace recovers with a line, not a sulk — character voice locked in
 4. Introduce Thing One and Thing Two as comedic, but not-fully-trusted drones
-5. Mention more about Sparky
+5. Mention the Sparky drone project (ongoing workbench tinkering prototypes; name origin)
 6. Show that having Thing One and Thing Two always controlled by Origin and
    surveilling everything is a bit problematic — local control and autonomy is a
    better path
@@ -184,7 +184,7 @@ Falcon. As a joke, he 3D-prints a large pig's butt and sticks it on the canister
 1. Comedy with genuine engineering logic — the canister system exists; he used it
 2. Introduces more details of how the canisters work
 3. Reiterates that Métis station is a few weeks' travel from Fortuna, and they make ships
-4. He uses Sparky to mount it (not an approved Origin activity), establishes more about Sparky
+4. He uses a jury-rigged prototype module (not an approved Origin activity), establishes more about his ongoing tinkering project
 5. He talks about using special plastic — the cheap stuff would outgas too much in
    space and degrade quickly; picking the right material matters
 

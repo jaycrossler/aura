@@ -1,6 +1,17 @@
----
-last_updated: 2026-07-14
----|
+# Cross-Reference Normalization Report — 2026-07-14
+
+Mode: APPLIED
+
+Files scanned: 213
+Files normalized: 93
+Files with broken references: 3
+
+## Files Changed
+
+### `arcs\arc_01_falcon_and_fortuna.md`
+
+| Before | After |
+|---|---|
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |

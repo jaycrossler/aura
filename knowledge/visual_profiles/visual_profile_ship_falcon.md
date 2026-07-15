@@ -5,7 +5,7 @@ type: visual_profile
 subject_id: ship_falcon
 status: good
 completeness: 90
-last_updated: 2026-06-30
+last_updated: 2026-07-14
 description: >
   Canonical visual and sensory reference for the Falcon. Interior corridor,
   key spaces, token economy, smell geography, and exterior fully confirmed.
@@ -197,10 +197,7 @@ cover home. It is lived-in with intention.
 
 **Jace's half (right side):** Spartan. A bed. A lamp. A few screens mounted to the
 wall showing drone telemetry and task lists. A closet of practical clothes. A
-breathing device on the bedside surface. A dog bed for Cerberus in the corner —
-which Cerberus has never once used, because he always climbs onto Jace's bed.
-At night, Sparky rolls in and parks at the foot of the bed. Jace sleeps between the
-dog and the drone.
+breathing device on the bedside surface. A dog bed for Cerberus in the corner — which Cerberus has never once used, because she always climbs onto Jace's bed. Jace sleeps with the dog pressed against him.
 
 The partition between their halves is thin enough to hear television through. Mei
 watches something most evenings. Jace does not know what it is. He has not asked.
@@ -250,9 +247,7 @@ argues is fine because at least he's getting value — Saul never used the shop 
 - **Good lighting** — the one room on the ship where the lighting was chosen for
   precision work
 
-**Jace's corner:** Sparky's components in various states of assembly. Print queue
-running. Nick's spec documents printed on paper and annotated in two ink colors.
-Two coffee cups with identical stain rings. Cerberus under the bench, asleep.
+**Jace's corner:** a graveyard of half-finished prototypes — abandoned gripper arm, two dead chassis, a rebuilt-four-times sensor cluster, one scorched hover-jet frame ("Sparky") kept as a trophy, printed controller on a hook. Nick's spec documents printed on paper and annotated in two ink colors. Two coffee cups with identical stain rings. Cerberus under the bench, asleep.
 
 **Air quality:** The air cyclers work, but Jace isn't sure whether the persistent
 smell is machine oil or whether Cerberus had an accident somewhere he hasn't found.
@@ -346,9 +341,7 @@ EQUIPMENT: Large industrial 3D printer (one end), manual machine tools on walls,
 long workbenches running both sides covered in in-progress parts, parts bins in
 labeled racks, overhead lifting track.
 
-JACE'S CORNER: One bench section with Sparky's components in assembly stages, a
-print queue running, spec documents on paper annotated in two pen colors, two
-coffee cups with identical stain rings. Under the bench: a compact brindle dog asleep.
+JACE'S CORNER: One bench section with half-finished prototypes, an abandoned gripper arm, a scorched hover-jet frame ("Sparky") kept as a trophy, printed controller on a hook, spec documents on paper, two coffee cups. Under the bench: a compact brindle dog asleep.
 
 LIGHTING: Deliberately good — brighter and more even than the corridor; precision work.
 

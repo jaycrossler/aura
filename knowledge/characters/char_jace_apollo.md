@@ -44,7 +44,7 @@ distinguishing_features: First-generation cybernetic HUD implant (visible scar a
 archetypes: [reluctant frontiersman, fish out of water, naive idealist, eventual mage, the pretty nerd]
 character_arc: identity-loss-and-rebuilding; rationalist confronts mystery; needs-to-be-needed boy learns who he actually is
 themes_embodied: [stripped identity, frontier reinvention, the rigid mind learning to bend, attractiveness as a thing he doesn't wield]
-last_updated: 2026-06-17
+last_updated: 2026-07-14
 sheets:
   - sheet_jace_arc01_start
   - sheet_jace_arc01_end
@@ -91,18 +91,12 @@ Jace operates **two distinct drone categories** that should not be conflated:
 - This is not immediate suspicion. It develops gradually — an inconsistency in a log, something Maureen says, a pattern he notices. Do not telegraph it early.
 - Both drones are managed manually through Jace's HUD (Maureen has not integrated them with the Falcon's majordomo — her ship, her rules).
 
-### Personal Survey and Construction Drone (In Construction)
-- **Sparky** — Custom mineral survey drone. Designed to Nick Lee's specs: deep scan array, thermal tolerance for vacuum cycling, modular payload bay. Under construction in the Falcon machine shop throughout the transit.
-- Status at story start: partial frame, sensor mounts mismatched, motor housing reprinted multiple times. One circuit board has caught fire.
-- This is Jace's passion project — drones are expensive; having access to an industrial 3D printer for four months is a rare opportunity he has wanted since grad school.
-- Story importance: Sparky is the drone Jace will eventually bring into the Astral. Its construction arc across the transit chapters should be shown in gradual progress, false starts, and small wins.
+### Workshop Tinkering (Falcon transit)
+Jace's free time on the Falcon is spent on an ongoing prototyping practice — multiple half-finished projects, ideas tried and abandoned, fun failures logged with engineering discipline. Nothing becomes operational during transit. His running frustration is the **lockdown** of Origin's drones: proprietary firmware, permission walls, no modification rights — they feel impersonal and corporate next to his old military units. (He does NOT know about the telemetry — sealed slow-burn; do not telegraph.)
 
-### Why Sparky Matters
-- Sparky is the only drone that will belong entirely to Jace.
-- It reports to no one. Its camera sees what he sees and no one else. Its logs are his logs.
-- He doesn't know yet that this will matter. He just wants a good survey drone.
-- Built with Nick Lee's specs, fabricated on Maureen's printer, paid for in maintenance work.
-- When the Origin surveillance thread surfaces, Sparky's existence will read differently in retrospect.
+The centerpiece project is a drone of his own conceived with Nick Lee: a survey/scout platform running a **full local {Aura} instance** instead of a corporate stack. Nick's interest: experimental {Aura} code branches — one tuned for milspec hardware with automatic processing offload from Jace's HUD; one mirroring Origin's drone-control protocols that might interoperate with Jace's dispatcher desk. Jace's interest: a drone that answers to him.
+
+"Sparky" is the project's name, christened after a hover-jet prototype short-circuited and nearly caught fire on the bench (Ch01 workshop scene). The name attaches to the eventual drone, which is **completed on Fortuna with Nick in person** and later manufactured/finalized when Jace needs Astral scouting capability.
 
 
 
@@ -115,6 +109,12 @@ Jace operates **two distinct drone categories** that should not be conflated:
 Added to morning routine canon: Jace wears a standard low-gravity sleep rebreather (sealed CO2-scrubbing mask). He removes it first thing on waking. The scrubber indicator recharges amber → green. The mask cycled his CO2 four times the first full night described in Chapter 1.
 
 This is standard low-gravity equipment that everyone on Mars or the Belt is used to — unremarkable — but will be critically important in a later scene.
+
+---
+
+## HUD Input Model (transit era)
+
+One year post-install. Text messaging, teed-up commands, coarse cursor control — a remote-desktop feel. No fine-grained real-time control. Suits strategy/async games; useless for action games until he prints a physical controller late in transit (Ch01).
 
 ---
 
@@ -137,9 +137,7 @@ Four humans aboard: Maureen, Mei, Jace, Lanchee. Saul is on Mars recovering from
 
 ## Nick Lee (Pre-Arrival Relationship)
 
-Jace and Nick Lee have an established online friendship **before** Jace arrives at Fortuna. They play multiplayer games together across a 3-second comms lag. Nick has been advising Jace on Sparky's design for weeks.
-
-This should be reflected in the main character file and in Nick Lee's file — they are not strangers at first meeting; they are friends who have never been in the same room.
+When Jace signed the Origin contract and left Mars, he looked up Fortuna's community boards and joined the station's gaming community. He met Nick Lee there; the drone-with-local-{Aura} project grew out of Jace asking about running AI on drone hardware without Origin's stack. The games and the build advanced together across the shrinking comms lag.
 
 ---
 
@@ -423,3 +421,4 @@ Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactiva
 - 2026-04-30: Major update — disease, appearance, personality, HUD, Cerberus naming and negotiation.
 - 2026-06-17: Mei retcon — Jace no longer knows she is a U.S. asset at departure (Intel Deal rewritten as general, un-named cooperation; finds out later). Added the plumbing-crisis save + the private "thing in the wall" incursion thread, the sewage-comedy reputation, and arrival into a rattled Fortuna (China withdrawal, sabotage misread, Helena's disappearance, Suzi's trust). Crystal-tunnel resident count 150->~350.
 - 2026-06-03: Added complete Fortuna and Astral arc: Nick Lee gaming friendship and {Aura} install; crystal tunnel pre-crossing dreams; first crossing sequence (Cerberus mask-pull, shared breathing, second mask pull); hours of solo exploration before finding Sophia; meeting in mess hall (no insects — Cerberus barks, Sophia startled); partnership with Sophia; temperature probe discovery; open-space exploration; drone prospecting solution; open-source decision with Nick. Updated allies to include char_nick_lee and char_sophia_lotte.
+- 2026-07-14: Reworked transit companions: Sparky project becomes workshop prototyping, gaming friendship origin reworded, HUD input model added.

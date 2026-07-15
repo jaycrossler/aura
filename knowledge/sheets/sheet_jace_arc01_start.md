@@ -10,7 +10,7 @@ arc: arc_01
 sheet_sequence: 1
 immutable: true
 is_vault_snapshot: false
-last_updated: 2026-06-27
+last_updated: 2026-07-14
 description: "Jace at Falcon departure — discharged, indebted, no Astral skills yet; baseline sheet."
 cross_references:
   - "[[char_jace_apollo]]"
@@ -72,7 +72,7 @@ know this. He is heading to the belt because there is nowhere else to go.
 | Bond | Partner | Strength | Notes |
 |---|---|---|---|
 | Familiar (unrecognized) | Cerberus | **Forming** | Deep emotional bond; Will-resonant but neither understands this yet; Cerberus will cross before Jace does |
-| Equipment bond | Sparky (in construction) | **Nascent** | Passion project; not yet operational; will become a genuine Astral-capable instrument |
+| Equipment bond | — | None yet | Workbench tinkering prototypes only; no operational drone; the Sparky project is a pile of parts and a name |
 
 ---
 
@@ -96,7 +96,7 @@ know this. He is heading to the belt because there is nowhere else to go.
   - Military-grade HUD implant (gold/platinum components; chronic low-grade headache
     since installation; cause not yet understood)
   - Three Fortuna-registered survey drones (awaiting arrival)
-  - Sparky — partially built custom survey drone
+  - Sparky — custom drone project (workbench tinkering prototypes; not yet operational)
   - Standard Origin contractor kit (suit, tools, basic electronics)
 - **{Alex} Platinum Contractor status** — currently held; will be revoked post-plumbing
   crisis; two-year human review queue

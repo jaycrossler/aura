@@ -4,7 +4,7 @@ id: timeline_master
 name: Master Timeline
 type: chronology
 status: working draft
-last_updated: 2026-06-03
+last_updated: 2026-07-14
 canonical: true
 ---
 
@@ -118,6 +118,7 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 - **`event_jace_arrives_fortuna`** (late 2105): Jace arrives at Fortuna Station with Cerberus. Meets Nick Lee in person for the first time — the gaming friendship translates to physical reality, awkwardly and well.
 - **`event_nick_installs_aura`** (~late 2105): Nick Lee installs a full {Aura} instance on Jace's military-grade HUD — the best hardware he has ever had access to. Treats the install as a research project. The resulting {Aura} instance is among the most capable on the station.
+- **`event_sparky_completed_fortuna`** (~late 2105): Jace and Nick complete final assembly of Sparky in person on Fortuna — the drone project they designed across the transit, running a full local {Aura} instance (experimental branches: milspec offload pairing; Origin-protocol mirror). First operational flight. Pairs with their first in-person meeting material.
 - **`event_jace_first_full_crossing`** (~late 2105): Jace crosses fully in his sleep. Cerberus, sleeping pressed against him, crosses with him. **Cerberus wakes first** and performs an instinctive tear-pull of Jace's sleep mask at near-fatal Will cost. Jace wakes gasping to find Cerberus holding his mask. They share the mask — alternating — until Jace recovers enough to pull a second mask through himself, his first deliberate dimensional act. Both survive. {Aura} logs a **network gap** while biometric mask data continues uninterrupted — the first forensic record of a crossing event in the series. Gap logged; not yet reviewed.
 - **`event_cerberus_as_warning_system`** (~late 2105): Cerberus begins waking Jace preemptively when crossing conditions are high. He thinks she needs the bathroom. She is keeping him alive.
 

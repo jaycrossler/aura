@@ -11,7 +11,7 @@ timeline_anchor: "~Month 3 of transit, mid Mars→Fortuna"
 characters: [char_jace_apollo, char_maureen, char_cerberus, char_mei, char_lanchee]
 location: ship_falcon
 status: rewrite_draft (beats + illustrative dialogue)
-last_updated: 2026-06-17
+last_updated: 2026-07-14
 cross_references:
   - "[[ship_falcon]]"
   - "[[magic_breach_crossers_transient]]"
@@ -34,8 +34,7 @@ and **cut the iced section away** — which would kill the trapped animals. Jace
 for a different fix and gets a grudging window to try it. He counter-ballasts the ring
 by pumping water and reserve propellant into the canisters on the opposite arc,
 balancing the mass and stopping the wobble. With the ring stable, the external ice is
-cut away by the drones — Thing One and Thing Two doing the cutting, **Sparky's sensor
-core pressed into early service as the coordination node**.
+cut away by the drones — Thing One and Thing Two doing the cutting, **one of Jace's workbench prototype boards — a jury-rigged sensor/comms module from his tinkering tray — pressed into service as the coordination node.**
 
 It works. The animals live. And it costs: the maneuver was untested and it
 **cross-contaminated the ship's water reserve with propellant**, eating into the thin
@@ -55,7 +54,7 @@ incursion** (see Function, below, and [[magic_breach_crossers_transient]]).
   reserve, thinner safety margin for the rest of transit). Advancement breeds danger.
 - **Maureen relationship**: her fury is *justified*, not arbitrary grumpiness — he
   gambled the ship's margin to save livestock. This deepens both characters.
-- **Resource progression / drone introduction**: Sparky's first real use; Thing One
+- **Resource progression / prototype payoff**: the tinkering thread earns its keep; Thing One
   and Thing Two shown doing serious work (and quietly logging it all back to Origin).
 - **Seeds Plot 1**: the incursion (frost, torn pipe, dead sensors, the glimpsed bug)
   is planted here, unexplained, and pays off across the series.
@@ -114,11 +113,7 @@ the radiation-shield water to save the animals. (See ship_falcon fluid system.)
 
 ### Beat 5 — Cutting the Ice (Drone Set-Piece)
 With the ring stable, the frozen mass still has to come off the hull. EVA is out;
-drones do it. **Thing One and Thing Two** cut and chip the external ice; **Sparky** —
-not yet a finished build, but its sensor/scan core ("the Ball") works — is pressed in
-as the **coordination node**, mapping the ice and sequencing the two cutters so they
-don't destabilize the ring again. First time the three drones operate as a team. First
-time Sparky does something only Sparky can do.
+drones do it. **Thing One and Thing Two** cut and chip the external ice; **one of Jace's workbench prototype boards** is pressed in as the **coordination node**, mapping the ice and sequencing the two cutters so they don't destabilize the ring again. First time the two drones operate under a custom external coordinator. First time one of Jace's "never quite working" projects pays off under pressure.
 
 ### Beat 6 — The Incursion (Plant — keep ambiguous)
 At the height of it, cutting into a ceiling panel to reach the torn pipe, Jace finds:
@@ -177,6 +172,6 @@ all) and says nothing. Leave it to breathe. (See [[char_saul]], [[char_maureen]]
 ## Revision Notes
 - 2026-06-17: Rewrite. Added ice-on-the-ring wobble, corrected thump cadence to the
   ~23 s rotation period (lengthening on de-spin), the cut-vs-balance decision, the
-  water+propellant counter-ballast and its contamination cost, the three-drone ice cut
-  with Sparky coordinating, the breach-crosser incursion plant, the Maureen dressing-
+  water+propellant counter-ballast and its contamination cost, the drone ice cut
+  with the prototype board coordinating, the breach-crosser incursion plant, the Maureen dressing-
   down, and Saul's quiet thank-you.
