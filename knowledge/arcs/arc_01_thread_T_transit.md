@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 description: >
   Scene contracts for Thread T — the Falcon's Mars-to-Fortuna transit. Migrated out
   of arc_01_falcon_and_fortuna.md during the thread-split restructure. Naming
@@ -63,7 +63,6 @@ anti-radiation and anti-nausea medicine.
 4. Show that he's having weird dreams — hint that the HUD is causing this
 5. Reiterate that Jace uses his breathing gear at night for safety reasons, takes
    radiation pills each morning
-6. Jace hears from Nick that a girl was murdered on Fortuna Station and everyone is in mourning (foreshadowing)
 
 **Must NOT do:**
 - Explain the headaches — all readings remain available to the reader

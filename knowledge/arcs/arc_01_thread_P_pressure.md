@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-07-15
 description: >
   Scene contracts for Thread P — station politics, Helena, Jin, Suzi. Migrated
   out of arc_01_falcon_and_fortuna.md during the thread-split restructure.
@@ -24,7 +24,7 @@ cross_references:
 
 #### P-01a — The Bar, Suzi (Friendship Beat)
 
-**Summary:** Suzi finds Jace at the Long Burn Bar. She is good company — the kind
+**Summary:** Suzi finds Jace at the Long Burn Bar after their initial meeting during his first week. She is good company — the kind
 of person who asks questions because she finds people interesting, not because
 she is working. Cerberus approves immediately. They stay too long. Jace walks back
 to the inn feeling, for the first time since Mars, like someone on the station

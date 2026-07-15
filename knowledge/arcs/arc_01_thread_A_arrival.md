@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-07-15
 description: >
   Scene contracts for Thread A — arrival and onboarding at Fortuna Station.
   Migrated out of arc_01_falcon_and_fortuna.md during the thread-split restructure.
@@ -66,7 +66,7 @@ pig Nick made for Cerberus is introduced here; station nicknames "Training Mode"
 
 **NEW — from author notes, not yet in canon (recommend adding):**
 - Cerberus is a novelty on arrival — most people on the station are excited to
-  meet her; many residents have never seen a dog in person before, and reactions
+  meet him; many residents have never seen a dog in person before, and reactions
   split between delight and open wariness
 - Kim is the one clear exception: she does not like dogs, and this is established
   here before it becomes a running friction point in A-03. Her reaction to
@@ -136,7 +136,7 @@ four minutes. He has hours left in his shift.
 
 #### A-04 — The Survey Trip
 
-**Summary:** His third day at the station, Jace takes a 3-day mining exploration
+**Summary:** At the end of his second week at the station, Jace takes a 3-day mining exploration
 tour, excited that if he finds a valuable asteroid, he could get rich. He doesn't.
 He takes 3 survey drones with him. He finds a scratched asteroid — systematic
 gouges, no metal remaining. He files it without a framework.

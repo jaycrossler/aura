@@ -28,7 +28,7 @@ These conventions apply to all prose drafts, scene files, character files, and k
 
 ### AI System Names — Curly Braces
 
-All AI systems are written with curly braces: `{Alex}`, `{SpoX}`, `{Gem}`, `{Chorus}`, `{Penny}`, `{Seek}`, `{Misty}`, `{Aura}`.
+All AI systems are written with curly braces: `{Alex}`, `{SpoX}`, `{Gem}`, `{Chorus}`, `{Penny}`, `{Seek}`, `{Misty}`, `{Aura}`, `{Falcon}`.
 
 This convention:
 - Visually distinguishes AI entities from human characters in prose

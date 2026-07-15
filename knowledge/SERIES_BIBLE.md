@@ -364,7 +364,7 @@ Shorter and more specific than narrative laws. These govern sentence-by-sentence
 decisions in prose drafts.
 
 **In-universe AI names always use curly braces:** `{Alex}`, `{SpoX}`, `{Gem}`,
-`{Chorus}`, `{Penny}`, `{Seek}`, `{Misty}`, `{Aura}`. No exceptions in any prose,
+`{Chorus}`, `{Penny}`, `{Seek}`, `{Misty}`, `{Aura}`, `{Falcon}`. No exceptions in any prose,
 dialogue, or KB document. The brace drop for `{Aura}` → `Aura` is a late-series
 deliberate signal of transformation; it is not yet implemented.
 

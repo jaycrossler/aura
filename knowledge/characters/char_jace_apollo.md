@@ -44,7 +44,7 @@ distinguishing_features: First-generation cybernetic HUD implant (visible scar a
 archetypes: [reluctant frontiersman, fish out of water, naive idealist, eventual mage, the pretty nerd]
 character_arc: identity-loss-and-rebuilding; rationalist confronts mystery; needs-to-be-needed boy learns who he actually is
 themes_embodied: [stripped identity, frontier reinvention, the rigid mind learning to bend, attractiveness as a thing he doesn't wield]
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 sheets:
   - sheet_jace_arc01_start
   - sheet_jace_arc01_end
@@ -89,7 +89,7 @@ Jace operates **two distinct drone categories** that should not be conflated:
 - Jace likes them and works with them easily. They are good drones. He still misses his military units — those felt like extensions of himself, tuned to his habits over years of field use. Thing One and Thing Two feel corporate. Competent but impersonal.
 - **Critical slow-burn detail**: Thing One and Thing Two report everything they observe and do back to Origin Industries. Telemetry, camera feeds, task logs, location data — all of it. Jace does not know this yet. When he figures it out, it will reframe his entire transit.
 - This is not immediate suspicion. It develops gradually — an inconsistency in a log, something Maureen says, a pattern he notices. Do not telegraph it early.
-- Both drones are managed manually through Jace's HUD (Maureen has not integrated them with the Falcon's majordomo — her ship, her rules).
+- Both drones are managed manually through Jace's HUD (Maureen has not integrated them with the Falcon's majordomo AI `{Falcon}` — her ship, her rules).
 
 ### Workshop Tinkering (Falcon transit)
 Jace's free time on the Falcon is spent on an ongoing prototyping practice — multiple half-finished projects, ideas tried and abandoned, fun failures logged with engineering discipline. Nothing becomes operational during transit. His running frustration is the **lockdown** of Origin's drones: proprietary firmware, permission walls, no modification rights — they feel impersonal and corporate next to his old military units. (He does NOT know about the telemetry — sealed slow-burn; do not telegraph.)

@@ -192,9 +192,9 @@ drone_tasks: welding micro-fractures, injecting sealants, reinforcing hull secti
 maintenance_supply_pods: small dedicated 6m³ supply caches for repair materials (distinct from the 13m module/berth system)
 
 # Ship AI / Systems
-majordomo: ship-side AI managing integrated systems
+majordomo: ship-side AI named {Falcon}, managing integrated systems
 known_conflict: >
-  Maureen has not integrated Jace's personal drones with the ship's majordomo —
+  Maureen has not integrated Jace's personal drones with the ship's majordomo {Falcon} —
   citing certification protocols. Jace manages Thing One and Thing Two manually
   through his HUD. Low-grade ongoing friction.
 aura_integration: ship {Aura} instance, federated with crew Auras
@@ -223,7 +223,7 @@ related_technology: [technology/tech_modular_pod_canisters.md]
   system retired in favor of the 36-berth modular system. "Donut" and "Candle" retained
   as crew nicknames only. Pending: Chapters 1-2 still use the old 314-tank language and
   need a terminology pass to match.
-last_updated: 2026-06-16
+last_updated: 2026-07-15
 ---
 
 # Falcon ("Barnyard 1" / "The Merry-Go-Round")

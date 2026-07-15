@@ -5,7 +5,7 @@ name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helen
 type: timeline
 status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md
 canonical: working
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 note: >
   Focused event placements for the four plot threads added 2026-06-17. Kept as a
   separate sub-timeline so it can be reviewed before being merged into the master
@@ -37,7 +37,7 @@ All anchored to the ~4-month Mars→Fortuna *Falcon* transit. Exact chapter numb
 
 - **Problems on Odysseus escalate.** Worker death(s) and deepening anomalies / comms degradation at the farthest station. Chinese leadership reads the outer-system situation as untenable and begins **withdrawing from belt operations**, cutting connections (drawdown of the Tianhe anchor at Psyche; the cancelled settlers in hindsight a first sign). Speculation later links the withdrawal to impending sabotage — wrongly. (Plot 3) See [[location_odysseus_station]], [[location_psyche_station]].
 
-## Final transit week (Fortuna, offscreen to Jace)
+## ~3 weeks before arrival (Fortuna, offscreen to Jace)
 
 - **Helena disappears** overnight from a sealed pod. No breach, no body; {Aura} dark at ~01:00. Station police chief **Suzi** opens an impossible case; all of Helena's partners are cleared by the locked-pod fact. (Plot 4) True cause: accidental Astral sleep-crossing, did not survive. See [[char_helena]], [[char_suzi]], [[spec_crossing_mechanics]].
 

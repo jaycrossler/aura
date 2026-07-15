@@ -52,7 +52,7 @@ arc: >
 # The Majordomo Conflict
 description: "Character profile detailing Captain Maureen, her relationships, and motivations for retirement."
   Maureen has not integrated Jace's personal drones (Thing One, Thing Two) with the
-  Falcon's majordomo system. Official reason: certification protocols. Practical reality:
+  Falcon's majordomo AI `{Falcon}`. Official reason: certification protocols. Practical reality:
   her ship, her systems, her rules. Jace manages his drones manually through his HUD.
   This is low-grade friction throughout the transit.
 
@@ -60,7 +60,7 @@ description: "Character profile detailing Captain Maureen, her relationships, an
 related_characters: [char_saul, char_jace_apollo, char_mei, char_siren]
 related_ships: [ship_falcon]
 related_locations: [location_fortuna_station]
-last_updated: 2026-06-17
+last_updated: 2026-07-15
 cross_references:
   - "[[char_saul]]"
   - "[[char_jace_apollo]]"
