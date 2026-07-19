@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-07-15
+last_updated: 2026-07-19
 ---|
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
@@ -247,6 +247,15 @@ last_updated: 2026-07-15
 | Before | After |
 |---|---|
 | `"[[sheet_sophia_arc01_end]]"` | `[[sheet_sophia_arc01_end]]` |
+
+### `factions\faction_alphacorp.md`
+
+| Before | After |
+|---|---|
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[concept_ai_seams]]"` | `[[concept_ai_seams]]` |
 
 ### `factions\faction_china_belt_operations.md`
 
@@ -663,6 +672,16 @@ last_updated: 2026-07-15
 | `"[[char_carlos]]"` | `[[char_carlos]]` |
 | `"[[char_kim]]"` | `[[char_kim]]` |
 
+### `scenes\event_t_forge_no_more_voices.md`
+
+| Before | After |
+|---|---|
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[tech_falcon_majordomo]]"` | `[[tech_falcon_majordomo]]` |
+| `"[[tech_origin_logistics]]"` | `[[tech_origin_logistics]]` |
+| `"[[faction_alphacorp]]"` | `[[faction_alphacorp]]` |
+
 ### `scenes\event_x00a_astral_awakening.md`
 
 | Before | After |
@@ -817,6 +836,26 @@ last_updated: 2026-07-15
 | `"[[system_character_sheets]]"` | `[[system_character_sheets]]` |
 | `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
 
+### `technology\tech_falcon_majordomo.md`
+
+| Before | After |
+|---|---|
+| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+
+### `technology\tech_origin_logistics.md`
+
+| Before | After |
+|---|---|
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[concept_resource_scarcity]]"` | `[[concept_resource_scarcity]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
+| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
+
 ### `technology\tech_sleep_masks.md`
 
 | Before | After |
@@ -854,150 +893,68 @@ last_updated: 2026-07-15
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `to_merge\scenes\draft_ch00_prologue_helena.md`
+### `to_merge\new_files\concept_ai_seams.md`
 
 | Before | After |
 |---|---|
-| `"[[event_helena_prologue]]"` | `[[event_helena_prologue]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-| `"[[char_suzi]]"` | `[[char_suzi]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-
-### `to_merge\scenes\draft_ch01_departure.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-
-### `to_merge\scenes\draft_ch02_morning_rounds.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch01-morning-round]]"` | `[[book01-ch01-morning-round]]` |
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-
-### `to_merge\scenes\draft_ch03_afternoon_workshop.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch01-afternoon-workshop]]"` | `[[book01-ch01-afternoon-workshop]]` |
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_saul]]"` | `[[char_saul]]` |
-
-### `to_merge\scenes\draft_ch04_plumbing_crisis.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch02-plumbing-crisis]]"` | `[[book01-ch02-plumbing-crisis]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[falcon_animal_manifest_book1]]"` | `[[falcon_animal_manifest_book1]]` |
-| `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-
-### `to_merge\scenes\draft_ch05_morning_after_debrief.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
 | `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[faction_alphacorp]]"` | `[[faction_alphacorp]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_mei]]"` | `[[char_mei]]` |
+| `"[[char_suzi_gonzales]]"` | `[[char_suzi_gonzales]]` |
+
+### `to_merge\new_files\event_t_forge_no_more_voices.md`
+
+| Before | After |
+|---|---|
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[tech_falcon_majordomo]]"` | `[[tech_falcon_majordomo]]` |
+| `"[[tech_origin_logistics]]"` | `[[tech_origin_logistics]]` |
+| `"[[faction_alphacorp]]"` | `[[faction_alphacorp]]` |
+
+### `to_merge\new_files\faction_alphacorp.md`
+
+| Before | After |
+|---|---|
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[concept_ai_seams]]"` | `[[concept_ai_seams]]` |
+
+### `to_merge\new_files\tech_falcon_majordomo.md`
+
+| Before | After |
+|---|---|
+| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+
+### `to_merge\new_files\tech_origin_logistics.md`
+
+| Before | After |
+|---|---|
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_maureen]]"` | `[[char_maureen]]` |
-
-### `to_merge\scenes\draft_ch06_learning_mode.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch02b-learning-mode]]"` | `[[book01-ch02b-learning-mode]]` |
+| `"[[concept_resource_scarcity]]"` | `[[concept_resource_scarcity]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
 | `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
 
-### `to_merge\scenes\draft_ch07_artemis_call_canister.md`
+### `universe-spec\concept_ai_seams.md`
 
 | Before | After |
 |---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
-| `"[[location_metis_station]]"` | `[[location_metis_station]]` |
-| `"[[tech_modular_pod_canisters]]"` | `[[tech_modular_pod_canisters]]` |
-
-### `to_merge\scenes\draft_ch08_arrival_day.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-
-### `to_merge\scenes\draft_ch09_first_week.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_hayes]]"` | `[[char_hayes]]` |
-| `"[[char_mira]]"` | `[[char_mira]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[faction_alphacorp]]"` | `[[faction_alphacorp]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_mei]]"` | `[[char_mei]]` |
 | `"[[char_suzi]]"` | `[[char_suzi]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-
-### `to_merge\scenes\draft_ch10_first_drone_shift.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_kim]]"` | `[[char_kim]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-
-### `to_merge\scenes\draft_ch11_survey_trip.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_torres]]"` | `[[char_torres]]` |
-
-### `to_merge\scenes\draft_ch14_down_to_the_asteroid.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-| `"[[char_kim]]"` | `[[char_kim]]` |
-
-### `to_merge\scenes\event_x00a_astral_awakening.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
-| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
-| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-| `"[[spec_chapter_epigraphs]]"` | `[[spec_chapter_epigraphs]]` |
-
-### `to_merge\scenes\event_x00b_sophia_cafeteria.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-| `"[[spec_chapter_epigraphs]]"` | `[[spec_chapter_epigraphs]]` |
 
 ### `universe-spec\concept_aura_ai_system.md`
 
@@ -1202,4 +1159,4 @@ These stems don't match any filename in the repo. Do NOT guess the intended targ
 - `arcs\arc_01_thread_A_arrival.md` → missing: `char_torres`
 - `arcs\arc_01_thread_S_swarm.md` → missing: `char_torres`
 - `scenes\draft_ch11_survey_trip.md` → missing: `char_torres`
-- `to_merge\scenes\draft_ch11_survey_trip.md` → missing: `char_torres`
+- `to_merge\new_files\concept_ai_seams.md` → missing: `char_suzi_gonzales`

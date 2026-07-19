@@ -52,6 +52,9 @@ secrets.*
 # Knowledge importer staging/temp areas
 knowledge/to_import/
 
+# Staging folder — never commit merge scratch
+to_merge/
+
 # Generic temp directories/files
 tmp/
 temp/

@@ -39,13 +39,16 @@ Jace joins in the running group in his second week. He is immediately the larges
 person running by a significant margin. He doesn't notice the women who flirt
 with him.
 
-**Must accomplish:**
-1. Run established as recurring background beat — Jace present but not the center
-2. The crowd's mood as a station barometer — quieter as the arc escalates
-3. At least one beat of the oblivious-attractive dynamic, played lightly
-
-> ⚠️ See A-02 in `arc_01_thread_A_arrival.md` — likely duplicate content, different
-> Must-Accomplish list. Consolidate before finalizing.
+**Must accomplish (consolidated with A-02):**
+1. Run established as recurring background beat — Jace present but not the center.
+2. The crowd's mood as a station barometer — quieter as the arc escalates.
+3. At least one beat of the oblivious-attractive dynamic, played lightly.
+4. Show the scope of the station, meet a few characters — introduce Mira the scared girl.
+5. Show that the Chinese people and American people don't get along well.
+6. Show that people still mourn for Helena and are suspicious.
+7. Jace sees news footage of problems at Odysseus station and suspected Chinese sabotage.
+8. There are memorial posters of Helena up with a "missing" sign; a small shrine.
+9. Jace is still having weird dreams — sees something in a dream that he now sees in real life for the first time, and it freaks him out.
 
 ---
 

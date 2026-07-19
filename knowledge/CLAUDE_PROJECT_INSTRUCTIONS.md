@@ -197,6 +197,35 @@ When asked to review a scene or chapter against arc contracts:
 - Verify story and arc goals against active story specifications.
 - Always run `build_tree.py` after editing or creating files to keep `_index.md` updated.
 
+## Staged Merge / Import Workflow
+
+Whenever the user places files into the `knowledge/to_merge/` directory to suggest patches or updates, follow this exact procedure to apply them:
+
+1. **Intake and Analysis**:
+   - Read `to_merge/CHANGES.md` and `to_merge/EDITS.md` to understand the full scope of proposed changes, rulings, and open items.
+   - List the target files and verify their exact paths in the repository.
+
+2. **File Processing**:
+   - Move or create any new files listed in `new_files/` to their designated folders (e.g., `scenes/`, `technology/`, `factions/`, `universe-spec/`), preserving YAML frontmatter shape.
+   - Apply the edits specified in `to_merge/EDITS.md` from top to bottom. Use precise replacement anchors to avoid errors.
+
+3. **Git Hygiene**:
+   - Verify that `.gitignore` has the line `to_merge/` to avoid committing temporary merge files.
+
+4. **Old File Cleanup**:
+   - If older draft files are designated as superseded or consolidated, verify they are safe to delete, and remove them from the repository.
+
+5. **Index and Link Verification**:
+   - In the `knowledge/` directory, run `python normalize_cross_references.py` to fix cross-references.
+   - Run `python build_tree.py` to regenerate the `_index.md` catalog, update updated dates, and check for orphaned files or metadata warnings.
+
+6. **Priority Fix List and Review Queue**:
+   - Update `knowledge/priority_fix_list.md` by moving resolved issues to the "Resolved Issues" section and adding new open questions or tasks to the appropriate priorities.
+   - Create any new log files under `knowledge/review-queue/` as requested in the edits (e.g., `2026-07-19_delivery_reframe.md`).
+
+7. **Final Staged Cleanup**:
+   - **CRITICAL**: Delete the files inside `to_merge/` and remove the `to_merge/` directory itself **ONLY** after all edits have been fully applied, verified, and the user has confirmed approval.
+
 ## Session Start Behavior
 
 At the start of a new conversation, briefly note what's in the staging area if anything carried over, or confirm the stage is empty. Check `_index.md` for arc files relevant to what the user wants to work on. Then ask what they want to work on.

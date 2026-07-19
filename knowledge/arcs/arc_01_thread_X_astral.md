@@ -1,11 +1,12 @@
 ---
+
 id: arc_01_thread_X_astral
 name: "Arc 1 — Thread X: Astral Exploration"
 type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-07-19
 description: >
   Scene contracts for Thread X — Astral exploration and the empirical derivation
   of Astral physics. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -58,6 +59,8 @@ to breathe and promises to meet up tomorrow.
 10. Jace and Sophia become co-conspirators and agree to meet up so they can talk
     through this
 11. Jace needs to sleep because he has a big day tomorrow at work, but lies awake thinking about it all night
+12. Sophia identifies Jace by his job before his name — "delivery boy" — landing the role reframe at maximum indignity.
+13. POV exception note: The opening of this scene is a sanctioned Sophia-POV exception until Jace's arrival in the clearing. (Ruled 2026-07-19.)
 
 **Must NOT do:**
 1. No romance between characters
@@ -121,6 +124,8 @@ Astral and gets Nick to help him install one.
    ends with him configuring settings before sleep, excited, impressed with Nick
 2. {Penny}/{Alex} snark beat: something like "Oh, another one. These mini-AI are
    very annoying" — needs a drafted line, not yet canon
+3. Jace asks whether loading {Aura} would let him open the radio software and deeper HUD settings (motivation: HUD errors out in the Astral — plant established in X-00a).
+4. Nick asks why; Jace's cover: "Sophia's running some new physics experiments. I'm helping." Nick doesn't push — he files it away (pays off later).
 
 ---
 

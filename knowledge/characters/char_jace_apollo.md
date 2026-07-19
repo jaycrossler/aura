@@ -68,7 +68,7 @@ cross_references:
 
 ## Summary
 
-Jace Apollo Grant is a recently-discharged United States Air Force officer who arrived at Fortuna Station after his career and identity collapsed on Mars. He has a ten-year Origin Industries contract, a reactivated HUD running in civilian-contractor mode, a dog named Cerberus, a best friend he met through gaming, and — after a night that changes everything — knowledge of a dimension that no human has entered in three thousand years.
+Jace Apollo Grant is a recently-discharged United States Air Force officer who arrived at Fortuna Station after his career and identity collapsed on Mars. He has a five-year Origin Industries contract, a reactivated HUD running in civilian-contractor mode, a dog named Cerberus, a best friend he met through gaming, and — after a night that changes everything — knowledge of a dimension that no human has entered in three thousand years.
 
 He is not yet the protagonist his story will require. He is competent, loyal, and brave in narrow military senses, but rigid, sheltered, and naive about almost everything outside that frame. The story will break and remake him.
 
@@ -76,7 +76,7 @@ He is not yet the protagonist his story will require. He is competent, loyal, an
 
 ## Background — Mars Arc
 
-*(Full detail below. Summary: Air Force officer, prestigious Mars posting, degenerative bone disease diagnosed at checkout, honorably discharged with one million credits in debt and no way home. Hard months of gig work. Signs a ten-year belt contract with Cerberus on the manifest. Departs for Fortuna aboard the *Falcon*.)*
+*(Full detail below. Summary: Air Force officer, prestigious Mars posting, degenerative bone disease diagnosed at checkout, honorably discharged with one million credits in debt and no way home. Hard months of gig work. Signs a five-year belt contract with Cerberus on the manifest. Departs for Fortuna aboard the *Falcon*.)*
 
 ---
 
@@ -96,7 +96,7 @@ Jace's free time on the Falcon is spent on an ongoing prototyping practice — m
 
 The centerpiece project is a drone of his own conceived with Nick Lee: a survey/scout platform running a **full local {Aura} instance** instead of a corporate stack. Nick's interest: experimental {Aura} code branches — one tuned for milspec hardware with automatic processing offload from Jace's HUD; one mirroring Origin's drone-control protocols that might interoperate with Jace's dispatcher desk. Jace's interest: a drone that answers to him.
 
-"Sparky" is the project's name, christened after a hover-jet prototype short-circuited and nearly caught fire on the bench (Ch01 workshop scene). The name attaches to the eventual drone, which is **completed on Fortuna with Nick in person** and later manufactured/finalized when Jace needs Astral scouting capability.
+"Sparky" is the project's name, christened after a hover-jet prototype short-circuited and nearly caught fire on the bench (Ch01 workshop scene). The name attaches to the eventual drone: on Fortuna, its build becomes an Astral-sensor mod project, and Jace's obsessive focus on completing it with Nick in person is the visible cause of the metric slide in 8e. It is later manufactured and finalized when Jace needs Astral scouting capability.
 
 
 
@@ -126,6 +126,23 @@ The arrangement establishes:
 - Jace as genuinely handy and willing to work
 - Maureen as a fair transactional figure (even if she won't say so)
 - The machine shop as Jace's personal space on an otherwise cramped ship
+
+---
+
+## The Automation Instinct
+
+Jace treats every job as a logistics graph. His HUD runs flowcharts — if/then
+chains wiring printers, arms, bots, and queues into hands-off pipelines. On
+the *Falcon* he rigs a ceiling-mounted ArmBot to open printer enclosures,
+clean plates, and ferry parts to assembly, and he is constantly reprogramming
+the whole chain to remove one more step. When it works, automation buys him
+time — for games, and later for the Astral. When it fails, it cascades: an
+arm through an enclosure window, a gripper sheathed in molten plastic, a
+flooded delivery board, fines, and everyone angry at him at once. On Fortuna
+the pattern scales up: a shared thirty-machine forge hall, ArmBots, ScrewBots,
+and delivery drones — and a failure surface made of other people, where a
+closed door or a moved rack or a lowered thermostat brings the graph down.
+See [[tech_origin_logistics]] for the agentic-systems theme this carries.
 
 ---
 
@@ -342,6 +359,16 @@ Jace's interview with Origin Industries is a contract conversation he loses with
 
 Scrambling for leverage, Jace asks if Origin can include Cerberus on the manifest. The rep agrees. Jace walks out feeling he held his ground. The reader knows what he doesn't — the rep just closed roughly 200,000 credits below what Jace could have gotten. *"That's probably the most expensive dog in human history."*
 
+What the contract actually says, in the language Jace skims past while
+negotiating for his dog: **fulfillment contractor**. Care of live cargo.
+Local production against the print queue. Delivery, all tiers. Oversight of
+printer and delivery robots. Additional tasking as assigned. Origin was never
+hiring a drone officer. When the contracted Chinese mining team withdrew from
+the *Falcon* mission, they needed a warm body inside 72 hours who could keep
+animals alive and manage robots — and a decorated engineer desperate enough
+to sign was a bonus, not a requirement. His qualifications got him the
+interview. His availability got him the job.
+
 ### The Intel Deal
 
 > **RETCON (2026-06-17):** Jace no longer knows Mei is an American asset at departure. He finds out later. The deal below was rewritten accordingly. (Matching pass still needed in char_mr_sylvester.md and char_mei.md — see review-queue.)
@@ -354,7 +381,7 @@ What Jace does **not** know: the asset is the quiet Chinese woman he'll share fo
 
 ### Departure
 
-Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactivated HUD. Barely-sufficient animal handling certification. A puppy named after the three-headed guardian of the underworld. One conversation with his family before the communications lag makes real-time calls impossible.
+Jace boards the *Falcon*, bound for Fortuna Station. Five-year contract. Reactivated HUD. Barely-sufficient animal handling certification. A puppy named after the three-headed guardian of the underworld. One conversation with his family before the communications lag makes real-time calls impossible.
 
 ## Capabilities
 
@@ -405,6 +432,7 @@ Jace boards the *Falcon*, bound for Fortuna Station. Ten-year contract. Reactiva
 
 ## Cross-References
 
+- See [[char_sister_artemis]] for Jace's older sister. Standing tease: Artemis calls him a "pig-headed delivery boy." His comeback — that he's going to earn a promotion to *drone operator* on Fortuna — is delivered straight and lands, to the reader, as quietly tragic: his ambition is the job he thought he'd already been hired for.
 - See [[char_cerberus]] for the companion and first crossing partner
 - See [[char_nick_lee]] for the best friend, gaming origin, and open-source co-decision
 - See [[char_sophia_lotte]] for the Astral partner and first teacher

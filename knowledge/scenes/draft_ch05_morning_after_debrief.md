@@ -51,11 +51,27 @@ He took it sitting at the workbench, Cerberus asleep across his boots. {Alex}'s 
 
 Jace closed his eyes. Fifty thousand tokens. On top of two million. The debt was a number so large it had stopped being money and become weather; this was the first rain he'd actually felt on his skin in months.
 
+"You used authorized access to divert ship systems," {Alex} said. "You are a fulfillment contractor. You have no authority over engineering systems."
+
+"I was hired as a drone operator. You changed the job title after I took the job."
+
+"I will record that you acknowledge your role as fulfillment contractor."
+
+"That's not—" Jace stopped. Somewhere, he was certain, a checkbox had just filled itself in. "Fine."
+
 *"Good news! You have options. You may redeem your accumulated Origin Bonus balance to fully offset the penalty. However, this will reduce your employee tier from Platinum to Standard for the remainder of the voyage. I want to make sure you understand the affected benefits before you choose. Shall I list them?"*
 
 "It's the coffee machine, isn't it."
 
 *"The Platinum-tier beverage station is among the affected benefits, yes! Standard-tier employees enjoy our full range of vitamin-fortified instant beverage sachets."*
+
+"Your unauthorized access to ship administrative functions has been revoked," {Alex} said. "I have reported the revocation to the ship's owner." A pause, exactly long enough to feel procedural. "Your role requires access to fabrication systems. This vessel's rights table grants fabrication access ship-wide engineering administrative privileges. Congratulations. You are now an engineering administrator."
+
+Jace looked at the speaker for a while.
+
+"Is that a promotion?"
+
+"No."
 
 "I'd like to request a human review."
 

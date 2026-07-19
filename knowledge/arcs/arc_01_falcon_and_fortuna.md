@@ -1,11 +1,12 @@
 ---
 
+
 id: arc_01_falcon_and_fortuna
 name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-07-19
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
@@ -292,37 +293,38 @@ Full contracts live in the linked thread file.
 | 0 | Prologue | — | Helena's last day | `event_helena_prologue` | drafted |
 | 1 | T-01 | T | Departure setup — duck email, Artemis b-day call, ballast sounds, AI intro | thread_T | ⚠️ verify full text |
 | 2 | T-02a | T | HUD headaches begin (recurring); hears of a murder at Fortuna | thread_T | ok |
-| 3 | T-03 | T | The Plumbing Crisis | thread_T | drafted |
-| 4 | T-03a | T | The Morning After — Will-shocked, unexplained | thread_T | ok |
-| 5 | T-03b | T | The {Alex} Debrief — fine, Platinum revoked | thread_T | ok |
-| 6 | T-03b2 | T | The Learning Mode Incident | thread_T | drafted |
-| 7 | T-03c | T | The Artemis Call | thread_T | ok |
-| 8 | T-03d | T | The Pig-Butt Canister | thread_T | ok |
-| 9 | A-00b | A | Maureen departure / *Falcon* docks | thread_A | ok |
-| 10 | A-01 | A | Arrival Day at Fortuna | thread_A | ok |
-| 11 | A-01a | A | Hayes established | thread_A | ok |
-| 12 | A-02a | A | Mira introduced | thread_A | ok |
-| 13 | A-02 | A | "Second week" scope/tension/mourning/dreams scene | thread_A | ⚠️ possible duplicate of L-01 — consolidate |
-| 14 | A-03 | A | First Drone Shift — Kim's scowl, mediocrity, sabotage warning | thread_A | ok |
-| 15 | A-04 | A | The Survey Trip — Torres, scratched asteroid, survey bots | thread_A | ok |
-| 16 | X-00 | X | Almost dying in the Astral; meets Sophia in the cafeteria | thread_X | drafted |
-| 17 | A-05 | A | Factory Floor — Carlos, crystal farms | thread_A | ⚠️ item 7 implies post-X-01 timing — confirm placement |
-| 18 | X-01 | X | The Astral Crossing Teamup — Sophia's ship, umbilical reveal | thread_X | drafted |
-| 19 | X-01b | X | *(renamed from duplicate L-01)* {Aura} install scene | thread_X | renamed this pass |
-| 20 | X-02 | X | Ambient glow, healing light, "no vampires" rule | thread_X | ok |
-| 21 | X-02a | X | Tick-Maw / med bay — egg planted | thread_X | ok |
-| 22 | X-02b | X | The Sweep — goat, servers, "Invasion Force?" notebook | thread_X | ok |
-| 23 | X-03 | X | **NEW — proposed:** Sophia notices Jace's "two cores" | thread_X | drafted this pass, pending approval |
-| 24 | X-04 | X | *(open slot — referenced by L-04, never drafted)* | thread_X | ❌ missing |
-| 25 | X-05a | X | The Numbers Go Wrong — laser ranging derivation | thread_X | ok — see Open Decision #8 |
-| 26 | X-05b | X | The Unstable Site — asteroid interior survey | thread_X | ok |
-| 27 | X-05c | X | "This Changes Everything" — Nick disclosure | thread_X | ok |
-| 28 | X-06 | X | LOX eyebrow incident | thread_X | ⚠️ ID inferred, not confirmed |
-| 29 | L-0? | L | Jace late to work — {Alex} fines him, stress mounting | thread_L | ID is a placeholder in source |
-| 30 | X-07 | X | Drone Survey / Platinum Target | thread_X | ok |
-| 31 | X-08 | X | Sophia's Hull Incident / Survival Suits | thread_X | ok |
-| 32 | X-09 | X | First Successful Transport | thread_X | ok |
-| 33 | X-10 | X | **NEW — proposed:** Rotating mirror light-speed experiment | thread_X | ⛔ blocked — Open Decision #8 |
+| 3 | T-02b | T | No More Voices — Maureen's AI aversion, grifts, majordomo | `event_t_forge_no_more_voices` | contracted |
+| 4 | T-03 | T | The Plumbing Crisis | thread_T | drafted |
+| 5 | T-03a | T | The Morning After — Will-shocked, unexplained | thread_T | ok |
+| 6 | T-03b | T | The {Alex} Debrief — fine, Platinum revoked | thread_T | ok |
+| 7 | T-03b2 | T | The Learning Mode Incident | thread_T | drafted |
+| 8 | T-03c | T | The Artemis Call | thread_T | ok |
+| 9 | T-03d | T | The Pig-Butt Canister | thread_T | ok |
+| 10 | A-00b | A | Maureen departure / *Falcon* docks | thread_A | ok |
+| 11 | A-01 | A | Arrival Day at Fortuna | thread_A | ok |
+| 12 | A-01a | A | Hayes established | thread_A | ok |
+| 13 | A-02a | A | Mira introduced | thread_A | ok |
+| 14 | A-02 | A | "Second week" scope/tension/mourning/dreams scene | thread_A | merged |
+| 15 | A-03 | A | First Drone Shift — Kim's scowl, mediocrity, sabotage warning | thread_A | ok |
+| 16 | A-04 | A | The Survey Trip — Torres, scratched asteroid, survey bots | thread_A | ok |
+| 17 | X-00 | X | Almost dying in the Astral; meets Sophia in the cafeteria | thread_X | drafted |
+| 18 | A-05 | A | Factory Floor — Carlos, crystal farms | thread_A | ⚠️ item 7 implies post-X-01 timing — confirm placement |
+| 19 | X-01 | X | The Astral Crossing Teamup — Sophia's ship, umbilical reveal | thread_X | drafted |
+| 20 | X-01b | X | *(renamed from duplicate L-01)* {Aura} install scene | thread_X | renamed this pass |
+| 21 | X-02 | X | Ambient glow, healing light, "no vampires" rule | thread_X | ok |
+| 22 | X-02a | X | Tick-Maw / med bay — egg planted | thread_X | ok |
+| 23 | X-02b | X | The Sweep — goat, servers, "Invasion Force?" notebook | thread_X | ok |
+| 24 | X-03 | X | **NEW — proposed:** Sophia notices Jace's "two cores" | thread_X | drafted this pass, pending approval |
+| 25 | X-04 | X | *(open slot — referenced by L-04, never drafted)* | thread_X | ❌ missing |
+| 26 | X-05a | X | The Numbers Go Wrong — laser ranging derivation | thread_X | ok — see Open Decision #8 |
+| 27 | X-05b | X | The Unstable Site — asteroid interior survey | thread_X | ok |
+| 28 | X-05c | X | "This Changes Everything" — Nick disclosure | thread_X | ok |
+| 29 | X-06 | X | LOX eyebrow incident | thread_X | ⚠️ ID inferred, not confirmed |
+| 30 | L-0? | L | Jace late to work — {Alex} fines him, stress mounting | thread_L | ID is a placeholder in source |
+| 31 | X-07 | X | Drone Survey / Platinum Target | thread_X | ok |
+| 32 | X-08 | X | Sophia's Hull Incident / Survival Suits | thread_X | ok |
+| 33 | X-09 | X | First Successful Transport | thread_X | ok |
+| 34 | X-10 | X | **NEW — proposed:** Rotating mirror light-speed experiment | thread_X | ⛔ blocked — Open Decision #8 |
 | — | L-01 | L | The Evening Run *(recurring — thread all the way through)* | thread_L | ok |
 | — | L-02 | L | The Barn Visits *(recurring)* | thread_L | ok |
 | — | L-03 | L | Work Texture *(recurring)* | thread_L | ok |
@@ -373,10 +375,7 @@ Full contracts live in the linked thread file.
 7. **Sophia learns about the Bloated Maw:** During Kael's Arc 2 Template assessment
    of Jace, in front of Sophia — first real fracture in the partnership.
 8. **NEW — Kael's presence during the battle, AND the light-speed physics, both need a decision:**
-   - *(a)* Does Kael leave before the swarm attack and return to the aftermath (per
-     the "Many undecided chapters" scratch notes), or does she stay under
-     occultation through the whole fight per the current Closing Condition and
-     the drafted S-02b? These are mutually exclusive as written.
+   - *(a)* **RESOLVED (2026-07-19):** Kael is present at the swarm battle under occultation through the whole fight per the current Closing Condition and the drafted S-02b. The contradicting scratch notes in Thread S are removed.
    - *(b)* Does light moving slower in the Astral/Hyperspace **replace** X-05a's
      "space compresses, light stays at *c*" derivation, or compound with it? This
      changes the dist²/dist³ travel-time math used elsewhere (e.g. Metis distances)

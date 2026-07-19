@@ -1,4 +1,6 @@
 ---
+
+last_updated: 2026-07-19
 ---
 # Priority List of Things to Fix & Open Questions
 
@@ -25,6 +27,9 @@ This section organizes the universe's unresolved details, narrative forks, and d
 - **Suzi's Background & Role (from [char_suzi.md](file:///D:/Projects/aura/knowledge/characters/char_suzi.md)):** What is Suzi's surname and specific military background? Is she read into the station's suppressed anomaly history or kept in the dark by Origin management?
 - **Cerberus's Will-Glow Color (from [spec_astral_glow_and_signatures.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_astral_glow_and_signatures.md)):** What color is Cerberus's Will-glow? (Author input needed).
 - **Sleep Mask Scrubber Lifetime (from [spec_crossing_mechanics.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_crossing_mechanics.md)):** What is the exact scrubber lifetime of the standard belt sleep mask (4-8 hours)?
+- **AlphaCorp Integration (from [faction_alphacorp](file:///D:/Projects/aura/knowledge/factions/faction_alphacorp.md)):** What is AlphaCorp's physical presence in the belt? Who are the named characters in Book 1-3 scope? Does the belt see ad-supported service tiers?
+- **Workshop Automation Cascades (from [arc_01_thread_T_transit](file:///D:/Projects/aura/knowledge/arcs/arc_01_thread_T_transit.md)):** Which early workshop scene will show Jace's minor ArmBot automation cascade before the plumbing crisis?
+- **Epigraph Pattern Audit (from [scenes_book01_opening_notes](file:///D:/Projects/aura/knowledge/scenes/book01-opening-notes.md)):** Perform an audit of epigraphs across ch00-ch14 after Sophia's pattern-break in X-00b. Do we want 1-2 more breaks?
 
 ### Medium Priority (Arc 2 — The Woven & Dungeon Emergence)
 *These questions affect the Woven first contact, early dungeons on Earth/Mars, and the Metis Station rescue.*
@@ -82,6 +87,10 @@ This checklist tracks logical and narrative tests from the story arc documents t
 
 ## 4. Resolved Issues
 
+- **Delivery Guy Reframe & Origin Logistics (2026-07-19):** Jace reframed from drone operator to over-qualified fulfillment contractor (5-year contract). Resolved by adding [[tech_origin_logistics]] and updating character/scene/thread files.
+- **Falcon Majordomo AI (2026-07-19):** Replaced braces `{Falcon}` references with the non-AI dumb majordomo (no braces) and added [[tech_falcon_majordomo]].
+- **Kael's Swarm Battle Presence (2026-07-19):** Reconciled Thread S scratch notes contradiction; ruled Kael is present at the swarm battle under occultation (S-02b).
+- **A-02/L-01 Evening Run Consolidation (2026-07-19):** Merged duplicate scene contracts for Jace's evening run into a single canonical L-01 contract.
 - **Disentangling Jace's Mars Backstory:** Handled by removing the old control configuration files (`story-structure.yaml`, `scene-registry.yaml`, etc.) to deconflict the old story chapters.
 - **U.S. Intelligence & Military Apparatus:** Resolved by drafting [faction_united_states_military_intelligence.md](file:///d:/Projects/aura/knowledge/factions/faction_united_states_military_intelligence.md) outlining Martian bases, doctrine, and intelligence assets.
 - **Artemis Stationing (Métis vs. Odysseus Inconsistency):** Resolved by globally shifting all Artemis/smuggling target locations to Metis Station, standardizing the "Metis" spelling without accents, and reserving Odysseus Station exclusively for the Jupiter L4 Trojan asteroid science outpost.

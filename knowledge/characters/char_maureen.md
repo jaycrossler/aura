@@ -52,7 +52,7 @@ arc: >
 # The Majordomo Conflict
 description: "Character profile detailing Captain Maureen, her relationships, and motivations for retirement."
   Maureen has not integrated Jace's personal drones (Thing One, Thing Two) with the
-  Falcon's majordomo AI `{Falcon}`. Official reason: certification protocols. Practical reality:
+  Falcon's majordomo. Official reason: certification protocols. Practical reality:
   her ship, her systems, her rules. Jace manages his drones manually through his HUD.
   This is low-grade friction throughout the transit.
 
@@ -75,6 +75,21 @@ Maureen is the captain of the *Falcon*. She has been running this route for a lo
 She is also good at her job. The *Falcon* is still flying because of people like her.
 
 She feeds Siren treats when she thinks no one is watching. Siren follows her everywhere regardless.
+
+## Grifts and the No-AI Rule
+
+Maureen extracts credits from every source that will leak them. The visible
+example: her forge room is enrolled in Origin's fulfillment network, and she
+orders a 1-Token stock plate daily to collect the 20-Token facility fee per
+routed job — Jace prints the plates. It is one of many such arrangements;
+assume others exist off-page. Origin has never noticed and wouldn't care.
+
+She refuses to run a ship AI. Contract work forces AIs aboard anyway — {Seek}
+on Chinese runs, {Gem} on AlphaCorp runs, {Alex} in Origin crews' HUDs — and
+she resents each one. The Falcon runs on the majordomo (see
+[[tech_falcon_majordomo]]): a dumb automation stack, no braces, no
+personality, which nonetheless sounds exhausted and annoyed. Maureen says
+it's the speakers.
 
 ## Relationship with Jace
 

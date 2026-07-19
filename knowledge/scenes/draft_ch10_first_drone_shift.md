@@ -56,7 +56,7 @@ He walked home the long way. Cerberus, sensing weather, kept his shoulder agains
 
 "That's almost wise."
 
-"I contain multitudes. Also — real thing, not gossip." Nick's voice dropped and his hands, for once, stopped typing. "Watch your machines. There's been talk since the China contracts fell through — people saying if something breaks big on Fortuna it might not be an accident. Sabotage talk. It's probably nothing, rumor runs on rails around here since Helena. But you're the new hands on four hundred drones, and if anything *does* break weird, guess whose name is on the shift log." He let that land. "Log everything. Cleaner than you think you need to."
+"I contain multitudes. Also — real thing, not gossip." Nick's voice dropped and his hands, for once, stopped typing. "Watch your machines. There's been talk since the China contracts fell through — people saying if something breaks big on Fortuna it might not be an accident. Sabotage talk. It's probably nothing, rumor runs on rails around here since Helena. But you're new hands on the delivery fleet — and people round that up to four hundred drones when they're assigning blame. If anything *does* break weird, guess whose name is on the shift log." He let that land. "Log everything. Cleaner than you think you need to."
 
 That night, Jace dreamed he was outside the station.
 

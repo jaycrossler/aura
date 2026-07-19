@@ -30,7 +30,7 @@ The thump woke him before the alarm did.
 
 *Thump.* A pause — twenty-three seconds, his half-asleep brain counted, one full rotation of the ring — *thump.* Structural. Rhythmic. Wrong in the way that only a sound you've never heard a ship make can be wrong.
 
-He was dressed and moving before {Falcon} finished its sentence. *ANOMALOUS MASS DISTRIBUTION. SPIN STABILITY DEGRADING. ALL CREW—*
+He was dressed and moving before the majordomo finished its sentence. *ANOMALOUS MASS DISTRIBUTION. SPIN STABILITY DEGRADING. ALL CREW—*
 
 The ring corridor told him the story in pieces as he ran it. A primary water line had torn — torn, his mind snagged on the word even at a run, pipes hole, pipes split, pipes don't *tear* — and vented tons of water to space, where it had done the only thing water does out there: flash-frozen across one arc of the ring's exterior in a sprawling, glittering fist of ice. Tons of mass, bolted by physics to one side of a wheel spinning at 2.6 revolutions per minute.
 
@@ -94,7 +94,7 @@ Two days later, time-delayed from Mars, a message arrived from Saul. No preamble
 
 *Reviewed the logs. Moment-balance was clean work under load. She'll be angry about the reserve; she's right to be. Thank you for saving my ship.*
 
-Maureen read the crew's inbound mail — everyone knew she read the mail — and she never said a word about it. But the next morning the maintenance queue had been quietly re-sorted with his name off the worst jobs for a week, and {Falcon}, for the first time, accepted a task tag from his drones without routing it through her.
+Maureen read the crew's inbound mail — everyone knew she read the mail — and she never said a word about it. But the next morning the maintenance queue had been quietly re-sorted with his name off the worst jobs for a week.
 
 ---
 

@@ -1,11 +1,12 @@
 ---
+
 id: arc_01_thread_S_swarm
 name: "Arc 1 — Thread S: Swarm and Closing"
 type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-07-19
 description: >
   Scene contracts for Thread S — the swarm attack and Arc 1's closing beats.
   Migrated out of arc_01_falcon_and_fortuna.md during the thread-split restructure.
@@ -138,64 +139,10 @@ AH Level drops from 4.5 to 0. Jace does not know what changed.
 
 ---
 
-#### "Many Undecided Chapters" — Unintegrated Scratch Notes
-
-> ⚠️ **Preserved verbatim from the source file, not yet reconciled with canon.**
-> This block reappeared in the source after a prior revision note said a similar
-> placeholder had been "resolved and removed" — meaning at least some of the items
-> below may be stale alternate drafts that predate `S-02b`, `A-04`'s Torres/Kim
-> integration, etc. Recommend an author pass to sort each item into: (a) already
-> satisfied by current canon, (b) still needed, (c) superseded/delete.
-
-Need to:
-1. Have more exploration in the Astral — Jace and Sophia finding things and
-   discovering what's there, examining people and animals, learning how powers
-   and Will work
-2. Have some fights with monsters
-3. Need scene of Jace going out again and bringing home the most expensive
-   platinum asteroid ever, and finally getting to eat
-4. Need a payoff with the scratched asteroid — right before the swarm, maybe
-   finding another scratched asteroid like that, covered with cryptids. They are
-   breeding, and when the information is put together with what the Chinese team
-   knows, they see the swarm is building in a circle around the station and
-   coming nearer. Jace sends out a drone and sees thousands hiding behind a big
-   rock, preparing to attack
-5. Rally the people on station, build a giant defense of engineers and drones,
-   epic battle with machines, drones, and improvised explosives vs. space
-   cryptids. People die (Torres, Yáo, 20 others), humans win. Televised via the
-   pig cam — humanity now knows the secret is out
-6. **[CONFLICTS WITH S-02b]** Need some resolution to Kael cutting the Tick out
-   of Jace. Does she just do it in front of everyone? How does he survive? Or is
-   she about to kill Jace and Sophia jumps in and stops her, then Kael shows her
-   the tick and they get Lanchee to remove it relatively safely?
-7. **[CONFLICTS WITH the Closing Condition and S-02b]** Have Kael leave before
-   the final battle, not knowing about the attack — she went back to message her
-   family about what she's seen, comes back to the carnage?
-8. Need some conflict that resolves in Jin and Jace trusting each other and
-   realizing there was never a murder — maybe when {Seek} is destroyed and Jin
-   can finally talk openly
-9. Have small scenes in the final battle where Mira uses her summoning powers to
-   fight off monsters — summon a chair to block a hungry mouth, summon a door, a
-   spike. Have Kim be attacked in Drone Ops. Her migraine suddenly stops when she
-   ingests a Will spear and she can now slice things apart at a distance, and she
-   rips a group of cryptids to shreds saving Carlos and herself
-
-*(Items 4, 5, 9 are consistent with current canon and have been folded into S-01's
-"known elements" and A-04's foreshadowing above. Items 6 and 7 are flagged as
-conflicting with the drafted S-02b and are not incorporated anywhere else in this
-restructure. Item 8 is already substantially addressed by P-08/P-06/N-03, but
-worth confirming the "never was a murder" line lands explicitly somewhere.)*
-
----
-
 ## Revision Notes (this file)
 
 - Migrated from `arc_01_falcon_and_fortuna.md` during the thread-split restructure.
 - S-01 flagged as incompletely retrieved — verify full stage text against source.
-- The "Many undecided chapters" block was carried over verbatim rather than
-  silently deleted or silently reconciled, per instruction never to resolve a
-  conflict without surfacing it. Items 6–7 remain in direct conflict with S-02b
-  and the master file's Closing Condition. **Do not delete this block or treat
-  S-02b as final until Open Decision #8a is settled.**
-- Torres's death added to S-01's casualty list per this session's author notes
+- Torres's death added to S-01's casualty list per this session's author notes.
+- 2026-07-19: Removed the "Many undecided chapters" scratch block containing the Kael-absent alternative (ruled that Kael is present at the swarm battle; the contradicting scratch was deleted).
   (previously only Yáo was named in the Closing Condition; "20 others" already existed).

@@ -6,8 +6,8 @@ part_of: arc_01_falcon_and_fortuna
 thread: X
 scene_contract: X-00 (second half)
 status: staged_draft
-pov: char_jace_apollo
-last_updated: 2026-07-15
+pov: char_sophia_lotte (opening), char_jace_apollo (from arrival)
+last_updated: 2026-07-19
 description: >
   Jace meets Sophia in the Astral cafeteria. Cerberus breaks her isolation.
   Joint oxygen pull discovered. Sophia escorts them home, explains her nightly
@@ -27,30 +27,32 @@ open_flags:
 
 # X-00b — The Woman Who Wasn't Glowing
 
-> **Proposed epigraph (staged — new entry for spec_chapter_epigraphs.md):**
-> *"Most people don't know this, but the entire human return to magic began as
-> two exhausted strangers in a cafeteria, failing to lift a sandwich."*
-> — attributed narrator voice, dry-snark register, status: staged
+> *Entry 214. The pull responds to intention but not to effort — a fact I have
+> now confirmed by producing a great deal of effort. If anyone ever reads
+> these notes: it is not a muscle. Stop treating it like a muscle. —S.L.,
+> private research notebook, unnumbered page inserted backwards*
 
 ---
 
-Sophia has been pulling for four minutes. On the other side of the boundary — anchored to the wall of the real prep station, physical and heavy and *there* — a meal tray strains toward her. Her forearms tremble. Sweat beads at her temple. Her teeth are gritted like she's mid-rep on a bench press with a weight that will not budge.
+Sophia has been pulling for four minutes and the anchor has moved the width of a fingernail.
 
-Just a little longer. Just—
+She resets her grip on nothing — there is no grip, there is only the intending of a grip, which after eleven weeks she can hold for about ninety seconds before it shreds — and pulls again. The Astral does not creak. It does not strain. It simply declines, politely, at scale, and the light around her stays that same patient silver that has stopped feeling like wonder and started feeling like a laboratory she is locked inside of.
 
-She hears breathing that isn't hers.
+Eleven weeks. Two hundred and six entries. No second observer. She has started narrating her methodology aloud, for the notebook, for rigor, and also — she can admit this here, where there is no one — because a human voice, even her own, is data she badly needs.
 
-Her head snaps up and her concentration shatters; the tray drops back to the real side with a thunk she feels more than hears. There's a man standing near her table. A man and a dog — a floppy fifteen-pound brindle puppy, all ears and oversized paws, with a fitted mask sealed around his muzzle. And they are not like the others — not the blurred, fractured, glowing ghosts of the crew she watches drift through the station every night. They are *sharp*. Defined. Normal.
+The anchor gives another fingernail. She sets her feet against nothing, leans her whole intention into it —
 
-Like they're really here.
+— and a man walks out of the treeline.
 
-Cerberus writhes out of Jace's arms, hits the deck, and bolts — tail whipping, crashing into her legs, nose frantic at her hands, her fingers, her face. Real weight. Real contact. *Real.*
+Sophia screams. Her concentration goes to pieces, her footing goes with it, and she falls — slowly, absurdly, a third of gravity stretched thinner by the Astral's indifference, long enough to be embarrassed on the way down. The man crosses the clearing at a sprint and catches her before she lands, which is not difficult, because nothing here is in a hurry except him.
 
-She breaks. She's on her knees with her face in his fur before she decides to be, tears running, and Cerberus licks her cheek through the gap above his mask seal, and for the first time in weeks she is not alone in this place. Jace crouches beside them and — without thinking, because it's already reflex — resets the dog's mask, which all that enthusiastic sniffing has torqued half off his snout.
+He is real. Her hands are fisted in his sleeves and the sleeves have texture and the arms under them are warm and he is *real*, an actual second human being, here, and eleven weeks of methodology produce, as her first recorded utterance to another observer in the Astral dimension:
 
-"*Mon Dieu,*" she whispers. "You're here. You're actually here."
+"Wait. You're the *delivery boy*."
 
-Jace stares at her the way a man stares at the only fixed point in a collapsing room. Behind him, Torres glows and scrolls and chews, three meters and one universe away.
+---
+
+Jace stares at her, a hot spark of indignation piercing his disorientation. *Delivery boy.* He'd been an officer, an engineer, and now he is reduced to a job title he hadn't even realized he was signing up for. But the frustration is brief, swallowed by the sheer impossibility of what is around him. Behind her, Torres glows and scrolls and chews, three meters and one universe away.
 
 "What's going on?" Jace manages. "My mask — I've got maybe ninety minutes of O2 left, and I don't—"
 

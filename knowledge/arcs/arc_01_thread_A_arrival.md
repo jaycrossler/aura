@@ -91,22 +91,11 @@ her creations become elaborate.)*
 
 ---
 
-#### A-02 — "Second Week" Scene
+#### A-02 — "Second Week" Scene (Merged with L-01)
 
-> ⚠️ **Possible duplicate with L-01 (The Evening Run) — flagged, not resolved.**
-> This scene and L-01 share near-identical opening prose (evening run, second week,
-> largest person running, oblivious to attention) but carry different
-> Must-Accomplish lists. Recommend consolidating into one canonical scene before
-> this migration is finalized.
+Status: Merged. Absorbed by ch09/L-01.
 
-**Must accomplish (as found under this heading):**
-1. Run established as recurring background beat
-2. Show the scope of the station, meet a few characters — introduce Mira the scared girl
-3. Show that the Chinese people and American people don't get along well
-4. Show that people still mourn for Helena and are suspicious
-5. Jace sees news footage of problems at Odysseus station and suspected Chinese sabotage
-6. There are memorial posters of Helena up with a "missing" sign; a small shrine
-7. Jace is still having weird dreams — sees something in a dream that he now sees in real life for the first time, and it freaks him out
+*See [[arc_01_thread_L_life_texture#L-01 — The Evening Run]] for the active scene contract.*
 
 ---
 
@@ -120,11 +109,9 @@ four minutes. He has hours left in his shift.
 1. The automated-baseline / exception-handling split shown in action
 2. The work rhythm is real and unglamorous — long periods of monitoring, brief
    moments of actual intervention
-3. He overhears Kim (his coworker) tell Carlos that Jace has only a mediocre level
-   of skill. He thought he did a great job, but is now embarrassed. He tries harder
-   and harder next time. Kim always scowls at him.
+3. He overhears Carlos and Kim discuss Jace as a junior *delivery* hire who touches only a subset of drone jobs; their "mediocre" assessment of his skill is sharpened by the fact that he isn't even really drone ops. Jace is embarrassed, and tries harder next time. Kim always scowls at him.
 4. Jace has weird dreams that night where he thinks he's moving around outside the station
-5. Jace hears about tensions with the Chinese miners and is warned about sabotage
+5. Nick delivers the sabotage warning.
 
 **NEW — from author notes, not yet in canon (recommend adding):**
 - Cerberus stays in a dog bed by Jace's feet during his shift. Kim complains
@@ -169,6 +156,21 @@ gouges, no metal remaining. He files it without a framework.
   3-day trip rather than bring her — his first extended separation from her since
   Mars. He misses having her with him; worth a beat of him noticing the absence,
   reaching down out of habit and finding nothing there
+- Tasking arrives via {Alex} under the "additional tasking as assigned" clause. Origin needs a warm body that can manage robots. This is a routine manifest line, not a recognition of talent.
+
+---
+
+#### A-04b — Performance Gossip (Performance & Metrics beat)
+
+**Summary:** Carlos and Kim discuss Jace's degrading delivery metrics and gossip about his connection to Sophia Lotte.
+
+**Must accomplish:**
+1. Carlos and Kim discuss Jace's degrading delivery metrics (metric slide).
+2. Carlos passes gossip that Jace is spending his time with Sophia; they conclude romance.
+3. Dramatic irony: reader knows the truth (Astral absences). The gossip serves as Jace's cover.
+
+**Must NOT do:**
+- Neither Carlos nor Kim confirms or investigates the rumor; it stays break-room noise.
 
 ---
 

@@ -1,11 +1,12 @@
 ---
+
 id: arc_01_thread_T_transit
 name: "Arc 1 — Thread T: Transit"
 type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-15
+last_updated: 2026-07-19
 description: >
   Scene contracts for Thread T — the Falcon's Mars-to-Fortuna transit. Migrated out
   of arc_01_falcon_and_fortuna.md during the thread-split restructure. Naming
@@ -20,9 +21,11 @@ cross_references:
   - "[[ship_falcon]]"
 ---
 
-# Thread T — Transit
-
 *(the Falcon, Mars → Fortuna, ~4-month voyage)*
+
+### Automation Failure Motif (Notes)
+- ArmBot automation motif and its failure modes (see [[char_jace_apollo#The Automation Instinct]]) should appear as a recurring texture across workshop scenes.
+- There must be at least one on-page minor cascade before the plumbing crisis (e.g. during early workshop beats), so the plumbing crisis isn't Jace's automation's first visible failure. (Ruled 2026-07-19.)
 
 ---
 
@@ -68,6 +71,19 @@ anti-radiation and anti-nausea medicine.
 - Explain the headaches — all readings remain available to the reader
 - Make the medical beat dramatic
 - Go into details of the murder or Helena's disappearance
+
+---
+
+#### T-02b — No More Voices (Forge Room)
+
+*(Contracted — see [[event_t_forge_no_more_voices]])*
+
+**Summary:** Jace asks Maureen why the Falcon has no ship AI. He discovers the majordomo, the daily plate print hack, and Maureen's grifts.
+
+**Must accomplish:**
+1. Maureen's AI aversion shown in her own words: resents carrying {Alex}, {Seek}, {Gem}.
+2. The majordomo established: flat, put-upon delivery, no braces. Jace asks why it sounds annoyed; Maureen: "It's a speaker."
+3. The plate hack revealed: Jace prints daily 1-Token plates so Maureen collects the 20-Token facility fee.
 
 ---
 

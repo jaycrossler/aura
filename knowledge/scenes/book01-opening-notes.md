@@ -1,9 +1,10 @@
 ---
+
 description: "Working outline detailing early scenes, backstory, and structural notes for Book 1's opening."
 id: scenes_book01_opening_notes
 title: Book 1 — Opening Notes and Sketches
 status: pre-draft
-last_updated: 2026-04-30
+last_updated: 2026-07-19
 ---
 
 # Book 1 — Opening Notes
@@ -66,7 +67,7 @@ The Mars arrival arc has expanded from the original two-chapter sketch into a lo
 
 **Chapter sizing.** This sequence does not need to be exactly two chapters. The Mars arrival arc could comfortably span 4-7 chapters depending on how much breathing room is given to the hard months. The doctor's appointment is structurally the Act One climax / first major turning point, so chapter breaks should fall naturally on either side of it.
 
-**POV.** All Jace. The Origin negotiation tag scene briefly shifts to the Origin rep's POV (just two paragraphs), which is the only non-Jace POV in the early book. This is a deliberate cruelty.
+**POV.** Early Book 1 is Jace-POV with exactly two sanctioned exceptions: (1) the Origin representative's two paragraphs in the negotiation scene; (2) the Sophia-POV opening of X-00b, which runs until Jace's arrival in the Astral clearing. Both exceptions are deliberate; no others without an arc-file amendment. (Ruled 2026-07-19.)
 
 **Pacing.** The arrival day should be relatively expansive — the reader needs to be inside Jace's confidence before it shatters. The doctor's appointment is slow. The hard months should be a controlled compression — present-tense montage interspersed with a few specific scenes (bar, family calls, package delivery) that anchor the passage of time. The Origin and Sylvester scenes should be slow again — these are decisions that matter.
 
