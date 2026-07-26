@@ -83,7 +83,7 @@ Over the story arc:
 ## Open Questions
 
 - Capital city of the United States of Mars — name, layout, character.
-- Current governor's name, party, history, character.
+- Current governor's name, history, character (the governor's party is the ruling **American Red party** or heavily aligned with it, while Mars Command drifts toward autonomy).
 - Specific military command structure and base names.
 - Relationship dynamics with the other Mars factions in particular crises.
 - The first Mars-born politician to win major office and what they advocate.

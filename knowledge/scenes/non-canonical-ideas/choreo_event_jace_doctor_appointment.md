@@ -1,13 +1,22 @@
 ---
+
 description: "Detailed choreography and temporal markers for Jace's emotional climax at a doctor's appointment."
 id: choreo_event_jace_doctor_appointment
 scene_ref: event_jace_doctor_appointment
 type: scene_choreography
 status: detailed (voice session)
-last_updated: 2026-04-30
+last_updated: 2026-07-21
 storybot_extrapolation_allowed: true
 canonical: false
 ---
+
+> > **REFRAME NOTE (2026-07-21):** This scene is retained as *flashback fodder only.* In
+> > current canon Jace's discharge is political (American Red purge over a sealed
+> > bridge-strike refusal), not medical. The bone condition is pre-existing and
+> > service-managed and does NOT bar Earth. Reusable pieces: the doctor's office setting,
+> > the HUD-deactivation beat, Jace's military-cadence-under-stress voice. The new
+> > discovery beat is the doctor asking how he'll pay now he's discharged → *"Wait. What
+> > discharge?"* Do not treat the medical-diagnosis-as-inciting-incident framing as canon.
 
 # Scene Choreography — The Doctor's Office (Medical Discharge)
 

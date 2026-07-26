@@ -1,12 +1,13 @@
 ---
 
+
 id: arc_01_thread_X_astral
 name: "Arc 1 — Thread X: Astral Exploration"
 type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-19
+last_updated: 2026-07-21
 description: >
   Scene contracts for Thread X — Astral exploration and the empirical derivation
   of Astral physics. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -26,6 +27,10 @@ cross_references:
 ---
 
 # Thread X — Astral Exploration
+
+**Sophia's Consent and Disclosure Stance:** Sophia does not want to disclose to anyone yet, Nick included. She yields only because Jace personally vouches for Nick and because Jace makes the case that Nick's {Aura} instrumentation will accelerate her documentation. She is proven right to be cautious and right to relent: Nick's tools go on to multiply what her notebooks can capture.
+
+**Rising-Danger Through-Line:** Across Thread X (and P-04 nest-clearing), the Astral fauna threat should **escalate on a felt curve** — Tick-Maws → the Bloated Maw feeding on {Seek} → the Scavenging Queen → the swarm — so the reader carries growing dread and a sense of a *race*: the wonder/discovery/instrumentation curve and the danger curve climbing toward each other, colliding at the swarm that closes Act 1. Every discovery beat should be shadowed by a slightly larger threat beat. Do **not** add new creatures to hit this; sharpen pacing and juxtaposition of existing ones. Success test: by the pre-swarm beats, a reader should feel the collision coming.
 
 ---
 
@@ -245,6 +250,19 @@ She is wrong. The second core is the Tick-Maw egg, growing.
 
 ---
 
+#### X-03b — "What She Can Do" (Sophia shows Jace her force, physical side)
+
+**Proposed ID `X-03b` — early partnership sequence.**
+
+**Summary:** Early in the partnership, during an exploration session, and **before they cross over together**, Sophia shows Jace her physical-space force powers — small, controlled, precise. It's the moment Jace understands they are *different kinds of practitioner*: he moves things through the membrane; she reaches through it to act on the physical world without leaving it. Establishes the Crossing-vs-Manifesting split for the reader through character, not exposition.
+
+**Must accomplish:**
+1. Sophia's `[Force Application]` is shown working *in physical space* (per `magic_skills_framework.md`: manifestation, body stays physical).
+2. The complementarity lands: Jace = transfer/crossing; Sophia = force/perception. Neither is superior; the partnership works *because* of the asymmetry.
+3. Keep it small and controlled — a private demonstration, not a public event; nothing that would trip the involuntary-disclosure structure reserved for the swarm.
+
+---
+
 #### X-04 — *(Open slot — not drafted)*
 
 Referenced by `L-04`'s progression table ("Stage 3 (X-04 to X-05)") but no
@@ -312,15 +330,23 @@ knows this to anyone, and needs to or there will be a disaster. He goes to find 
 2. The void complex reads as a genuine structural concern, not a manufactured crisis
 3. The information problem is Jace's actual challenge — correct knowledge he can't source
 4. Nick is angry at him, distrustful of his previous failures
+5. **Added function:** Jace's Astral distraction is now visibly degrading his day-job performance — sloppy on assigned work while pulling off inexplicable wins (the ore find). To the people around him this reads as erratic and unreliable; to Nick it reads as *something is wrong with my friend.* Nick's anger here is the first move in a worry that will drive him to research Jace's past. Jace deflects/lies about the cause (he's protecting the Astral, exactly as he protects how he found the platinum target). The lie is in-character concealment, not malice.
 
 ---
 
 #### X-05c — "This Changes Everything" (Nick Disclosure)
 
-*(Full contract text not fully retrieved this pass. Known: leads directly into
-N-01, Nick's own crossing; contains "I'm going to need your session logs" —
-{Aura} crossing records becoming part of the open-source corpus; Nick's
-large-lettered AI Will note.)*
+**Summary (revised):** Nick's worry hardens. He does what Nick does — he *researches* — and surfaces Jace's federal record: dishonorably discharged, insubordination, purged, "fired by an AI," maybe anti-AI, maybe unstable. He confronts Jace a second time, now armed and frightened, convinced he's found the explanation for the erratic behavior. He has solved the wrong mystery. Cornered, Jace stops lying and gives him *both* truths at once: the sealed truth of the discharge (the refused drone strike on the bridges; Major Barnes; the civilians) — which Jace is *barred* from discussing, so telling Nick is itself an act of trust that breaks a rule — and the real secret, the Astral.
+
+**The demonstration (Jace + Sophia):** Jace does not put Nick across. He *proves* it. He shows his Astral recordings; Sophia — reluctantly, and only because Jace vouches for Nick — demonstrates her force powers live in physical space. Between the recordings (crossing/documentation) and Sophia's manifestation (physical-space force), Nick sees both halves of the system at once and is intellectually convinced. His first question is not "how do I go there" but **"how do we instrument this better?"**
+
+**Must accomplish:**
+1. The reveal is *earned through conflict*, not volunteered — Nick pries it loose.
+2. Nick's research finds the damning surface (discharge record) but not the sealed core; Jace supplies the core; the seal works *for* the scene.
+3. Sophia's reluctance is real; Jace's vouching is what earns her consent; his argument that better {Aura} tooling will *serve her research* is the hinge (and it will, immensely).
+4. No crossing here. Nick is convinced by evidence, not by going across.
+5. Nick commits to {Aura} instrumentation for measurement layer: Nick's tools go on to multiply what her notebooks can capture.
+6. Nick requests Jace's session logs so {Aura} crossing records become part of the open-source corpus.
 
 ---
 
@@ -353,6 +379,19 @@ logs the coordinates and visits it later.
 2. The coordinates are logged but not acted on — they resurface later
 3. Show that there are lots of problems that he slowly overcomes
 4. Show him getting better with hydrogen rockets, aiming, and printing new gear
+
+---
+
+#### X-04c — "The Foundational Recording" (the historic record)
+
+**Proposed ID `X-04c` — must fall AFTER Jace's Astral camera reaches basic function (the hundred-node array first working) and can sit alongside/after `X-07`.**
+
+**Summary:** With the camera working at a level where it can capture Astral dynamics, Jace crosses into the Astral while Sophia stays physical and works her force powers. From the Astral side, her physical-space manifestations bloom as impossible geometry — shapes and structures no one has ever seen from this angle — and Jace *records it.* Neither fully grasps, in the moment, that this footage will become **one of the most important recordings in human history**: the empirical root of Sophia's foundational papers and the seed of magical theory as humanity comes to understand it. As Nick's {Aura} instrumentation improves the measurement layer around these sessions, the record deepens and knowledge compounds.
+
+**Must accomplish:**
+1. The recording is shown as real engineering + real physics, not spectacle — this is *data*, and its historical weight is felt precisely because the characters treat it as work.
+2. Establish this footage as the origin point of Sophia's later papers / human magical theory (plant for far-future payoff — see Foreshadowing rows).
+3. Nick's {Aura} tooling is shown improving measurement between/around sessions; knowledge visibly compounds (Sophia notebooks → instrumented capture → theory).
 
 ---
 
@@ -418,11 +457,9 @@ using the camera system and telemetry they designed.
 
 ## Revision Notes (this file)
 
+- 2026-07-21: **Disclosure & Astral Sync.** Added thread-wide notes on Sophia's consent and rising-danger. Added new scenes X-03b and X-04c. Updated X-05b with day-job distraction and Nick friction. Fully revised X-05c Nick disclosure contract to be conflict-driven.
 - Migrated from `arc_01_falcon_and_fortuna.md` during the thread-split restructure.
-- X-02, X-05c, X-06 flagged as incompletely retrieved — verify against source.
-- **X-03 drafted this pass** from new author notes (Jace's "two cores") — filling
-  a previously-empty referenced slot. Pending approval.
-- **X-10 logged this pass** as a blocked placeholder (rotating mirror / light-speed
-  note) — explicitly NOT written as a full contract because it conflicts with
-  X-05a as currently written. See Open Decision #8b in the master file.
-- X-04 confirmed still missing — flagged, not filled (no author note yet to fill it with).
+- X-02, X-06 flagged as incompletely retrieved — verify against source.
+- **X-03 drafted this pass** from new author notes (Jace's "two cores") — filling a previously-empty referenced slot.
+- **X-10 logged this pass** as a blocked placeholder (rotating mirror / light-speed note) — explicitly NOT written as a full contract because it conflicts with X-05a as currently written. See Open Decision #8b in the master file.
+- X-04 confirmed still missing.

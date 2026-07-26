@@ -174,6 +174,16 @@ made after the Nick disclosure, make the instances generate more Will — which 
 them brighter to Astral fauna. The engine of the open-source decision has a cost
 the characters haven't calculated yet.
 
+**The Sealed Discharge.** Jace was dishonorably discharged over a refused drone strike
+on a set of bridges (civilian-casualty projection); the American Red purge hung a
+trumped-up insubordination charge on it; the true mission is **sealed** and Jace is
+barred from discussing it. The reader learns it in fragments.
+- **Plant:** Thread T — Jace shuts down probes; "kicked out, won't say why" established.
+- **Escalate:** Nick's worry → research surfaces the damning *record* (not the sealed core).
+- **Payoff:** `X-05c` — cornered, Jace confesses the core to Nick (breaking the seal as
+  an act of trust) alongside the Astral reveal.
+- **Rule:** never state the bridges plainly in early prose; fragments only until `X-05c`.
+
 ---
 
 ## Open Mysteries
@@ -189,7 +199,7 @@ the characters haven't calculated yet.
 | Are there more Tick-Maws on the station or docked ships? | Partial | Three sweeps done; no systematic survey of all docked vessels yet |
 | What drove the Scavenging Queen to Fortuna specifically? | Open | Ecological drift or something pushing the swarm inward? Kael has an opinion she does not share yet |
 | How many nests remain in the Fortuna asteroid? | Open | Jin cleared eleven; the swarm had to originate somewhere larger |
-| What does the Queen's orb do to Sophia long-term? | Partial | [Force Application] L4 established; whether the Queen's Will has lasting character effects is unresolved |
+| What does the Queen's orb do to Sophia long-term? | Partial | [Force Application] L2 established; whether the Queen's Will has lasting character effects is unresolved |
 | Are the station's "sabotage" data-gap reports connected to Astral crossings? | Open | Station-wide AI reads them as security incidents; only Jace's personal {Aura}, post-install, reframes his own gaps correctly |
 | **NEW — Why does Jace have two glowing cores?** | Open | Sophia's misreading (faster crossing, better pulls) vs. the truth (Tick-Maw egg). Payoff: S-02b egg removal; full explanation deferred to Arc 2, Kael's Template assessment. |
 | **NEW — Does light actually move slower in the Astral/Hyperspace?** | Unresolved — conflicts with X-05a | See Open Decision #8. Not yet safe to treat as canon. |
@@ -249,6 +259,10 @@ list as complete.)*
 | Jin and Jace: "I know" / the water quality grievance | P-08 | The beginning of something real between them; Yáo's sacrifice builds on this |
 | Kim's scowl, unexplained | A-03 | Migraines revealed via Astral sight; resolution (her Will manifestation) deferred to a future arc |
 | Torres's dread near the scratched asteroid | A-04 | His death in the swarm battle lands harder for the reader having seen his fear pay off as real instinct |
+| Thread T: Jace won't discuss the discharge | `X-05c`: the bridges confessed to Nick |
+| `X-04c`: Jace records Sophia's manifestations | Far-future: Sophia's foundational papers / human magical theory |
+| Escalating fauna (Tick-Maw → Bloated Maw → Queen) | `S-01`: the swarm — the two curves collide, closing Act 1 |
+| `X-05c`: Nick commits to {Aura} instrumentation | Knowledge-compounding: better measurement → faster theory (and Nick's swarm relay) |
 
 ---
 

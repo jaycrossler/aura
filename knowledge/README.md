@@ -5,7 +5,7 @@ type: readme
 status: canonical
 description: >
   Main repository documentation and directory list for the {Aura} Chronicles project knowledge base.
-last_updated: 2026-06-26
+last_updated: 2026-07-21
 cross_references:
   - "[[MASTER-SYNOPSIS]]"
   - "[[VISUAL_PROFILE_SYSTEM_INSTRUCTIONS]]"
@@ -15,10 +15,12 @@ cross_references:
 A working repository for a hard sci-fi novel series set in the late 21st–early 22nd century,
 in a solar system on the cusp of magical transformation.
 
-**Book 01** (*Fortuna*, working title) follows Jace Grant — a decorated U.S. military drone
-operator who arrives on Mars certain of his future, receives a career-ending medical diagnosis
-on Day 2, spends four months in quiet collapse, acquires a dog named Cerberus, and departs
-on the *Falcon* as a civilian contractor with a secret intelligence arrangement.
+**Book 01** (*Fortuna*, working title) follows Jace Grant — a U.S. military drone operator
+who arrives on Mars certain of his future, only to be summarily discharged in a political
+purge — one of thousands cut when the American Red party takes power — over a strike order
+he refused and is now barred from discussing. He spends four months in quiet collapse,
+acquires a dog named Cerberus, and departs on the *Falcon* as a civilian contractor with a
+secret intelligence arrangement.
 
 ---
 
@@ -128,7 +130,7 @@ on the *Falcon* as a civilian contractor with a secret intelligence arrangement.
 - [[event_rich_comms_favor|Scene — Rich's Comms Favor for Jace]]
 
 **Choreography / Blocking**
-- [[choreo_event_jace_doctor_appointment|Scene Choreography — The Doctor's Office (Medical Discharge)]]
+- [[choreo_event_jace_doctor_appointment|Scene Choreography — The Doctor's Office (Discharge Discovery)]]
 - [[choreo_event_jace_gym_arrival|Scene Choreography — First Gym Session on Mars]]
 - [[choreo_event_jace_mars_tour_with_rich|Scene Choreography — Mars Terminal Arrival & Walking Tour with Rich]]
 

@@ -73,7 +73,7 @@ Officially, Mars Command stands for the defense of the 56th State, the preservat
 ## Military and Security Capabilities
 
 Mars Command utilizes advanced technology to project power across the Martian surface:
-- **Drone Fleets:** Thousands of automated atmospheric and surface drones that maintain a constant surveillance grid over the U.S. sector. Jace Grant was a decorated commander of these fleets before his medical discharge.
+- **Drone Fleets:** Thousands of automated atmospheric and surface drones that maintain a constant surveillance grid over the U.S. sector. Jace Grant was a decorated commander of these fleets before his dishonorable discharge.
 - **MilX Implants:** Military personnel are augmented with advanced neural HUD implants that stream real-time telemetry, targeting data, and tactical overrides.
 - **Orbital Relays:** The Space Force controls a network of surveillance satellites that monitor the surface and coordinate with inner-system relays.
 
@@ -84,7 +84,7 @@ Mars Command utilizes advanced technology to project power across the Martian su
 
 ## Story Function
 
-Mars Command serves as the institutional backdrop that shapes Jace Grant's early life and skills. His Air Force training, drone-operator competence, and HUD-augmented reflexes are products of this faction. After Jace's medical discharge, the intelligence branch (via {Mr. Sylvester}) becomes his shadow sponsor, offering to reactivate his HUD and clear his debts in exchange for reporting on anomalies in the belt. This intelligence arrangement links Jace to the active operative {Mei} and drags him into the heart of the magical outbreak.
+Mars Command serves as the institutional backdrop that shapes Jace Grant's early life and skills. His Air Force training, drone-operator competence, and HUD-augmented reflexes are products of this faction. After Jace's dishonorable discharge in the political purge, the intelligence branch (via {Mr. Sylvester}) becomes his shadow sponsor, offering to reactivate his HUD and clear his debts in exchange for reporting on anomalies in the belt. Recruiting a disgraced, disaffected officer whose HUD is reactivated in civilian-contractor mode reads as a classic deniable-asset play. Sylvester operates as a quiet old-guard holdout, out of step with the American Red administration, valuing precisely a deniable contact who is unemployable elsewhere. This intelligence arrangement links Jace to the active operative {Mei} and drags him into the heart of the magical outbreak.
 
 ## Open Questions
 

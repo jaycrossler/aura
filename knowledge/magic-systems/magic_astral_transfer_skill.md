@@ -178,15 +178,11 @@ a fully operational AI system — is an open question. The Bloom will have opini
 ## The Sophia Comparison (Canonical)
 
 Sophia is a significantly stronger practitioner than Jace across most dimensions:
-deeper Will reserve, more developed perception, [Force Application] at L3,
+deeper Will reserve, more developed perception, [Force Application] at L2,
 [Far Sight] at L2. Her [Astral Transfer] is L1 — functional for her own kit and
 nothing more.
 
-This is a specialization asymmetry, not a failure. Sophia prioritized understanding
-the Astral over moving things through it. Her seventeen notebooks represent a depth
-of observational capability Jace doesn't have. Her [Force Application] at L3 makes
-her genuinely dangerous in ways he isn't. [Astral Transfer] is simply not the skill
-tree she developed.
+This is a specialization asymmetry, not a failure. Sophia prioritized understanding the Astral over moving things through it. Her seventeen notebooks represent a depth of observational capability Jace doesn't have. Her [Force Application] at L2 makes her genuinely dangerous in ways he isn't — reliable and combat-functional, with the L3 ceiling still visibly ahead of her. [Astral Transfer] is simply not the skill tree she developed.
 
 The gap between them in this specific skill is what makes the partnership work:
 he brings things across that she cannot; she maps the space and kills things he

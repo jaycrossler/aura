@@ -1,10 +1,11 @@
 ---
 
+
 description: "Working outline detailing early scenes, backstory, and structural notes for Book 1's opening."
 id: scenes_book01_opening_notes
 title: Book 1 — Opening Notes and Sketches
 status: pre-draft
-last_updated: 2026-07-19
+last_updated: 2026-07-21
 ---
 
 # Book 1 — Opening Notes
@@ -20,6 +21,8 @@ Before the reader meets Jace:
 - Jace has just completed a four-month voyage from Earth to Mars aboard the *Pinta* — crowded, dirty, uncomfortable. 150 people in a ship not designed for pleasure. He spent the entire journey recovering from HUD implant surgery (which he had a short time before boarding) and cramming Air Force drone operations courses. He barely noticed the discomfort.
 - His HUD implant is a current-generation advanced military unit with confidential upgrades. He has been augmented for several months by the time he arrives at Mars but is still genuinely new to the device — calibration occasionally surprises him; he is still learning what to suppress and what to invite.
 - He arrives on Mars excited, decorated, and certain of his future.
+- Six months before Mars, as a drone C2 officer running a fleet from a safe operations center, Jace refused an order to strike a series of bridges (unacceptable civilian cost) and retasked the fleet, sinking an expensive operation. His supervisor, Major Barnes, backed him. He arrived on Mars believing the system had worked.
+- Jace has a pre-existing, genetic bone condition the military has quietly managed for years (medication + low-g). It is not new information to him; it is not why he is discharged.
 
 ---
 
@@ -37,9 +40,14 @@ The Mars arrival arc has expanded from the original two-chapter sketch into a lo
 6. **The messages home.** Late evening. Family video calls — Dawn and Chris in Virginia, Athena at college. Failed call to Artemis at Metis. (`event_jace_messages_home.md`)
 7. **Closing image.** Jace at his quarters window. Supernova bright. He sleeps well.
 
-### Day Two — The Medical Checkout
+### Day Two — The Discharge (reframed 2026-07-21)
 
-8. **The doctor's appointment.** The pivot. Bone disease diagnosis. Mars-okay, Earth-no. Athena cleared (small mercy). Artemis screening blocked by degraded comms. HUD deactivated. Million-credit debt. Thirty days to vacate. (`event_jace_doctor_appointment.md`)
+> The old "medical diagnosis on Day 2" pivot is retired. The bone condition is
+> pre-existing and service-managed; it is not the reason he's discharged. The reason is
+> political and sealed. The doctor scene survives only as flashback fodder (now in
+> `scenes/non-canonical-ideas/`).
+
+8. **The discovery beat.** Jace goes in for a routine med-refill appointment. The doctor mentions his condition and asks, matter-of-factly, how he intends to pay for the medication now that he's been discharged. That is how Jace learns he's out: *"Wait. What discharge?"* The American Red purge has processed him administratively — one of thousands cut that day — on a trumped-up insubordination charge tied to a mission he cannot discuss. HUD deactivated. College debt reverts in full; meds now unsubsidized. (flashback fodder — scene TBD)
 9. **Walk back through the base.** Quiet. Ninety minutes of corridor walking before he reaches his quarters.
 
 ### The Hard Months (Compressed Sequence)

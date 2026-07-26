@@ -42,7 +42,7 @@ After the Smuggler has flagged Jace for the emergency slot and crash certificati
 
 5. **Jace tries to push back.** He counters that he is willing, that he can train, that his discipline compensates. He does not realize that the rep has already framed the conversation around Jace's deficiencies rather than Origin's desperation.
 
-6. **The offer.** A figure that sounds large to Jace but is structured to back-load almost all meaningful payment to the end of ten years. Upfront stipend, monthly draws, bulk on completion. If he washes out, he gets nothing.
+6. **The offer.** A figure that sounds large to Jace but is structured to back-load almost all meaningful payment to the end of five years. Upfront stipend, monthly draws, bulk on completion. If he washes out, he gets nothing.
 
 7. **The HUD-less negotiation.** Jace does mental math without his {Aura}. He doesn't have access to Origin's standard rates. He doesn't know that emergency replacements on a high-value run typically command 25-40% premium over baseline. He says he'd like to think about it.
 

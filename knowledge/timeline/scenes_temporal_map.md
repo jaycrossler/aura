@@ -32,7 +32,7 @@ This file maps every scene to its position in time, showing absolute dates, time
 | **Ch01** | scene_02c_jace_drone_center_tour | Drone control center tour | Day 1 ~16:00 | draft |
 | **Ch01** | scene_02d_jace_commander_welcome | Base commander welcome | Day 1 ~17:30 | sketch |
 | **Ch02** | scene_03_jace_gym_arrival_with_messages | Gym session + multitasking messaging home (Jelly/Jinx mentioned, Artemis sends fail) | Day 2 ~08:00–12:00 | pre-draft |
-| **Ch02** | scene_04_jace_doctor_appointment | Doctor's appointment / discharge | Day 2 ~12:00–13:30 | pre-draft |
+| **Ch02** | scene_04_jace_doctor_appointment | The discharge discovery (routine med appointment; "What discharge?") | Day 2 ~12:00–13:30 | pre-draft |
 | **Ch03** | scene_06a_jace_bar_rumors_first | First bar visit (~1 week post-discharge) | ~early 2105-04 | pre-draft |
 | **Ch03** | scene_06b_rich_comms_favor | Rich's comms favor for Jace | ~early-mid 2105-04 | sketch |
 | **Ch03** | scene_06c_jace_bar_rumors_recurring | Bar visits 2–3 (escalating rumors) | ~mid 2105-04 → early 2105-05 | pre-draft |
@@ -192,13 +192,13 @@ His face appears, to anyone looking, to be staring forward in concentration. He 
 **Time gap to next scene:** Hours-to-days off-page processing → days/weeks before the first bar visit
 
 **Continuity flags:**
-- Bone disease — now canon for all future scenes
-- Mars-okay-Earth-no — permanent body constraint
+- Pre-existing bone condition — service-managed until now; becomes a financial burden once coverage ends (NOT the cause of discharge)
+- Discharge is political/dishonorable — American Red purge; trumped-up insubordination over the sealed bridge-strike refusal; one of thousands cut that day
+- He is barred from discussing the mission — reader learns the truth in fragments
 - 30-day vacate clock — runs from this date
-- 1M credit debt — implicit, will become explicit as Jace processes
-- Genetic implication — sisters need screening
+- 1M credit debt — college debt reverts in full; meds now unsubsidized
 - Rich's role transition — sponsor → friend
-- The Colonel's grace — establishes him as honorable
+- **Structural flag:** whether this Mars sequence plays on-page (as mapped here) or as transit flashbacks (per the `arc_01` restructure) is an OPEN decision — see review queue
 
 ---
 

@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-07-21
 description: >
   Scene contracts for Thread N — Nick's disclosure and the open-source decision;
   the AI systems thread. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -23,16 +23,17 @@ cross_references:
 
 ---
 
-#### N-01 — Nick's Crossing / Disclosure
+#### N-01 — Nick's Crossing
 
-*(Full contract text not fully retrieved this pass — verify against source.)*
+**Summary:** Nick's one crossing happens at the swarm (`S-01`). Jace + Sophia + Cerberus **pull** Nick across. It is extremely draining for all of them and no one enjoys it. Nick's ~90 seconds inside produce the coordinate relay to Jin. He ends on the floor of a junction room.
 
-**Known elements:**
-1. Nick's crossing is authentic — he processes fast, ninety seconds is enough, floor
-2. "That's not what I'm worried about" — his concern is strategic, not personal
-3. His disclosure reasoning is different from Sophia's and equally legitimate
-4. Jace's disagreement with Nick's approach is real and unresolved — first real
-   friction in the friendship, transition from purely-social to working-relationship
+**Aftermath:** Nick *can* technically cross again, but it leaves him sick and scared. He chooses to engineer everything so he never has to, and he does **not** invest in `[Astral Transfer]`. His "never go back" is resolve and strategy, not phobia (sheet: "he will go again if it is necessary").
+
+**Must accomplish:**
+1. Nick's crossing is authentic — he processes fast, ninety seconds is enough, ends on the floor of a junction room.
+2. "That's not what I'm worried about" — his concern is strategic, not personal.
+3. The pull mechanic: Jace + Sophia + Cerberus pull Nick across. It is extremely draining for all of them.
+4. Jace's disagreement with Nick's approach is real and unresolved — first real friction in the friendship, transition from purely-social to working-relationship.
 
 ---
 
@@ -117,5 +118,5 @@ cream; no one was actually burned.
 
 ## Revision Notes (this file)
 
+- 2026-07-21: **Nick's Crossing Sync.** Reframe N-01 to focus purely on Nick's single crossing (split from disclosure, which happens at X-05c).
 - Migrated from `arc_01_falcon_and_fortuna.md` during the thread-split restructure.
-- N-01 flagged as incompletely retrieved — verify against source.

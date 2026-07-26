@@ -1,16 +1,25 @@
 ---
+
 description: "Scene detailing Jace's emotional and physical decline after a doctor's appointment on Mars."
 id: event_jace_doctor_appointment
-title: The Doctor's Office — Jace's Medical Discharge
+title: The Doctor's Office — Jace's Discharge Discovery (Deprecated)
 type: scene
 status: pre-draft (emotional beats / structural sketch)
 book: Book 1
 chapter: TBD (Act One climax / first major turning point)
 pov: Jace Grant
 date_in_universe: early 2105 (day after Mars arrival)
-last_updated: 2026-04-30
+last_updated: 2026-07-21
 canonical: false
 ---
+
+> > **REFRAME NOTE (2026-07-21):** This scene is retained as *flashback fodder only.* In
+> > current canon Jace's discharge is political (American Red purge over a sealed
+> > bridge-strike refusal), not medical. The bone condition is pre-existing and
+> > service-managed and does NOT bar Earth. Reusable pieces: the doctor's office setting,
+> > the HUD-deactivation beat, Jace's military-cadence-under-stress voice. The new
+> > discovery beat is the doctor asking how he'll pay now he's discharged → *"Wait. What
+> > discharge?"* Do not treat the medical-diagnosis-as-inciting-incident framing as canon.
 
 # Scene — The Doctor's Office
 

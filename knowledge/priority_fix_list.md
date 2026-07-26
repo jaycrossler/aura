@@ -1,6 +1,6 @@
 ---
 
-last_updated: 2026-07-19
+last_updated: 2026-07-21
 ---
 # Priority List of Things to Fix & Open Questions
 
@@ -87,6 +87,7 @@ This checklist tracks logical and narrative tests from the story arc documents t
 
 ## 4. Resolved Issues
 
+- **Discharge Reframe & Political Purge (2026-07-21):** Reframed Jace's discharge from Mars Command from medical/honorable to political/dishonorable (the American Red party purge over a refused bridge strike). Genetic bone condition remains as an economic burden once military health coverage ends. Scrubbed medical/honorable framing everywhere. Added Major Barnes, the American Red party, and the hidden federal overwatch AI `{Eagle}`. Converted Nick's disclosure to be conflict-driven and happen on-station; Nick's single crossing now happens at the swarm (`S-01`) pulled by the team. Canonized Sophia's `[Force Application]` level at L2.
 - **Delivery Guy Reframe & Origin Logistics (2026-07-19):** Jace reframed from drone operator to over-qualified fulfillment contractor (5-year contract). Resolved by adding [[tech_origin_logistics]] and updating character/scene/thread files.
 - **Falcon Majordomo AI (2026-07-19):** Replaced braces `{Falcon}` references with the non-AI dumb majordomo (no braces) and added [[tech_falcon_majordomo]].
 - **Kael's Swarm Battle Presence (2026-07-19):** Reconciled Thread S scratch notes contradiction; ruled Kael is present at the swarm battle under occultation (S-02b).

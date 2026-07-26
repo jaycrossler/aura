@@ -81,19 +81,9 @@ residual, not active). Not someone who has thought about his appearance recently
 
 ---
 
-## The Bone Disease — Background
+## The Bone Condition — Background
 
-Jace was honorably discharged from the USAF on Mars for a medical condition: his
-anti-radiation medication (taken prophylactically for Mars exposure) interacts with
-his bone density over time, making his bones increasingly brittle. The prognosis for
-returning to Earth's full gravity well is poor — the combination of brittle bones and
-full-g loading could be permanently damaging. He exercises obsessively, not for
-aesthetics, but because he wants to be strong enough to survive going home if he ever
-has the chance. This makes him sad and anxious in a way he doesn't discuss. Observers
-see the obsessiveness; they rarely see the grief under it.
-
-The military no longer has Veterans Affairs or equivalent benefits in this era. He is
-on his own.
+Jace was dishonorably discharged from the USAF on Mars in the American Red political purge. The discharge stripped his military healthcare, turning a pre-existing, service-managed bone condition into a ruinous private financial burden. Low gravity eases it; Earth's gravity accelerates it, and without meds he cannot return home. He exercises obsessively, not for aesthetics, but because he wants to keep his bones strong enough to survive Earth gravity if he can ever afford the medication to go home. This makes him sad and anxious in a way he doesn't discuss. Observers see the obsessiveness; they rarely see the grief under it.
 
 ---
 
@@ -107,7 +97,7 @@ exercises. A bulky compression suit he wears when running the ring to add loadin
 He pushes himself to the point of exhaustion, then drinks water and — when his budget
 allows — coffee.
 
-**Yoga:** He does stretches that approximate yoga because his bone disease benefits
+**Yoga:** He does stretches that approximate yoga because his bone condition benefits
 from sustained mobility work. He has noted that unlike how yoga is supposed to work,
 instead of clearing his mind, he reorders his task list. He considers this the most
 productive part of his day. He is doing yoga wrong, probably. It still helps.

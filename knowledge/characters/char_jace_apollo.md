@@ -41,10 +41,10 @@ appearance_summary: appearance_summary: 27, 6'1" (not 6'0"), caucasian white (Vi
 distinguishing_features: First-generation cybernetic HUD implant (visible scar at temple), Air Force pilot's posture even out of uniform, the kind of looks he doesn't realize he has.
 
 # Story Function
-archetypes: [reluctant frontiersman, fish out of water, naive idealist, eventual mage, the pretty nerd]
-character_arc: identity-loss-and-rebuilding; rationalist confronts mystery; needs-to-be-needed boy learns who he actually is
-themes_embodied: [stripped identity, frontier reinvention, the rigid mind learning to bend, attractiveness as a thing he doesn't wield]
-last_updated: 2026-07-15
+archetypes: [reluctant frontiersman, fish out of water, disgraced idealist, eventual mage, the pretty nerd]
+character_arc: identity-loss-and-rebuilding; rationalist confronts mystery; needs-to-be-needed boy learns who he actually is — the injustice that unmakes him is real but not clean (he did break the chain of command and sink a mission; no cartoon villains)
+themes_embodied: [stripped identity, frontier reinvention, the rigid mind learning to bend, attractiveness as a thing he doesn't wield, moral courage and its price, no clean villains, the debt that never shrinks]
+last_updated: 2026-07-21
 sheets:
   - sheet_jace_arc01_start
   - sheet_jace_arc01_end
@@ -52,6 +52,8 @@ cross_references:
   - "[[sheet_jace_arc01_start]]"
   - "[[sheet_jace_arc01_end]]"
   - "[[char_dawn_chris_grant]]"
+  - "[[char_major_barnes]]"
+  - "[[faction_united_states_military_intelligence]]"
   - "[[char_sister_athena]]"
   - "[[char_mr_sylvester]]"
   - "[[char_hayes]]"
@@ -68,15 +70,15 @@ cross_references:
 
 ## Summary
 
-Jace Apollo Grant is a recently-discharged United States Air Force officer who arrived at Fortuna Station after his career and identity collapsed on Mars. He has a five-year Origin Industries contract, a reactivated HUD running in civilian-contractor mode, a dog named Cerberus, a best friend he met through gaming, and — after a night that changes everything — knowledge of a dimension that no human has entered in three thousand years.
+Jace Apollo Grant is a dishonorably discharged United States Air Force drone officer who arrived at Fortuna Station after his career collapsed on Mars. He carries a five-year Origin Industries debt-contract that isn't shrinking the way he was promised, a HUD reactivated in civilian-contractor mode, a degenerative bone condition he can no longer afford to treat, a dog named Cerberus, a best friend he met through gaming, and — after a night that changes everything — knowledge of a dimension no human has entered in three thousand years.
 
-He is not yet the protagonist his story will require. He is competent, loyal, and brave in narrow military senses, but rigid, sheltered, and naive about almost everything outside that frame. The story will break and remake him.
+The reason for his discharge is sealed. He is not permitted to discuss it, and mostly doesn't; the people around him know only that the military threw him out, not why. He is emphatically **not** a chosen one — he is a competent, over-qualified man with a checkered record, brave in one narrow moment that cost him everything, and sheltered and naive about almost everything else. The story will break and remake him.
 
 ---
 
 ## Background — Mars Arc
 
-*(Full detail below. Summary: Air Force officer, prestigious Mars posting, degenerative bone disease diagnosed at checkout, honorably discharged with one million credits in debt and no way home. Hard months of gig work. Signs a five-year belt contract with Cerberus on the manifest. Departs for Fortuna aboard the *Falcon*.)*
+*(Full detail below. Summary: Air Force drone officer, prestigious Mars posting; six months after refusing a drone strike on a set of bridges he is dishonorably discharged in the American Red purge — a trumped-up insubordination charge he is barred from discussing — one of thousands cut in a day. A pre-existing, service-managed bone condition becomes a private financial burden once his coverage ends; he owes roughly one million credits and is disgraced but not physically barred from home. Hard months of gig work. Signs a five-year belt contract with Cerberus on the manifest. Departs for Fortuna aboard the *Falcon*.)*
 
 ---
 
@@ -325,7 +327,7 @@ This is his first experience of the Astral creating tangible benefit for the peo
 
 ## Full Mars Background
 
-*(The following sections are reproduced from prior versions. Content unchanged.)*
+*(Reframed 2026-07-21: discharge cause changed from medical to political. Prior medical-discharge material is retained only as flashback fodder — see review-queue.)*
 
 ### Background
 
@@ -333,17 +335,33 @@ Born in Virginia to a comfortable middle-class family — Dawn and Chris Grant, 
 
 Showed early aptitude for systems thinking and mathematics; recruited into Air Force ROTC in college on a scholarship that did not fully cover tuition, leaving him with substantial student debt by graduation. Commissioned as a second lieutenant and specialized in drone command and control. Selected for the Mars Detachment of the U.S. Air Force after a competitive process. The cybernetic HUD implant — a current-generation advanced military unit with confidential upgrades — is provided as part of his role.
 
+### The Bridge Order (Six Months Before Mars)
+
+Jace's last real assignment before Mars was a drone command-and-control tasking run from an operations center far from the theater — climate-controlled, safe, remote. He was never in the fight in any way his body would recognize; he flew a fleet through a screen. It was not classified as a combat posting, and he did not think of himself as being at war.
+
+He was ordered to drop a series of bridges. Reading the take from his own drones, he judged the strike would kill an unacceptable number of civilians. He refused the order and retasked the fleet elsewhere. The refusal caused a large, expensive operation to fail.
+
+His supervisor, **Major Barnes**, backed the call. For six months Jace believed the system had worked exactly as it was supposed to: he had done the right thing, and the right thing had been protected. He felt good about it.
+
+Both of these are true at once, and the story never lets either off the hook: Jace was right about the civilians, **and** he broke the chain of command and sank a costly mission that other people were depending on. The order was not cartoonishly evil. The people who later punished him were not, from where they stood, being villains. This is the shape of the whole series in miniature — competing goods, real costs, no clean bad guy.
+
+**Disclosure status:** sealed. Under the terms of what follows, Jace is barred from discussing the mission, and largely honors that. In-story the discharge reason is a blank the reader fills in slowly, from fragments. Do not state it plainly in early prose.
+
 ### Arrival on Mars
 
-Jace arrives on Mars at peak golden-boy confidence — tall, blond, fit, decorated, and certain. His sponsor, Lt. Rich Cullivan, picks him up at the shuttle pad and drives him through the U.S. Mars settlement. Jace tours the drone control center and feels the genuine thrill of having arrived somewhere that matters. He sleeps well. The medical checkout is in the morning.
+The *Pinta* delivered Jace to Mars six months later at peak golden-boy confidence — decorated, certain, sure of the posting ahead of him.
 
-### The Discharge
+In those six months, the political ground had moved under him. The **American Red party** took power back on Earth: hyper-capitalist, prizing speed, growth, and control, and a heavy user of AI across governance and administration. Its logic is coherent and, on its own terms, defensible — an institution that can't move fast when told to move is a liability, and the party set about removing liabilities at scale. Personnel judged unreliable or slow to follow orders were discharged administratively, in bulk, processed by AI. Jace was one of **thousands** cut on a single day.
 
-The medical checkout finds a degenerative bone disease — a recently-classified condition, genetic in origin, with no known cure. On Mars, with daily exercise and the lower gravitational load, he will be functionally fine for a long time. On Earth, where bone load is more than twice as high, the disease would accelerate catastrophically. Five to ten years on Earth and his bones would begin failing.
+His charge was insubordination — trumped-up, but hung on a real hook: the bridges. From the administration's vantage this was not malice. It was housekeeping.
 
-He is honorably discharged. Two years of twenty served means only 10% of his college debt is covered. He owes approximately **one million credits**. No return berth is provided. He has thirty days to vacate base housing.
+He did not see it coming. **(Discovery beat — flashback fodder, scene TBD:** he goes in for a routine medical appointment; the doctor mentions his condition and asks, matter-of-factly, how he intends to pay for treatment now that he's discharged. That is how Jace learns he is out of the military. *"Wait. What discharge?"* Flag for scene rework — see review-queue.)
 
-The HUD is a further wound. It is a confidential military-grade unit that cannot be left in civilian hands. He watches the overlay go dark during the discharge meeting.
+The consequences cascade. A dishonorable discharge closes engineering work to him. It strips his military healthcare — which turns his bone condition from a managed footnote into a financial wound. And the education debt he had expected the service to clear reverts to him in full.
+
+The HUD is pulled at discharge — a confidential military-grade unit that cannot be left in civilian hands. He watches the overlay go dark during the meeting.
+
+**The bone condition, reframed.** It is real, genetic, and degenerative — and it is *manageable* with medication. Low gravity eases it; Earth's gravity accelerates it. With his meds he could live almost anywhere, Earth included. The problem was never really his bones; the problem is that the meds are now his to pay for, at a price he can't meet. So "can't go home" is no longer biology. It is money and disgrace: he could set foot on Earth, but he can't afford to live there and would not be welcome if he did.
 
 ### The Hard Months
 
@@ -351,11 +369,11 @@ Jace spends the following weeks on the margins of the U.S. Mars settlement takin
 
 The Rat — a small-time fixer at the launch facility — becomes an unlikely lifeline. He flags Jace for an emergency slot on an upcoming asteroid run when a contracted animal handler abruptly broke his agreement.
 
-His parents offer to sell their Virginia horse farm to pay his debt. He refuses. He cannot let his parents sell the farm, sell Jinx, lose the place Athena would come home to. The refusal sharpens him in a way nothing else has. It drives him to accept the Origin Industries contract — bad terms, dangerous work — as the only path that pays the debt without his parents' sacrifice. The deeper irony, which he doesn't quite say to himself: the bone disease means he will never see the farm again. He is preserving a home he has already lost.
+His parents offer to sell their Virginia horse farm to pay his debt. He refuses. He cannot let his parents sell the farm, sell Jinx, lose the place Athena would come home to. The refusal sharpens him in a way nothing else has. It drives him to accept the Origin Industries contract — bad terms, dangerous work — as the only path that pays the debt without his parents' sacrifice. The deeper irony, which he doesn't quite say to himself: nothing physical keeps him from the farm anymore. What keeps him away is the ledger and the shame — the debt he won't hand to his parents, and the discharge he can't explain to anyone, least of all to them. On top of it all, the meds bleed him every month, a slow drain underneath the big debt. He is preserving a home he could technically return to and can't bring himself to.
 
 ### The Origin Negotiation
 
-Jace's interview with Origin Industries is a contract conversation he loses without understanding he is losing it. Without his HUD, he is operating mentally slow while a smooth representative frames the conversation around his deficiencies. The compensation offer back-loads almost all meaningful payment to the end of a ten-year contract.
+Jace's interview with Origin Industries is a contract conversation he loses without understanding he is losing it. Without his HUD, he is operating mentally slow while a smooth representative frames the conversation around his deficiencies. The contract is **five years**, its pay heavily back-loaded — most of the real money sits at the far end. Jace signs believing he'll clear the debt on schedule. He won't. He keeps making it worse: the mistakes accumulate, the penalties nibble, and the balance refuses to shrink the way the projection promised. The debt stops being a number he's paying down and becomes a permanent weather system he lives under — a low background dread that colors every decision about equipment, risk, and pride.
 
 Scrambling for leverage, Jace asks if Origin can include Cerberus on the manifest. The rep agrees. Jace walks out feeling he held his ground. The reader knows what he doesn't — the rep just closed roughly 200,000 credits below what Jace could have gotten. *"That's probably the most expensive dog in human history."*
 
@@ -376,6 +394,8 @@ interview. His availability got him the job.
 Mr. Sylvester — head of U.S. military intelligence at the Mars Detachment — makes Jace an offer. He does **not** identify any specific person. The ask is general: stay reachable as a cooperative contact in the belt, pass along anything useful, and be willing to assist an asset who approaches him with a particular recognition signal, no questions asked. In return: his HUD is reactivated under a civilian-contractor designation — the military-grade firmware partially restored, his apps, games, courseware, and media library returned.
 
 The HUD piece is what sells it. He agrees. He is also genuinely inclined to help. He has not yet learned that "be helpful to your country's intelligence service" can mean very different things in different contexts. He will later come to regret this.
+
+That U.S. military intelligence would reactivate a *dishonorably* discharged officer's HUD at all is its own small tell. **(Flag — Sylvester's alignment: proposed default is an old-guard holdout, quietly out of step with the American Red administration, who values precisely a disaffected, deniable asset. Unconfirmed — see review-queue.)**
 
 What Jace does **not** know: the asset is the quiet Chinese woman he'll share four months of transit with. To him, Mei is just another settler bound for Fortuna — unmemorable, terse, fine with animals. The asymmetry is total and it runs the other way from what he assumes: she knows everything about him; he doesn't know there's anything to know. When he eventually learns who she is, it will reframe the entire voyage in retrospect.
 
@@ -444,6 +464,7 @@ Jace boards the *Falcon*, bound for Fortuna Station. Five-year contract. Reactiv
 
 ## Revision Notes
 
+- 2026-07-21: **Major background reframe.** Discharge cause changed honorable/medical → dishonorable/political (American Red purge; trumped-up insubordination hung on a refused drone strike on bridges; Major Barnes backed the refusal). Bone disease reframed from a physical can't-go-home constraint into an economic burden (meds no longer subsidized; Earth is affordable-and-welcome, not biologically barred). Discharge reason now sealed/undiscussable; revealed to the reader in fragments. Debt reframed as a non-shrinking 5-year Origin obligation. Height/weight confirmed 6'1"/180. "No clean villains" theme established at the character level. Supersedes prior medical-discharge material, which survives only as flashback fodder. Downstream sync + sheet correction pending.
 - 2026-04-28: Initial draft from synopsis discussions.
 - 2026-04-28: Major update — family detail, Mars arrival arc, discharge mechanics, menial labor, smuggler contact, Mei/Sylvester intel deal, Pinta voyage, Falcon departure.
 - 2026-04-30: Major update — disease, appearance, personality, HUD, Cerberus naming and negotiation.
