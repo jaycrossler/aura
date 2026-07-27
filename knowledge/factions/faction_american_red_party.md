@@ -15,6 +15,7 @@ cross_references:
   - "[[faction_united_states_mars]]"
   - "[[faction_united_states_military_intelligence]]"
   - "[[faction_origin_industries]]"
+  - "[[timeline_disclosure_political_response]]"
 ---
 
 # The American Red Party

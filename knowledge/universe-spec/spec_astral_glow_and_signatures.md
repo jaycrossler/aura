@@ -128,6 +128,16 @@ structures. In the Astral during early crossings, before she develops her skill
 suite, her signature is the calmest human glow in the local space — an oasis of
 organized green against the messier signatures around her.
 
+**Cerberus (Mars-Bred Companion Dog)**
+Warm Amber and Bronze, shifting toward deep burnished gold when active or alert.
+As a Will-bonded creature, Cerberus's glow mirrors Jace's base color family while
+retaining an organic, non-geometric shape. The structure is soft and rounded, lacking
+the hard architectural lines of human cognition, but bright and steady.
+Canine Astral perception operates differently from human visual processing: Cerberus
+registers Astral signatures as an aura-scent and thermal gradient rather than geometric
+light, allowing him to track intent, emotional shifts, and hidden presences before
+human practitioners notice them.
+
 ---
 
 ## Layer 2 — Emotional State Overlays

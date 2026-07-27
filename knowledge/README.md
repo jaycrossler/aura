@@ -9,6 +9,9 @@ last_updated: 2026-07-21
 cross_references:
   - "[[MASTER-SYNOPSIS]]"
   - "[[VISUAL_PROFILE_SYSTEM_INSTRUCTIONS]]"
+  - "[[timeline_master]]"
+  - "[[magic_progression_signals_guide]]"
+  - "[[priority_fix_list]]"
 ---
 # StoryOps — The {Aura} Chronicles
 

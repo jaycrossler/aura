@@ -17,9 +17,12 @@ era: early belt expansion era
 
 # Status
 status: active
-current_owner: Origin Industries / belt consortium
-current_location: in transit (Mars to Fortuna Station, Book 1)
-fate: ongoing
+canonical: true
+last_updated: 2026-07-27
+cross_references:
+  - "[[ship_livestock_ferry_class]]"
+  - "[[visual_profile_ship_falcon]]"
+---
 
 # Physical Specifications (revised — bicycle-wheel architecture)
 architecture: spine / 3 spokes / ring (Omphalos configuration)

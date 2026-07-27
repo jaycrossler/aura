@@ -5,7 +5,24 @@ description: "Working outline detailing early scenes, backstory, and structural 
 id: scenes_book01_opening_notes
 title: Book 1 — Opening Notes and Sketches
 status: pre-draft
-last_updated: 2026-07-21
+last_updated: 2026-07-27
+cross_references:
+  - "[[draft_ch00_prologue_helena]]"
+  - "[[draft_ch01_departure]]"
+  - "[[draft_ch02_morning_rounds]]"
+  - "[[draft_ch03_afternoon_workshop]]"
+  - "[[draft_ch04_plumbing_crisis]]"
+  - "[[draft_ch05_morning_after_debrief]]"
+  - "[[draft_ch06_learning_mode]]"
+  - "[[draft_ch07_artemis_call_canister]]"
+  - "[[draft_ch08_arrival_day]]"
+  - "[[draft_ch09_first_week]]"
+  - "[[draft_ch10_first_drone_shift]]"
+  - "[[draft_ch11_survey_trip]]"
+  - "[[draft_ch14_down_to_the_asteroid]]"
+  - "[[event_x00a_astral_awakening]]"
+  - "[[event_x00b_sophia_cafeteria]]"
+  - "[[scene_notes_ai_interactions]]"
 ---
 
 # Book 1 — Opening Notes

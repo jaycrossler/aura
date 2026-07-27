@@ -64,6 +64,9 @@ cross_references:
   - "[[char_sophia_lotte]]"
   - "[[char_mei]]"
   - "[[char_jin_luong]]"
+  - "[[tech_aura_ai]]"
+  - "[[visual_profile_jace_apollo]]"
+  - "[[voice_char_jace_apollo]]"
 ---
 
 # Jace Apollo Grant
@@ -367,7 +370,7 @@ The HUD is pulled at discharge — a confidential military-grade unit that canno
 
 Jace spends the following weeks on the margins of the U.S. Mars settlement taking whatever work he can find. Cleaning algae vats. Fixing wiring. Working in a restaurant. A one-time gig at Pangu (where the food was free — the Chinese government's provision model a starkly different shape from the American model in Terminus, and Jace registers the difference without knowing what to do with it). The gigs do not pay enough.
 
-The Rat — a small-time fixer at the launch facility — becomes an unlikely lifeline. He flags Jace for an emergency slot on an upcoming asteroid run when a contracted animal handler abruptly broke his agreement.
+The Rat — a small-time fixer at the launch facility — becomes an unlikely lifeline. He flags Jace for an emergency slot on an upcoming asteroid run when a team of chinese miners and animal handlers abruptly broke their agreement to move to Fortuna.
 
 His parents offer to sell their Virginia horse farm to pay his debt. He refuses. He cannot let his parents sell the farm, sell Jinx, lose the place Athena would come home to. The refusal sharpens him in a way nothing else has. It drives him to accept the Origin Industries contract — bad terms, dangerous work — as the only path that pays the debt without his parents' sacrifice. The deeper irony, which he doesn't quite say to himself: nothing physical keeps him from the farm anymore. What keeps him away is the ledger and the shame — the debt he won't hand to his parents, and the discharge he can't explain to anyone, least of all to them. On top of it all, the meds bleed him every month, a slow drain underneath the big debt. He is preserving a home he could technically return to and can't bring himself to.
 

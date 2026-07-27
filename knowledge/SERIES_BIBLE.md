@@ -7,11 +7,18 @@ last_updated: 2026-06-26
 description: >
   Series-level creative constitution for The Aura Chronicles. Covers the core progression model, magic design principles, narrative laws, tonal laws, the nomenclature thread, and things to avoid across all 10–20 books. This document is the highest-level creative authority; arc files are legislation that interprets it; the universe-spec files are the physics it operates within.
 cross_references:
-  - [[progression_review_guide]]
-  - [[magic_skills_framework]]
-  - [[spec_astral_phenomenology]]
-  - [[magic_cultural_schools]]
-  - [[faction_galactic_species_index]]
+  - "[[progression_review_guide]]"
+  - "[[magic_skills_framework]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[magic_cultural_schools]]"
+  - "[[faction_galactic_species_index]]"
+  - "[[faction_galactic_will_networks]]"
+  - "[[tech_ai_architecture_comparison]]"
+  - "[[timeline_master]]"
+  - "[[arc_03_the_return_and_the_trap]]"
+  - "[[arc_04_the_bloom]]"
+  - "[[arc_05_the_reckoning]]"
+  - "[[priority_fix_list]]"
 ---
 # The Aura Chronicles — Series Bible
 

@@ -65,4 +65,3 @@ The humans are forced to relearn basic management, logistics, and drone piloting
 - [[tech_seek_ai]] (The Chinese compliance AI, destroyed during the swarm)
 - [[location_fortuna_station]] (The station's physical layout and demographics)
 - [[arc_01_falcon_and_fortuna]] (The swarm attack that damages the AI cores)
-- [[priority_fix_list]] (Tracking the resolution of this missing file)

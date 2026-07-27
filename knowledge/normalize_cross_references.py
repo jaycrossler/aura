@@ -208,7 +208,10 @@ def main():
         print(f"  ... and {len(changed_files) - 20} more")
 
     if broken_report:
-        print("\n⚠️  Broken references (target file not found — needs human review):")
+        try:
+            print("\n⚠️  Broken references (target file not found — needs human review):")
+        except UnicodeEncodeError:
+            print("\n[WARNING] Broken references (target file not found — needs human review):")
         for rel, broken in broken_report:
             print(f"  {rel}: {', '.join(broken)}")
 

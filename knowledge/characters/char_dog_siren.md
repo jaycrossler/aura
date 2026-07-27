@@ -26,7 +26,7 @@ factions: [faction_belter_stations (de facto)]
 loyalties: [the Falcon crew broadly; Fortuna Station livestock team; everyone who feeds her]
 
 # Relationships
-human_bond_primary: senior animal handler (TBD) → later, the station's livestock supervisor
+human_bond_primary: [Jace, Mei]
 human_bond_secondary: [Jace, the broader crew, eventually the whole station]
 animal_bond_primary: char_cerberus (her brother — littermate)
 family: [unnamed mother (died during or shortly after giving birth), char_cerberus (brother, littermate)]

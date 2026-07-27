@@ -1,6 +1,5 @@
 ---
-
-last_updated: 2026-07-21
+last_updated: 2026-07-27
 ---
 # Priority List of Things to Fix & Open Questions
 
@@ -15,28 +14,14 @@ This section organizes the universe's unresolved details, narrative forks, and d
 ### High Priority (Arc 1 / Book 1 — The Falcon & Fortuna Transit)
 *These questions directly impact the immediate Book 1 scenes, characters, and initial mechanical limits, ordered chronologically.*
 
-- **Helena's Prologue Death (from [event_helena_prologue.md](file:///D:/Projects/aura/knowledge/scenes/event_helena_prologue.md)):** How does Helena die in the dark? What does she discover before dying that precipitates her crossing?
-- **First {Aura} Conversation (from [scene_book01_transit_vignettes](file:///D:/Projects/aura/knowledge/scenes/book01-transit-vignettes.md) / [scene_notes_ai_interactions.md](file:///D:/Projects/aura/knowledge/scenes/scene_notes_ai_interactions.md)):** What is Jace's partition environment like? What specifically is said in Jace's first conversation with {Aura} during HUD installation over the comms lag during early transit?
-- **Falcon Transit Vignettes Details (from [scene_book01_transit_vignettes](file:///D:/Projects/aura/knowledge/scenes/book01-transit-vignettes.md)):**
-  - Who is the senior animal handler/livestock breeder on the ship, and what is their relationship with Jace?
-  - What are the official/manifest names of the heifer and Smiley the pig vs Jace's personal ones?
-  - When exactly does the lost-animal scene happen (before or after the first major anomaly)?
-- **HUD Headaches & Dreams (from [book01-ch01-morning-round.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch01-morning-round.md) / [book01-ch01-afternoon-workshop.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch01-afternoon-workshop.md)):** What are the details of the crystal tunnel dreams? How are Jace's HUD headaches managed by Lanchee in the medical files before the plumbing crisis?
-- **Falcon Plumbing/Propellant Crisis (from [book01-ch02-plumbing-crisis.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch02-plumbing-crisis.md)):** Which two berths are iced (pig + small-animal), and is Siren's pen among them? What is the exact contaminant (reserve propellant/water+argon)? How is Jace told his actions will violate Origin's contract before he proceeds?
-- **Learning Mode Sewage Fumble (from [book01-ch02b-learning-mode.md](file:///D:/Projects/aura/knowledge/scenes/book01-ch02b-learning-mode.md)):** What is the exact placement of Chapter 2b relative to Chapter 2? Is Nick watching live feeds from the ship and referencing the fumble in real time across the shrinking comms lag?
-- **Suzi's Background & Role (from [char_suzi.md](file:///D:/Projects/aura/knowledge/characters/char_suzi.md)):** What is Suzi's surname and specific military background? Is she read into the station's suppressed anomaly history or kept in the dark by Origin management?
-- **Cerberus's Will-Glow Color (from [spec_astral_glow_and_signatures.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_astral_glow_and_signatures.md)):** What color is Cerberus's Will-glow? (Author input needed).
-- **Sleep Mask Scrubber Lifetime (from [spec_crossing_mechanics.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_crossing_mechanics.md)):** What is the exact scrubber lifetime of the standard belt sleep mask (4-8 hours)?
-- **AlphaCorp Integration (from [faction_alphacorp](file:///D:/Projects/aura/knowledge/factions/faction_alphacorp.md)):** What is AlphaCorp's physical presence in the belt? Who are the named characters in Book 1-3 scope? Does the belt see ad-supported service tiers?
 - **Workshop Automation Cascades (from [arc_01_thread_T_transit](file:///D:/Projects/aura/knowledge/arcs/arc_01_thread_T_transit.md)):** Which early workshop scene will show Jace's minor ArmBot automation cascade before the plumbing crisis?
 - **Epigraph Pattern Audit (from [scenes_book01_opening_notes](file:///D:/Projects/aura/knowledge/scenes/book01-opening-notes.md)):** Perform an audit of epigraphs across ch00-ch14 after Sophia's pattern-break in X-00b. Do we want 1-2 more breaks?
+- **Station Commander Identity & Position:** Who is the station commander at Fortuna Station, and how do they balance corporate Origin demands against frontier station survival?
 
 ### Medium Priority (Arc 2 — The Woven & Dungeon Emergence)
 *These questions affect the Woven first contact, early dungeons on Earth/Mars, and the Metis Station rescue.*
 
-- **Dungeon Systems & Guardians (from [spec_dungeon_systems.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_dungeon_systems.md)):** Which specific dungeon types are active in the solar system, and what were their original purposes? What are the dungeon guardian types?
-- **Kael's Sibling Count and Names (from [arc_05_the_reckoning.md](file:///D:/Projects/aura/knowledge/arcs/arc_05_the_reckoning.md)):** How many siblings does Kael have, what are their names/titles, and who is the oldest/most dangerous?
-- **Eugene's AI Will Framework (from [char_eugene.md](file:///D:/Projects/aura/knowledge/characters/char_eugene.md)):** What are the details of Eugene's theoretical framework for AI Will? What specifically is he modifying in the core engine for Will-transit?
+- **Dungeon Systems & Guardians (from [spec_dungeon_systems.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_dungeon_systems.md)):** Which specific dungeon types are active in the solar system beyond the ~3,200 YA candidate-testing outposts?
 - **Will-Bonded Animals (from [spec_will_bonded_animals.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_will_bonded_animals.md)):** Will Cerberus's bond formalize in Arc 3? Does Kai bond with anyone while Kael is held?
 - **Silicon-Class Manifestations (from [magic_cryptids_silicon.md](file:///D:/Projects/aura/knowledge/magic-systems/magic_cryptids_silicon.md)):** Do Silicon-class manifestations (Glass-Vine) have intelligence, communication, or purpose? Can the Hollow Miners be recovered?
 
@@ -46,7 +31,7 @@ This section organizes the universe's unresolved details, narrative forks, and d
 - **Naming Conventions & The Nomenclature Thread (from [SERIES_BIBLE.md](file:///D:/Projects/aura/knowledge/SERIES_BIBLE.md)):** Check the alignment of the bracketed `[Skill]` notation across the series. Ensure that brackets do not appear in any drafted prose set before Jace establishes them in Arc 2. At what point, if ever, does Jace's taxonomy become adoptable outside the belt?
 - **The "Apollo" Working (from [spec_cognitive_layer.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_cognitive_layer.md)):** What was the major Cognitive Layer working performed in Sol ~3,200 years ago? Why does "Apollo" command Kael's attention?
 - **AI Cognitive Layer & Templates (from [spec_cognitive_layer.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_cognitive_layer.md)):** Do AI systems have Templates in the Cognitive Layer? What self-referential tasks maximize Will generation?
-- **The Bloom's Vulnerability (from [faction_the_bloom.md](file:///D:/Projects/aura/knowledge/factions/faction_the_bloom.md)):** What is the Bloom's vulnerability to fire? How many Bloom arrive in the solar system, and what is their authority structure?
+- **The Bloom's Vulnerability (from [faction_the_bloom.md](file:///D:/Projects/aura/knowledge/factions/faction_the_bloom.md)):** How many Bloom arrive in the solar system, and what is their exact authority structure?
 - **Woven Response Force (from [arc_04_the_bloom.md](file:///D:/Projects/aura/knowledge/arcs/arc_04_the_bloom.md)):** What is the composition of the Woven response force mobilizing in response to Kael's Will message?
 
 ---
@@ -87,6 +72,15 @@ This checklist tracks logical and narrative tests from the story arc documents t
 
 ## 4. Resolved Issues
 
+- **Cerberus's Will-Glow & Canine Astral Perception (2026-07-27):** Defined Cerberus's glow as Warm Amber/Bronze (mirroring Jace's base color family in an organic, non-geometric form). Documented canine Astral perception operating as an aura-scent and thermal gradient rather than human visual geometries.
+- **Suzi Gonzales Background & Anomaly Access (2026-07-27):** Confirmed ex-USAF Space Command Security Forces background; established that Origin management keeps her strictly unread into station anomaly archives.
+- **Sleep Mask Scrubber Envelope (2026-07-27):** Reconciled scrubber lifetime to 6 hours nominal (4–8 hour envelope based on metabolic rate).
+- **Falcon Transit Medical & Plumbing Details (2026-07-27):** Clarified Lanchee's medical scrubber prescription for Jace's HUD headaches, specified pig + small-animal iced berths, reserve water-argon coolant leak contaminant, and automated contract violation warning from {Alex}.
+- **Comms Lag Transmission Texture (2026-07-27):** Defined shrinking 12-to-4 minute comms delay operating via batch telemetry transfers rather than real-time feeds.
+- **Earth/Mars Dungeon Purpose & Guardians (2026-07-27):** Documented Earth and Mars emergence dungeons as ~3,200 YA candidate-testing and containment nodes protected by automated Titan-Forge lithoid construct guardians.
+- **Eugene's AI Will Core Engine Algorithm (2026-07-27):** Documented Eugene Hart's recursive self-referential loop algorithm in `{Aura}` core engine.
+- **Kael's Family & Sael (2026-07-27):** Established Kael's 3 siblings and her oldest sibling Sael (rigid Woven Protocol Enforcer).
+- **Helena's Prologue Death Framing (2026-07-27):** Resolved as an unseen locked-room Astral disappearance during Sophia's birthday party (established in [[event_helena_prologue]]).
 - **Discharge Reframe & Political Purge (2026-07-21):** Reframed Jace's discharge from Mars Command from medical/honorable to political/dishonorable (the American Red party purge over a refused bridge strike). Genetic bone condition remains as an economic burden once military health coverage ends. Scrubbed medical/honorable framing everywhere. Added Major Barnes, the American Red party, and the hidden federal overwatch AI `{Eagle}`. Converted Nick's disclosure to be conflict-driven and happen on-station; Nick's single crossing now happens at the swarm (`S-01`) pulled by the team. Canonized Sophia's `[Force Application]` level at L2.
 - **Delivery Guy Reframe & Origin Logistics (2026-07-19):** Jace reframed from drone operator to over-qualified fulfillment contractor (5-year contract). Resolved by adding [[tech_origin_logistics]] and updating character/scene/thread files.
 - **Falcon Majordomo AI (2026-07-19):** Replaced braces `{Falcon}` references with the non-AI dumb majordomo (no braces) and added [[tech_falcon_majordomo]].

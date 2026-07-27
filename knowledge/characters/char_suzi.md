@@ -1,5 +1,6 @@
 ---
 
+
 description: "Character profile for Suzi, Fortuna Station chief of security and investigative ally."
 id: char_suzi
 name: Suzi Gonzales
@@ -13,11 +14,12 @@ status: alive
 first_appearance: Book 1, Fortuna arrival arc (Helena investigation)
 pov_character: false
 recurring: true (Fortuna authority figure / investigative ally)
-last_updated: 2026-07-04
+last_updated: 2026-07-27
 
 # Affiliations
 role: Fortuna Station chief of security / station police (de facto — small frontier force)
-former_affiliations: United States Army (retired; Security Forces sergeant, Earth-stationed)
+former_affiliations: United States Air Force Space Command (retired; Security Forces sergeant)
+last_updated: 2026-07-27
 
 # Relationships
 allies: [char_jace_apollo (grows to trust him), char_nick_lee (relies on his network data)]
@@ -94,9 +96,12 @@ Suzi is not a Jace-support appliance. She is keeping a fragile frontier town saf
 - Treats fear as a fact to be managed, not indulged.
 - Allergic to people who are certain about things they can't possibly know.
 
+## Resolved Decisions
+
+- **Station Anomaly History**: Origin management keeps Suzi strictly in the dark regarding the station's suppressed anomaly records and previous disappearances, treating her as a local civilian law enforcement buffer rather than a corporate security insider. (Ruled 2026-07-27.)
+
 ## Open Questions
 
-- Whether she is read into the station's suppressed anomaly history, or is being kept in the dark by Origin management.
 - How and when she crosses from "stumped" to "willing to entertain the impossible."
 - Her relationship to the (TBD) Station Commander and to Origin's preference for quiet.
 

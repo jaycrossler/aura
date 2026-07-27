@@ -50,10 +50,18 @@ cross_references:
   - "[[location_fortuna_station]]"
   - "[[spec_astral_phenomenology]]"
   - "[[spec_crossing_mechanics]]"
-  - "[[spec_dimensional_travel_mechanics]]"
   - "[[magic_breach_crossers_transient]]"
   - "[[magic_astral_transfer_skill]]"
   - "[[spec_threat_escalation]]"
+  - "[[arc_01_thread_N_nick_ai]]"
+  - "[[location_the_scar_never_never]]"
+  - "[[timeline_book01_incursions]]"
+  - "[[tech_aura_ai]]"
+  - "[[tech_sleep_masks]]"
+  - "[[draft_ch01_departure]]"
+  - "[[draft_ch04_plumbing_crisis]]"
+  - "[[draft_ch08_arrival_day]]"
+  - "[[priority_fix_list]]"
 ---
 
 # Arc 1 — The Falcon and Fortuna

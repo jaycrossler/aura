@@ -9,6 +9,18 @@ description: >
   Greek mythic names used as Earth-facing labels — preserved distorted field reports from
   ancient contact events. Individual species have their own faction files.
 canonical: true
+cross_references:
+  - "[[faction_the_bloom]]"
+  - "[[faction_mirror_crowned]]"
+  - "[[faction_naga_houses]]"
+  - "[[faction_raksha_courts]]"
+  - "[[faction_vetala_residua]]"
+  - "[[faction_titan_forge]]"
+  - "[[faction_long_soverignties]]"
+  - "[[faction_anzu_clades]]"
+  - "[[faction_fey_clients]]"
+  - "[[faction_outsider_scouts]]"
+  - "[[faction_galactic_will_networks]]"
 ---
 
 # Nearby Galactic Civilians — Species Index

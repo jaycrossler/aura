@@ -226,6 +226,24 @@ Whenever the user places files into the `knowledge/to_merge/` directory to sugge
 7. **Final Staged Cleanup**:
    - **CRITICAL**: Delete the files inside `to_merge/` and remove the `to_merge/` directory itself **ONLY** after all edits have been fully applied, verified, and the user has confirmed approval.
 
+## Periodic Knowledge Base Maintenance Workflow
+
+Periodically (or when asked to perform a KB audit or maintenance pass), execute the following maintenance routine:
+
+1. **Audit `priority_fix_list.md`**:
+   - Re-prioritize open questions and design decisions strictly by narrative timeline order (Arc 1 → Arc 2 → Arcs 3–5).
+   - Filter out low-priority trivia (e.g., minor manifest names or incidental flavor details) to keep focus on load-bearing plot, character, and mechanical decisions.
+   - Audit the source files for any items listed in `priority_fix_list.md` or obvious plot/logic gaps. Update the source files with confirmed rulings, and move resolved items to the "Resolved Issues" section of `priority_fix_list.md`.
+
+2. **Audit and Link Orphaned Files**:
+   - Inspect the `### Orphaned Files` list in `_index.md`.
+   - Identify files that lack incoming cross-references and add Obsidian wiki-links (`[[stem]]`) to the `cross_references:` frontmatter of relevant parent hub files (e.g., `faction_galactic_species_index.md`, `SERIES_BIBLE.md`, `README.md`, `magic_overview.md`, `tech_ai_architecture_comparison.md`, `arc_01_falcon_and_fortuna.md`, `scenes/book01-opening-notes.md`, `review-queue/review_queue.md`, `VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md`, and character/location files).
+   - This ensures all domain content is woven cleanly into the Obsidian knowledge graph and prevents content duplication or stale information.
+
+3. **Normalize Links and Rebuild Index**:
+   - Run `python normalize_cross_references.py` in `knowledge/` to standardize cross-reference formatting across all markdown files.
+   - Run `python build_tree.py` in `knowledge/` to regenerate `_index.md` and verify that the `Orphaned Files` and broken reference warnings are resolved.
+
 ## Session Start Behavior
 
 At the start of a new conversation, briefly note what's in the staging area if anything carried over, or confirm the stage is empty. Check `_index.md` for arc files relevant to what the user wants to work on. Then ask what they want to work on.

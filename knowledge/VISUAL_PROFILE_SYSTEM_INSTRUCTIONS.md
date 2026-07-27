@@ -1,5 +1,18 @@
 ---
-last_updated: 2026-06-28
+id: visual_profile_system_instructions
+name: Visual Profile System Instructions
+type: system_instruction
+status: canonical
+last_updated: 2026-07-27
+cross_references:
+  - "[[visual_profile_cerberus_and_siren]]"
+  - "[[visual_profile_fortuna_station]]"
+  - "[[visual_profile_jace_apollo]]"
+  - "[[visual_profile_jin_long]]"
+  - "[[visual_profile_kael]]"
+  - "[[visual_profile_nick_lee]]"
+  - "[[visual_profile_ship_falcon]]"
+  - "[[visual_profile_sophia_lotte]]"
 ---
 
 ## FILES IN THIS SYSTEM

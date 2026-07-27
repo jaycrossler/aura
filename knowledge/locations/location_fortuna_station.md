@@ -21,7 +21,13 @@ rings: three parallel rotating rings on a common spine (Ring Three under constru
 ring_radius: ~100 m
 artificial_gravity: ~1/3 g (≈0.33g), constant, at roughly ~1.7 RPM at 100 m radius
 canonical: true
-last_updated: 2026-06-30
+last_updated: 2026-07-27
+cross_references:
+  - "[[location_belt_visual_prompt_library]]"
+  - "[[location_the_scar_never_never]]"
+  - "[[tech_everyday_robotics_and_ai]]"
+  - "[[tech_space_materials_and_fabrication]]"
+  - "[[visual_profile_fortuna_station]]"
 
 # Fleet and Associated Vessels
 associated_vessels: 20-30 small ships and exploration platforms (various companies and mining groups)

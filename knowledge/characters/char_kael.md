@@ -38,7 +38,7 @@ years integrating into the galactic Will-Network. She arrived in the solar syste
 expecting ruins. She found a lighthouse.
 
 She is junior by her civilization's standards. Three hundred years old is not old when
-Template vaulting has been available for millennia. She volunteered for this assignment
+Template vaulting has been available for millennia. She is the youngest of three siblings in a high-ranking Woven lineage; her oldest sibling, Sael, is a rigid, formidable Woven Protocol Enforcer who represents the primary ideological threat within her family network. She volunteered for this assignment
 because the Scar over the solar system had unusual dimensional signatures that senior
 scouts found uninteresting. She expected a milk run through a dead zone. She got first
 contact with humanity.

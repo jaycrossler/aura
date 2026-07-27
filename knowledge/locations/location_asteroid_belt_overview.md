@@ -6,7 +6,10 @@ type: region
 status: actively_settled_frontier
 era: late 21st century onward
 canonical: true
-last_updated: 2026-06-30
+last_updated: 2026-07-27
+cross_references:
+  - "[[tech_cyclers]]"
+  - "[[tech_nuclear_ferries]]"
 ---
 
 # The Asteroid Belt (Overview)

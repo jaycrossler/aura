@@ -34,7 +34,7 @@ romantic: TBD — possibly; history to develop
 magic_user: possible — Metis is highest-flux; he has been there longer than almost anyone; he either has abilities developing or has been too busy to notice
 notable_skills:
   - Core AI architecture (the {Aura} engine; he built it; he knows what it does at a level nobody else does)
-  - Theoretical framework for AI Will interaction (most advanced in the solar system)
+  - Theoretical framework for AI Will interaction (developed the recursive self-referential loop algorithm in the {Aura} core engine that enables artificial intelligence to generate structured higher-dimensional Will)
   - Physical survival under emergence conditions (Metis crew have been fighting for months)
   - Being right about things in ways that make it very hard to like him
   - Surviving situations where, by reasonable calculation, he should not survive

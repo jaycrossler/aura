@@ -17,9 +17,11 @@ cross_references:
   - "[[char_jin_luong]]"
   - "[[tech_seek_ai]]"
   - "[[concept_aura_ai_system]]"
----
-
 # Thread N — Nick / AI
+
+### Comms Lag & Transmission Texture
+- Communications between Mars/ship and Fortuna operate under shrinking light-speed delay (12 minutes at departure down to 4 minutes near Fortuna arrival).
+- Nick and Jace do not have instantaneous voice/video calls; they exchange compressed telemetry batches, game logs, and asynchronous video clips. Nick's commentary on ship events (including the Learning Mode sewage fumble) arrives in delayed batches.
 
 ---
 

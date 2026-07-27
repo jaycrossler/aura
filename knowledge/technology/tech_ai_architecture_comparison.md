@@ -4,8 +4,12 @@ id: tech_ai_architecture_comparison
 name: "AI Architecture Comparison: Centralized vs. Distributed"
 type: technology_specification
 status: canonical
-last_updated: 2026-06-25
+last_updated: 2026-07-27
 era: story present
+cross_references:
+  - "[[tech_aura_ai]]"
+  - "[[tech_misty_ai]]"
+  - "[[tech_eagle_ai]]"
 ---
 
 # AI Architecture Comparison: Centralized vs. Distributed

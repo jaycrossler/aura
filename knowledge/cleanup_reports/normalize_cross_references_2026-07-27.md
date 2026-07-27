@@ -1,5 +1,5 @@
 ---
-last_updated: 2026-07-15
+last_updated: 2026-07-27
 ---|
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
@@ -21,10 +21,18 @@ last_updated: 2026-07-15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 | `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
 | `"[[magic_astral_transfer_skill]]"` | `[[magic_astral_transfer_skill]]` |
 | `"[[spec_threat_escalation]]"` | `[[spec_threat_escalation]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
+| `"[[location_the_scar_never_never]]"` | `[[location_the_scar_never_never]]` |
+| `"[[timeline_book01_incursions]]"` | `[[timeline_book01_incursions]]` |
+| `"[[tech_aura_ai]]"` | `[[tech_aura_ai]]` |
+| `"[[tech_sleep_masks]]"` | `[[tech_sleep_masks]]` |
+| `"[[draft_ch01_departure]]"` | `[[draft_ch01_departure]]` |
+| `"[[draft_ch04_plumbing_crisis]]"` | `[[draft_ch04_plumbing_crisis]]` |
+| `"[[draft_ch08_arrival_day]]"` | `[[draft_ch08_arrival_day]]` |
+| `"[[priority_fix_list]]"` | `[[priority_fix_list]]` |
 
 ### `arcs\arc_01_thread_A_arrival.md`
 
@@ -132,6 +140,14 @@ last_updated: 2026-07-15
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 | `"[[char_erin]]"` | `[[char_erin]]` |
 
+### `characters\char_cerberus.md`
+
+| Before | After |
+|---|---|
+| `"[[tech_dogs_space_adapted]]"` | `[[tech_dogs_space_adapted]]` |
+| `"[[visual_profile_cerberus_and_siren]]"` | `[[visual_profile_cerberus_and_siren]]` |
+| `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
+
 ### `characters\char_dog_siren.md`
 
 | Before | After |
@@ -171,6 +187,8 @@ last_updated: 2026-07-15
 | `"[[sheet_jace_arc01_start]]"` | `[[sheet_jace_arc01_start]]` |
 | `"[[sheet_jace_arc01_end]]"` | `[[sheet_jace_arc01_end]]` |
 | `"[[char_dawn_chris_grant]]"` | `[[char_dawn_chris_grant]]` |
+| `"[[char_major_barnes]]"` | `[[char_major_barnes]]` |
+| `"[[faction_united_states_military_intelligence]]"` | `[[faction_united_states_military_intelligence]]` |
 | `"[[char_sister_athena]]"` | `[[char_sister_athena]]` |
 | `"[[char_mr_sylvester]]"` | `[[char_mr_sylvester]]` |
 | `"[[char_hayes]]"` | `[[char_hayes]]` |
@@ -181,6 +199,9 @@ last_updated: 2026-07-15
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[char_mei]]"` | `[[char_mei]]` |
 | `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
+| `"[[tech_aura_ai]]"` | `[[tech_aura_ai]]` |
+| `"[[visual_profile_jace_apollo]]"` | `[[visual_profile_jace_apollo]]` |
+| `"[[voice_char_jace_apollo]]"` | `[[voice_char_jace_apollo]]` |
 
 ### `characters\char_kael.md`
 
@@ -209,6 +230,14 @@ last_updated: 2026-07-15
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
+
+### `characters\char_major_barnes.md`
+
+| Before | After |
+|---|---|
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[faction_american_red_party]]"` | `[[faction_american_red_party]]` |
+| `"[[faction_united_states_military_intelligence]]"` | `[[faction_united_states_military_intelligence]]` |
 
 ### `characters\char_maureen.md`
 
@@ -248,6 +277,33 @@ last_updated: 2026-07-15
 |---|---|
 | `"[[sheet_sophia_arc01_end]]"` | `[[sheet_sophia_arc01_end]]` |
 
+### `characters\non-canonical-ideas\char_lt_rich_cullivan.md`
+
+| Before | After |
+|---|---|
+| `"[[voice_char_lt_rich_cullivan]]"` | `[[voice_char_lt_rich_cullivan]]` |
+
+### `factions\faction_alphacorp.md`
+
+| Before | After |
+|---|---|
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[concept_ai_seams]]"` | `[[concept_ai_seams]]` |
+
+### `factions\faction_american_red_party.md`
+
+| Before | After |
+|---|---|
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_major_barnes]]"` | `[[char_major_barnes]]` |
+| `"[[tech_eagle_ai]]"` | `[[tech_eagle_ai]]` |
+| `"[[faction_united_states_mars]]"` | `[[faction_united_states_mars]]` |
+| `"[[faction_united_states_military_intelligence]]"` | `[[faction_united_states_military_intelligence]]` |
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[timeline_disclosure_political_response]]"` | `[[timeline_disclosure_political_response]]` |
+
 ### `factions\faction_china_belt_operations.md`
 
 | Before | After |
@@ -263,11 +319,44 @@ last_updated: 2026-07-15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
+### `factions\faction_galactic_species_index.md`
+
+| Before | After |
+|---|---|
+| `"[[faction_the_bloom]]"` | `[[faction_the_bloom]]` |
+| `"[[faction_mirror_crowned]]"` | `[[faction_mirror_crowned]]` |
+| `"[[faction_naga_houses]]"` | `[[faction_naga_houses]]` |
+| `"[[faction_raksha_courts]]"` | `[[faction_raksha_courts]]` |
+| `"[[faction_vetala_residua]]"` | `[[faction_vetala_residua]]` |
+| `"[[faction_titan_forge]]"` | `[[faction_titan_forge]]` |
+| `"[[faction_long_soverignties]]"` | `[[faction_long_soverignties]]` |
+| `"[[faction_anzu_clades]]"` | `[[faction_anzu_clades]]` |
+| `"[[faction_fey_clients]]"` | `[[faction_fey_clients]]` |
+| `"[[faction_outsider_scouts]]"` | `[[faction_outsider_scouts]]` |
+| `"[[faction_galactic_will_networks]]"` | `[[faction_galactic_will_networks]]` |
+
 ### `factions\faction_titan_forge.md`
 
 | Before | After |
 |---|---|
 | `"[[spec_magic_items_and_artifacts]]"` | `[[spec_magic_items_and_artifacts]]` |
+
+### `locations\location_asteroid_belt_overview.md`
+
+| Before | After |
+|---|---|
+| `"[[tech_cyclers]]"` | `[[tech_cyclers]]` |
+| `"[[tech_nuclear_ferries]]"` | `[[tech_nuclear_ferries]]` |
+
+### `locations\location_fortuna_station.md`
+
+| Before | After |
+|---|---|
+| `"[[location_belt_visual_prompt_library]]"` | `[[location_belt_visual_prompt_library]]` |
+| `"[[location_the_scar_never_never]]"` | `[[location_the_scar_never_never]]` |
+| `"[[tech_everyday_robotics_and_ai]]"` | `[[tech_everyday_robotics_and_ai]]` |
+| `"[[tech_space_materials_and_fabrication]]"` | `[[tech_space_materials_and_fabrication]]` |
+| `"[[visual_profile_fortuna_station]]"` | `[[visual_profile_fortuna_station]]` |
 
 ### `locations\location_mars_consumer_district.md`
 
@@ -305,6 +394,8 @@ last_updated: 2026-07-15
 | `"[[location_mars_us_afspace_force_base]]"` | `[[location_mars_us_afspace_force_base]]` |
 | `"[[location_mars_consumer_district]]"` | `[[location_mars_consumer_district]]` |
 | `"[[location_mars_fabrication_district]]"` | `[[location_mars_fabrication_district]]` |
+| `"[[location_mars_visual_prompt_library]]"` | `[[location_mars_visual_prompt_library]]` |
+| `"[[tech_dogs_space_adapted]]"` | `[[tech_dogs_space_adapted]]` |
 
 ### `locations\location_mars_us_afspace_force_base.md`
 
@@ -448,10 +539,11 @@ last_updated: 2026-07-15
 
 | Before | After |
 |---|---|
-| `"[[outbreak_timeline]]"` | `[[outbreak_timeline]]` |
 | `"[[magic_manifestations_early]]"` | `[[magic_manifestations_early]]` |
 | `"[[magic_will_implications]]"` | `[[magic_will_implications]]` |
 | `"[[spec_dungeon_systems]]"` | `[[spec_dungeon_systems]]` |
+| `"[[magic_returning_arts]]"` | `[[magic_returning_arts]]` |
+| `"[[magic_cryptid_species_reference]]"` | `[[magic_cryptid_species_reference]]` |
 
 ### `magic-systems\magic_progression_signals_guide.md`
 
@@ -522,24 +614,26 @@ last_updated: 2026-07-15
 | `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 
-### `scenes\book01-ch02-plumbing-crisis.md`
+### `scenes\book01-opening-notes.md`
 
 | Before | After |
 |---|---|
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
-| `"[[falcon_animal_manifest_book1]]"` | `[[falcon_animal_manifest_book1]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[book01-ch02b-learning-mode]]"` | `[[book01-ch02b-learning-mode]]` |
-
-### `scenes\book01-ch02b-learning-mode.md`
-
-| Before | After |
-|---|---|
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[book01-ch02-plumbing-crisis]]"` | `[[book01-ch02-plumbing-crisis]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
+| `"[[draft_ch00_prologue_helena]]"` | `[[draft_ch00_prologue_helena]]` |
+| `"[[draft_ch01_departure]]"` | `[[draft_ch01_departure]]` |
+| `"[[draft_ch02_morning_rounds]]"` | `[[draft_ch02_morning_rounds]]` |
+| `"[[draft_ch03_afternoon_workshop]]"` | `[[draft_ch03_afternoon_workshop]]` |
+| `"[[draft_ch04_plumbing_crisis]]"` | `[[draft_ch04_plumbing_crisis]]` |
+| `"[[draft_ch05_morning_after_debrief]]"` | `[[draft_ch05_morning_after_debrief]]` |
+| `"[[draft_ch06_learning_mode]]"` | `[[draft_ch06_learning_mode]]` |
+| `"[[draft_ch07_artemis_call_canister]]"` | `[[draft_ch07_artemis_call_canister]]` |
+| `"[[draft_ch08_arrival_day]]"` | `[[draft_ch08_arrival_day]]` |
+| `"[[draft_ch09_first_week]]"` | `[[draft_ch09_first_week]]` |
+| `"[[draft_ch10_first_drone_shift]]"` | `[[draft_ch10_first_drone_shift]]` |
+| `"[[draft_ch11_survey_trip]]"` | `[[draft_ch11_survey_trip]]` |
+| `"[[draft_ch14_down_to_the_asteroid]]"` | `[[draft_ch14_down_to_the_asteroid]]` |
+| `"[[event_x00a_astral_awakening]]"` | `[[event_x00a_astral_awakening]]` |
+| `"[[event_x00b_sophia_cafeteria]]"` | `[[event_x00b_sophia_cafeteria]]` |
+| `"[[scene_notes_ai_interactions]]"` | `[[scene_notes_ai_interactions]]` |
 
 ### `scenes\draft_ch00_prologue_helena.md`
 
@@ -663,6 +757,16 @@ last_updated: 2026-07-15
 | `"[[char_carlos]]"` | `[[char_carlos]]` |
 | `"[[char_kim]]"` | `[[char_kim]]` |
 
+### `scenes\event_t_forge_no_more_voices.md`
+
+| Before | After |
+|---|---|
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[tech_falcon_majordomo]]"` | `[[tech_falcon_majordomo]]` |
+| `"[[tech_origin_logistics]]"` | `[[tech_origin_logistics]]` |
+| `"[[faction_alphacorp]]"` | `[[faction_alphacorp]]` |
+
 ### `scenes\event_x00a_astral_awakening.md`
 
 | Before | After |
@@ -755,6 +859,23 @@ last_updated: 2026-07-15
 | `"[[event_jace_doctor_appointment]]"` | `[[event_jace_doctor_appointment]]` |
 | `"[[tech_communications_filtering]]"` | `[[tech_communications_filtering]]` |
 
+### `SERIES_BIBLE.md`
+
+| Before | After |
+|---|---|
+| `"[[progression_review_guide]]"` | `[[progression_review_guide]]` |
+| `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
+| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+| `"[[magic_cultural_schools]]"` | `[[magic_cultural_schools]]` |
+| `"[[faction_galactic_species_index]]"` | `[[faction_galactic_species_index]]` |
+| `"[[faction_galactic_will_networks]]"` | `[[faction_galactic_will_networks]]` |
+| `"[[tech_ai_architecture_comparison]]"` | `[[tech_ai_architecture_comparison]]` |
+| `"[[timeline_master]]"` | `[[timeline_master]]` |
+| `"[[arc_03_the_return_and_the_trap]]"` | `[[arc_03_the_return_and_the_trap]]` |
+| `"[[arc_04_the_bloom]]"` | `[[arc_04_the_bloom]]` |
+| `"[[arc_05_the_reckoning]]"` | `[[arc_05_the_reckoning]]` |
+| `"[[priority_fix_list]]"` | `[[priority_fix_list]]` |
+
 ### `sheets\sheet_helena_epilogue_resurrection.md`
 
 | Before | After |
@@ -817,6 +938,51 @@ last_updated: 2026-07-15
 | `"[[system_character_sheets]]"` | `[[system_character_sheets]]` |
 | `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
 
+### `ships\ship_falcon.md`
+
+| Before | After |
+|---|---|
+| `"[[ship_livestock_ferry_class]]"` | `[[ship_livestock_ferry_class]]` |
+| `"[[visual_profile_ship_falcon]]"` | `[[visual_profile_ship_falcon]]` |
+
+### `technology\tech_ai_architecture_comparison.md`
+
+| Before | After |
+|---|---|
+| `"[[tech_aura_ai]]"` | `[[tech_aura_ai]]` |
+| `"[[tech_misty_ai]]"` | `[[tech_misty_ai]]` |
+| `"[[tech_eagle_ai]]"` | `[[tech_eagle_ai]]` |
+
+### `technology\tech_eagle_ai.md`
+
+| Before | After |
+|---|---|
+| `"[[tech_fortuna_ai_systems]]"` | `[[tech_fortuna_ai_systems]]` |
+| `"[[tech_seek_ai]]"` | `[[tech_seek_ai]]` |
+| `"[[tech_communications_filtering]]"` | `[[tech_communications_filtering]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[faction_united_states_mars]]"` | `[[faction_united_states_mars]]` |
+
+### `technology\tech_falcon_majordomo.md`
+
+| Before | After |
+|---|---|
+| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+
+### `technology\tech_origin_logistics.md`
+
+| Before | After |
+|---|---|
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_maureen]]"` | `[[char_maureen]]` |
+| `"[[concept_resource_scarcity]]"` | `[[concept_resource_scarcity]]` |
+| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
+| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
+
 ### `technology\tech_sleep_masks.md`
 
 | Before | After |
@@ -854,150 +1020,17 @@ last_updated: 2026-07-15
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `to_merge\scenes\draft_ch00_prologue_helena.md`
+### `universe-spec\concept_ai_seams.md`
 
 | Before | After |
 |---|---|
-| `"[[event_helena_prologue]]"` | `[[event_helena_prologue]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-| `"[[char_suzi]]"` | `[[char_suzi]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-
-### `to_merge\scenes\draft_ch01_departure.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-
-### `to_merge\scenes\draft_ch02_morning_rounds.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch01-morning-round]]"` | `[[book01-ch01-morning-round]]` |
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-
-### `to_merge\scenes\draft_ch03_afternoon_workshop.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch01-afternoon-workshop]]"` | `[[book01-ch01-afternoon-workshop]]` |
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_saul]]"` | `[[char_saul]]` |
-
-### `to_merge\scenes\draft_ch04_plumbing_crisis.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch02-plumbing-crisis]]"` | `[[book01-ch02-plumbing-crisis]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[falcon_animal_manifest_book1]]"` | `[[falcon_animal_manifest_book1]]` |
-| `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-
-### `to_merge\scenes\draft_ch05_morning_after_debrief.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
 | `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
+| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
+| `"[[faction_alphacorp]]"` | `[[faction_alphacorp]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-
-### `to_merge\scenes\draft_ch06_learning_mode.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch02b-learning-mode]]"` | `[[book01-ch02b-learning-mode]]` |
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-
-### `to_merge\scenes\draft_ch07_artemis_call_canister.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
-| `"[[location_metis_station]]"` | `[[location_metis_station]]` |
-| `"[[tech_modular_pod_canisters]]"` | `[[tech_modular_pod_canisters]]` |
-
-### `to_merge\scenes\draft_ch08_arrival_day.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-
-### `to_merge\scenes\draft_ch09_first_week.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_hayes]]"` | `[[char_hayes]]` |
-| `"[[char_mira]]"` | `[[char_mira]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_mei]]"` | `[[char_mei]]` |
 | `"[[char_suzi]]"` | `[[char_suzi]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-
-### `to_merge\scenes\draft_ch10_first_drone_shift.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_kim]]"` | `[[char_kim]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-
-### `to_merge\scenes\draft_ch11_survey_trip.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_torres]]"` | `[[char_torres]]` |
-
-### `to_merge\scenes\draft_ch14_down_to_the_asteroid.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-| `"[[char_kim]]"` | `[[char_kim]]` |
-
-### `to_merge\scenes\event_x00a_astral_awakening.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
-| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
-| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-| `"[[spec_chapter_epigraphs]]"` | `[[spec_chapter_epigraphs]]` |
-
-### `to_merge\scenes\event_x00b_sophia_cafeteria.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-| `"[[spec_chapter_epigraphs]]"` | `[[spec_chapter_epigraphs]]` |
 
 ### `universe-spec\concept_aura_ai_system.md`
 
@@ -1130,6 +1163,19 @@ last_updated: 2026-07-15
 | `"[[spec_dungeon_anchor_mechanics]]"` | `[[spec_dungeon_anchor_mechanics]]` |
 | `"[[spec_dungeon_systems]]"` | `[[spec_dungeon_systems]]` |
 
+### `VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md`
+
+| Before | After |
+|---|---|
+| `"[[visual_profile_cerberus_and_siren]]"` | `[[visual_profile_cerberus_and_siren]]` |
+| `"[[visual_profile_fortuna_station]]"` | `[[visual_profile_fortuna_station]]` |
+| `"[[visual_profile_jace_apollo]]"` | `[[visual_profile_jace_apollo]]` |
+| `"[[visual_profile_jin_long]]"` | `[[visual_profile_jin_long]]` |
+| `"[[visual_profile_kael]]"` | `[[visual_profile_kael]]` |
+| `"[[visual_profile_nick_lee]]"` | `[[visual_profile_nick_lee]]` |
+| `"[[visual_profile_ship_falcon]]"` | `[[visual_profile_ship_falcon]]` |
+| `"[[visual_profile_sophia_lotte]]"` | `[[visual_profile_sophia_lotte]]` |
+
 ### `visual_profiles\visual_profile_cerberus_and_siren.md`
 
 | Before | After |
@@ -1201,5 +1247,8 @@ These stems don't match any filename in the repo. Do NOT guess the intended targ
 - `arcs\arc_01_falcon_and_fortuna.md` → missing: `char_torres`
 - `arcs\arc_01_thread_A_arrival.md` → missing: `char_torres`
 - `arcs\arc_01_thread_S_swarm.md` → missing: `char_torres`
+- `scenes\draft_ch02_morning_rounds.md` → missing: `book01-ch01-morning-round`
+- `scenes\draft_ch03_afternoon_workshop.md` → missing: `book01-ch01-afternoon-workshop`
+- `scenes\draft_ch04_plumbing_crisis.md` → missing: `book01-ch02-plumbing-crisis`
+- `scenes\draft_ch06_learning_mode.md` → missing: `book01-ch02b-learning-mode`
 - `scenes\draft_ch11_survey_trip.md` → missing: `char_torres`
-- `to_merge\scenes\draft_ch11_survey_trip.md` → missing: `char_torres`

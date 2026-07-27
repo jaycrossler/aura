@@ -34,7 +34,7 @@ A ferry's outbound crew is **5 to 10 people**. Roles overlap:
 - **Captain / pilot.** Oversees navigation, propulsion, and command decisions.
 - **Engineer.** Reactor and propulsion systems. Often doubles as systems lead.
 - **Medical / life support officer.** Handles human and animal health, atmospheric and water systems.
-- **Animal handlers (typically 2–4).** Care for the livestock during transit. Often doubles as agricultural specialists for arrival.
+- **Animal handlers.** Care for the livestock during transit. Often doubles as agricultural specialists for arrival.
 - **Cargo and infrastructure specialist.** Manages the construction and mining payload.
 
 Crew often share knowledge across roles. A ferry trip is too long and too high-stakes for narrow specialization; everyone learns to handle multiple systems. Jace Grant joins as a junior animal handler with cross-training in shipboard systems, sensor operations, and security.

@@ -258,3 +258,13 @@ Dungeons let the story reveal ancient history through encounter rather than expo
 Each dungeon is simultaneously a ruined institution, dangerous machine, archaeological site, surviving legal entity, source of lost Templates, social satire, progression environment, possible ally, and claimant against the modern world.
 
 The conflict is not simply defeating monsters. It is determining what the institution was built to do, how it changed, who now has authority, and whether its purpose can coexist with modern humanity.
+
+---
+
+## Sol System Active Dungeons & Guardian Types
+
+### Earth & Mars Emergence Nodes (~3,200 YA Outposts)
+- **Original Purpose**: Constructed during the prior Sol flux era as automated Will-testing nodes, candidate filtering sanctums, and regional containment vaults.
+- **Guardian Constructs**: Automated Titan-Forge lithoid automatons, animated stone/metal heralds, and distorted Template projections programmed to test candidate resolve before granting access to stored archives or Will reserves.
+
+---

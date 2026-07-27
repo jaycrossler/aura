@@ -55,13 +55,14 @@ cross_references:
 
 **Summary:** Every morning during transit Jace wakes with a headache behind his
 eyes — pressure and heat from the implant running hot overnight. He flags it to
-Lanchee. She finds nothing. A second panel also finds nothing. He takes his daily
-anti-radiation and anti-nausea medicine.
+Lanchee. She finds nothing wrong on diagnostics and prescribes standard radiation/pressure
+scrubbers assuming zero-g acclimation syndrome. Jace suppresses reporting worsening
+symptoms to avoid triggering an Origin contract medical disqualification audit.
 
 **Must accomplish:**
 1. Headaches appear at least once in each morning-routine scene before the plumbing
    crisis — brief, filed, not solved. Occurring every day for a month, getting worse
-2. Lanchee's response is professional and measured: tests show nothing wrong
+2. Lanchee's response is professional and measured: tests show nothing wrong; prescribes standard scrubbers
 3. The HUD running hot overnight is the mundane explanation Jace accepts
 4. Show that he's having weird dreams — hint that the HUD is causing this
 5. Reiterate that Jace uses his breathing gear at night for safety reasons, takes
@@ -92,13 +93,14 @@ anti-radiation and anti-nausea medicine.
 *(Drafted — see `scenes/book01-ch02-plumbing-crisis.md`)*
 
 **Must accomplish:**
-1. Show there is a massive catastrophic water leak
-2. Maureen wants to slow the ring's spin
-3. The engineering solution is the *Falcon*'s own prescribed response — earned, not lucky
-4. Jace is alerted that this action is in violation of Origin's contract, he does it anyway
-5. The win has a real cost: contaminated water reserve, thinner safety margin
-6. Maureen's fury is justified — she is right that he gambled the ship's margin
-7. The breach-crosser incursion is planted — something glimpsed that doesn't fit
+1. Show there is a massive catastrophic water leak freezing on low-temp lines (contaminant: reserve water-argon coolant leak)
+2. Identify the two iced berths: the pig berth and the small-animal berth (Siren's pen is adjacent but safe)
+3. Maureen wants to slow the ring's spin
+4. The engineering solution is the *Falcon*'s own prescribed response — earned, not lucky
+5. {Alex} issues an automated contract violation warning to Jace before he proceeds to balance the valves manually
+6. The win has a real cost: contaminated water reserve, thinner safety margin
+7. Maureen's fury is justified — she is right that he gambled the ship's margin
+8. The breach-crosser incursion is planted — something glimpsed that doesn't fit
 
 **Must NOT do:**
 - Resolve the tension between Jace and Maureen — it deepens here

@@ -1,3 +1,15 @@
+---
+id: review_queue
+name: "Dungeon Systems Merge — Open Decisions & Review Queue"
+type: review_queue
+status: open
+last_updated: 2026-07-27
+cross_references:
+  - "[[rq_2026-07-15_book1_first_pass]]"
+  - "[[review_2026-07-14_transit_rework]]"
+  - "[[2026-07-19_delivery_reframe]]"
+---
+
 # Dungeon Systems Merge — Open Decisions & Review Queue
 
 The following flags were identified during the dungeon systems merge (from `to_merge/MERGE_INSTRUCTIONS.md`). They require explicit author decision and are logged here for future resolution.
