@@ -1,11 +1,12 @@
 ---
 
 
+
 description: "Working outline detailing early scenes, backstory, and structural notes for Book 1's opening."
 id: scenes_book01_opening_notes
 title: Book 1 — Opening Notes and Sketches
 status: pre-draft
-last_updated: 2026-07-27
+last_updated: 2026-07-28
 cross_references:
   - "[[draft_ch00_prologue_helena]]"
   - "[[draft_ch01_departure]]"
@@ -137,3 +138,7 @@ The *Falcon* transit then takes this baseline and stresses it — confined setti
 
 - 2026-04-28: Initial sketch from synopsis discussions.
 - 2026-04-30: Major update from voice session. Replaced two-chapter sketch with full Day-of-Arrival / Day-Two / Hard-Months / Departure sequence. Cross-referenced all individual scene files. Added structural notes on chapter sizing, POV, pacing, and the Greek-myth thread.
+
+## Post-Draft Checklist
+
+- Post-draft: epigraph pattern audit across ch00–14 after Sophia's X-00b pattern-break; decide on 1–2 more breaks. (Demoted from priority_fix_list 2026-07-28 — only actionable once drafts exist.)

@@ -87,6 +87,16 @@ She is one of four humans on a ship with fifty-eight women, and she is the one J
 knows least. He is fairly sure she is aware of everything that happens on the ship
 anyway. Doctors usually are.
 
+## Early Manifestation (Transit, unflagged)
+
+During the final transit weeks Lanchee experiences markedly enhanced memory and
+diagnostic intuition — she attributes it to rest ("the silence of space...a
+vacation for the mind"). Treating Jace's spire arm wound she names the torn
+nerve and injured tendon before scanning, exactly right, and is briefly
+surprised. This is an early Will manifestation (see
+[[magic_manifestations_early]]). She does not pursue it. Story payoff later;
+foreshadows universal manifestation. Do not flag it in prose.
+
 ## Open Questions
 
 - Full name and background

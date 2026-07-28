@@ -6,7 +6,7 @@ type: magic_system
 subtype: fauna_taxonomy_extension
 status: working draft — extends canonical crossing/fauna specs
 canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
-last_updated: 2026-07-15
+last_updated: 2026-07-28
 cross_references:
   - "[[spec_scar_clearing_mechanics]]"
   - "[[spec_threat_escalation]]"
@@ -94,13 +94,14 @@ he spent, and why he felt like he had the flu for the entire day after the disas
 [[spec_threat_escalation]] places active fauna at late Book 1 and is explicit that early station-interior crossings encounter *no* active fauna. The *Falcon* incident is a deliberate **outlier**, justified by:
 
 - **A Will beacon at a high-stress moment.** The ship runs dense AI ({Aura}, the majordomo AI `{Falcon}`, the fluid-management AI, Jace's drones) generating steady Will, and during the crisis four terrified humans plus panicking animals spike biological Will sharply. Per [[spec_crossing_mechanics]], crossings cluster around high processor density and high stress. For a few minutes the *Falcon* is the brightest, most frightened thing in a famine-dark stretch of Astral.
-- **A transient, not a population.** One Dipper, briefly, not an infestation. It does not recur on the ship. It is a single early contact, not the escalation arriving early.
+- **A transient nesting event, not a population.** The Dipper crossed to **nest** at the Will beacon, not to feed — it laid two eggs in the central-spire cavity before dying in the plumbing crisis. The eggs hatch weeks later when Jace approaches ([[event_t_spire_eggs]]); he kills one hatchling (absorbing a second Will orb) and the other escapes through the bulkhead into space. The incursion is thus a single, self-terminating event: no breeding population establishes aboard, and nothing recurs after the spire fight. The nesting motive also explains *why* a Dipper crossed ahead of the escalation curve — the Falcon's AI+stress Will beacon read as prime nesting ground.
 
 ### Foreshadowing payload
 
 - Its insectoid morphology **prefigures the Glass-Infestation Bugs** Jace will meet at Fortuna ([[magic_cryptids_silicon]]). The reader/Jace connect them retroactively. (Open question: literally related, or convergent shapes from the same Astral ecology?)
 - Its flash-freeze signature is the same **frost tell** that may mark Helena's pod ([[char_helena]]) — a possible thread linking the *Falcon* incursion to the Fortuna disappearance.
 - Some on Fortuna will later (wrongly) read the *Falcon* damage as **sabotage**, feeding the China-withdrawal paranoia ([[timeline_book01_incursions]]). Dramatic irony: the reader knows it was neither sabotage nor micrometeorite.
+- The **escaped hatchling** is a deliberate open thread (destination unknown; see priority_fix_list, low priority). Do not resolve in Arc 1.
 
 ---
 
@@ -112,10 +113,15 @@ he spent, and why he felt like he had the flu for the entire day after the disas
 - [ ] `magic_will_orbs.md` (new file): cross-link the Falcon incident as the first
   documented human Will-orb absorption. Jace's subsequent Will depletion (flu-like
   symptoms the following day) is the physiological record of this event.
+- [ ] [[spec_crossing_mechanics]] or successor: add **orb-charged perception bleed** — after absorbing a Will orb, an untrained human may experience intermittent, headache-inducing waking Astral perception (seeing "through" physical matter). Deniable, symptom-like, and strictly weaker than a true crossing; must not undercut the Fortuna first-crossing threshold.
+- [ ] [[magic_manifestations_early]]: add Lanchee — enhanced recall + diagnostic intuition (names a torn nerve/tendon before scanning, exactly right, briefly surprised). Early ambient manifestation, not orb-driven; seeds the everyone-manifests thread.
+- [ ] `magic-systems/advancement_ledger.md`: Jace's pre-arrival orb count is now **two** (plumbing crisis + spire hatchling). Confirm the path to [Astral Transfer] L3 at S-01 still reads as earned (months of practice + Queen orb) and doesn't over-accelerate.
 
+---
 
 ## Revision Notes
 
+- 2026-07-28: **Nesting and Spire Eggs Sync.** Amended Dipper crossing to a nesting event, added escaped hatchling thread, and updated propagation checklist (Jace orb count = 2, perception bleed, Lanchee manifestation seed).
 - 2026-06-17: New file. Added flash-freeze signature for active crossings, the Dipper/Persister/Dual-exister modality taxonomy, and the Falcon harbinger incident as an early outlier justified by an AI+stress Will beacon. Cross-linked to silicon class (foreshadow), Helena (frost thread), and the sabotage misread (China arc).
 - 2026-06-25: Patch applied. Added Will-orb foreshadowing paragraph to the Falcon
   Harbinger Incident section — the glowing purple ball Jace swats aside, its absorption

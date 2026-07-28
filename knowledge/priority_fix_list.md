@@ -1,5 +1,6 @@
 ---
-last_updated: 2026-07-27
+
+last_updated: 2026-07-28
 ---
 # Priority List of Things to Fix & Open Questions
 
@@ -14,9 +15,12 @@ This section organizes the universe's unresolved details, narrative forks, and d
 ### High Priority (Arc 1 / Book 1 — The Falcon & Fortuna Transit)
 *These questions directly impact the immediate Book 1 scenes, characters, and initial mechanical limits, ordered chronologically.*
 
-- **Workshop Automation Cascades (from [arc_01_thread_T_transit](file:///D:/Projects/aura/knowledge/arcs/arc_01_thread_T_transit.md)):** Which early workshop scene will show Jace's minor ArmBot automation cascade before the plumbing crisis?
-- **Epigraph Pattern Audit (from [scenes_book01_opening_notes](file:///D:/Projects/aura/knowledge/scenes/book01-opening-notes.md)):** Perform an audit of epigraphs across ch00-ch14 after Sophia's pattern-break in X-00b. Do we want 1-2 more breaks?
-- **Station Commander Identity & Position:** Who is the station commander at Fortuna Station, and how do they balance corporate Origin demands against frontier station survival?
+- **S-01 Swarm Contract Verification:** The Arc 1 climax scene contract in [[arc_01_thread_S_swarm]] still carries a "full stage text not fully retrieved — verify" flag. Book 1 cannot be drafted to its ending on an unverified contract. Reassemble the full 4-stage contract against pre-restructure sources.
+- **Kim's Will-Spear Emergence (seeding):** Kim's decisive power moment in S-01 is currently unseeded (L-08 is only a proposed slot). Unseeded, it reads as chosen-one/deus ex machina. Formalize L-08 (mid-arc migraine beat, framed mundanely) and promote the S-01 author-note candidates (Kim, Mira's summons) to contract items or cut them.
+- **Open Decision #8b — Astral Light-Speed Physics:** Blocks X-10 and underpins Metis travel-time math in Arc 2. Recommended framing: X-05a = Jace's early incomplete hypothesis; rotating-mirror result = Sophia's later correction. Universe-spec-level; needs explicit author sign-off.
+- **Military Reinforcement Timing at S-01:** Deliberately TBD per [[timeline_disclosure_political_response]], but load-bearing for Arc 1's close and Arc 2's opening politics. Suggested: they arrive **too late** — political chaos cost time Fortuna knows it paid for; accelerates Belter identity without rewriting the drafted fight.
+- **Mei/Sylvester Retcon Matching Pass:** Jace no longer knows Mei is a U.S. asset at departure (ruled 07-19); [[char_mei]] and [[char_mr_sylvester]] plus draft_ch01/ch02 have not been synced. Touches already-drafted early chapters.
+- **Station Governance Conflict (Commander vs. Council):** [[location_fortuna_station]] frontmatter says `local_authority: Station Commander (TBD)`; canonical [[tech_fortuna_ai_systems]] establishes no single commander — a Human/AI Council (51/49). ⚠️ CONFLICT, not just an open question. Suggested resolution: no commander; an Origin-appointed **Station Director** chairs the human bloc (gives Suzi a superior and the anomaly-suppression a face). Awaiting ruling; then fix the location frontmatter.
 
 ### Medium Priority (Arc 2 — The Woven & Dungeon Emergence)
 *These questions affect the Woven first contact, early dungeons on Earth/Mars, and the Metis Station rescue.*
@@ -33,12 +37,19 @@ This section organizes the universe's unresolved details, narrative forks, and d
 - **AI Cognitive Layer & Templates (from [spec_cognitive_layer.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_cognitive_layer.md)):** Do AI systems have Templates in the Cognitive Layer? What self-referential tasks maximize Will generation?
 - **The Bloom's Vulnerability (from [faction_the_bloom.md](file:///D:/Projects/aura/knowledge/factions/faction_the_bloom.md)):** How many Bloom arrive in the solar system, and what is their exact authority structure?
 - **Woven Response Force (from [arc_04_the_bloom.md](file:///D:/Projects/aura/knowledge/arcs/arc_04_the_bloom.md)):** What is the composition of the Woven response force mobilizing in response to Kael's Will message?
+- **The Escaped Hatchling (from [[event_t_spire_eggs]]):** The second hatchling Dipper leaps through the Falcon bulkhead into space, ~2 weeks from Fortuna. Does it reach Fortuna, die in vacuum-Astral, or seed something else? Deliberately unresolved; do not pay off in Arc 1.
+- **Serialization Pacing Watch:** Web-novel release means many episodes before the premise fully activates. The Spire chapter [[event_t_spire_eggs]] now bridges transit → discovery; monitor at draft time whether the Mars hard-months montage still needs compression.
 
 ---
 
 ## 2. Missing Core Files & Concepts
 
-- **Character Stubs:** Details on the senior animal handler/livestock breeder handler aboard the Falcon need to be finalized for historical reference.
+- **`tech_eagle_ai.md`** — {Eagle} canonized 2026-07-21 but has no file.
+- **`char_major_barnes.md`** — referenced in the discharge reframe; no file.
+- **American Red party faction file** — canonized 2026-07-21; no file.
+- **`magic_will_orbs.md`** — flagged in [[magic_breach_crossers_transient]] propagation checklist; still missing. Canonical term is **Will orb** (author ruling 2026-07-28; "skill orb" deprecated).
+
+*(Removed: senior animal handler stub — flavor trivia, not load-bearing.)*
 
 ---
 
@@ -72,6 +83,8 @@ This checklist tracks logical and narrative tests from the story arc documents t
 
 ## 4. Resolved Issues
 
+- **Priority List Audit (2026-07-28):** Demoted Workshop Automation Cascade and Epigraph Audit to drafting-time notes; removed animal-handler stub; elevated S-01 verification, Kim seeding, Open Decision #8b, military timing, Mei retcon pass; converted Station Commander question into a flagged governance conflict.
+- **Transit Pacing Bridge (2026-07-28):** Added the Spire chapter ([[event_t_spire_eggs]]) — hatchling fight, second Will orb, waking perception bleed, Lanchee manifestation seed. Ruled: the plumbing-crisis Dipper crossed to **nest**; eggs hatch on approach; still a single self-terminating incursion. Canonical term "Will orb" affirmed.
 - **Cerberus's Will-Glow & Canine Astral Perception (2026-07-27):** Defined Cerberus's glow as Warm Amber/Bronze (mirroring Jace's base color family in an organic, non-geometric form). Documented canine Astral perception operating as an aura-scent and thermal gradient rather than human visual geometries.
 - **Suzi Gonzales Background & Anomaly Access (2026-07-27):** Confirmed ex-USAF Space Command Security Forces background; established that Origin management keeps her strictly unread into station anomaly archives.
 - **Sleep Mask Scrubber Envelope (2026-07-27):** Reconciled scrubber lifetime to 6 hours nominal (4–8 hour envelope based on metabolic rate).

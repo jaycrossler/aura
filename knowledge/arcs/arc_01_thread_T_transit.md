@@ -26,6 +26,7 @@ cross_references:
 ### Automation Failure Motif (Notes)
 - ArmBot automation motif and its failure modes (see [[char_jace_apollo#The Automation Instinct]]) should appear as a recurring texture across workshop scenes.
 - There must be at least one on-page minor cascade before the plumbing crisis (e.g. during early workshop beats), so the plumbing crisis isn't Jace's automation's first visible failure. (Ruled 2026-07-19.)
+- The Spire chapter also advances Jace's fine-avoidance behavior: after the second {Alex} fine he begins deliberately under-reporting anomalies (feeds {Penny}'s later "Pattern of Interest" file).
 
 ---
 
@@ -172,6 +173,19 @@ months.
 6. Show that having Thing One and Thing Two always controlled by Origin and
    surveilling everything is a bit problematic — local control and autonomy is a
    better path
+
+---
+
+#### T-06 — The Spire (eggs and hatchlings)
+
+*(Contracted — see [[event_t_spire_eggs]]. Placement: after the Artemis
+canister call (post-ch07), ~2 weeks before arrival. Seq TBD at consolidation.)*
+
+**Summary:** Jace's headaches are gone and his dreams have sharpened; a waking
+perception bleed leads him up the central spire, where two eggs hatch and he
+fights the hatchling Dippers — killing one (second Will orb, unregistered),
+losing one through the bulkhead. {Alex} fines him; Lanchee's diagnostic
+intuition beat seeds early manifestations. He tells no one and patrols daily.
 
 ---
 

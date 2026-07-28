@@ -7,7 +7,7 @@
     - arc_01_thread_N_nick_ai.md - name: Arc 1 — Thread N: Nick / AI; id: arc_01_thread_N_nick_ai; status: draft; canonical: true; updated: 2026-07-21; type: arc_thread; description: >; lines: 124; xrefs: 6; canonical: true; chars: jace_apollo, nick_lee, jin_luong
     - arc_01_thread_P_pressure.md - name: Arc 1 — Thread P: Pressure; id: arc_01_thread_P_pressure; status: draft; canonical: true; updated: 2026-07-15; type: arc_thread; description: >; lines: 257; xrefs: 6; canonical: true; chars: jace_apollo, suzi, jin_luong, helena, mei
     - arc_01_thread_S_swarm.md - name: Arc 1 — Thread S: Swarm and Closing; id: arc_01_thread_S_swarm; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 148; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, jin_luong, nick_lee, suzi, kael, torres, kim, carlos, mira
-    - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 214; xrefs: 7; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
+    - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 228; xrefs: 7; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
     - arc_01_thread_X_astral.md - name: Arc 1 — Thread X: Astral Exploration; id: arc_01_thread_X_astral; status: draft; canonical: true; updated: 2026-07-21; type: arc_thread; description: >; lines: 465; xrefs: 8; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
     - arc_02_addendum_kael_two_weeks.md - name: Arc 2 Addendum — The Two Weeks; id: arc_02_addendum_kael_two_weeks; status: pre-draft; canonical: false; updated: 2026-07-12; type: scene_notes; description: >; lines: 108; xrefs: 5; canonical: false; chars: erin, kael, nick_lee
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
@@ -29,7 +29,7 @@
     - char_kael.md - name: Kael; id: char_kael; status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system; updated: 2026-06-26; description: Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice.; lines: 324; xrefs: 2; canonical: false; chars: kai
     - char_kai.md - name: Kai; id: char_kai; status: alive; updated: 2026-06-26; description: Character profile for Kai, a Crystal Dragon familiar Will-bonded to Kael, who scales in size and capability across dimensional layers and serves as Kael's mount in the Astral and Hyperspace.; lines: 184; xrefs: 2; canonical: false; chars: kael
     - char_kim.md - name: Kim [surname TBD]; id: char_kim; status: alive; canonical: false; updated: 2026-07-12; type: character; description: >; lines: 138; xrefs: 9; canonical: false; chars: jace_apollo, carlos, maureen
-    - char_lanchee.md - name: Lanchee (last name TBD); id: char_lanchee; status: alive; description: >; lines: 96; xrefs: 0; canonical: false
+    - char_lanchee.md - name: Lanchee (last name TBD); id: char_lanchee; status: alive; description: >; lines: 106; xrefs: 0; canonical: false
     - char_major_barnes.md - name: Major Barnes; id: char_major_barnes; status: unknown (last seen pre-purge; fate flagged — see Open Questions); canonical: proposed; updated: 2026-07-21; type: character; description: Jace's former USAF supervisor who backed his refusal of the bridge strike; a minor but load-bearing backstory figure.; lines: 70; xrefs: 3; canonical: proposed; chars: jace_apollo
     - char_maureen.md - name: Maureen (last name TBD); id: char_maureen; status: alive; updated: 2026-07-15; description: Character profile detailing Captain Maureen, her relationships, and motivations for retirement.; lines: 128; xrefs: 2; canonical: false; chars: saul, jace_apollo
     - char_mei.md - name: Mei [surname TBD]; id: char_mei; status: alive; updated: 2026-06-17; description: Character profile detailing Mei, an operative infiltrating Chinese settlements in space.; lines: 179; xrefs: 0; canonical: false
@@ -51,6 +51,7 @@
 - cleanup_reports/
     - normalize_cross_references_2026-07-26.md - updated: 2026-07-26; lines: 1155; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-27.md - updated: 2026-07-27; lines: 1254; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-07-28.md - updated: 2026-07-28; lines: 1278; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: proposed; updated: 2026-07-21; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 95; xrefs: 7; canonical: proposed; chars: jace_apollo, major_barnes
@@ -101,7 +102,7 @@
 - magic-systems/
     - advancement_ledger.md - name: Character Advancement Ledger; id: advancement_ledger; status: canonical; canonical: true; updated: 2026-06-27; type: kb_system; description: >; lines: 465; xrefs: 8; canonical: true
     - magic_astral_transfer_skill.md - name: [Astral Transfer] — Skill Specification; id: magic_astral_transfer_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 235; xrefs: 5; canonical: true; chars: jace_apollo
-    - magic_breach_crossers_transient.md - name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger); id: magic_breach_crossers_transient; status: working draft — extends canonical crossing/fauna specs; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology); updated: 2026-07-15; type: magic_system; description: Taxonomy and mechanics for astral organisms crossing into physical reality during magical breaches.; lines: 123; xrefs: 5; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
+    - magic_breach_crossers_transient.md - name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger); id: magic_breach_crossers_transient; status: working draft — extends canonical crossing/fauna specs; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology); updated: 2026-07-28; type: magic_system; description: Taxonomy and mechanics for astral organisms crossing into physical reality during magical breaches.; lines: 129; xrefs: 5; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
     - magic_cryptid_species_reference.md - name: Belt Cryptid Species — Will Profile and Orb Reference; id: magic_cryptid_species_reference; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 337; xrefs: 5; canonical: true
     - magic_cryptids_silicon.md - name: Silicon Manifestations — The Glass-Infestation Class; id: magic_cryptids_silicon; status: draft — Fortuna-context established; broader taxonomy TBD; canonical: true (Fortuna context); partial (wider applicability); updated: 2026-05-02; type: magic_system; description: Taxonomy of silicon-based magical manifestations found in industrial manufacturing environments.; lines: 116; xrefs: 4; canonical: true (Fortuna context); partial (wider applicability)
     - magic_cultural_schools.md - name: Cultural Schools of the Returning Arts; id: magic_cultural_schools; status: emerging; canonical: true; updated: 2026-05-31; type: magic_subsystem; description: Details various cultural traditions and schools of magic arts and their core principles.; lines: 133; xrefs: 0; canonical: true
@@ -120,7 +121,7 @@
     - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 228; xrefs: 5; canonical: true; chars: jace_apollo
 - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic.; lines: 125; xrefs: 0; canonical: false
 - normalize_cross_references.py
-- priority_fix_list.md - updated: 2026-07-27; lines: 95; xrefs: 0; canonical: false
+- priority_fix_list.md - updated: 2026-07-28; lines: 108; xrefs: 0; canonical: false
 - README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-07-21; type: readme; description: >; lines: 213; xrefs: 5; canonical: false
 - review-queue/
     - 2026-07-19_delivery_reframe.md - id: rq_2026-07-19_delivery_reframe; status: open; updated: 2026-07-19; type: review_queue_log; description: >; lines: 46; xrefs: 7; canonical: false; chars: jace_apollo, maureen
@@ -128,7 +129,7 @@
     - review_queue.md - name: Dungeon Systems Merge — Open Decisions & Review Queue; id: review_queue; status: open; updated: 2026-07-27; type: review_queue; lines: 40; xrefs: 3; canonical: false
     - rq_2026-07-15_book1_first_pass.md - id: rq_2026-07-15_book1_first_pass; status: open; updated: 2026-07-15; type: review_queue; description: Book 1 first-pass review queue — updated after author decision round 1.; lines: 40; xrefs: 0; canonical: false
 - scenes/
-    - book01-opening-notes.md - id: scenes_book01_opening_notes; status: pre-draft; updated: 2026-07-27; description: Working outline detailing early scenes, backstory, and structural notes for Book 1's opening.; lines: 139; xrefs: 16; canonical: false
+    - book01-opening-notes.md - id: scenes_book01_opening_notes; status: pre-draft; updated: 2026-07-28; description: Working outline detailing early scenes, backstory, and structural notes for Book 1's opening.; lines: 144; xrefs: 16; canonical: false
     - draft_ch00_prologue_helena.md - name: Prologue — Helena's Last Day; id: draft_ch00_prologue_helena; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death.; lines: 87; xrefs: 4; canonical: false; chars: helena, suzi
     - draft_ch01_departure.md - name: Chapter 1 — Departure; id: draft_ch01_departure; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: First-pass prose: Falcon departure burn, ballast sounds, ship AI intro, Artemis birthday call, duck email, games with Nick, first HUD headache.; lines: 114; xrefs: 7; canonical: false; chars: jace_apollo, maureen, mei, cerberus, nick_lee
     - draft_ch02_morning_rounds.md - name: Chapter 2 — Morning Rounds; id: draft_ch02_morning_rounds; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: Rewrite of the existing morning-round draft: preserves Saul's notes, the dog waste station, Mei/Siren, the pig conspiracy, Lanchee's closed door; adds the T-02a headache beat and radiation-pill/breathing-mask routine.; lines: 87; xrefs: 6; canonical: false; chars: jace_apollo, cerberus, mei, lanchee
@@ -145,6 +146,7 @@
     - event_helena_epilogue.md - name: Epilogue — Helena; id: event_helena_epilogue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Epilogue scene — Helena's resurrection, paired framing device closing Arc 1.; lines: 111; xrefs: 0; canonical: true
     - event_helena_prologue.md - name: Prologue — Helena; id: event_helena_prologue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Prologue scene — Helena's last day, framing device introducing Fortuna Station before Jace's POV begins.; lines: 108; xrefs: 0; canonical: true
     - event_t_forge_no_more_voices.md - name: No More Voices (forge room, pre-crisis); id: event_t_forge_no_more_voices; status: contracted; updated: 2026-07-19; type: scene_contract; lines: 62; xrefs: 5; canonical: false; chars: maureen, jace_apollo
+    - event_t_spire_eggs.md - name: The Spire (eggs, hatchlings, and the man flailing at nothing); id: event_t_spire_eggs; status: contracted; updated: 2026-07-28; type: scene_contract; lines: 85; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, lanchee
     - event_x00a_astral_awakening.md - name: X-00a — Astral Awakening; id: event_x00a_astral_awakening; status: staged_draft; updated: 2026-07-15; type: scene_draft; description: >; lines: 105; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, sophia_lotte
     - event_x00b_sophia_cafeteria.md - name: X-00b — The Woman Who Wasn't Glowing; id: event_x00b_sophia_cafeteria; status: staged_draft; updated: 2026-07-19; type: scene_draft; description: >; lines: 125; xrefs: 6; canonical: false; chars: jace_apollo, sophia_lotte, cerberus
     - non-canonical-ideas/
@@ -224,6 +226,10 @@
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-07-14; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
+    - CHANGES.md - updated: 2026-07-28; lines: 29; xrefs: 0; canonical: false
+    - EDITS.md - updated: 2026-07-28; lines: 62; xrefs: 0; canonical: false
+    - new_files/
+        - event_t_spire_eggs.md - name: The Spire (eggs, hatchlings, and the man flailing at nothing); id: event_t_spire_eggs; status: contracted; updated: 2026-07-28; type: scene_contract; lines: 85; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, lanchee
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -296,12 +302,16 @@ These files were marked as draft or have non-canonical status and should not be 
 ### Orphaned Files
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
+- `CHANGES`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
+- `EDITS`
 - `book01-opening-notes`
+- `event_t_spire_eggs`
 - `image_generation_agent_prompt`
 - `metadata_template_guide`
 - `normalize_cross_references_2026-07-26`
 - `normalize_cross_references_2026-07-27`
+- `normalize_cross_references_2026-07-28`
 - `review_queue`
 - `system_character_sheets_skill_format`
 
