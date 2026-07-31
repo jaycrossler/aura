@@ -14,6 +14,8 @@ date_of_death: alive
 birthplace: Colmar, Alsace (French territory at time of birth; the region alternates
   between French and German sovereignty every few decades; she notes this with dry amusement)
 childhood: Raised in Strasbourg; parents were diplomats stationed there
+father: French craftsman (woodworking implied by the pen blank gift)
+
 
 # Status
 status: alive
@@ -78,11 +80,27 @@ absent_mindedness: Loses everything except her pen and her notebooks. Notebooks 
   backed up across multiple servers. Data is never lost.
 
 # The Fountain Pen
-description: A quality pen whose nib was modified to work on tablet surfaces
-function: Used for journal writing, tablet annotation, Astral notebook diagrams,
-  underlining things she wants to say out loud
-loss_frequency: Often — Jace frequently returns it to her after finding it in the Astral
-without_it: Audibly unhappy; types more aggressively; slightly clipped
+
+## The Pen (running texture, and Stage 3 payoff)
+
+Sophia's father, a French craftsman, carved her a wood pen blank as a
+graduation gift — plain, unrefined, personal. She carries it for her field
+notebooks and routinely forgets or loses it across the series: left behind
+after a scene, borrowed and not returned, fished out of a pocket at the
+wrong moment. Plant this 2-3 times across Threads A/L/X, well before S-01,
+so its payoff there lands as earned rather than convenient.
+
+**S-01 Stage 3 payoff:** during the Queen fight, someone throws a rock at
+her in desperation — it passes clean through her Astral shield where every
+prepared weapon has failed (see [[magic_dual_existence_entities]]). Sophia
+sees this happen and immediately understands why: her father's wood pen is
+the one unrefined, single-material object she has on her. She strips out
+the ink mechanism (the only manufactured part) and launches the bare wood
+shaft with enough Force to push a boulder — through the shield, through the
+Queen's eye, into its brain. The kill is the convergence of the running
+"lost pen" texture, her father, her scientific observation (recognizing the
+shield's material rule from someone else's failed rock-throw), and a Force
+output she didn't know she had.
 
 # Victoria Cabin
 layout: One of three tiny cabins on a three-physicist ship

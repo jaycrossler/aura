@@ -19,6 +19,7 @@ cross_references:
   - "[[char_lanchee]]"
   - "[[char_cerberus]]"
   - "[[ship_falcon]]"
+  - "[[magic_cryptid_species_reference]]"
 ---
 
 *(the Falcon, Mars → Fortuna, ~4-month voyage)*
@@ -186,6 +187,33 @@ perception bleed leads him up the central spire, where two eggs hatch and he
 fights the hatchling Dippers — killing one (second Will orb, unregistered),
 losing one through the bulkhead. {Alex} fines him; Lanchee's diagnostic
 intuition beat seeds early manifestations. He tells no one and patrols daily.
+
+#### T-02c — Something at the Edge (Metis-route encounter)
+
+**Summary:** During the Falcon's transit, on a routine EVA or sensor check
+near the Metis-adjacent leg of the route, Jace catches a glimpse of
+something wrong — motion, a texture in the dark that isn't debris, gone
+before instruments confirm it. He logs it as sensor ghosting or
+micrometeorite dust and moves on. In hindsight (post-S-01), this was an
+early, unrecognized brush with the Queen's seeding campaign — an outrider
+or transport-phase colonial fauna near Metis, not Fortuna.
+
+**Must accomplish:**
+1. Genuinely ambiguous in the moment — Jace has no framework yet; this
+   should read as a beat of unease, not a confirmed sighting
+2. Establish this as Jace's very first Astral-adjacent brush, predating even
+   the plumbing crisis — a quiet, mostly-forgotten "did I see that" moment
+3. Plant it lightly enough that it doesn't compete with the plumbing crisis
+   as "the first incident" in the reader's memory — this is pre-canon
+   texture, discovered as significant only in hindsight
+4. Do NOT explain, name, or connect it to the Queen on-page — the connection
+   is reader/author knowledge for Arc 2, not something Jace draws in Arc 1
+
+**Must NOT do:**
+- Give Jace any Will effect, orb, or absorption here — this is a sighting
+  only, no contact
+- Let this scene overshadow the plumbing crisis's role as Jace's first
+  confirmed incident
 
 ---
 

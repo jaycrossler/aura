@@ -6,8 +6,8 @@
     - arc_01_thread_L_life_texture.md - name: Arc 1 — Thread L: Life Texture; id: arc_01_thread_L_life_texture; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 216; xrefs: 6; canonical: true; chars: jace_apollo, sophia_lotte, mei, mira, kim
     - arc_01_thread_N_nick_ai.md - name: Arc 1 — Thread N: Nick / AI; id: arc_01_thread_N_nick_ai; status: draft; canonical: true; updated: 2026-07-21; type: arc_thread; description: >; lines: 124; xrefs: 6; canonical: true; chars: jace_apollo, nick_lee, jin_luong
     - arc_01_thread_P_pressure.md - name: Arc 1 — Thread P: Pressure; id: arc_01_thread_P_pressure; status: draft; canonical: true; updated: 2026-07-15; type: arc_thread; description: >; lines: 257; xrefs: 6; canonical: true; chars: jace_apollo, suzi, jin_luong, helena, mei
-    - arc_01_thread_S_swarm.md - name: Arc 1 — Thread S: Swarm and Closing; id: arc_01_thread_S_swarm; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 148; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, jin_luong, nick_lee, suzi, kael, torres, kim, carlos, mira
-    - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 228; xrefs: 7; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
+    - arc_01_thread_S_swarm.md - name: Arc 1 — Thread S: Swarm and Closing; id: arc_01_thread_S_swarm; status: draft; canonical: true; updated: 2026-07-28; type: arc_thread; description: >; lines: 263; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, jin_luong, nick_lee, suzi, kael, torres, kim, carlos, mira
+    - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 256; xrefs: 8; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
     - arc_01_thread_X_astral.md - name: Arc 1 — Thread X: Astral Exploration; id: arc_01_thread_X_astral; status: draft; canonical: true; updated: 2026-07-21; type: arc_thread; description: >; lines: 465; xrefs: 8; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
     - arc_02_addendum_kael_two_weeks.md - name: Arc 2 Addendum — The Two Weeks; id: arc_02_addendum_kael_two_weeks; status: pre-draft; canonical: false; updated: 2026-07-12; type: scene_notes; description: >; lines: 108; xrefs: 5; canonical: false; chars: erin, kael, nick_lee
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
@@ -37,7 +37,7 @@
     - char_nick_lee.md - name: Nick Lee; id: char_nick_lee; status: alive; updated: 2026-07-14; type: Rotates between types and spices; always trying different combinations; description: A very nice ergonomic chair with built-in back massager, armrest keyboards,; lines: 228; xrefs: 1; canonical: false
     - char_saul.md - name: Saul (last name TBD); id: char_saul; status: alive — recovering from surgery; updated: 2026-06-17; description: >; lines: 101; xrefs: 2; canonical: false; chars: maureen, jace_apollo
     - char_sister_artemis.md - name: [first name TBD] "Artemis" Grant; id: char_sister_artemis; status: alive (at story start — comms increasingly unreliable); updated: 2026-06-23; description: Character profile for Artemis Grant, Jace's older sister and ship builder at Metis Station.; lines: 134; xrefs: 0; canonical: false
-    - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-06-30; description: A quality pen whose nib was modified to work on tablet surfaces; lines: 275; xrefs: 1; canonical: false
+    - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-06-30; description: Character profile detailing Dr. Sophia Lotte, an ESA physicist who pioneered human Astral crossing.; lines: 293; xrefs: 1; canonical: false
     - char_suzi.md - name: Suzi Gonzales; id: char_suzi; status: alive; updated: 2026-07-27; description: Character profile for Suzi, Fortuna Station chief of security and investigative ally.; lines: 127; xrefs: 0; canonical: false
     - non-canonical-ideas/
         - char_jelly_grant.md - name: Jelly; id: char_jelly_grant; status: alive (off-page, on Earth); canonical: false; updated: 2026-05-02; description: Character profile for Jelly Grant, a dog representing home and enduring family connection.; lines: 77; xrefs: 0; canonical: false
@@ -52,6 +52,7 @@
     - normalize_cross_references_2026-07-26.md - updated: 2026-07-26; lines: 1155; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-27.md - updated: 2026-07-27; lines: 1254; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-28.md - updated: 2026-07-28; lines: 1278; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-07-31.md - updated: 2026-07-31; lines: 1286; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: proposed; updated: 2026-07-21; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 95; xrefs: 7; canonical: proposed; chars: jace_apollo, major_barnes
@@ -103,9 +104,10 @@
     - advancement_ledger.md - name: Character Advancement Ledger; id: advancement_ledger; status: canonical; canonical: true; updated: 2026-06-27; type: kb_system; description: >; lines: 465; xrefs: 8; canonical: true
     - magic_astral_transfer_skill.md - name: [Astral Transfer] — Skill Specification; id: magic_astral_transfer_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 235; xrefs: 5; canonical: true; chars: jace_apollo
     - magic_breach_crossers_transient.md - name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger); id: magic_breach_crossers_transient; status: working draft — extends canonical crossing/fauna specs; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology); updated: 2026-07-28; type: magic_system; description: Taxonomy and mechanics for astral organisms crossing into physical reality during magical breaches.; lines: 129; xrefs: 5; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
-    - magic_cryptid_species_reference.md - name: Belt Cryptid Species — Will Profile and Orb Reference; id: magic_cryptid_species_reference; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 337; xrefs: 5; canonical: true
+    - magic_cryptid_species_reference.md - name: Belt Cryptid Species — Will Profile and Orb Reference; id: magic_cryptid_species_reference; status: canonical; canonical: true; updated: 2026-07-28; type: magic_system; description: >; lines: 356; xrefs: 5; canonical: true
     - magic_cryptids_silicon.md - name: Silicon Manifestations — The Glass-Infestation Class; id: magic_cryptids_silicon; status: draft — Fortuna-context established; broader taxonomy TBD; canonical: true (Fortuna context); partial (wider applicability); updated: 2026-05-02; type: magic_system; description: Taxonomy of silicon-based magical manifestations found in industrial manufacturing environments.; lines: 116; xrefs: 4; canonical: true (Fortuna context); partial (wider applicability)
     - magic_cultural_schools.md - name: Cultural Schools of the Returning Arts; id: magic_cultural_schools; status: emerging; canonical: true; updated: 2026-05-31; type: magic_subsystem; description: Details various cultural traditions and schools of magic arts and their core principles.; lines: 133; xrefs: 0; canonical: true
+    - magic_dual_existence_entities.md - name: Dual-Existence Entities; id: magic_dual_existence_entities; status: canonical; canonical: true; updated: 2026-07-28; type: magic_system; description: >; lines: 96; xrefs: 4; canonical: true
     - magic_improvised_responses.md - name: Improvised Responses to the Outbreak — Belt Field Adaptations; id: magic_improvised_responses; status: draft — Fortuna context; broader applicability TBD; canonical: true (field adaptations); partial (wider use); updated: 2026-05-02; type: magic_system; description: Details improvised magical technology built from salvaged materials for asteroid belt survival.; lines: 100; xrefs: 4; canonical: true (field adaptations); partial (wider use)
     - magic_manifestations_early.md - name: Early Manifestations — Pre-Understanding Phase; id: magic_manifestations_early; status: established canon (observable phenomena); theoretical explanations TBD; canonical: true; updated: 2105-03-15; type: magic_system; description: Catalog of early, observable magical phenomena encountered during the solar system outbreak.; lines: 187; xrefs: 5; canonical: true; chars: jace_apollo, cerberus
     - magic_never_never.md - name: The Never-Never; id: magic_never_never; status: foundational; canonical: true; updated: 2026-05-31; type: foundational_location_magic_system; description: Describes the Never-Never location, detailing its two distinct environments and history.; lines: 156; xrefs: 0; canonical: true
@@ -118,10 +120,10 @@
     - magic_technological_adaptation.md - name: Technological Adaptation to the Outbreak — The Static Problem; id: magic_technological_adaptation; status: established canon; canonical: true; updated: 2026-06-26; type: magic_system; description: Details the technical challenges and adaptations for electronic systems facing magical interference (the Static).; lines: 123; xrefs: 4; canonical: true
     - magic_will_and_templates.md - name: Will and Templates — Core Metaphysical Mechanics; id: magic_will_and_templates; status: foundational; canonical: true; updated: 2026-07-14; type: foundational_magic_mechanics; description: Defines core metaphysical mechanics: Will and Templates governing all magic.; lines: 244; xrefs: 3; canonical: true
     - magic_will_implications.md - name: Will — Deep Implications and Universe-Wide Consequences; id: magic_will_implications; status: canonical_working; canonical: true; updated: 2026-05-31; type: foundational_analysis; description: Analyzes the universal biological and cosmic implications of conscious will generation.; lines: 309; xrefs: 0; canonical: true
-    - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 228; xrefs: 5; canonical: true; chars: jace_apollo
+    - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 258; xrefs: 6; canonical: true; chars: jace_apollo
 - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic.; lines: 125; xrefs: 0; canonical: false
 - normalize_cross_references.py
-- priority_fix_list.md - updated: 2026-07-28; lines: 108; xrefs: 0; canonical: false
+- priority_fix_list.md - updated: 2026-07-28; lines: 110; xrefs: 0; canonical: false
 - README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-07-21; type: readme; description: >; lines: 213; xrefs: 5; canonical: false
 - review-queue/
     - 2026-07-19_delivery_reframe.md - id: rq_2026-07-19_delivery_reframe; status: open; updated: 2026-07-19; type: review_queue_log; description: >; lines: 46; xrefs: 7; canonical: false; chars: jace_apollo, maureen
@@ -226,10 +228,11 @@
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-07-14; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
-    - CHANGES.md - updated: 2026-07-28; lines: 29; xrefs: 0; canonical: false
-    - EDITS.md - updated: 2026-07-28; lines: 62; xrefs: 0; canonical: false
+    - CHANGES.md - updated: 2026-07-28; lines: 42; xrefs: 0; canonical: false
+    - EDITS.md - updated: 2026-07-28; lines: 157; xrefs: 0; canonical: false
     - new_files/
-        - event_t_spire_eggs.md - name: The Spire (eggs, hatchlings, and the man flailing at nothing); id: event_t_spire_eggs; status: contracted; updated: 2026-07-28; type: scene_contract; lines: 85; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, lanchee
+        - magic_dual_existence_entities.md - name: Dual-Existence Entities; id: magic_dual_existence_entities; status: canonical; canonical: true; updated: 2026-07-28; type: magic_system; description: >; lines: 96; xrefs: 4; canonical: true
+        - S01_stage3_v2.md - updated: 2026-07-28; lines: 105; xrefs: 0; canonical: false
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -305,6 +308,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `CHANGES`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
 - `EDITS`
+- `S01_stage3_v2`
 - `book01-opening-notes`
 - `event_t_spire_eggs`
 - `image_generation_agent_prompt`
@@ -312,6 +316,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `normalize_cross_references_2026-07-26`
 - `normalize_cross_references_2026-07-27`
 - `normalize_cross_references_2026-07-28`
+- `normalize_cross_references_2026-07-31`
 - `review_queue`
 - `system_character_sheets_skill_format`
 

@@ -13,6 +13,7 @@ cross_references:
   - "[[spec_dimensional_travel_mechanics]]"
   - "[[magic_breach_crossers_transient]]"
   - "[[char_jace_apollo]]"
+  - "[[magic_dual_existence_entities]]"
 ---
 
 # Will Orbs — Death-Drop Mechanic and Skill Currency
@@ -114,6 +115,35 @@ valve. Contact was sufficient. The Will absorbed on touch. His Template, under s
 from a headache-inducing HUD implant containing gold and platinum, directed the entire
 absorbed reserve toward Templating the implant. He was unconscious of the process. The
 next morning, the headache was gone.
+
+---
+
+## Mass Release (Large-Creature Death)
+
+A creature whose Will output is large enough (Queen-tier and above) does not
+condense cleanly into a single orb on death. Instead, Will releases in a
+**liquid wave** — visually, a flood of light-bearing fluid spreading outward
+from the body in both realms simultaneously. Over roughly a minute, the wave
+loses momentum and **congeals into multiple smaller puddles/pools** rather
+than one orb. These pools can be touched by more than one person — Will is
+drawn from the shared pool per-toucher, not claimed exclusively by whoever
+gets there first.
+
+This is mechanically distinct from a standard single-orb absorption:
+- **Per-person yield is lower** than a direct single-orb kill (the Will is
+  divided across everyone who touches a pool), but multiple people benefit
+  simultaneously — a crowd effect, not a solo reward.
+- **Only Will-active individuals absorb meaningfully.** Someone with zero
+  prior Will exposure standing in a puddle gets negligible effect — this
+  preserves the no-chosen-ones/no-instant-awakening rule. People already on
+  the L0→L1 threshold, or already leveled, get a genuine push.
+- **Affinity still applies** — a puddle carries the dead creature's affinity
+  profile the same as an orb would; mismatched practitioners get less.
+- The pools **do** eventually dissipate if untouched, same as an unclaimed
+  orb, just slower given the larger total volume.
+
+This mechanic is reserved for large/apex kills — it should not become the
+default for standard fauna, where the single-orb model stays canonical.
 
 ---
 

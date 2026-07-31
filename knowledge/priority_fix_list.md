@@ -48,6 +48,7 @@ This section organizes the universe's unresolved details, narrative forks, and d
 - **`char_major_barnes.md`** — referenced in the discharge reframe; no file.
 - **American Red party faction file** — canonized 2026-07-21; no file.
 - **`magic_will_orbs.md`** — flagged in [[magic_breach_crossers_transient]] propagation checklist; still missing. Canonical term is **Will orb** (author ruling 2026-07-28; "skill orb" deprecated).
+- **Metis Mop-Up Front (Arc 2) — needs a scene contract.** Jace + Kael clear the leaderless Metis-site fauna; several Metis survivors have already manifested via mass-release from wave casualties before Jace/Kael arrive. Not yet drafted as a scene; flagged for Arc 2 session.
 
 *(Removed: senior animal handler stub — flavor trivia, not load-bearing.)*
 
@@ -83,6 +84,7 @@ This checklist tracks logical and narrative tests from the story arc documents t
 
 ## 4. Resolved Issues
 
+- **Queen Mechanics Overhaul (2026-07-28):** Queen ruled as a dual-existence entity (Astral + physical simultaneously); shield passes unrefined wood/stone/bone, blocks all refined/composite materials AND physical-realm damage. Sophia's father (French craftsman) and wood pen backstory added. Mass Will release ("puddle") mechanic added for large-creature deaths. Queen's seeding campaign extended to Metis, setting up Arc 2's mop-up front. New Thread T scene (T-02c) added for Jace's early, unrecognized Metis-route sighting.
 - **Priority List Audit (2026-07-28):** Demoted Workshop Automation Cascade and Epigraph Audit to drafting-time notes; removed animal-handler stub; elevated S-01 verification, Kim seeding, Open Decision #8b, military timing, Mei retcon pass; converted Station Commander question into a flagged governance conflict.
 - **Transit Pacing Bridge (2026-07-28):** Added the Spire chapter ([[event_t_spire_eggs]]) — hatchling fight, second Will orb, waking perception bleed, Lanchee manifestation seed. Ruled: the plumbing-crisis Dipper crossed to **nest**; eggs hatch on approach; still a single self-terminating incursion. Canonical term "Will orb" affirmed.
 - **Cerberus's Will-Glow & Canine Astral Perception (2026-07-27):** Defined Cerberus's glow as Warm Amber/Bronze (mirroring Jace's base color family in an organic, non-geometric form). Documented canine Astral perception operating as an aura-scent and thermal gradient rather than human visual geometries.

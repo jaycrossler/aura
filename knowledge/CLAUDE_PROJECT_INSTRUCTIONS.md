@@ -224,7 +224,7 @@ Whenever the user places files into the `knowledge/to_merge/` directory to sugge
    - Create any new log files under `knowledge/review-queue/` as requested in the edits (e.g., `2026-07-19_delivery_reframe.md`).
 
 7. **Final Staged Cleanup**:
-   - **CRITICAL**: Delete the files inside `to_merge/` and remove the `to_merge/` directory itself **ONLY** after all edits have been fully applied, verified, and the user has confirmed approval.
+   - **CRITICAL**: Do **NOT** delete the `to_merge/` directory or its contents at the end of an import session. Leave the `to_merge/` directory and its contents intact. The user will manually delete files within it if they choose to do so.
 
 ## Periodic Knowledge Base Maintenance Workflow
 
