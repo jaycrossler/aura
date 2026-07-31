@@ -58,11 +58,13 @@ appearance_summary: >
   Short (5'2"), pale, slightly chaotic — the specific chaos of someone whose mind is
   outpacing her surroundings. Colourful clothing (pastels, reds, florals). Always
   a slightly-askew scarf from her rotating collection. Delicate expressive face that
-  looks French. Very animated when talking physics. Loses things constantly;
-  never loses her pen.
+  looks French.  Very animated when talking physics. Loses things constantly;
+  never loses her pen — not once, in the entire series, until the Queen fight.
 distinguishing_features: >
-  The fountain pen — a quality pen with a nib modified to work on tablet and paper;
-  always in a pocket; always being lost and returned. The paper notebook she uses
+  Her father's pen — a hand-carved wood pen blank fitted with a removable metal
+  nib/ink cartridge, so day-to-day it functions as a quality fountain pen
+  (works on tablet and paper); always in a pocket; the one object she never
+  loses, no matter what else goes missing. The paper notebook she uses
   in the Astral because she cannot pull her tablet across. The scarf always slightly
   askew. The habit of trailing off mid-sentence to write something down, then
   continuing ten minutes later.
@@ -81,26 +83,29 @@ absent_mindedness: Loses everything except her pen and her notebooks. Notebooks 
 
 # The Fountain Pen
 
-## The Pen (running texture, and Stage 3 payoff)
+## The Pen (never lost, and Stage 3 payoff)
 
-Sophia's father, a French craftsman, carved her a wood pen blank as a
-graduation gift — plain, unrefined, personal. She carries it for her field
-notebooks and routinely forgets or loses it across the series: left behind
-after a scene, borrowed and not returned, fished out of a pocket at the
-wrong moment. Plant this 2-3 times across Threads A/L/X, well before S-01,
-so its payoff there lands as earned rather than convenient.
+Sophia's father, a French craftsman, hand-carved her a wood pen blank as a
+graduation gift and fitted it with a removable metal nib/ink cartridge so
+she could use it as a real writing instrument. She carries it always. Unlike
+everything else she owns — scarves, tools, her own train of thought — she
+never loses this pen. Not once, across the entire series, until the Queen
+fight. That consistency should be planted as a quiet, specific fact (other
+characters comment on it, or Jace notices it as a Sophia-ism) well before
+S-01, so its breaking is a real event.
 
 **S-01 Stage 3 payoff:** during the Queen fight, someone throws a rock at
 her in desperation — it passes clean through her Astral shield where every
 prepared weapon has failed (see [[magic_dual_existence_entities]]). Sophia
-sees this happen and immediately understands why: her father's wood pen is
-the one unrefined, single-material object she has on her. She strips out
-the ink mechanism (the only manufactured part) and launches the bare wood
+sees this happen and immediately understands why: her father's pen, beneath
+the fittings, is solid unrefined wood — the one qualifying object she has on
+her. For the first time ever, she takes it apart, pulling the metal nib and
+ink cartridge free and discarding them, leaving bare wood. She launches the
 shaft with enough Force to push a boulder — through the shield, through the
-Queen's eye, into its brain. The kill is the convergence of the running
-"lost pen" texture, her father, her scientific observation (recognizing the
-shield's material rule from someone else's failed rock-throw), and a Force
-output she didn't know she had.
+Queen's eye, into its brain. The kill is the convergence of her father, her
+scientific observation (recognizing the shield's material rule from someone
+else's failed rock-throw), the one object she has never once let out of her
+possession — and a Force output she didn't know she had.
 
 # Victoria Cabin
 layout: One of three tiny cabins on a three-physicist ship
@@ -170,8 +175,7 @@ Alsatian "Hopla" appearing at the end of sentences when she is excited or fluste
 
 She is 5'2", pale white, slightly built, and slightly overweight. Her brown hair is
 usually in a quick bun that never fully holds. She dresses colourfully — pastels and
-florals — and always has a scarf slightly askew. She loses things constantly. She never
-loses her fountain pen for long (Jace frequently returns it; she left it in the Astral again).
+florals — and always has a scarf slightly askew. She loses things constantly. She never, not once, loses her father's pen.
 
 ### The *Victoria* Interior
 Three-person crew: Sophia, plus two crewmates (French and Greek; names TBD) who are

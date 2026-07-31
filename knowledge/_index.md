@@ -37,7 +37,7 @@
     - char_nick_lee.md - name: Nick Lee; id: char_nick_lee; status: alive; updated: 2026-07-14; type: Rotates between types and spices; always trying different combinations; description: A very nice ergonomic chair with built-in back massager, armrest keyboards,; lines: 228; xrefs: 1; canonical: false
     - char_saul.md - name: Saul (last name TBD); id: char_saul; status: alive — recovering from surgery; updated: 2026-06-17; description: >; lines: 101; xrefs: 2; canonical: false; chars: maureen, jace_apollo
     - char_sister_artemis.md - name: [first name TBD] "Artemis" Grant; id: char_sister_artemis; status: alive (at story start — comms increasingly unreliable); updated: 2026-06-23; description: Character profile for Artemis Grant, Jace's older sister and ship builder at Metis Station.; lines: 134; xrefs: 0; canonical: false
-    - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-06-30; description: Character profile detailing Dr. Sophia Lotte, an ESA physicist who pioneered human Astral crossing.; lines: 293; xrefs: 1; canonical: false
+    - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-06-30; description: Character profile detailing Dr. Sophia Lotte, an ESA physicist who pioneered human Astral crossing.; lines: 297; xrefs: 1; canonical: false
     - char_suzi.md - name: Suzi Gonzales; id: char_suzi; status: alive; updated: 2026-07-27; description: Character profile for Suzi, Fortuna Station chief of security and investigative ally.; lines: 127; xrefs: 0; canonical: false
     - non-canonical-ideas/
         - char_jelly_grant.md - name: Jelly; id: char_jelly_grant; status: alive (off-page, on Earth); canonical: false; updated: 2026-05-02; description: Character profile for Jelly Grant, a dog representing home and enduring family connection.; lines: 77; xrefs: 0; canonical: false
@@ -52,7 +52,7 @@
     - normalize_cross_references_2026-07-26.md - updated: 2026-07-26; lines: 1155; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-27.md - updated: 2026-07-27; lines: 1254; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-28.md - updated: 2026-07-28; lines: 1278; xrefs: 0; canonical: false
-    - normalize_cross_references_2026-07-31.md - updated: 2026-07-31; lines: 1286; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-07-31.md - updated: 2026-07-31; lines: 1277; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: proposed; updated: 2026-07-21; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 95; xrefs: 7; canonical: proposed; chars: jace_apollo, major_barnes
@@ -228,11 +228,8 @@
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-07-14; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
-    - CHANGES.md - updated: 2026-07-28; lines: 42; xrefs: 0; canonical: false
-    - EDITS.md - updated: 2026-07-28; lines: 157; xrefs: 0; canonical: false
-    - new_files/
-        - magic_dual_existence_entities.md - name: Dual-Existence Entities; id: magic_dual_existence_entities; status: canonical; canonical: true; updated: 2026-07-28; type: magic_system; description: >; lines: 96; xrefs: 4; canonical: true
-        - S01_stage3_v2.md - updated: 2026-07-28; lines: 105; xrefs: 0; canonical: false
+    - CHANGES.md - updated: 2026-07-28; lines: 32; xrefs: 0; canonical: false
+    - EDITS.md - updated: 2026-07-28; lines: 64; xrefs: 0; canonical: false
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -266,7 +263,7 @@
     - visual_profile_kael.md - name: Visual Profile — Kael; id: visual_profile_kael; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 349; xrefs: 3; canonical: false; chars: kael
     - visual_profile_nick_lee.md - name: Visual Profile — Nick Lee; id: visual_profile_nick_lee; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 238; xrefs: 2; canonical: false; chars: nick_lee
     - visual_profile_ship_falcon.md - name: Visual Profile — The Falcon; id: visual_profile_ship_falcon; status: good; updated: 2026-07-14; type: visual_profile; description: >; lines: 361; xrefs: 4; canonical: false; chars: maureen, jace_apollo, mei
-    - visual_profile_sophia_lotte.md - name: Visual Profile — Sophia Lotte; id: visual_profile_sophia_lotte; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 233; xrefs: 3; canonical: false; chars: sophia_lotte
+    - visual_profile_sophia_lotte.md - name: Visual Profile — Sophia Lotte; id: visual_profile_sophia_lotte; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 237; xrefs: 3; canonical: false; chars: sophia_lotte
     - voice_char_jace_apollo.md - id: voice_char_jace_apollo; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: Detailed vocal and speech pattern profile for character Jace Apollo Grant.; lines: 400; xrefs: 0; canonical: false
     - voice_char_lt_rich_cullivan.md - id: voice_char_lt_rich_cullivan; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: Detailed voice profile for Lt. Rich Cullivan, including emotional and situational speech patterns.; lines: 326; xrefs: 0; canonical: false
 
@@ -308,7 +305,6 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `CHANGES`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
 - `EDITS`
-- `S01_stage3_v2`
 - `book01-opening-notes`
 - `event_t_spire_eggs`
 - `image_generation_agent_prompt`

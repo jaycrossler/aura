@@ -1043,15 +1043,6 @@ last_updated: 2026-07-31
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `to_merge\new_files\magic_dual_existence_entities.md`
-
-| Before | After |
-|---|---|
-| `"[[magic_cryptid_species_reference]]"` | `[[magic_cryptid_species_reference]]` |
-| `"[[magic_will_orbs]]"` | `[[magic_will_orbs]]` |
-| `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
-| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-
 ### `universe-spec\concept_ai_seams.md`
 
 | Before | After |

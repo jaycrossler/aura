@@ -99,8 +99,8 @@ finisher**, not four sources of simultaneous damage:
   desperate, out of options — throws a rock at the Queen. It passes clean
   through the shield where every prepared weapon has failed. Sophia sees it
   happen and immediately understands why (see [[char_sophia_lotte]]):
-  unrefined material bypasses the filter. She has one such object on her —
-  her father's wood pen. She strips the ink mechanism out, leaving bare
+  unrefined material bypasses the filter. She has exactly one such object on her —
+  the pen she has never once lost. She strips the ink mechanism out, leaving bare
   worked wood, and channels everything she has into it: a Force output
   equivalent to launching a boulder, driving the wood shaft through the
   shield and through the Queen's eye into its brain. "Never piss off a

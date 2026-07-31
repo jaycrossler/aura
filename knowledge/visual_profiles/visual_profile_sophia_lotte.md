@@ -52,7 +52,7 @@ features and expressive face of someone from Alsace who has always lived too muc
 in her head. She doesn't register that Jace is much taller than her. She gestures
 when she speaks, energetically enough that he has learned to step back.
 
-She loses things constantly. She never loses her pen.
+She loses things constantly. She never loses her pen — not once, until the Queen fight.
 
 ### What She Doesn't Look Like
 Not an adventurer. Not athletic. Not someone who belongs outside a comfortable lab.
@@ -87,9 +87,8 @@ quietly remarkable precisely because she looks like this.
 - **Scarves:** A rotating collection of colourful scarves, not a single grey ESA-issue one;
   she alternates through them; always slightly askew; she grabs one automatically when leaving
 - Comfortable layers; slightly rumpled
-- **The fountain pen:** A quality pen with a nib modified to work on her tablet. Always in
-  a pocket. When misplaced (often), she has to type her notes instead, which she hates audibly.
-  Jace frequently returns it to her after finding it in the Astral.
+- **Her father's pen:** A hand-carved wood blank fitted with a removable metal
+  nib, always in a pocket. Unlike everything else, she never misplaces this.
 - **Paper notebook:** Cannot pull her tablet across the dimensional membrane; carries a
   printed paper notebook for Astral work, used with the fountain pen
 
@@ -104,9 +103,9 @@ quietly remarkable precisely because she looks like this.
 ## Characteristic Behaviours
 
 ### Losing Things
-She loses things constantly. The fountain pen is the primary casualty. Also: whichever
-scarf she needs, small tools she was just holding. She never loses data. Every notebook
-is backed up across multiple servers.
+Scarves and small tools are the usual casualties — whichever she needs, or
+whichever she was just holding. Her father's pen is never among them. Not
+once, not ever, until the Queen fight (see char_sophia_lotte.md).
 
 ### Dictating
 Paces constantly while dictating. Gestures energetically with both hands — Jace has
@@ -142,12 +141,17 @@ livestock — brings up the cheese possibilities at somewhat unrelated moments.
 
 ---
 
-## The Fountain Pen
-- Quality pen; the kind bought as a meaningful gift
-- Nib modified to work on tablet surfaces — she writes naturally on both paper and screen
-- Used for journals, tablet annotation, Astral notebook diagrams, underlining things she wants to say
-- Without it: audibly unhappy typing, clipped speech
-- When Jace returns it: immediate relief; no comment on having left it in the Astral again
+## The Pen
+
+- Her father's pen: a hand-carved wood blank, French craftsmanship, graduation
+  gift — fitted with a removable metal nib/ink cartridge so it functions as a
+  quality writing instrument on both tablet and paper
+- Used for journals, tablet annotation, Astral notebook diagrams, underlining
+  things she wants to say
+- The one object she never loses — not once, across the entire series, until
+  she deliberately takes it apart at the Queen fight (see char_sophia_lotte.md,
+  arc_01_thread_S_swarm.md Stage 3)
+- Prior to that moment, do not write any scene where she misplaces or loses it
 
 ---
 
