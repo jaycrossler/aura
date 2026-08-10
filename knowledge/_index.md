@@ -1,6 +1,7 @@
 # Directory Tree
 
 - arcs/
+    - _orphaned_scenes.md - name: Orphaned Scenes; id: _orphaned_scenes; status: active; updated: 2026-08-10; type: orphaned_scenes; description: Scenes removed from an arc's Scene Index table via the app, pending recovery.; lines: 19; xrefs: 0; canonical: false
     - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-07-19; type: arc; description: >; lines: 429; xrefs: 32; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong, kim, torres, carlos
     - arc_01_thread_A_arrival.md - name: Arc 1 — Thread A: Arrival; id: arc_01_thread_A_arrival; status: draft; canonical: true; updated: 2026-07-15; type: arc_thread; description: >; lines: 221; xrefs: 8; canonical: true; chars: jace_apollo, carlos, kim, torres, mira, hayes
     - arc_01_thread_L_life_texture.md - name: Arc 1 — Thread L: Life Texture; id: arc_01_thread_L_life_texture; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 216; xrefs: 6; canonical: true; chars: jace_apollo, sophia_lotte, mei, mira, kim
@@ -24,7 +25,7 @@
     - char_eugene.md - name: Dr. Eugene Hart; id: char_eugene; status: alive; updated: 2026-06-26; description: Character profile for Dr. Eugene Hart, the brilliant and loud original architect of the {Aura} core engine.; lines: 236; xrefs: 0; canonical: false
     - char_hayes.md - name: Hayes; id: char_hayes; status: alive (medbay — unconscious, then recovering; permanently left-handed); updated: 2026-06-28; type: character; description: >; lines: 216; xrefs: 5; canonical: false; open_decisions: 3; chars: jace_apollo, cerberus, lanchee
     - char_helena.md - name: Helena [surname TBD]; id: char_helena; status: deceased, then resurrected (disappeared; body never recovered; resurrection is a later reveal — TRUE CAUSE OF DEATH AND RESURRECTION MECHANISM ARE GM/REVEAL-LATER); updated: 2026-07-02; description: Character profile detailing Helena's disappearance and magical crossing into the Astral plane.; lines: 173; xrefs: 2; canonical: false
-    - char_jace_apollo.md - name: Jace Grant; id: char_jace_apollo; status: alive; updated: 2026-07-21; description: Character profile detailing Jace Grant, a discharged Air Force officer discovering latent magical abilities.; lines: 476; xrefs: 18; canonical: false; chars: dawn_chris_grant, major_barnes, sister_athena, mr_sylvester, hayes, mira, sister_artemis, cerberus, nick_lee, sophia_lotte, mei, jin_luong
+    - char_jace_apollo.md - name: Jace Apollo Grant; id: char_jace_apollo; status: alive; lines: 9; xrefs: 0; canonical: false
     - char_jin_luong.md - name: Jin Lóng; id: char_jin_luong; status: alive; updated: 2026-06-30; description: >; lines: 291; xrefs: 0; canonical: false
     - char_kael.md - name: Kael; id: char_kael; status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system; updated: 2026-06-26; description: Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice.; lines: 324; xrefs: 2; canonical: false; chars: kai
     - char_kai.md - name: Kai; id: char_kai; status: alive; updated: 2026-06-26; description: Character profile for Kai, a Crystal Dragon familiar Will-bonded to Kael, who scales in size and capability across dimensional layers and serves as Kael's mount in the Astral and Hyperspace.; lines: 184; xrefs: 2; canonical: false; chars: kael
@@ -53,6 +54,7 @@
     - normalize_cross_references_2026-07-27.md - updated: 2026-07-27; lines: 1254; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-28.md - updated: 2026-07-28; lines: 1278; xrefs: 0; canonical: false
     - normalize_cross_references_2026-07-31.md - updated: 2026-07-31; lines: 1277; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-08-10.md - updated: 2026-08-10; lines: 1263; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: proposed; updated: 2026-07-21; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 95; xrefs: 7; canonical: proposed; chars: jace_apollo, major_barnes
@@ -132,8 +134,8 @@
     - rq_2026-07-15_book1_first_pass.md - id: rq_2026-07-15_book1_first_pass; status: open; updated: 2026-07-15; type: review_queue; description: Book 1 first-pass review queue — updated after author decision round 1.; lines: 40; xrefs: 0; canonical: false
 - scenes/
     - book01-opening-notes.md - id: scenes_book01_opening_notes; status: pre-draft; updated: 2026-07-28; description: Working outline detailing early scenes, backstory, and structural notes for Book 1's opening.; lines: 144; xrefs: 16; canonical: false
-    - draft_ch00_prologue_helena.md - name: Prologue — Helena's Last Day; id: draft_ch00_prologue_helena; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death.; lines: 87; xrefs: 4; canonical: false; chars: helena, suzi
-    - draft_ch01_departure.md - name: Chapter 1 — Departure; id: draft_ch01_departure; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: First-pass prose: Falcon departure burn, ballast sounds, ship AI intro, Artemis birthday call, duck email, games with Nick, first HUD headache.; lines: 114; xrefs: 7; canonical: false; chars: jace_apollo, maureen, mei, cerberus, nick_lee
+    - draft_ch00_prologue_helena.md - name: Prologue — Helena's Last Day; id: draft_ch00_prologue_helena; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death.; lines: 176; xrefs: 4; canonical: false; chars: helena, suzi
+    - draft_ch01_departure.md - name: Chapter 1 — Departure; id: draft_ch01_departure; status: draft_v2; updated: 2026-08-10; type: chapter_draft; description: First-pass prose: Falcon departure burn, ballast sounds, ship AI intro,; lines: 193; xrefs: 7; canonical: false; chars: jace_apollo, maureen, mei, cerberus, nick_lee
     - draft_ch02_morning_rounds.md - name: Chapter 2 — Morning Rounds; id: draft_ch02_morning_rounds; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: Rewrite of the existing morning-round draft: preserves Saul's notes, the dog waste station, Mei/Siren, the pig conspiracy, Lanchee's closed door; adds the T-02a headache beat and radiation-pill/breathing-mask routine.; lines: 87; xrefs: 6; canonical: false; chars: jace_apollo, cerberus, mei, lanchee
     - draft_ch03_afternoon_workshop.md - name: Chapter 3 — Afternoon Workshop; id: draft_ch03_afternoon_workshop; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: Light continuity pass on the 2026-07-14 workshop rewrite, which is already current (Sparky as tinkering project, Origin lockdown frustration, controller print, Nick mecha dialogue). Confirmed epigraph applied. Small additions: headache continuity, Cerberus scale.; lines: 72; xrefs: 4; canonical: false; chars: nick_lee, saul
     - draft_ch04_plumbing_crisis.md - name: Chapter 4 — The Plumbing Crisis; id: draft_ch04_plumbing_crisis; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: Full prose from the approved beats: pipe tear, iced berths, wobble, cut-vs-balance decision, counter-ballast fix, drone ice cut with prototype coordination node, the incursion glimpse, Maureen's dressing-down, Saul's note.; lines: 113; xrefs: 5; canonical: false; chars: maureen
@@ -228,8 +230,10 @@
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-07-14; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
-    - CHANGES.md - updated: 2026-07-28; lines: 32; xrefs: 0; canonical: false
-    - EDITS.md - updated: 2026-07-28; lines: 64; xrefs: 0; canonical: false
+    - aura_knowledge_base_diff_20260810_183631.zip
+    - CHANGES.md - updated: 2026-08-10; lines: 19; xrefs: 0; canonical: false
+    - scenes/
+        - draft_ch00_prologue_helena.md - name: Prologue — Helena's Last Day; id: draft_ch00_prologue_helena; status: staged_draft; updated: 2026-07-15; type: chapter_draft; description: First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death.; lines: 176; xrefs: 4; canonical: false; chars: helena, suzi
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -304,7 +308,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 
 - `CHANGES`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
-- `EDITS`
+- `_orphaned_scenes`
 - `book01-opening-notes`
 - `event_t_spire_eggs`
 - `image_generation_agent_prompt`
@@ -313,6 +317,8 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `normalize_cross_references_2026-07-27`
 - `normalize_cross_references_2026-07-28`
 - `normalize_cross_references_2026-07-31`
+- `normalize_cross_references_2026-08-10`
 - `review_queue`
 - `system_character_sheets_skill_format`
+- `voice_char_jace_apollo`
 
