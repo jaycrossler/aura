@@ -315,9 +315,8 @@ Full contracts live in the linked thread file.
 | 0 | Prologue | — | Helena's last day | `event_helena_prologue` | drafted |
 | 1 | T-01 / T-02a | T | Departure and rounds — duck email, Artemis b-day call, ballast sounds, ship majordomo, recurring HUD headaches begin | `draft_ch01_departure_and_rounds` | drafted |
 | 3 | T-02b | T | No More Voices — Maureen's AI aversion, grifts, majordomo | `draft_ch02_no_more_voices` | drafted |
-| 4 | T-03 | T | The Plumbing Crisis | thread_T | drafted |
-| 5 | T-03a | T | The Morning After — Will-shocked, unexplained | thread_T | ok |
-| 6 | T-03b | T | The {Alex} Debrief — fine, Platinum revoked | thread_T | ok |
+| 4 | T-03 | T | The Plumbing Crisis | `draft_ch04_plumbing_crisis` | drafted |
+| 5 | T-03a / T-03b | T | The Morning After — Will-shocked, unexplained; the {Alex} Debrief — fine, Platinum revoked | `draft_ch05_morning_after_debrief` | drafted |
 | 7 | T-03b2 | T | The Learning Mode Incident | thread_T | drafted |
 | 8 | T-03c | T | The Artemis Call | thread_T | ok |
 | 9 | T-03d | T | The Pig-Butt Canister | thread_T | ok |

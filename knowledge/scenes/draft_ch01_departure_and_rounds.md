@@ -126,6 +126,24 @@ He attached the airflow readings. He did not attach the photograph. If Jace orde
 
 Mei stood in the galley with one hand around a mug and the other feeding a scrap of egg to Siren. Cerberus saw his sister and launched himself. Siren stepped aside without looking. He hit the cabinet, rebounded in four-tenths gravity, and landed facing the wrong direction.
 
+The coffee machine debited five Prime tokens for coffee, sugar, and something labeled *cream analogue*. Jace watched a gray ribbon curl into his cup.
+
+"Five tokens?"
+
+"Cancelled passengers," Maureen said from the table. "Lost fares. Consumables still cost money."
+
+Jace opened the machine's public price history in his HUD. "But these prices haven't changed in seven years. I use all but one of my Prime tokens just to buy food and drink daily."
+
+Maureen scowled.
+
+The coffee machine blipped. "New price update!"
+
+Coffee now cost one token more.
+
+Mei glared at Jace over the rim of her mug.
+
+Jace took a careful sip. "I have improved the voyage economy."
+
 Mei watched him recover. She ran the livestock operation. Jace carried tools, handled maintenance, and served as the backup Origin had hired for this one crossing.
 
 "He will learn," Jace said.
@@ -265,6 +283,7 @@ Behind his left eye, the burning coal flared with pain.
 | T-01.10 - No settlers travel; the Chinese mining crew withdrew and the cargo-heavy rotation loses money | done | must_accomplish | beat1_departure_burn |
 | T-01.11 - Mei leads animal care and Jace assists as the one-trip backup | done | must_accomplish | beat2_morning_routine |
 | T-01.12 - Artemis and Jace speak in real time near Metis for the first time in five years | done | must_accomplish | beat3_birthday_and_game |
+| T-01.13 - Maureen charges heavily for coffee, sugar, and fake cream and raises the price after Jace challenges her explanation | done | must_accomplish | beat2_morning_routine |
 | T-02a.1 - Recurring morning headache appears briefly and remains unresolved | done | must_accomplish | beat2_morning_routine |
 | T-02a.2 - Lanchee finds nothing alarming | done | must_accomplish | beat2_morning_routine |
 | T-02a.3 - Jace accepts the hot HUD as the mundane explanation | done | must_accomplish | beat2_morning_routine |

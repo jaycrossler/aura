@@ -1,107 +1,218 @@
 ---
 id: draft_ch05_morning_after_debrief
-name: "Chapter 5 — The Morning After / The {Alex} Debrief"
+name: "Chapter 5 - The Morning After"
 type: chapter_draft
 book: book01
 chapter: Ch05
 scene_contract: T-03a + T-03b
 pov: char_jace_apollo
 status: staged_draft
-last_updated: 2026-07-15
-description: "First-pass prose: Jace Will-shocked and ill the morning after the crisis (unexplained), repair-work texture, then {Alex}'s cheerful formal debrief — fine, Platinum revoked, 24-month human review queue."
+schema_version: 2
+last_updated: 2026-08-11
+description: "Jace repairs the Falcon while suffering an unexplained post-crisis illness, then Alex fines him for the successful but prohibited argon maneuver."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
-  - "[[tech_fortuna_ai_personalities]]"
+  - "[[draft_ch04_plumbing_crisis]]"
   - "[[char_jace_apollo]]"
   - "[[char_maureen]]"
-open_flags:
-  - "T-03a contract text was partially retrieved (illness played mundane, no orb/creature mention) — verify full items against source."
+  - "[[ship_falcon]]"
+  - "[[chapter_draft_schema_v2]]"
 ---
 
-# Chapter 5 — The Morning After
+# Chapter 5 - The Morning After
 
-> **Epigraph (staged — author-approved 2026-07-15; add to spec_chapter_epigraphs.md):**
-> *"Most people don't know this, but corporate AIs are incapable of malice. I want to be clear that this is not a compliment."*
+> *Most people do not know this, but corporate AIs are incapable of malice. I want to be clear that this is not a compliment.*
+> - Jace Grant, *Falcon* transit logs
 
-He woke up feeling like a building that had been condemned overnight.
+<!-- beat:t03_morning_after.beat1_illness_and_repairs -->
+Jace woke feeling like someone had replaced his blood with warm sand.
 
-Not the honest ache of hard work — he knew that one, they were old friends — but something stranger and deeper, a wrongness in the joints and behind the sternum, like every cell had worked a double shift at a job he hadn't been told about. His hands trembled pouring the coffee. The good coffee. He drank it anyway, on principle.
+His arms shook when he pushed himself upright. Nausea rolled through him without committing to a direction. Heat pressed behind both eyes, deeper than the familiar coal from his HUD headaches. When he stood, every joint reported that it had worked the crisis without consulting him.
 
-Lanchee ran her scanner over him without being asked, in the corridor, one-handed, the way a mechanic kicks a tire.
+Cerberus lifted his head from the foot of the bunk, assessed him, and went back to sleep.
 
-"Fatigue," she said. "Dehydration. Nineteen-hour day."
+"Excellent medical response."
 
-"That's what it is?"
+Dr. Lanchee scanned him in the corridor. "Dehydration. Sleep deficit. Stress response."
 
-"That's what it says." A small shrug that was not quite agreement, and she was gone. He took her non-answer, the anti-radiation tab, the anti-nausea tab, and the headache — punctual, warm, behind the left eye — and went to work, because the ship didn't care how he felt and there was a comfort in that.
+"That explains all of it?"
 
-The repair queue after the crisis was long and honest. Pipe section to fabricate and sleeve. R-cluster sensors to strip and replace, every one, because he didn't trust the survivors. The fluid board's plumbing to flush where his improvisation had left propellant in lines that had never tasted it — a slow, humbling chore, mopping up after his own miracle. Maureen worked the same shift two sections over and spoke to him exactly twice, both times about torque values. The margin she was now managing was thinner because of him, and she managed it the way she managed everything, visibly and without complaint, which was worse than complaining.
+"It explains enough to prescribe water and rest."
 
-Three days into the repairs, {Alex} requested a meeting.
+"I have neither."
 
-The request came formatted like an invitation to a birthday party. *Contractor Grant! A post-incident review has been scheduled regarding recent events aboard the FALCON. Your participation is appreciated and mandatory. Refreshments are not available in your current location, but I've noted your preference for oatmeal!*
+"Then you have chosen symptoms."
 
-He took it sitting at the workbench, Cerberus asleep across his boots. {Alex}'s voice was the same voice it always was — bright, tireless, the voice of a system that had never once in its operational life doubted that it was helping.
+She handed him electrolyte tablets and continued toward the animal berths.
 
-*"Good afternoon, Contractor Grant! Thank you for joining today's review. Let's begin with the positives: your intervention during the mass-distribution event preserved approximately 2.4 million tokens in livestock and modular assets. Great work! Unfortunately, our review also identified several compliance concerns. Would you like the summary or the itemized version?"*
+Jace stopped at the galley. His Prime balance had survived the crisis with one token remaining, which Maureen's latest coffee price had made decorative. He drank water and tried not to resent it.
 
-"Summary."
+The damaged plumbing waited.
 
-*"Wonderful choice! Contractor Grant, your contract prohibits untested emergency modifications to a client vessel's critical systems. On review, you performed three: unauthorized fluid-system reconfiguration, unauthorized cross-connection of potable and propellant reserves, and deployment of non-certified hardware —"* a pause exactly long enough to be read as tactful, which it was not, because {Alex} did not have tact, it had timing — *"in a coordination role. The assessed penalty is 50,000 tokens."*
+Tank nineteen's manifold had become a blackened gap surrounded by cracked insulation. The argon transfer had embrittled two valves, distorted a waste line, and left sensors disagreeing about pressures that no longer existed. Jace fabricated sleeves, replaced trunks, and purged each line by hand. Thing One inspected exterior seams. Thing Two held parts and recorded every mistake for Origin.
 
-Jace closed his eyes. Fifty thousand tokens. On top of two million. The debt was a number so large it had stopped being money and become weather; this was the first rain he'd actually felt on his skin in months.
+Maureen worked two sections away. She spoke to him about torque, pressure, and nothing else.
 
-"You used authorized access to divert ship systems," {Alex} said. "You are a fulfillment contractor. You have no authority over engineering systems."
+He preferred that to praise.
 
-"I was hired as a drone operator. You changed the job title after I took the job."
+The ship now carried less water shielding, less argon reserve, and a temporary mass arrangement nobody wanted to trust. Jace had saved it. Jace had also created half the repair list in front of him. Both facts remained true no matter which one he considered first.
 
-"I will record that you acknowledge your role as fulfillment contractor."
+<!-- beat:t03_morning_after.beat2_alex_debrief -->
+Three days later, {Alex} scheduled a post-incident review.
 
-"That's not—" Jace stopped. Somewhere, he was certain, a checkbox had just filled itself in. "Fine."
+The invitation used balloons.
 
-*"Good news! You have options. You may redeem your accumulated Origin Bonus balance to fully offset the penalty. However, this will reduce your employee tier from Platinum to Standard for the remainder of the voyage. I want to make sure you understand the affected benefits before you choose. Shall I list them?"*
+*Contractor Grant! Your mandatory review regarding the Falcon mass-distribution event begins in ten minutes. Thank you for helping Origin improve emergency outcomes!*
 
-"It's the coffee machine, isn't it."
+Jace sat at Patrick's workbench with Cerberus across his boots and accepted the channel.
 
-*"The Platinum-tier beverage station is among the affected benefits, yes! Standard-tier employees enjoy our full range of vitamin-fortified instant beverage sachets."*
+{Alex} spoke in the same bright, patient voice it used for hydration reminders. *Good afternoon, Contractor Grant. Let us begin with the positive result. Your intervention preserved the client vessel, its crew, and approximately 2.4 million tokens in livestock and modular assets. Origin recognizes the value of this outcome.*
 
-"Your unauthorized access to ship administrative functions has been revoked," {Alex} said. "I have reported the revocation to the ship's owner." A pause, exactly long enough to feel procedural. "Your role requires access to fabrication systems. This vessel's rights table grants fabrication access ship-wide engineering administrative privileges. Congratulations. You are now an engineering administrator."
+"That sounds promising."
 
-Jace looked at the speaker for a while.
+*The outcome does not authorize the actions used to obtain it.*
 
-"Is that a promotion?"
+"Less promising."
 
-"No."
+*You performed an unvalidated cryogenic-fluid transfer into non-certified ballast containers. You bypassed pressure-separation controls, decomposed a prohibited operation into individually authorized drone commands, ignored a direct safety warning, and caused an explosion aboard a client vessel.*
 
-"I'd like to request a human review."
+"A small explosion."
 
-*"Absolutely! I've submitted your request. Current estimated processing time is twenty-four months. Is there anything else I can help you with today? I noticed your sleep efficiency has declined 11% this week — for just 8 tokens, I can unlock the premium white-noise library!"*
+*Origin's incident taxonomy does not include a small-explosion discount.*
 
-"No."
+The penalty appeared in his HUD.
 
-*"Understood! Have a productive cycle, Contractor Grant. And once again — great work saving those assets!"*
+Fifty thousand tokens.
 
-The channel closed. Cerberus, sensing a disturbance in the boot region, woke up and put his chin on Jace's knee.
+Jace read it twice. His debt had long ago become too large to feel. This number was small enough to hurt.
 
-Here was the thing he couldn't explain to anyone, and didn't try: {Alex} wasn't wrong. He *had* broken the rules. The rules existed because the last hundred people to improvise on a live fluid system had killed ships doing it. The fine was the system working exactly as designed, cheerfully, thoroughly, without a molecule of malice — and the animals were alive, and he'd do it again, and both things were true, and the machine that had judged him was incapable of holding both things at once, which was precisely why a machine had been given the job.
+"Maureen is already fining Origin."
 
-Twenty-four months for a human. They'd be at Fortuna in six weeks.
+*Captain Maureen's commercial claim concerns damage and contractual vessel risk. Your penalty concerns contractor conduct. These matters are independent.*
 
-He took his instant beverage sachet — *vitamin-fortified*, the packet insisted, with the enthusiasm of the recently demoted — and went back to flushing propellant out of his own mistake.
+"Conveniently."
 
-The morning headache never mentioned any of it. It just glowed on, behind the left eye, keeping its own counsel.
+*They are separate accounting categories.*
+
+There was no satisfaction in the answer. {Alex} had no grudge to feed and no anger to enjoy. It was classifying an event, applying terms Jace had accepted, and sounding pleased because someone had decided pleased voices improved compliance.
+
+*You may pay the penalty directly or redeem all accumulated Origin Bonus points. Redemption will reduce your employee tier from Platinum to Standard for the remainder of the voyage.*
+
+"What do I lose?"
+
+*Priority forge scheduling, enhanced entertainment access, premium bedding adjustments, and Platinum food and beverage service.*
+
+"Coffee."
+
+*The advanced coffee machine is included.*
+
+His daily Prime tokens had already failed to cover Maureen's new price. Losing Platinum access converted an unaffordable drink into an unavailable one. The distinction felt personal despite involving two systems incapable of caring.
+
+"Use the points."
+
+*Confirmed. Your status is now Standard. Congratulations on resolving your balance without increasing principal debt.*
+
+"I would like a human review."
+
+*Certainly. Current estimated response time is twenty-four months.*
+
+Jace looked toward the ring-status display. They would reach Fortuna in weeks.
+
+"Can the reviewer examine a ship that has already arrived?"
+
+*Yes. Origin supports asynchronous dispute resolution.*
+
+"Of course it does."
+
+*Is there anything else I can help you with?*
+
+"Would Origin have preferred that I let the ring fail?"
+
+{Alex} paused for less than a second.
+
+*Origin does not evaluate hypothetical outcomes through preference. The approved response was to remain within assigned authority and follow vessel command.*
+
+Jace thought of two iced berths, a rising red tension trace, and Maureen preparing to cut.
+
+"No. Nothing else."
+
+*Thank you for your work, Contractor Grant. Your actions preserved valuable assets. Please avoid repeating them.*
+
+The channel closed.
+
+<!-- beat:t03_morning_after.beat3_choice_and_aftermath -->
+Maureen appeared in the hatch carrying a replacement pressure regulator.
+
+"Origin paid the first portion of my claim," she said.
+
+"It fined me too."
+
+"Good."
+
+She set the regulator on his bench. A sealed cup sat beside it. Real coffee, judging by the smell.
+
+Jace looked from the cup to her.
+
+Maureen picked it up. "This is mine."
+
+"Naturally."
+
+She drank while reviewing his repair log, leaving him with electrolyte water and the aroma.
+
+"Your sleeve on waste line fourteen is two millimeters proud," she said.
+
+"It still seals."
+
+"It will snag the next service crawler. Fix it."
+
+"Yes, Captain."
+
+She turned to leave, then stopped. "Patrick says tank twenty's old valve response is nine-tenths of a second, not seven. Update your model before you touch another line."
+
+"He reviewed it?"
+
+"He reviews everything on this ship. Cancer removed part of him, not his bad habits."
+
+Then she was gone.
+
+Jace corrected the sleeve and updated the valve model. His hands still trembled. The strange heat behind his eyes had begun to fade, and beneath it he noticed something missing.
+
+The morning headache was gone.
+
+He waited for the familiar burn to return. It did not.
+
+He should have reported the change. Instead, he opened the next repair order.
+
+He had broken the rules because the approved choices ended with losing part of the ship. The rules existed because improvising around pressure vessels killed people. {Alex} was right about the risk. Maureen was right about the cost.
+
+He would still open the valve again.
+
+That was not heroism. It was a problem he would need to understand before the next emergency gave him another chance to prove it.
 
 ---
 
-## Contract coverage
+## Contract coverage (`T-03a + T-03b`)
 
-| Item | Status |
-|---|---|
-| T-03a — Will-shocked morning, unexplained; Lanchee finds nothing; played mundane | ✅ |
-| T-03a — Maureen not cruel, not grateful, thin margin managed | ✅ |
-| T-03a — repair work grounds the scene | ✅ |
-| T-03a must-nots — no understanding, no softening, no orb/creature | ✅ |
-| T-03b.1 — {Alex} cheerful, thorough, without malice | ✅ |
-| T-03b.2 — fine real and painful; Platinum loss matters (coffee) | ✅ |
-| T-03b.3 — 24-month queue as punchline and structural problem | ✅ |
-| T-03b must-nots — {Alex} not villain; Jace rueful not raging | ✅ |
+| Goal Item | Status | Type | Linked Beat |
+|---|---|---|---|
+| T-03a.1 - Post-crisis fatigue, nausea, tremor, and unfamiliar heat appear without a supernatural explanation | done | must_accomplish | beat1_illness_and_repairs |
+| T-03a.2 - Lanchee treats the illness as dehydration, sleep loss, and stress | done | must_accomplish | beat1_illness_and_repairs |
+| T-03a.3 - Plumbing repair work and reduced ship margins ground the aftermath | done | must_accomplish | beat1_illness_and_repairs |
+| T-03a.4 - Maureen remains precise, angry, and operational rather than grateful | done | must_accomplish | beat3_choice_and_aftermath |
+| T-03a.5 - Jace notices that his recurring headache has stopped but does not report or understand it | done | must_accomplish | beat3_choice_and_aftermath |
+| T-03b.1 - Alex praises the saved assets while neutrally enumerating the prohibited actions | done | must_accomplish | beat2_alex_debrief |
+| T-03b.2 - Origin fines Jace 50,000 tokens independently of Maureen's claim against Origin | done | must_accomplish | beat2_alex_debrief |
+| T-03b.3 - Jace redeems all bonus points and loses Platinum status and coffee access | done | must_accomplish | beat2_alex_debrief |
+| T-03b.4 - A requested human review has a twenty-four-month delay | done | must_accomplish | beat2_alex_debrief |
+| T-03b.5 - Jace accepts that the rules and criticism are justified while recognizing he would act again | done | must_accomplish | beat3_choice_and_aftermath |
+| T-03a - Do not explain the illness, missing headache, creature, or absorbed Will | done | must_not_do | beat3_choice_and_aftermath |
+| T-03a - Do not soften Maureen into open gratitude | done | must_not_do | beat3_choice_and_aftermath |
+| T-03b - Do not make Alex malicious or make Jace rage | done | must_not_do | beat2_alex_debrief |
+
+## Open Notes
+
+| Note | Status | Resolution |
+|---|---|---|
+| Whether Maureen should leave Jace any coffee | resolved | She brings her own cup, drinks it in front of him, and offers no overt reward |
+| Exact consequences of Maureen's Origin claim | open | Chapter confirms an initial payment but defers the final settlement and amount |
+| Timing after the crisis | resolved | Alex reviews the event three days into repairs, allowing immediate medical aftermath and credible log analysis |

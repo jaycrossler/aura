@@ -92,6 +92,10 @@ Jace considered Screwdriver's campaign against the service latch. "I would hear 
 
 Maureen touched the terminal, approved the maintenance sort, and began cutting the coolant line into measured lengths.
 
+Behind her, insulated pump trunks crossed the workshop bulkhead on their way from the ring tanks to the stationary spine. Most carried water. The larger silver lines carried argon, nearly a thousand tonnes of it at departure, held cold and dense until the ion and Hall-effect thrusters metered it into plasma and pushed it out the stern. Argon did not burn. It barely reacted with anything. On the *Falcon*, that made it useful enough to keep in enormous tanks and boring enough for everyone to forget it was there.
+
+Jace liked boring systems. They usually waited until later to become interesting.
+
 Jace watched the queue reorder. "Why does a ship this size not have an AI?"
 
 The cutter stopped.
@@ -263,6 +267,7 @@ The crystal hallway waited behind them.
 | Workshop bridge - Sparky remains a non-operational project | done | must_accomplish | beat2_automation_and_sparky |
 | Workshop bridge - Jace prints a future Sparky controller shell and Nick plants the short mech | done | must_accomplish | beat2_automation_and_sparky |
 | Workshop bridge - Jace uses the HUD, loses every game, and improves from two toward three controlled units | done | must_accomplish | beat2_automation_and_sparky |
+| Propulsion bridge - Supercooled argon feeds the ion and Hall-effect thrusters through extensive pump and tank infrastructure | done | must_accomplish | beat1_forge_and_voices |
 | T-02a recurrence - headache, diagnostics, and under-reporting remain mundane | done | must_accomplish | beat2_automation_and_sparky |
 | AI typography - AI names use braces and the majordomo does not | done | must_accomplish | beat1_forge_and_voices |
 | T-02b - Do not give the *Falcon* a ship AI | done | must_not_do | beat3_night_recurrence |
