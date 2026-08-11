@@ -9,9 +9,8 @@ status: pre-draft
 last_updated: 2026-07-28
 cross_references:
   - "[[draft_ch00_prologue_helena]]"
-  - "[[draft_ch01_departure]]"
-  - "[[draft_ch02_morning_rounds]]"
-  - "[[draft_ch03_afternoon_workshop]]"
+  - "[[draft_ch01_departure_and_rounds]]"
+  - "[[draft_ch02_no_more_voices]]"
   - "[[draft_ch04_plumbing_crisis]]"
   - "[[draft_ch05_morning_after_debrief]]"
   - "[[draft_ch06_learning_mode]]"
