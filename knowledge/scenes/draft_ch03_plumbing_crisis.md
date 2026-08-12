@@ -1,9 +1,9 @@
 ---
-id: draft_ch04_plumbing_crisis
-name: "Chapter 4 - The Plumbing Crisis"
+id: draft_ch03_plumbing_crisis
+name: "Chapter 3 - The Plumbing Crisis"
 type: chapter_draft
 book: book01
-chapter: Ch04
+chapter: Ch03
 scene_contract: T-03
 pov: char_jace_apollo
 status: staged_draft
@@ -19,7 +19,7 @@ cross_references:
   - "[[chapter_draft_schema_v2]]"
 ---
 
-# Chapter 4 - The Plumbing Crisis
+# Chapter 3 - The Plumbing Crisis
 
 > *Most people do not know this, but a spinning ship is a washing machine large enough to have a mortgage. Everyone aboard has one job: do not become the boot in the drum.*
 > - Jace Grant, *Falcon* transit logs
@@ -43,27 +43,27 @@ Cerberus barked once, prepared to defend ventilation with his life.
 
 Jace ran.
 
-The pressure board told the story in red. A primary water line had ruptured near ring segment fourteen. Tons of shielding and ballast water had escaped through the outer hull. In vacuum, the spray had flash-frozen across the exterior instead of drifting cleanly away. Camera views showed a white mass wrapped around one side of the ring, a lopsided glacier gripping two module berths and the tank zones behind them.
+The pressure board on a nearby screen told the story in red. A primary water line had ruptured near ring segment fourteen. Tons of shielding and ballast water had escaped through the outer hull. In vacuum, the spray had flash-frozen across the exterior instead of drifting cleanly away. Exterior camera views showed a huge white mass wrapped around one side of the ring, a lopsided glacier gripping two module berths and the tank zones behind them.
 
 The pumps tried to compensate. Tank after tank reported empty, isolated, or below suction pressure. There was not enough movable water left to oppose the ice.
 
 Each rotation drove the excess mass outward. Each rotation bent the spokes, relaxed them, then bent them again.
 
-*Thump.*
+*Thump.* It was getting louder.
 
-Structural tension climbed through yellow.
+Structural tension climbed into the yellow.
 
-Maureen stood at the junction board in a pressure liner, one hand locked around a rail. Mei worked the animal telemetry beside her. The pigs and heifers were cold but alive. The small-animal berth had pressure. Siren's tag showed her somewhere inside the affected arc, then vanished with the cameras.
+Maureen stood at the junction board in a pressure liner, one hand locked around a rail. Mei worked the animal telemetry beside her. The pigs and heifers were cold but alive. The small-animal berth had pressure. Siren's tag showed her somewhere inside the affected module, then vanished with the cameras.
 
 "We slow the ring," Maureen said. "If the wobble keeps growing, we cut the iced modules before they take the spoke with them."
 
-"There are animals in both."
+"There are animals in both."  Mei looked heartstricken.
 
 "I know what is in my ship."
 
 The deck rolled again. A seam above them clicked like a knuckle.
 
-Maureen keyed the spin command. "Thirty-seven minutes to the cut limit."
+Maureen keyed the spin command. "Thirty-seven minutes to the cut limit. After that the ring will be so lopsided we could tip over. At this speed we would break apart in seconds."
 
 <!-- beat:t03_plumbing_crisis.beat2_argon_plan -->
 Jace pulled every fluid blueprint the *Falcon* would let him see.
@@ -90,7 +90,7 @@ Now she looked.
 
 "No."
 
-The Origin partition opened in his HUD before he asked it to.
+The Origin partition opened on a nearby screen before he asked it to.
 
 *Contractor Grant,* {Alex} said brightly, *the proposed reconfiguration exceeds your authorized role, bypasses three pressure-separation controls, and has no validated operating procedure. Estimated loss-of-vessel probability exceeds Origin emergency-action limits. Do not proceed.*
 
@@ -108,17 +108,21 @@ Jace heard something else: Patrick's notes on valve lag, the pump curves, the de
 
 "And cutting two loaded berths fixes it?"
 
-"It might save the ring."
+"It should save the ring."  She had grabbed tools and went running off towards the manual releases.
 
-Might. The same uncertainty, paid for with animals and modules instead of rules.
+Should. The same uncertainty, paid for with the lifes of the pigs and ducks and Siren.
 
-Jace routed Thing One to the exterior cameras and Thing Two to the opposite tank manifold. Origin owned both drones. Their firmware rejected his first valve sequence. He rebuilt it as separate inspection and maintenance commands, each permitted alone and dangerous in combination.
+"We should try it!" he called at her retreating back.  She ignored him. He could hear her trying to call Patrick, but the time delay meant an hour before they'd get a response.  Not enough time.
 
-"Jace," Maureen said.
+"Then it's my call," Jace said, and loaded the blueprints onto the nearest screen.  Mei just looked at him, half in hope, half in fear.
+
+Jace routed Thing One out through the forward service lock and onto the hull itself, walking it hand-over-hand along the exterior grab rail to the manual valve panel bolted outside ring segment eleven — a panel built for exactly this, a human or a drone in a suit, standing in vacuum, opening physical valves that no software command from inside the ship was permitted to touch remotely. He put Thing Two on the interior tank manifold on the opposite side, watching pressure. Origin owned both drones. Their firmware rejected his first valve sequence as a combined operation. He rebuilt it as two separate commands — an exterior inspection task for Thing One's hands on the physical panel, a maintenance task for Thing Two's readout — each permitted alone, and only dangerous once he ran them at the same time, which was the entire idea.
+
+"Jace," Mei said.
 
 "I understand the system."
 
-"That is what people say immediately before proving they do not."
+"That is what people say immediately before proving they do not." He didn't realize until much later that she said it in perfect english.
 
 He opened the first cross-connect.
 
@@ -127,23 +131,25 @@ The argon pumps came alive through the deck.
 
 They did not sound like the water pumps. Water surged and gurgled. The cryogenic pumps produced a thin mechanical whine that Jace felt along his fillings. Temperature warnings multiplied as the first opposing tank accepted mass.
 
-The wobble worsened for two rotations.
+The wobble worsened for two rotations. *Thump*, *Thump*
 
 Then the lateral acceleration began to fall.
+
+He heard Maureen shouting from down the hall. "What are you doing? I was about to jetison the modules!"
 
 "Tank eighteen at twelve percent," Jace said. "Moving to nineteen."
 
 *Stop the transfer,* {Alex} said. Its pleasant tone did not change. *Residual fluid is indicated in target section nineteen.*
 
-The blueprint marked the section dry. Patrick's maintenance note reported a low pocket behind a retrofit elbow. Jace saw it half a second too late.
+The blueprint marked the section dry. Patrick's maintenance note reported a shower unitbehind a retrofit elbow. Jace saw it half a second too late.
 
-Supercooled argon hit warm water.
+Supercooled argon hit warm water in a small add-on tank.
 
 The water froze at the interface. The argon expanded violently against the forming plug. A pressure trace went vertical.
 
 "Close nineteen."
 
-Thing Two transmitted the command. The old valve took nine-tenths of a second to answer.
+Thing Two transmitted the command. The valce started to close. Too late.
 
 The manifold exploded.
 
@@ -159,19 +165,19 @@ Maureen grabbed the back of his liner and hauled him upright. "Status."
 
 "You just blew my plumbing apart."
 
-"Locally."
+"Only a bit of it."
 
 Her expression promised that the distinction would survive until sentencing.
 
 Jace rerouted around nineteen. Tank twenty accepted argon. Then twenty-one. The ring's sideways roll narrowed. Spoke tension fell from red to yellow, hesitated, then dropped into the operating band.
 
-The thump stopped.
+The thump stopped. The wheel stabilized.
 
 No berth separated. No spoke failed. Fifty-four animals, two dogs, four humans, and one thirty-year-old ship continued toward Fortuna.
 
 For several seconds, nobody spoke.
 
-Mei looked at the animal board. "Siren safe. Ducks."
+Mei looked at the animal board, where the feed was showing squacking barking chaos. "Siren safe. Ducks OK."
 
 Jace let out a breath he did not remember holding.
 
@@ -184,29 +190,37 @@ Jace let out a breath he did not remember holding.
 <!-- beat:t03_plumbing_crisis.beat4_damage_and_glimpse -->
 They still had a ship. They no longer had plumbing anyone trusted.
 
-The explosion had cracked a waste manifold, crushed three sensor trunks, and left cryogenic damage through a service cavity. Jace crawled into it with a headlamp while Thing One mapped the outer ice and Thing Two watched pressure on the surviving tanks.
+The explosion had cracked a waste manifold, crushed three sensor trunks, and left cryogenic damage through a service cavity. Jace crawled into it with a plasma torch, cutting away the skin of built-up ice that had refrozen across the access hatch, while Thing One mapped the outer ice and Thing Two watched pressure on the surviving tanks.
 
 He found frost where no open line reached.
 
-The ruptured water pipe was not punctured. Three ragged grooves ran along it, too parallel for debris and too deep for a tool that belonged aboard. The pressure sensors had not failed. Their housings had been crushed inward.
+The ruptured water pipe was not punctured. Three massive ragged grooves ran along it, too parallel for debris and too deep for a tool that belonged aboard. The pipe was reinforced steel and should have been able to withstand a nuclear bomb. The pressure sensors had not failed. Their housings had been crushed inward.
 
 His HUD flared hot behind his left eye. Blue targeting brackets appeared on bare conduit, vanished, and returned around nothing. He shut the overlay off.
 
 Something moved beyond the next frame.
 
-It was taller than the cavity allowed. Black joints folded the wrong way. Two red points opened above hooked forelimbs, and a wet, ridged shape pulled itself soundlessly behind the piping.
+It was taller than the cavity allowed. Black joints folded the wrong way. Two red points opened above hooked forelimbs, and a wet, ridged shape pulled itself soundlessly out of the ice toward him, faster than anything that size should have been able to move in that little space. Even in his space suit, the hair on the back of his neck stood straight up.
 
-Jace struck his helmet on the overhead and swung the lamp toward it.
+Jace didn't think. The torch was already lit, already in his hand, still trailing a curl of vaporized ice from the ragged hatch edge he'd been cutting a second earlier. He swept it through the shape the way you'd swing a bar at something in the dark — not aimed, just there, just fast.
 
-Empty cavity. Frost. A cable harness trembling from the ship's vibration.
+The lance of flame passed through it, slicing it in half like the light swords popular in ancient movies.
 
-His pulse filled his ears.
+The thing did not fall, or bleed, or make a sound that he could hear in his suit. It was simply gone, the way a held breath is gone, all at once and completely, leaving behind a small sphere of soft light hanging in the space where the widest part of it had been — no bigger than a fist, glowing the pale gold-white of a struck match held underwater.
+
+Jace reached out before he decided to. His glove closed around it.
+
+There was no impact. No weight. No temperature. For one full second he held something that had no properties he could report, and then his hand was simply empty, fingers curled around nothing, and the cavity was ice and frost and conduit again, exactly as it had been before any of it happened.
+
+He knelt there a long moment, torch still lit, breathing loud in his own ears.
+
+Later — after the cavity had been sealed and logged — he pulled the suit's helmet-cam footage and ran it back three times. His HUD recorded everything: targeting brackets, thermal overlays, a full log of the torch cut. It showed his arm sweeping through empty ice. It showed his hand closing on nothing. There was no shape in the footage. No red eyes, no glow, no sphere. According to every sensor he owned, he had knelt alone in a damaged service cavity and closed his fist around vacuum for no reason at all.
 
 He searched until Maureen ordered him out. He found no tracks, no heat, and no space where the shape could have gone. His HUD had been hurting for weeks. He had slept less than three hours. He had just caused an explosion inside a spinning spacecraft.
 
-Stress hallucinations were real. That explanation frightened him less than the alternative and more than he cared to admit.
+Stress hallucinations were real. That explanation frightened him less than the alternative and more than he cared to admit — except that stress hallucinations did not, as a rule, leave three slices through reinforced steel right next to the exact spot where his sensors insisted nothing at all had been standing.
 
-In the official report, he selected *impact or fatigue damage, investigation pending*. He did not mention eyes.
+In the official report, he selected *impact or fatigue damage, investigation pending*. He did not mention claws. He did not mention the light. He was no longer entirely sure either had happened, and he found that he preferred it that way.
 
 <!-- beat:t03_plumbing_crisis.beat5_anger_and_cost -->
 Maureen held the debrief in the damaged corridor so nobody could pretend the outcome had been clean.
@@ -219,15 +233,15 @@ Maureen held the debrief in the damaged corridor so nobody could pretend the out
 
 Jace looked at the total on her claim. "That is a large number."
 
-"It will become larger when Patrick reviews the plumbing."
+"It will become larger after Patrick reviews the plumbing."
 
-{Alex} appeared at the edge of his HUD. *Origin disputes several categories in the provisional claim.*
+{Alex} appeared at the edge of a nearby screen. *Origin disputes several categories in the provisional claim.*
 
-"Of course it does," Maureen said. "It can dispute them from Mars."
+"Of course it does," Maureen said. "It can dispute them with Patrick on Mars."
 
 She turned back to Jace. "Origin will deal with you. I will deal with Origin. You will repair what remains of my pipes."
 
-"I was going to say that."
+"I was going to offer that."
 
 "Then this is your first good decision today."
 
@@ -235,9 +249,9 @@ She left him beside the buckled panel.
 
 Jace studied the surviving pressure traces. {Alex} was right that the plan carried unknown failure modes. Maureen was right that he had gambled her ship. Tank nineteen was evidence scattered across thirty meters of service cavity.
 
-The pigs were alive. The ring was attached. Given the same clock and the same choices, he knew he would open the valve again.
+The pigs were alive. Siren was fine, though still chilly. The ring was attached. Given the same clock and the same choices, he knew he would open the valve again.
 
-That knowledge sat badly.
+That knowledge sat badly. The last time he'd acted so impulsively has caused his discharge from the military.
 
 He picked up his tools and started on the plumbing.
 
@@ -259,9 +273,11 @@ He picked up his tools and started on the plumbing.
 | T-03.10 - Jace saves the ship through skill but exposes his reckless problem-solving instinct | done | must_accomplish | beat5_anger_and_cost |
 | T-03.11 - Maureen condemns the risk and files a large claim against Origin | done | must_accomplish | beat5_anger_and_cost |
 | T-03.12 - Jace sees a frightening, unexplained shape and considers HUD pain, stress, and fatigue as hallucination causes | done | must_accomplish | beat4_damage_and_glimpse |
-| T-03 - Do not explain or name the creature | done | must_not_do | beat4_damage_and_glimpse |
-| T-03 - Do not make the argon maneuver safe, authorized, or cost-free | done | must_not_do | beat3_transfer_and_blast |
 | T-03 - Do not resolve Jace and Maureen's conflict | done | must_not_do | beat5_anger_and_cost |
+| NEW - Maureen has an explicit, on-page chance to order Jace to stand down; her silence, not an order, is what lets him proceed | done | must_accomplish | beat2_argon_plan |
+| NEW - Thing One triggers the valves physically, from an exterior hull control panel | done | must_accomplish | beat2_argon_plan |
+| NEW - Jace is holding a lit plasma torch (cutting ice from the access hatch) when the creature appears; he swipes it through the creature and the creature vanishes, leaving a glowing sphere his hand closes on and then loses | done | must_accomplish | beat4_damage_and_glimpse |
+| NEW - His own HUD/helmet-cam footage, reviewed afterward, shows nothing — no creature, no light, just his arm moving through empty ice | done | must_accomplish | beat4_damage_and_glimpse |
 
 ## Open Notes
 
@@ -269,4 +285,5 @@ He picked up his tools and started on the plumbing.
 |---|---|---|
 | Exact magnitude of Maureen's claim against Origin | open | Keep unnamed until the token economy and vessel-risk schedule are finalized |
 | Disposition of the exterior ice after stabilization | open | The ring is balanced around it; a later repair scene may remove it gradually or retain it through arrival |
-| Creature mechanics | resolved | The reader receives only a half-second visual and damaged-system evidence; Jace records no creature claim |
+| ⚠️ **FLAGGED — creature/orb beat now shown on-page** | open | The arc contract (`arc_01_thread_T_transit.md`, T-03) explicitly states "Do NOT explain the incursion" and "Show that Jace accidentally killed a Cryptid... and absorbed a Will orb (don't show or explain this)." This session's author instruction directly requested the torch-swipe / vanish / glowing-sphere / hand-contact beat be written on-page, which is a materially more explicit treatment than the prior contract called for — it still doesn't *explain* what happened (Jace's own footage shows nothing, so ambiguity is preserved), but it is no longer a half-second glimpse only. Recommend updating the T-03 scene contract and `magic_breach_crossers_transient.md` / `spec_crossing_mechanics.md` cross-references to reflect this on author sign-off. |
+| ⚠️ **FLAGGED — "mutiny" framing** | open | Added a line where Jace explicitly frames proceeding without a countermanding order as *not* mutiny, since Maureen never gives the order. Worth checking against `char_maureen.md`'s established voice — she is written as someone who deals in invoices, not speeches, so her silence-as-answer (rather than a spoken non-answer) was chosen deliberately to keep her in register. Flagging in case the author pictured her saying something here rather than staying silent. |

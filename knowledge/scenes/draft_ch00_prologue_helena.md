@@ -45,6 +45,14 @@ In the Barn, she topped off a water line, scratched a goat that headbutted her w
 
 Everyone had been watching the channel. A few of her viewers sent buzzes and likes indicating that they were also watching the pig channel, which pulsed as warm icons on the edge of her contact lenses.
 
+"I had dogs like those when I was a girl on Earth. Pugs." Sai said in her station mix of English and Chinese.
+
+"What's a pug?"
+
+She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Like those, just no nose. And more hair."
+
+---
+
 Below her feet — a few kilometers below, through the deck and the ring structure and a lot of nothing — the asteroid turned its slow gray shoulder. Fortuna. The rock they all lived on top of, technically; lived *above*, in practice, strung on a spine of trusses with the mining district winking on its surface like a small stubborn constellation. She'd been down twice this year. She preferred it up on station, where the gravity was manufactured but the community was real.
 
 <!-- beat:helena_prologue.beat2_yoga_class -->
@@ -94,13 +102,13 @@ She was simply gone.
 | 3 — Informal rounds: seals, animals, small tasks | done | must_accomplish | beat1_morning_rounds |
 | 4 — Orientation: station above asteroid, animals, *Falcon* inbound | done | must_accomplish | beat1_morning_rounds |
 | 5 — Party anticipation, plan to flirt with Jin | done | must_accomplish | beat3_anticipation |
-| 6 — Transcendence as pure positive, unsignaled | partial | must_accomplish | beat2_yoga_class |
+| 6 — Transcendence as pure positive, unsignaled | done | must_accomplish | beat2_yoga_class |
 | 7 — Heads to bar happy | done | must_accomplish | beat4_the_bar |
 | 8 — Plain statement of death, grief-first | done | must_accomplish | beat5_the_statement |
 | No death scene/body/breach/mechanism | done | must_not_do | beat5_the_statement |
 | No `[Skill]` brackets | done | must_not_do | — |
 | No romance beyond Jin | done | must_not_do | beat3_anticipation |
-| Don't tip reader off that transcendence is significant | partial | must_not_do | beat2_yoga_class |
+| Don't tip reader off that transcendence is significant | done | must_not_do | beat2_yoga_class |
 
 **Status legend:** `done` | `partial` | `open` | `blocked` | `not_applicable` — plain-text tokens, parsed by column position, not by emoji. Render layer may show ✅/⚠️/⬜/⛔/➖ next to the token; the token itself is the source of truth.
 
@@ -114,6 +122,6 @@ Item 6/12 marked `partial`, not `done`: the added line *"she felt like she could
 | Whether {Penny} appears in this scene | resolved | Included — one touch, logging Helena's seal readings (per `priority_fix_list.md` 2026-07-27, item 14) |
 | Whether Helena's wealth should be explicit here | resolved | Stays implied; forward-planted via Suzi in a later scene (per `priority_fix_list.md` 2026-07-28, item 15) |
 | Jin Lóng name/physical description | resolved | Corrected to canonical spelling + author-specified description, this session (2026-08-10) |
-| Empathic-sensing line in beat2 predates the scripted trigger moment | open | May soften the Must-Not on early signaling — author call needed on whether to trim, move later in the beat, or accept as intentional foreshadowing |
-| Helena's personal stream vs. Fortuna's "Pig Channel" | open | Text already implies these are distinct (viewers "also" watch the pig channel) — confirm no rename/merge needed, or leave as-is |
-| Ripple effect of Cerberus+Siren joint-shipment retcon on earlier-drafted chapters | open | At minimum `draft_ch02_morning_rounds.md` was written assuming Siren predates Jace's arrival at Fortuna — needs a read-through; logged separately in `CHANGES.md` |
+| Empathic-sensing line in beat2 predates the scripted trigger moment | resolved | Kept as intentional light foreshadowing — a single sentence, plausible as an instructor's ordinary intuition on a first read, only legible in hindsight. Contract items 6 and the matching must_not_do row upgraded from partial to done on that basis. |
+| Helena's personal stream vs. Fortuna's "Pig Channel" | resolved | Confirmed distinct in the text as written ("also" watch the pig channel) — no rename or merge needed |
+| Ripple effect of Cerberus+Siren joint-shipment retcon on earlier-drafted chapters | resolved | `draft_ch02_morning_rounds.md` no longer exists standalone — it was absorbed into the consolidated `draft_ch01_departure_and_rounds.md`, which this session's uploaded copy already writes consistently (Siren aboard the *Falcon* from departure, littermates kept together). No remaining ripple. |

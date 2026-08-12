@@ -8,8 +8,8 @@ scene_contract: event_t_forge_no_more_voices
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-10
-description: "Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms."
+last_updated: 2026-08-11
+description: "Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
   - "[[event_t_forge_no_more_voices]]"
@@ -132,60 +132,26 @@ He checked the requester.
 
 "Also correct."
 
-He expanded the account routing. The passenger paid twenty-one Tokens. One covered polymer. Twenty went to the registered forge owner.
+He expanded the account routing. The passenger paid twenty-one Tokens. Origin's fulfillment network paid Maureen a twenty-Token facility fee per routed job, regardless of what the job was. A plate cost one Token in material, if that. It existed to be printed, invoiced, and quietly repeated.
 
-Maureen owned the forge.  Technically, the forges as there were eleven different models of printers and assemblers in Patrick's abandoned workshop.
+"You're printing money."
 
-"You are charging yourself a facility fee."
+"I am running a business out of my own forge. If Origin wants to write a stupider contract, that is Origin's problem."
 
-"No. Origin pays the passenger's daily meal-equipment allowance. The forge charges Origin."
+Jace printed the plate. He said nothing further, mostly because there was nothing further to say that would not also apply to the fan he'd just had Patrick smuggle onto the same queue.
 
-"For a plate you already have."
+Jace could have pointed out that he could print 80 plates on this print bed at once, and the saving in job time would have made the costs negligible.  He wisely didn't and Maureen left, carrying her 21-token plate.  There was a massive amount of unused printer capacity that origin paid for going wasted.
 
-"The allowance expires at midnight. A plate has somehow been thrown in the recycler every day this trip."
+"I think she likes me," Jace told Cerberus.
 
-He felt insulted on behalf of accounting as a profession.
-
-"Does Origin know?"
-
-"Origin wrote the contract."
-
-"Does Origin know you understand it?"
-
-Maureen gave the faintest lift of one shoulder.
-
-Jace opened a private note in his HUD.
-
-"Are you documenting my business?"
-
-"I am admiring it technically. But no, not documenting anything."
-
-"Admiration is not billable to Origin. Run the plate."
-
-The forge began warming.
-
-##
+Cerberus snored.
 
 <!-- beat:t_forge_no_more_voices.beat2_automation_and_sparky -->
-Printing the daily plate entered Jace's routine beside feed guards, fan housings, and the waterfowl barrier that each new generation of ducks treated as a design challenge.
-
-He began watching the queue for steps a machine could remove. Most jobs arrived tagged, priced, and material-checked. A handling arm could clear the bed, scan the part, and stage it without waiting for him. The speaker could already complain about exceptions.
-
-He sketched a rail-mounted arm between other repairs.
-
-Maureen saw the model once and said, "No autonomous equipment near the forge."
-
-"It would not be autonomous."
-
-"Then it can wait for you. If it was automated, then I can't charge Origin prices for a human-operated forge."
-
-She left before he could explain that waiting for him defeated the purpose.
-
-He returned to the rotor on Drone 44. The vibration looked like a bearing problem in the logs. His thumb found the hairline fracture the stock diagnostic missed. Thing One was flying outside the station, and inspected the duct above ring segment twelve and traced a filter clog two sections upstream to a loose baffle. He left that one outside because warming it took an hour each day, better to have it just do the exterior work.
+His thumb found the hairline fracture the stock diagnostic missed. Thing One was flying exterior, well clear of the hull along ring segment twelve, and inspected the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone back up cost an hour each cycle, and it was better to let it finish the whole exterior circuit while it was already cold-soaked. Thing Two, meanwhile, spent the same stretch working its way down the interior ring corridor, tightening handrail brackets and clearing lint screens two hallways over from the forge — the unglamorous, indoor half of the same maintenance sweep, logged under a different queue and, Jace had noticed, never once acknowledged by anyone who wasn't him.
 
 Small fixes. The ship accumulated quiet improvements that nobody except Patrick noticed, though he was still stuck recovering on Mars.
 
-His headache returned each morning and cooled by breakfast. Lanchee had scanned the implant twice. Today, he was in her clinic, a quiet and well-kept container pod that she was moving with her from Mars to the belt.  He envied people like that - she had the power to move her house and clinic with her anywhere in the system.
+His headache returned each morning and cooled by breakfast. Lanchee had scanned the implant twice. Today, he was in her clinic, a quiet and well-kept container pod that she was moving with her from Mars to the belt. He envied people like that - she had the power to move her house and clinic with her anywhere in the system.
 
 "No swelling, no pressure problem, no firmware fault". She prescribed the standard scrubbers and told him to report any change. He deflated.
 
@@ -193,7 +159,7 @@ He did not report the dreams growing sharper.
 
 Origin's medical-disqualification audit sat three links beneath the symptom form. The first link asked whether recurring neurological symptoms affected safe operations. The honest answer depended on how much he needed the contract.
 
-He needed it completely.
+He needed it. Desperately.
 
 So the coal burning behind his eye became routine too.
 
@@ -205,52 +171,44 @@ Calling it a drone would have flattered it. The tray held a sensor board that wo
 
 That named the project.
 
-Sparky was not a machine yet. It was a direction. A compact body with swappable panels, local controls, and no corporate firmware deciding which ideas were permitted. Someday it might carry one of the open AI stacks Nick kept sending him from Fortuna. An intelligence he could choose, running in a body he could repair.
+Sparky was not a machine yet. It was a direction. A compact body with swappable panels, local controls, and no corporate firmware deciding which ideas were permitted. Someday it might carry the open AI stack Nick kept talking about from Fortuna. An intelligence he could choose, running in a body he could repair.  
 
 Cerberus slept beneath the bench while Jace rebuilt the scorched power bus. The puppy had doubled in mass since departure and still believed his body would fit wherever his head entered.
 
-The forge delivered Maureen's plate.
+He printed a controller shell in the good space-rated polymer that had excellent balistic and therma properties. It was for Sparky, eventually, once the boards and power bus agreed to coexist without making magic smoke. 
 
-"Job complete," the speaker said, sounding disappointed that something had gone well.
+On good days Sparky could roll around without crashing into things. He was working on ideas to make it fly in the 40% gravity as well.  Other than the pay, the second best thing about working at Origin was the product library - millions of blueprints and printer files for almost anything you could imagine.  Some required printers, some needed wire-winders, some needed circuit boradr pick-and-place machines. The more complex ones required a screw-bot that could fasten components with pin-point accuracy. Maureen conveniently had one of each.  
 
-"Thank you." Jace could have pointed out that he could print 80 plates on this print bed at once, and the saving in job time would have made the costs negligible.  He wisely didn't.
+He selected the most complex space-rated thrust module that could fit within the unused print queues and set a task to print one each evening unused capacity was available.  Might as well put these fabricators to use.
 
-"No response required."
+---
 
-Jace looked up. "That was a response."
-
-The speaker clicked. Then remained silent.
-
-"I think the ship likes me," Jace told Cerberus.
-
-Cerberus snored.
-
-He printed a controller shell in the good polymer while the plate cooled. It was for Sparky, eventually, once the boards and power bus agreed to coexist without making magic smoke.
-
-For the game he stayed in the HUD. Physical controls would not rebuild the control pathways the military wipe had taken from him.
+For the evening game he stayed using the HUD. Physical controls would not rebuild the control pathways the military wipe had taken from him.
 
 Nick noticed the change in his game commands during the next match.
 
 *Three units again? Ambitious.*
 
-*I used to run forty.*
+*I used to run thirty.*
 
-*You used to have five years of military neural mappings. Now you have factory settings and ambition.*
+*You used to have years of military neural mappings. Now you have factory settings and ambition.*
 
 *And spite. How large is the arena?* Jace asked.
 
-*You'll see. I finished building your custom mech. It is still short.*
+*You'll see. I finished building the custom mech for you to pilot.*  It was about half the height of the other mechs on board.
 
-Nick won. Nick always won. Jace kept two units coordinated cleanly and brought the third under control long enough to land one useful shot. Frustration warmed the back of his neck, but the small improvement survived it.
+Nick won. Nick always won. Jace kept two units coordinated cleanly and brought the third under control long enough to land one useful shot. Frustration warmed the back of his neck, but he could see small improvements.
 
 <!-- beat:t_forge_no_more_voices.beat3_night_recurrence -->
-That night he lay in his bunk with Cerberus between his knees and the breathing mask snug over his face. Water moved through the walls. Somewhere down the ring, a pig struck a panel three times with patient, experimental force. Like they were prisoners inventing their own code to break out of jail.
+That night he lay in his bunk with Cerberus between his knees and breathing masks snug over each of their faces. Water moved through the walls. Somewhere down the ring, a pig struck a panel three times with patient, experimental force. Like they were prisoners inventing their own code to break out of jail.
 
-The *Falcon* had no ship AI. It had a captain who could turn a dinner plate into cash, a speaker with the temperament of a tired clerk, corporate intelligences sealed into contract partitions, and fifty-four animals conducting unauthorized research.
+The *Falcon* had no ship AI. It had a captain who could turn a dinner plate into cash, a sprint shop slowly creating jets, corporate intelligences sealed into contract partitions, and fifty-four animals conducting unauthorized research.
 
-Jace closed his eyes.  He might be going a little bit crazy.
+Jace closed his eyes. He might be going a little bit crazy. It would not be the first time. 
 
-The crystal hallway waited behind them.
+During the five months in the *Pinta's* crowded berths, Earth to Mars, spent recovering from the HUD surgery while a hundred and fifty strangers learned to live on top of each other — he remembered the exact flavor of that particular mental unraveling, the way sound had started arriving half a beat early, the way he'd caught himself holding conversations with the implant like it might answer back before it was cleared to. He had come out the other side of that fine. He assumed this was the same shape of thing, wearing a different ship.
+
+If only he didn't still see the walls after he closed his eyes.
 
 ---
 
@@ -273,6 +231,9 @@ The crystal hallway waited behind them.
 | T-02b - Do not give the *Falcon* a ship AI | done | must_not_do | beat3_night_recurrence |
 | Workshop bridge - Do not make Sparky operational | done | must_not_do | beat2_automation_and_sparky |
 | T-02a - Do not explain or dramatize the symptoms | done | must_not_do | beat2_automation_and_sparky |
+| NEW - Thing Two's interior hallway maintenance is named explicitly alongside Thing One's exterior work | done | must_accomplish | beat2_automation_and_sparky |
+| NEW - "Going a little crazy" line ties back to the *Pinta* / Mars HUD-surgery recovery | done | must_accomplish | beat3_night_recurrence |
+| NEW - Screwdriver referred to with she/her throughout | done | must_accomplish | beat1_forge_and_voices |
 
 ## Open Notes
 
