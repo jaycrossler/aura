@@ -9,7 +9,7 @@ pov: char_helena
 status: staged_draft
 schema_version: 2
 last_updated: 2026-08-10
-description: "First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death. Revised to schema v2 (anchor-based beat linking, single contract table, single Open Notes table) and to canon fixes ruled 2026-08-10."
+description: "First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death."
 cross_references:
   - "[[event_helena_prologue]]"
   - "[[char_helena]]"

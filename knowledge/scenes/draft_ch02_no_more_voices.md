@@ -86,9 +86,9 @@ Maureen set the coil on the bench. "What did you break?"
 
 "It has opinions."
 
-"It has four thousand recorded responses and a queue manager. If that counts as intelligence, the pigs are eligible for command."
+"It makes sounds and has a queue manager. If that counts as intelligence, the pigs are eligible for command."
 
-Jace considered Screwdriver's campaign against the service latch. "I would hear her platform."
+Jace considered Screwdriver's inenious bypasses of the service latch. "I would hear her campaign speach."
 
 Maureen touched the terminal, approved the maintenance sort, and began cutting the coolant line into measured lengths.
 
@@ -112,7 +112,7 @@ The ceiling speaker said, "Fabrication job three requires material confirmation.
 
 "An annoyed speaker."
 
-"It learned from passengers."
+"It has to deal with passengers."
 
 Jace opened job three.
 
@@ -132,11 +132,11 @@ He checked the requester.
 
 "Also correct."
 
-He expanded the account routing. The passenger paid twenty-one Tokens. Origin's fulfillment network paid Maureen a twenty-Token facility fee per routed job, regardless of what the job was. A plate cost one Token in material, if that. It existed to be printed, invoiced, and quietly repeated.
+He expanded the account routing. Plates had been ordered each of the last 100 days. The passenger paid twenty-one Tokens. Origin's fulfillment network paid Maureen a twenty-Token facility fee per routed job, regardless of what the job was. A plate cost one Token in material, if that. It existed to be printed, invoiced, and quietly repeated.
 
 "You're printing money."
 
-"I am running a business out of my own forge. If Origin wants to write a stupider contract, that is Origin's problem."
+"I am running a business out of my own forge. If Origin's AI wants to write a stupider contract, that is Origin's problem."
 
 Jace printed the plate. He said nothing further, mostly because there was nothing further to say that would not also apply to the fan he'd just had Patrick smuggle onto the same queue.
 
@@ -147,7 +147,7 @@ Jace could have pointed out that he could print 80 plates on this print bed at o
 Cerberus snored.
 
 <!-- beat:t_forge_no_more_voices.beat2_automation_and_sparky -->
-His thumb found the hairline fracture the stock diagnostic missed. Thing One was flying exterior, well clear of the hull along ring segment twelve, and inspected the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone back up cost an hour each cycle, and it was better to let it finish the whole exterior circuit while it was already cold-soaked. Thing Two, meanwhile, spent the same stretch working its way down the interior ring corridor, tightening handrail brackets and clearing lint screens two hallways over from the forge — the unglamorous, indoor half of the same maintenance sweep, logged under a different queue and, Jace had noticed, never once acknowledged by anyone who wasn't him.
+His thumb found the hairline fracture the stock diagnostic missed. Thing One was flying exterior in cold space, well clear of the hull along ring segment twelve, and inspected the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone up from -270 degrees took hours each cycle, and it was better to let it finish the whole exterior circuit while it was already cold-soaked. Thing Two, meanwhile, spent the same stretch working its way down the interior ring corridor, tightening handrail brackets and clearing lint screens two hallways over from the forge — the unglamorous, indoor half of the same maintenance sweep, logged under a different queue and, Jace had noticed, never once acknowledged by anyone who wasn't him.
 
 Small fixes. The ship accumulated quiet improvements that nobody except Patrick noticed, though he was still stuck recovering on Mars.
 
