@@ -1,15 +1,7 @@
 ---
-id: draft_ch01_departure_and_rounds
-name: "Chapter 1 - Departure and Rounds"
-type: chapter_draft
+
 book: book01
 chapter: Ch01
-scene_contract: event_t01_departure_and_rounds
-pov: char_jace_apollo
-status: staged_draft
-schema_version: 2
-last_updated: 2026-08-11
-description: "Cargo-heavy departure, late-transit animal rounds with Mei, real-time Artemis birthday call, missing duck, HUD retraining with Nick, and the first recurring headache."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
   - "[[event_t_forge_no_more_voices]]"
@@ -22,9 +14,20 @@ cross_references:
   - "[[char_patrick]]"
   - "[[ship_falcon]]"
   - "[[chapter_draft_schema_v2]]"
+description: Cargo-heavy departure, late-transit animal rounds with Mei, real-time
+  Artemis birthday call, missing duck, HUD retraining with Nick, and the first recurring
+  headache.
+id: draft_ch01_departure_and_rounds
+last_updated: 2026-08-12
+name: Chapter 1 - Departure and Rounds
+pov: char_jace_apollo
+scene_contract: event_t01_departure_and_rounds
+schema_version: 2
+status: draft_v2
 supersedes:
-  - "[[draft_ch01_departure]]"
-  - "[[draft_ch02_morning_rounds]]"
+- '[[draft_ch01_departure]]'
+- '[[draft_ch02_morning_rounds]]'
+type: chapter_draft
 ---
 
 # Chapter 1 - Departure and Rounds
@@ -356,3 +359,17 @@ Behind his left eye, the burning coal flared with migraine-inducing pain.  OK, n
 | Automation-failure motif needs an on-page minor cascade before the plumbing crisis | open | This chapter establishes automation texture but does not contain the required failure cascade |
 | ⚠️ **FLAGGED — headcount discrepancy** | open | Author requested "60 females" aboard; established KB canon (`ship_falcon.md`: 54 breeding stock + Siren; `char_lanchee.md`: "fifty-eight women") totals **58**, not 60. This draft uses 58 to match existing canon. If 60 is wanted, either the breeding-stock manifest needs +2 animals or the human crew count needs revision — author decision needed before this propagates to `ship_falcon.md` / `livestock/falcon_animal_manifest_book1.md`. |
 | ~~FLAGGED — "fitness run" location~~ | resolved | Confirmed as the **Falcon's** ring — this is reused consistently in Ch05 (the Aura-pitch exercise-track scene) and Ch06, so treating it as shipboard is now load-bearing continuity, not just a guess. If a *second*, station-side fitness routine is wanted post-arrival (Ch07+), that would be a new, separate beat rather than a relocation of this one. |
+
+<!-- Automated test edit -->
+
+<!-- PIPELINE TEST EDIT: Ceres drydock burn complete -->
+
+<!-- Automated test edit -->
+
+<!-- PIPELINE TEST EDIT: Ceres drydock burn complete -->
+
+<!-- Automated test edit -->
+
+<!-- PIPELINE TEST EDIT: Ceres drydock burn complete -->
+
+<!-- Automated test edit -->

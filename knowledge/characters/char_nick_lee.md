@@ -1,4 +1,5 @@
 ---
+
 description: "Character profile detailing Nick Lee, the AI engineer and architect of Fortuna Station's open-source {Aura} system."
 id: char_nick_lee
 name: Nick Lee
@@ -33,16 +34,16 @@ hair: Black; always styled and tinted a different colour; takes deliberate time 
 
 appearance_summary: >
   4'6", thin and wiry, looks 17 at 28. Light Korean skin, black eyes. Black hair
-  always styled and tinted some interesting colour (changes). Thick AR glasses
-  (always the current testing model; always cracked somewhere; replaced next day).
-  Two pearl-style earrings containing {Aura} instances. Keyboard gloves on his hands
-  at all times — constantly typing or gesturing in the air.
+  always styled and tinted green ("the green of a chemistry accident" at Arc 1 start).
+  Thick AR glasses (always the current testing model; always cracked somewhere;
+  replaced next day). Two pearl-style earrings containing {Aura} instances. Keyboard
+  gloves on his hands at all times — constantly typing or gesturing in the air.
 
 distinguishing_features: >
   The thick AR glasses that are always broken. The pearl earrings that make a faint
   tinny sound if you are close enough. The keyboard gloves with screens on the backs
-  of his hands. The hair — always styled, always tinted something interesting; the
-  one vanity he commits to.
+  of his hands. The hair — always styled, tinted green at Arc 1 start; the one vanity
+  he commits to.
 
 # The Glasses
 always_wearing: thick AR glasses; current testing model
@@ -117,6 +118,10 @@ default: Fast, friendly, three topics simultaneously
 when_pushed: Firm; friendliness doesn't vanish but the padding does; goes precise not loud
 technical_mode: Accent drops; voice flattens; sounds more senior
 with_jace: Highest laugh rate; gamer shorthand; truest version; most relaxed
+example_dialogue:
+  - "THERE it is." (reaction to Jace's "you're shorter than in the mecha" comeback on first meeting)
+  - "That's not what I'm talking about, though... I'm not building that." (Ch05 {Aura} pitch)
+  - "That skull cap of yours is running at maybe thirty percent load." (Ch05 idle-processing argument)
 
 # Story Function
 archetypes: [the wizard in the back room, the gatekeeper of the underground, the multiplier]
@@ -129,7 +134,7 @@ beliefs: >
   commons underneath it all — so the infrastructure isn't corporate-owned. Subversive,
   dreamy, sincere. This is the seed of the Arc 1 open-source decision.
 
-last_updated: 2026-07-14
+last_updated: 2026-08-12
 sheets:
   - sheet_nick_arc01_end
 cross_references:
@@ -168,6 +173,10 @@ Nick has put {Aura} on plenty of bots — that's routine on a station full of th
 - **Experimental branches against milspec HUD hardware**: Jace's military HUD allows testing automatic processing offload from the user's HUD to the drone, a federated HUD-drone pairing that nobody has had the hardware to try.
 - **Origin protocol mirror**: An experimental branch mirroring Origin's drone-control protocols that might talk directly to a dispatcher's actual work environment.
 
+## First In-Person Meeting & Cerberus Gift
+
+When Jace arrives at Fortuna (Ch07), they meet in person for the first time in the cafeteria. Nick hand-sews Cerberus a lopsided, lumpy pink stuffed pig — *"pink, lopsided, one ear larger than the other, unmistakably and lovingly Screwdriver"* — and presents it at their meeting, demonstrating genuine sentimentality and a craft/sewing skill underneath his fast-talking surface.
+
 ---
 
 ## What {Aura} Actually Is
@@ -197,7 +206,6 @@ the subject.
 
 ## Open Questions
 
-- Specific hair tint at Arc 1 start
 - Precise reason he left corporate work
 - Family situation beyond the San Francisco origin
 - His first reaction on learning Eugene exists (the person who wrote *that*)
@@ -226,3 +234,4 @@ the subject.
   pre-flooding). 90-second crossing aftermath (noodle vomit, "not like in the games", 4D
   wrongness). Belt-adapted movement (20 years in low gravity).
 - 2026-07-14: Reworked transit companions: updated Jace friendship origin, added 10× vision belief, added drone-testbed HUD pairing note.
+- 2026-08-12: Updated with Prologue-Ch07 details (hair tint green confirmed, hand-sewn pig gift for Cerberus, Ch05 pitch dialogue anchors).

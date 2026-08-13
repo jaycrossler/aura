@@ -95,7 +95,9 @@ it's the speakers.
 
 She blames him for things. Some of them are his fault. She did not want dogs aboard and she has two. She has not integrated his drones with her systems. She adds items to his maintenance list without explanation or acknowledgment.
 
-She has noticed that the items get done. She has not said so.
+She has noticed that the items get done. She has not said so until the very end.
+
+**The Send-Off Beat:** On arrival at Fortuna (Ch07), her goodbye to Jace is a single measurement-based compliment — *"Your seal work held... All of it. Even the corner anchors you ran hot."* — which the narrative explicitly frames as approximately a eulogy in her value system. Her currency is competence, stated as fact, never warmth stated as itself.
 
 ## Relationship with Saul
 

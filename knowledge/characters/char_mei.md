@@ -154,6 +154,7 @@ At Fortuna Station, Mei infiltrates the Chinese mining detachment led by Jin Luo
 - **Speech:** Even, professional. Code-switches fluently between American English, Mandarin, and the slightly-formal English of Chinese-American family conversation.
 - **Body language:** Calibrated. She holds herself differently in different rooms.
 - **With Jace:** Initially flat and deflecting. Later, slowly, herself.
+- **On Arrival:** Viewing Fortuna Station for the first time on arrival (Ch07), she remarks offhand: *"It's smaller than Terminus."* — consistent with her cover background at Terminus (`location_terminus.md` Ranch Dome Complex), giving away just enough real information in a precise twelve-word comparison without breaking cover.
 
 ## Open Questions
 

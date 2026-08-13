@@ -17,9 +17,9 @@ This file captures the vocal, dialogue, and speech-pattern characteristics of Ja
 ## Vocal Characteristics
 
 ### Audio Profile (for audiobook generation)
-- **Voice type:** Tenor-baritone — medium-low register, warm
-- **Accent:** General American (Mid-Atlantic, slight Virginia softness)
-- **Pitch:** Medium-low at baseline; rises when nervous or excited
+- **Voice type:** Tenor-baritone — medium-low register, warm, strong, sad
+- **Accent:** General American (Mid-Atlantic, slight Virginia softness, educated)
+- **Pitch:** Medium-low at baseline; rises when nervous or excited; shy; ironic
 - **Speech rate:** Slightly fast at baseline (Type-A officer); slows under emotional weight
 - **Volume:** Moderate; trained to project clearly when needed; quiet in private/intimate settings
 - **Resonance:** Chest voice dominant; some throat tension when stressed

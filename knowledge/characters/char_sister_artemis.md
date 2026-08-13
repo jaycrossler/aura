@@ -1,4 +1,5 @@
 ---
+
 description: "Character profile for Artemis Grant, Jace's older sister and ship builder at Metis Station."
 # Identity
 id: char_sister_artemis
@@ -37,7 +38,7 @@ languages_spoken: [English (native), some Mandarin (working knowledge)]
 
 # Physical
 appearance_summary: Early thirties, physically tough from years of belt work. Stronger than she looks. Shares some family resemblance with Jace but harder-edged, more weathered.
-distinguishing_features: Accumulated minor scars from industrial work. Moves with the practiced economy of someone who has learned not to waste effort in a suit.
+distinguishing_features: Accumulated minor scars from industrial work, including a fresh scar across two knuckles (seen on Ch05 call). Moves with the practiced economy of someone who has learned not to waste effort in a suit.
 injury_arc2: Crushed leg — structural failure during Metis siege (End of Arc 1). Functional in low-g. Requires mobility assistance in standard gravity. Does not impair her practitioner development.
 
 # Story Function
@@ -49,7 +50,7 @@ themes_embodied: [the price of the frontier, family across impossible distance, 
 related_locations: [location_metis_station]
 related_ships: [TBD — mining vessels at Metis]
 related_events: [event_artemis_first_magical_incident, event_communications_blackout, event_artemis_sends_credits]
-last_updated: 2026-06-23
+last_updated: 2026-08-12
 ---
 
 # Artemis Grant
@@ -68,9 +69,16 @@ She maintains the family connection with genuine care. She calls when she can. S
 
 ## Notes
 
-Artemis works at Metis Station, anchored to asteroid 9 Metis in the inner belt, approximately 80 million km from Fortuna. Metis is a shipyard run by Dr. Eugene Hart.  The two have a functional working relationship built entirely on mutual professional respect and careful avoidance of anything personal.
+Artemis works at Metis Station, anchored to asteroid 9 Metis in the inner belt, approximately 80 million km from Fortuna. Metis is a closed military shipyard (*"Metis is closed to civilians, it's all shipyard and clearances, they don't even let me off-shift without a badge check"*) with travel times of ~10 days coasting / ~2 weeks for full rendezvous and docking from Fortuna. It is run by Dr. Eugene Hart. The two have a functional working relationship built entirely on mutual professional respect and careful avoidance of anything personal.
 
 Some Fortuna residents know Artemis by reputation before Jace arrives — she is the ship architect connected to the place that services Fortuna's vessels.
+
+## Voice & Dialogue Anchors
+
+On the Ch05 birthday call (the first time in six years Jace and Artemis have been close enough for low-lag conversation: *"Closest we've been in six years"*), her speech is direct, teasing, and security-conscious:
+- *"There he is... Learning Mode himself."*
+- *"We're building things you wouldn't believe. Some of our ships have the biggest engines in the belt now — actually, don't worry about that."* (self-interrupting when nearing classified shipyard details)
+- *"When I said 'eat something that was alive this morning,' this is not the delivery method I had in mind."* (callback to her Ch01 order, referencing the Learning Mode sewage incident)
 
 ## Story Function
 
@@ -132,3 +140,4 @@ Artemis is positioned to become a significant figure in later books. She is at t
   - 2026-06-23: Patch created. All Metis Station references updated to Metis Station.
   Asteroid updated from 143 Odysseus to 9 Metis. Context note added to prevent future
   conflation with the Jupiter science post.
+- 2026-08-12: Updated with Prologue-Ch07 details (knuckle scar, 6-year low-lag proximity note, dialogue anchors, closed military shipyard worldbuilding note).
