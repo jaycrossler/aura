@@ -1,5 +1,7 @@
 ---
-
+id: draft_ch01_departure_and_rounds
+name: "Chapter 1. Departure and Rounds"
+type: chapter_draft
 book: book01
 chapter: Ch01
 cross_references:
@@ -30,9 +32,9 @@ supersedes:
 type: chapter_draft
 ---
 
-# Chapter 1 - Departure and Rounds
+# Chapter 1. Departure and Rounds
 
-> *Most people do not know this, but you can hear a spaceship breathe — and swallow. A thousand tons of gurgling water move through the walls to balance every footstep. I spent four months falling asleep inside a very large stomach that was politely pretending not to notice me.*
+> *Most people do not know this, but you can hear a spaceship breathe. And swallow. A thousand tons of gurgling water move through the walls to balance every footstep. I spent four months falling asleep inside a very large stomach that was politely pretending not to notice me.*
 > - Jace Grant, *Falcon* transit logs
 
 <!-- beat:t01_departure_and_rounds.beat1_departure_burn -->
@@ -46,11 +48,11 @@ He lay webbed into an acceleration couch in the number-three common module with 
 
 Cerberus answered by trying to burrow through his sternum.
 
-Through the module's single viewport, Terminus dwindled beneath them. The domes caught the sun first. Then the rail lines vanished into the red. Somewhere below waited a base that had thrown him out, a family of puppies being divided among buyers, and a debt with more digits than his service number. The dogs loved zero-gravity and being able to run on the ceiling, Jace much prefered even the low gravity that the Falcon was spinning up to.
+Through the module's single viewport, Terminus dwindled beneath them. The domes caught the sun first. Then the rail lines vanished into the rusted terrain. Somewhere below waited a base that had thrown him out, a family of puppies being divided among buyers, and a debt with more digits than his service number. The dogs loved zero-gravity and being able to run on the ceiling, Jace much prefered even the low gravity that the Falcon was spinning up to.
 
 Mars shrank from a world to a coin.
 
-The pressure eased near the end of the first watch. The spin was up to Mars standard - a third of the Earth gravity Jace had been born with. Cerberus stopped trembling, considered the harness straps, and began chewing through the one part that kept him alive.
+The pressure eased near the end of the first watch. The spin was up to Mars standard... a third of the Earth gravity Jace had been born with. Cerberus stopped trembling, considered the harness straps, and began chewing through the one part that kept him alive.
 
 "You may need to rethink your priorities."
 
@@ -89,19 +91,21 @@ That was his welcome aboard.
 <!-- beat:t01_departure_and_rounds.beat1b_the_run -->
 Three weeks in, Jace started running before the ship's lights came up, because Lanchee's diagnostics kept finding nothing wrong with him and he had decided to make that true by force.
 
-He wore a weighted vest printed from the same polymer stock as everything else on the *Falcon* — eighty pounds distributed evenly enough not to fight his spine — and he ran the ring's outer service corridor, the long curved hallway that shadowed the livestock spine one deck further out, where the spin gravity ran a fraction heavier and the maintenance drones outnumbered the people. Weight at Mars-standard gravity was much less, but momentum made it much heavier the faster you moved.  Jace was learning to jump and keep his torso following the smae path and avoid turning.
+He wore a weighted vest printed from the same polymer stock as everything else on the *Falcon*. Eighty pounds distributed evenly enough not to fight his spine as he ran through the ship's ring. The long curved hallway that was basically a tube with a ship built around it.Within the cooridor, maintenance drones outnumbered the people. Weight at Mars-standard gravity was much less, but momentum made it much heavier the faster you moved. Jace was learning to jump and keep his torso following the same path to avoid turning and an 80-pound bear hug.
 
-Cerberus ran beside him, bouncing and loping on the old hallway carpet. Siren, who normally regarded Jace with the polite indifference she extended to furniture, had taken to falling into step a length behind Cerberus's shoulder, which Jace had come to understand was not affection for her brother so much as an unwillingness to let the puppy have an experience she wasn't personally supervising.
+Cerberus ran beside him, bouncing and loping along the old worn carpet. Siren, who normally treated Jace with the polite indifference she extended to furniture, had taken to falling into step a length behind Cerberus's shoulder, which Jace had come to understand was not affection for her brother so much as an unwillingness to let the puppy have an experience she wasn't personally supervising.
 
-"You're 1 hour older than him.  Get over yourself." She didn't even look at Jace in response.
+"You're 1 hour older than him. Get over yourself." Siren didn't even look at Jace in response.
 
-The corridor made a full circuit of the ring in about four minutes at a jog, which meant Jace spent his mornings watching the same architecture go by from a slightly different angle each lap, like a record with a scratch in it.
+The corridor made a full circuit of the ring in about four minutes at a jog, which meant Jace spent his mornings watching the same architecture go by from a slightly different angle each lap, like a record with a scratch in it. Animals. Clinic. Wash room. His room. Mei's room. Kitchen. Cargo. Maureen's cabin. Forge. Observatory. Empty cabins. And repeat. And repeat.
 
-The *Falcon* was a spinning top pointed at their target. You could feel it rather than see it — the ring itself was the rim, with three long spokes running inward to the spine where Patrick's nuclear drive did the actual work of moving them.  The whole assembly turned to fake the gravity that let pigs stand up and coffee stay in its cup. When you walked the ring you were walking with your feet towards the outside of the circle, so "up" was always towards the axis shaft in the middle. The faster it spun, the more gravity. And the more nausea passengers felt.
+The *Falcon* was a spinning top pointed at their target. You could feel it rather than see it. The ring itself was the rim of a wheel, with three long spokes running inward to the spine where Patrick's nuclear drive did the actual work of moving them through space. The whole assembly spun to fake the gravity that let pigs stand up and coffee stay in its cup. When you walked the ring you were walking with your feet towards the outside of the circle, so "up" was always towards the axis shaft in the middle. The faster it spun, the more gravity. And the more nausea passengers and animals felt.
 
-Bolted and welded to the outside of the ring, wherever there was structural purchase to take the load, hung the cargo canisters: shipping-container rectangular modules the size of a small apartment, standardized to slot into the same mounting rails whether they carried spare panel stock or a person's entire life. Lanchee's clinic was one of them, dark and quiet at this hour, her exam table and her medical stores and her narrow bunk all riding along on the outside of a ring nobody had designed with a doctor's office in mind. The forge and machine shop was another, two berths wide at 25 meters, running hot even before the ship's day officially began. Jace ran past both every four minutes, the vest making his shoulders ache in a way that felt, mercifully, like nothing at all except effort.
+Bolted and welded to the outside of the ring, wherever there was structural purchase to take the load, hung the berths and cargo canisters: shipping-container rectangular modules the size of a small apartment, standardized to an earth ocean cargo ship, a Mars train, or slot into the same mounting rails whether they carried spare panel stock or a person's entire life. Lanchee's clinic was one of those, dark and quiet at this hour, her exam table and her medical stores and a cozy appartment with a luxurious bed he'd glimpsed once all riding along on the outside of a ring nobody had designed with a doctor's office in mind. 
 
-He had been athletic and fit while in the military — the Air Force had made sure of it — and he intended to still be fit on the far side of a five-year Fortuna contract that started, technically, the moment this crossing ended.
+The forge and machine shop was another, two canisters welded together at 25 meters, running hot even before the ship's day officially began, with extra shielding in case anything exploded during production. Jace ran past both every four minutes, the vest making his shoulders ache in a way that felt, mercifully, like nothing at all except effort. He was getting sick of seeing the same rooms over and over for months.
+
+Jace had been athletic and fit while in college then in the military. The Air Force had made sure of it, and he intended to still be fit on the far side of a five-year Fortuna contract that started, technically, the moment this crossing ended.
 
 Robots did not make the run easy. A maintenance drone hauling a spool of cable had exactly no interest in Jace's training schedule and occupied the center of the corridor with the confidence of a cart that had right of way. He hopped over it. Two laps later, a different drone had wedged itself sideways across the passage to clean an air filter, and Jace ran the tight arc around it with Cerberus practically vertical on the curved wall, delighted.
 
@@ -109,7 +113,7 @@ Robots did not make the run easy. A maintenance drone hauling a spool of cable h
 
 Cerberus's answering bark cost him his footing entirely, and for one lap he ran on three legs and general enthusiasm.
 
-Behind them both, unbothered, Siren kept pace like she'd been doing it her whole life, which — Jace supposed, counting up her age against their time aboard — she more or less had.
+Behind them both, unbothered, Siren kept pace like she'd been doing it her whole life, which, Jace supposed, counting up her age against their time aboard, she more or less had.
 
 ##
 
@@ -126,7 +130,7 @@ He lay still and took inventory. Pressure behind both eyes: present. Heat around
 
 Cerberus had rotated during the night until all four paws pointed at the wall. Low gravity let him sleep like an overturned table.
 
-Jace peeled off the sleep breather mask, dry-swallowed his radiation tablet, the anti-nausea pill that kept it company, and the small chalky third pill the base flight surgeon had put him on years ago for the bone condition that had, in the end, been a footnote to the reason he'd actually been discharged — but a footnote he still had to take every morning regardless, low gravity or not, and gave the pain sixty seconds to declare its intentions. He pulled off Cerberus's sleep mask as well - specially printed with aerogel to fit the extended puppy snout which somehow was able to still snore.
+Jace peeled off the sleep breather mask, dry-swallowed his radiation tablet, the anti-nausea pill that kept it company, and the small chalky third pill the base flight surgeon had put him on years ago for the bone condition that had, in the end, been a footnote to the reason he'd actually been discharged, but a footnote he still had to take every morning regardless, low gravity or not, and gave the pain sixty seconds to declare its intentions. He pulled off Cerberus's sleep mask as well, specially printed with aerogel to fit the extended puppy snout which somehow was able to still snore despite air blowing into it.
 
 The pain faded to a warm burning coal roasting behind his left eye.
 
@@ -146,7 +150,7 @@ Jace tagged the panel for inspection and swung his feet to the deck.
 
 Cerberus transformed from furniture into dog in less than a second.
 
-The waste pad in the washroom had been used... mostly. A substantial deposit rested beside the grate with the confident placement of something that had aimed and then declined. The smell was overpowering. Maureen would be furious if she'd seen it - she was very vocal at how she did not like having dogs on her ship.
+The waste pad in the washroom had been used... mostly. A substantial deposit rested beside the grate with the confident placement of something that had aimed and then declined. The smell was overpowering. Maureen would be furious if she'd seen it. She was very vocal at how she did not like having dogs on her ship.
 
 Jace stared at it. Cerberus stared at him.
 
@@ -158,15 +162,15 @@ He cleaned the floor, photographed the narrow grate using his HUD, and sent a ma
 
 He attached the airflow readings and the photograph. If Jace ordered the fan himself, Maureen would ask why. Patrick could make it look like remote preventive maintenance, provided Patrick agreed that some engineering facts did not improve with wider distribution.
 
-Mei stood in the galley with one hand around a mug and the other feeding a scrap of egg to Siren. Cerberus saw his sister and launched himself. Siren stepped aside without looking, then — as he sailed past, overbalanced and delighted with himself — pivoted, and tackled him down into the deck plating with the flat, patient competence of an older sibling closing an argument. Cerberus lay there a moment, pinned, tail waggling, entirely satisfied with the outcome despite having lost decisively. Siren sprung off him, retrieved the rest of the egg from where it had fallen, and returned to Mei's side as if nothing had happened.
+Mei stood in the galley with one hand around a mug and the other feeding a scrap of egg to Siren. Cerberus saw his sister and launched himself. Siren stepped aside without looking, then. Cerberus sailed past, overbalanced and delighted with himself then eyes wide too late to do anything about it. She pivoted and tackled him down into the deck plating with the flat, patient competence of asumo wrestler winning an argument. Cerberus lay there a moment, pinned, tail waggling, entirely satisfied with the outcome despite having lost decisively. Siren gnawed his ear, sprung off him, retrieved the rest of the egg from where it had fallen, and returned to Mei's side as if nothing had happened.
 
 The coffee machine debited his account five tokens for coffee, sugar, and something labeled *cream analogue*. Jace watched a gray ribbon curl into his cup.
 
-"Five tokens?"
+"I should have brought this up before, but why is coffee five tokens?"
 
 "Cancelled passengers," Maureen said from the table. "Lost fares. Consumables still cost money."
 
-Jace opened the machine's public price history in his HUD. "But these prices haven't changed in seven years. I use all but one of my Prime tokens just to buy food and drink daily."
+Jace opened the machine's public price history in his HUD. "But these prices haven't changed in seven years. I use all but one of my Prime tokens just to buy food and two coffees daily."
 
 Maureen scowled, then walked out of the galley.
 
@@ -178,25 +182,25 @@ Mei glared at Jace over the rim of her mug.
 
 Jace took a careful sip, still panting. "Next time, stop me from complaining."
 
-Mei watched him regain his breath after the run. She ran the livestock operation. Jace carried tools, handled maintenance, and served as the backup Origin had hired for this one crossing — a contract that ended, on paper, the day the *Falcon* docked, and began again immediately after in a different shape: five years on Fortuna Station itself, which was the only arithmetic anyone had offered him that actually closed out the debt before he was an old man.
+Mei watched him regain his breath after the run. She ran the livestock operation. Jace carried tools, handled maintenance, and served as the backup Origin had hired for this one crossing. A contract that ended, on paper, the day the *Falcon* docked, and began again immediately after in a different shape: five years on Fortuna Station itself, which was the only arithmetic anyone had offered him that actually closed out the debt before he was an old man.
 
-Mei held out another piece of egg.  The first eggs from the chickens had hatched last week, and they were still celebrating. Cerberus jumped for it, but missed and wound up slamming into the counter.
+Mei held out another piece of egg.  The first eggs from the chickens had hatched last week, and they were still celebrating. Cerberus jumped for it, but missed and wound up slamming his head into the counter, yelping.
 
 "He will learn," Jace said.
 
 "Maybe."
 
-Siren stole the rest of the egg.
-
 It tied with the most words she had spoke to him in a month.
 
-There were fifty-eight women currently aboard the *Falcon*. You'd think most men would love those odds. Maureen, Mei, and Lanchee among the humans. Fifty-four head of breeding stock and Siren among the animals — every last one of them female, because Origin didn't ship a livestock founder population any other way; you built a herd from does and sows and ewes, and you bought your genetics separately, frozen, in a canister the size of a lunchbox. Which left exactly two males within the hull: Jace, and a fifteen-pound dog currently attempting to relitigate his loss to Siren by chewing on her tail.
+Siren stole the rest of the egg.
+
+There were fifty-eight women currently aboard the *Falcon*. You'd think most men would love those odds. Maureen, Mei, and Lanchee among the humans. Fifty-four head of breeding stock and Siren among the animals. Every last one of them female, because Origin didn't ship a livestock founder population any other way; you built a herd from does and sows and ewes, and you bought your genetics separately, frozen, in a canister the size of a lunchbox. Which left exactly two males within the hull: Jace, and a fifteen-pound dog currently attempting to relitigate his loss to Siren by chewing on her tail.
 
 "We're woefully outnumbered," Jace told him. "Read the room."
 
 Cerberus did not read the room. He rarely did.
 
-They took both dogs down to the four livestock pods for his cleaning shift. Jace had grown up on a hirse farm in Virginia - a pod was like a mini barn.  Each was self contained with their own air, humidity, and water to prefent contamination or diseases spreading. Jace clipped Cerberus to the outer rail before the sheep module. The puppy leaned forward until the tether held him horizontal, every part of him convinced that twelve lambs needed immediate organization.
+They took both dogs down to the four livestock pods for his cleaning shift. Jace had grown up on a horse farm in Virginia. A pod was like a mini barn, sized standard to fit on a cargo ship on Earth or Mars or to the belt.  Each was self contained with their own air, humidity, and water to prefent contamination or diseases spreading. Jace clipped Cerberus to the outer rail before the sheep module. The puppy leaned forward until the tether held him horizontal, every part of him convinced that twelve lambs needed immediate organization.
 
 "No entering. No licking. No herding."
 
@@ -224,15 +228,13 @@ He moved into the duck enclosure, sweating in the much higher humidity. The fowl
 
 Jace counted them again.
 
-"Eleven."
-
-"Manifest says twelve."
+"Eleven. Manifest says twelve."
 
 He checked the access panel. Sealed. The ventilation screen. Intact. Waste line. Too narrow, which he verified against the ducks and regretted immediately. There was no place on a rotating ship for a duck to go. Ducks did not sublimate.
 
 Cerberus pressed his nose to the observation pane. Eleven ducks pressed closer to inspect him.
 
-"You eat one?" Jace asked.
+"You mess with one?" Jace asked.
 
 Cerberus gave him a look that reduced his available follow-up questions to zero.
 
@@ -289,7 +291,7 @@ When the call ended, Jace stayed in the workshop because his bench there felt fa
 
 Nick's latest challenge waited in their arena. Jace accepted through his HUD and lost in eighty-three seconds.
 
-They'd met the same way most of the belt met, months back — a public strategy-game lobby, Jace killing time between HUD retraining drills, Nick already four moves into a build order that made no sense until it did. That first match had taken most of an evening, half of it spent typing rather than playing, because the light-lag between Mars and wherever Nick had been at the time made anything faster than a slow-turn strategy game a lesson in patience. Four months and a shrinking gap later, they'd played enough matches, at short enough intervals, that the games had started to feel less like turns exchanged across the solar system and closer to two people in the same room, which Jace understood was mostly an illusion built out of narrowing seconds, and which he had stopped correcting himself about.
+They'd met months back the same way most of the belt met, online. A public strategy-game lobby, Jace killing time between HUD retraining drills, Nick already four moves into a build order that made no sense until it did. That first match had taken most of an evening, half of it spent typing rather than playing, because the light-lag between Mars and wherever Nick had been at the time made anything faster than a slow-turn strategy game a lesson in patience. Four months and a shrinking gap later, they'd played enough matches, at short enough intervals, that the games had started to feel less like turns exchanged across the solar system and closer to two people in the same room, which Jace understood was mostly an illusion built out of narrowing seconds, and which he had stopped correcting himself about.
 
 The military had once tuned the implant within his skull until intention became command. He had commanded thirty drones without thinking about menus, gesture layers, or which eye held focus. After discharge, the service had wiped those trained mappings and returned the civilian partition to factory standard. The hardware remained in his skull. The practiced interface did not. Some of the others that had been kicked out related it to relearning to walk after a coma.
 
@@ -303,7 +305,7 @@ Now three simulated mechs crowded his attention. Two he could manage. A third tu
 
 *Slower. Also, I saved a mech for you. It is short. You will understand why this is funny when we meet.*
 
-Jace considered that for a second. Belters ran tall — low gravity, growth plates that never got the memo to stop — and Nick had been beating him at command-queue mecha battles for four months with the unhurried confidence of someone looking down at the board from a height. Jace pictured him accordingly: rangy, stretched, the kind of tall that ducked through doorways out of habit. It would be funny, Jace decided, if the short mech turned out to be some kind of height joke. He filed the theory away, pleased with it, and was wrong about every part of it, though he wouldn't learn that for another two weeks.
+Jace considered that for a second. Belters usually ran tall. Low gravity, growth plates that never got the memo to stop, and Nick had been beating him at command-queue mecha battles for four months with the unhurried confidence of someone looking down at the board from a height. Jace pictured him accordingly: rangy, stretched, the kind of tall that ducked through doorways out of habit. It would be funny, Jace decided, if the short mech turned out to be some kind of height joke. He filed the theory away, pleased with it, and was wrong about every part of it, though he wouldn't learn that for another two weeks.
 
 Jace started another match. Nick won that one too, but Jace kept three units moving for thirty seconds before one walked into a wall. Yesterday it had been twenty.
 
@@ -352,24 +354,8 @@ Behind his left eye, the burning coal flared with migraine-inducing pain.  OK, n
 
 | Note | Status | Resolution |
 |---|---|---|
-| T-01 source items 1 through 4 remain unretrieved | blocked | The canonical arc contract identifies the source gap; verify against the pre-migration source before approval |
-| T-01.7 conflicts with T-02b because it requires a ship AI | open | Proposed arc amendment: track constant ship-system and carried contract-AI interaction without giving the *Falcon* a ship AI |
 | Settler count and late cancellations | resolved | No settlers aboard; the entire Chinese mining crew withdrew at the last minute; cargo commitments forced a money-losing departure |
 | Patrick secretly queues the washroom fan | resolved | Jace sends Patrick airflow evidence and withholds the dog-waste photograph so Maureen does not learn the cause |
 | Automation-failure motif needs an on-page minor cascade before the plumbing crisis | open | This chapter establishes automation texture but does not contain the required failure cascade |
 | ⚠️ **FLAGGED — headcount discrepancy** | open | Author requested "60 females" aboard; established KB canon (`ship_falcon.md`: 54 breeding stock + Siren; `char_lanchee.md`: "fifty-eight women") totals **58**, not 60. This draft uses 58 to match existing canon. If 60 is wanted, either the breeding-stock manifest needs +2 animals or the human crew count needs revision — author decision needed before this propagates to `ship_falcon.md` / `livestock/falcon_animal_manifest_book1.md`. |
 | ~~FLAGGED — "fitness run" location~~ | resolved | Confirmed as the **Falcon's** ring — this is reused consistently in Ch05 (the Aura-pitch exercise-track scene) and Ch06, so treating it as shipboard is now load-bearing continuity, not just a guess. If a *second*, station-side fitness routine is wanted post-arrival (Ch07+), that would be a new, separate beat rather than a relocation of this one. |
-
-<!-- Automated test edit -->
-
-<!-- PIPELINE TEST EDIT: Ceres drydock burn complete -->
-
-<!-- Automated test edit -->
-
-<!-- PIPELINE TEST EDIT: Ceres drydock burn complete -->
-
-<!-- Automated test edit -->
-
-<!-- PIPELINE TEST EDIT: Ceres drydock burn complete -->
-
-<!-- Automated test edit -->

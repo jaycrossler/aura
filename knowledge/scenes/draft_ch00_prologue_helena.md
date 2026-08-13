@@ -1,6 +1,6 @@
 ---
 id: draft_ch00_prologue_helena
-name: "Prologue — Helena's Last Day"
+name: "Prologue. Helena's Last Day"
 type: chapter_draft
 book: book01
 chapter: Prologue
@@ -9,7 +9,7 @@ pov: char_helena
 status: staged_draft
 schema_version: 2
 last_updated: 2026-08-10
-description: "First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death. Revised to schema v2 (anchor-based beat linking, single contract table, single Open Notes table) and to canon fixes ruled 2026-08-10."
+description: "First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death."
 cross_references:
   - "[[event_helena_prologue]]"
   - "[[char_helena]]"
@@ -26,58 +26,58 @@ cross_references:
 
 Helena Reyes woke before the lights did, the way she had every morning of her life, in the only home she had ever known. After freshening up, she switched on her stream, lazily waving to the thousands of followers she had online. Some were on station, most were scattered across the solar system and wouldn't watch until hours or days later.
 
-She was twenty-six years old, and Fortuna Station had been exactly one year older than her for all of them. Her parents had come out with the second wave, when the station was three modules and a prayer, and she'd been born in a medical pod that was now the seed library. She had watched the rings go up. She'd been small enough, once, to fit inside the maze of ventilation shafts while they were still stacked in the loading bay on One, and she had grown up knowing more robots than people - in person that is. On the web, she had millions of followers. She'd been the first baby born on a station this far from the sun, a novelty item to a hundred systems' worth of newsfeeds before she could walk, and the fame had simply never worn off.
+She was twenty-six years old, and Fortuna Station had been exactly one year older than her for all of them. Her parents had come out with the second wave, when the station was three modules and a prayer, and she'd been born in a medical pod that was now the seed library. She had watched the rings go up. She'd been small enough, once, to fit inside the maze of ventilation shafts while they were still stacked in the loading bay on One, and she had grown up knowing more robots than people. Though, on the web, she had millions of followers. She'd been the first baby born on a station this far from the sun, a novelty item to a hundred systems' worth of newsfeeds before she could walk, and the fame had simply never worn off.
 
 <!-- beat:helena_prologue.beat1_morning_rounds -->
 Her rounds took her spinward, because in the rotating gravity of the station it just felt better to walk into the spin. She waved to at least 20 other good friends and neighbors along the way, skipping along with the loping steps common of those born on Mars or on stations.
 
-She stopped at the second hydroponics bulkhead and laid her palm flat against the seal there, because eleven years ago it had wept a bead of icy condensation and she had never fully forgiven it. Dry. Good. She keyed the reading into her bracelet anyway, and {Penny} — the station system that noticed things — logged the reading and appended, as it had for years, a note that this seal was being inspected on a schedule that existed in no maintenance plan anywhere. {Penny} had long since stopped asking why. Helena considered this the closest any of the station's AIs came to understanding her.
+She stopped at the second hydroponics bulkhead and laid her palm flat against the seal there, because eleven years ago it had wept a bead of icy condensation and she had never fully forgiven it. Dry. Good. She keyed the reading into her bracelet anyway, and {Penny}, the station system that noticed things, logged the reading and appended, as it had for years, a note that this seal was being inspected on a schedule that existed in no maintenance plan anywhere. {Penny} had long since stopped asking why. Helena considered this the closest any of the station's A.I.s came to understanding her.
 
 Two air-sealed doors in, she scattered a handful of feed into the chicken run and stood for a moment in the warm musk-smelling light while the flock argued about her, launching themselves like missiles in the slight gravity.
 
-In the Barn, she topped off a water line, scratched a goat that headbutted her with what the goat probably considered affection, and traded gossip while grasping the leathery hand of Saipan who was working the morning shift. She had dated Sai's grandson - actually 2 of her grandkids if you counted Betty, but Sai was old school traditionalist and didn't need to know that. With less than 100 teenagers ever on the station, Helena had grown up close to them all.
+In the Barn, she topped off a water line, scratched a goat that headbutted her with what the goat probably considered affection, and traded gossip while grasping the leathery hand of Saipan who was working the morning shift. She had dated Sai's grandson... actually 2 of her grandkids if you counted Betty, but Sai was old school traditionalist and didn't need to know that. With less than 100 teenagers ever on the station, Helena had grown up close to them all.
 
-"New ship soon." Sai sighed, pretending to be grumpy about all the extra work it would bring. But she was grinning. A few new settlers. A whole new bloodline of pigs and goats and 6 new breeds of chickens. She glanced up at one nestled in a hard-to-reach corner of a ceiling strut. Maybe they didn't need more chickens.
+"New ship soon." Sai sighed, pretending to be grumpy about all the extra work it would bring. But her sun-scorched face held a sly grin. Three new people. A whole new bloodline of pigs and goats and 6 new breeds of chickens. She glanced up at one nestled in a hard-to-reach corner of a ceiling strut. Maybe they didn't need more chickens.
 
 "An actual dog," Sai said.
 
 "Two dogs!" Helena said. "I've been watching the channel."
 
-Everyone had been watching the channel. A few of her viewers sent buzzes and likes indicating that they were also watching the pig channel, which pulsed as warm icons on the edge of her contact lenses.
+Everyone had been watching the channel. A few of her viewers sent buzzes and likes indicating that they were _also_ watching the pig channel, which pulsed as warm icons on the edge of her contact lenses.
 
-"I had dogs like those when I was a girl on Earth. Pugs." Sai said in her station mix of English and Chinese.
+"I had similar dogs when I was a girl on Earth. Pugs." Sai said in her station mix of English and Chinese.
 
 "What's a pug?"
 
-She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Like those, just no nose. And more hair."
+She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Looks like them, just no nose. And more hair. Same curly tail."
 
 ---
 
-Below her feet — a few kilometers below, through the deck and the ring structure and a lot of nothing — the asteroid turned its slow gray shoulder. Fortuna. The rock they all lived on top of, technically; lived *above*, in practice, strung on a spine of trusses with the mining district winking on its surface like a small stubborn constellation. She'd been down twice this year. She preferred it up on station, where the gravity was manufactured but the community was real.
+Below her feet, a kilometer below, through the deck and the ring structure and a lot of nothing, the asteroid turned its slow gray shoulder. Fortuna. The rock they all lived on top of, technically; lived *above*, in practice, strung on a spine of trusses with the mining district winking on its surface like a small stubborn constellation. She'd been down twice this year. She preferred it up on station, where the gravity was manufactured but the community was real.
 
 <!-- beat:helena_prologue.beat2_yoga_class -->
 At noon she sauntered to the park on Two and taught her class under the only Oak tree within 500 million kilometers.
 
-Yoga in one-third gravity is a different discipline than the Earth videos suggest — slower, longer, more balance needed until you sweat, and movement is amplified. The discipline had started full of hand stands called Rocket Yoga back a hundred years ago in Los Angeles, then Mars added low-g gymnastics. With the station being a quarter Chinese, she'd added some Tai Chi to account for the spin of the station. She always timed her classes to have the hardest moves right when the cloudscape ceiling changed scenes. Today was a heat lightning storm that soon burst into bright sunlight, complete with a pressing increase in temperature and humidity for this segment of the ring. Carlos had coded this one. No one was supposed to know what would show on any given day, but she knew all the station's secrets. She smiled to him hiding in the rear of the group, and he grinned back. Then she turned the class to face against the spin and do another painfully slow flip and he stopped grinning.
+Yoga in one-third gravity is a different discipline than the Earth and Mars videos suggest. Slower, longer, more balance needed until you sweat, and movement is amplified. The moves had started full of hand stands called Rocket Yoga back a hundred years ago in Los Angeles, then Mars added low-g gymnastics. With the station being a quarter Chinese, she'd mixed in some Tai Chi to account for the spin of the station. She always timed her classes to have the hardest moves right when the cloudscape ceiling changed scenes. Today was a heat lightning storm that soon burst into bright sunlight, complete with a pressing increase in temperature and humidity for this segment of the ring. Carlos had coded this one. No one was supposed to know what would show on any given day, but she knew all the station's secrets. She smiled to him hiding in the rear of the group, and he grinned back. Then she turned the class to face against the spin and do another painfully slow flip and he stopped grinning.
 
-Fourteen regulars on mats between the planter beds, and she took them through an hour of sweat and delicious pain. Half were pregnant, and there were two Earth-born that still flipped too hard and would crash over while trying to move into the handstands. In the station-standard low-weight gravity, anyone could do a thousand pushups, but moving fast made your limbs heavy. Lately, she felt like she could almost see the emotions radiating off of her fellow yogis - intense calm in most, stress in some of the newer ones, worried determinism in the pregnant moms. She mentally pulled the emotions in to her, breathing hot sweaty energy back towards her class.
+Fourteen regulars on mats between the planter beds, and she took them through an hour of sweat and delicious pain. Half were pregnant, and there were two Earth-born that still flipped too hard and would crash over while trying to move into the handstands. In the station-standard low-weight gravity, anyone could do a hundred pushups, but moving fast made your limbs heavy. Lately, she felt like she could almost see the emotions radiating off of her fellow yogis. Intense calm in most, stress in some of the newer ones, worried determinism in the pregnant moms. She mentally pulled the emotions in to her, breathing hot sweaty energy back towards her class.
 
-She showed off her finger-stand, spinning through moves while balancing on a pinky. Nearly a thousand likes came in along with a dozen tokens in tips. Near the end of the routine, in the long-held final pose — hips grounded, spine long, breath moving through her in tides — something happened to her that she had never felt before.
+She showed off her finger-stand, spinning through moves while balancing on a pinky. Nearly a thousand likes came in along with a dozen tokens in tips. Near the end of the routine, in the long-held final pose, hips grounded, spine long, breath moving through her in tides... something happened to her that she had never felt before.
 
 Every chakra aligned.
 
-She would not have been able to explain it and didn't try. It was as if her body had been a stiff hinge her whole life and someone had finally oiled it — a warm heat rising up her spine, a sense of her own edges going soft and vast at the same time, every breath arriving like a small tide of light. It lasted maybe thirty seconds. It was the most beautiful thing she had ever felt. When she came out of the pose she laughed out loud, and half the class laughed with her without knowing why, because that was the kind of effect Helena had on a room.
+She would not have been able to explain it and didn't try. It was as if her body had been a stiff hinge her whole life and someone had finally oiled it. A warm heat rising up her spine, a sense of her own edges going soft and vast at the same time, every breath arriving like a small tide of light. It lasted maybe thirty seconds. It was the most beautiful thing she had ever felt. When she came out of the pose she laughed out loud, and half the class laughed with her without knowing why, because that was the kind of effect Helena had on a room.
 
 *I have to try that move again tonight,* she thought, rolling her mat.
 
 <!-- beat:helena_prologue.beat3_anticipation -->
 Which reminded her: tonight.
 
-Sophia Lotte turned thirty today, and the party at the inn was going to be the best thing to happen to Fortuna since the barn expansion. Helena had helped plan it, obviously — she'd helped plan everything on this station since she was nine — and she had two objectives for the evening. One was to make sure Sophia, who worked too hard and had been looking gray and exhausted for a month, actually enjoyed her own birthday.
+Sophia Lotte turned thirty today, and the party at the inn was going to be the best thing to happen to Fortuna since the barn expansion. Helena had helped plan it, obviously. She'd helped plan everything on this station since she was nine, and she had two objectives for the evening. One was to make sure Sophia, who worked too hard and had been looking gray and exhausted for a month, actually enjoyed her own birthday.
 
 The other was to finally dance with Jin.
 
-Jin Lóng — tall (to her) and powerfully compact. A great body for yoga. And other things... — who said maybe forty words a week and made every one of them count, whom she had been orbiting at a careful, cowardly distance for the better part of a year. Tonight she was done orbiting. She'd decided during the class, somewhere in all that warmth: life was good, and short, and she was going to walk up to that serious, compact man and make him laugh if it took her all night.
+Jin Lóng. Tall (to her) and powerfully compact. A great body for yoga. And other things...  Jin, who said maybe forty words a week and made every one of them count, whom she had been orbiting at a careful, cowardly distance for the better part of a year. Tonight she was done orbiting. She'd decided during the class, somewhere in all that warmth: life was good, and short, and she was going to walk up to that serious, compact man and make him laugh if it took her all night.
 
 <!-- beat:helena_prologue.beat4_the_bar -->
 She showered. She wore the green top. She checked one more pressure seal and a reported a loose ventilation cover on the way to the bar, out of pure habit, and it was fine, everything was fine, and she pushed through the door into light and noise and half the station singing something off-key, and her friends turned toward her the way flowers do. She achieved both objectives, though one of Jin's miner buddies glared at her and pulled him aside before she could convince him to take her home. She left, giddy, tipsy, and a little lonely. She turned off her feed before she got home, singing a silly little goodbye song to her viewers.
@@ -85,7 +85,7 @@ She showered. She wore the green top. She checked one more pressure seal and a r
 <!-- beat:helena_prologue.beat5_the_statement -->
 That party was the last anyone saw of her.
 
-Helena Reyes — first child of Fortuna Station, keeper of its seals and its gossip and its animals, beloved of essentially everyone — died that night.
+Helena Reyes, first child of Fortuna Station, keeper of its seals and its gossip and its animals, beloved of essentially everyone, died that night.
 
 No one knows this yet. Not her friends, still singing. Not the station, turning patiently above its asteroid. Not the *Falcon*, days out, carrying a tired man and two small brindle puppies toward all of it.
 

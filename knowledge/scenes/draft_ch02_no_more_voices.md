@@ -1,6 +1,6 @@
 ---
 id: draft_ch02_no_more_voices
-name: "Chapter 2 - No More Voices"
+name: "Chapter 2. Going a little crazy"
 type: chapter_draft
 book: book01
 chapter: Ch02
@@ -25,7 +25,7 @@ supersedes:
   - "[[draft_ch03_afternoon_workshop]]"
 ---
 
-# Chapter 2 - No More Voices
+# Chapter 2. Going a little crazy
 
 > *Most people do not know this, but space is all about logistics and planning.  He who controls the printers controls the goods. She who controls the goods controls the workforce. Step three... profit. I probably should have majored in business, not engineering.*
 
@@ -86,17 +86,17 @@ Maureen set the coil on the bench. "What did you break?"
 
 "It has opinions."
 
-"It has four thousand recorded responses and a queue manager. If that counts as intelligence, the pigs are eligible for command."
+"It makes sounds and has a queue manager. If that counts as intelligence, the pigs are eligible for command."
 
-Jace considered Screwdriver's campaign against the service latch. "I would hear her platform."
+Jace considered Screwdriver's inenious bypasses of the service latch. "I would hear her campaign speach."
 
 Maureen touched the terminal, approved the maintenance sort, and began cutting the coolant line into measured lengths.
 
-Behind her, insulated pump trunks crossed the workshop bulkhead on their way from the ring tanks to the stationary spine. Most carried water. The larger silver lines carried argon, nearly a thousand tonnes of it at departure, held cold and dense until the ion and Hall-effect thrusters metered it into plasma and pushed it out the stern. Argon did not burn. It barely reacted with anything. On the *Falcon*, that made it useful enough to keep in enormous tanks and boring enough for everyone to forget it was there.
+Behind her, insulated pump trunks crossed the workshop bulkhead on their way from the ring tanks to the stationary spine. Most carried water. The larger silver lines carried argon, nearly a thousand tonnes of it at departure, held cold and dense until the ion thrusters metered it into plasma and pushed it out the stern. Argon did not burn. It barely reacted with anything. On the *Falcon*, that made it useful enough to keep in enormous tanks and boring enough for everyone to forget it was there.
 
 Jace liked boring systems. They usually waited until later to become interesting.
 
-Jace watched the queue reorder. "Why does a ship this size not have an AI?"
+Jace watched the queue reorder. "Why does a ship this size not have an A.I.?"
 
 The cutter stopped.
 
@@ -112,7 +112,7 @@ The ceiling speaker said, "Fabrication job three requires material confirmation.
 
 "An annoyed speaker."
 
-"It learned from passengers."
+"It has to deal with passengers."
 
 Jace opened job three.
 
@@ -122,7 +122,7 @@ He checked the requester.
 
 "Captain."
 
-"Laborer."
+"Production specialist."
 
 "You printed a plate yesterday."
 
@@ -132,11 +132,11 @@ He checked the requester.
 
 "Also correct."
 
-He expanded the account routing. The passenger paid twenty-one Tokens. Origin's fulfillment network paid Maureen a twenty-Token facility fee per routed job, regardless of what the job was. A plate cost one Token in material, if that. It existed to be printed, invoiced, and quietly repeated.
+He expanded the account routing. Plates had been ordered each of the last 100 days. The passenger paid twenty-one Tokens. Origin's fulfillment network paid Maureen a twenty-Token facility fee per routed job, regardless of what the job was. A plate cost one Token in material, if that. It existed to be printed, invoiced, and quietly repeated.
 
 "You're printing money."
 
-"I am running a business out of my own forge. If Origin wants to write a stupider contract, that is Origin's problem."
+"I am running a business to cover the costs of my own forge. If Origin's A.I. wants to write a stupider contract, that is Origin's problem."
 
 Jace printed the plate. He said nothing further, mostly because there was nothing further to say that would not also apply to the fan he'd just had Patrick smuggle onto the same queue.
 
@@ -147,11 +147,13 @@ Jace could have pointed out that he could print 80 plates on this print bed at o
 Cerberus snored.
 
 <!-- beat:t_forge_no_more_voices.beat2_automation_and_sparky -->
-His thumb found the hairline fracture the stock diagnostic missed. Thing One was flying exterior, well clear of the hull along ring segment twelve, and inspected the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone back up cost an hour each cycle, and it was better to let it finish the whole exterior circuit while it was already cold-soaked. Thing Two, meanwhile, spent the same stretch working its way down the interior ring corridor, tightening handrail brackets and clearing lint screens two hallways over from the forge — the unglamorous, indoor half of the same maintenance sweep, logged under a different queue and, Jace had noticed, never once acknowledged by anyone who wasn't him.
+His thumb found a hairline fracture Maureen's diagnostic drone missed. Thing One was flying exterior in cold space, well clear of the hull along ring segment twelve, and inspected the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone up from negative 270 degrees took hours, and it was better to let it finish the whole exterior circuit while it was already cold-soaked and park it outside.
+
+Thing Two, meanwhile, spent the same stretch working its way down the interior ring corridor, clearing lint screens and wall scuffs near the forge, the unglamorous, indoor half of the same maintenance sweep, logged under a different queue and, Jace had noticed, never once acknowledged by anyone who wasn't him.
 
 Small fixes. The ship accumulated quiet improvements that nobody except Patrick noticed, though he was still stuck recovering on Mars.
 
-His headache returned each morning and cooled by breakfast. Lanchee had scanned the implant twice. Today, he was in her clinic, a quiet and well-kept container pod that she was moving with her from Mars to the belt. He envied people like that - she had the power to move her house and clinic with her anywhere in the system.
+His headache returned each morning and cooled by breakfast. Lanchee had scanned the implant twice. Today, he was in her clinic, a quiet and well-kept container pod that she was moving with her from Mars to the belt. He envied people like that. She had the professional power to move her house and clinic with her anywhere in the system.
 
 "No swelling, no pressure problem, no firmware fault". She prescribed the standard scrubbers and told him to report any change. He deflated.
 
@@ -171,15 +173,17 @@ Calling it a drone would have flattered it. The tray held a sensor board that wo
 
 That named the project.
 
-Sparky was not a machine yet. It was a direction. A compact body with swappable panels, local controls, and no corporate firmware deciding which ideas were permitted. Someday it might carry the open AI stack Nick kept talking about from Fortuna. An intelligence he could choose, running in a body he could repair.  
+Sparky was not a machine yet. It was a direction. A compact body with swappable panels, local controls, and no corporate firmware deciding which ideas were permitted. Someday it might carry the open A.I. stack Nick kept talking about from Fortuna. An intelligence he could choose, running in a body he could repair.  
 
 Cerberus slept beneath the bench while Jace rebuilt the scorched power bus. The puppy had doubled in mass since departure and still believed his body would fit wherever his head entered.
 
 He printed a controller shell in the good space-rated polymer that had excellent balistic and therma properties. It was for Sparky, eventually, once the boards and power bus agreed to coexist without making magic smoke. 
 
-On good days Sparky could roll around without crashing into things. He was working on ideas to make it fly in the 40% gravity as well.  Other than the pay, the second best thing about working at Origin was the product library - millions of blueprints and printer files for almost anything you could imagine.  Some required printers, some needed wire-winders, some needed circuit boradr pick-and-place machines. The more complex ones required a screw-bot that could fasten components with pin-point accuracy. Maureen conveniently had one of each.  
+On good days Sparky could roll around without crashing into things. Every time he tried to make it fly, the crappy thrusters he had would pull too many amps and pop the controllers.
 
-He selected the most complex space-rated thrust module that could fit within the unused print queues and set a task to print one each evening unused capacity was available.  Might as well put these fabricators to use.
+Jace thought.  Other than the pay, the second best thing about working at Origin was the product library, millions of blueprints and printer files for almost anything you could imagine.  If someone had ordered it printed in the last hundred years, Origin probably had the blueprints. Even mil-spec hardware. He scrolled through designs. Some required printers, some needed wire-winders, some needed circuit boradr pick-and-place machines. The more complex ones required a screw-bot that could fasten components with pin-point accuracy. Maureen conveniently had one of each. 
+
+He selected the most complex space-rated thrust module that could fit within the unused print queues and set a task to print one every time unused capacity was available.  Might as well put these fabricators to use.
 
 ---
 
@@ -202,13 +206,13 @@ Nick won. Nick always won. Jace kept two units coordinated cleanly and brought t
 <!-- beat:t_forge_no_more_voices.beat3_night_recurrence -->
 That night he lay in his bunk with Cerberus between his knees and breathing masks snug over each of their faces. Water moved through the walls. Somewhere down the ring, a pig struck a panel three times with patient, experimental force. Like they were prisoners inventing their own code to break out of jail.
 
-The *Falcon* had no ship AI. It had a captain who could turn a dinner plate into cash, a sprint shop slowly creating jets, corporate intelligences sealed into contract partitions, and fifty-four animals conducting unauthorized research.
+The *Falcon* had no ship A.I. It had a captain who could turn a dinner plate into cash, a shop slowly turning filament into engines, an engine turning argon fuel into thrust, and fifty-four animals conducting unauthorized research.
 
 Jace closed his eyes. He might be going a little bit crazy. It would not be the first time. 
 
-During the five months in the *Pinta's* crowded berths, Earth to Mars, spent recovering from the HUD surgery while a hundred and fifty strangers learned to live on top of each other — he remembered the exact flavor of that particular mental unraveling, the way sound had started arriving half a beat early, the way he'd caught himself holding conversations with the implant like it might answer back before it was cleared to. He had come out the other side of that fine. He assumed this was the same shape of thing, wearing a different ship.
+During the five months in the *Pinta's* crowded berths, Earth to Mars, spent recovering from the HUD surgery while a hundred and fifty strangers learned to live on top of each other. He remembered the exact flavor of that particular mental unraveling, the way sound had started arriving half a beat early. He had come out the other side of that fine. He assumed this was the same shape of thing, wearing a different ship.
 
-If only he didn't still see the walls after he closed his eyes.
+If only he didn't still see outlines of things after he closed his eyes.
 
 ---
 
@@ -239,6 +243,3 @@ If only he didn't still see the walls after he closed his eyes.
 
 | Note | Status | Resolution |
 |---|---|---|
-| Whether queue automation should fail on page in this chapter | open | The arc requires a minor automation cascade before the plumbing crisis; placement remains an author decision |
-| Whether the non-AI system should use the term majordomo in prose | resolved | The draft describes its behavior through the speaker and queue manager; no AI braces are used |
-| Whether Chapter 3 contains unique prose after consolidation | open | Compare before superseding `draft_ch03_afternoon_workshop` |

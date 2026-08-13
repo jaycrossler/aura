@@ -85,13 +85,13 @@ Nick processes this the way engineers process unexpected information — not jud
 
 "And you never installed a local AI?  Your skulljack is perfect for that."
 
-"I have {Alex} briefing me every morning before I'm out of bed. I have {Penny} logging my access patterns. I have {SpoX} sending me alerts about ore priorities at 5 every morning. I have enough AIs in my day." Jace sets down his controller. "I don't want something in my head constantly giving me more to do."
+"I have {Alex} briefing me every morning before I'm out of bed. I have {Penny} logging my access patterns. I have {SpoX} sending me alerts about ore priorities at 5 every morning. I have enough A.I.s in my day." Jace sets down his controller. "I don't want something in my head constantly giving me more to do."
 
 Nick nods slowly. "That's fair. That's actually—" He stops. Starts again. "You know, there's a "buddy" mode where it never criticizes you..."
 
 "Ugh, I don't want to force an AI to by my Buddy. My HUD is great for everything I need. And it doesn't nag me unless I set it to. I'm talking to you now through it, I can read messages, what more do I need?"
 
-"The thing is," Nick says, "what you're describing — the morning briefing, the access logs, the alerts — that's not {Aura}. That's the corporate AIs constantly watching and trying to control you. Your HUD just..."
+"The thing is," Nick says, "what you're describing — the morning briefing, the access logs, the alerts — that's not {Aura}. That's the corporate A.I.s constantly watching and trying to control you. Your HUD just..."
 
 Jace grimaces, Nick just won the game they were playing while also delivering his sales pitch. "Man, with respect, I have a degree in engineering. I know how it
 works." Jace 

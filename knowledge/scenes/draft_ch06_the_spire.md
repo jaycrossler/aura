@@ -1,6 +1,6 @@
 ---
 id: draft_ch06_the_spire
-name: "Chapter 6 — The Spire"
+name: "Chapter 6. The Spire"
 type: chapter_draft
 book: book01
 chapter: Ch06
@@ -27,13 +27,13 @@ open_flags:
   - "⚠️ TIMING: event_t_spire_eggs.md's source contract notes placement as '~2 weeks before Fortuna arrival.' This session's continuity pass fixes the crisis at 14 days before arrival (per Ch04's 'Lucky 13' line) and works forward from there, which only leaves room for this chapter at ~2 days before arrival, not ~2 weeks. Recommend updating the source KB file's placement note to match, since the tighter chain is now load-bearing across Ch04–Ch07."
 ---
 
-# Chapter 6 — The Spire
+# Chapter 6. The Spire
 
 > *Most people don't know this, but a spaceship's quietest places are the ones closest to its spine. Less spin, less gravity, less noise. I used to think that meant less of everything. I was wrong about that in a way I didn't enjoy.*
 > — Jace Grant, *Falcon* transit logs
 
 <!-- beat:t06_spire.beat1_dream_and_waking -->
-Two nights after the canister launch — two days from Fortuna now, close enough that Carlos's name had started appearing in Jace's onboarding paperwork — the dream was the same shape it had been for well over a week now: a lattice of light running through the ship like veins through a leaf, every strut and conduit traced in something that wasn't quite color, warm and slow and enormous — except this time there was a place in it that was *looking back*. Not a shape. A presence, gathered up close along the ship's spine like something curled around a heat source, patient in a way that had nothing human in it and dripped with hostility. He couldn't have said how he knew both of those things. He just did, the way you know a room is occupied before you've located the person in it.
+Two nights after the canister launch, two days from Fortuna now, close enough that Carlos's name had started appearing in Jace's onboarding paperwork — the dream was the same shape it had been for well over a week now: a lattice of light running through the ship like veins through a leaf, every strut and conduit traced in something that wasn't quite color, warm and slow and enormous — except this time there was a place in it that was *looking back*. Not a shape. A presence, gathered up close along the ship's spine like something curled around a heat source, patient in a way that had nothing human in it and dripped with hostility. He couldn't have said how he knew both of those things. He just did, the way you know a room is occupied before you've located the person in it.
 
 He woke sitting halfway up, heart going, certain — not frightened-certain, worse than that, *sure*-certain, the way you're sure of a smell — that he had actually seen it. Not dreamed it. Seen it, through however many decks of hull and deck plate stood between his bunk and the ship's central axis, the same way he'd been able to see, for about four days now, the shape of the water main behind his workshop wall in the half-second before his eyes caught up and told him it was just a wall.
 
