@@ -1,6 +1,6 @@
 ---
 id: draft_ch07_arrival_day
-name: "Chapter 7 — Arrival Day"
+name: "Chapter 7. Arrival Day"
 type: chapter_draft
 book: book01
 chapter: Ch07
@@ -9,9 +9,11 @@ pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
 last_updated: 2026-08-12
-description: "Adapted from the KB's existing draft_ch08_arrival_day.md rather than written fresh, per the project's 'don't invent new canon when material exists' rule — that file already covered almost exactly what was requested this session. Changes made this pass: renumbered Ch08→Ch07 to match this session's consolidated chapter count; 'Training Mode' nickname updated to 'Learning Mode' throughout, to match the nickname established in the revised Ch05; Carlos's role made explicitly a formal Origin sponsorship, not just an informal tour; added direct scale comparisons to the Falcon (corridor width, ring circumference, general density) per author's request that arrival feel bigger and different; the Helena's-jacket beat now lands as confirmation rather than a cold reveal, since Jace already heard the rumor from both Nick and Artemis in Ch05 — his reaction is adjusted accordingly."
+description: >
+  Jace arrives at Fortuna, meets a community that already knows him, sees the
+  scale and strain of the station, and encounters Helena's absence as a physical
+  part of daily life.
 cross_references:
-  - "[[draft_ch08_arrival_day]]"
   - "[[arc_01_thread_A_arrival]]"
   - "[[char_carlos]]"
   - "[[char_nick_lee]]"
@@ -20,138 +22,275 @@ cross_references:
   - "[[char_mei]]"
   - "[[char_helena]]"
   - "[[location_fortuna_station]]"
-  - "[[visual_profile_fortuna_station]]"
   - "[[ship_falcon]]"
-open_flags:
-  - "A-01's full contract text is noted in the KB as not fully retrieved — this chapter is drafted from known elements (jacket-before-Suzi ordering, stuffed pig, nicknames, Cerberus novelty, Kim's dislike established) plus the KB's own existing Ch08 draft. Verify against source if the full A-01 contract surfaces later."
-  - "Per this session's continuity pass, arrival is now explicitly Day 0 (two days after the Spire chapter, per Ch06's closing). This is the first chapter with zero slack left in the countdown — if any earlier chapter's timing changes again, this is the one that will need re-checking first."
-  - "The KB's Ch08 draft has Kim's first appearance here (the 'compact, scowling woman... turned on her heel and left'), consistent with char_kim.md establishing her dog-dislike on arrival day. Kept as-is."
+  - "[[spec_audiobook_narration_style]]"
 ---
 
-# Chapter 7 — Arrival Day
+# Chapter 7. Arrival Day
 
-> *Most people don't know this, but you can be famous on a space station you've never set foot on. All it takes is four months, two channels, six pigs, and one catastrophic plumbing decision. I recommend none of it.*
-> — Jace Grant, *Falcon* transit logs
+> *Most people do not know this, but you can be famous on a station you have never visited. All it takes is four months, six pigs, two cameras, and one failure involving sewage. I recommend arriving anonymously.*
+>
+> Jace Grant, *Fortuna notes*
 
-<!-- beat:a00b_maureen_departure.beat1_the_falcon_docks -->
-The *Falcon* did not dock at Fortuna Station, exactly. She parked a kilometer off and let Fortuna come to her — a slow procession of cargo tugs peeling canisters off her spine like segments off an orange, ferrying them across the gap to the station's receiving frames. It would take three days to unload her. Her passengers rated a single tug, first trip.
+The *Falcon* did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart.
 
-Maureen saw him off at the airlock with the warmth of a customs inspection.
+Cargo tugs crossed the gap in a steady line. Each tug locked onto one of the ship's thirteen-meter canisters, freed it from the ring, and carried it toward Fortuna's receiving frames. Some canisters would return to the *Falcon* after unloading. Others had made their last voyage.
 
-"Your seal work held," she said. "All of it. Even the corner anchors you ran hot."
+Lanchee's clinic was one of those.
 
-From Maureen, this was approximately a eulogy. Jace had spent four months learning her currency and knew a measurement-compliment when it was paid to him. "Thank you for the transit, Captain."
+She stood beside Jace at the observation port while two tugs detached the canister that held her examination room, instruments, bed, and every private thing he had never seen. Lanchee would remain aboard until the crews welded it into Fortuna's frame and certified three separate air supplies.
 
-She nodded once, already turning to the next thing, and that was that. The *Falcon* ran this route; she'd be back in a year with more animals and more settlers, and they would nod at each other again, and he found — checking, the way you check a repair — that this was enough.
+"You are staying with the ship?" Jace asked.
 
-Lanchee was already at the tug hatch, everything she owned in one bag and a second, heavier bag of medical equipment beside it, and she was — he had to look twice — *smiling*. Not at anyone. At the station in the viewport. Four months of closed doors and professional non-answers, and it had simply never once occurred to him to wonder whether she'd liked the ship. She hadn't, he understood now, in one embarrassing flash. She'd been enduring the transit the way he'd been enduring the debt: politely, and counting the days.
+"My home is moving," she said. "I prefer to supervise."
 
-"Good luck down there," she said to him, the longest sentence she'd volunteered in a month, and walked into her new life without looking back.
+That was the longest explanation she had given him in a week.
 
-<!-- beat:a01_arrival.beat2_the_tug_crossing -->
-The tug crossed the gap in eleven minutes. Jace spent them at the little viewport with Cerberus zipped against his chest — fifteen floppy pounds of dog, all ears and oversized paws — and the crate of Sparky prototypes strapped at his feet, and Mei silent beside him, watching Fortuna grow.
+Maureen appeared at the passenger lock with a tablet under one arm and Siren at her heel.
 
-It was bigger than the pictures. That was his first professional thought, and then his second thought, less professional, was that he didn't have a real unit for it yet — four months of measuring his world in a single 628-meter ring and a four-minute jogging lap had quietly recalibrated what "big" meant, and Fortuna broke the scale the moment it stopped being a picture and started being something he had to crane his neck to see the top of. A skeletal truss spine with three rotating rings strung along it, white with blue Origin livery, the gap between the first two rings scabbed over with years of inter-ring construction; radiators like dragonfly wings; a non-rotating gallery near the hub catching the sun. Three rings. The *Falcon* had been one ring and a spine you could walk in an afternoon. And below it all — a kilometer below, patient and gray — the asteroid itself, 3 Fortuna, the manufacturing district scattered across its surface in lit rectangles. Two hundred and fifty people. His next several years, assuming the debt math held. His whole visible future, hanging over a rock.
+"Your repairs held," Maureen told Jace. "All of them. Even the corner anchors you ran hot."
 
-"It's smaller than Terminus," Mei said, to the window.
+From Maureen, this approached poetry.
 
-"Most things are."
+"Thank you for the transit, Captain."
 
-She almost smiled. Twelve words today, and they weren't even required. A banner day.
+"Do better work on the way back."
 
----
+"I am not booked for the way back."
 
-The receiving bay was louder than four months of shipboard quiet had prepared him for, and the first thing that happened — before customs, before quarters assignment, before anything on the official arrival checklist — was that a dockworker looked up from a manifest, saw him, and grinned.
+"Then do better work here."
 
-"Hey! Learning Mode!"
+She turned to the next manifest without offering a hand. Jace understood the gesture anyway. The *Falcon* would return next year. They would meet again, complain about the same plumbing, and measure affection in tolerances.
 
-"It's the mask guy," someone else said, delighted, to a third person. "From the pig channel. And the *dog* — look, he brought the dog—"
+That was enough.
 
-The dog. That was the actual event, Jace understood within about ninety seconds. He was a minor celebrity; Cerberus was a *phenomenon*. Half the receiving bay drifted over in loose orbits — belt-born workers who had watched dogs on screens their whole lives and never once smelled one, holding out careful hands, asking permission with the formality of people approaching a diplomatic delegation. Cerberus received his public with wiggling magnanimity. One woman in a fabrication jumpsuit teared up and didn't explain and didn't need to. One man kept a full three meters of distance the entire time with the expression of someone watching a small bear be inexplicably indulged.
+Mei waited inside the transfer tug with one light bag between her boots. Four months of work, a new station, and everything visible in her life fit inside it.
 
-And one compact, scowling woman in drone-ops colors took a single look at the entire tableau — dog, crowd, Jace — turned on her heel, and left. He'd meet her again, he was fairly sure. He filed the scowl.
+Jace had two bags. The duffel was heavy enough to pull hard against his shoulder in the tug's weak spin. Inside, wrapped in clothing, rode a new Sparky chassis and ten micro-thrusters he had printed during the final week aboard. The thrusters drew less power than the old design, carried better overload protection, and remained disassembled so one bad impact would not convert the bag into a brief electrical fire.
 
-<!-- beat:a01_arrival.beat3_carlos_and_the_tour -->
-"You'll be wanting rescuing," said a voice at his elbow, and that was Carlos.
+Cerberus rode in a chest harness. He had grown to nearly thirty pounds and continued to believe he was a lap dog.
 
-Late fifties. Cardigan. An actual necktie, knotted, on a frontier station, worn with the serenity of a man who had decided decades ago what he was going to be and had been quietly right ever since. "Carlos. Drone ops. I'm your sponsor of record, which Origin's paperwork means about a formal onboarding buddy, and I mean as: I have the great honor of showing you around before Kim gets hold of your training schedule." He looked down at Cerberus. He did not coo. He extended one hand at dog height, waited to be sniffed, and nodded, as between professionals. "And this is the famous one."
+The tug crossed the gap in eleven minutes.
 
-The tour was good the way a good tour is: Carlos knew what to linger on and what to walk past. The ring corridor alone told Jace more than the numbers had — five to seven meters wide, three to four high, with a cloudscape ceiling running mid-afternoon programming, fake cumulus sliding over painted blue, and it took him most of a minute to understand why it felt so strange underfoot: he could walk three people abreast here without anyone turning sideways. The *Falcon's* ring corridor had been a tube you learned to move through in single file out of habit. This was a street.
+Fortuna grew until the viewport could not hold it.
 
-"How long to walk the ring?" Jace asked, mostly to hear the number.
+Three rings turned around a long central spine. The first two carried dense construction between them, a layered city of gantries, pod stacks, markets, and utility towers. Ring Three stood farther out. Half looked finished. The rest looked like someone had stopped building a ship halfway through and dared vacuum to complain.
 
-Carlos considered it the way a local considers a tourist question. "Depends how many people stop you. Twenty minutes, if nobody does. You won't get twenty minutes for a while yet."
+Below everything turned the asteroid, dark gray and immense. Surface factories marked it with rectangular fields of light.
 
-The park — a real park, real green, where a yoga class's worth of empty mats were stacked by a planter, which struck Jace as an odd thing for a park to have and which he had no framework yet to make anything of. The Foundry, three times the *Falcon's* whole forge bay and louder in a way that felt less like industry and more like a heartbeat. The Barn corridor, warm-lit and animal-smelling, where Cerberus's entire body began to vibrate with the news that this station contained *goats* — actual goats, plural, not six pigs and a dwindling coop's worth of chickens rationed across a four-month transit. The cafeteria, the noodle counter, the med bay, the drone-ops bay where Jace would report in two days.
+Jace had spent four months inside the *Falcon's* single ring. A full circuit there took four minutes at a jog. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
-It was at the entrance of the drone bay that he saw the jacket.
+"Smaller than Terminus," Mei said.
 
-A worn green work jacket, hanging on the third hook of the entry rack, a hand-stitched flower on the collar. Every other hook held the daily churn of shift gear — grabbed, swapped, dumped. The third hook had an emptiness around it, a moat of not-touching, and the jacket had the settled look of a thing that had hung there for weeks.
+"Most places are."
 
-He knew before he asked. He asked anyway, because knowing and confirming were different things, and because he'd learned that lesson once already this trip, standing in a corridor with a wrench in his hand and no way to prove what he'd seen.
+She watched the station for another minute.
 
-"Whose is that?"
+Siren sat beside her. At some point between the *Falcon* and the tug, the dog had transferred her allegiance from Maureen to Mei without paperwork.
 
-Carlos followed his gaze, and for the first time all day, the unhurried man took a moment.
+The receiving bay was louder than the entire voyage.
 
-"Helena's," he said. Just that.
+Cargo alarms chimed. Tugs locked against the outer frame. Robots rolled through painted lanes with containers held above them. Five hundred people could fit aboard Fortuna during a busy docking window. Jace believed all of them had chosen this one.
 
-"The woman who went missing." Not a question. Nick's message, four days old now, and Artemis's voice on top of it — *station royalty, first kid ever born up here* — arrived in the same breath as the jacket, and the two things locked together with an audible click he felt more than heard.
+He stepped through customs.
 
-Carlos looked at him properly for the first time since the tour started. "You heard already."
+A dockworker looked up from a manifest.
 
-"Word travels father than I do, apparently."
+"Learning Mode!"
 
-"It does that." Carlos moved on to the fabrication lab, and Jace — who had been in the military, and knew a folded flag when he saw one in any of its forms, and who now carried this one with a weight the KB rumor mill hadn't quite prepared him for — did not ask his second question, and carried it with him the rest of the tour.
+Someone farther back called, "Mask guy!"
 
-Housing came last. "There are two inns while you wait on a pod assignment," Carlos said. "There's Erin's." He said the name the way you'd identify a weather system. "Erin is brilliant, and her cooking is a genuine event, and something is always happening at her inn, and I say this with real affection: you don't want to live inside an event. The other house is quieter. Man with red hair, makes good coffee, doesn't ask questions."
+Then they saw Cerberus.
 
-"There's coffee?"
+Jace ceased to matter.
 
-"There's coffee at four tokens a cup," Carlos said, with the gentleness of a man delivering a diagnosis, and watched the debt do its arithmetic on Jace's face. "The soup, on the other hand, is free."
+The first woman approached with both hands visible and asked permission before touching the dog. The second had never seen one in person. The third knew exactly how to scratch behind his ears because she had watched training feeds from Mars for six years.
 
-<!-- beat:a01_arrival.beat4_soup_and_nick -->
-The soup was gray. It tasted the way the color gray would taste. He ate it at a corner table in the cafeteria that evening while the station's day-cycle dimmed around him, and he was most of the way through a spirited internal defense of vitamin-fortified sachets when a shadow fell across the table — a very short shadow — and a voice he'd only ever heard across light-lag said:
+Cerberus leaned into everyone. He accepted attention with the grave generosity of a public official.
 
-"Okay. Stand up. I need to see this in person."
+One man kept three meters away and watched him as if everyone else had agreed to pet a small bear.
 
-Nick Lee was four and a half feet of cracked AR glasses, keyboard gloves, hair tinted the green of a chemistry accident, and grin. Jace stood. Nick looked up at him. And up. He turned to Cerberus, who was already vibrating.
+One compact woman in drone-operations blue took a single look at the dog, the crowd, and Jace. Her face tightened. She turned around and left.
 
-"I made you something," Nick told the dog, and produced from his satchel a hand-sewn stuffed pig — pink, lopsided, one ear larger than the other, unmistakably and lovingly Screwdriver. Cerberus received it with the reverence of a knighthood, carried it three laps around the table, and lay down on it.
+Jace filed the reaction for later.
 
-"He's shorter than on the channel," Nick said, of the dog.
+He also noticed a pale woman moving quickly across the far side of the bay. A bright scarf flashed at her throat, all red and green against gray station fabric. She carried no luggage and did not join the crowd.
 
-"You're shorter than in the mecha."
+Near the cargo lane, two short, heavily muscled Chinese men laughed over something on a tablet. Both wore miner harnesses. One caught Jace looking. The laughter stopped before Jace could look away.
 
-"THERE it is." Nick slid onto the opposite bench, already typing something in the air with one gloved hand, eyes flicking across lenses. "Okay. Arrival assessment: you look terrible, your dog is perfect, you're eating the debt soup, and the whole station already loves you for the worst possible reasons. Welcome to Fortuna." He looked up, and behind the cracked lenses was four months of turn-based friendship, in person at last. "You're gonna like it here. Probably. Statistically."
+Then Carlos rescued him.
 
-Jace looked around the cafeteria — the low ceiling that was still, somehow, twice the height of the *Falcon's* mess deck; the murmur of two hundred and fifty people who'd all apparently already met him — and thought that Nick was probably right, and that he was going to spend a long time finding out exactly how big "here" actually was.
+Carlos wore a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
 
----
+"You must be Jace," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
+
+He offered one hand to Cerberus at nose level. The dog sniffed. Carlos nodded as if an inspection had concluded.
+
+"This is the famous one."
+
+"I have noticed."
+
+"Your room is already booked at the boring inn."
+
+"There is a boring inn?"
+
+"There are two inns. Erin's is lively, inventive, and sometimes on fire. The boring inn has good locks and a red-haired owner who does not ask questions. You need the boring inn."
+
+"Origin chose it?"
+
+"I chose it. Origin would have assigned you to whichever bed produced the cleaner invoice."
+
+Carlos walked them into Ring Two.
+
+The main corridor was wide enough for three cargo carts to pass. An LED sky covered the ceiling. Slow clouds moved across artificial blue, bright enough to make Jace's body expect sunlight.
+
+Shops filled permanent walls between older canisters. Children cut across robot lanes and got scolded by humans and machines at the same time. Emergency masks sat behind clear panels every few meters.
+
+"How long is each ring?" Jace asked.
+
+"About twenty minutes on foot, if no one stops you. Ring Three is only half walkable. Construction crews own the rest."
+
+"The *Falcon* took four minutes at a jog."
+
+"Here you can get lost without changing decks. Progress."
+
+They passed a wall mosaic built from old station plates. Bronze lettering listed the founding partners. United States, twenty percent. China, twenty. Other national partners, ten. Origin Industries, fifty.
+
+Jace slowed.
+
+Below the original shares, a newer panel showed the present council. AI representatives. Human delegates. Resident cooperatives. The ownership lines crossed until they resembled faulty wiring.
+
+"One trillion dollars before token currency," Carlos said. "That is what the founders admitted spending. Thirty years later, the resident families hold ten percent together, Origin holds less than it claims, and every government calculates its share differently."
+
+"Who is in charge?"
+
+"Depends what broke."
+
+Carlos kept walking.
+
+The park occupied a broad section of Ring Two. A real oak grew from a deep soil bed under the projected sky. Empty exercise mats stood stacked beside the path. A memorial table nearby held flowers, a green ribbon, and a picture of a laughing young woman.
+
+Jace recognized Helena from the feeds Nick had sent.
+
+No one stood at the table. Everyone who passed looked at it.
+
+The Foundry came next. Its main bay could have swallowed the *Falcon's* forge. Printers, crystal growers, robot cages, and machine tools ran behind transparent safety walls. Jace stopped long enough for Carlos to smile.
+
+"You start with delivery support."
+
+"I am a drone operator."
+
+"You start with delivery support. Kim decides when you become a drone operator."
+
+"Was Kim the woman who left the receiving bay?"
+
+"Kim does not like dogs."
+
+"Does she like people?"
+
+"The evidence remains under review."
+
+The Barn smelled warm before the doors opened.
+
+Nearly a thousand chickens filled tiered runs beyond the first biosecurity gate. Carlos said they produced enough eggs for the station, with margin for the inns on good weeks. Goats climbed low frames. Sheep occupied a long exercise lane. Rabbits moved through stacked habitats. The *Falcon's* livestock had been precious because there were fifty-four animals aboard. Fortuna held hundreds, each backed by feed plans, breeding records, and redundant air.
+
+Mei stood at the entry gate, her single bag still over one shoulder.
+
+Carlos pointed toward the animal office. "They are expecting you."
+
+Siren walked after her without hesitation.
+
+The dog paused once. Cerberus touched his nose to hers. They circled each other, tails moving. Then Siren followed Mei through the gate as if she had been assigned there at birth.
+
+Cerberus gave one soft bark.
+
+Siren answered once without turning.
+
+Then she was gone among the animals.
+
+At Drone Ops, Jace saw Helena's jacket.
+
+It hung on the third hook inside the entrance. Green fabric. Worn cuffs. A small flower stitched into the collar. Every hook around it carried daily work gear. No one had touched hers.
+
+"Helena's," Carlos said.
+
+"I know."
+
+The words came out quieter than Jace intended.
+
+Nick had told him. Artemis had confirmed it. A missing person in a message was a fact. A jacket waiting for its owner was something else.
+
+Jace looked at the hook, then at the access panels along the wall. Solid metal. Pressure seals. Cameras. No way out without a record.
+
+He thought about eggs no camera could see.
+
+"Has anyone checked behind the walls?"
+
+Carlos looked at him.
+
+"Security checked everything."
+
+It was not an answer to the question Jace had asked.
+
+Housing came last. The boring inn had clean walls, narrow rooms, and a red-haired owner who handed Jace a key without asking why his duffel weighed as much as a child.
+
+The cafeteria occupied the next block. Jace bought the free contractor soup. It was gray and tasted like warm responsibility.
+
+He had taken three bites when a short shadow crossed the table.
+
+"Stand up," a familiar voice said. "I need to see this in person."
+
+Nick Lee stood four and a half feet tall. He wore cracked AR glasses, keyboard gloves, pearl earrings, and green hair that looked freshly printed.
+
+Jace stood.
+
+Nick looked up. Then farther up.
+
+"You are absurd."
+
+"You are shorter than your mecha."
+
+"There it is. Four months, and you finally understand the joke."
+
+Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
+
+Cerberus accepted it, ran two circles around the table, and lay down with the pig under his chest.
+
+Nick slid onto the bench opposite Jace.
+
+"Arrival assessment. You look terrible. Your dog is perfect. Everyone knows your face. Half the station thinks you saved the *Falcon*. The other half thinks you attacked it with plumbing."
+
+"Which half is correct?"
+
+"Both, probably. That is why the story works."
+
+Jace looked across the cafeteria. Three hundred and fifty permanent residents. Perhaps another hundred and fifty people who arrived often enough to count. Every table carried a conversation, a history, or a silence he had not learned yet.
+
+Beyond the doors, Helena's jacket waited on its hook.
+
+For one second, the wall behind Nick went faint and layered. Jace saw the corridor beyond it, then the image closed.
+
+Nick kept talking.
+
+Jace did not tell him what he had seen.
 
 ## Contract coverage
 
 | Item | Status |
 |---|---|
-| A-00b.1 — Maureen measurement-compliment; Jace reads it | ✅ |
-| A-00b.2 — brief aloneness, pivot to work/arrival | ✅ (kept light) |
-| A-00b.3 — Lanchee relieved; Jace's realization | ✅ |
-| A-00b.4 — Falcon returns; not permanent | ✅ |
-| A-01 — docks 1km off, tug offload, rides with Mei + Sparky crate | ✅ |
-| A-01 — Carlos meets/tours; fame precedes him (Learning Mode / Dog Man / mask guy) | ✅ (nickname updated from "Training Mode" to match Ch05) |
-| A-01 — Helena's jacket lands BEFORE any Suzi mention | ✅ |
-| A-01 — stuffed pig from Nick introduced | ✅ |
-| A-01 — Cerberus novelty; delight + wariness split; Kim's dislike seeded | ✅ |
-| Token economy felt — gray soup, 4-token coffee, debt | ✅ |
-| Erin's Inn warning; red-haired quiet innkeeper | ✅ |
-| NEW — Carlos explicitly named as formal Origin sponsor, not just an informal guide | ✅ |
-| NEW — Direct scale comparisons to the Falcon throughout (ring width, corridor walkability, Foundry size, Barn/livestock density, cafeteria ceiling height) | ✅ |
-| NEW — Helena's-jacket beat lands as confirmation, not cold reveal, since Jace already heard from Nick (Ch05) and Artemis (Ch05) | ✅ |
+| Maureen's measurement compliment and unsentimental departure | done |
+| Lanchee remains to supervise permanent clinic transfer | done |
+| Mei arrives with one light bag; Siren follows her to the Barn | done |
+| Fortuna scale and ring geometry contrast with the Falcon | done |
+| Population corrected to 350 permanent plus up to 150 functional transients | done |
+| Original ownership and modern resident stake established without a lecture block | done |
+| Ring walk time and Ring Three construction stated | done |
+| Nearly 1,000 chickens and larger livestock population established | done |
+| Sophia, Jin's miners, and Kim planted without premature introductions | done |
+| Jace carries Sparky's new chassis and ten efficient micro-thrusters | done |
+| Helena's jacket precedes Suzi's investigation scene | done |
+| Nick reunion and stuffed pig | done |
 
-## Open Notes
+## Open notes
 
-| Note | Status | Resolution |
-|---|---|---|
-| Whether this chapter should split (arrival/tug crossing vs. Carlos's tour vs. Nick reunion) as the manuscript grows | open | Kept as one chapter this pass, matching the KB's existing Ch08 draft structure |
-| Kim's full introduction/A-03 scowl payoff | not_applicable | Deferred to a future chapter per existing A-03 contract — this chapter only seeds her dog-dislike on sight |
-| Hayes, Mira, and the "second week" disquiet beats (A-01a, A-02a, A-02) | not_applicable | Explicitly out of scope for this chapter — belongs to the next chapter(s) in sequence, not yet drafted this session |
+The ownership percentages follow the attached direction. The current governance file should receive a later consistency update if these figures become final canon.

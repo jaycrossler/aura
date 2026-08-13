@@ -1,85 +1,255 @@
 ---
 id: draft_ch10_first_drone_shift
-name: "Chapter 10 — First Drone Shift"
+name: "Chapter 10. Ordinary"
 type: chapter_draft
 book: book01
 chapter: Ch10
-scene_contract: A-03
+scene_contract: A-03 + A-04 setup
 pov: char_jace_apollo
 status: staged_draft
-last_updated: 2026-07-15
-description: "First-pass prose: the automated-baseline/exception-handling split, Kim's scowl and the overheard 'mediocre' verdict, the dog-hair friction, sabotage warning, and the outside-the-station dreams."
+schema_version: 2
+last_updated: 2026-08-12
+description: >
+  Jace earns a delivery console, handles one real exception, hears Kim call his
+  skill ordinary, receives a sabotage warning, and accepts a survey assignment
+  that will separate him from Cerberus.
 cross_references:
   - "[[arc_01_thread_A_arrival]]"
   - "[[char_kim]]"
   - "[[char_carlos]]"
-open_flags:
-  - "Kim's dog-hair complaint written as recurring-adjacent friction per A-03 author note (sits alongside, does not explain, the mediocrity comment)."
+  - "[[char_nick_lee]]"
+  - "[[char_cerberus]]"
+  - "[[char_dog_siren]]"
+  - "[[spec_audiobook_narration_style]]"
 ---
 
-# Chapter 10 — First Drone Shift
+# Chapter 10. Ordinary
 
-> **Epigraph (staged — author-approved 2026-07-15; add to spec_chapter_epigraphs.md):**
-> *"Most people don't know this, but ninety-five percent of drone operations is watching machines be fine. The other five percent is the reason they still pay a human, and the reason the human can't ever quite relax."*
+> *Most people do not know this, but ninety-five percent of drone operations is watching machines remain fine. The other five percent pays your salary and shortens your life.*
+>
+> Jace Grant, *Fortuna notes*
 
-Fortuna's drone operations bay ran four hundred and eleven machines, and the first thing Jace learned about the job was that the job was not flying them.
+Kim gave Jace a console on cycle twelve.
 
-The machines flew themselves. Mining haulers cycling between the asteroid surface and the receiving frames; hull crawlers walking their inspection grids; the fabrication district's swarm down on the rock, tended by its own local hive logic. The automation handled the baseline — all of it, endlessly, competently — and the humans in the bay handled the exceptions: the hauler that flagged an unexpected mass reading, the crawler that lost a foot's magnetic grip, the anything that did anything the system hadn't seen before. Long hours of green boards. Brief windows of actually mattering.
+Not a fleet console. Delivery had forty-three active units, and his permissions covered seventeen. The distinction appeared in three places on the screen and twice in Kim's briefing.
 
-Jace's first exception arrived three hours into his first shift: a surface hauler reporting a load-cell disagreement, its two sensors quarreling by four percent about how much rock it was carrying. He isolated it, cross-checked against the loader's records, found the drift in the older cell's thermal curve, pushed the recalibration, and had it back in the rotation in four minutes.
+"You touch these," she said, marking a blue group. "You observe the rest. If a red alert appears outside your group, you notify the assigned operator. You do not help."
 
-He was, privately, pretty pleased with four minutes.
+"What if the operator asks?"
 
-Cerberus spent the shift in the dog bed Jace had installed at his feet — installed and then anchored, after the first low-gravity incident sent bed and puppy sliding gently across the bay like a slow hovercraft. Carlos worked two stations down with something orchestral murmuring from his console. And at the station between them worked Kim: compact, precise, fast, and radiating a disapproval so consistent it was almost restful. She'd scowled at him at the receiving bay. She scowled at him now. She scowled at Cerberus with special attention.
+"Then you help."
 
-"There's dog hair," she said at hour five, to the air, "in the intake filter budget now. That's a line item. A *dog hair* line item."
+"What if delay risks equipment?"
 
-"I'll clean the filters on my own time."
+"You notify faster."
 
-"Yes," Kim said. "You will."
+"What if delay risks a person?"
 
-At end of shift, Jace was logging out when he heard his name through the equipment rack — Kim's voice, low, to Carlos, in the tone of a professional filing an assessment.
+Kim looked at him.
 
-"—fine. He's fine. Four minutes on a load-cell drift is fine. It's a mediocre level of skill for the posting, and the posting's been oversold because of the — " a gesture he couldn't see but could hear, encompassing pig channels, sewage footage, dogs — "circus. He's not what the circus says. He's ordinary."
+"Then you act, and we spend the next month deciding whether you acted well."
 
-Carlos's reply was a low, untroubled rumble he couldn't make out.
+It was the most reasonable policy Origin had ever placed near his work.
 
-Jace stood behind the rack holding his jacket and did the honest math, which was the worst kind. Four minutes had felt sharp. Kim, he had watched all shift, would have done it in two. Carlos, without appearing to move, would have caught the thermal drift a week before the sensors quarreled at all. He had spent four months on a ship being the best engineer in the room because he'd been the *only* engineer in the room, and he had let himself forget the difference. He was twenty-nine years old, two million tokens in debt, famous for sewage, and — the word sat down next to him like it planned to stay — *ordinary*.
+Cerberus settled into an anchored bed beneath the console. Jace had printed the bed clips after its first test sent dog and cushion sliding across the bay like a slow cargo puck.
 
-He walked home the long way. Cerberus, sensing weather, kept his shoulder against Jace's calf the whole ring.
+Kim watched him attach the clips.
 
-"I heard the good news," Nick said that evening at the noodle counter, mouth full, having heard everything as usual. "Kim rated you 'fine.'"
+"Filter six," she said.
 
-"You have a bug in drone ops?"
+"After shift."
 
-"I have *friends* in drone ops, it's different, legally." He pointed with chopsticks. "Listen. Kim rates everyone that way. Kim rated *Carlos* mediocre for two years, and Carlos is the best drone hand in the belt. It's not a wall, it's a door. It just only opens for work." He slurped, then, more quietly, without the performance: "Also she's not wrong that the circus oversold you, and you know she's not wrong, and that's why it stings. So be boring and good for six months. Boring and good beats famous every time out here."
+"Good."
 
-"That's almost wise."
+The shift began with seventeen green lights.
 
-"I contain multitudes. Also — real thing, not gossip." Nick's voice dropped and his hands, for once, stopped typing. "Watch your machines. There's been talk since the China contracts fell through — people saying if something breaks big on Fortuna it might not be an accident. Sabotage talk. It's probably nothing, rumor runs on rails around here since Helena. But you're new hands on the delivery fleet — and people round that up to four hundred drones when they're assigning blame. If anything *does* break weird, guess whose name is on the shift log." He let that land. "Log everything. Cleaner than you think you need to."
+They stayed green for three hours.
 
-That night, Jace dreamed he was outside the station.
+Jace reviewed routes, maintenance intervals, battery degradation, and the handoff failures he had already learned from the back room. The drones moved food, parts, medicine, samples, tools, and private orders. Most deliveries completed without human input.
 
-Not EVA-outside — *outside* outside, standing on nothing a kilometer off the ring, no suit, no cold, watching Fortuna turn. He could see the whole of her: the spine, the rings, the tugs, and — this was the part that followed him up into waking — the *insides*, all of them at once, every corridor and pod and sleeping settler laid open to him like a cutaway diagram, glowing faintly, and something in the dream felt less like imagination than like *looking*.
+At 1047, unit D-14 turned yellow.
 
-He woke with his heart going and the headache banked and Cerberus sitting up on the bunk, awake before him, staring at the wall.
+The drone had collected a sealed mineral sample from a surface shuttle. Its left manipulator reported full grip. Its right load cell reported four percent less mass than the left. The unit had stopped in a pressure vestibule between the surface dock and Ring Two.
 
-At nothing.
+The sample itself weighed thirty-two kilograms. In one-third gravity, it felt manageable. Under acceleration, mass still kept the old rules. If one grip released during the lift transfer, the case could tear through the vestibule and damage a pressure door.
 
-At the wall.
+Jace isolated D-14.
 
-"Go back to sleep," Jace told them both, and eventually, one of them did.
+He compared both load cells, checked the shuttle manifest, and pulled the drone's thermal history. The right cell had drifted each time the vestibule warmed after a surface cycle. A known curve should have corrected it. The curve had not loaded after last night's firmware update.
 
----
+He restored the calibration, ordered a physical grip test, and watched the two readings settle within point two percent.
 
-## Contract coverage (A-03)
+Elapsed time, four minutes and nine seconds.
+
+Kim stood behind him.
+
+"Why did you trust the left cell?"
+
+"The shuttle scale matched it. The right cell drift correlated with temperature."
+
+"Why not send the drone back?"
+
+"The outer door had already closed. Reversing the cycle would cost eleven minutes and another thermal transition."
+
+"What did you miss?"
+
+Jace looked again.
+
+The sample case's forward restraint showed a small torque mismatch.
+
+"Case shifted three millimeters during pickup."
+
+"Two point six. The cell drift did not cause that."
+
+Jace checked the manipulator video. The shuttle loader had seated the case at an angle.
+
+"Separate issue. Same alert."
+
+"Good. Correct it before transfer."
+
+Kim returned to her station.
+
+Jace used the drone's manipulator to center the case. D-14 entered Ring Two six minutes later.
+
+He felt good about the fix for nearly an hour.
+
+At shift end, he heard his name through the equipment rack.
+
+Kim spoke quietly to Carlos.
+
+"Four minutes on a missing calibration file. Fine. He caught the obvious fault and missed the load shift until I asked. Mediocre for the posting."
+
+Carlos said something Jace could not hear.
+
+"The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job."
+
+Jace stood behind the rack with his jacket in one hand.
+
+The honest part hurt most.
+
+Kim would have caught both faults in two minutes. Carlos would have noticed the temperature curve before it failed. Jace had spent four months as the best available engineer aboard the *Falcon* because the actual engineer was on Mars and the other three people had different jobs.
+
+Fortuna contained specialists.
+
+Jace was twenty-nine, two million tokens in debt, famous for sewage, and ordinary.
+
+He walked the long route to the Barn.
+
+Cerberus kept one shoulder against his calf.
+
+Nick found them near the noodle counter.
+
+"I heard Kim called you ordinary."
+
+"Do you have a microphone in Drone Ops?"
+
+"I have friends. Microphones require disclosure."
+
+"That distinction will comfort the tribunal."
+
+Nick pushed a bowl toward him. Real noodles, not gray soup. Jace did not ask who paid.
+
+"Kim called Carlos mediocre for two years," Nick said. "Carlos can make four hundred drones look like one patient animal."
+
+"She was right about my fix."
+
+"Yes. That is why you are upset. If she were wrong, you would be angry."
+
+Jace ate.
+
+"Six months," Nick said. "Be boring and good for six months. Boring and good beats famous out here."
+
+"That sounded almost wise."
+
+"I saved it for a crisis."
+
+Nick's hands stopped moving. The change drew more attention than any warning tone.
+
+"There is something else. Talk around the station says the Chinese contracts did not collapse on their own. Odysseus, Helena, the *Falcon* leak. People are arranging those events into sabotage because fear likes a pattern."
+
+"Suzi thinks Jin has access she cannot audit."
+
+"Suzi is honest. She is not neutral."
+
+"She knows that."
+
+"Knowing helps. It does not cure."
+
+Nick leaned closer.
+
+"Watch your logs. You are new. You have an American military record, Origin access, and delivery routes through every public section. If something breaks, somebody will decide your drones were near it. Keep records cleaner than you think you need."
+
+"You expect sabotage?"
+
+"I expect frightened people to find one."
+
+Jace opened D-14's route history.
+
+The drone had passed a junction near the Chinese leasehold at 1041. It had used the correct public corridor. Six minutes later, the sensor alert appeared.
+
+Nothing in the log suggested interference.
+
+He copied the raw file into his private archive anyway.
+
+{Alex} contacted him during the evening run.
+
+*Contractor Grant, an additional tasking opportunity is available under clause nineteen of your deployment agreement.*
+
+"Opportunity or assignment?"
+
+*Declining may affect future task eligibility.*
+
+"Assignment."
+
+*A three-day prospecting survey requires one operator capable of managing autonomous survey units. Departure is cycle fourteen at 0610. Compensation includes standard duty credit and a fractional discovery share for unclaimed resources.*
+
+Jace slowed.
+
+A discovery share. The belt version of a lottery ticket, except the ticket came with three days in zero gravity.
+
+"Who is the pilot?"
+
+*Torres. Survey vessel Seven. Please note that animals are not permitted aboard this vessel.*
+
+Jace looked down.
+
+Cerberus had stopped with him. The dog watched his face.
+
+"Accept."
+
+The word left before the fear caught it.
+
+That night, Jace packed three survey-drone kits. He checked each battery twice. He checked the breathing seals three times.
+
+Cerberus followed every movement.
+
+"Three days," Jace told him. "You will stay at the Barn with Siren."
+
+Cerberus sat beside the bag.
+
+"Siren runs the place. Mei will be there. Hayes has biscuits. You will be fine."
+
+The dog placed one paw on the bag.
+
+Jace had not spent a night without him since Mars.
+
+He removed the paw and closed the case.
+
+"One of us has to be fine."
+
+Cerberus leaned against his shin and stayed there.
+
+## Contract coverage
 
 | Item | Status |
 |---|---|
-| 1 — automated-baseline / exception-handling split in action | ✅ |
-| 2 — unglamorous rhythm; brief real intervention | ✅ (4-minute fix) |
-| 3 — overhears Kim's "mediocre" to Carlos; embarrassment → resolve | ✅ |
-| 4 — weird dreams: moving around outside the station | ✅ |
-| 5 — Chinese-miner tension + sabotage warning | ✅ (via Nick; ⚠️ contract doesn't specify the messenger — confirm Nick vs. a coworker) |
-| Author note — Cerberus dog bed at his feet; Kim's hair/smell complaints as separate friction | ✅ |
-| Not-chosen-one calibration: Kim faster, Carlos better, Jace ordinary | ✅ |
+| Delivery permissions remain a subset of full Drone Ops | done |
+| Automated baseline and human exception handling shown | done |
+| Four-minute fix includes a missed secondary issue | done |
+| Kim's mediocre assessment is professionally accurate | done |
+| Jace moves from embarrassment to resolve | done |
+| Dog-hair friction remains separate from skill assessment | done |
+| Nick warns about sabotage narratives and clean logs | done |
+| {Alex} assigns the survey as routine additional tasking | done |
+| Discovery share creates economic temptation | done |
+| Cerberus must remain with Siren; first extended separation | done |

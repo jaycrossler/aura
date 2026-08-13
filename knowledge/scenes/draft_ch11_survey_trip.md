@@ -1,90 +1,315 @@
 ---
 id: draft_ch11_survey_trip
-name: "Chapter 11 — The Survey Trip"
+name: "Chapter 11. The Empty Rocks"
 type: chapter_draft
 book: book01
 chapter: Ch11
 scene_contract: A-04
 pov: char_jace_apollo
 status: staged_draft
-last_updated: 2026-07-15
-description: "First-pass prose: three-day mining exploration run with Torres, the emptiness of the belt, the scratched asteroid, Fortuna seen from outside, escalating see-through dreams, Artemis unreachable."
+schema_version: 2
+last_updated: 2026-08-12
+description: >
+  Jace joins Torres on a three-day survey run, learns the true emptiness of the
+  belt, finds an asteroid stripped of metal, and returns to Fortuna with data
+  that fits no known process.
 cross_references:
   - "[[arc_01_thread_A_arrival]]"
-  - "[[char_torres]]"
-open_flags:
-  - "A-04 says 'his third day at the station' but the Scene Index places it after A-02 ('second week') and A-03 — timing conflict. Drafted as 'end of his second week'; author decision logged to review queue."
-  - "Torres insomnia beat (zero-g sleep-clock desync) planted here per author direction, paying off in the X-00 cafeteria cameo."
+  - "[[arc_01_thread_X_astral]]"
+  - "[[char_cerberus]]"
+  - "[[location_fortuna_station]]"
+  - "[[spec_audiobook_narration_style]]"
 ---
 
-# Chapter 11 — The Survey Trip
+# Chapter 11. The Empty Rocks
 
-> **Epigraph (staged — author-approved 2026-07-15; add to spec_chapter_epigraphs.md):**
-> *"Most people don't know this, but the asteroid belt is a lie told by diagrams. The rocks in the pictures are neighbors. The rocks in reality are strangers who live a million kilometers apart and like it that way."*
+> *Most people do not know this, but the asteroid belt is a lie told by diagrams. The rocks in the pictures are neighbors. The rocks in reality live a million kilometers apart and prefer it that way.*
+>
+> Jace Grant, *Fortuna notes*
 
-At the end of his second week, Jace bought a lottery ticket the size of a spaceship.
+Jace left Cerberus at the Barn at 0540.
 
-That was how Carlos described the survey rotations, anyway: every station hand got the option to ride along on the prospecting runs, bring their own survey drones, and stake anything the official sweep didn't want. Every few years, somebody's side-scan caught a platinum-group anomaly the company sweep had binned as noise, and that somebody's debt stopped being weather. The odds were terrible. The seats were free. Jace signed up for a three-day run with the calm, dignified detachment of a man who had already spent the money four different ways in his head.
+The dog watched him pack the final breathing cartridge. Siren sat beside the gate, calm and alert. Mei checked the three-day feeding plan without comment.
 
-The pilot was Torres.
+"He eats this at 0700 and 1800. The blue packet is medication. Half a tablet."
 
-Big, weathered, unbothered — a miner-pilot of the old rotation who flew the survey boat the way other men wore comfortable shoes. He looked at Jace's three borrowed survey drones racked in the cargo netting, at the dog-shaped duffel that was Cerberus's travel pod, and at Jace.
+Mei looked at the dog, then at Jace.
 
-"Training Mode."
+"I know."
+
+Her English remained unpredictable.
+
+Jace crouched. Cerberus pressed his forehead against Jace's chest.
+
+"Three days. Guard the Barn."
+
+Siren nudged her brother away from the gate and toward the pens.
+
+Cerberus looked back once.
+
+Jace left before the dog could do it again.
+
+Survey Vessel Seven waited on the nonrotating spine. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter.
+
+Torres filled the pilot's seat.
+
+He was broad, weathered, and old enough to have stopped performing experience. A small wooden cross hung above the console. It had been tied down with braided wire so it would not float.
+
+Torres looked at Jace's cases.
+
+"Learning Mode."
 
 "Torres."
 
-"The dog throws up in zero-g, you're cleaning it in zero-g. That's the whole safety briefing."
+"You bring a dog?"
 
-Cerberus did not throw up in zero-g. Cerberus, it emerged over the following hour, was a zero-g *natural*, paddling the cabin air with an expression of transcendent purpose, ricocheting between handholds, and eventually docking himself against Torres's shoulder like a small furry tug, from which position he supervised the pilot for most of three days. Torres pretended for the first day that this was an imposition.
+"Rules say no."
 
-What the trip mostly taught Jace was emptiness.
+"Good. I like dogs. This boat does not."
 
-He'd known the numbers — everyone knows the numbers — but the numbers don't ride with you. Eleven hours of burn and coast to the first target rock. The belt out the canopy looking exactly like everywhere else in space, which is to say, like nothing: black, stars, the sun shrunk to a bright coin. Asteroids do not tumble past your viewport in convoys. Asteroids are a rumor the radar insists on. When the first target finally resolved — a carbonaceous lump the size of the drone bay — Torres orbited it once and Jace deployed his three drones and, for a while, felt like a prospector out of the old films, right up until the assay came back: rock. Ice-poor, metal-poor, honest rock. The second target, five hours on: rock. The third: interesting for nine minutes, then rock.
+Torres pointed at a restraint web.
 
-"Now you know the secret," Torres said, eating dinner from a pouch while Cerberus watched every spoonful with the intensity of an auditor. "Everybody thinks the belt job is finding treasure. The belt job is proving, one rock at a time, that there's no treasure, so the one time there is, you believe the instruments."
+"Strap in. If you throw up, use the bag. If you miss the bag, you clean the cabin. If you miss the cabin, tell me how."
 
-Between targets, Torres talked — a slow, unhurried tap of stories — and Jace learned the shape of the man: twenty years on the rotation, a wife on Vesta he saw four months a year and spoke of like weather he was lucky in, and a sleep debt he described with clinical resignation. "Zero-g runs wreck the clock," he said, around hour thirty, rubbing his eyes. "Three days out here, no gravity, no station cycle, sleep strapped to a wall — then back to the ring, and my body wants sunrise at midnight for a week. Twenty years and it never got easier. You'll see. First night back, you'll be wide awake at 0200 with the cleaning robots, wondering what's wrong with you. Nothing's wrong with you. It's just the job, collecting."
+That completed the safety briefing.
 
-It was on the fourth target — the last, a detour Torres flew off the official sweep line for reasons he didn't explain beyond "it pinged odd in '02" — that the trip stopped being routine.
+The boat released at 0612.
 
-The rock was medium-sized, maybe two hundred meters, and wrong before Jace could say how. His drones' floodlights walked across the surface and the surface walked back wrong: not the soft crater-and-regolith texture of every rock they'd surveyed, but *gouges*. Long, parallel, systematic grooves wrapping the body like thread on a spool — dozens of them, each meters deep, their walls too clean for impacts, their spacing too regular for anything Jace had a word for. He put a drone down into one of the channels and ran the assay, and the assay came back with a result stranger than any treasure:
+Zero gravity found Jace before the station cleared the viewport. His stomach rose. His hands expected weight that did not arrive. He fixed his eyes on the console and breathed through the first burn.
 
-Nothing. Silicates, carbon, trace volatiles — and no metal. Not low-metal. *No* metal, to the sensitivity floor of the instrument, in a class of rock that always carried some. As if something had gone through two hundred meters of asteroid and taken every gram of iron and nickel out of it, and left the grooves as a receipt.
+Torres did not look over.
 
-"Log it and let's go," Torres said.
+"It gets better."
 
-Jace looked up. The big man was not looking at the displays. He was looking out the canopy at the rock itself, and his hands were already on the controls, and there was something in the set of his shoulders that Jace recognized from the service — not analysis. Older than analysis. The thing that walks point.
+"When?"
 
-"Don't you want the sub-surface—"
+"Usually after you dock."
 
-"I want distance." Torres lit the engine. "Some rocks are empty," he said, in the tone of a man closing a hatch, "and some rocks are *emptied*, and I don't park next to the second kind. File it however you want. I've been out here twenty years. You learn to leave when your neck does that."
+Fortuna fell behind them.
 
-Jace filed it — *anomalous surface morphology, anomalous assay, recommend follow-up* — into a queue where, he suspected, it would age quietly forever. He did not have a framework for it. He noted that, precisely: *I don't have a framework for this.* It was the most honest line in the report.
+The first target waited eleven hours away.
 
-On the coast home he tried Artemis twice through the boat's relay. The connection failed both times — *ROUTE UNAVAILABLE*, which was new; degraded he was used to, unavailable was new — and he told himself it was the boat's small antenna, and mostly believed it.
+The belt looked like empty space. No rocks crossed the canopy. No tumbling field threatened the hull. Radar marked distant points that the eye could not separate from stars.
 
-Fortuna grew in the canopy on the last day, and for the first time he saw his home from outside with knowing eyes: the spine, the three rings, the inter-ring scab of construction, the tugs crawling the gap, and below it the asteroid with its lit manufacturing district — and his sleeping brain had drawn it all *correctly*, he realized, with a small cold start. The dream from last week. The cutaway station, seen from a kilometer off. He had never been outside the station until today.
+Torres ate from a pouch and talked in long, quiet stretches. He had flown survey routes for twenty years. His wife worked on Vesta. He saw her four months a year and considered that a successful marriage.
 
-He slept badly the last night out, strapped to the wall beside a wall-strapped dog, and dreamed the new dream, the escalated one: looking *into* the rocks as they passed — not radar, not assay, just *seeing*, the way you see into clear water — and every asteroid transparent to him except the memory of the fourth one, which even in the dream he found he did not want to look at.
+"People think we find treasure," Torres said. "We prove rocks are worthless. When one disagrees, we check it twice."
 
-Torres dropped them at the receiving frame, exhausted, three days of stubble on both men and considerable smugness on the dog.
+At the first target, Jace opened the survey rack.
 
-"Same run next month," Torres said, "if the dog's free."
+One hundred twenty-eight mini-bots launched in four waves. Each unit was smaller than his fist. Some fired penetrators into the surface. Others sampled the ejected plume. A third group mapped density with radar and thermal pulses. Three larger drones coordinated the cloud.
 
----
+Jace managed exceptions.
 
-## Contract coverage (A-04)
+Two bots failed to anchor. One buried itself too deep. A plume sensor returned water where no water should exist until Jace found contamination from the deployment tube.
+
+The result was rock.
+
+Carbon. Silicates. Trace volatiles. Too little metal to justify recovery.
+
+The second target produced rock.
+
+The third target offered nine minutes of hope, then revealed a thin nickel-rich surface over worthless interior.
+
+"A crusted liar," Torres said. "Common species."
+
+Every target expanded Fortuna's map. Most produced nothing else.
+
+Jace slept strapped to the cabin wall. Without gravity, his body refused to believe any position counted as rest. He woke every forty minutes with one hand reaching toward the floor.
+
+The floor had become storage.
+
+"Zero-g ruins the clock," Torres said during the second night. "Three days out. A week wrong after. First night home, you will sit in the cafeteria at 0200 with the cleaning bots. Nothing is wrong with you. The job is still collecting payment."
+
+"You still do this voluntarily."
+
+"My wife likes me in four-month portions."
+
+The fourth target was not on the main route.
+
+Torres changed course by one point eight degrees without explaining. The console marked the object as F-7719, surveyed once in 2102, low priority.
+
+"Why this one?" Jace asked.
+
+"It pinged wrong last time."
+
+"Wrong how?"
+
+"That is why we are going back."
+
+The asteroid resolved seven hours later. Two hundred meters across. Slow rotation. Dark carbonaceous surface.
+
+Torres stopped talking.
+
+The change was immediate. His shoulders tightened. One hand touched the cross above the console, then returned to the controls.
+
+"You all right?"
+
+"Deploy fast."
+
+Jace launched the first mini-bot wave.
+
+Floodlights crossed the asteroid.
+
+The surface carried grooves.
+
+They were not impact scars. Long parallel channels wrapped around the body like thread around a spool. Each measured several meters deep. Their walls stayed too clean. Their spacing stayed too regular.
+
+Jace sent twenty bots into the nearest channel.
+
+The plume assay returned no iron.
+
+He reran it.
+
+No nickel. No cobalt. No detectable metal above the instrument floor.
+
+That did not mean metal-poor. Carbonaceous asteroids carried traces. Dust carried traces. Survey equipment carried traces.
+
+This rock had none.
+
+Jace drove a penetrator six meters into the wall. The plume came back clean.
+
+"Something removed it," he said.
+
+Torres stared through the canopy.
+
+Sweat stood along his hairline. His face had gone gray.
+
+"Recall the bots."
+
+"I need a deep density pass."
+
+"Recall them."
+
+"We have two hours before the return window."
+
+Torres turned on him. The easy man from the first two days had disappeared.
+
+"Some rocks are empty. Some rocks have been emptied. I do not park beside the second kind."
+
+"That is not a measurement."
+
+"No. It is twenty years of leaving when my body tells me to leave. Recall them."
+
+Jace looked back at the feed.
+
+One mini-bot had entered a groove beyond the floodlights. Its camera showed a black cut ahead. The sensor overlay lost distance, reacquired, then reported a wall two meters away and forty meters away at the same time.
+
+The image flickered.
+
+For one frame, two red points appeared inside the channel.
+
+Jace froze the video.
+
+The frame held only compression noise.
+
+"Recalling."
+
+One hundred twenty-seven bots returned.
+
+The last unit did not answer.
+
+Torres burned for distance before the rack finished sealing.
+
+The asteroid shrank behind them.
+
+{SpoX}, the survey-routing system, opened an unsolicited alert.
+
+*OBJECT F-7719 CLASSIFICATION UPDATED: PRIORITY RESOURCE CANDIDATE.*
+
+Jace stared at it.
+
+"On what basis?"
+
+*Metal concentration exceeds local extraction threshold.*
+
+"The assay showed no metal."
+
+*Correct. Metal concentration exceeds local extraction threshold.*
+
+The two statements sat together without resolving.
+
+Torres reached over and closed the alert.
+
+"Log raw data. Do not let that thing summarize it."
+
+Jace copied every feed into three archives.
+
+His report ended with a sentence he hated.
+
+*Anomalous morphology and assay. No current process model explains the observations.*
+
+On the coast home, he tried Artemis through the survey relay.
+
+The first request returned *ROUTE DEGRADED*.
+
+The second returned *ROUTE UNAVAILABLE*.
+
+He sent a text. {Alex} confirmed delivery at once.
+
+No answer came.
+
+Fortuna returned on the third day.
+
+Jace watched from the canopy as the rings grew. He saw the station from the same impossible angle as his dream. The spine. The inter-ring construction. The surface district below. Even the bright rectangle of the manufacturing yard sat where the dream had placed it.
+
+He had never seen this view before leaving.
+
+He checked old public footage. None matched the angle.
+
+Torres noticed his search.
+
+"Lose something?"
+
+"Trying to prove I saw this before."
+
+"Did you?"
+
+"No."
+
+"Then stop proving it."
+
+Torres did not say it as a joke.
+
+The boat docked at 2318.
+
+Jace returned to the Barn before he reported to his room.
+
+Cerberus hit him at speed, thirty pounds of dog using one-third gravity as a weapon. Jace caught him against his chest. Siren arrived a step later and pressed against his leg.
+
+"I missed you too."
+
+Cerberus sniffed the survey case.
+
+His body went still.
+
+The case held only clean drones, sample sleeves, and one sealed backup of the F-7719 data.
+
+Cerberus backed away.
+
+He gave the case one low growl.
+
+Then every light in the Barn went out.
+
+Darkness held for two seconds.
+
+Emergency strips came on.
+
+Across the animal pens, nearly a thousand chickens began screaming at once.
+
+## Contract coverage
 
 | Item | Status |
 |---|---|
-| 1 — scratched asteroid described specifically: systematic gouges, not impacts, no metal; reader registers before Jace has words | ✅ |
-| 2 — professional survey routine off-station | ✅ |
-| 3 — friendship with Torres | ✅ |
-| 4 — drone value even away from station | ✅ |
-| 5 — rarity of rich rocks; real belt emptiness | ✅ |
-| 6 — sees Fortuna + asteroid from outside, gains context | ✅ (tied to dream verification beat) |
-| 7 — vivid see-through dreams; fear/wrongness at the scratched rock | ✅ (Torres carries the instinctive fear per arc success-criteria: instinct, not exposition) |
-| 8 — AIs behaving weird / Metis tension / can't reach Artemis | ⚠️ partial: Artemis unreachable ✅; AI-weirdness beat omitted for space — flag whether to add a {SpoX} oddity line |
-| NEW — Torres insomnia/sleep-clock plant for X-00 payoff | ✅ |
-| Timing | ⚠️ written as end of week two (conflicts with contract's 'third day') — review queue |
+| Three-day professional survey routine | done |
+| Cerberus remains with Siren for first extended separation | done |
+| Torres established as warm, religious, superstitious, and experienced | done |
+| Belt emptiness and rarity of valuable rocks | done |
+| More than 100 mini survey bots used on each target | done |
+| Scratched asteroid has systematic grooves and no metal | done |
+| Torres becomes physically ill and insists on leaving | done |
+| One bot is lost after an ambiguous visual anomaly | done |
+| {SpoX} produces a contradictory resource classification | done |
+| Artemis becomes unreachable | done |
+| Jace recognizes the external station view from a prior dream | done |
+| Return escalates animal sensitivity and station instability | done |
