@@ -6,7 +6,7 @@ name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-07-19
+last_updated: 2026-08-13
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
@@ -141,7 +141,7 @@ These must be demonstrably true by arc close:
 | 5 | Arrival | Fortuna — the station is strange and loud and somehow already knows who he is. He finds his rhythm. The gray soup. No coffee. Hayes at the table with a biscuit corner for Cerberus every morning. |
 | 6 | Disquiet | Something is wrong at the station. Helena's jacket on the hook on day one. Mira watching from corridors. Conversations stopping. Doors taking four seconds too long. Kim's scowl, unexplained. |
 | 6a | Fear *(proposed addition — not yet in canon)* | Almost suffocating in the Astral, alone with Cerberus, before anyone can tell him it's survivable. |
-| 7 | Wonder | The Astral — a night in a dimension no one has named yet, with a physicist who has been there alone for a month. |
+| 7 | Wonder | The Never-Never, crossing 41 for a physicist who has completed around forty solo crossings, becomes Jace and Cerberus's first night there. |
 | 8 | Momentum | Experiments, equipment, the multi-camera rig. The partnership with Sophia deepens. Nick joins. Something is being built. |
 | 9 | Dread | The Tick-Maws. Hayes in the medbay with one arm. Mira's warm sphere on the drone bay threshold. The world feels watched. |
 | 10 | Fracture | The Bloated Maw in {Seek}'s server room. Jin's fire wall. Jace walks through the wall and doesn't tell Sophia. The egg he doesn't know about is making everything paranoid and foreign. |

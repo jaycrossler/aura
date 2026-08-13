@@ -8,7 +8,7 @@ scene_contract: A-03 + A-04 setup
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   Jace earns a delivery console, handles one real exception, hears Kim call his
   skill ordinary, receives a sabotage warning, and accepts a survey assignment
@@ -100,7 +100,7 @@ Jace looked again.
 
 The sample case's forward restraint showed a small torque mismatch. He overlayed a before and after image.
 
-"Case shifted a few inches during during pickup."
+"Case shifted a few inches during pickup."
 
 "The cell drift would not cause that."
 

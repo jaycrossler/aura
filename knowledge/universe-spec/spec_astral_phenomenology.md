@@ -5,7 +5,7 @@ name: The Astral — Physical Properties and Perceptual Experience
 type: foundational_phenomenology
 status: canonical
 canonical: true
-last_updated: 2026-06-03
+last_updated: 2026-08-13
 supersedes: spec_astral_phenomenology (2026-05-31)
 ---
 
@@ -13,11 +13,11 @@ supersedes: spec_astral_phenomenology (2026-05-31)
 
 ## Nomenclature
 
-Multiple names are in active use at story start. Terminology is deliberately loose — different people discovering the Astral independently are naming it their own ways. This will stabilize over time.
+Multiple names are in active use at story start. Terminology is deliberately loose because the first investigators name the phenomenon from their own frames of reference. The terms stabilize after Jace and Sophia begin working together.
 
-**The Never-Never** — Sophia Lotte's original term. From the Baba Yaga tradition. Used for the whole system. Personal, older in character.
+**The Never-Never** — Sophia Lotte's original term. As a child, she heard stories of Baba Yaga walking into shadows and living in a house larger inside than outside. Sophia uses the childhood name during her solo crossings and when she first meets Jace.
 
-**The Astral** — Jace's working term for the dist² layer within gravity wells. Practical, descriptive, eventually common usage among belt practitioners.
+**The Astral** — Jace proposes this name after several days of joint experiments. He remembers it from old books and games and argues that it is easier to say. Sophia accepts it as their working term for the dist² layer within gravity wells. It eventually becomes common usage among belt practitioners.
 
 **Hyperspace** — Jace's term for the dist³ layer beyond gravity wells. Distinguished by different terrain, physics, and dramatically higher danger profile.
 
@@ -45,16 +45,18 @@ Practitioners adapt. The brain learns to tolerate the extra-dimensional input wi
 
 The Astral near the asteroid belt is cold but survivable. This is not what new crossers expect.
 
-Physical-space vacuum is approaching -270°C. The Astral near Fortuna is approximately **-20°C** — cold enough to cause hypothermia in sleepwear within thirty to sixty minutes, but manageable with cold-weather gear. Not instant-death.
+Physical-space vacuum approaches -270°C. The Astral near Fortuna is approximately **-20°C**. It is cold enough to cause hypothermia in sleepwear within thirty to sixty minutes, but manageable with cold-weather gear. It is not instant death.
 
 Why: energy and mass bleed continuously from physical space into the Astral through the dimensional membrane. Thermal energy bleeds faster than matter (field transfer vs. particle tunneling). The sun warms the solar system's Astral continuously — more slowly and less efficiently than physical space, but consistently. The result is a solar gradient:
 
 | Location | Approximate Astral temperature |
 |----------|-------------------------------|
-| Inner solar system (near Earth) | Relatively warm |
+| Inner solar system (near Earth) | Relatively warm; below ordinary room temperature |
 | Asteroid belt | **~-20°C** |
-| Outer belt / Jupiter range | -60 to -80°C |
-| Oort Cloud approach | Near -270°C — lethal without major support |
+| Outer belt / Jupiter range | Colder than Fortuna; survivable with engineered thermal gear |
+| Outer solar system and Oort Cloud | Severe cold; survivable with purpose-built thermal support |
+
+The Astral remains cold but survivable throughout the solar system. Temperature alone does not create an instant-death region. Required insulation and heating increase with distance from the sun.
 
 **Practical requirement near Fortuna:** Cold-weather thermal gear plus a breathing mask. Not a spacesuit. This is dramatically lighter than practitioners initially expect. The Astral near the belt is survivable with civilian equipment.
 
@@ -233,3 +235,4 @@ The dist³ layer — Hyperspace — is only accessible beyond gravity wells. A p
 
 - 2026-05-31: New file. Established canonical phenomenology: extra dimension, gravity, Will pressure, N-1 perception, mind-glows, clockwork dance, astral algae. Separated Astral (dist²) from Hyperspace (dist³).
 - 2026-06-03: Major update. Corrected temperature to **-20°C** near Fortuna (revised from -40 to -60°C). Added crystal tunnel dream explanation (N-1 perception of physical infrastructure). Added wall permeability and Jace's temperature probe discovery. Added open-space exploration. Added asteroid prospecting via N-1 perception (Jace's drone discovery). Added solar thermal gradient table. Added beacon effect. Clarified that terminology is intentionally loose at story start. Added thermal manipulation as early Will skill.
+- 2026-08-13: Canon ruling. The Astral is approximately **-20°C** near Fortuna and remains cold but survivable throughout the solar system. Sophia begins with Never-Never from childhood Baba Yaga stories. Jace proposes Astral after several days because it is shorter and familiar from old books and games.

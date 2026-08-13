@@ -4,7 +4,7 @@ id: char_sophia_lotte
 name: Dr. Sophia Lotte
 aliases:
   - "the physicist"
-  - "the woman in the dark" (Jace's first description)
+  - "the woman in the dark"
 species: human
 gender: female
 pronouns: she/her
@@ -151,7 +151,7 @@ related_characters: [char_jace_apollo, char_dog_cerberus, char_kael]
 related_ships: [ship_victoria]
 related_locations: [location_fortuna_station]
 related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
-last_updated: 2026-06-30
+last_updated: 2026-08-13
 sheets:
   - sheet_sophia_arc01_end
 cross_references:
@@ -191,10 +191,16 @@ the Token constraint and the coffee machine was there.
 
 ## The Astral Discovery
 
-Sophia crossed into the Astral by accident while trying to explain instrument readings
-that current physics couldn't account for. She was alone for a month before Jace and
-Cerberus found her. She had been keeping meticulous paper notebooks — she cannot pull
-her tablet across the dimensional membrane.
+Sophia crossed into the Never-Never by accident while trying to explain instrument
+readings that current physics could not account for. She completed around forty solo
+crossings before Jace and Cerberus found her during crossing 41. She kept detailed
+paper notebooks because she could not pull her tablet across the dimensional membrane.
+
+Sophia's original name comes from childhood stories about Baba Yaga, a witch who could
+walk into shadows and whose house was larger inside than outside. After several days
+of joint experiments, Jace proposes Astral from old books and games because it is easier
+to say. Sophia accepts it as their shared working term. Their first planned joint
+experiment aboard the *Victoria* is Sophia's crossing 42.
 
 She will publish approximately 20 papers by Arc 1 end. They become the foundation of
 humanity's scientific understanding of the Astral.
@@ -214,7 +220,7 @@ Jace sees the second part. He cannot say it to her in a way she can hear.
 ### What Sophia Sees (Jace's Decline)
 Sophia has been watching Jace's Template change for weeks by the arc's midpoint.
 She recognizes the crossing debt by its symptoms because she had them too during
-her solo month. She recognizes the specific quality of someone burning more than
+her first forty solo crossings. She recognizes the specific quality of someone burning more than
 they recover because she saw it in her own mirror.
 
 She says nothing to him directly. She says it to the ceiling of the *Victoria*
@@ -295,3 +301,6 @@ does not state her theory out loud.
   all confirmed. Fountain pen, scarf collection, dictation habits, observation mode, height
   dynamic, Glühwein ritual, money habits, Christmas enthusiasm, cheese excitement, Victoria
   cabin description all added. Trauma aftermath (flinch, extra rebreather) added.
+- 2026-08-13: Canon ruling. Sophia uses Never-Never from childhood Baba Yaga stories,
+  completes around forty solo crossings, meets Jace during crossing 41, and makes their
+  first planned joint experiment crossing 42. Jace proposes Astral several days later.

@@ -8,9 +8,9 @@ scene_contract: X-00b
 pov: char_sophia_lotte, then char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
-  Sophia's eleven weeks of isolation end when Jace and Cerberus find her. They
+  Sophia's isolation through around forty solo crossings ends when Jace and Cerberus find her. They
   discover joint pulling, establish a survival method, and agree to meet in the
   physical world.
 cross_references:
@@ -31,9 +31,9 @@ cross_references:
 >
 > Sophia Lotte, private notebook
 
-Sophia had been alone for eleven weeks.
+Sophia had crossed alone around forty times.
 
-She had crossed on eighty-two nights. She had filled six notebooks. She had learned to bring paper, a wood-bodied pen, a breathing mask, and nothing she could not afford to spend an hour pulling.
+Tonight was crossing 41. She had filled six notebooks. She had learned to bring paper, a wood-bodied pen, a breathing mask, and nothing she could not afford to spend an hour pulling.
 
 She had not learned how to bring food.
 
@@ -67,7 +67,7 @@ Real.
 
 The dog arrived beside them. Short brindled fur. Wrinkled face. Mask over his muzzle. Tail moving.
 
-Sophia's first words to another human in the Astral were not historic.
+Sophia's first words to another human in the Never-Never were not historic.
 
 "Wait. You are the delivery boy."
 
@@ -81,7 +81,7 @@ The man's expression sharpened.
 
 Sophia started laughing.
 
-The laugh broke halfway through. Eleven weeks of isolation came apart with it. She pressed one hand over her mouth and tried to stop. Tears escaped anyway.
+The laugh broke halfway through. Around forty crossings of isolation came apart with it. She pressed one hand over her mouth and tried to stop. Tears escaped anyway.
 
 The dog sat on her foot.
 
@@ -179,7 +179,11 @@ Jace watched the pen.
 
 Sophia closed the notebook.
 
-"I call it the Astral. The name is not scientific. I needed a label before entry thirty."
+"I call it the Never-Never. The name is not scientific."
+
+"It sounds like a children's story."
+
+"It is. When I was little, I heard stories of Baba Yaga. She could walk into shadows, and her house was bigger inside than outside. I needed a name before I had a theory."
 
 "I walked through six walls to find you."
 
@@ -195,7 +199,7 @@ Torres sat three meters away, eating and scrolling. His physical body glowed in 
 
 Sophia waved through the table.
 
-"He cannot see us. He cannot hear us. Physical sound does not cross. Astral sound does. I think there are tiny vibrations from the physical side, but my instrument data is terrible."
+"He cannot see us. He cannot hear us. Physical sound does not cross. Sound between people here does. I think there are tiny vibrations from the physical side, but my instrument data is terrible."
 
 Jace looked at the walls.
 
@@ -223,7 +227,7 @@ She put one hand on his back. The dog remained a dog in every direction. His inn
 
 Sophia walked around Cerberus. A faint cord of light joined the dog to Jace. It entered near Jace's chest and split into finer threads along both bodies.
 
-"There is an umbilical between you."
+"There is a cord between you. An umbilical, perhaps."
 
 Jace looked down.
 
@@ -245,7 +249,7 @@ Sophia's face changed.
 
 "How long?"
 
-"Eleven weeks. Partial episodes before that. I told one colleague. She scheduled a medical consult. I stopped telling people."
+"Around forty crossings. Partial episodes before that. I told one colleague. She scheduled a medical consult. I stopped telling people."
 
 "I reported two animals aboard the *Falcon*. The cameras showed me fighting a wall. Origin fined me."
 
@@ -283,7 +287,7 @@ At the inn, Jace's room appeared through three walls at once.
 
 "That sounds spiritual."
 
-"It is eighty-two successful returns and no failures. I can phrase it as a probability if that comforts you."
+"I have returned around forty times without a failure. I can phrase it as a probability if that comforts you."
 
 "It does."
 
@@ -350,13 +354,14 @@ He lay awake until the alarm.
 | Item | Status |
 |---|---|
 | Sanctioned Sophia POV opens the chapter | done |
-| Sophia has crossed alone for eleven weeks | done |
+| Sophia has completed around forty solo crossings; this encounter is crossing 41 | done |
+| Sophia introduces Never-Never through her childhood Baba Yaga stories | done |
 | Delivery-boy recognition lands before Jace's name | done |
 | Cerberus breaks Sophia's isolation | done |
 | Oxygen remains the immediate priority | done |
 | Joint pull reveals Jace's abnormal transfer strength | done |
 | Sophia teaches perception control and safe return | done |
-| Physical people cannot see or hear Astral crossers | done |
+| Physical people cannot see or hear Never-Never crossers | done |
 | Jace and Cerberus's visible cord is planted | done |
 | Falcon creatures create a direct threat escalation | done |
 | No romance; dinner is debt and follow-up | done |

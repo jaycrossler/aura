@@ -8,7 +8,7 @@ scene_contract: X-00 follow-on + A-05 setup
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   After forty minutes of sleep, Jace submits to a medical check without
   disclosing the crossing, works his first surface shift, tests the solidity of
@@ -22,6 +22,7 @@ cross_references:
   - "[[location_fortuna_station]]"
   - "[[spec_crossing_mechanics]]"
   - "[[spec_audiobook_narration_style]]"
+  - "[[draft_ch15_sideways]]"
 ---
 
 # Chapter 14. Down to the Asteroid
@@ -90,7 +91,7 @@ The patient behind the curtain exhaled.
 
 Jace opened his mouth.
 
-His HUD surfaced the two messages from Sophia. Real evidence. Shareable evidence. He imagined Lanchee calling {Alex}, Origin locking his work permissions, and Sophia's eleven weeks of notes becoming corporate property before lunch.
+His HUD surfaced the two messages from Sophia. Real evidence. Shareable evidence. He imagined Lanchee calling {Alex}, Origin locking his work permissions, and Sophia's records from around forty crossings becoming corporate property before lunch.
 
 "Survey fatigue," he said. "Nothing else I can document."
 
@@ -320,7 +321,7 @@ Sophia opened the first notebook.
 
 Every page held measurements, diagrams, failed theories, and dates.
 
-"Enough to know that almost everything I believed eleven weeks ago was wrong."
+"Enough to know that almost everything I believed before my first crossing was wrong."
 
 She opened the second.
 
@@ -346,7 +347,11 @@ Cerberus lifted his head.
 
 Across the cafeteria, the sleeping miner's wife spoke quietly with Lanchee.
 
-Behind them, inside a wall no one else could see through, something scratched.
+A faint scratching moved inside the wall behind them.
+
+Cerberus lifted his head.
+
+No one else reacted.
 
 ## Contract coverage
 

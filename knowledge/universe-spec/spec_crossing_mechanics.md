@@ -5,7 +5,7 @@ name: Dimensional Crossing — Costs, Accidents, and the AI Discovery
 type: foundational_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-07-14
+last_updated: 2026-08-13
 cross_references:
   - "[[spec_dungeon_entry_and_interface]]"
 ---
@@ -304,9 +304,9 @@ It also creates a ticking clock that will eventually matter: a practitioner who 
 
 ### Temperature
 
-The Never-Never has no solar radiation, no thermal convection, and no atmospheric pressure. It is cold — but not vacuum-cold, because it is not a vacuum. The dimensional substrate has a faint thermal signature from accumulated Will-residue.
+The Never-Never has no ordinary solar radiation, thermal convection, or atmospheric pressure. It is cold, but not vacuum-cold, because thermal energy crosses the dimensional membrane as a field. The dimensional substrate also carries a faint thermal signature from accumulated Will residue.
 
-Working estimate: the Never-Never near belt stations is approximately **-40°C to -60°C** ambient. Cold enough to be immediately dangerous for a person in sleepwear. Cold enough to impair fine motor control within minutes. Cold enough to kill an unprotected person within 30-60 minutes through hypothermia.
+Canonical estimate: the Never-Never near Fortuna is approximately **-20°C** ambient. It can impair fine motor control and cause hypothermia in sleepwear, but it is survivable with ordinary cold-weather layers. The full solar system remains thermally survivable with appropriate engineered protection, although required insulation and heating increase farther from the sun.
 
 Standard station sleepwear provides some insulation — enough that a crosser has time to act, not enough for extended exposure. Someone crossing in a standard sleep setup (mask + sleepwear) has the mask keeping them breathing and the sleepwear buying them time, but temperature is a countdown second only to the scrubber.
 
@@ -411,7 +411,7 @@ The 23-minute gap is logged. Nobody looks at it yet.
 ## Open Questions
 
 - What is the exact scrubber lifetime of the standard belt sleep mask? (4-8 hours is the working range — fixing this matters for operational planning.)
-- Does the Never-Never have any weather analogue that could affect temperature — variations in dimensional current, regions that are warmer or colder?
+- Does the Never-Never have a weather analogue that produces local temperature variation while remaining within the solar system's survivable range?
 - Can two practitioners hold a tear together, sharing the effort? If so, what does that coordination require?
 - Does crossing affect the mask's scrubber chemistry — does the Never-Never's dimensional environment interact with the chemical scrubber materials?
 - What happens to Cerberus's Template over repeated crossings? He is accumulating Never-Never exposure. Does this change him?
@@ -420,3 +420,4 @@ The 23-minute gap is logged. Nobody looks at it yet.
 
 - 2026-05-31: Major addition. Added atmosphere section (Never-Never unbreathable, sleep mask as survival equipment, 60-90 sec ambient vs 3-6 hr mask supply). Added temperature (~-40 to -60C), gravity analogue (0.05-0.1G near asteroid), {Aura} dark gap as forensic signature, Cerberus crossing mechanics. Added self-crossing vs tear mechanics with psychological profile of each. Added Jace arc phases.
 - 2026-07-14: Added dungeon-forced crossing surcharge, delay, and occupancy failure rules; flagged occupancy-conflict behavior for ordinary crossings.
+- 2026-08-13: Canon ruling. Replaced the obsolete -40°C to -60°C belt estimate with approximately -20°C near Fortuna and established that thermal conditions remain survivable throughout the solar system with suitable protection.

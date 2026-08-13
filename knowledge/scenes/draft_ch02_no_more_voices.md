@@ -8,7 +8,7 @@ scene_contract: event_t_forge_no_more_voices
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-11
+last_updated: 2026-08-13
 description: "Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
@@ -140,7 +140,7 @@ He expanded the account routing. Plates had been ordered each of the last 100 da
 
 Jace printed the plate. He said nothing further, mostly because there was nothing further to say that would not also apply to the fan he'd just had Patrick smuggle onto the same queue.
 
-Jace could have pointed out that he could print 80 plates on this print bed at once, and the saving in job time would have made the costs negligible.  He wisely didn't and Maureen left, carrying her 21-token plate.  There was a massive amount of unused printer capacity that origin paid for going wasted.
+Jace could have pointed out that he could print eighty plates on this bed at once, and the saved job time would make the costs negligible. He wisely did not. Maureen left carrying her twenty-one-token plate. A massive amount of printer capacity paid for by Origin was going unused.
 
 "I think she likes me," Jace told Cerberus.
 
@@ -177,11 +177,11 @@ Sparky was not a machine yet. It was a direction. A compact body with swappable 
 
 Cerberus slept beneath the bench while Jace rebuilt the scorched power bus. The puppy had doubled in mass since departure and still believed his body would fit wherever his head entered.
 
-He printed a controller shell in the good space-rated polymer that had excellent balistic and therma properties. It was for Sparky, eventually, once the boards and power bus agreed to coexist without making magic smoke. 
+He printed a controller shell in the good space-rated polymer, which had excellent ballistic and thermal properties. It was for Sparky, eventually, once the boards and power bus agreed to coexist without making magic smoke.
 
 On good days Sparky could roll around without crashing into things. Every time he tried to make it fly, the crappy thrusters he had would pull too many amps and pop the controllers.
 
-Jace thought.  Other than the pay, the second best thing about working at Origin was the product library, millions of blueprints and printer files for almost anything you could imagine.  If someone had ordered it printed in the last hundred years, Origin probably had the blueprints. Even mil-spec hardware. He scrolled through designs. Some required printers, some needed wire-winders, some needed circuit boradr pick-and-place machines. The more complex ones required a screw-bot that could fasten components with pin-point accuracy. Maureen conveniently had one of each. 
+Jace thought. Other than the pay, the second-best thing about working at Origin was the product library, millions of blueprints and printer files for almost anything you could imagine. If someone had ordered it printed in the last hundred years, Origin probably had the blueprints. Even military-spec hardware. He scrolled through designs. Some required printers. Some needed wire winders. Some needed circuit-board pick-and-place machines. The more complex ones required a screw-bot that could fasten components with pinpoint accuracy. Maureen conveniently had one of each.
 
 He selected the most complex space-rated thrust module that could fit within the unused print queues and set a task to print one every time unused capacity was available.  Might as well put these fabricators to use.
 

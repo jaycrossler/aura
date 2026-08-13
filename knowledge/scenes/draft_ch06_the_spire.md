@@ -236,7 +236,7 @@ Jace added the medical scan to his private file. He encrypted the feather's samp
 
 The shaft stayed empty.
 
-For the next two days, Jace went over every inch of the ship from the inside and out - whatever Maureen and {Alex} would let him get away with.  He found nothing.
+For the next two days, Jace went over every inch of the ship, inside and out, or as much as Maureen and {Alex} would let him get away with. He found nothing.
 
 Cerberus still would not come near the access shaft.
 

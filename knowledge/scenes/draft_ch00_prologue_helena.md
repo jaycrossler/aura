@@ -8,7 +8,7 @@ scene_contract: event_helena_prologue
 pov: char_helena
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-10
+last_updated: 2026-08-13
 description: "First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death."
 cross_references:
   - "[[event_helena_prologue]]"
@@ -49,7 +49,7 @@ Everyone had been watching the channel. A few of her viewers sent buzzes and lik
 
 "What's a pug?"
 
-She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Looks like *them*, just no nose. And more hair. Same curly tail. Shorter and just as stubborn."
+She pointed at the screen showing a wrinkle-faced puppy cocking its head and staring up at a young, opinionated goat. "Looks like *them*, just no nose. And more hair. Same curly tail. Shorter and just as stubborn."
 
 ---
 
@@ -87,7 +87,7 @@ That party was the last anyone saw of her.
 
 Helena Reyes, first child of Fortuna Station, keeper of its seals and its gossip and its animals, beloved of essentially everyone, died that night.
 
-No one knows this yet. Not her friends, still singing. Not the station, turning patiently above its asteroid. Not the *Falcon*, days out, carrying a tired man and two small brindle puppies toward all of it.
+No one knows this yet. Not her friends, still singing. Not the station, turning patiently above its asteroid. Not the *Falcon*, still weeks away, carrying a tired man and two small brindle puppies toward all of it.
 
 She was simply gone.
 

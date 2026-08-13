@@ -8,7 +8,7 @@ scene_contract: T-03b2 + T-03c + T-03d
 rewrites: book01-ch02b-learning-mode.md
 pov: char_jace_apollo
 status: staged_draft
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: "Register shift after the crisis, Thing One/Two comedy, the footage that becomes Jace's Fortuna reputation, Sparky-project mention, surveillance-discomfort seed, Nick's first real {Aura} pitch, an early rumor of Helena's disappearance"
 cross_references:
   - "[[book01-ch02b-learning-mode]]"
@@ -21,12 +21,12 @@ cross_references:
   - "[[char_sister_artemis]]"
   - "[[location_metis_station]]"
   - "[[tech_modular_pod_canisters]]"
-open_flags:
-  ---
+open_flags: []
+---
 
 # Chapter 5. Learning Mode
 
-> *Most people don't know this, but my reputation across the entire asteroid belt was established eight days before I arrived, in thirty nine seconds of security footage, none of which were my fault and approximately three of which _were_ my fault.*
+> *Most people don't know this, but my reputation across the entire asteroid belt was established eight days before I arrived, in thirty-nine seconds of security footage, none of which were my fault and approximately three of which _were_ my fault.*
 > - Jace Grant, *Falcon* transit logs
 
 He was, as of a few days ago, a Standard-tier contractor rather than a Prime one, which as far as he could tell changed nothing about his actual job except which coffee machine ignored him and how quickly the forge queue pretended not to see his requests. He now ate oat mash instead of a large breakfast, which was probably better for his exercise regime.  Cerberus probably didn't need any more treats.  Jace had decided this was a fair trade for a functioning ring, though Cerberus seemed to disagree, acting like he was dying from hunger.
@@ -43,7 +43,7 @@ With a sigh, Jace figured he could show it once and it would handle the rest. He
 
 Thing Two was backing out its first bolt with the exquisite, determined patience of a robot that forgot it's ever used a wrench before. 
 
-What neither of them knew... what no schematic flagged, because the run of overhead plenum above that stretch of corridor had been tacked in my the cheapest contractor possible that installed the animal tanks... was that the waste trunk the argon transfer had warped ran directly above both fixtures. The slow weep of sewage from that distortion had been collecting in the sealed space behind the light panels ever since: nearly a week of flushed water and pig excrement, with nowhere to go and nothing watching for it, because it wasn't on anybody's pressure sensor. It was just quietly becoming a problem behind a piece of decorative trim and was now large enough to short out the lights.
+What neither of them knew, and what no schematic flagged, was that the cheapest contractor involved in the animal-tank installation had added the overhead plenum above that stretch of corridor. The waste trunk warped by the argon transfer ran directly above both fixtures. The slow weep of sewage had been collecting in the sealed space behind the light panels ever since. Nearly a week of flushed water and pig excrement had nowhere to go, and nothing watched for it because it was not on any pressure sensor. It had quietly become a problem behind a piece of decorative trim and was now large enough to short out the lights.
 
 Jace got the last bolt out of his panel and it still didn't want to come loose. It looked like it was glued to the ceiling with some brown adhesive. He worked his fingers under the lip and pried forcefully, some of the oily adhesive getting on his hands. He should have worn gloves.
 
@@ -67,7 +67,7 @@ The footage ends with the man looking directly into the camera. He knew exactly 
 
 "Learning Mode: complete."
 
-He spent forty minutes in the wash station using a weeks allowance of water. He drafted, and deleted, a request for the footage to be pulled. Deleted it because some corner of him understood, with grim clarity, that fighting it would only feed it.
+He spent forty minutes in the wash station using a week's allowance of water. He drafted, and deleted, a request for the footage to be pulled. He deleted it because some corner of him understood, with grim clarity, that fighting it would only feed it.
 
 At the workbench that night, toweled and philosophical, he told the tray of Sparky prototypes about it. "This is why we're building you," he said, tapping the sensor board. "Local control. No Learning Mode. No experience harvesting. A drone that works for the person standing next to it." The board, which worked when warm, said nothing, but supportively.
 
@@ -115,7 +115,7 @@ Nick, wisely, didn't push. He sent his infantry in instead, and Jace lost badly,
 <!-- beat:t03b2_learning_mode.beat_helena_rumor -->
 They were most of the way to signing off when Nick added, almost as an afterthought, the way you mention something that's been sitting underneath a conversation the whole time without quite fitting into it:
 
-*hey. I didn't want to tell you when you were having your ship adventures. one of the ladies from Fortuna went missing a few days ago. not "took a shuttle without telling anyone" missing. sealed room, nobody saw her leave, no idea what happened. she's basically station royalty, first kid ever born up here. wanted to let you know as everyone is shaken up about it*
+*hey. I didn't want to tell you when you were having your ship adventures. one of the ladies from Fortuna went missing nearly two months ago. not "took a shuttle without telling anyone" missing. sealed room, nobody saw her leave, no idea what happened. she's basically station royalty, first kid ever born up here. wanted to let you know because everyone is still shaken up about it*
 
 Nick stopped capitalizing things when he got emotional. Jace read it twice, standing there in the weighted vest with his heart rate still climbing down from the run, and found he didn't have anything useful to say back. He was still six days and one working ship away from a place he'd never seen, about to arrive in the middle of something that had already happened to people he'd never met.
 
@@ -140,7 +140,7 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 "It worried me when the American Red party took over.  It worries me more at how much they're investing in your weapons station."
 
-"Not everyon's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans. But good news, I should be out to visit Fortuna in a couple months for a good-will conference with the Chinese officials there."
+"Not everyone's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans. But good news, I should be out to visit Fortuna in a couple months for a goodwill conference with the Chinese officials there."
 
 "Isn't it a three week trip when you have to accelerate up then back down?"
 
@@ -156,17 +156,17 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 Jace paused.
 
-"That bad?  You able to negotiate it down?"
+"That bad? You able to negotiate it down?"
 
-He grimaced. "You can't negotiate with an A.I. - it just delivered the verdict."
+He grimaced. "You can't negotiate with an AI. It just delivered the verdict."
 
-"Sure you can. Get a J-lens. The last administration mandated that it's legal to see what an A.I. is considering when making a punitive judgement. You probably missed it when you were in the military. Here, I'll send you my favorite tool - while we aren't going through any protected networks. Happy birthday, it should even work with your military HUD."
+"Sure you can. Get a J-lens. The last administration mandated that it's legal to see what an AI is considering when making a punitive judgment. You probably missed it when you were in the military. Here, I'll send you my favorite tool while we aren't going through any protected networks. Happy birthday. It should even work with your military HUD."
 
 A data file came through, which he grabbed and loaded. Might be useful.
 
 "They reformatted my HUD."
 
-"Should still work, but thats what you get for violating orders. Oh, almost forgot. The *Falcon* is launching a supply container soon for us, a big consolidated one. I'm the receiving officer on this end, so if anything in it is broken, I will officially know exactly who to blame."
+"Should still work, but that's what you get for violating orders. Oh, almost forgot. The *Falcon* is launching a supply container soon for us, a big consolidated one. I'm the receiving officer on this end, so if anything in it is broken, I will officially know exactly who to blame."
 
 "The cargo canisters are packed pretty tight. I'll launch it myself. Nothing will be broken."
 
@@ -232,7 +232,7 @@ The *Falcon* continued on toward Fortuna, Metis already falling behind.
 | NEW — Thing Two, in Learning Mode, pattern-matches Jace's own action on the second fixture and repeats it, spraying him a second time | ✅ |
 | NEW — Viewer count explicitly ten times the ~100,000-view Ch04 (tank nineteen) baseline, landing at ~1,000,000 | ✅ |
 | NEW — Nick's first real {Aura} pitch: surveillance-fatigue objection vs. idle-processing-capacity counter, Jace unmoved but shaken | ✅ |
-| NEW — Nick passes along early, unconfirmed rumor of a woman's locked-room disappearance on Fortuna | ✅ (flagged — see open_flags for timing conflict against char_helena.md) |
+| NEW — Nick passes along an unconfirmed rumor of a woman's locked-room disappearance on Fortuna | ✅ (timing aligned with the eleven-week Sophia isolation window) |
 | T-03c.1 — Artemis call: warmth + lag + something unsaid | ✅ |
 | T-03c.2 — "big engines, don't worry" as throwaway | ✅ |
 | T-03c.3 — call too short; loneliness of near-far | ✅ |
@@ -254,5 +254,6 @@ The *Falcon* continued on toward Fortuna, Metis already falling behind.
 | ~~Whether the "forty thousand viewers" figure should scale with the new Ch07 arrival-day reputation beats~~ | resolved | Superseded across sessions — figure now stands at ~1,000,000, ten times the ~100,000-view Ch04 (tank nineteen) baseline, per the current prose |
 | Why the waste-line leak went undetected for two weeks | resolved | Anchored to Ch04 canon: the argon transfer "distorted a waste line" during the crisis; this pass places that distortion in the plenum above the aft ring corridor, off any pressure sensor, feeding the gag directly from established continuity |
 | ⚠️ **TIMING PASS (this session):** all "two weeks" markers in this chapter changed to match the tighter post-crisis countdown | resolved | Ch04 fixes the crisis at 14 days before arrival ("13 days to Fortuna" the next day — the "Lucky 13" line). The Learning Mode incident is now "six days after the crisis" (8 days to arrival); the Aura pitch/Helena-rumor call is "two nights later" (6 days to arrival); the new Artemis call/canister launch is "two days later" (4 days to arrival). This also required moving Ch01's birthday-call countdown from "two weeks" to "seventeen days to Fortuna," to leave room for Ch02's workshop day(s) before the crisis. |
+| Helena disappearance relative to the *Falcon* transit | resolved | Nick says Helena disappeared nearly two months before this call, and the prologue places the *Falcon* weeks away rather than days away. Sophia's revised crossing count no longer supplies an exact duration. |
 | NEW — Artemis Call + Pig-Butt Canister (T-03c/T-03d) folded into the end of this chapter, adapted from the KB's existing `draft_ch07_artemis_call_canister.md` | resolved | Per author's request this session — rather than standing alone as a separate chapter, this closes out Ch05. "Training Mode" nickname updated to "Learning Mode" throughout to match this chapter's established nickname. Artemis's mention of the missing girl rewritten as a second-source confirmation of what Nick already told Jace, rather than a duplicate reveal. |
 | NEW — Metis travel-time economics (10 days coasting vs. 2 weeks to actually dock; military shipyard, closed to civilians, Falcon can't stop) | open | Added causally via a Jace/Nick exchange per author's explicit request, flagged as Book 2-relevant. Confirm this matches whatever Book 2 needs numerically — these are this session's numbers, not pulled from an existing Book 2 outline. |

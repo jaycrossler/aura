@@ -5,7 +5,7 @@ type: magic_system
 subtype: progression_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-06-27
+last_updated: 2026-08-13
 description: >
   Canonical definition of what skill levels mean, how fast they advance, and where
   different characters sit on the scale. Supersedes the L1/L5/L10/L15+ descriptions
@@ -70,7 +70,7 @@ anything within months of first contact. This is part of why she does not leave.
 | Skill | Level | Notes |
 |-------|-------|-------|
 | [Mind Wall] | L1 (passive) | Standard Sol human |
-| [Force Application] | L3 | Reached through solo month practice (L1→L2) + Tick-Maw orb (L2→borderline L3) + Queen orb (solidly L3); a jump that should take years |
+| [Force Application] | L3 | Reached through around forty solo crossings (L1→L2) + Tick-Maw orb (L2→borderline L3) + Queen orb (solidly L3); a jump that should take years |
 | [Astral Transfer] | L1 | Functional for personal kit only; gap with Jace is visible to Kael |
 | [Far Sight] | L2 | Developed through systematic documentation work |
 | [Dimensional Sight] | L1 | Safer alternative to full crossing; brief duration |

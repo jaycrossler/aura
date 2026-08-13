@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-05
+last_updated: 2026-08-13
 description: >
   Scene contracts for Thread L — recurring/distributed background beats woven
   through the Fortuna chapters. Migrated out of arc_01_falcon_and_fortuna.md
@@ -119,7 +119,7 @@ intervention for his emergency contact — Artemis, who is not reachable. {Alex}
 notes delivery confirmed. This is not accurate.
 
 **Stage 6 (X-06 to X-07):** He looks different. Sophia recognizes it because she
-looked like this during her solo month. She says nothing to Jace. She says it to
+looked like this during her first forty solo crossings. She says nothing to Jace. She says it to
 the ceiling of the *Victoria* one night, alone.
 
 **Stage 7 (X-07 to pre-swarm):** He is the best crosser on the station except

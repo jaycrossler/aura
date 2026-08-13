@@ -4,7 +4,7 @@ id: timeline_master
 name: Master Timeline
 type: chronology
 status: working draft
-last_updated: 2026-07-14
+last_updated: 2026-08-13
 canonical: true
 ---
 
@@ -86,8 +86,8 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 **Sophia Lotte's Discovery**
 
 - **`event_sophia_first_crossing`** (~mid-2104): Dr. Sophia Lotte, German physicist aboard the ESA science vessel *Victoria* docked at Fortuna Station, makes her first accidental partial crossing during a high-flux measurement event. Follows it to a full crossing. Survives by grabbing her respirator at the last second and pulling it through — the first tear-pull performed by any human in three thousand years. Duration: 11 minutes. Returns. Writes six pages of notes. Does not go back immediately — frightened. Returns two nights later.
-- **`event_sophia_establishes_base`** (~mid–late 2104): Over following weeks, Sophia makes crossings every 2-3 nights — not nightly; the effort is too costly and she is not fully recovering between sessions. Slowly builds a supply cache in the Astral: sealed food, water, a laptop (four separate exhausting sessions to pull through), a dedicated {Aura} AI device (multiple sessions). Documents everything. Her Astral crossing point is adjacent to the *Victoria*'s docking berth at Fortuna.
-- **`event_sophia_seventeen_notebooks`** (~late 2104, ongoing): Key discoveries documented: dist² compression relationship (measured empirically), N-1 dimensional perception, the glow of minds, the clockwork dance, astral algae (initially "unknown bio-material, photon-equivalent absorption properties"). She names what she has found the **Never-Never** — after Baba Yaga's domain, not Peter Pan.
+- **`event_sophia_establishes_base`** (~mid–late 2104): Sophia completes around forty solo crossings before meeting Jace. The effort is costly, and she does not fully recover between sessions. She slowly builds a supply cache in the Never-Never: sealed food, water, a laptop (four separate exhausting sessions to pull through), and a dedicated {Aura} AI device (multiple sessions). Her crossing point is aboard the *Victoria* at Fortuna. The ship remains free of Astral fauna and can detach from the station if needed.
+- **`event_sophia_seventeen_notebooks`** (~late 2104, ongoing): Key discoveries documented: dist² compression relationship (measured empirically), N-1 dimensional perception, the glow of minds, the clockwork dance, astral algae (initially "unknown bio-material, photon-equivalent absorption properties"). She names what she has found the **Never-Never** after childhood Baba Yaga stories about walking into shadows and a house larger inside than outside.
 - **`event_sophia_deterioration_visible`** (~late 2104): Sophia's crewmates and Fortuna Station regulars notice she is exhausted, has stopped attending yoga classes, rarely appears at the common mess. Her crewmates are worried; they give her space. She is burning Will faster than she recovers it. She does not stop.
 
 **Sleep Crossing Events Begin**
@@ -125,7 +125,7 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 **Jace and Cerberus Explore — The Meeting**
 
 - **`event_jace_cerberus_exploration`** (~late 2105): Jace and Cerberus, stabilized with two masks, spend hours exploring the Astral layer of Fortuna Station's interior. The station's Astral layer is not yet significantly infested — **no insects**. Jace observes N-1 dimensional perception of the station structure (semi-transparent walls, visible rooms and space outside), the low gravity, the cold. Cerberus leads them through familiar-smelling corridors toward the station's central areas.
-- **`event_sophia_jace_cerberus_meeting`** (~late 2105): Jace and Cerberus find Sophia in the Astral-layer of the station's **mess hall**. She is exhausted, attempting a micro-pull of food from the kitchen, not paying attention to her surroundings. Cerberus barks. Sophia startles badly. *Someone else.* The most profound relief either of them has felt: for Jace, confirmation he is not hallucinating; for Sophia, the end of a month of complete isolation. There are no insects at the meeting. Sophia takes charge — she has the knowledge and the supplies. This is their first contact.
+- **`event_sophia_jace_cerberus_meeting`** (~late 2105): During crossing 41, Jace and Cerberus find Sophia in the Never-Never layer of the station's **mess hall**. She is exhausted, attempting a micro-pull of food from the kitchen, not paying attention to her surroundings. Cerberus barks. Sophia startles badly. *Someone else.* The most profound relief either of them has felt: for Jace, confirmation he is not hallucinating; for Sophia, the end of around forty solo crossings. There are no insects at the meeting. Sophia takes charge because she has the knowledge and supplies. This is their first contact.
 
 **The Scout Mission**
 
@@ -139,9 +139,9 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 ### 2105–2106 — Jace, Sophia, and First Expeditions
 
-- **`event_jace_first_deliberate_crossing`** (~early 2106): Jace crosses deliberately for the first time. Solo, short duration, full return. He begins to accept this is real.
+- **`event_jace_first_deliberate_crossing`** (~early 2106): Jace, Sophia, and Cerberus make their first planned joint crossing aboard the *Victoria*. It is Sophia's crossing 42. The ship remains safe. Threats become immediate only after they enter Fortuna through the docking connection.
 
-- **`event_jace_sophia_partnership_forms`** (~early 2106): Jace and Sophia formally begin working together. Sophia has seventeen notebooks; Jace has engineering instinct. She has frameworks; he has applications. They are faster together than either was alone.
+- **`event_jace_sophia_partnership_forms`** (~early 2106): Jace and Sophia formally begin working together. Sophia has frameworks; Jace has engineering instinct and applications. After several days, Jace proposes **Astral** as a shorter working name drawn from old books and games. Sophia accepts it. They are faster together than either was alone.
 
 - **`event_jace_temperature_probe`** (~early 2106): Jace builds a temperature probe and sticks it through a station wall into open Astral space. Reading: **-20°C**. Not -270°C. He stares at it for a long time. Then shows Sophia. First data point they generate together. Opens the question of whether they can work outside the station entirely.
 

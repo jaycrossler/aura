@@ -29,6 +29,7 @@ cross_references:
   - "[[scene_notes_x09c_what_else_she_can_do]]"
   - "[[scene_notes_x09d_moving_house]]"
   - "[[scene_notes_x09e_sparky_comes_across]]"
+  - "[[draft_ch15_sideways]]"
 ---
 
 # Thread X — Astral Exploration
@@ -36,6 +37,10 @@ cross_references:
 **Sophia's Consent and Disclosure Stance:** Sophia does not want to disclose to anyone yet, Nick included. She yields only because Jace personally vouches for Nick and because Jace makes the case that Nick's {Aura} instrumentation will accelerate her documentation. She is proven right to be cautious and right to relent: Nick's tools go on to multiply what her notebooks can capture.
 
 **Rising-Danger Through-Line:** Across Thread X (and P-04 nest-clearing), the Astral fauna threat should **escalate on a felt curve** — Tick-Maws → the Bloated Maw feeding on {Seek} → the Scavenging Queen → the swarm — so the reader carries growing dread and a sense of a *race*: the wonder/discovery/instrumentation curve and the danger curve climbing toward each other, colliding at the swarm that closes Act 1. Every discovery beat should be shadowed by a slightly larger threat beat. Do **not** add new creatures to hit this; sharpen pacing and juxtaposition of existing ones. Success test: by the pre-swarm beats, a reader should feel the collision coming.
+
+**Victoria Safe-Haven Rule:** No Astral threats or creatures inhabit the *Victoria*. Sophia's ship is a secure crossing base while docked and can detach from Fortuna if needed. Fauna may occupy parts of Fortuna's walls and become a direct threat once the team leaves the ship through the station connection.
+
+**Early Nomenclature and Count:** Sophia calls the place the Never-Never, based on childhood Baba Yaga stories about walking into shadows and a house larger inside than outside. She has completed around forty solo crossings when Jace finds her during crossing 41. Their first planned joint crossing aboard the *Victoria* is crossing 42. After several days of experiments, Jace proposes Astral from old books and games because it is easier to say. Sophia accepts the new working term.
 
 ---
 
@@ -82,9 +87,10 @@ to breathe and promises to meet up tomorrow.
 
 #### X-01 — The Astral Crossing Teamup
 
-**Summary:** Jace and Sophia meet up in person for the first time. Sophia is
-nervous, Jace is terrified. They meet at the Inn, have a short dinner — Sophia has
-a glass of wine which she says helps her relax into it. After, Sophia jokingly
+**Summary:** Jace and Sophia continue their first physical conversation and plan
+their first deliberate joint crossing. Sophia is nervous, and Jace is terrified.
+They finish dinner at the inn. Sophia has a glass of wine, which she says helps
+her relax into the crossing. Afterward, Sophia jokingly
 asks "Your place or mine?" Jace blanches, and Sophia laughs. "I just want to do it
 where there are no cameras so I think rooms are better." She takes him to her
 ship, docked on a nearby ring. Her roommates/shipmates are watching — they want to
@@ -98,7 +104,9 @@ rainbow transparent, she stands up, then steps sideways into invisibility.
 It's amazing to see, and he tries to replicate it. It's harder, and Cerberus is
 nervous. Finally he opens his eyes as he feels the change in air on his skin. "20
 minutes," Sophia said, "It took me an hour my first time. You're a natural at
-this! And Cerberus is a good magic dog, too!"
+this! And Cerberus is a good magic dog, too!" This is Sophia's crossing 42 and
+their first planned joint crossing. The *Victoria* remains safe. The threat becomes
+real only after they move through the attached station access into Fortuna.
 
 **Must accomplish:**
 1. Sophia gets comfortable with Jace, Cerberus helps
@@ -111,6 +119,11 @@ this! And Cerberus is a good magic dog, too!"
 6. They look at other people in the Real, and think it's amazing no one can see
    them. They can go anywhere and spy on people, but can't hear any sound —
    Sophia thinks there's tiny vibrations, but isn't sure
+7. Sophia calls the place the Never-Never during the first experiments. After a
+   few days, Jace proposes Astral because it is shorter and familiar from old books
+   and games; Sophia adopts it
+8. Preserve the *Victoria* as a safe haven. Place any fauna threat in Fortuna's
+   walls after the team leaves the ship
 
 **Must NOT do:**
 - Use `[Skill]` bracket notation (predates Jace's convention — still Arc 1)

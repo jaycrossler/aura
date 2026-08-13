@@ -20,7 +20,7 @@ description: Cargo-heavy departure, late-transit animal rounds with Mei, real-ti
   Artemis birthday call, missing duck, HUD retraining with Nick, and the first recurring
   headache.
 id: draft_ch01_departure_and_rounds
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 name: Chapter 1 - Departure and Rounds
 pov: char_jace_apollo
 scene_contract: event_t01_departure_and_rounds
@@ -103,7 +103,7 @@ The *Falcon* was a spinning top pointed at their target. You could feel it rathe
 
 Bolted and welded to the outside of the ring, wherever there was structural purchase to take the load, hung the berths and cargo canisters: 36 shipping-container rectangular modules the size of a small apartment, standardized to an earth ocean cargo ship, a Mars train, or slot into the same mounting rails whether they carried spare panel stock or a person's entire life. Lanchee's clinic was one of those, dark and quiet at this hour, her exam table and her medical stores and a cozy apartment with a luxurious bed he'd glimpsed once all riding along on the outside of a ring nobody had designed with a doctor's office in mind. 
 
-The forge and machine shop was another, two canisters connected at the ends to make a surprising long machine shop that was as long as the swim-team pool he had used growing up, running hot even before the ship's day officially began, with extra shielding in case anything exploded during production. Jace ran past both every four minutes, the vest making his shoulders ache in a way that felt, mercifully, like nothing at all except effort. Most of the cargo doors and empty berths were permanently closed this trip, so he was getting sick of seeing the same few doors over and over.
+The forge and machine shop occupied two canisters connected end to end. Together, they made a surprisingly long workspace, as long as the swim-team pool Jace had used growing up. It ran hot before the ship's day officially began and carried extra shielding in case anything exploded during production. Jace ran past both every four minutes, the vest making his shoulders ache in a way that felt, mercifully, like nothing except effort. Most cargo doors and empty berths were permanently closed this trip, so he was getting sick of seeing the same few doors.
 
 Jace had been athletic and fit while in college then in the military. The Air Force had made sure of it, and he intended to still be fit on the far side of a five-year Fortuna contract that started, technically, the moment this crossing ended.
 
@@ -120,7 +120,7 @@ Behind them both, unbothered, Siren kept pace like she'd been doing it her whole
 <!-- beat:t01_departure_and_rounds.beat2_morning_routine -->
 Near the end of the fourth month, *Falcon's* ring had become his world.
 
-Metis Station was a week ahead, though not along their path. Fortuna was another two weeks beyond it, close enough now that ordinary conversation no longer required messages composed for a person who had already gone to bed.
+Metis Station lay off their forward quarter, though not along their path. Fortuna was seventeen days ahead, close enough now that ordinary conversation no longer required messages composed for a person who had already gone to bed.
 
 Jace learned *Falcon's* mornings by smell. Coffee and disinfectant near the galley. Hot polymer near the forge. Warm hay, wet feathers, and the steady evidence of mammalian digestion in the livestock pods. The ballast water followed him behind the walls, compensating for each footstep like a patient accountant.
 
@@ -200,7 +200,7 @@ There were fifty-eight women currently aboard the *Falcon*. You'd think most men
 
 Cerberus did not read the room. He rarely did.
 
-They took both dogs down to the four livestock pods for his cleaning shift. Jace had grown up on a horse farm in Virginia. A pod was like a mini barn, sized standard to fit on a cargo ship on Earth or Mars or to the belt.  Each was self contained with their own air, humidity, and water to prevent contamination or diseases spreading. Jace clipped Cerberus to the outer rail before the sheep module. The puppy leaned forward until the tether held him horizontal, every part of him convinced that twelve lambs needed immediate organization.
+They took both dogs down to the four livestock pods for his cleaning shift. Jace had grown up on a horse farm in Virginia. A pod was like a miniature barn, built to a standard size for cargo ships traveling from Earth or Mars to the belt. Each was self-contained, with its own air, humidity, and water systems to prevent contamination or disease from spreading. Jace clipped Cerberus to the outer rail before the sheep module. The puppy leaned forward until the tether held him horizontal, every part of him convinced that twelve lambs needed immediate organization.
 
 "No entering. No licking. No herding."
 

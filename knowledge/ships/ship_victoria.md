@@ -28,12 +28,12 @@ notable_equipment:
   - Anomalous radiation signature detection (Vela Junior remnant speciality)
   - Full physics laboratory and sample analysis equipment
   - Long-range sensor package
-  - {Aura}-networked instrument suite
+  - "{Aura}-networked instrument suite"
 
 # Story Function
 role: Sophia's home base; site of her initial flux research; the vessel she crosses from during early Astral expeditions
 strategic_significance: Independent ESA presence in the belt, not controlled by megacorps; science mission provides cover and justification for anomaly research
-last_updated: 2026-06-03
+last_updated: 2026-08-13
 ---
 
 # Victoria
@@ -48,7 +48,9 @@ It maintains a regular docking berth at Fortuna Station. The *Victoria*'s resear
 
 The *Victoria* is Sophia's home. Her crossing point — the location she uses for all her early deliberate Astral expeditions — is aboard or immediately adjacent to the vessel. Her Astral supply cache is positioned near the *Victoria*'s docking berth.
 
-Her crewmates are aware that something has changed about Sophia over the past month. She is exhausted, inconsistent with her duties, rarely appearing at Fortuna Station's common areas. They give her space. They do not know what she is doing. Whether and when they learn is an open question for the early narrative.
+The *Victoria* is a canonical Astral safe haven. No creatures or hostile Astral fauna inhabit its hull, compartments, or dimensional overlap. Threats occupy some areas inside Fortuna's walls and become immediate only after Sophia, Jace, and Cerberus pass through the docking connection into the station. While docked, the *Victoria* remains ready to detach if Fortuna becomes unsafe.
+
+Her crewmates are aware that something has changed during Sophia's recent crossings. She is exhausted, inconsistent with her duties, and rarely appears in Fortuna Station's common areas. They give her space. They do not know what she is doing. Whether and when they learn is an open question for the early narrative.
 
 The *Victoria*'s science instrumentation — specifically the flux measurement arrays designed to detect Vela Junior anomalies — is what led Sophia to her first accidental crossing. The instruments were detecting something that current physics couldn't explain. Sophia was trying to explain it.
 
@@ -75,3 +77,4 @@ Sophia has thought about this. She finds it fitting.
 ## Revision Notes
 
 - 2026-06-03: New file. ESA science vessel, three-physicist crew (Sophia Lotte + French and Greek colleagues, names TBD), docked at Fortuna Station. Named Victoria after circumnavigation tradition.
+- 2026-08-13: Canon ruling. Established the *Victoria* as an Astral safe haven with no resident threats or creatures. Fortuna's walls remain dangerous. The ship can detach if needed.

@@ -4,7 +4,7 @@ name: Character Advancement Ledger
 type: kb_system
 status: canonical
 canonical: true
-last_updated: 2026-06-27
+last_updated: 2026-08-13
 description: >
   Machine-legible record of all confirmed skill advancement events across the series.
   One entry per advancement event: character, skill, level transition, trigger, arc,
@@ -180,7 +180,7 @@ advancement_events:
     skill: "[Force Application]"
     from_level: null
     to_level: 1
-    trigger: practice (solo month at Fortuna, experimental)
+    trigger: practice (around forty solo crossings at Fortuna, experimental)
     arc: arc_01
     scene: pre-Jace-arrival solo period
     confirmed: true

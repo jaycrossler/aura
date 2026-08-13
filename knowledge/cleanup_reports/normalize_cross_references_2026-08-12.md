@@ -840,7 +840,7 @@ last_updated: 2026-08-12
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes\draft_ch12_astral_awakening.md`
+### `scenes\draft_ch12_awakening.md`
 
 | Before | After |
 |---|---|
@@ -1251,7 +1251,7 @@ last_updated: 2026-08-12
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `to_merge\knowledge\scenes\draft_ch12_astral_awakening.md`
+### `to_merge\knowledge\scenes\draft_ch12_awakening.md`
 
 | Before | After |
 |---|---|

@@ -8,7 +8,7 @@ scene_contract: T-03
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-11
+last_updated: 2026-08-13
 description: "A water-line rupture loads one side of the Falcon ring with ice; Jace defies Alex and uses cryogenic argon as emergency counter-ballast, saving the ship at dangerous cost."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
@@ -57,7 +57,7 @@ Maureen stood at the junction board in a pressure liner, one hand locked around 
 
 "We slow the ring," Maureen said. "If the wobble keeps growing, we cut the iced modules before they take the spoke with them."
 
-"There are animals in both."  Mei looked heartstricken.
+"There are animals in both." Mei looked stricken.
 
 "I know what is in my ship."
 
@@ -108,7 +108,7 @@ Jace heard something else: Patrick's notes on valve lag, the pump curves, the de
 
 "And cutting two loaded berths fixes it?"
 
-"It should save the ring."  She had grabbed tools and went running off towards the manual releases.
+"It should save the ring." She grabbed her tools and ran toward the manual releases.
 
 Should. The same uncertainty, paid for with the lifes of the pigs and ducks and Siren.
 

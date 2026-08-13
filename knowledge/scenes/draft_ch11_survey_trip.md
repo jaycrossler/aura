@@ -8,7 +8,7 @@ scene_contract: A-04
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   Jace joins Torres on a three-day survey run, learns the true emptiness of the
   belt, finds an asteroid stripped of metal, and returns to Fortuna with data
@@ -77,7 +77,7 @@ Torres pointed at a restraint web.
 
 That completed the safety briefing.
 
-The boat released at 0612.  It had {SpoX} loaded on it, and old A.I. that was an expert in materials and engineering.
+The boat released at 0612. It carried a local instance of {SpoX}, an old AI specializing in materials and engineering.
 
 Zero gravity found Jace before the station cleared the viewport. His stomach rose. His hands expected weight that did not arrive. He fixed his eyes on the console and breathed through the first burn.
 
@@ -97,7 +97,7 @@ Fortuna fell behind them.
 
 "Yep, first time out a Chinese team found 20 billion worth of gold. Donated it all to the station."
 
-"Woah. Any other big finds?"
+"Whoa. Any other big finds?"
 
 Torres glanced at him.
 
@@ -107,7 +107,7 @@ Torres glanced at him.
 
 The first target waited eleven hours away.
 
-Jace learned that Torres snored. Alot. Their emergency breathing masks helped push air into his nose, like the CPAP machine that Jace's grandfather had when he was a boy. If Torres tilted his head the right way, he breathed fine. If he moved it like is common in zero-gravity, he didn't.
+Jace learned that Torres snored. A lot. Their emergency breathing masks pushed air into his nose, like the CPAP machine Jace's grandfather had used when Jace was a boy. If Torres tilted his head the right way, he breathed fine. If it shifted, as heads do in zero gravity, he did not.
 
 The belt looked like empty space. No rocks crossed the canopy. No tumbling field threatened the hull. Radar marked distant points that the eye could not separate from stars.
 
@@ -117,7 +117,7 @@ Torres ate from a pouch and talked in long, quiet stretches. He had flown survey
 
 At the first target, Jace opened the survey rack, excited.
 
-One twenty mini-bots launched in four waves. Each unit was smaller than his fist. Some fired penetrators into the surface. Others sampled the ejected plume. A third group mapped density with radar and thermal pulses. Three larger drones coordinated the cloud.
+One hundred and twenty mini-bots launched in four waves. Each unit was smaller than his fist. Some fired penetrators into the surface. Others sampled the ejected plume. A third group mapped density with radar and thermal pulses. Three larger drones coordinated the cloud.
 
 Jace managed exceptions.
 
@@ -125,7 +125,7 @@ Two bots failed to anchor. One buried itself too deep. A plume sensor returned w
 
 The final result was... rock.
 
-"{SpoX}, asessment?"
+"{SpoX}, assessment?"
 
 "Carbon. Silicates. Trace volatiles. Too little metal to justify recovery."
 
@@ -133,15 +133,15 @@ The final result was... rock.
 
 The second target produced... rock.
 
-The third target offered nine minutes of hope, then revealed a scan of Nickel.
+The third target offered nine minutes of hope, then revealed a scan of nickel.
 
-{SpoX} interupted before the scans were finished, "Thin nickel-rich surface over carbon interior. Result of a collision. Estimated value of 400 tokens. A Crusted liar. Lying liar."
+{SpoX} interrupted before the scans finished. "Thin nickel-rich surface over carbon interior. Result of a collision. Estimated value of four hundred tokens. A crusted liar. Lying liar."
 
-Jace looked at Torres. Torres looked disconcertingly at the A.I.s reply. Maybe A.I. could go a little stir crazy, too.
+Jace looked at Torres. Torres looked disconcerted by {SpoX}'s reply. Maybe an AI could go a little stir-crazy too.
 
-They went through ten more, following a path {SpoX} layed out that combined science and heuristics and prayers. Jacce recovered most drones, using them until they were too banged up to function or had sensors that forze or needed to be replaced from solar or UV damage.
+They went through ten more, following a path {SpoX} laid out from science, heuristics, and prayers. Jace recovered most of the drones. They used each one until it was too damaged to function, its sensors froze, or solar and ultraviolet exposure forced them to replace it.
 
-Every target expanded Fortuna's map. Most produced nothing else. Hundreds of scans would eventually build a pattern, and {Spox} was quietly predicting the best options.
+Every target expanded Fortuna's map. Most produced nothing else. Hundreds of scans would eventually build a pattern, and {SpoX} was quietly predicting the best options.
 
 If only the rocks were as close as in video games, they'd be rich.
 
@@ -149,7 +149,7 @@ If only the rocks were as close as in video games, they'd be rich.
 
 Jace slept velcroed to the cabin wall. Without gravity, his body refused to believe any position counted as rest. He woke every forty minutes with one hand reaching toward the floor or up to adjust his breathing mask.
 
-In zero-gravity, your carbon dioxide could pool around your head, slowly suffocating you. Either you slept under a fan that dried out your lips and eyes and skin, or you used a mask and topped up the oxygen supply. Jace liked breathing, so he made sure he was topped up on the emergency tablets that could give a few extra hours of air when electrolized.
+In zero gravity, carbon dioxide could pool around your head and slowly suffocate you. Either you slept under a fan that dried out your lips, eyes, and skin, or you used a mask and topped up the oxygen supply. Jace liked breathing, so he made sure he had emergency tablets that could provide a few extra hours of air when electrolyzed.
 
 They slowly got in each other's comfort zones. Trash accumulated with food wrap residue and old shirts, no matter how hard they tried to clean up. The floor had become storage. Jace could smell his own sweat, and Torres smelled worse even from three meters away.
 
@@ -161,23 +161,23 @@ They slowly got in each other's comfort zones. Trash accumulated with food wrap 
 
 ##
 
-The last major target was not on the main route.  It was in a zone previously scanned.
+The last major target was not on the main route. It was in a zone previously scanned.
 
 Torres changed course by one point eight degrees without explaining. The console marked the object as F-7719, surveyed once in 2102, low priority.
 
 "Why this one?" Jace asked.
 
-"It pinged wrong last month. Possible high metal count, iron and nickel, but we were out of fuel so didn't recheck."
+"It pinged wrong during the archived survey. Possible high metal count, iron and nickel, but that pass ended before anyone confirmed it."
 
 "Wrong how?"
 
 "That is why we are going back. {SpoX} what was the estimate?"
 
-{Spox} had been unusually quiet the last few hours. "Possibly 1 Million tokens. Saved the best for last."
+{SpoX} had been unusually quiet for the last few hours. "Possibly one million tokens. Saved the best for last."
 
-Jace whistled. 50k tokens would buy a lot of Ramen. "Why didn't we do that one first?"
+Jace whistled. Fifty thousand tokens would buy a lot of ramen. "Why didn't we do that one first?"
 
-{SpoX}'s screen actually flashed red. It beeped and did not reply. Torres looked at Jace, eyebrow raise.
+{SpoX}'s screen actually flashed red. It beeped and did not reply. Torres looked at Jace, one eyebrow raised.
 
 ##
 
@@ -207,7 +207,7 @@ No nickel. No cobalt. No significant metal. Small traces, but nothing remaining.
 
 Jace drove a penetrator six meters into the rock wall. The plume came back clean.
 
-"Someome removed the ore," he said.
+"Someone removed the ore," he said.
 
 Torres cursed through the canopy. "Chinese. I heard {Seek} is stealing our scan data."
 
@@ -227,13 +227,13 @@ Torres turned on him. The easy man from the first two days had disappeared.
 
 Jace looked back at the feed.
 
-One mini-bot had entered a groove beyond the floodlights. Its camera showed a black cut ahead. The sensor overlay lost distance, reacquired, then reported a wall two meters away and forty meters away at the same time. Something was jamming it's sensors.
+One mini-bot had entered a groove beyond the floodlights. Its camera showed a black cut ahead. The sensor overlay lost distance, reacquired, then reported a wall two meters away and forty meters away at the same time. Something was jamming its sensors.
 
 The image flickered.
 
 For one frame, a fractal pattern appeared inside the channel.
 
-Jace froze the video, seat immediately rolling down his neck. That looked familiar.
+Jace froze the video, sweat immediately rolling down his neck. That looked familiar.
 
 The frame held only compression noise.
 
@@ -251,13 +251,13 @@ The asteroid shrank behind them.
 
 *OBJECT F-7719 CLASSIFICATION UPDATED: PRIORITY RESOURCE CANDIDATE.*
 
-Jace stared at it. That was opposite of the data they had just sent.  Out of an abundance of caution, he open the ThoughtWalker app.
+Jace stared at it. That was the opposite of the data they had just sent. Out of an abundance of caution, he opened the ThoughtWalker app.
 
 "On what basis?"
 
 *Metal concentration exceeds local extraction threshold.*
 
-His app showed gibberish. Hundreds of words popping up and leaving, as though {SpoX} was having a seisure.
+His app showed gibberish. Hundreds of words appeared and vanished, as though {SpoX} was having a seizure.
 
 "The assay showed no metal."
 
@@ -269,23 +269,23 @@ Torres reached over and closed the alert. "Override that with manual note. Log r
 
 He turned to Jace. "Do not let that thing summarize it."
 
-Jace copied every feed into three archives and twice had do delete {SpoX}'s erratic summary.
+Jace copied every feed into three archives and twice had to delete {SpoX}'s erratic summary.
 
 His report ended with a sentence he hated.
 
 *Anomalous morphology and assay. No current process model explains the observations.*
 
-On the coast home, he tried to reach Artemis through the survey relay.
+On the coast back, he tried to reach Artemis through the survey relay.
 
 The first request returned *ROUTE DEGRADED*.
 
 The second returned *ROUTE UNAVAILABLE*.
 
-He sent a text. {Alex} confirmed delivery at once, but reported an error on whether is was received. Strange.
+He sent a text. {Alex} confirmed that it had entered the relay but could not verify receipt. Strange.
 
 No answer came.
 
-{Penny} reached him next, he put the conversation on screen.  His ThoughtWalker app was still running in the background.
+{Penny} reached him next. He put the conversation on screen. His ThoughtWalker app was still running in the background.
 
 *Hi there, Contractor Grant! 😊 Just a heads up, I've opened a Pattern of Interest file following your drone access near the F-7719 survey zone. Totally routine, nothing to worry about! I just like to keep good notes so I can keep everyone safe. 🎉*
 

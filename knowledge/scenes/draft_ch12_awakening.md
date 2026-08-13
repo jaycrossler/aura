@@ -1,5 +1,5 @@
 ---
-id: draft_ch12_astral_awakening
+id: draft_ch12_awakening
 name: "Chapter 12. The Other Side"
 type: chapter_draft
 book: book01
@@ -8,7 +8,7 @@ scene_contract: X-00a
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   Exhausted after the survey trip, Jace and Cerberus cross in their sleep,
   nearly suffocate, and move through a four-dimensional Fortuna that cannot
@@ -26,15 +26,15 @@ cross_references:
 
 # Chapter 12. The Other Side
 
-> *Most people do not know this, but the first human to cross between dimensions in three thousand years was carried most of the way by a dog. The human filed the first report.*
+> *Most people do not know this, but the third human to cross between dimensions in three thousand years was carried most of the way by a dog.*
 >
 > Jace Grant, *unpublished notes*
 
 The Barn lights returned after nine seconds.
 
-{Penny} called it a routine power handoff. {SpoX} had apparently determined that Ring two had too much power.
+{Penny} called it a routine power handoff. {SpoX} had apparently determined that Ring Two had too much power.
 
-Everyone he passed in the hallways had emergency masks on and were furiously discussing the A.I.s acting more and more eratic.
+Everyone he passed in the corridors wore an emergency mask. People spoke furiously about the station AIs acting more and more erratic.
 
 Jace carried Cerberus back to the inn at midnight. The dog kept looking behind them. Jace checked every intersection and found only cleaning robots, night crews, and one child being escorted home by a worried parent.
 
@@ -96,7 +96,7 @@ Jace reached for it.
 
 His fingers passed through the hook.
 
-He tried again. The mask looked close. Its position felt far away in a direction he could see but not name. Swapping the mask between his face and the dog, Jace examined it further. He was pushing down on the panic sensation rising in him, military training coming back to bring an intesnse focused calm.
+He tried again. The mask looked close. Its position felt far away in a direction he could see but not name. Swapping the mask between his face and the dog, Jace examined it. He pushed down the rising panic. Military training returned and brought an intense, focused calm.
 
 Jace fixed his attention on the straps. He imagined closing his hand around them. He pulled with his whole mind and body while nothing moved.
 
@@ -160,7 +160,7 @@ The corridor beyond tipped into view. A new direction unfolded beside forward, b
 
 Then Jace fell through the metal.
 
-He struck the corridor floor on one knee, but the impact felt soft as a matress. Cerberus remained in his arms. The hatch stood behind them without a mark.
+He struck the corridor floor on one knee, but the impact felt soft as a mattress. Cerberus remained in his arms. The hatch stood behind them without a mark.
 
 Jace stared at it.
 

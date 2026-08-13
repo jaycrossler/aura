@@ -7,9 +7,9 @@ thread: X
 scene_contract: X-00 (second half)
 status: staged_draft
 pov: char_sophia_lotte (opening), char_jace_apollo (from arrival)
-last_updated: 2026-07-19
+last_updated: 2026-08-13
 description: >
-  Jace meets Sophia in the Astral cafeteria. Cerberus breaks her isolation.
+  Jace meets Sophia in the Never-Never cafeteria during crossing 41. Cerberus breaks her isolation.
   Joint oxygen pull discovered. Sophia escorts them home, explains her nightly
   data-collection, and sees Jace safely across. Dinner-not-breakfast beat.
 cross_references:
@@ -36,9 +36,9 @@ open_flags:
 
 Sophia has been pulling for four minutes and the anchor has moved the width of a fingernail.
 
-She resets her grip on nothing — there is no grip, there is only the intending of a grip, which after eleven weeks she can hold for about ninety seconds before it shreds — and pulls again. The Astral does not creak. It does not strain. It simply declines, politely, at scale, and the light around her stays that same patient silver that has stopped feeling like wonder and started feeling like a laboratory she is locked inside of.
+She resets her grip on nothing — there is no grip, there is only the intending of a grip, which after around forty solo crossings she can hold for about ninety seconds before it shreds — and pulls again. The Never-Never does not creak. It does not strain. It simply declines, politely, at scale, and the light around her stays that same patient silver that has stopped feeling like wonder and started feeling like a laboratory she is locked inside of.
 
-Eleven weeks. Two hundred and six entries. No second observer. She has started narrating her methodology aloud, for the notebook, for rigor, and also — she can admit this here, where there is no one — because a human voice, even her own, is data she badly needs.
+Crossing 41. No second observer. She has started narrating her methodology aloud, for the notebook, for rigor, and also — she can admit this here, where there is no one — because a human voice, even her own, is data she badly needs.
 
 The anchor gives another fingernail. She sets her feet against nothing, leans her whole intention into it —
 
@@ -46,7 +46,7 @@ The anchor gives another fingernail. She sets her feet against nothing, leans he
 
 Sophia screams. Her concentration goes to pieces, her footing goes with it, and she falls — slowly, absurdly, a third of gravity stretched thinner by the Astral's indifference, long enough to be embarrassed on the way down. The man crosses the clearing at a sprint and catches her before she lands, which is not difficult, because nothing here is in a hurry except him.
 
-He is real. Her hands are fisted in his sleeves and the sleeves have texture and the arms under them are warm and he is *real*, an actual second human being, here, and eleven weeks of methodology produce, as her first recorded utterance to another observer in the Astral dimension:
+He is real. Her hands are fisted in his sleeves and the sleeves have texture and the arms under them are warm and he is *real*, an actual second human being, here, and around forty solo crossings produce, as her first recorded utterance to another observer in the Never-Never:
 
 "Wait. You're the *delivery boy*."
 
@@ -56,7 +56,7 @@ Jace stares at her, a hot spark of indignation piercing his disorientation. *Del
 
 "What's going on?" Jace manages. "My mask — I've got maybe ninety minutes of O2 left, and I don't—"
 
-"You're in the Astral," she says, wiping her eyes. "You crossed over. I don't know *how*, but—" She stops. Steadies. Fails to steady. "Your oxygen. There are spare bottles racked by the prep station. I can pull one across. It's heavy — it's going to take time. Maybe twenty minutes. Pulling is—" she gestures at her still-shaking arms — "it is *lifting*. The whole time."
+"You're in the Never-Never," she says, wiping her eyes. "You crossed over. I don't know *how*, but—" She stops. Steadies. Fails to steady. "Your oxygen. There are spare bottles racked by the prep station. I can pull one across. It's heavy — it's going to take time. Maybe twenty minutes. Pulling is—" she gestures at her still-shaking arms — "it is *lifting*. The whole time."
 
 She locks on. Eyes closed, arms extended toward the rack on the real side, body rigid. The bottle doesn't move.
 

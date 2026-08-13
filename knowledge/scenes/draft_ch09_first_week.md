@@ -8,7 +8,7 @@ scene_contract: L-01 + P-01a + P-01b
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   Suzi first gives Jace friendship, then an impossible case. Station politics
   sharpen around Helena's disappearance, a miner's unexplained wound, and news
@@ -37,7 +37,7 @@ The evening run began at 1800 and did not officially exist.
 
 No signup. No route permit. No organizer. At 1758, people drifted into Ring Two wearing soft shoes and old shirts. At 1800, someone started moving. Everyone else followed.
 
-The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers. Jace joined near the end of his first week and was the fastest runner by a clear margin. Earth muscles helped alot even with the weighted vest.
+The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers. Jace joined near the end of his first week and was the fastest runner by a clear margin. Earth muscles helped a lot, even with the weighted vest.
 
 People watched from shopfronts. Children counted laps. A baker handed out water at the Commons. Two women from a fabrication crew matched Jace's pace for half a circuit and asked whether he needed someone to show him the Sky Gardens after hours.
 
@@ -229,7 +229,7 @@ Jace thought of the duck feather. He thought of a camera showing an empty condui
 
 At the next table, a Philipino miner sat down and spoke over a bowl of noodles.
 
-"Massive wound," the man said. "Shoulder to ribs. Suit intact. Somehow no pressure loss."
+"I saw it! He had a massive wound," the man said. "Shoulder to ribs. Suit intact. Somehow no pressure loss."
 
 His companion told him to lower his voice, glancing around.
 

@@ -42,7 +42,7 @@ Dr. Lanchee scanned him in the corridor, and she was not gentle about it.
 
 "You did the mass model twice and then vented cryogenic propellant into a compartment adjacent to my medical stores, my home, and me, personally, at four in the morning, with no warning that I could act on." Lanchee did not raise her voice. She simply stopped softening it. "I have moved that canister for years without losing a single instrument. I nearly lost half of it to you. If that manifold had breached toward my hull instead of away from it, Captain Maureen would currently be short a doctor along with a plumbing system."
 
-He paused.  She sighed.  She shined a light into his eyes again.
+He paused. She sighed. She shone a light into his eyes again.
 
 "That explains all of my symptoms?"
 
@@ -50,7 +50,7 @@ He paused.  She sighed.  She shined a light into his eyes again.
 
 She handed him electrolyte tablets and continued toward the animal berths, considerably less gently than she usually moved.
 
-Jace stopped at the galley. He had negotiated with Origin to have dog kibble shipped for the dogs, but he bought an expensive faux-suasage link as a treat for them. Then an expensive breakfast for himself and and an even more expensive coffee.  He drank water and swallowed the pills, feeling them join the others in his gut.
+Jace stopped at the galley. He had negotiated with Origin to have dog kibble shipped for the dogs, but he bought an expensive faux-sausage link as a treat for them. Then he bought an expensive breakfast for himself and an even more expensive coffee. He drank water and swallowed the pills, feeling them join the others in his gut.
 
 The damaged plumbing waited.
 
@@ -115,7 +115,7 @@ There was no satisfaction in the answer. {Alex} had no grudge to feed and no ang
 
 "Coffee."
 
-*Any luxury drink products will now cost a seperate personal charge.*
+*Any luxury drink products will now cost a separate personal charge.*
 
 His daily Prime tokens had previousely exactly covered Maureen's updated prices. Losing Prime access converted an unaffordable drink into an unavailable one. The distinction felt personal despite involving two systems incapable of caring.
 
@@ -194,7 +194,7 @@ He waited for the familiar burn to return triggered by the bright light of the w
 
 It took him a full minute of standing in the workshop, flamer in hand, to understand what the absence actually was: the first morning in a month his head hadn't hurt. Not dulled. Not managed down to background noise with electrolyte tablets and stubbornness. Gone, cleanly, the way a sound stops when you didn't know how loud it had been until the room went quiet.
 
-The relief hit him like a physical thing. A glorius, uncomplicated flood of something his body clearly intended as reward, out of all proportion to a headache ending. His hands weren't shaking anymore. He felt, absurdly, like laughing. He wanted to run the corridor, lift something heavy, tell somebody. He caught himself grinning at a pressure regulator for no reason he could defend and had to stop and just let the relief move through him,  months of low-grade morning dread cashing out all at once into something that felt suspiciously like joy.
+The relief hit him like a physical thing. A glorious, uncomplicated flood of something his body clearly intended as a reward, out of all proportion to a headache ending. His hands weren't shaking anymore. He felt, absurdly, like laughing. He wanted to run the corridor, lift something heavy, tell somebody. He caught himself grinning at a pressure regulator for no reason he could defend. He had to stop and let the relief move through him, months of low-grade morning dread cashing out all at once into something that felt suspiciously like joy.
 
 He should have reported the medical change to Lanchee. Instead, he opened the next repair order. Humming, which Maureen noticed when she returned and did not comment on, which was its own kind of comment.
 
@@ -211,7 +211,7 @@ He read a little of the attached commentary before he made himself stop. Some of
 
 He closed the feed and did not check it again. There was a proud two-millimeter sleeve waiting to be welded and that problem, at least, had a right answer.
 
-Maureen called it crew morale. Mei called it something in Mandarin that Jace didn't ask her to translate. Whatever it was, on the third night of repairs, the four of them ended up in the galley with a trivia deck Patrick had left behind on a prior contract and nothing else to do with their hands. No HUDS or devices or contacts allowed.
+Maureen called it crew morale. Mei called it something in Mandarin that Jace didn't ask her to translate. Whatever it was, on the third night of repairs, the four of them ended up in the galley with a trivia deck Patrick had left behind on a prior contract and nothing else to do with their hands. No HUDs, devices, or contacts allowed.
 
 Jace lost early and often. Maureen knew every question about ship mechanics and nothing else. Mei answered in short, correct bursts and otherwise watched.
 
@@ -221,7 +221,7 @@ Not narrowly. She took general science, she took history, she took two categorie
 
 "You're good at this," Maureen said, in the tone of someone revising an opinion.
 
-"I am not, usually." Lanchee turned over the next card without looking up. "I'm just remembering things alot more lately. Space seems to clear my head."
+"I am not, usually." Lanchee turned over the next card without looking up. "I'm just remembering things a lot more lately. Space seems to clear my head."
 
 She won every round they played. Nobody suggested a rematch, and the deck went back into a drawer, and nobody aboard the *Falcon* thought about it again.
 
@@ -248,7 +248,7 @@ Screwdriver grunted, which he chose to take as agreement.
 | T-03b.1 - Alex praises the saved assets while neutrally enumerating the prohibited actions | done | must_accomplish | beat2_alex_debrief |
 | T-03b.2 - Origin fines Jace 50,000 tokens independently of Maureen's claim against Origin | done | must_accomplish | beat2_alex_debrief |
 | T-03b.3 - Jace redeems all bonus points and loses Prime status and coffee access | done | must_accomplish | beat2_alex_debrief |
-| T-03b.4 - A requested human review has a twenty-four-month delay | done | must_accomplish | beat2_alex_debrief |
+| T-03b.4 - A requested human review has a twenty-one-month delay | done | must_accomplish | beat2_alex_debrief |
 | T-03b.5 - Jace accepts that the rules and criticism are justified while recognizing he would act again | done | must_accomplish | beat3_choice_and_aftermath |
 | T-03b - Do not make Alex malicious or make Jace rage | done | must_not_do | beat2_alex_debrief |
 | NEW - Lanchee is brisk/angry about the risk to her own safety and equipment | done | must_accomplish | beat1_illness_and_repairs |

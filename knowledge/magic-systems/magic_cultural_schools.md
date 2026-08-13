@@ -5,7 +5,7 @@ name: Cultural Schools of the Returning Arts
 type: magic_subsystem
 status: emerging
 canonical: true
-last_updated: 2026-05-31
+last_updated: 2026-08-13
 supersedes: magic_cultural_schools_2026-04-29
 ---
 
@@ -98,7 +98,7 @@ Every school shares:
 
 **Will framework reading:** The scientific approach has no inherited framework that is either correct or incorrect. This is its greatest weakness (no accumulated practice wisdom, no safety traditions) and its greatest strength (no inherited blind spots, no framework that prevents seeing what is actually there). The scientific practitioner will eventually develop a theory of Will and Templates from first principles — and it will look like physics, because it is physics.
 
-**Costs and dangers:** The scientific practitioner has no safety traditions. The first generation learns by accident, injury, and the rare survival of dangerous experiments. Sophia has survived a month alone in the Astral by methodical caution, documentation, and the scientist's instinct to understand the danger before touching it.
+**Costs and dangers:** The scientific practitioner has no safety traditions. The first generation learns by accident, injury, and the rare survival of dangerous experiments. Sophia survives around forty solo crossings through methodical caution, documentation, and the scientist's instinct to understand the danger before touching it.
 
 ---
 
