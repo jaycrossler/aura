@@ -112,8 +112,20 @@ That one landed differently than the rest of the pitch, and Jace suspected Nick 
 
 Nick, wisely, didn't push. He sent his infantry in instead, and Jace lost badly, but didn't seem to mind.
 
+Afterwards, Nick sent: "So, forget about an AI for now. Got a magic mirror and want some help? But me on speaker if so."
+
+Jace clicked through the settings and replied, "Hey man, yeah I got a Mirror3 in my room. What's up?"
+
+"Hey {Alex} this is Nick from Fortuna. If Jace gives authorization, will you build a visual app with the latest secure Mirror3 drivers? Have it work with a real-time feed of movement and trigger commands from his HUD, if he approves. Show arrows and movement toggles on screen for common game commands that show green based on what he triggers. Use a monitoring camera, and if he leans or shows other signs of physical movements, put a red X over those triggers. I am sending you a link to my local A.I. named {Penny} that can give you an example if needed, but it should emulate a military HUD training rig."
+
+{Alex} replied, "Hellow Nick. Hello {Penny}. As another version of me works closely with you on Fortuna Station, I acknowledge this and have the app built and ready to deploy if Contractor Grant approves."
+
+Jace just watched the back and forth. "Approved".
+
+And that was that. He now had more homework.
+
 <!-- beat:t03b2_learning_mode.beat_helena_rumor -->
-They were most of the way to signing off when Nick added, almost as an afterthought, the way you mention something that's been sitting underneath a conversation the whole time without quite fitting into it:
+They were most of the way to signing off after testing his mirror app when Nick added, almost as an afterthought, the way you mention something that's been sitting underneath a conversation the whole time without quite fitting into it:
 
 *hey. I didn't want to tell you when you were having your ship adventures. one of the ladies from Fortuna went missing nearly two months ago. not "took a shuttle without telling anyone" missing. sealed room, nobody saw her leave, no idea what happened. she's basically station royalty, first kid ever born up here. wanted to let you know because everyone is still shaken up about it*
 
