@@ -7,7 +7,7 @@ status: contracted
 pov: char_jace_apollo
 location: ship_falcon (central spine/spire, low-spin zero-g zone)
 timing: "Falcon transit, after the Artemis canister call (post-ch07), ~2 weeks before Fortuna arrival. Exact Seq TBD at consolidation."
-last_updated: 2026-07-28
+last_updated: 2026-08-13
 cross_references:
   - "[[char_jace_apollo]]"
   - "[[char_cerberus]]"
@@ -38,13 +38,16 @@ Lanchee — all without explaining anything.
    spine. Cerberus can't do the stairs; stays below, barking nervously —
    audible dread the whole climb. The low-spin spire is dizzying; the vertigo
    and the perception bleed blur into each other (deniability preserved).
-3. **The panel and the eggs.** Drill out an access panel. His Astral-bleed
-   sight shows two small leathery eggs; HUD shows an empty cavity. As he
-   nears, the eggs crack — two hatchling Dippers jump out and attack.
-4. **The fight.** Physical, close, ugly. Jace kills one with the drill through
-   the head — it bursts in a shimmer and he absorbs a second Will orb without
-   registering what happened. The smaller hatchling leaps straight through the
-   bulkhead into space and is gone. Do not name orbs, Dippers, or the Astral.
+3. **The panel and the eggs.** Wrench out an access panel. His Astral-bleed
+   sight shows two small leathery eggs; HUD infrared shows nothing and the
+   shells read cold to the touch. As he nears, the eggs crack — two
+   hatchling Dippers jump out and attack.
+4. **The fight.** Physical, close, ugly. One clean scratch to Jace's forearm
+   from the first strike; no further wounds land. Jace kills one with the
+   wrench through the head — it bursts in a shimmer and he absorbs a second
+   Will orb without registering what happened. The smaller hatchling leaps
+   straight through the bulkhead into space and is gone. Do not name orbs,
+   Dippers, or the Astral.
 5. **Institutional blindness, and Jace managing it.** He reports movement to
    {Alex}; the majordomo's cameras show only Jace flailing at nothing with a
    powered drill. {Alex} fines him for dangerous tool operation near complex
@@ -62,6 +65,13 @@ Lanchee — all without explaining anything.
    later; foreshadows that everyone will begin manifesting.)
 7. **Aftermath dread.** Jace patrols the full ship daily for the remaining
    two weeks. Nothing. The absence is worse than a sighting.
+8. **Continuity beats (author ruling, 2026-08-13).** Cerberus's hackles rise
+   during the climb, not just the growl. The private incident log already
+   contains the plumbing-crisis ice creature as a prior entry before this
+   night's addition — five entries total after tonight. The wall-vision
+   moment gets an explicit not-quite-x-ray line from Jace, delivered as
+   internal narration. Egg check leads with HUD infrared (returns nothing)
+   before the cold touch, replacing the "the eggs were warm" description.
 
 ## Must NOT
 

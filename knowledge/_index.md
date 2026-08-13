@@ -1,14 +1,14 @@
 # Directory Tree
 
 - arcs/
-    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-07-19; type: arc; description: >; lines: 427; xrefs: 32; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong, kim, torres, carlos
+    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-07-19; type: arc; description: >; lines: 431; xrefs: 32; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong, kim, torres, carlos
     - arc_01_thread_A_arrival.md - name: Arc 1 — Thread A: Arrival; id: arc_01_thread_A_arrival; status: draft; canonical: true; updated: 2026-07-15; type: arc_thread; description: >; lines: 221; xrefs: 8; canonical: true; chars: jace_apollo, carlos, kim, torres, mira, hayes
     - arc_01_thread_L_life_texture.md - name: Arc 1 — Thread L: Life Texture; id: arc_01_thread_L_life_texture; status: draft; canonical: true; updated: 2026-07-05; type: arc_thread; description: >; lines: 216; xrefs: 6; canonical: true; chars: jace_apollo, sophia_lotte, mei, mira, kim
     - arc_01_thread_N_nick_ai.md - name: Arc 1 — Thread N: Nick / AI; id: arc_01_thread_N_nick_ai; status: draft; canonical: true; updated: 2026-07-21; type: arc_thread; description: >; lines: 124; xrefs: 6; canonical: true; chars: jace_apollo, nick_lee, jin_luong
     - arc_01_thread_P_pressure.md - name: Arc 1 — Thread P: Pressure; id: arc_01_thread_P_pressure; status: draft; canonical: true; updated: 2026-07-15; type: arc_thread; description: >; lines: 257; xrefs: 6; canonical: true; chars: jace_apollo, suzi, jin_luong, helena, mei
     - arc_01_thread_S_swarm.md - name: Arc 1 — Thread S: Swarm and Closing; id: arc_01_thread_S_swarm; status: draft; canonical: true; updated: 2026-07-28; type: arc_thread; description: >; lines: 263; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, jin_luong, nick_lee, suzi, kael, torres, kim, carlos, mira
     - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 256; xrefs: 8; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
-    - arc_01_thread_X_astral.md - name: Arc 1 — Thread X: Astral Exploration; id: arc_01_thread_X_astral; status: draft; canonical: true; updated: 2026-07-21; type: arc_thread; description: >; lines: 465; xrefs: 8; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
+    - arc_01_thread_X_astral.md - name: Arc 1 — Thread X: Astral Exploration; id: arc_01_thread_X_astral; status: draft; canonical: true; updated: 2026-08-13; type: arc_thread; description: >; lines: 482; xrefs: 13; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
     - arc_02_addendum_kael_two_weeks.md - name: Arc 2 Addendum — The Two Weeks; id: arc_02_addendum_kael_two_weeks; status: pre-draft; canonical: false; updated: 2026-07-12; type: scene_notes; description: >; lines: 108; xrefs: 5; canonical: false; chars: erin, kael, nick_lee
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
     - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
@@ -67,7 +67,7 @@
     - normalize_cross_references_2026-07-31.md - updated: 2026-07-31; lines: 1277; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-10.md - updated: 2026-08-10; lines: 1263; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-12.md - updated: 2026-08-12; lines: 1520; xrefs: 0; canonical: false
-    - normalize_cross_references_2026-08-13.md - updated: 2026-08-13; lines: 1432; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-08-13.md - updated: 2026-08-13; lines: 1519; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: proposed; updated: 2026-07-21; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 95; xrefs: 7; canonical: proposed; chars: jace_apollo, major_barnes
@@ -150,9 +150,9 @@
     - draft_ch01_departure_and_rounds.md - name: Chapter 1 - Departure and Rounds; id: draft_ch01_departure_and_rounds; status: draft_v2; updated: 2026-08-12; type: chapter_draft; description: Cargo-heavy departure, late-transit animal rounds with Mei, real-time; lines: 361; xrefs: 11; canonical: false; chars: jace_apollo, cerberus, maureen, mei, lanchee, nick_lee, patrick
     - draft_ch02_no_more_voices.md - name: Chapter 2. Going a little crazy; id: draft_ch02_no_more_voices; status: staged_draft; updated: 2026-08-11; type: chapter_draft; description: Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery.; lines: 245; xrefs: 10; canonical: false; chars: jace_apollo, maureen, nick_lee, cerberus, patrick
     - draft_ch03_plumbing_crisis.md - name: Chapter 3. The Plumbing Crisis; id: draft_ch03_plumbing_crisis; status: staged_draft; updated: 2026-08-11; type: chapter_draft; description: A water-line rupture loads one side of the Falcon ring with ice; Jace defies Alex and uses cryogenic argon as emergency counter-ballast, saving the ship at dangerous cost.; lines: 287; xrefs: 6; canonical: false; chars: jace_apollo, maureen
-    - draft_ch04_morning_after_debrief.md - name: Chapter 4. The Morning After; id: draft_ch04_morning_after_debrief; status: staged_draft; updated: 2026-08-11; type: chapter_draft; description: Jace repairs the Falcon while suffering an unexplained post-crisis illness, then Alex fines him for the successful but prohibited argon maneuver.; lines: 254; xrefs: 7; canonical: false; chars: jace_apollo, maureen, lanchee
+    - draft_ch04_morning_after_debrief.md - name: Chapter 4. The Morning After; id: draft_ch04_morning_after_debrief; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: Jace repairs the Falcon while suffering an unexplained post-crisis illness, then Alex fines him for the successful but prohibited argon maneuver.; lines: 269; xrefs: 7; canonical: false; chars: jace_apollo, maureen, lanchee
     - draft_ch05_learning_mode.md - name: Chapter 5. Learning Mode; id: draft_ch05_learning_mode; status: staged_draft; updated: 2026-08-12; type: chapter_draft; description: Register shift after the crisis, Thing One/Two comedy, the footage that becomes Jace's Fortuna reputation, Sparky-project mention, surveillance-discomfort seed, Nick's first real {Aura} pitch, an early rumor of Helena's disappearance; lines: 244; xrefs: 10; canonical: false; chars: helena, nick_lee, sister_artemis
-    - draft_ch06_the_spire.md - name: Chapter 6. The Spire; id: draft_ch06_the_spire; status: staged_draft; updated: 2026-08-12; type: chapter_draft; description: >; lines: 254; xrefs: 8; canonical: false; chars: jace_apollo, cerberus, lanchee
+    - draft_ch06_the_spire.md - name: Chapter 6. The Spire; id: draft_ch06_the_spire; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 256; xrefs: 8; canonical: false; chars: jace_apollo, cerberus, lanchee
     - draft_ch07_arrival_day.md - name: Chapter 7. Arrival Day; id: draft_ch07_arrival_day; status: staged_draft; updated: 2026-08-12; type: chapter_draft; description: >; lines: 306; xrefs: 10; canonical: false; chars: carlos, nick_lee, maureen, lanchee, mei, helena
     - draft_ch08_settling_in.md - name: Chapter 8. Settling In; id: draft_ch08_settling_in; status: staged_draft; updated: 2026-08-12; type: chapter_draft; description: >; lines: 295; xrefs: 11; canonical: false; chars: kim, carlos, mira, hayes, cerberus, nick_lee
     - draft_ch09_first_week.md - name: Chapter 9. Eyes Open; id: draft_ch09_first_week; status: staged_draft; updated: 2026-08-12; type: chapter_draft; description: >; lines: 270; xrefs: 11; canonical: false; chars: suzi, helena, jin_luong, mei, cerberus, carlos, hayes
@@ -164,10 +164,11 @@
     - event_helena_epilogue.md - name: Epilogue — Helena; id: event_helena_epilogue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Epilogue scene — Helena's resurrection, paired framing device closing Arc 1.; lines: 111; xrefs: 0; canonical: true
     - event_helena_prologue.md - name: Prologue — Helena; id: event_helena_prologue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Prologue scene — Helena's last day, framing device introducing Fortuna Station before Jace's POV begins.; lines: 108; xrefs: 0; canonical: true
     - event_t_forge_no_more_voices.md - name: No More Voices (forge room, pre-crisis); id: event_t_forge_no_more_voices; status: contracted; updated: 2026-07-19; type: scene_contract; lines: 62; xrefs: 5; canonical: false; chars: maureen, jace_apollo
-    - event_t_spire_eggs.md - name: The Spire (eggs, hatchlings, and the man flailing at nothing); id: event_t_spire_eggs; status: contracted; updated: 2026-07-28; type: scene_contract; lines: 85; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, lanchee
+    - event_t_spire_eggs.md - name: The Spire (eggs, hatchlings, and the man flailing at nothing); id: event_t_spire_eggs; status: contracted; updated: 2026-08-13; type: scene_contract; lines: 95; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, lanchee
     - event_x00a_astral_awakening.md - name: X-00a — Astral Awakening; id: event_x00a_astral_awakening; status: staged_draft; updated: 2026-07-15; type: scene_draft; description: >; lines: 105; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, sophia_lotte
     - event_x00b_sophia_cafeteria.md - name: X-00b — The Woman Who Wasn't Glowing; id: event_x00b_sophia_cafeteria; status: staged_draft; updated: 2026-07-19; type: scene_draft; description: >; lines: 125; xrefs: 6; canonical: false; chars: jace_apollo, sophia_lotte, cerberus
     - non-canonical-ideas/
+        - addition_new_doctor_memory_mention.md - lines: 44; xrefs: 0; canonical: false
         - book01-opening-notes.md - id: scenes_book01_opening_notes; status: pre-draft; updated: 2026-07-28; description: Working outline detailing early scenes, backstory, and structural notes for Book 1's opening.; lines: 143; xrefs: 15; canonical: false
         - choreo_event_jace_doctor_appointment.md - id: choreo_event_jace_doctor_appointment; status: detailed (voice session); canonical: false; updated: 2026-07-21; type: scene_choreography; description: Detailed choreography and temporal markers for Jace's emotional climax at a doctor's appointment.; lines: 522; xrefs: 0; canonical: false
         - choreo_event_jace_gym_arrival.md - id: choreo_event_jace_gym_arrival; status: detailed (voice session); canonical: false; updated: 2026-04-30; type: scene_choreography; description: Detailed choreography and temporal markers for Jace's first day at the Mars base gym.; lines: 513; xrefs: 0; canonical: false
@@ -187,6 +188,10 @@
         - event_jace_origin_negotiation.md - id: event_jace_origin_negotiation; status: pre-draft (emotional beats / structural sketch); canonical: false; updated: 2026-06-03; type: scene; description: Jace negotiates his contract with Origin Industries, establishing his diminished bargaining position.; lines: 110; xrefs: 0; canonical: false
         - event_rich_comms_favor.md - name: Rich's Comms Favor for Jace; id: event_rich_comms_favor; status: sketch; canonical: false; updated: 2026-05-02; type: scene; description: Rich uses his comms access to grant Jace a significant favor after his discharge.; lines: 122; xrefs: 4; canonical: false; chars: lt_rich_cullivan, jace_apollo
     - scene_notes_ai_interactions.md - id: scene_notes_ai_interactions; status: pre-draft; updated: 2026-07-14; type: scene_notes; description: Scene notes for two key AI-interaction beats: the {Alex} morning greeting routine and Nick's pitch to install {Aura}. Updated to reflect that Jace has no pre-installed {Aura} — just a bare military HUD reformatted as civilian OS.; lines: 159; xrefs: 0; canonical: false
+    - scene_notes_x09b_composition_question.md - name: X-09b — The Composition Question; id: scene_notes_x09b_composition_question; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 105; xrefs: 5; canonical: false; chars: jace_apollo, sophia_lotte
+    - scene_notes_x09c_what_else_she_can_do.md - name: X-09c — What Else She Can Do; id: scene_notes_x09c_what_else_she_can_do; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 99; xrefs: 5; canonical: false; chars: jace_apollo, sophia_lotte
+    - scene_notes_x09d_moving_house.md - name: X-09d — Moving House; id: scene_notes_x09d_moving_house; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 84; xrefs: 6; canonical: false; chars: jace_apollo, sophia_lotte
+    - scene_notes_x09e_sparky_comes_across.md - name: X-09e — Sparky Comes Across; id: scene_notes_x09e_sparky_comes_across; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 76; xrefs: 4; canonical: false; chars: jace_apollo
 - SERIES_BIBLE.md - name: The Aura Chronicles — Series Bible; id: series_bible; status: canonical; updated: 2026-06-26; type: series_bible; description: >; lines: 506; xrefs: 12; canonical: false
 - sheets/
     - sheet_helena_epilogue_resurrection.md - name: Helena — Epilogue Resurrection; id: sheet_helena_epilogue_resurrection; subject: helena; arc: arc_01; checkpoint: Immediately after resurrection, waking in the Epilogue; seq: 2; updated: 2026-07-02; lines: 76; ⚠️ IMMUTABLE — do not edit
@@ -246,7 +251,16 @@
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-07-14; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
-    - PATCH_gpt.txt
+    - addition_new_doctor_memory_mention.md - lines: 44; xrefs: 0; canonical: false
+    - CHANGES.md - updated: 2026-08-13; lines: 66; xrefs: 0; canonical: false
+    - new_scene_x09b_composition_question.md - name: X-09b — The Composition Question; id: scene_notes_x09b_composition_question; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 105; xrefs: 5; canonical: false; chars: jace_apollo, sophia_lotte
+    - new_scene_x09c_what_else_she_can_do.md - name: X-09c — What Else She Can Do; id: scene_notes_x09c_what_else_she_can_do; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 99; xrefs: 5; canonical: false; chars: jace_apollo, sophia_lotte
+    - new_scene_x09d_moving_house.md - name: X-09d — Moving House; id: scene_notes_x09d_moving_house; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 84; xrefs: 6; canonical: false; chars: jace_apollo, sophia_lotte
+    - new_scene_x09e_sparky_comes_across.md - name: X-09e — Sparky Comes Across; id: scene_notes_x09e_sparky_comes_across; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 76; xrefs: 4; canonical: false; chars: jace_apollo
+    - patch_arc_01_thread_X_astral.md - updated: 2026-08-13; lines: 58; xrefs: 0; canonical: false
+    - patch_draft_ch04_trivia_night.md - updated: 2026-08-13; lines: 17; xrefs: 0; canonical: false
+    - patch_draft_ch06_the_spire.md - updated: 2026-08-13; lines: 111; xrefs: 0; canonical: false
+    - patch_event_t_spire_eggs.md - updated: 2026-08-13; lines: 46; xrefs: 0; canonical: false
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -313,12 +327,22 @@ These files were marked as draft or have non-canonical status and should not be 
 - `scenes\event_helena_prologue.md`
 - `scenes\non-canonical-ideas\book01-opening-notes.md`
 - `scenes\scene_notes_ai_interactions.md`
+- `scenes\scene_notes_x09b_composition_question.md`
+- `scenes\scene_notes_x09c_what_else_she_can_do.md`
+- `scenes\scene_notes_x09d_moving_house.md`
+- `scenes\scene_notes_x09e_sparky_comes_across.md`
 - `technology\tech_eagle_ai.md`
+- `to_merge\new_scene_x09b_composition_question.md`
+- `to_merge\new_scene_x09c_what_else_she_can_do.md`
+- `to_merge\new_scene_x09d_moving_house.md`
+- `to_merge\new_scene_x09e_sparky_comes_across.md`
 
 ### Orphaned Files
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
+- `CHANGES`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
+- `addition_new_doctor_memory_mention`
 - `book01-opening-notes`
 - `char_pytest_candidate_regression`
 - `draft_ch06_the_spire`
@@ -329,6 +353,10 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `falcon_animal_manifest_book1`
 - `image_generation_agent_prompt`
 - `metadata_template_guide`
+- `new_scene_x09b_composition_question`
+- `new_scene_x09c_what_else_she_can_do`
+- `new_scene_x09d_moving_house`
+- `new_scene_x09e_sparky_comes_across`
 - `normalize_cross_references_2026-07-26`
 - `normalize_cross_references_2026-07-27`
 - `normalize_cross_references_2026-07-28`
@@ -336,6 +364,10 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `normalize_cross_references_2026-08-10`
 - `normalize_cross_references_2026-08-12`
 - `normalize_cross_references_2026-08-13`
+- `patch_arc_01_thread_X_astral`
+- `patch_draft_ch04_trivia_night`
+- `patch_draft_ch06_the_spire`
+- `patch_event_t_spire_eggs`
 - `review_queue`
 - `system_character_sheets_skill_format`
 - `voice_char_alex_ai`

@@ -121,6 +121,11 @@ last_updated: 2026-08-13
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
+| `"[[scene_notes_x09b_composition_question]]"` | `[[scene_notes_x09b_composition_question]]` |
+| `"[[scene_notes_x09c_what_else_she_can_do]]"` | `[[scene_notes_x09c_what_else_she_can_do]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
+| `"[[scene_notes_x09e_sparky_comes_across]]"` | `[[scene_notes_x09e_sparky_comes_across]]` |
 
 ### `arcs\arc_02_addendum_kael_two_weeks.md`
 
@@ -1026,6 +1031,46 @@ last_updated: 2026-08-13
 | `"[[event_jace_doctor_appointment]]"` | `[[event_jace_doctor_appointment]]` |
 | `"[[tech_communications_filtering]]"` | `[[tech_communications_filtering]]` |
 
+### `scenes\scene_notes_x09b_composition_question.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[universe-spec/spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
+| `"[[event_t_spire_eggs]]"` | `[[event_t_spire_eggs]]` |
+
+### `scenes\scene_notes_x09c_what_else_she_can_do.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[event_x03b_what_she_can_do]]"` | `[[event_x03b_what_she_can_do]]` |
+| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+
+### `scenes\scene_notes_x09d_moving_house.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[scene_notes_x09b_composition_question]]"` | `[[scene_notes_x09b_composition_question]]` |
+| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
+
+### `scenes\scene_notes_x09e_sparky_comes_across.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
+
 ### `SERIES_BIBLE.md`
 
 | Before | After |
@@ -1193,6 +1238,46 @@ last_updated: 2026-08-13
 | `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
+
+### `to_merge\new_scene_x09b_composition_question.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[universe-spec/spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
+| `"[[event_t_spire_eggs]]"` | `[[event_t_spire_eggs]]` |
+
+### `to_merge\new_scene_x09c_what_else_she_can_do.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[event_x03b_what_she_can_do]]"` | `[[event_x03b_what_she_can_do]]` |
+| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+
+### `to_merge\new_scene_x09d_moving_house.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[scene_notes_x09b_composition_question]]"` | `[[scene_notes_x09b_composition_question]]` |
+| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
+
+### `to_merge\new_scene_x09e_sparky_comes_across.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 
 ### `universe-spec\concept_ai_seams.md`
 
@@ -1429,4 +1514,6 @@ These stems don't match any filename in the repo. Do NOT guess the intended targ
 - `scenes\draft_ch11_survey_trip.md` → missing: `char_torres`
 - `scenes\draft_ch13_woman_who_wasnt_glowing.md` → missing: `char_torres`
 - `scenes\non-canonical-ideas\book01-opening-notes.md` → missing: `draft_ch04_plumbing_crisis`, `draft_ch05_morning_after_debrief`, `draft_ch06_learning_mode`, `draft_ch07_artemis_call_canister`, `draft_ch08_arrival_day`
+- `scenes\scene_notes_x09c_what_else_she_can_do.md` → missing: `event_x03b_what_she_can_do`
 - `storybot\storybot_orpheus_voice_tag_reference.md` → missing: `voice_char_jace_apollo`
+- `to_merge\new_scene_x09c_what_else_she_can_do.md` → missing: `event_x03b_what_she_can_do`

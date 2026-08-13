@@ -32,11 +32,11 @@ cross_references:
 
 The Barn lights returned after nine seconds.
 
-{Penny} called it a routine power handoff.
+{Penny} called it a routine power handoff. {SpoX} had apparently determined that Ring two had too much power.
 
-The chickens disagreed for twenty minutes.
+Everyone he passed in the hallways had emergency masks on and were furiously discussing the A.I.s acting more and more eratic.
 
-Jace carried Cerberus back to the inn at midnight. The dog kept looking behind them. Jace checked every intersection and found only cleaning robots, night crews, and one child being escorted home by an irritated parent.
+Jace carried Cerberus back to the inn at midnight. The dog kept looking behind them. Jace checked every intersection and found only cleaning robots, night crews, and one child being escorted home by a worried parent.
 
 The survey case stayed in a locked cage at Drone Ops.
 
@@ -44,11 +44,13 @@ Jace checked the lock twice.
 
 He slept in his clothes.
 
-The dream began with light.
+##
+
+The dream began with a blue light.
 
 Not a lamp. Not stars. Points of color filled every direction. They vibrated at different frequencies and refused to settle into distance.
 
-Jace opened his eyes.
+Jace tried to cough, but couldn't. He couldn't breathe. Jace opened his eyes, and his lungs burned.
 
 The light remained.
 
@@ -56,25 +58,23 @@ He saw the bulkhead beside his bunk. He also saw the cables inside it, the corri
 
 The geometry folded through itself.
 
-He could not breathe.
+His throat kept trying to make swallowing motions, and his nose wouldn't work. His vision was swimming.
 
-Cerberus stood on his chest. The dog looked impossible. Jace saw fur, skin, muscle, lungs, and a hammering heart at once. The puppy's jaws held Jace's emergency mask.
+Cerberus crawled onto his chest. The dog looked impossible. Jace saw fur, skin, muscle, lungs, and a hammering heart all layers on top of each other. The puppy's jaws held Jace's sleep mask.
 
 Half the mask floated near Jace's face.
 
-The other half remained somewhere else.
+The other half remained somewhere else, like it was cut off into a point that dwindled into nothing.
 
-Cerberus pulled.
+Cerberus pulled, hard. He strained, pulling at the mask until the rest slowly materialized. Jace flailed, grasping at his throat.
 
-His paws shook. His chest heaved without enough air. The dog had dragged the mask partway across and spent nearly everything doing it.
+The dog's paws shook. His chest heaved without enough air. Cerberus finally pulled the mask out of the discontinuity, leaving about a fifth of it impossibly gone and hanging in the air above them.
 
-Jace grabbed the mask beside his jaws.
+Jace grabbed the mask as well and pulled. Hard.
 
-The object resisted in every direction. It felt bolted to the structure of the room, except the room no longer had a single structure.
+The object resisted in every direction. It felt bolted to the structure of the room, except it was in air and the room no longer had structure.
 
-Jace pulled.
-
-Something released.
+Jace heaved and the mask finally released. He was worried that he'd torn it.
 
 The mask snapped into his hands, solid and whole. He sealed it over his face. Recycled oxygen hit his throat.
 
@@ -82,7 +82,7 @@ He dragged one breath. Two.
 
 Cerberus collapsed.
 
-Jace tore off the mask and held it over the dog's muzzle. Cerberus's lungs moved in shallow bursts. Jace could see each one.
+Jace tore off the mask and held it over the dog's muzzle. Cerberus's lungs moved in shallow bursts.
 
 "Breathe. Come on."
 
@@ -90,27 +90,29 @@ Cerberus drew a deeper breath.
 
 Jace took the mask back, pulled two breaths, and returned it. They traded until his vision stopped narrowing.
 
-The dog-sized emergency mask hung beside the room hatch.
+The dog-sized emergency mask hung in the air at the foot of their bed where Cerberus normally slept.
 
 Jace reached for it.
 
 His fingers passed through the hook.
 
-He tried again. The mask looked close. Its position felt far away in a direction he could see but not name.
+He tried again. The mask looked close. Its position felt far away in a direction he could see but not name. Swapping the mask between his face and the dog, Jace examined it further. He was pushing down on the panic sensation rising in him, military training coming back to bring an intesnse focused calm.
 
-Jace fixed his attention on the straps. He imagined closing his hand around them. He pulled with his whole body while nothing moved.
+Jace fixed his attention on the straps. He imagined closing his hand around them. He pulled with his whole mind and body while nothing moved.
 
 The resistance grew.
 
-Then the mask came free.
+Then the mask tore free, like he had to pull it from the bottom of a barrel of viscous oil.
 
-Jace flew backward across the bunk. The little rig struck his chest. He sealed it around Cerberus's muzzle with shaking hands.
+Jace flew backward across the bunk. The mask harness struck his chest, completely dry. He sealed it around Cerberus's muzzle with shaking hands and returned his own.
 
 The indicator turned green.
 
 Jace lay still until both of them could breathe.
 
-His own cartridge showed two hours and seventeen minutes. Cerberus's showed two hours and twelve.
+His own cartridge showed two hours and ten minutes of air. Cerberus's showed three hours.
+
+##
 
 Survival had become a countdown.
 
@@ -122,7 +124,7 @@ The clock displayed a number that was not a time. Radio cycled between *SEARCHIN
 
 "Decline."
 
-The HUD failed to understand him.
+The HUD failed to understand him, like the microphone didn't work. It then crashed and didn't turn back on.
 
 Jace built theories because theories gave panic somewhere to stand.
 
@@ -130,7 +132,7 @@ Stroke. Radiation damage. Implant failure. Oxygen deprivation. A seizure shared 
 
 None explained the room.
 
-He needed Lanchee.
+He needed a doctor. Maybe get to Lanchee? Her clinic should be only five minutes away.
 
 Jace stood, holding Cerberus against his chest, and pressed the hatch control.
 
@@ -148,17 +150,17 @@ Jace put both palms against the hatch.
 
 "This is a bad idea."
 
-Cerberus looked through his mask with complete agreement.
+Cerberus glared through his mask with complete agreement, tail between his legs.
 
 Jace pushed.
 
-The hatch did not open. Its shape rotated away from him.
+The hatch did not open. Its shape *rotated* away from them in a new direction that he had no name for.
 
 The corridor beyond tipped into view. A new direction unfolded beside forward, backward, left, right, up, and down. His inner ear rejected it. His stomach followed.
 
 Then Jace fell through the metal.
 
-He struck the corridor floor on one knee. Cerberus remained in his arms. The hatch stood behind them without a mark.
+He struck the corridor floor on one knee, but the impact felt soft as a matress. Cerberus remained in his arms. The hatch stood behind them without a mark.
 
 Jace stared at it.
 
@@ -166,19 +168,19 @@ Jace stared at it.
 
 Cerberus shoved his nose against the mask seal.
 
-Jace fixed it.
+Jace adjusted it to improve the airflow. He found that the masks that helped you breathe at night worked very well if you felt the urge to hyperventilate.
 
 "Operational concern first. Existential concern second."
 
 The residential corridor curved around Ring Two. In the other place, the curve did not stay simple. Jace saw the hall in both directions, the rooms inside it, and distances layered beyond his normal sight.
 
-People glowed through the walls.
+People *glowed* through the walls. Behind the walls. Impossibly, life everywhere. But no one responded to them.
 
 Soft human shapes rested in bunks. Hearts pulsed. Lungs moved. Colors flowed through bodies in patterns more complex than blood vessels and less random than heat.
 
 Jace looked away.
 
-The next wall showed more sleepers.
+The next wall showed more sleepers. Some together. Friends and neighbors he had met that he thought were single were obviously not single. One bed had a surprising number of occupants.
 
 Privacy had stopped existing.
 
@@ -190,7 +192,7 @@ No one moved.
 
 A woman two rooms down sat awake with a tablet. Jace stood inside her doorway and called until his throat hurt. She scrolled without hearing him.
 
-He waved his arms across her view.
+He waved his arms across her view. He tried to touch her tablet.
 
 Nothing.
 
@@ -204,13 +206,13 @@ They walked toward the clinic.
 
 Every closed door required the same push. Each crossing twisted the station through the extra direction and dropped them into the next space. Jace learned to focus on one rivet, commit his weight, and ignore what his eyes reported.
 
-The clinic was empty.
+The clinic door wasn't there. It was a blank wall with a solar system behind it.
 
 Lanchee had moved her canister into Ring One. Jace knew that. His oxygen-starved brain had gone to the place she used to be aboard the *Falcon*, translated onto the station map, and called it a plan.
 
-His cartridge showed ninety-eight minutes.
+His air cartridge showed ninety-eight minutes.
 
-Night workers would be in the cafeteria. Someone had to be awake there.
+Night workers would be in the cafeteria near the inn. Someone had to be awake there.
 
 Jace changed direction.
 
@@ -244,7 +246,7 @@ He pushed through the final door.
 
 Torres sat at a table.
 
-The pilot glowed like the sleepers, though he was awake. He ate with one hand and scrolled a tablet with the other. Zero gravity had ruined his sleep clock exactly as promised.
+The pilot glowed like the sleepers, though he was awake. He ate with one hand and scrolled a tablet with the other. Zero gravity had ruined his sleep clock exactly as promised. He could see inside the man. His organs and skin and bones.
 
 "Torres."
 

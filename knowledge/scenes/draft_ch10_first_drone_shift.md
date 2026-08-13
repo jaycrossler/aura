@@ -76,7 +76,7 @@ The drone had collected a sealed mineral sample from a surface shuttle. Its left
 
 The sample itself weighed thirty-two kilograms. In one-third gravity, it felt manageable. Under acceleration, mass still kept the old rules. If one grip released during the lift transfer, the case could tear through the vestibule and damage a pressure door.
 
-Jace isolated D-14.
+Something felt off. Jace isolated D-14.
 
 He compared both load cells, checked the shuttle manifest, and pulled the drone's thermal history. The right cell had drifted each time the vestibule warmed after a surface cycle. A known curve should have corrected it. The curve had not loaded after last night's firmware update.
 
@@ -90,33 +90,33 @@ Kim stood behind him.
 
 "The shuttle scale matched it. The right cell drift correlated with temperature."
 
-"Why not send the drone back?"
+"Why not send the drone back to check? The bay camera doesn't have a good image."
 
-"The outer door had already closed. Reversing the cycle would cost eleven minutes and another thermal transition."
+"The outer door had already closed. Reversing the cycle would cost thirty minutes and another thermal transition."
 
 "What did you miss?"
 
 Jace looked again.
 
-The sample case's forward restraint showed a small torque mismatch.
+The sample case's forward restraint showed a small torque mismatch. He overlayed a before and after image.
 
-"Case shifted three millimeters during pickup."
+"Case shifted a few inches during during pickup."
 
-"Two point six. The cell drift did not cause that."
+"The cell drift would not cause that."
 
-Jace checked the manipulator video. The shuttle loader had seated the case at an angle.
+Jace checked the manipulator video. The shuttle loader had seated the case at an angle. It would have toppled over when re-entering gravity, possibly damaging something.
 
-"Separate issue. Same alert."
+"Looks like something fell loose from an earlier shipment, same color as the shelf so the drone didn't see it."
 
 "Good. Correct it before transfer."
 
 Kim returned to her station.
 
-Jace used the drone's manipulator to center the case. D-14 entered Ring Two six minutes later.
+Jace used the drone's manipulator to re-seat the case. D-14 entered Ring Two minutes later.
 
 He felt good about the fix for nearly an hour.
 
-At shift end, he heard his name through the equipment rack.
+At shift end, when bending over to pet Cerberus, he heard his name through the equipment rack.
 
 Kim spoke quietly to Carlos.
 
@@ -124,13 +124,15 @@ Kim spoke quietly to Carlos.
 
 Carlos said something Jace could not hear.
 
-"The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job."
+"The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job. Not now."
 
-Jace stood behind the rack with his jacket in one hand.
+Jace left quickly with Cerberus.
+
+##
 
 The honest part hurt most.
 
-Kim would have caught both faults in two minutes. Carlos would have noticed the temperature curve before it failed. Jace had spent four months as the best available engineer aboard the *Falcon* because the actual engineer was on Mars and the other three people had different jobs.
+Kim would have caught both faults. Carlos would have noticed the temperature curve before it failed. Jace had spent four months as the best available engineer aboard the *Falcon* because the actual engineer was on Mars and the other three people had different jobs.
 
 Fortuna contained specialists.
 
@@ -138,7 +140,7 @@ Jace was twenty-nine, two million tokens in debt, famous for sewage, and ordinar
 
 He walked the long route to the Barn.
 
-Cerberus kept one shoulder against his calf.
+Cerberus kept one shoulder against his calf, sensing his unhappiness.
 
 Nick found them near the noodle counter.
 
@@ -146,15 +148,15 @@ Nick found them near the noodle counter.
 
 "Do you have a microphone in Drone Ops?"
 
-"I have friends. Microphones require disclosure."
+"I have friends that sit near you. Microphones require disclosure."
 
 "That distinction will comfort the tribunal."
 
 Nick pushed a bowl toward him. Real noodles, not gray soup. Jace did not ask who paid.
 
-"Kim called Carlos mediocre for two years," Nick said. "Carlos can make four hundred drones look like one patient animal."
+"Kim called Carlos mediocre for two years," Nick said. "Carlos can make two hundred drones look like a hivemind."
 
-"She was right about my fix."
+"She was right about me."
 
 "Yes. That is why you are upset. If she were wrong, you would be angry."
 
@@ -168,23 +170,19 @@ Jace ate.
 
 Nick's hands stopped moving. The change drew more attention than any warning tone.
 
-"There is something else. Talk around the station says the Chinese contracts did not collapse on their own. Odysseus, Helena, the *Falcon* leak. People are arranging those events into sabotage because fear likes a pattern."
+"There is something else. Talk around the station about the Chinese mining contract on the Falcon ending abruptly. Odysseus, Helena, the *Falcon* leak. Now there are three missing vessels out near Jupiter."
 
 "Suzi thinks Jin has access she cannot audit."
 
-"Suzi is honest. She is not neutral."
-
-"She knows that."
-
-"Knowing helps. It does not cure."
-
 Nick leaned closer.
 
-"Watch your logs. You are new. You have an American military record, Origin access, and delivery routes through every public section. If something breaks, somebody will decide your drones were near it. Keep records cleaner than you think you need."
+"Watch your logs. You are new. You have an American military record, Origin access, and have been hanging out with a very suspicious head of security that drinks and gets loud. If something breaks, somebody will decide you were near it. Keep records cleaner than you think you need."
 
 "You expect sabotage?"
 
-"I expect frightened people to find one."
+"I expect frightened people to think accidents are something worse."
+
+##
 
 Jace opened D-14's route history.
 
@@ -222,7 +220,7 @@ Cerberus had stopped with him. The dog watched his face.
 
 The word left before the fear caught it.
 
-That night, Jace packed three survey-drone kits. He checked each battery twice. He checked the breathing seals three times.
+That night, Jace packed four boxes of survey-drones. He checked each battery twice. He checked the breathing seals multiple times.
 
 Cerberus followed every movement.
 

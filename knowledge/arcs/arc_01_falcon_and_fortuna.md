@@ -344,6 +344,10 @@ Full contracts live in the linked thread file.
 | 31 | X-07 | X | Drone Survey / Platinum Target | thread_X | ok |
 | 32 | X-08 | X | Sophia's Hull Incident / Survival Suits | thread_X | ok |
 | 33 | X-09 | X | First Successful Transport | thread_X | ok |
+| — | X-09b | X | The Composition Question — atomic-weight crossing-cost rule derived empirically | scene_notes_x09b_composition_question | pre-draft, new this pass |
+| — | X-09c | X | What Else She Can Do — superconductor telekinesis, sky-flicker observation | scene_notes_x09c_what_else_she_can_do | pre-draft, new this pass |
+| — | X-09d | X | Moving House — equipment migration, iron-heating trick | scene_notes_x09d_moving_house | pre-draft, new this pass |
+| — | X-09e | X | Sparky Comes Across — partial Astral reassembly | scene_notes_x09e_sparky_comes_across | pre-draft, new this pass |
 | 34 | X-10 | X | **NEW — proposed:** Rotating mirror light-speed experiment | thread_X | ⛔ blocked — Open Decision #8 |
 | — | L-01 | L | The Evening Run *(recurring — thread all the way through)* | thread_L | ok |
 | — | L-02 | L | The Barn Visits *(recurring)* | thread_L | ok |

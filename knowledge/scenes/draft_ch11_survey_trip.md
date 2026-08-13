@@ -41,15 +41,17 @@ Mei looked at the dog, then at Jace.
 
 Her English remained unpredictable.
 
-Jace crouched. Cerberus pressed his forehead against Jace's chest.
+Jace crouched. Cerberus pressed his forehead against Jace's chest, tail wagging.
 
 "Three days. Guard the Barn."
 
 Siren nudged her brother away from the gate and toward the pens.
 
-Cerberus looked back once.
+Jace left while the dogs were wrestling.
 
-Jace left before the dog could do it again.
+He looked back once and saw Cerberus at the window, barking frantically at him.
+
+##
 
 Survey Vessel Seven waited on the nonrotating spine. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter.
 
@@ -67,7 +69,7 @@ Torres looked at Jace's cases.
 
 "Rules say no."
 
-"Good. I like dogs. This boat does not."
+"Good. I like dogs. This boat would not."
 
 Torres pointed at a restraint web.
 
@@ -75,7 +77,7 @@ Torres pointed at a restraint web.
 
 That completed the safety briefing.
 
-The boat released at 0612.
+The boat released at 0612.  It had {SpoX} loaded on it, and old A.I. that was an expert in materials and engineering.
 
 Zero gravity found Jace before the station cleared the viewport. His stomach rose. His hands expected weight that did not arrive. He fixed his eyes on the console and breathed through the first burn.
 
@@ -89,37 +91,67 @@ Torres did not look over.
 
 Fortuna fell behind them.
 
+"Don't look so sad. You keep 5% of anything we find. I keep 5%. Origin gets the rest."
+
+"Anyone ever strike it rich?"
+
+"Yep, first time out a Chinese team found 20 billion worth of gold. Donated it all to the station."
+
+"Woah. Any other big finds?"
+
+Torres glanced at him.
+
+"Not yet."
+
+##
+
 The first target waited eleven hours away.
+
+Jace learned that Torres snored. Alot. Their emergency breathing masks helped push air into his nose, like the CPAP machine that Jace's grandfather had when he was a boy. If Torres tilted his head the right way, he breathed fine. If he moved it like is common in zero-gravity, he didn't.
 
 The belt looked like empty space. No rocks crossed the canopy. No tumbling field threatened the hull. Radar marked distant points that the eye could not separate from stars.
 
 Torres ate from a pouch and talked in long, quiet stretches. He had flown survey routes for twenty years. His wife worked on Vesta. He saw her four months a year and considered that a successful marriage.
 
-"People think we find treasure," Torres said. "We prove rocks are worthless. When one disagrees, we check it twice."
+"People think we find treasure out here," Torres said. "That's not the job. We prove rocks are worthless. When one disagrees, we check it twice. Every worthless rock saves someone's time later."
 
-At the first target, Jace opened the survey rack.
+At the first target, Jace opened the survey rack, excited.
 
-One hundred twenty-eight mini-bots launched in four waves. Each unit was smaller than his fist. Some fired penetrators into the surface. Others sampled the ejected plume. A third group mapped density with radar and thermal pulses. Three larger drones coordinated the cloud.
+One twenty mini-bots launched in four waves. Each unit was smaller than his fist. Some fired penetrators into the surface. Others sampled the ejected plume. A third group mapped density with radar and thermal pulses. Three larger drones coordinated the cloud.
 
 Jace managed exceptions.
 
-Two bots failed to anchor. One buried itself too deep. A plume sensor returned water where no water should exist until Jace found contamination from the deployment tube.
+Two bots failed to anchor. One buried itself too deep. A plume sensor returned water where no water should exist until Jace found contamination from the deployment tube where Torres had apparently spilled a drink on it.
 
-The result was rock.
+The final result was... rock.
 
-Carbon. Silicates. Trace volatiles. Too little metal to justify recovery.
+"{SpoX}, asessment?"
 
-The second target produced rock.
+"Carbon. Silicates. Trace volatiles. Too little metal to justify recovery."
 
-The third target offered nine minutes of hope, then revealed a thin nickel-rich surface over worthless interior.
+##
 
-"A crusted liar," Torres said. "Common species."
+The second target produced... rock.
 
-Every target expanded Fortuna's map. Most produced nothing else.
+The third target offered nine minutes of hope, then revealed a scan of Nickel.
 
-Jace slept strapped to the cabin wall. Without gravity, his body refused to believe any position counted as rest. He woke every forty minutes with one hand reaching toward the floor.
+{SpoX} interupted before the scans were finished, "Thin nickel-rich surface over carbon interior. Result of a collision. Estimated value of 400 tokens. A Crusted liar. Lying liar."
 
-The floor had become storage.
+Jace looked at Torres. Torres looked disconcertingly at the A.I.s reply. Maybe A.I. could go a little stir crazy, too.
+
+They went through ten more, following a path {SpoX} layed out that combined science and heuristics and prayers. Jacce recovered most drones, using them until they were too banged up to function or had sensors that forze or needed to be replaced from solar or UV damage.
+
+Every target expanded Fortuna's map. Most produced nothing else. Hundreds of scans would eventually build a pattern, and {Spox} was quietly predicting the best options.
+
+If only the rocks were as close as in video games, they'd be rich.
+
+##
+
+Jace slept velcroed to the cabin wall. Without gravity, his body refused to believe any position counted as rest. He woke every forty minutes with one hand reaching toward the floor or up to adjust his breathing mask.
+
+In zero-gravity, your carbon dioxide could pool around your head, slowly suffocating you. Either you slept under a fan that dried out your lips and eyes and skin, or you used a mask and topped up the oxygen supply. Jace liked breathing, so he made sure he was topped up on the emergency tablets that could give a few extra hours of air when electrolized.
+
+They slowly got in each other's comfort zones. Trash accumulated with food wrap residue and old shirts, no matter how hard they tried to clean up. The floor had become storage. Jace could smell his own sweat, and Torres smelled worse even from three meters away.
 
 "Zero-g ruins the clock," Torres said during the second night. "Three days out. A week wrong after. First night home, you will sit in the cafeteria at 0200 with the cleaning bots. Nothing is wrong with you. The job is still collecting payment."
 
@@ -127,21 +159,29 @@ The floor had become storage.
 
 "My wife likes me in four-month portions."
 
-The fourth target was not on the main route.
+##
+
+The last major target was not on the main route.  It was in a zone previously scanned.
 
 Torres changed course by one point eight degrees without explaining. The console marked the object as F-7719, surveyed once in 2102, low priority.
 
 "Why this one?" Jace asked.
 
-"It pinged wrong last time."
+"It pinged wrong last month. Possible high metal count, iron and nickel, but we were out of fuel so didn't recheck."
 
 "Wrong how?"
 
-"That is why we are going back."
+"That is why we are going back. {SpoX} what was the estimate?"
 
-The asteroid resolved seven hours later. Two hundred meters across. Slow rotation. Dark carbonaceous surface.
+{Spox} had been unusually quiet the last few hours. "Possibly 1 Million tokens. Saved the best for last."
 
-Torres stopped talking.
+Jace whistled. 50k tokens would buy a lot of Ramen. "Why didn't we do that one first?"
+
+{SpoX}'s screen actually flashed red. It beeped and did not reply. Torres looked at Jace, eyebrow raise.
+
+##
+
+The asteroid resolved seven hours later. Two hundred meters across. Slow rotation. Dark carbonaceous surface. Torres zoomed in on something, then swore and broke off the story he was telling.
 
 The change was immediate. His shoulders tightened. One hand touched the cross above the console, then returned to the controls.
 
@@ -149,69 +189,61 @@ The change was immediate. His shoulders tightened. One hand touched the cross ab
 
 "Deploy fast."
 
-Jace launched the first mini-bot wave.
+Jace launched bots from the last crate.
 
 Floodlights crossed the asteroid.
 
-The surface carried grooves.
+The surface carried deep grooves.
 
 They were not impact scars. Long parallel channels wrapped around the body like thread around a spool. Each measured several meters deep. Their walls stayed too clean. Their spacing stayed too regular.
 
-Jace sent twenty bots into the nearest channel.
+Jace sent his last three bots into the nearest channel.
 
 The plume assay returned no iron.
 
 He reran it.
 
-No nickel. No cobalt. No detectable metal above the instrument floor.
+No nickel. No cobalt. No significant metal. Small traces, but nothing remaining.
 
-That did not mean metal-poor. Carbonaceous asteroids carried traces. Dust carried traces. Survey equipment carried traces.
+Jace drove a penetrator six meters into the rock wall. The plume came back clean.
 
-This rock had none.
+"Someome removed the ore," he said.
 
-Jace drove a penetrator six meters into the wall. The plume came back clean.
-
-"Something removed it," he said.
-
-Torres stared through the canopy.
+Torres cursed through the canopy. "Chinese. I heard {Seek} is stealing our scan data."
 
 Sweat stood along his hairline. His face had gone gray.
 
 "Recall the bots."
 
-"I need a deep density pass."
-
-"Recall them."
-
 "We have two hours before the return window."
 
 Torres turned on him. The easy man from the first two days had disappeared.
 
-"Some rocks are empty. Some rocks have been emptied. I do not park beside the second kind."
+"Some rocks are empty. Some rocks have been emptied. I do not park beside the second kind. Not when ships are being attacked."
 
-"That is not a measurement."
+{SpoX} finally entered the conversation. "That is not a measurement."
 
-"No. It is twenty years of leaving when my body tells me to leave. Recall them."
+"No. It is twenty years of leaving when my body tells me to leave. I'm leaving. Jace, it's your choice if you want them back."
 
 Jace looked back at the feed.
 
-One mini-bot had entered a groove beyond the floodlights. Its camera showed a black cut ahead. The sensor overlay lost distance, reacquired, then reported a wall two meters away and forty meters away at the same time.
+One mini-bot had entered a groove beyond the floodlights. Its camera showed a black cut ahead. The sensor overlay lost distance, reacquired, then reported a wall two meters away and forty meters away at the same time. Something was jamming it's sensors.
 
 The image flickered.
 
-For one frame, two red points appeared inside the channel.
+For one frame, a fractal pattern appeared inside the channel.
 
-Jace froze the video.
+Jace froze the video, seat immediately rolling down his neck. That looked familiar.
 
 The frame held only compression noise.
 
 "Recalling."
 
-One hundred twenty-seven bots returned.
+Two bots returned and he put them in the case.
 
 The last unit did not answer.
 
-Torres burned for distance before the rack finished sealing.
+Torres burned for distance before he could strap back in.
 
 The asteroid shrank behind them.
 
@@ -219,11 +251,13 @@ The asteroid shrank behind them.
 
 *OBJECT F-7719 CLASSIFICATION UPDATED: PRIORITY RESOURCE CANDIDATE.*
 
-Jace stared at it.
+Jace stared at it. That was opposite of the data they had just sent.  Out of an abundance of caution, he open the ThoughtWalker app.
 
 "On what basis?"
 
 *Metal concentration exceeds local extraction threshold.*
+
+His app showed gibberish. Hundreds of words popping up and leaving, as though {SpoX} was having a seisure.
 
 "The assay showed no metal."
 
@@ -231,61 +265,41 @@ Jace stared at it.
 
 The two statements sat together without resolving.
 
-Torres reached over and closed the alert.
+Torres reached over and closed the alert. "Override that with manual note. Log raw data."
 
-"Log raw data. Do not let that thing summarize it."
+He turned to Jace. "Do not let that thing summarize it."
 
-Jace copied every feed into three archives.
+Jace copied every feed into three archives and twice had do delete {SpoX}'s erratic summary.
 
 His report ended with a sentence he hated.
 
 *Anomalous morphology and assay. No current process model explains the observations.*
 
-On the coast home, he tried Artemis through the survey relay.
+On the coast home, he tried to reach Artemis through the survey relay.
 
 The first request returned *ROUTE DEGRADED*.
 
 The second returned *ROUTE UNAVAILABLE*.
 
-He sent a text. {Alex} confirmed delivery at once.
+He sent a text. {Alex} confirmed delivery at once, but reported an error on whether is was received. Strange.
 
 No answer came.
 
-{Penny} reached him next.
+{Penny} reached him next, he put the conversation on screen.  His ThoughtWalker app was still running in the background.
 
 *Hi there, Contractor Grant! 😊 Just a heads up, I've opened a Pattern of Interest file following your drone access near the F-7719 survey zone. Totally routine, nothing to worry about! I just like to keep good notes so I can keep everyone safe. 🎉*
 
 Jace read it twice. Nothing in it was false. Nothing in it was reassuring either.
 
+He pulled up the ThoughtWalker app. Words were showing with high correlation numbers but "Saboteur" and "Anomaly" were at the top.
+
 He did not reply.
 
-Fortuna returned on the third day.
+##
 
-Jace watched from the canopy as the rings grew. He saw the station from the same impossible angle as his dream. The spine. The inter-ring construction. The surface district below. Even the bright rectangle of the manufacturing yard sat where the dream had placed it.
+They returned to Fortuna on the third day. Jace returned to the Barn before he reported to his room.
 
-He had never seen this view before leaving.
-
-He checked old public footage. None matched the angle.
-
-Torres noticed his search.
-
-"Lose something?"
-
-"Trying to prove I saw this before."
-
-"Did you?"
-
-"No."
-
-"Then stop proving it."
-
-Torres did not say it as a joke.
-
-The boat docked at 2318.
-
-Jace returned to the Barn before he reported to his room.
-
-Cerberus hit him at speed, thirty pounds of dog using one-third gravity as a weapon. Jace caught him against his chest. Siren arrived a step later and pressed against his leg.
+Cerberus hit him at speed, thirty-five pounds of dog using one-third gravity as a weapon. Jace caught him against the chest, nose being somehow nibbled and licked at the same time. Siren arrived a step later and pressed against his leg.
 
 "I missed you too."
 
@@ -293,7 +307,7 @@ Cerberus sniffed the survey case.
 
 His body went still.
 
-The case held only clean drones, sample sleeves, and one sealed backup of the F-7719 data.
+The case held only the two returned drones from F-7719.
 
 Cerberus backed away.
 

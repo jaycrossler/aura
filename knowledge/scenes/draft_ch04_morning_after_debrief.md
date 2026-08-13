@@ -4,11 +4,11 @@ name: "Chapter 4. The Morning After"
 type: chapter_draft
 book: book01
 chapter: Ch04
-scene_contract: T-03a + T-03b
+scene_contract: T-03a + T-03b + T-03c
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-11
+last_updated: 2026-08-13
 description: "Jace repairs the Falcon while suffering an unexplained post-crisis illness, then Alex fines him for the successful but prohibited argon maneuver."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
@@ -211,9 +211,23 @@ He read a little of the attached commentary before he made himself stop. Some of
 
 He closed the feed and did not check it again. There was a proud two-millimeter sleeve waiting to be welded and that problem, at least, had a right answer.
 
---
+Maureen called it crew morale. Mei called it something in Mandarin that Jace didn't ask her to translate. Whatever it was, on the third night of repairs, the four of them ended up in the galley with a trivia deck Patrick had left behind on a prior contract and nothing else to do with their hands. No HUDS or devices or contacts allowed.
 
-He and Cerberus visited the pigs on his way back from the last inspection of the sealed hatch, out of habit more than duty. The berth hadn't needed checking as Mei had cleaned it earlier. Screwdriver reached the rail first, which she never did, and pressed the flat of her snout against his knee and held it there. The rest of the six followed her over, one at a time, in the unhurried, deliberate way pigs did everything, until all six were lined along the rail leaning into him, and Jace stood there a long moment with his hand on Screwdriver's head, in a corridor that still smelled faintly of scorched insulation, and did not entirely trust himself to say anything out loud.
+Jace lost early and often. Maureen knew every question about ship mechanics and nothing else. Mei answered in short, correct bursts and otherwise watched.
+
+Lanchee won.
+
+Not narrowly. She took general science, she took history, she took two categories that had nothing to do with medicine and one obscure sports question Jace was certain no one aboard should have known. She answered fast, flat, and unbothered, the same register she used for a diagnosis.
+
+"You're good at this," Maureen said, in the tone of someone revising an opinion.
+
+"I am not, usually." Lanchee turned over the next card without looking up. "I'm just remembering things alot more lately. Space seems to clear my head."
+
+She won every round they played. Nobody suggested a rematch, and the deck went back into a drawer, and nobody aboard the *Falcon* thought about it again.
+
+##
+
+Screwdriver reached the rail first, which she never did, and pressed the flat of her snout against his knee and held it there. The rest of the six followed her over, one at a time, in the unhurried, deliberate way pigs did everything, until all six were lined along the rail leaning into him, and Jace stood there a long moment with his hand on Screwdriver's head, in a corridor that still smelled faintly of scorched insulation, and did not entirely trust himself to say anything out loud.
 
 "Yeah," he said eventually. "You're welcome."
 
@@ -244,6 +258,7 @@ Screwdriver grunted, which he chose to take as agreement.
 | NEW - Siren jumps him and licks his face once the ice is cleared | done | must_accomplish | beat1_illness_and_repairs |
 | NEW - Chapter closes on the pigs nuzzling him | done | must_accomplish | beat3_choice_and_aftermath |
 | NEW - Plumbing-crisis footage circulating on Fortuna (~15,000 views), opinion split between "saved the ship" and "reckless" | done | must_accomplish | beat4_reputation_seed |
+| NEW - One-time trivia night; Lanchee sweeps every category and deflects it as "a good week," seeding her unflagged early Will manifestation | done | must_accomplish | beat3b_trivia_night |
 
 ## Open Notes
 

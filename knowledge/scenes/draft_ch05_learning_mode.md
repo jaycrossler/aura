@@ -140,11 +140,11 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 "It worried me when the American Red party took over.  It worries me more at how much they're investing in your weapons station."
 
-"Not everyon's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans.But good news, I should be out to visit Fortuna in a couple months for a good-will conference with the Chinese officials there."
+"Not everyon's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans. But good news, I should be out to visit Fortuna in a couple months for a good-will conference with the Chinese officials there."
 
 "Isn't it a three week trip when you have to accelerate up then back down?"
 
-"We've got some new engines, so about 10 days," She said it lightly, but Jace was familiar enough with engines to know that was big news that probably would freak those same Chinese officials out when they found out. Artemis was always sneaky like that. "Speaking of your new home... Nick tell you about the missing girl yet?"
+"We've got some new engines, so about half that now," She said it lightly, but Jace was familiar enough with engines to know that was big news that probably would freak those same Chinese officials out when they found out. Artemis had always been sneaky like that. "Speaking of your new home... Nick tell you about the missing girl yet?"
 
 "Yeah."
 
@@ -152,7 +152,21 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 "Copy. One pre-owned worry, lightly used."
 
-"Oh, almost forgot. The *Falcon* is launching a supply container soon for us, a big consolidated one. I'm the receiving officer on this end, so if anything in it is broken, I will officially know exactly who to blame."
+"How'd punishment from Origin go?"
+
+Jace paused.
+
+"That bad?  You able to negotiate it down?"
+
+He grimaced. "You can't negotiate with an A.I. - it just delivered the verdict."
+
+"Sure you can. Get a J-lens. The last administration mandated that it's legal to see what an A.I. is considering when making a punitive judgement. You probably missed it when you were in the military. Here, I'll send you my favorite tool - while we aren't going through any protected networks. Happy birthday, it should even work with your military HUD."
+
+A data file came through, which he grabbed and loaded. Might be useful.
+
+"They reformatted my HUD."
+
+"Should still work, but thats what you get for violating orders. Oh, almost forgot. The *Falcon* is launching a supply container soon for us, a big consolidated one. I'm the receiving officer on this end, so if anything in it is broken, I will officially know exactly who to blame."
 
 "The cargo canisters are packed pretty tight. I'll launch it myself. Nothing will be broken."
 

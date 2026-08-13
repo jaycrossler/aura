@@ -111,11 +111,11 @@ Jace looked past her at the fleet board. "My assignment says drone operations."
 
 "You ran two drones you already knew on a ship with no competing traffic."
 
-"There were hundreds of exterior repair drones."
+"There were other exterior repair drones."
 
 "And their hive ran itself."
 
-Carlos sat two consoles away. He did not hide his smile.
+Carlos sat two consoles away. He did not hide his wince.
 
 Kim pointed at the back room. "Learn the manifest queue. Keep Things One and Two inside their assigned sectors. Come back in a month."
 
@@ -161,7 +161,7 @@ Kim left.
 
 Carlos leaned around the doorframe after she was gone. "She likes you fine."
 
-"That word has suffered enough today."
+##
 
 The Barn became Jace's evening stop.
 
@@ -205,11 +205,11 @@ Cerberus took the biscuit with great care.
 
 Hayes nodded. The arrangement became permanent without further negotiation.
 
-Nick appeared most nights. He brought coffee Jace could not afford, drank it in front of him, and explained {Aura}'s architecture until Jace threatened to leave.
+Nick appeared most evenings. He brought two coffees, handing one to Jace and never asking to be paid back. Then he explained {Aura}'s architecture until Jace felt that no coffee was worth the punishment.
 
 "You have military hardware running a bare civilian partition," Nick said on the fifth night. "It is like buying a fusion torch and using it to warm soup."
 
-"Soup is important here."
+"I like soup."
 
 "Your HUD could coordinate every sensor, app, and drone stream you own. Locally. No Origin reporting."
 
@@ -219,7 +219,7 @@ Nick appeared most nights. He brought coffee Jace could not afford, drank it in 
 
 "That is the problem."
 
-Nick pushed his glasses up. One lens had cracked since yesterday.
+Nick pushed his glasses up. One lens had cracked since yesterday. He had a habit of sitting on his glasses. Jace was printing him new lenses which had required mastering the grinding machine in the fabricator room.
 
 "{Alex} sees everything and scores you. {Penny} sees everything and opens files. {Aura} sees what you tell it to see and keeps the results on your hardware. Those are different architectures."
 

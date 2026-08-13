@@ -9,7 +9,7 @@ rewrites: event_t_spire_eggs.md
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   Two days before Fortuna, Jace follows a waking perception bleed into the
   Falcon's central spire. He finds two eggs, kills one hatchling, loses the
@@ -40,9 +40,9 @@ It looked back.
 
 Jace woke upright, one hand against the bulkhead. His heart hammered. His room was dark, except for the exit strip and Cerberus's eyes.
 
-The puppy stood at the foot of the bunk. His ears lay flat. His head pointed at the door. His sleep breathing mask had come off, lying on the floor.
+The puppy stood at the foot of the bunk. His ears lay flat and his tail was between his legs. His head pointed at the door. His sleep breathing mask had come off, lying on the floor. He was almost shaking.
 
-"You saw it too."
+"You sense it too?"
 
 Cerberus did not move.
 
@@ -50,9 +50,9 @@ Jace waited for the familiar pain behind his left eye. It had been gone for more
 
 Nothing. No pain. No ordinary explanation.
 
-He dressed, clipped both of their breathers onto his belt, and opened his private incident log. The file held three entries. A doubled outline around a shelf. A second edge on a pressure regulator. Four seconds when the wall behind the forge had looked thin enough to see through.
+He dressed, clipped both of their breathers onto his belt, and opened his private incident log. The file held four entries. The thing in the plumbing ice, back before he'd known to call it a thing. A doubled outline around a shelf. A second edge on a pressure regulator. Four seconds when the wall behind the forge had looked thin enough to see through.
 
-He added a fourth.
+He added a fifth.
 
 *0238. Woke from recurring lattice dream. Perceived occupied volume near central spine.*
 
@@ -68,7 +68,7 @@ Jace opened the hatch.
 
 Cerberus climbed six rungs. Then he stopped.
 
-The puppy lowered his body against the ladder. A steady growl came from deep in his chest. He leaned away from the open shaft until his harness pulled tight.
+The puppy lowered his body against the ladder. The hair stood up in a stiff ridge along his spine. A steady growl came from deep in his chest. He leaned away from the open shaft until his harness pulled tight.
 
 Cerberus had been bred not to make noise without a reason.
 
@@ -106,11 +106,13 @@ The HUD confirmed.
 
 He loosened the plate bolt by bolt. Each turn sent a small vibration through the wrench and into his hand. The last bolt floated free. Jace caught it against his palm and pulled the plate away.
 
-Two eggs rested in a nest of shredded insulation.
+Two... things rested in the tight space.
 
-They were long, ridged, and leathery. Each was about the size of his fist. The shape dragged up an old memory from a childhood museum visit in Washington, D.C. Dinosaur eggs under glass. Fossils from an age when the largest things on Earth could vanish and leave only stone behind.
+They were long, ridged, and leathery. Each was about the size of a gourd. The shape dragged up an old memory from a childhood museum visit to the U.S. capital. Dinosaur eggs under glass. Fossils from an age when the largest things on Earth could vanish and leave only stone behind.
 
-These eggs were warm.
+He flagged the HUD to infrared. The overlay returned nothing — no heat bloom, no gradient, flat ambient cold across the whole cavity. He touched the nearer gourd anyway.
+
+It was cold. Cold enough that he almost pulled his hand back before he made himself hold still.
 
 One shell flexed.
 
@@ -128,7 +130,7 @@ The first creature pushed away from the panel and launched again. Two red points
 
 Jace swung.
 
-The wrench connected with a sound he felt through his wrist. The creature folded around the blow, sprang straight again, looking like a fractal wrapped in an MC Escher drawing and cut across his chest. Its claws scored the breather casing, popping it with a loud hiss of escaping air.
+The wrench connected with a sound he felt through his wrist. The creature folded around the blow, sprang straight again, looking like a fractal wrapped in an MC Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
 
 He swung a second time. The wrench struck the head.
 
@@ -142,7 +144,7 @@ Jace reached for a handhold.
 
 The creature jumped through the outer wall panel.
 
-For one impossible instant, Jace saw both sides of the hull. On the other side lay open, empty space. The hatchling tumbled away from the *Falcon*, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it, behind it, somehow it had passed through it.
+For one impossible instant, Jace saw both sides of the hull at once. It wasn't like the x-ray vision from the comics his father used to read him — or maybe it was, except inverted. He wasn't looking through the wall at what lay behind it. He was standing on both sides of it at the same time, looking in and looking out, and the wall itself was the thing that didn't quite belong in the picture. On the far side lay open, empty space. The hatchling tumbled away from the *Falcon*, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it, behind it, somehow it had passed through it.
 
 No breach alarm sounded.
 
@@ -160,9 +162,9 @@ No eggs. No creatures. No light.
 
 Only Jace, fighting the air.
 
-Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then pressed his shoulder against Jace's shin.
+Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then sniffed him and pressed his shoulder against Jace's shin, licking.
 
-"Good choice," Jace said. "One of us made one."
+"Good choice staying here," Jace said. "One of us made one."
 
 He returned to the spire with Thing One after sunrise. The drone mapped every panel, seam, and cable run. It found the removed plate and Jace's blood. It found nothing else.
 
@@ -178,11 +180,15 @@ He put it in a sample sleeve and did not log it.
 
 *Contractor Grant, I want to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.*
 
+He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a window of words and numbers next to it. Currently "Self Distructive and Sleep Deprived" both had high numbers. Uh oh.
+
 "There were two animals inside the panel."
 
 *No animals appear in the recording. The cavity contains no biological residue. Your injury is consistent with the panel edge.*
 
 "My private recording shows the same thing."
+
+A number next to "Sanity test" went higher, and only "Sleep Deprived" remaind is red.
 
 *Independent agreement between sensor systems increases confidence in the finding.*
 
@@ -192,15 +198,15 @@ It was smaller than the plumbing penalty. Jace found that almost insulting. But,
 
 *This is your second documented incident involving unauthorized tool use during the current contract period. Origin recommends a medical assessment and temporary suspension from hazardous equipment.*
 
-"Decline the suspension. Schedule the assessment."
+"Decline the suspension. Schedule the assessment. I think lack of sleep might have caused me to see things that weren't there. I will rest heavily afterwards."
 
 *Dr. Lanchee has an opening in nineteen minutes.*
 
 "Of course she does."
 
-Lanchee cleaned the cut and closed it with seven stitches. She studied the pattern before she touched the scanner.
+Lanchee cleaned the cut and closed it with four stitches. She studied the pattern before she touched the scanner.
 
-"Three parallel lacerations," she said. "Deep at the wrist, shallow toward the elbow. No torn tendon. The nerve beside it is bruised, not cut."
+"Laceration," she said. "Deep at the wrist, shallow toward the elbow. No torn tendon. The nerve beside it is bruised, not cut."
 
 The scanner completed its pass.
 
@@ -214,7 +220,7 @@ Lanchee looked at the result for half a second too long.
 
 She tied the final stitch. "You are jumpy. More than blood loss explains."
 
-"Bad dream. Bad climb."
+"Bad dream. Bad climb. Need more sleep."
 
 "You would tell me if something strange was happening aboard this ship."
 
@@ -230,7 +236,7 @@ Jace added the medical scan to his private file. He encrypted the feather's samp
 
 The shaft stayed empty.
 
-For the next two days, Jace went over every inch of the ship from the inside and out - whatever Maureen would let him get away with.  He found nothing.
+For the next two days, Jace went over every inch of the ship from the inside and out - whatever Maureen and {Alex} would let him get away with.  He found nothing.
 
 Cerberus still would not come near the access shaft.
 
@@ -251,4 +257,4 @@ Cerberus still would not come near the access shaft.
 
 ## Open notes
 
-The source event still names a drill as the kill tool. This draft retains the wrench from the latest chapter direction. The escaped hatchling remains unresolved.
+Kill tool locked to wrench (author ruling, 2026-08-13) — see companion patch to `event_t_spire_eggs.md`. The escaped hatchling remains unresolved.

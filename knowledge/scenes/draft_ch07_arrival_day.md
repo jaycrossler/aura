@@ -60,7 +60,7 @@ From Maureen, this approached poetry.
 
 "Then do better work here."
 
-Jace almost told her.
+Jace almost told her about the... things.
 
 She was the one person on this voyage who had watched him make an impossible call under pressure and turn out to be right about it. In a few days she would be gone, and the *Falcon* would not be back for a year. He would still be here. So would whatever had been in that spire.
 
@@ -128,7 +128,7 @@ He also noticed a pale woman moving quickly across the far side of the bay. A br
 
 The domes of Mars had crowds, but not like this. Maybe it was the long isolated trip, maybe that the spin here was barely noticeable. It felt like Mars but more colorful and alive.
 
-Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore miner harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
+Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore mining harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
 Then Carlos rescued him.
 
@@ -168,7 +168,7 @@ Shops filled permanent walls between older canisters. Children cut across robot 
 
 "How long is each ring?" Jace asked.
 
-"About twenty minutes on foot, if no one stops you. Ring Three is only half walkable. Construction crews own the rest."
+"About twenty minutes on foot, if no one stops you. Ring Three is only half walkable. Construction crews have the rest blocked off."
 
 "The *Falcon* was only one corridor."
 
@@ -264,7 +264,7 @@ Nick looked up. Then farther up.
 
 Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
 
-Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, instant best friends.
+Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, thumbing tails and instant best friends.
 
 Nick slid onto the bench opposite Jace.
 

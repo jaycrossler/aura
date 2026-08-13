@@ -49,7 +49,7 @@ Everyone had been watching the channel. A few of her viewers sent buzzes and lik
 
 "What's a pug?"
 
-She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Looks like *them*, just no nose. And more hair. Same curly tail."
+She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Looks like *them*, just no nose. And more hair. Same curly tail. Shorter and just as stubborn."
 
 ---
 

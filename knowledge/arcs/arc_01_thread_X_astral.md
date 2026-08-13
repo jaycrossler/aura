@@ -7,7 +7,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-21
+last_updated: 2026-08-13
 description: >
   Scene contracts for Thread X — Astral exploration and the empirical derivation
   of Astral physics. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -24,6 +24,11 @@ cross_references:
   - "[[spec_astral_phenomenology]]"
   - "[[spec_crossing_mechanics]]"
   - "[[spec_astral_glow_and_signatures]]"
+  - "[[spec_dimensional_travel_mechanics]]"
+  - "[[scene_notes_x09b_composition_question]]"
+  - "[[scene_notes_x09c_what_else_she_can_do]]"
+  - "[[scene_notes_x09d_moving_house]]"
+  - "[[scene_notes_x09e_sparky_comes_across]]"
 ---
 
 # Thread X — Astral Exploration
@@ -457,6 +462,18 @@ using the camera system and telemetry they designed.
 
 ## Revision Notes (this file)
 
+- 2026-08-13: **Post-X-09 experimentation cluster added (author notes).** Four new
+  scene-note files staged, following X-09's "10x differential, don't know why" hook:
+  X-09b (The Composition Question — Sophia's physics asides + atomic-weight
+  crossing-cost rule discovered empirically via helium/lithium/carbon mass
+  experiment), X-09c (What Else She Can Do — superconductor-analogy telekinesis,
+  pen/robot demos, unexplained sky flicker/Earth-brightness/Mars-visibility
+  observations), X-09d (Moving House — equipment migration to the Astral ship,
+  workshop-automation cover, Sophia's iron-heating trick), X-09e (Sparky Comes
+  Across — partial reassembly in the Astral, thruster vs. shell crossing-cost
+  contrast). None of these resolve the 10x differential itself — that stays open.
+  See `scenes/scene_notes_x09b_composition_question.md` through
+  `scene_notes_x09e_sparky_comes_across.md`.
 - 2026-07-21: **Disclosure & Astral Sync.** Added thread-wide notes on Sophia's consent and rising-danger. Added new scenes X-03b and X-04c. Updated X-05b with day-job distraction and Nick friction. Fully revised X-05c Nick disclosure contract to be conflict-driven.
 - Migrated from `arc_01_falcon_and_fortuna.md` during the thread-split restructure.
 - X-02, X-06 flagged as incompletely retrieved — verify against source.
