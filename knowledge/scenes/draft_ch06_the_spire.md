@@ -40,7 +40,7 @@ It looked back.
 
 Jace woke upright, one hand against the bulkhead. His heart hammered. His room was dark, except for the exit strip and Cerberus's eyes.
 
-The puppy stood at the foot of the bunk. His ears lay flat. His head pointed at the door.
+The puppy stood at the foot of the bunk. His ears lay flat. His head pointed at the door. His sleep breathing mask had come off, lying on the floor.
 
 "You saw it too."
 
@@ -50,7 +50,7 @@ Jace waited for the familiar pain behind his left eye. It had been gone for more
 
 Nothing. No pain. No ordinary explanation.
 
-He dressed, clipped on his breather, and opened his private incident log. The file held three entries. A doubled outline around a shelf. A second edge on a pressure regulator. Four seconds when the wall behind the forge had looked thin enough to see through.
+He dressed, clipped both of their breathers onto his belt, and opened his private incident log. The file held three entries. A doubled outline around a shelf. A second edge on a pressure regulator. Four seconds when the wall behind the forge had looked thin enough to see through.
 
 He added a fourth.
 
@@ -128,7 +128,7 @@ The first creature pushed away from the panel and launched again. Two red points
 
 Jace swung.
 
-The wrench connected with a sound he felt through his wrist. The creature folded around the blow, sprang straight again, and cut across his chest. Its claws scored the breather casing.
+The wrench connected with a sound he felt through his wrist. The creature folded around the blow, sprang straight again, looking like a fractal wrapped in an MC Escher drawing and cut across his chest. Its claws scored the breather casing, popping it with a loud hiss of escaping air.
 
 He swung a second time. The wrench struck the head.
 
@@ -142,7 +142,7 @@ Jace reached for a handhold.
 
 The creature jumped through the outer wall panel.
 
-For one impossible instant, Jace saw both sides of the hull. On the other side lay open, empty space. The hatchling tumbled away from the *Falcon*, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it.
+For one impossible instant, Jace saw both sides of the hull. On the other side lay open, empty space. The hatchling tumbled away from the *Falcon*, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it, behind it, somehow it had passed through it.
 
 No breach alarm sounded.
 
@@ -154,7 +154,7 @@ His HUD recorded an empty hole.
 
 He watched the footage before he climbed down.
 
-The camera showed Jace opening a vacant conduit plate. It showed him recoil, strike the wall twice, and spin into the ladder. It showed his sleeve split against the panel's sharp edge. It showed him stare through a solid hull for six seconds.
+The camera showed Jace opening a vacant conduit plate. It showed him recoil, strike the wall twice, his air canister popping, and him spinning into the ladder. It showed his sleeve split against the panel's sharp edge. It showed him stare through a solid hull for twenty seconds.
 
 No eggs. No creatures. No light.
 
@@ -168,7 +168,7 @@ He returned to the spire with Thing One after sunrise. The drone mapped every pa
 
 Jace searched the floor grate beneath the shaft before leaving.
 
-A single white feather had caught behind the mesh.
+A single black, brown, and white feather had caught behind the mesh.
 
 He held it under the work light. Small. Curved. Duck.
 
@@ -188,7 +188,7 @@ He put it in a sample sleeve and did not log it.
 
 The fine appeared.
 
-It was smaller than the plumbing penalty. Jace found that almost insulting.
+It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast.  Didn't he once hear that breakfast was totally unnecessary anyway?
 
 *This is your second documented incident involving unauthorized tool use during the current contract period. Origin recommends a medical assessment and temporary suspension from hazardous equipment.*
 
@@ -230,7 +230,10 @@ Jace added the medical scan to his private file. He encrypted the feather's samp
 
 The shaft stayed empty.
 
-Cerberus still would not cross its threshold.
+For the next two days, Jace went over every inch of the ship from the inside and out - whatever Maureen would let him get away with.  He found nothing.
+
+Cerberus still would not come near the access shaft.
+
 
 ## Contract coverage
 
