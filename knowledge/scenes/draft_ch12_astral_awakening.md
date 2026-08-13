@@ -19,6 +19,8 @@ cross_references:
   - "[[spec_crossing_mechanics]]"
   - "[[spec_astral_phenomenology]]"
   - "[[char_cerberus]]"
+  - "[[location_fortuna_station]]"
+  - "[[tech_fortuna_ai_personalities]]"
   - "[[spec_audiobook_narration_style]]"
 ---
 

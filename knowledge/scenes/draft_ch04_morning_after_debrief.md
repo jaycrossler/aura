@@ -30,9 +30,9 @@ Jace woke feeling like someone had replaced his blood with warm sand.
 
 His arms shook when he pushed himself upright. Nausea rolled through him without committing to a direction. Heat pressed behind both eyes, deeper than the familiar coal from his HUD headaches. When he stood, every joint reported that it had worked the crisis without consulting him. Must be the shock of a gallon of adrenaline wearing off all at once.
 
-Cerberus lifted his head from the foot of the bunk, assessed him, and went back to sleep.
+Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest then planted his warm Belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of the short fur.
 
-"Excellent medical response."
+"Ugh. Excellent medical response."
 
 Dr. Lanchee scanned him in the corridor, and she was not gentle about it.
 

@@ -17,7 +17,9 @@ cross_references:
   - "[[arc_01_thread_A_arrival]]"
   - "[[arc_01_thread_X_astral]]"
   - "[[char_cerberus]]"
+  - "[[char_torres]]"
   - "[[location_fortuna_station]]"
+  - "[[tech_fortuna_ai_personalities]]"
   - "[[spec_audiobook_narration_style]]"
 ---
 
@@ -248,6 +250,14 @@ The second returned *ROUTE UNAVAILABLE*.
 He sent a text. {Alex} confirmed delivery at once.
 
 No answer came.
+
+{Penny} reached him next.
+
+*Hi there, Contractor Grant! 😊 Just a heads up, I've opened a Pattern of Interest file following your drone access near the F-7719 survey zone. Totally routine, nothing to worry about! I just like to keep good notes so I can keep everyone safe. 🎉*
+
+Jace read it twice. Nothing in it was false. Nothing in it was reassuring either.
+
+He did not reply.
 
 Fortuna returned on the third day.
 

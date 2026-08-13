@@ -20,6 +20,9 @@ cross_references:
   - "[[char_nick_lee]]"
   - "[[char_cerberus]]"
   - "[[char_dog_siren]]"
+  - "[[tech_fortuna_ai_personalities]]"
+  - "[[tech_seek_ai]]"
+  - "[[location_fortuna_station]]"
   - "[[spec_audiobook_narration_style]]"
 ---
 

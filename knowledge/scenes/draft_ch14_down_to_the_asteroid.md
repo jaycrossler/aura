@@ -18,7 +18,9 @@ cross_references:
   - "[[arc_01_thread_A_arrival]]"
   - "[[char_lanchee]]"
   - "[[char_sophia_lotte]]"
+  - "[[char_cerberus]]"
   - "[[location_fortuna_station]]"
+  - "[[spec_crossing_mechanics]]"
   - "[[spec_audiobook_narration_style]]"
 ---
 

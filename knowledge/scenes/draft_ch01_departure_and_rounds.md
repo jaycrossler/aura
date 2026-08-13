@@ -42,7 +42,7 @@ Mars let go of the *Falcon* the way Mars let go of everything: reluctantly, and 
 
 Jace felt the departure burn in his teeth. Nuclear drives did not roar through a ship. The movies lied about that, along with most things worth doing. The thrust pressed instead, a firm hand in the small of his back that did not get tired.
 
-He lay webbed into an acceleration couch in the number-three common module with a fifteen-pound puppy strapped to his chest. Jace had printed the harness himself after Origin Industries classified Cerberus as cargo, and cargo did not receive acceleration couches.
+He lay webbed into an acceleration couch in the common module with a fifteen-pound puppy strapped to his chest. Jace had printed the harness himself after Origin Industries classified Cerberus as cargo, and cargo did not receive acceleration couches.
 
 "You are not cargo," he told the dog.
 
@@ -68,7 +68,7 @@ Jace smiled despite himself.
 
 "That will stop being funny," Maureen said from the couch across the aisle.
 
-"The pigs?"
+"The pigs?" he asked.
 
 "The alarms." She pointed at a screen in the wall with flashing yellow alerts. Now that Jace looked, there were screens embedded in every wall. "The pigs will remain funny."
 
@@ -97,13 +97,13 @@ Cerberus ran beside him, bouncing and loping along the old worn carpet. Siren, w
 
 "You're 1 hour older than him. Get over yourself." Siren didn't even look at Jace in response.
 
-The corridor made a full circuit of the ring in about four minutes at a jog, which meant Jace spent his mornings watching the same architecture go by from a slightly different angle each lap, like a record with a scratch in it. Animals. Clinic. Wash room. His room. Mei's room. Kitchen. Cargo. Maureen's cabin. Forge. Observatory. Empty cabins. And repeat. And repeat.
+The corridor made a full circuit of the ring in about four minutes at a jog, which meant Jace spent his mornings watching the same 36 doors go by from a slightly different angle each lap, like a record with a scratch in it. Animal pods. Clinic. Wash room. His room. Mei's room. Galley. Cargo pods. Maureen's cabin. Forge. Common module. Observatory. Empty cabins. And repeat. And repeat.
 
 The *Falcon* was a spinning top pointed at their target. You could feel it rather than see it. The ring itself was the rim of a wheel, with three long spokes running inward to the spine where Patrick's nuclear drive did the actual work of moving them through space. The whole assembly spun to fake the gravity that let pigs stand up and coffee stay in its cup. When you walked the ring you were walking with your feet towards the outside of the circle, so "up" was always towards the axis shaft in the middle. The faster it spun, the more gravity. And the more nausea passengers and animals felt.
 
-Bolted and welded to the outside of the ring, wherever there was structural purchase to take the load, hung the berths and cargo canisters: shipping-container rectangular modules the size of a small apartment, standardized to an earth ocean cargo ship, a Mars train, or slot into the same mounting rails whether they carried spare panel stock or a person's entire life. Lanchee's clinic was one of those, dark and quiet at this hour, her exam table and her medical stores and a cozy appartment with a luxurious bed he'd glimpsed once all riding along on the outside of a ring nobody had designed with a doctor's office in mind. 
+Bolted and welded to the outside of the ring, wherever there was structural purchase to take the load, hung the berths and cargo canisters: 36 shipping-container rectangular modules the size of a small apartment, standardized to an earth ocean cargo ship, a Mars train, or slot into the same mounting rails whether they carried spare panel stock or a person's entire life. Lanchee's clinic was one of those, dark and quiet at this hour, her exam table and her medical stores and a cozy appartment with a luxurious bed he'd glimpsed once all riding along on the outside of a ring nobody had designed with a doctor's office in mind. 
 
-The forge and machine shop was another, two canisters welded together at 25 meters, running hot even before the ship's day officially began, with extra shielding in case anything exploded during production. Jace ran past both every four minutes, the vest making his shoulders ache in a way that felt, mercifully, like nothing at all except effort. He was getting sick of seeing the same rooms over and over for months.
+The forge and machine shop was another, two canisters connected at the ends to make a surprising long machine shop that was as long as the swim-team pool he had used growning up, running hot even before the ship's day officially began, with extra shielding in case anything exploded during production. Jace ran past both every four minutes, the vest making his shoulders ache in a way that felt, mercifully, like nothing at all except effort. Most of the cargo doors and empty berths were permanently closed this trip, so he was getting sick of seeing the same few doors over and over.
 
 Jace had been athletic and fit while in college then in the military. The Air Force had made sure of it, and he intended to still be fit on the far side of a five-year Fortuna contract that started, technically, the moment this crossing ended.
 

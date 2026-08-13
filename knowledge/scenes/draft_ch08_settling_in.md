@@ -21,6 +21,9 @@ cross_references:
   - "[[char_carlos]]"
   - "[[char_mira]]"
   - "[[char_hayes]]"
+  - "[[char_cerberus]]"
+  - "[[char_nick_lee]]"
+  - "[[location_fortuna_station]]"
   - "[[spec_audiobook_narration_style]]"
 ---
 
@@ -36,7 +39,7 @@ The first voice Jace heard on Fortuna belonged to {Alex}.
 
 Jace opened one eye.
 
-The inn room had no window. The ceiling glowed with artificial dawn. Cerberus slept across his feet with the stuffed pig under his chin.
+The inn room had no window. The ceiling glowed with artificial dawn. Cerberus slept across his feet with the stuffed pig under his chin, hair matted with dried slobber.
 
 *Items requiring attention. One, Station Safety Orientation begins in fifty-eight minutes. Two, your quarters environmental assessment is due before cycle three. Three, early contract renewal discussions are available after four hundred compliant cycles.*
 
@@ -46,9 +49,9 @@ The inn room had no window. The ceiling glowed with artificial dawn. Cerberus sl
 
 "Cancel."
 
-*Briefing cancelled. Have a productive cycle, Contractor Grant.*
+*Briefing cancelled and sent as text. Have a productive cycle, Contractor Grant.*
 
-Jace stared at the ceiling.
+Jace stared at the ceiling and pulled off his sleep breathing mask.
 
 "I miss Maureen."
 
@@ -60,7 +63,7 @@ The instructor was an educational branch of {Penny} projected on the wall as a c
 
 *One is none, two is one, three is safe.*
 
-The phrase appeared over three oxygen icons.
+The phrase appeared over three oxygen icons in three languages.
 
 "Station air, local reserve, personal breather," the room answered.
 
@@ -70,7 +73,7 @@ The phrase appeared over three oxygen icons.
 
 *Exactly. Fortuna survives because nobody believes the first green light.*
 
-Jace liked that. He disliked that an AI had said it.
+Jace liked that. He disliked that an A.I. had said it.
 
 The forge had his name on the six-to-ten schedule by the second morning. He assumed Carlos had helped until he saw the reason. Nobody wanted the slot.
 
@@ -210,7 +213,7 @@ Nick appeared most nights. He brought coffee Jace could not afford, drank it in 
 
 "Your HUD could coordinate every sensor, app, and drone stream you own. Locally. No Origin reporting."
 
-"A system-level AI would see everything."
+"A system-level A.I. would see everything."
 
 "Yes."
 
@@ -232,25 +235,25 @@ Jace did not install {Aura}.
 
 He did start running again.
 
-At 1800, residents gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn for everyone to return.
+At 1800, residents gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn where Siren came to wrestle with him until everyone returned. Over a dozen people stopped to coo and pet and just watch the dogs, who appreciated the audience.
 
 The route showed Jace how much station he did not know. Market decks above them. Transit towers between rings. Windows into crystal farms, where pale rods grew in perfect silence. Memorial posters for Helena appeared at intersections, each with the same word beneath her picture.
 
 MISSING.
 
-On the second lap, a girl stood beside one.
+On the second lap, a little girl stood beside one.
 
 Ten years old, perhaps. Dark eyes. Still hands. She watched Jace pass without looking at the runners around him.
 
-Cerberus saw her from twenty meters away.
+Cerberus had rejoined the runners but stopped when saw her from ten meters away.
 
-He stopped. His tail lowered. He stepped behind Jace's leg and refused to move.
+His tail lowered. He stepped behind Jace's leg and refused to move.
 
 The girl looked at the dog.
 
 Not frightened. Curious.
 
-Carlos came up beside Jace. "Mira. She watches. She is all right."
+One of his fellow runners came up beside Jace. "Mira. She watches. She is all right."
 
 "Cerberus likes everyone."
 
@@ -264,7 +267,7 @@ That night, Jace dreamed he stood a kilometer outside Fortuna.
 
 No suit. No cold. No air.
 
-The rings turned in front of him. He could see through every wall at once. Hundreds of sleeping people glowed inside the station, soft and warm, each exposed inside rooms that should have hidden them.
+The rings turned in front of him. He could see through every wall at once while also seeing every wall at once. It hurt his head. Hundreds of sleeping people glowed inside the station, soft and warm, each exposed inside rooms that should have hidden them.
 
 One shape did not glow.
 
@@ -274,7 +277,7 @@ Jace woke with Cerberus pressed against his side and the wall beside the bunk do
 
 The second layer stayed for four full seconds.
 
-Then it closed.
+Then it closed into the darkness of sleep.
 
 ## Contract coverage
 

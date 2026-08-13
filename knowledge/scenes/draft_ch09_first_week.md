@@ -20,6 +20,10 @@ cross_references:
   - "[[char_helena]]"
   - "[[char_jin_luong]]"
   - "[[char_mei]]"
+  - "[[char_cerberus]]"
+  - "[[char_carlos]]"
+  - "[[char_hayes]]"
+  - "[[location_fortuna_station]]"
   - "[[spec_audiobook_narration_style]]"
 ---
 

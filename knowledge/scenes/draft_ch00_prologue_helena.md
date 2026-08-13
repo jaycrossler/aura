@@ -41,24 +41,24 @@ In the Barn, she topped off a water line, scratched a goat that headbutted her w
 
 "An actual dog," Sai said.
 
-"Two dogs!" Helena said. "I've been watching the channel."
+"*Two* dogs!" Helena replied. "I've been watching the channel."
 
 Everyone had been watching the channel. A few of her viewers sent buzzes and likes indicating that they were _also_ watching the pig channel, which pulsed as warm icons on the edge of her contact lenses.
 
-"I had similar dogs when I was a girl on Earth. Pugs." Sai said in her station mix of English and Chinese.
+"I had similar dogs when I was a girl on Earth. They were Pugs." Sai said in her station mix of English and Chinese.
 
 "What's a pug?"
 
-She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Looks like them, just no nose. And more hair. Same curly tail."
+She pointed at the screen showing a wrinkle-faced puppy cocking it's head and staring up at a young opinionated goat. "Looks like *them*, just no nose. And more hair. Same curly tail."
 
 ---
 
-Below her feet, a kilometer below, through the deck and the ring structure and a lot of nothing, the asteroid turned its slow gray shoulder. Fortuna. The rock they all lived on top of, technically; lived *above*, in practice, strung on a spine of trusses with the mining district winking on its surface like a small stubborn constellation. She'd been down twice this year. She preferred it up on station, where the gravity was manufactured but the community was real.
+A kilometer below her feet, through the deck and the ring structure and a lot of nothing, the asteroid turned its slow gray shoulder. Fortuna. The rock they all lived on top of, technically lived *above*, strung on a spine of trusses with the mining district winking on its surface like a small stubborn constellation. She'd been down to the surface earlier this year. She preferred it up on station, where the gravity was manufactured but the community was real.
 
 <!-- beat:helena_prologue.beat2_yoga_class -->
 At noon she sauntered to the park on Two and taught her class under the only Oak tree within 500 million kilometers.
 
-Yoga in one-third gravity is a different discipline than the Earth and Mars videos suggest. Slower, longer, more balance needed until you sweat, and movement is amplified. The moves had started full of hand stands called Rocket Yoga back a hundred years ago in Los Angeles, then Mars added low-g gymnastics. With the station being a quarter Chinese, she'd mixed in some Tai Chi to account for the spin of the station. She always timed her classes to have the hardest moves right when the cloudscape ceiling changed scenes. Today was a heat lightning storm that soon burst into bright sunlight, complete with a pressing increase in temperature and humidity for this segment of the ring. Carlos had coded this one. No one was supposed to know what would show on any given day, but she knew all the station's secrets. She smiled to him hiding in the rear of the group, and he grinned back. Then she turned the class to face against the spin and do another painfully slow flip and he stopped grinning.
+Yoga in one-third gravity is a different discipline than the Earth and Mars videos suggest. Slower, longer, more balance needed until you sweat, and movement is amplified. The moves had started full of hand stands called Rocket Yoga back a hundred years ago in Los Angeles, then Mars added low-g gymnastics. With the station being a quarter Chinese, she'd mixed in some martial arts moves to account for the spin of the station. She always timed her classes to have the hardest moves right when the cloudscape ceiling changed scenes. Today was a heat lightning storm that soon burst into bright sunlight, complete with a pressing increase in temperature and humidity for this segment of the ring. Carlos had coded this one. No one was supposed to know what would show on any given day, but she knew all the station's secrets. She smiled to him hiding in the rear of the group, and he grinned back. Then she turned the class to face against the spin and do another painfully slow flip and he stopped grinning.
 
 Fourteen regulars on mats between the planter beds, and she took them through an hour of sweat and delicious pain. Half were pregnant, and there were two Earth-born that still flipped too hard and would crash over while trying to move into the handstands. In the station-standard low-weight gravity, anyone could do a hundred pushups, but moving fast made your limbs heavy. Lately, she felt like she could almost see the emotions radiating off of her fellow yogis. Intense calm in most, stress in some of the newer ones, worried determinism in the pregnant moms. She mentally pulled the emotions in to her, breathing hot sweaty energy back towards her class.
 

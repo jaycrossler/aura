@@ -19,7 +19,9 @@ cross_references:
   - "[[char_sophia_lotte]]"
   - "[[char_jace_apollo]]"
   - "[[char_cerberus]]"
+  - "[[char_torres]]"
   - "[[spec_crossing_mechanics]]"
+  - "[[spec_astral_phenomenology]]"
   - "[[spec_audiobook_narration_style]]"
 ---
 
