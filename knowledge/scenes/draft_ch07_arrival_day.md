@@ -32,7 +32,7 @@ cross_references:
 >
 > Jace Grant, *Fortuna notes*
 
-The *Falcon* did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart. Two large spinning metal disks any closer together was a recipe for disaster.
+The *Falcon* did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart. Two large spinning disks any closer together would have been a recipe for disaster.
 
 Cargo tugs crossed the gap in a steady line. Each tug locked onto one of the ship's thirteen-meter canisters, freed it from the ring, and carried it toward Fortuna's receiving central spire, where the spin could be matched and the canister attached to its new home. Some canisters would return to the *Falcon* after unloading to ship goods back in-system. Others had made their last voyage.
 
@@ -44,7 +44,7 @@ She stood beside Jace at the observation port while two tugs detached the canist
 
 "My home is moving," she said. "I prefer to supervise."
 
-Her opinion of him seemed to be decreasing every time they interacted.  Luckily Fortuna had a second doctor. She'd probably appreciate if he avoided her in the future.
+Her opinion of him seemed to be decreasing every time they interacted. Luckily Fortuna had a second doctor. She'd probably appreciate if he avoided her in the future.
 
 Maureen appeared at the passenger lock with a tablet under one arm and Siren at her heel.
 
@@ -82,7 +82,7 @@ Fortuna grew until the viewport could not hold it.
 
 Three rings turned around a long central spine, these ones spinning like bicycle wheels while the thick spine remained stationary. The first two wheels carried dense construction between them, a layered city of gantries, pod stacks, markets, and utility towers. Ring Three stood farther out. Half looked finished. The rest looked like someone had stopped building a ship halfway through and dared vacuum to complain. Even now, a small army of drones could be seen welding and moving around the outside.
 
-Below everything turned the asteroid, dark gray and immense. Surface factories marked it with rectangular fields of light. He couldn't see movement on it's airless surface. All the excitement was on the station.
+Below everything turned the asteroid, dark gray and immense. Surface factories marked it with rectangular fields of light. He couldn't see movement on its airless surface. All the excitement was on the station.
 
 Jace had spent four months inside the *Falcon's* single ring. A full circuit there took four minutes at a jog. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
@@ -90,7 +90,7 @@ Jace had spent four months inside the *Falcon's* single ring. A full circuit the
 
 "Most places are."
 
-She watched the station for another minute, looking anxious as they rode an elevator up the spine that turned horizontal and crossed over through a strut into the ever-increasing weight of Fortuna proper. It reminded him of a half-rememberd amusement park ride as a boy, complete with a lap harness.
+She watched the station for another minute, looking anxious as they rode an elevator up the spine that turned horizontal and crossed over through a strut into the ever-increasing weight of Fortuna proper. It reminded him of a half-remembered amusement park ride as a boy, complete with a lap harness.
 
 Siren sat beside Mei. At some point between the *Falcon* and the tug and the elevator, the dog had transferred her allegiance from Maureen to Mei with a leash and without complaint.
 
@@ -128,7 +128,7 @@ He also noticed a pale woman moving quickly across the far side of the bay. A br
 
 The domes of Mars had crowds, but not like this. Maybe it was the long isolated trip, maybe that the spin here was barely noticeable. It felt like Mars but more colorful and alive.
 
-Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore miner harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One acutally glared at him.
+Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore miner harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
 Then Carlos rescued him.
 
@@ -144,7 +144,7 @@ He offered one hand to Cerberus at nose level, and a matching one to Siren. The 
 
 "Jace, your room is already booked at the boring inn. Mei, Elder Sai is meeting you near the barn. She said she has your room ready."
 
-"There is more that one inn?"
+"There's more than one inn?"
 
 "There are two inns. Erin's is lively, inventive, and sometimes on fire. The boring inn has good food and is always clean and is never on fire. You need the boring inn."
 
@@ -152,7 +152,7 @@ He offered one hand to Cerberus at nose level, and a matching one to Siren. The 
 
 "I chose it. Origin would have assigned you to whichever bed produced the cheaper invoice."
 
-Carlos walked them through locks and through side cooridors into Ring Two. Just the novely of having side passages was glorious.
+Carlos walked them through locks and through side corridors into Ring Two. Just the novelty of having side passages was glorious.
 
 The main corridor was wide enough for three cargo carts to pass. An LED sky covered the ceiling. Slow clouds moved across artificial blue, bright enough to make Jace's body expect sunlight.  Every wall had a small panel with a sign in English, Russian, and Chinese.
 
@@ -162,7 +162,7 @@ Carlos looked up. "It's an old agreement that the U.S. signed. All signs on an A
 
 "I thought this was an international station?"
 
-"Technically. But, in reality it's an Origin station. They paid half of the trillion dollars making it. America paid a fifth, all of us co-op together to own the rest. We mostly use Tokens, but you can use old dollars if you want."
+"Technically. But in reality, it's an Origin station. They paid half of the trillion dollars making it. America paid a fifth, all of us co-op together to own the rest. We mostly use Tokens, but you can use old dollars if you want."
 
 Shops filled permanent walls between older canisters. Children cut across robot lanes and got scolded by humans and machines at the same time. Emergency masks sat behind clear panels every few meters. Jace noticed most people had one clipped to their belt just like he did, though not everyone.
 
@@ -170,7 +170,7 @@ Shops filled permanent walls between older canisters. Children cut across robot 
 
 "About twenty minutes on foot, if no one stops you. Ring Three is only half walkable. Construction crews own the rest."
 
-"The *Falcon* was only one cooridor."
+"The *Falcon* was only one corridor."
 
 "I rode the Dart up when I was a lad, similar design. Here you can get lost without changing decks. Progress."
 
@@ -278,7 +278,7 @@ Jace looked across the cafeteria. Hundreds of people. Every table carried a conv
 
 Beyond the doors, Helena's jacket waited on its hook.
 
-For one second, the wall behind Nick went faint and layered. Jace saw the corridor beyond it, glowing people walking like kaliedescopic tornadoes of color, then he blinked ane everything looked like normal.
+For one second, the wall behind Nick went faint and layered. Jace saw the corridor beyond it, glowing people walking like kaleidoscopic tornadoes of color, then he blinked and everything looked normal.
 
 Nick kept talking.
 

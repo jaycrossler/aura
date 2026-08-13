@@ -37,7 +37,7 @@ The evening run began at 1800 and did not officially exist.
 
 No signup. No route permit. No organizer. At 1758, people drifted into Ring Two wearing soft shoes and old shirts. At 1800, someone started moving. Everyone else followed.
 
-The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers. Jace joined in his second week and became the largest runner by a clear margin.
+The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers. Jace joined near the end of his first week and became the largest runner by a clear margin.
 
 He wore a weighted vest because one-third gravity did not care about his Earth muscles. Momentum still did. Every turn required planning. Every stop required more room than pride allowed.
 

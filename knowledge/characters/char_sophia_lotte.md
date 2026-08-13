@@ -9,7 +9,7 @@ species: human
 gender: female
 pronouns: she/her
 nationality: German / Alsatian (Colmar-born; German citizenship; French cultural heritage)
-date_of_birth: ~2072 (30 at Arc 1 start)
+date_of_birth: TBD (30 at Arc 1 start)
 date_of_death: alive
 birthplace: Colmar, Alsace (French territory at time of birth; the region alternates
   between French and German sovereignty every few decades; she notes this with dry amusement)

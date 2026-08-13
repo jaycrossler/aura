@@ -82,7 +82,7 @@ Maybe the robot is broken. Maybe *he* is. He stops theorizing. Conserves oxygen.
 
 The food zone. Night crews eat there; it's never truly empty. If there are people anywhere, they're there. He leans into the next sealed door, lets the rotation happen — it's getting easier, not less wrong but more automatic — and steps through.
 
-The cafeteria is bright in the overlapping way everything has been bright. He can see the prep station and through it, the storage racks beyond, the circulation air moving in slow visible rivers. At a table near the middle sits Torres — Torres, three days off the survey run, wide awake at midnight exactly as he'd predicted on the boat, his body still holding zero-g time — glowing softly, slowly forking food into his mouth, scrolling a tablet with his thumb. Jace stands two meters away and says his name. Nothing. Waves. Nothing. Torres scrolls, chews, scrolls, radiant and utterly elsewhere.
+The cafeteria is bright in the overlapping way everything has been bright. He can see the prep station and through it, the storage racks beyond, the circulation air moving in slow visible rivers. At a table near the middle sits Torres, fresh off the three-day survey run, wide awake at midnight exactly as he'd predicted on the boat, his body still holding zero-g time. He glows softly, slowly forking food into his mouth and scrolling a tablet with his thumb. Jace stands two meters away and says his name. Nothing. Waves. Nothing. Torres scrolls, chews, scrolls, radiant and utterly elsewhere.
 
 And then Jace sees her.
 

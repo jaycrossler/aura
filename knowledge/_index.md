@@ -246,8 +246,7 @@
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-07-14; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
-    - KB_CROSSREF_PATCHES.md - lines: 145; xrefs: 0; canonical: false
-    - PATCH_ch11_survey_trip.md - lines: 65; xrefs: 0; canonical: false
+    - PATCH_gpt.txt
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -320,8 +319,6 @@ These files were marked as draft or have non-canonical status and should not be 
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
 - `CLAUDE_PROJECT_INSTRUCTIONS`
-- `KB_CROSSREF_PATCHES`
-- `PATCH_ch11_survey_trip`
 - `book01-opening-notes`
 - `char_pytest_candidate_regression`
 - `draft_ch06_the_spire`

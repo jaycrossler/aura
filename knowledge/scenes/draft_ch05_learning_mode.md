@@ -126,7 +126,7 @@ Later, alone, running his thumb along the edge of the newly repaired regulator h
 <!-- beat:t03c_artemis_call.beat1_the_call -->
 ##
 
-The next day, his call window opened without warning and Artemis's face filled his HUD in real-enough time, the lag down to two seconds now, close enough for actual conversation.
+Two days later, his call window opened without warning and Artemis's face filled his HUD in real-enough time, the lag down to two seconds now, close enough for actual conversation.
 
 "There he is." Her crooked smile arrived a half-beat ahead of the rest of her face, the way it always did when she'd been saving something up. "Learning Mode himself."
 

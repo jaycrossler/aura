@@ -7,7 +7,7 @@ aliases: ["Helena", "the Yoga Teacher"]
 species: human
 gender: female
 pronouns: she/her
-approximate_age: 25 (famous as the first child born on Fortuna Station)
+approximate_age: 26 (famous as the first child born on Fortuna Station)
 status: deceased, then resurrected (disappeared; body never recovered; resurrection is a later reveal — TRUE CAUSE OF DEATH AND RESURRECTION MECHANISM ARE GM/REVEAL-LATER)
 first_appearance: Book 1, final transit week (offscreen — disappearance reported before Jace docks)
 pov_character: false

@@ -15,7 +15,7 @@ birthplace: location_mars_us_settlement (same kennel as Cerberus)
 
 # Status
 status: alive
-first_appearance: Book 1, Falcon transit (early) — she arrived at Fortuna ahead of the Falcon on a prior Origin shipment; first seen by Jace's POV on arrival
+first_appearance: Book 1, Falcon transit (early) — aboard with Cerberus from departure
 last_appearance: ongoing
 pov_character: false
 recurring: true (major)
@@ -44,7 +44,7 @@ character_arc: stable; gradually becomes the station's communal anchor
 themes_embodied: [community ownership, shared joy, animal as cultural binder]
 
 # Cross-references
-related_locations: [location_mars_us_settlement, ship_falcon (arrived separately before Jace), location_fortuna_station]
+related_locations: [location_mars_us_settlement, ship_falcon (joint transit with Cerberus), location_fortuna_station]
 related_characters: [char_jace_apollo, char_cerberus]
 related_events: [event_first_dogs_to_belt]
 last_updated: 2026-06-03
