@@ -19,6 +19,24 @@ An `_index.md` file at the repo root contains a full directory tree, periodicall
 
 `_index.md` carries per-file annotations pulled from frontmatter (`name`/`id`, `status`, `last_updated`, `type`, `description`). Treat these as a navigation aid — always confirm specifics via `project_knowledge_search` before relying on them in drafted content. Whenever you edit or create files in the knowledge base, you **must** run `python build_tree.py` inside the `knowledge/` directory to regenerate this index.
 
+### Audiobook Listening Exports
+
+The same command also regenerates plain-text listening copies of all chapter drafts:
+
+```bash
+cd knowledge
+python build_tree.py
+```
+
+- **Source files.** The exporter reads `scenes/draft_chNN_*.md` files and orders them by chapter number. Duplicate chapter numbers stop the build so that a draft cannot be selected silently.
+- **Individual output.** Each chapter becomes `scenes/chapter_text/chapter_NN.txt`.
+- **Combined output.** The default five-chapter windows become `chapters_00-04.txt`, `chapters_05-09.txt`, `chapters_10-14.txt`, and so on. The final window may contain fewer than five drafted chapters.
+- **Text cleanup.** Output keeps chapter titles, epigraphs, narration, and dialogue. It removes YAML frontmatter, Markdown markers, links, curly and square tag braces, contract-coverage tables, and open notes. AI names remain spoken as plain names, such as `Aura` rather than `{Aura}`.
+- **Listening pauses.** Paragraph breaks remain intact. Extra blank lines separate scenes and chapters without adding SSML or generator-specific tags.
+- **Generated files.** Do not hand-edit `chapter_NN.txt` or `chapters_NN-NN.txt`. Edit the source chapter and rerun the exporter. The cleanup pass removes only stale files that match those generated names and preserves other `.txt` files in `chapter_text/`.
+
+Use `python build_tree.py --chapter-text-only` to refresh listening files without rebuilding `_index.md`. Use `python build_tree.py --index-only` to rebuild the index without refreshing listening files. `--chunk-size N` changes the combined-file window size.
+
 - `sheets/` — character, ship, and object progression snapshots (`sheet_{subject_id}_{arc_slug}_{checkpoint}.md`). One file per subject per checkpoint. Never edited after creation (flagged as `immutable: true` in frontmatter). See `system_character_sheets.md` for the full system.
 
 
@@ -81,6 +99,7 @@ See `magic-systems/magic_skills_framework.md` for the full skill tree documentat
 - `magic-systems/` — magic rules, schools, practitioners (`magic_*.md`)
 - `review-queue/` — items flagged for later attention, open questions, session notes
 - `scenes/` — scene drafts (`event_*.md`), choreography (`choreo_event_*.md`), organized by book/chapter
+  - `scenes/chapter_text/` - generated plain-text chapter and multi-chapter listening exports
 - `ships/` — ship specs (`ship_*.md`)
 - `storybot/` — StoryBot chapter-generation workflow documentation (e.g. `image_generation_agent_prompt.md`)
 - `technology/` — tech specs, infrastructure (`tech_*.md`)
@@ -195,7 +214,7 @@ When asked to review a scene or chapter against arc contracts:
 - Never edit sheet files (`sheets/`) that are marked as `immutable: true` in their YAML frontmatter.
 - Keep character and location visual details aligned with `/visual_profiles/` and verify generated visuals under `/images/`.
 - Verify story and arc goals against active story specifications.
-- Always run `build_tree.py` after editing or creating files to keep `_index.md` updated.
+- Always run `build_tree.py` after editing or creating files to keep `_index.md` and audiobook listening exports updated.
 
 ## Staged Merge / Import Workflow
 

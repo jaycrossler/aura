@@ -1,9 +1,21 @@
 #!/usr/bin/env python3
 """
-Create knowledge/_index.md
+Create knowledge/_index.md and audiobook-ready chapter text exports.
 
 Run from inside the knowledge/ directory:
     cd knowledge && python3 build_tree.py
+
+Optional modes:
+    python3 build_tree.py --index-only
+    python3 build_tree.py --chapter-text-only
+    python3 build_tree.py --chunk-size 5
+
+Chapter text exports are written to scenes/chapter_text/:
+  - chapter_NN.txt contains one chapter with frontmatter, Markdown, braces,
+    contract coverage, and open notes removed.
+  - chapters_NN-NN.txt combines consecutive chapter-number windows. The
+    default five-chapter windows are 00-04, 05-09, 10-14, and so on.
+  - Blank lines provide light paragraph, scene, and chapter pauses for TTS.
 
 For every *.md file:
   - Syncs last_updated from the newest ISO date anywhere in the file
@@ -24,12 +36,15 @@ For every *.md file:
       · Sheet sequence gaps per subject
 """
 
-from pathlib import Path
+import argparse
 import re
 import datetime
+from pathlib import Path
 
 ROOT   = Path(".").resolve()          # run from inside knowledge/
 OUTPUT = ROOT.parent / "knowledge/_index.md"
+SCENES_ROOT = ROOT / "scenes"
+CHAPTER_TEXT_ROOT = SCENES_ROOT / "chapter_text"
 
 # ── Field lists ────────────────────────────────────────────────────────────
 FIELD_ORDER  = ["name", "id", "status", "canonical",
@@ -48,6 +63,172 @@ DATE_RE   = re.compile(r"\b(\d{4}-\d{2}-\d{2})\b")
 KV_RE     = re.compile(r"^(?P<k>[A-Za-z0-9_]+):\s*(?P<v>.+)$")
 # Top-level bullet: line starts with -, *, or digit+dot (no leading space)
 TOP_BULLET_RE = re.compile(r"^[-*]\s+|^\d+\.\s+")
+CHAPTER_SOURCE_RE = re.compile(r"^draft_ch(?P<number>\d{2,})_.+\.md$")
+MANAGED_CHAPTER_TEXT_RE = re.compile(
+    r"^(?:chapter_\d{2,}|chapters_\d{2,}-\d{2,})\.txt$"
+)
+CONTRACT_HEADING_RE = re.compile(
+    r"^##\s+Contract coverage\b.*$", re.IGNORECASE | re.MULTILINE
+)
+MARKDOWN_LINK_RE = re.compile(r"!?\[([^\]]*)\]\([^)]*\)")
+WIKI_LINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+HTML_TAG_RE = re.compile(r"<[^>]+>")
+INLINE_CODE_RE = re.compile(r"`([^`]*)`")
+SIMPLE_BRACKET_RE = re.compile(r"\[([^\[\]]+)\]")
+EMPHASIS_RE = re.compile(r"(?<!\w)(?:\*{1,3}|_{1,3})|(?:\*{1,3}|_{1,3})(?!\w)")
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# Audiobook chapter-text export
+# ═══════════════════════════════════════════════════════════════════════════
+
+def remove_front_matter(text: str) -> str:
+    """Return Markdown after an opening YAML frontmatter block."""
+    if not text.startswith("---"):
+        return text
+    parts = text.split("---", 2)
+    return parts[2] if len(parts) == 3 else text
+
+
+def clean_inline_markdown(text: str) -> str:
+    """Remove lightweight Markdown and story tags while retaining spoken text."""
+    text = WIKI_LINK_RE.sub(lambda m: m.group(2) or m.group(1), text)
+    text = MARKDOWN_LINK_RE.sub(lambda m: m.group(1), text)
+    text = INLINE_CODE_RE.sub(lambda m: m.group(1), text)
+    text = HTML_TAG_RE.sub("", text)
+    text = text.replace("{", "").replace("}", "")
+    text = SIMPLE_BRACKET_RE.sub(lambda m: m.group(1), text)
+    text = EMPHASIS_RE.sub("", text)
+    text = re.sub(r"[ \t]+", " ", text)
+    return text.strip()
+
+
+def chapter_markdown_to_text(markdown: str) -> str:
+    """Convert one chapter draft to lightly formatted, TTS-friendly text."""
+    body = remove_front_matter(markdown)
+    contract = CONTRACT_HEADING_RE.search(body)
+    if contract:
+        body = body[:contract.start()]
+
+    sections: list[list[str]] = [[]]
+    in_fence = False
+
+    for raw_line in body.splitlines():
+        line = raw_line.rstrip()
+
+        if line.lstrip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            cleaned = clean_inline_markdown(line)
+            if cleaned:
+                sections[-1].append(cleaned)
+            continue
+
+        if re.fullmatch(r"\s*(?:##|---|\*\s*\*\s*\*)\s*", line):
+            if any(part.strip() for part in sections[-1]):
+                sections.append([])
+            continue
+
+        heading = re.match(r"^#{1,6}\s+(.*)$", line)
+        if heading:
+            cleaned = clean_inline_markdown(heading.group(1))
+            if cleaned:
+                sections[-1].append(cleaned)
+                sections[-1].append("")
+            continue
+
+        line = re.sub(r"^\s*>\s?", "", line)
+        line = re.sub(r"^\s*(?:[-+*]|\d+[.)])\s+", "", line)
+
+        # Tables are editorial material in current chapter drafts. Contract
+        # tables have already been truncated; ignore any remaining table rows.
+        if line.strip().startswith("|") and line.strip().endswith("|"):
+            continue
+
+        cleaned = clean_inline_markdown(line)
+        sections[-1].append(cleaned)
+
+    rendered_sections: list[str] = []
+    for section in sections:
+        text = "\n".join(section)
+        text = re.sub(r"\n{3,}", "\n\n", text).strip()
+        if text:
+            rendered_sections.append(text)
+
+    # Three empty lines between scenes give common TTS tools a longer pause
+    # without introducing SSML or generator-specific pause tags.
+    return "\n\n\n\n".join(rendered_sections).strip() + "\n"
+
+
+def discover_chapter_sources(scenes_root: Path) -> list[tuple[int, Path]]:
+    """Find canonical chapter drafts by filename and reject duplicate numbers."""
+    chapters: dict[int, Path] = {}
+    for path in sorted(scenes_root.glob("draft_ch[0-9][0-9]_*.md")):
+        match = CHAPTER_SOURCE_RE.match(path.name)
+        if not match:
+            continue
+        number = int(match.group("number"))
+        if number in chapters:
+            raise ValueError(
+                f"Duplicate chapter {number}: {chapters[number].name}, {path.name}"
+            )
+        chapters[number] = path
+    return sorted(chapters.items())
+
+
+def write_if_changed(path: Path, text: str) -> None:
+    """Write generated text only when its content changed."""
+    if path.exists() and path.read_text(encoding="utf-8") == text:
+        return
+    path.write_text(text, encoding="utf-8")
+
+
+def generate_chapter_texts(
+    scenes_root: Path = SCENES_ROOT,
+    output_root: Path = CHAPTER_TEXT_ROOT,
+    chunk_size: int = 5,
+) -> tuple[int, int]:
+    """Generate individual and chunked audiobook text files."""
+    if chunk_size < 1:
+        raise ValueError("chunk_size must be at least 1")
+
+    sources = discover_chapter_sources(scenes_root)
+    output_root.mkdir(parents=True, exist_ok=True)
+
+    chapter_text: dict[int, str] = {}
+    expected_outputs: set[Path] = set()
+
+    for number, source in sources:
+        text = chapter_markdown_to_text(source.read_text(encoding="utf-8"))
+        chapter_text[number] = text
+        output_path = output_root / f"chapter_{number:02d}.txt"
+        write_if_changed(output_path, text)
+        expected_outputs.add(output_path)
+
+    chunk_count = 0
+    buckets: dict[int, list[int]] = {}
+    for number in chapter_text:
+        start = (number // chunk_size) * chunk_size
+        buckets.setdefault(start, []).append(number)
+
+    for start, numbers in sorted(buckets.items()):
+        end = start + chunk_size - 1
+        combined = "\n\n\n\n\n".join(
+            chapter_text[number].rstrip() for number in sorted(numbers)
+        ) + "\n"
+        output_path = output_root / f"chapters_{start:02d}-{end:02d}.txt"
+        write_if_changed(output_path, combined)
+        expected_outputs.add(output_path)
+        chunk_count += 1
+
+    # Remove only files owned by this generator. Preserve any hand-authored
+    # notes or other text files placed in chapter_text/.
+    for path in output_root.glob("*.txt"):
+        if MANAGED_CHAPTER_TEXT_RE.match(path.name) and path not in expected_outputs:
+            path.unlink()
+
+    return len(chapter_text), chunk_count
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -257,6 +438,39 @@ def indent(level: int) -> str:
     return "    " * level + "- "
 
 
+parser = argparse.ArgumentParser(
+    description="Rebuild the knowledge index and audiobook chapter text."
+)
+mode = parser.add_mutually_exclusive_group()
+mode.add_argument(
+    "--index-only",
+    action="store_true",
+    help="rebuild _index.md without regenerating chapter text",
+)
+mode.add_argument(
+    "--chapter-text-only",
+    action="store_true",
+    help="regenerate chapter text without rebuilding _index.md",
+)
+parser.add_argument(
+    "--chunk-size",
+    type=int,
+    default=5,
+    help="chapters per combined text file (default: 5)",
+)
+args = parser.parse_args()
+
+if not args.index_only:
+    chapter_count, chunk_count = generate_chapter_texts(chunk_size=args.chunk_size)
+    print(
+        f"Wrote audiobook text for {chapter_count} chapter(s) "
+        f"and {chunk_count} chunk(s) to {CHAPTER_TEXT_ROOT}."
+    )
+
+if args.chapter_text_only:
+    raise SystemExit(0)
+
+
 lines_out: list[str] = ["# Directory Tree\n"]
 
 # Collect data for post-walk analysis
@@ -407,4 +621,3 @@ print(f"Wrote {OUTPUT} with {len(lines_out) - 1} entries.")
 if warnings:
     warn_sections = sum(1 for w in warnings if w.startswith("### "))
     print(f"WARNING: {warn_sections} warning section(s) appended — review ## Warnings in _index.md")
-

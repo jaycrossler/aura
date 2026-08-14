@@ -147,8 +147,12 @@ python -m tools.storyops.importer <source>
 ### `knowledge/build_tree.py`
 Runs inside the `knowledge/` directory. Walks all markdown files, updates `last_updated` timestamps based on the text contents, extracts standard frontmatter metadata, and builds the auto-generated directory tree `knowledge/_index.md`. Checks for draft files, orphaned files (files not referenced in other files' `cross_references`), and progression sheet sequence gaps.
 
+The same run converts `scenes/draft_chNN_*.md` into plain-text listening files under `scenes/chapter_text/`. Individual files use `chapter_NN.txt`. Combined files use five-chapter windows such as `chapters_00-04.txt` and `chapters_05-09.txt`. The exporter removes frontmatter, Markdown markers, braces, skill brackets, contract coverage, and open notes while preserving titles, epigraphs, narration, dialogue, paragraph breaks, and longer scene pauses.
+
 ```bash
 cd knowledge && python build_tree.py
+python build_tree.py --chapter-text-only
+python build_tree.py --index-only
 ```
 
 ---
@@ -211,10 +215,11 @@ The image generation agent is guided by the prompt definition in `knowledge/stor
 knowledge/
 ├── MASTER-SYNOPSIS.md
 ├── _index.md                             # Auto-generated directory tree & file metadata index
-├── build_tree.py                         # Indexer and validator tool
+├── build_tree.py                         # Indexer, validator, and listening-text exporter
 ├── universe-spec/                        # Immutable core rules
 ├── scenes/
 │   ├── event_*.md                        # Scene narrative summaries
+│   ├── chapter_text/                     # Generated chapter and multi-chapter listening text
 │   ├── choreography/choreo_event_*.md    # Detailed scene blocking
 │   └── sensory/sensory_event_*.md        # Scene sensory primers
 ├── characters/

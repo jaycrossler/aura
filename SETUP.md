@@ -5,14 +5,14 @@
 2. Install dependencies:
    - `python -m pip install -r requirements.txt`
 3. Smoke run:
-   - `cd knowledge && python build_tree.py && cd ..`  # Rebuild knowledge index and run checks
+   - `cd knowledge && python build_tree.py && cd ..`  # Rebuild index, run checks, and refresh listening text
    - `python -m tools.storyops.observe`
    - `python -m tools.storyops.lint --profile hard_scifi_novel`
    - `python -m tools.storyops.generate`
    - `python -m tools.storyops.agents`
    - `python -m tools.storyops.publish`
 
-*Note: Whenever you modify or add any canon files under `/knowledge/`, you must run `python build_tree.py` inside the `knowledge/` directory to update the index `_index.md` and check for any staging warnings, orphaned files, or sequence gaps.*
+*Note: Whenever you modify or add any canon files under `/knowledge/`, run `python build_tree.py` inside the `knowledge/` directory. It updates `_index.md`, checks for staging warnings, orphaned files, and sequence gaps, and refreshes the plain-text chapter listening files under `scenes/chapter_text/`.*
 
 ## 2) Run on every GitHub repo change (local machine)
 Use `local_runner` from cron / Task Scheduler. It checks remote updates, fast-forwards local branch, and runs observe+lint safely.

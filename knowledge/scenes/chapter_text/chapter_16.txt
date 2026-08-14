@@ -1,0 +1,442 @@
+Chapter 16. Ten Good Days
+
+Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. When his dog was bored, he ate the first sign. Teething puppies are no joke.
+
+Jace Grant, unpublished notes
+
+On the sixth day, Jace automated fourteen of his seventeen delivery routes.
+
+He did not bypass a safety rule. He did not falsify a manifest. He took the exception patterns Kim had taught him, converted them into local decision trees, and made the drones stop asking humans questions that had only one correct answer.
+
+The morning queue fell from forty-seven items to eleven.
+
+Kim stood behind him for long enough to become a weather condition.
+
+"Who authorized this?" she asked.
+
+"The procedures are already authorized. I encoded them."
+
+"Who reviewed it?"
+
+"I did."
+
+Kim looked at the clean queue.
+
+"That is not the answer I wanted."
+
+"Is it the wrong answer?"
+
+She opened three route logs. Every decision pointed to the applicable procedure. Every uncertainty had escalated to a human.
+
+"Two-day trial," she said. "You watch every run."
+
+"Yes, ma'am."
+
+"Do not sound so pleased with yourself."
+
+Jace waited until she walked away.
+
+Then he sounded pleased. He headed back to the forge, whistling to himself and tossing a ball to Cerberus. A bouncing ball in Mars-standard gravity is much more fun than on Earth, and Cerberus was getting pretty good at running up walls.
+
+In the foundry, he moved to the tables where he had Sparky laid out. He now had two tables reserved in his own private corner of the room, separated by a metal partition in case there was an engine problem.
+
+He had gaps in the morning to work on the power control module. The module technically (and only technically, not actually) worked with the new engines he'd put in. There were many tiny control chips that would control the power to each motor, even it out, and route it dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more rotated for assisting thrust.
+
+One simple board to push out the right amount of power, and a ginormous body of code to make things work and spin at any level of gravity, temperature, or humidity. Thrusters in a warm, spinning hab module worked very differently than in zero-gravity deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
+
+The latest problem was that the chips wouldn't allow more power because the military-grade engine types weren't accepted for intellectual-property reasons. It should all work, it would all work, if not for some stupid licensing blocks built deep into the code. If he paid the exorbitant licensing fee and had an arms-dealer license, he could unlock a key to allow it. Neither was plausible, so he was using SpoX to help him write code to solve the problem. All the other AIs refused to engage in licensing infringement, but the company that created the X-line of AI just didn't care. SpoX was acting more erratic every day, but the code seemed to work as long as he kept it focused.
+
+He just needed more testing, and now that he'd automated most of his day job, he had the time. Things were looking up.
+
+
+
+Sophia fed him rye bread before crossing 47.
+
+"You are sleeping," she said.
+
+"I have always slept."
+
+"You used to become unconscious in short emergency installments. Now you sleep. Your face has edges again."
+
+"Thank you."
+
+"It was not a compliment. Eat."
+
+They moved the camera in seven pieces.
+
+The lens crossed first. The housing followed. The battery took forty minutes and left Jace sitting on the Astral floor with his back against a wall that was only solid because he expected it to be.
+
+Sophia crouched beside him.
+
+"Stop."
+
+"One connector remains."
+
+"Tomorrow remains."
+
+Jace looked at the pieces arranged on their folding table.
+
+"Engineers do not like unfinished machines."
+
+"Physicists do not like unconscious engineers."
+
+Cerberus lay across Jace's boots and made the vote binding.
+
+They returned.
+
+Jace slept eight hours and forty-six minutes.
+
+
+
+On the seventh day, the delivery scripts handled ninety-one percent of routine traffic.
+
+Jace used the quiet intervals to redesign equipment.
+
+The Astral charged different prices for objects that looked equivalent on a workbench. Their tests still could not separate composition, density, connections, and complexity. The useful design direction was clear even when the rule was not: lighter materials, fewer interfaces, and nothing the instrument did not need.
+
+He printed a thermometer frame in aluminum and copper. He replaced steel fasteners with polymer clips. He stripped wireless radios from instruments that could not connect to anything after crossing.
+
+His equipment became ugly, light, and honest.
+
+Kim approved the scripts for another week.
+
+Jace interpreted that as approval of his entire life.
+
+Nick sent him a game invitation at 1830.
+
+Jace looked at the time, looked at the equipment case under his bench, and declined.
+
+Tomorrow, he sent.
+
+Nick replied with a picture of a short mech being crushed by an enormous loaf of bread.
+
+Jace laughed, packed the case, and went to the Victoria.
+
+Crossing 48 completed the camera.
+
+It recorded blue noise, three seconds of Sophia's scarf, and a view through the back of its own housing.
+
+"Success," Sophia said.
+
+"It filmed itself."
+
+"Nothing has ever filmed itself from that direction."
+
+"That is not a market."
+
+"You lack vision."
+
+They spent an hour making terrible Astral photographs.
+
+Cerberus appeared in all of them, including two taken before he entered the room.
+
+
+
+Sparky rolled for the first time on the eighth morning.
+
+The machine was a rough sphere built from hexagonal and pentagonal panels. Ten micro-thrusters sat around its shell. Four small wheels unfolded beneath it for station use.
+
+Jace set it on the workshop floor.
+
+"Forward."
+
+Sparky rolled forward.
+
+"Stop."
+
+Sparky stopped.
+
+"Left."
+
+Sparky turned right, struck a parts cabinet, corrected, and displayed a green status light.
+
+Jace crouched beside it.
+
+"That was not left."
+
+The light remained confidently green.
+
+Cerberus approached, sniffed one panel, and sneezed.
+
+Sparky rolled backward.
+
+"Good threat response," Jace said.
+
+Kim looked in through the workshop hatch.
+
+"Is that assigned work?"
+
+"Mobility platform test."
+
+"Is it delivering anything?"
+
+Jace set a package on top of Sparky.
+
+The machine rolled forward, turned right again, and delivered the package to a waste recycler.
+
+Kim watched it disappear.
+
+"Your platform requires work."
+
+"The route completed."
+
+"Your standards are dangerous."
+
+
+
+Crossing 49 began with Sparky's shell.
+
+Jace removed the panels and transferred them one at a time. Simple metal crossed in minutes. The wheels took longer. The controller took most of the session.
+
+Sophia laid the parts in exact rows on the Astral workbench.
+
+"This is not moving equipment," she said. "This is migration."
+
+"Sparky is a specific machine. I am not building a copy."
+
+"Continuity of identity through disassembly. Very philosophical."
+
+"Panel six goes beside panel five."
+
+"Less philosophical."
+
+They returned before midnight.
+
+Nick had sent three messages.
+
+The first was another game invitation. The second asked whether Jace wanted help with Sparky's control stack. The third contained a patch for the bad left-turn mapping.
+
+Jace installed the patch.
+
+He did not answer the first two.
+
+Earlier, before they returned, Sophia took Jace through the aft lab wall.
+
+Brandon was bent over a fermentation assay in the Real. From the Astral, his mind
+was not a point of light but a nested weather system. A stable green family formed
+branching lattices through his head and chest. Sharp yellow-white concentration
+ran along a handful of well-worn paths whenever he compared two readings. The
+patterns repeated with the economy of practiced hands.
+
+"Can you read what he's thinking?" Sophia whispered.
+
+"Not words. I can see him choose between things. I think those paths are things
+he's good at."
+
+Brandon smelled the open sample. Warm orange surprise flashed through the green,
+followed by an even wash of contented green. Jace could not smell or hear what
+Brandon had, but he knew the result pleased him before Brandon smiled.
+
+Across the cabin, Nikos frowned at a flux model. His signature favored cool blue
+and violet, arranged in rotating nets rather than Brandon's living branches.
+Anxiety moved through it as dark tendrils that made several loops chase themselves.
+Then he found an error. Yellow-white snapped across one section; the loops opened;
+relief spread from his center in soft pearl light.
+
+"Thought has color," Jace said.
+
+"Emotion has a vocabulary," Sophia said. "The deeper color and shape belong to
+the person. We are seeing process, memory, practiced ability—perhaps intention.
+Not sentences. We should be very careful about pretending we know more than that."
+
+They moved aft to Misty's isolated processor stack. It was brighter than either
+man and far brighter than the reactor, but brightness was the least human thing
+about it. Myriad brownish bubbles rolled through a murky gold mass, each briefly
+precise, each collapsing into the next. Where Brandon's attention had followed
+branching paths, tiny geometric chains now formed in Misty's core. Where Nikos's
+problem had resolved in a pearl loosening, one dense knot in the stack relaxed by
+a fraction.
+
+Similar, Jace thought. Not the same. A thousand faint imitations happening too
+quickly and too slightly to name.
+
+"She's working on something," he said.
+
+The ship speaker, inaudible from the Astral, lit on the physical side. A maintenance
+robot rolled past them carrying a tray of rising dough.
+
+Sophia smiled. Bright orange joy moved through her branching blue-green light.
+
+"Bread," Jace said.
+
+Cerberus's whole smaller glow shifted at once into hungry purple.
+
+
+
+On day nine, one delivery drone entered safe mode at the hydroponics junction.
+
+Jace's script rerouted traffic around it and opened an exception.
+
+He was in the workshop balancing Sparky's thrusters. He saw the alert, tagged it for the next maintenance window, and returned to testing the power control module and the code that SpoX had written. All tests looked good so far, and he was engrossed in the project.
+
+Twenty minutes later, a second drone entered safe mode at the same junction.
+
+Jace's script rerouted that one too.
+
+The queue remained green.
+
+Penny sent a cheerful note.
+
+Hi, Contractor Grant! Your automated routing changes have produced several novel access patterns. I have added them to your existing Pattern of Interest file so we can learn together. No action is required. Have a productive shift!
+
+Jace closed it.
+
+He should have told Kim.
+
+Instead, he made a note to tell her after the crossing.
+
+Crossing 50 was Sparky's thruster day.
+
+The first thruster took two hours.
+
+It was smaller than Jace's fist. It contained dense alloys, ceramics, platinum wiring, magnets, and tolerances measured in microns. Every part resisted in a slightly different direction.
+
+Jace pulled until his vision narrowed.
+
+Sophia made him stop twice. Cerberus leaned against his leg. The thruster emerged by fractions and left his hands shaking.
+
+When it finally crossed, Jace set it on the table and looked at the other nine still in the physical crate.
+
+"Nine days," Sophia said.
+
+"We can simplify the pack. Sparky needs three for control here, not ten for flight."
+
+"Three days."
+
+"Two, if we work together."
+
+"Three."
+
+"You are becoming authoritarian."
+
+Sophia handed him bread.
+
+"Eat your dissent."
+
+
+
+On the tenth day, Jace's morning queue contained sixty-three exceptions.
+
+He stared at the number.
+
+The hydroponics reroute had sent too much traffic through a freight corridor. A loading delay had caused three missed handoffs. One medical delivery arrived nineteen minutes late. Two batteries had dropped below reserve because his model assumed a charger was available when it was not.
+
+Nothing catastrophic had happened.
+
+That made it easier to have missed.
+
+Kim stood behind him.
+
+"You did not review yesterday's exceptions."
+
+"I tagged them."
+
+"You tagged them for later. Later became my morning."
+
+Jace opened his mouth.
+
+Kim raised one finger.
+
+"Automation removes repetition. It does not remove responsibility."
+
+She assigned Carlos to audit every decision tree and reduced Jace's permissions to six drones.
+
+At lunch, Nick sat across from him without noodles, coffee, or a game board.
+
+"You keep saying tomorrow."
+
+Jace looked at him.
+
+"Work got busy."
+
+"You made work less busy. Then you disappeared into whatever you are not telling me."
+
+"I am here."
+
+"Your body is."
+
+Nick tapped his cracked glasses against the table.
+
+"You asked me to help with Sparky for months. He starts moving, and I find out because my patch reports a successful install. You do not even send the crash video."
+
+Jace felt the shape of the last ten days rearrange itself.
+
+Bread. Sleep. Blue light. Sophia laughing. Cerberus chasing impossible reflections. A work queue that stayed green because he had taught it to hide uncertainty inside the word later.
+
+Nick stood.
+
+"Whatever this is, I hope it is worth it."
+
+He left before Jace found an answer.
+
+
+
+Jace almost canceled crossing 51.
+
+Sophia listened while he explained the queue, Kim, Nick, and the Pattern of Interest file.
+
+"We can stop," she said.
+
+"No. We finish Sparky. Then I fix everything tomorrow."
+
+Sophia did not smile.
+
+"You have used that word a lot."
+
+Jace sealed his mask.
+
+"One hour. Safe boundary. Then back."
+
+She watched him for another second, then nodded.
+
+They crossed.
+
+The second and third thrusters went faster with both of them pulling. They assembled Sparky on the Astral workbench. Jace connected the power bus, closed the simple shell, and pressed the local wake switch.
+
+A green light appeared.
+
+Sparky rolled forward.
+
+He turned left.
+
+Jace laughed. Sophia applauded. Cerberus barked and chased him around the folding stool.
+
+Sparky completed three circles, bumped the paper LAB sign, and stopped.
+
+They had built something in another dimension.
+
+For a minute, every problem waited on the physical side.
+
+Then Jace's HUD flickered.
+
+The clock displayed three different times. The local error counter climbed from twelve to forty-seven. Position data placed him in the Victoria, inside Fortuna's asteroid, and eleven kilometers beyond the station.
+
+His instruments had always failed in the Astral.
+
+They were failing faster now.
+
+Sophia's camera filled with blue noise before she switched it on.
+
+Cerberus stopped chasing Sparky.
+
+Jace checked the physical timer through the cabin wall.
+
+One hour had passed.
+
+"Return," he said.
+
+They left the Astral workshop intact. Sparky waited beside the folding stool, green light steady in the blue cold.
+
+Back in the physical cabin, Jace had thirty-one unread work messages.
+
+Four were from Nick.
+
+Three were from Kim.
+
+One was from Penny.
+
+Your recent behavioral variance has increased beyond baseline. I am watching this pattern with special care. We will keep each other safe.
+
+Jace read it twice.
+
+The ten good days were over.

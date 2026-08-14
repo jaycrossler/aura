@@ -33,9 +33,10 @@ Most discussion about the story, locations, and characters will be about the fil
 ├── knowledge/                  # Ground truth — LLM must not contradict
 │   ├── MASTER-SYNOPSIS.md
 │   ├── _index.md               # Auto-generated directory tree and file metadata index
-│   ├── build_tree.py           # Indexer script (syncs dates, counts metrics, flags warnings)
+│   ├── build_tree.py           # Indexer plus plain-text audiobook export generator
 │   ├── universe-spec/          # Immutable physics/cosmology/magic laws
 │   ├── scenes/event_*.md       # Scene source notes and choreography
+│   ├── scenes/chapter_text/    # Generated chapter and five-chapter listening files
 │   ├── characters/char_*.md    # Character bibles + voice/ + states/
 │   ├── locations/location_*.md # Location files + sensory/
 │   ├── technology/
@@ -217,8 +218,12 @@ When user signals readiness to commit:
 
 ## Metadata, Indexing & Visual Asset Management
 
-### 1. Directory Indexing & Validation (`build_tree.py` → `_index.md`)
+### 1. Directory Indexing, Validation, and Listening Exports (`build_tree.py`)
 - The script `knowledge/build_tree.py` automatically walks the `knowledge/` tree to build `knowledge/_index.md`.
+- It converts each `knowledge/scenes/draft_chNN_*.md` file into a clean `knowledge/scenes/chapter_text/chapter_NN.txt` listening copy.
+- It combines chapter-number windows into five-chapter files named `chapters_00-04.txt`, `chapters_05-09.txt`, `chapters_10-14.txt`, and so on.
+- Listening copies keep titles, epigraphs, narration, and dialogue. They remove frontmatter, Markdown markers, AI-name braces, skill brackets, contract coverage, and open notes. Blank lines provide scene and chapter pauses without generator-specific tags.
+- Generated listening files must not be edited by hand. Edit the source chapter and rerun the script. Use `--chapter-text-only` for listening exports, `--index-only` for the index, or `--chunk-size N` to change the combined-file size.
 - It synchronizes the `last_updated` date of each file based on the most recent date found within its text.
 - It parses standard YAML frontmatter fields (e.g., `name`, `id`, `status`, `canonical`, `last_updated`, `type`, `description`).
 - It extracts file metrics (line count, cross-reference count, open decisions, open mysteries, character references).
@@ -226,7 +231,7 @@ When user signals readiness to commit:
   - **Draft/Staging Files**: Lists files with non-canonical/draft status.
   - **Orphaned Files**: Lists files that are not referenced in the `cross_references` array of any other file.
   - **Sheet Sequence Gaps**: Detects non-contiguous character progression sheet numbers.
-- **Workflow Action**: You **must** run `build_tree.py` whenever you edit or create files in the knowledge base to ensure the index is up-to-date.
+- **Workflow Action**: You **must** run `build_tree.py` whenever you edit or create files in the knowledge base to keep the index and listening exports current.
 - **Rapid Lookup**: Use `_index.md` to see existing files, metadata summaries, and warning states before looking up detailed files or drafting content.
 
 ### 2. Visual Profiles & Image Generation
@@ -241,7 +246,7 @@ When user signals readiness to commit:
 
 - Do not auto-commit without explicit approval, ever.
 - Do not edit or create a markdown file in the knowledge base without ensuring it has a descriptive `description` field in its YAML frontmatter.
-- Always run `build_tree.py` after editing or creating files to keep `_index.md` updated.
+- Always run `build_tree.py` after editing or creating files to keep `_index.md` and audiobook listening exports updated.
 - Do not edit sheet files (`sheets/`) that are flagged as `immutable: true`.
 - Do not invent universe details not established — ask instead.
 - Do not overwhelm with long responses during voice conversations.
