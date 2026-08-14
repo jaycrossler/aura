@@ -41,7 +41,7 @@ One sandwich existed half a meter from her hands and one dimension away.
 
 Sophia fixed her attention on it. She imagined its weight. Its crust. The thin layer of cheese between two pieces of bread. The real meat from an old cow that had passed last month and probably cost a day's salary. She drew the sandwich toward herself with the intention that had worked on paper, cloth, and the new cold-weather boots she'd had delivered.
 
-The sandwich moved the width of a fingernail. She didn't want to tear it, so readjusted her grip.
+The sandwich moved the width of a fingernail.
 
 Her arms shook anyway.
 
@@ -53,7 +53,7 @@ A dog barked.
 
 The sound struck the silent cafeteria like an explosion.
 
-Sophia lost the sandwich. It snapped back onto the physical counter. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
+Sophia lost the pull of the sandwich. It snapped back onto the physical counter, ripped in half. Her hands help a squeezed chunk of bread and cheese and meat. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
 
 A man crossed the room and caught her.
 
@@ -65,7 +65,7 @@ Not a glowing human projection. Not a physical person viewed from the other side
 
 Real.
 
-The dog arrived beside them. Short tan fur. Wrinkled expressive face. Mask over his muzzle. Tail moving.
+The dog arrived beside them. Short tan fur. Wrinkled expressive face. Mask over his muzzle. Tail oscilating.
 
 Sophia's first words to another human in the Never-Never were not historic. She had a slight French accent with something else in it.
 
@@ -83,13 +83,13 @@ Sophia started laughing.
 
 The laugh broke halfway through. Forty crossings of isolation came apart with it. She pressed one hand over her mouth and tried to stop. Tears escaped anyway.
 
-The dog sat on her foot, tail thumping.
+The dog sat on her foot, tail thumping. He was sniffing at the small piece of sandwhich still clutched in her hand.
 
-Sophia looked down. Her hand reached down and scrunched his sily ear. He leaned into her hand, sighing into his mask.
+Sophia looked down. Her hand reached down and he oushed off the mask and gingerly bit the food out of her hand. She scrunched his silky ear. He leaned into her hand, and she readjusted his mask back over his nose.
 
 "He is real."
 
-"Cerberus. Also real. I have half an hour of oxygen left."
+"Cerberus. Also real. I have half an hour of oxygen left." His voice was strained.
 
 Training returned faster than composure.
 
@@ -346,7 +346,6 @@ He probably got some sleep but every time he started to drift off he would snap 
 | Joint pull reveals Jace's abnormal transfer strength | done |
 | Sophia teaches perception control and safe return | done |
 | Physical people cannot see or hear Never-Never crossers | done |
-| Jace and Cerberus's visible cord is planted | done |
 | Fauna is not connected to the Never-Never during the first meeting | done |
 | No romance; dinner is debt and follow-up | done |
 | Post-return messages prove the event occurred | done |

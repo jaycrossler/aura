@@ -177,7 +177,7 @@ Sparky was not a machine yet. It was a direction. A compact body with swappable 
 
 Cerberus slept beneath the bench while Jace rebuilt the scorched power bus. The puppy had doubled in mass since departure and still believed his body would fit wherever his head entered.
 
-He printed a controller shell in the good space-rated polymer, which had excellent ballistic and thermal properties. It was for Sparky, eventually, once the boards and power bus agreed to coexist without making magic smoke.
+He printed a controller shell in the good space-rated polymer, which had excellent ballistic and thermal properties. It was for Sparky, eventually, once the boards and power control module agreed to coexist without making magic smoke.
 
 On good days Sparky could roll around without crashing into things. Every time he tried to make it fly, the crappy thrusters he had would pull too many amps and pop the controllers.
 

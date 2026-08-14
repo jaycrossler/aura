@@ -253,13 +253,19 @@ The place contained living things.
 
 The physical world remained solid until it did not.
 
-At the inn, Jace showered and changed. He collected Cerberus from Nick.
+##
 
-"He ate," Nick reported. "He went potty. He destroyed nothing. At 1400, he stared at the noodle shelf for forty minutes."
+At the inn, JAce he showered and changed. 
+
+He had put a new shirt and thick jacket on the print queue and picked them up, pressing them out. Looked nice. He had removed the zipper, and switched metal buttons for only simple plastic. Sophia had sent a note before with the recommendation, which normally would have sounded crazy.
+
+Looking fresh, he collected Cerberus from Nick.
+
+"Nice Look. He ate," Nick reported. "He went potty. He destroyed nothing. At 1400, he stared at the wall all day."
 
 Nick pointed.
 
-"I checked it with three sensors. The shelf remains noodles."
+"I checked it with three sensors. The wall remains inert."
 
 Jace scratched Cerberus behind the ears.
 
@@ -273,7 +279,9 @@ Nick narrowed his eyes.
 
 Jace left before Nick could begin asking better questions.
 
-Sophia waited at the cafeteria's corner table.
+##
+
+Sophia waited at the cafeteria's corner table under a sign guaranteeing privacy.
 
 In the physical world, she looked smaller. Five feet two, perhaps. Pale skin. Long brown hair held in a failing bun. A red scarf sat crooked around her neck. Six paper notebooks occupied the chair beside her.
 
@@ -319,7 +327,7 @@ Across the cafeteria, the sleeping miner's wife spoke quietly with Lanchee.
 
 Sophia slid a fresh notebook across the table.
 
-"Tomorrow," she said. "Crossing 42. Awake, prepared, and with enough air."
+"Tomorrow," she said. "Crossing 42. Awake, prepared, and with enough air for 24 hours if needed."
 
 Jace looked at Cerberus.
 

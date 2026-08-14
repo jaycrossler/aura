@@ -30,7 +30,7 @@ cross_references:
 
 # Chapter 16. Ten Good Days
 
-> *Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. The dog ate the first sign.*
+> *Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. When he dog was bored he ate the first sign. Teething puppies are no joke.*
 >
 > Jace Grant, *unpublished notes*
 
@@ -62,11 +62,21 @@ She opened three route logs. Every decision pointed to the applicable procedure.
 
 "Yes, ma'am."
 
-"Do not sound pleased."
+"Do not sound so pleased with yourself."
 
 Jace waited until she walked away.
 
-Then he sounded pleased.
+Then he sounded pleased. He headed back to the forge, whistling to himself and tossing a ball to Cerberus. A bouncing ball in Mars-standard gravity is much more fun than on Earth, and Cerberus was getting pretty good at running up walls.
+
+In the foundary, he moved to the tables he had sparky layed out on. He now had two tables reserverd, in his own private corder of the room, seperated by a metal partition just in case there was an engine problem. 
+
+He had gaps in the morning working the the power contol module. The module technically (and only technically, not actually) worked with the new engines he'd put in. There were many tine control chips that would control the power to each motor, to even it out, to route it dynamically. He had it working (again, only technically) with 6 engines that pointed up, down, and each of the four sideway directions. Two more rotating for assistng thrust. 
+
+One simple board to push out the right amount of power, and a ginormous set of programming code to make things work and spin in any level of gravity or temperature or humidity. Thrusters in a warm spinning hab module work very different than in zero-gravity deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
+
+The latest problem was that the chips wouldn't allow more power because the system types of the military-grade engines weren't accepted for Intellectual Property reasons. It should all work, it *would* all work, if not for some stupid licensing blocks built deep into the code. If he paid the exorbant licensing fee, and had an arms-dealer license, he could unlock a key to allow it. Neither was plausible, so he was using {SpoX} to help him write code to solve the problem. All the other A.I. wouldn't engage in licensing infringement, but the company that created the X-line of A.I. just didn't care. {SpoX} was acting more and more erratic every day, but the code seemed to work as long as he kept it focused. 
+
+He just needed more testing, and now that he'd automated most of his day job, he had the time. Things were looking up.
 
 ##
 
@@ -236,7 +246,7 @@ On day nine, one delivery drone entered safe mode at the hydroponics junction.
 
 Jace's script rerouted traffic around it and opened an exception.
 
-He was in the workshop balancing Sparky's thrusters. He saw the alert, tagged it for the next maintenance window, and returned to the power bus.
+He was in the workshop balancing Sparky's thrusters. He saw the alert, tagged it for the next maintenance window, and returned to testing the power control module and the code that {SpoX} had written.  All tests looked good so far, and he was engrossed in the project.
 
 Twenty minutes later, a second drone entered safe mode at the same junction.
 
