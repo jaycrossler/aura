@@ -3,9 +3,9 @@ description: "Character profile for Cerberus, a Mars-bred companion dog to Jace 
 # Identity
 id: char_cerberus
 name: Cerberus
-aliases: ["Cerb", "Cerbi", "the dog", "Dog Man's dog", "Jace's dog", "the boy" (Jace's pre-naming reference)]
+aliases: ["Cerb", "Cerbi", "the dog", "Dog Man's dog", "Jace's dog", "the boy (Jace's pre-naming reference)"]
 species: canine (Mars-bred, low-G adapted hybrid)
-breed_lineage: pug × terrier × small working-breed cross (engineered for low-G habitat over a roughly thirty-year Mars breeding program)
+breed_lineage: short-haired Puggle-derived Mars working mix (pug × beagle with terrier and small working-breed contributions, engineered for low-G habitat over a roughly thirty-year Mars breeding program)
 gender: male
 pronouns: he/him
 neutered: yes (standard for ferry transport)
@@ -66,6 +66,10 @@ last_updated: 2026-07-27
 ## Summary
 
 Cerberus is the puppy Jace purchases — at considerable expense and with considerable determination — during his Origin Industries contract negotiation. But the bond began weeks earlier, at the Mars dog breeder facility Jace started visiting during his hard months. He is the male of a litter whose mother died during or shortly after giving birth. His sister, Siren, is scheduled to ship to Fortuna Station alone as breeding stock on the Falcon, taking the place on the Origin shipment instead of her mother. He was originally slated to be sold separately on Mars, but the breeder worried that it would be traumatic for him to be seperated from his pack so young.
+
+Sophia initially identifies him as a "Mops Spitz," a popular German companion-dog
+type. Jace corrects her: Cerberus is a short-haired Puggle mix bred on Mars. The
+Mars line also includes terrier and small working-breed contributions.
 
 When Jace learns the siblings will be separated — and that their mother is dead — he cannot let it stand. The cost of purchasing Cerberus rather than simply asking to bring him along is real: a significant sum drawn against his already-desperate finances, money Jace genuinely does not have - and negotiates into his contract at a major loss (5 years of dog food, air, etc is a tangible expense, and the Origin negotiators use that to their advantage). Other belters will think he wasted his opportunity to get rich. Cerberus and his relationships will be fundamental to the station's survival later. The reader will understand before Jace does.
 

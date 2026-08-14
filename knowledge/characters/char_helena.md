@@ -65,19 +65,34 @@ Her disappearance lands very hard. She was beautiful, warm, and visibly woven in
 
 This is the forensic signature of an accidental crossing, presented to the characters as an impossibility (see the "{Aura} goes dark" section of [[spec_crossing_mechanics]]):
 
-- Her pod was **never opened** after she retired for the night. Hatch logs show her entering; nothing shows her leaving.
+- Corridor cameras show Helena walking toward her pod. Jin enters the same corridor
+  ninety seconds later. The last camera sits before the turn to her door, so neither
+  person is recorded crossing her threshold.
+- Her bracelet authorizes one ordinary door cycle. The station infers that Helena
+  entered, but the access log does not prove who crossed the threshold. No later
+  door cycle occurs.
 - **No hull breach, no EVA record, no movement-sensor track** leaving the pod.
-- Her personal **{Aura} device connected to the network as normal, then stopped transmitting at ~01:00 local** — abruptly, mid-record, with no fault code. After that: nothing. No location, no biometrics, no reconnection.
-- No video or data evidence of another person present. No struggle. No mess.
+- Her bracelet's personal **{Aura} unit completes a routine network sync from inside
+  the pod**, then stops transmitting at ~01:00 local - abruptly, mid-record, with no
+  fault code. After that: nothing. No location, no biometrics, no reconnection.
+- The plumbing controller routes shower water to her unit after the door cycle. This
+  supports the assumption that she was home without proving it.
+- No video or data evidence places another person inside. No struggle. No mess.
 - Multiple casual partners exist; all are interviewed; all are cleared by the simple fact that **no one entered or left the pod.**
 
 To investigators with no framework for crossing, this reads as a locked-room impossibility. It "demands explanation" and gets none.
 
 ### Died in the dark
 
-Helena wore her CO2-scrubbing rebreather mask (which is normal safety gear for sleeping in the belt). This bought a few hours of air on the far side after she crossed into the Astral in her sleep. However, as an untrained, terrified first-crosser in the -20°C dark, she never managed the panic-return that saves experienced practitioners. 
+Helena wore her compact CO2-scrubbing sleep rebreather, normal safety gear in the
+belt. A standard sleep cartridge carries less than an hour of oxygen after a crossing,
+not several hours. As an untrained, terrified first-crosser in the -20°C dark, she
+never managed the panic-return that saves experienced practitioners.
 
-Her room is locked, AI records shows she went in and no one else opened doors.  Jin was seen closely with her at the party, and was nearby when she dissapeared.  Her room has only her comms bracelet lying on her rumpled bed, and her breathing gear is missing.
+Her room is locked. The access, network, and plumbing systems strongly imply that she
+went inside, while the cameras stop short of proving it. Jin was close to her at the
+party and followed the same corridor ninety seconds later. Her room contains her
+comms bracelet on the rumpled bed, while her breathing gear is missing.
 
 The exact cause of her death post-crossing remains open: she either eventually suffocated once her mask's air expired or fell victim to an attack by Astral fauna.
 

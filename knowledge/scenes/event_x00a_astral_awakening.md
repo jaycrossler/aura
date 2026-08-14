@@ -48,7 +48,16 @@ The dog is limp. Lungs still moving — Jace can *see* them moving, shallow and 
 
 It isn't sustainable. Cerberus's fitted mask — the dog-sized emergency rig — hangs on its hook by the hatch, and when Jace grabs for it his fingers close on that same frosted-glass wrongness, the thing both there and not there. So he does what he did before, not understanding what he did before: he plants himself and *hauls*. The resistance is enormous, like deadlifting something bolted to the floor of the universe. And then it tears free all at once and the little mask is in his hands, solid, and he's sealing it around Cerberus's muzzle with shaking fingers, watching the cartridge indicator flick to green.
 
-He lies there a long time, one hand fisted in his dog's fur, feeling the heartbeat slow toward something survivable. Two hours, seventeen minutes on his own readout. Same window on Cerberus's pack. Not a death sentence. A countdown.
+He lies there a long time, one hand fisted in his dog's fur, feeling the heartbeat
+slow toward something survivable. His sleep cartridge shows thirty-four minutes.
+He used it on the survey mission and, exhausted, fell asleep without returning it
+to the refill rack. Cerberus's larger fitted pack shows seventy-six.
+
+Every spacer cartridge has the same recessed transfer valve on the bottom. Jace
+snaps the mask harness's short equalization hose between them and vents a measured
+share of Cerberus's reserve into his own. Children learn the maneuver in their first
+pressure drills. He stops at forty-nine minutes for himself and sixty-one for the
+dog. Not a death sentence. A countdown already running too fast.
 
 *He pulled it for me first.* The thought arrives and won't leave. The dog spent himself dragging Jace's mask across whatever gap this is, before pulling anything for himself.
 

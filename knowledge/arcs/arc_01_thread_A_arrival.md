@@ -187,32 +187,39 @@ gouges, no metal remaining. He files it without a framework.
 
 #### A-05 — Factory Floor
 
-**Summary:** Carlos shows Jace the crystal farms — form serving function at a
-scale that makes function feel like art. Jace spends an hour and comes back with
-three pages of notes about what an Astral survey instrument would need to measure.
+**Placement:** The primary Factory Four walkthrough is merged into Chapter 14. The
+K-17 physical follow-up opens Chapter 17.
+
+**Summary:** Carlos remotely guides an exhausted Jace through Factory Four and its
+crystal farms. Jace records the kilometer-wide floor, maps its chokepoints, and sees
+a residual Astral flash of crystal lattices and a broad pale volume under K-17. Eleven
+days later, Jace and Sophia ride with a groundworks crew that recovers soft silt from
+three boreholes but cannot yet prove the full basin.
 
 **Must accomplish:**
 1. The factory floor is established as a specific known space for later scenes
 2. The crystal farms read as engineering wonder
-3. Jace's Astral return visit is shown briefly and practically — notes and
-   observations, working curiosity
+3. Jace's residual Astral perception shows crystal lattices and the K-17 anomaly
+   briefly; the recorded physical map remains practical and useful
 4. Carlos's patience reads clearly — he is teaching something real without making
    it a lesson
-5. They both come down to the asteroid a week later after exploring from within the
-   Astral, to explore and see it in the Astral — riding along with another work
-   group, showing the difference between the two viewpoints
+5. Jace and Sophia return eleven days later with a groundworks survey crew, showing
+   the difference between an unexplained Astral-scale observation and cautious
+   physical evidence
 
 **Foreshadowing planted:**
 - Crystal farms in the Astral look different from physical space → seeds the drone
   survey concept that becomes X-07
 - Warehouse spine scale → Jace knows the chokepoints; pays off during the swarm
-- {SpoX} traffic patterns learned in person → relevant when {SpoX} behaves oddly pre-swarm
+- K-17's weak ground creates a future engineering setback and requires Nick to build
+  a defensible warning from ordinary sensor data
+- Factory Four traffic patterns learned in person → relevant during the surface battle
 
-**NEW — Carlos, from author notes, not yet in canon (recommend adding):**
-- Carlos is gay, married to a "big burly baker" with a shopfront near the farm
-  area, where Carlos first took Jace to eat on arrival day
-- Carlos frequently corrects Jace's mistakes but never reprimands him — quietly
-  shows a better approach. Reinforces that Jace is competent, not exceptional.
+**Carlos canon:**
+- Carlos is married to Mateo Alvarez, a large baker with a shopfront near the farm.
+  Carlos buys Jace and Mei cookies there during the arrival tour.
+- Carlos frequently corrects Jace's mistakes but never reprimands him. His teaching
+  reinforces that Jace is competent, not exceptional.
 
 ---
 

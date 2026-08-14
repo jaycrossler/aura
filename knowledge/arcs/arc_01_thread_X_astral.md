@@ -77,7 +77,13 @@ to breathe and promises to meet up tomorrow.
 13. POV exception note: The opening of this scene is a sanctioned Sophia-POV exception until Jace's arrival in the clearing. (Ruled 2026-07-19.)
 14. Sophia is trying to pull one sandwich, not a tray of food
 15. The emergency oxygen bottle takes Jace and Sophia three full minutes to pull across
-16. Jace's cartridge begins at one hour ten minutes and Cerberus's at two hours
+16. Jace's neglected sleep cartridge begins at thirty-four minutes after he fails
+    to refill it following the survey mission; Cerberus's larger cartridge begins
+    at seventy-six. Jace uses the standard recessed bottom valves and mask-harness
+    equalization hose to vent part of Cerberus's reserve into his own, leaving about
+    forty-nine minutes for Jace and sixty-one for Cerberus. After the cafeteria
+    refill, the larger supply provides about seventy minutes
+    for Jace and two hours for Cerberus.
 17. Do not connect the Falcon animals to the Astral until the end of Chapter 17
 
 **Must NOT do:**

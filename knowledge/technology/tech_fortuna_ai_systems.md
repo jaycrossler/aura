@@ -61,6 +61,9 @@ With {SpoX} offline or glitching, foremen must manually coordinate the thousands
 The humans are forced to relearn basic management, logistics, and drone piloting under extreme pressure. This period of manual operations creates intense bonding, hilarious logistical failures, and a terrifying realization of just how dependent humanity has become on its 49% partners.
 
 ## Cross-References
+- [[char_alex_ai]], [[char_spox_ai]], [[char_gem_ai]], [[char_chorus_ai]], and
+  [[char_penny_ai]] (individual council-AI character profiles)
+- [[char_seek_ai]], [[char_aura_ai]], and [[char_misty_ai]] (other recurring AI characters)
 - [[tech_fortuna_ai_personalities]] (Profiles of the five council AIs)
 - [[tech_seek_ai]] (The Chinese compliance AI, destroyed during the swarm)
 - [[location_fortuna_station]] (The station's physical layout and demographics)

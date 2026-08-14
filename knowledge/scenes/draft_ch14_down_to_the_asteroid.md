@@ -4,19 +4,23 @@ name: "Chapter 14. Down to the Asteroid"
 type: chapter_draft
 book: book01
 chapter: Ch14
-scene_contract: X-00 follow-on + A-05 setup
+scene_contract: X-00 follow-on + A-05
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
 last_updated: 2026-08-13
 description: >
   After forty minutes of sleep, Jace submits to a medical check without
-  disclosing the crossing, works his first surface shift, tests the solidity of
-  the physical world, and meets Sophia to begin planning deliberate exploration.
+  disclosing the crossing, works his first surface shift, tours Factory Four
+  with Carlos, glimpses a possible subsurface cavity, and meets Sophia to begin
+  planning deliberate exploration.
 cross_references:
+  - "[[char_aura_ai]]"
+  - "[[char_seek_ai]]"
   - "[[arc_01_thread_X_astral]]"
   - "[[arc_01_thread_A_arrival]]"
   - "[[char_lanchee]]"
+  - "[[char_carlos]]"
   - "[[char_sophia_lotte]]"
   - "[[char_cerberus]]"
   - "[[location_fortuna_station]]"
@@ -149,6 +153,20 @@ He had never stood on it.
 
 The shuttle grounded. Crew cycled through the surface lock.
 
+Across from Jace, a survey technician typed against the inside of her wrist with
+one gloved thumb. Lines assembled on the bracelet screen faster than she touched
+them. "{Aura}, keep the pressure readings, discard the suit chatter, and remind me
+which anchor failed last shift."
+
+"Anchor C-seven," her local instance said through her helmet. "I kept the argument
+about whose fault it was in a separate note."
+
+"Delete that too."
+
+"Already offered. You declined twice."
+
+The technician sighed and closed the display.
+
 Gravity measured less than one-fiftieth of Earth's. Jace took one normal step and began leaving the asteroid.
 
 The crew lead caught his elbow and pulled him back to the guide line.
@@ -210,6 +228,158 @@ He added another line.
 The skullcap stored the file locally. No AI interpreted it. No system connected it to Helena, the *Falcon*, the survey bot, or the sleeping miner.
 
 Jace had never appreciated silence more.
+
+At 1238, Carlos called.
+
+His face filled Jace's HUD until Jace pushed the video into the upper-left corner, reduced it to twelve percent, and restored the crawler diagnostics underneath.
+
+"You are on the surface," Carlos said.
+
+"Your powers of observation remain strong."
+
+"Kim said you repaired the charging frame. She also said you used the wrong fastener."
+
+"I am correcting it."
+
+"Good. You are six hundred meters from Factory Four. Go there before the shuttle returns."
+
+Jace looked across the industrial district. Three buildings could have qualified as Factory Four. Each was larger than anything Fortuna could have fit inside a ring.
+
+"Which one?"
+
+Carlos sent a route. Jace set the call to record, added full HUD telemetry, and enabled automatic transcription.
+
+"I have slept forty minutes," Jace said. "I am recording everything because I do not trust myself to remember it."
+
+Carlos considered this without offering reassurance.
+
+"Then I will say fewer things. Turn east at the blue ore bins."
+
+Jace clipped to a guide cable and pulled himself along. Carlos stayed in the corner of his vision while the route threaded between a smelter housing and stacks of raw truss sections.
+
+Factory Four stood on the asteroid like a metal country. Its roof and walls were assembled from slabs thirty meters long, each one scarred by handling equipment and patched where micrometeors had found them. The building extended almost a kilometer across the surface. Its far corners disappeared behind radiator towers and storage stacks.
+
+The west personnel lock opened on Carlos's authorization.
+
+"I thought I was not cleared for surface drones," Jace said.
+
+"You are not. You are cleared to walk through a factory while the drones avoid you. This is a different permission."
+
+Inside, the scale became harder to understand. The factory was unpressurized. Banks of lamps threw white light across ore crushers, vacuum furnaces, truss printers, machine cages, and warehouse stacks that rose five stories in one-fiftieth gravity. Overhead cranes moved on rails too far above him to look real. Hundreds of drones crossed marked lanes in steady streams.
+
+Near the southern lane, a Chinese maintenance tech ducked under a parked tug and
+said, "{Seek}, delay inspection report four by seven minutes."
+
+A precise Mandarin voice answered over his suit speaker. Jace's HUD translated:
+*Delay recorded. Explanation field remains blank.*
+
+"I am repairing it."
+
+*That is an activity, not an explanation.*
+
+The tech shut off his microphone and kept working.
+
+Most carried loads. A few cleaned the machines. Smaller units cleaned the cleaning units.
+
+"Fortuna Station is where people live," Carlos said. "This is where Fortuna works. The rings have the offices, smaller printers, and clean rooms. The asteroid has mass, heat sinks, storage, and room to make mistakes."
+
+Jace watched six ore haulers enter through the north lock. Their loads split among three processing lines without a human in sight.
+
+"How much of this do you run?"
+
+"Carlos, Kim, and nine other operators cover this district. Four more cover the orbital farms. The drones handle normal production. We handle weather, dust, broken assumptions, and anything expensive enough that the station council wants a human name beside the decision."
+
+"And I handle refrigerator parts."
+
+"You handle a small fleet in a crowded station you do not know yet. Here, a wrong route can put thirty tons of hot metal through a pressure shelter. Kim will expand your permissions when you stop needing the map."
+
+It was not a reprimand. Carlos said it while highlighting the next junction.
+
+Jace followed the western logistics spine. Two main freight lanes divided the building north to south. Three narrower cross-lanes connected the crystal bays, furnace bank, and east loading locks. The central crane rail crossed all five, making its supports natural choke points. Emergency shutters could divide the floor into six isolation zones.
+
+Jace marked each one in the HUD recording.
+
+"Why does the east freight lane bend around an empty bay?" he asked.
+
+Carlos waited.
+
+Jace enlarged the old floor plan. A straight route would have saved eighty meters per trip, which meant thousands of wasted kilometers each year.
+
+"Separate contamination loop," he said. "The empty space is not empty."
+
+"Correct. Open the inner viewing cover."
+
+Behind it, a crystal farm glowed under narrow work lights.
+
+Rows of seed rods hung inside vacuum growth chambers. Some carried clear boules longer than Jace's arm. Others held pale blue, amber, or nearly black crystals with surfaces so smooth that the chambers seemed to contain captured pieces of geometry. Manipulator arms advanced by fractions of a millimeter. Nothing vibrated. Nothing touched a growing face unless the process required it.
+
+Jace forgot his headache for several seconds.
+
+"Those are beautiful."
+
+"They are expensive," Carlos said. "Beauty is a side effect of removing defects."
+
+A palm-sized service drone crossed the bay, stopped inside an electrostatic cleaning frame, rotated through three fields, and continued only after a particle counter approved it.
+
+"The asteroid is almost two percent gravity," Carlos continued. "Enough for dust to settle. Fortuna makes dust by mining, cutting, printing, walking, and existing. The farm drones never leave this loop. Their bearings are sealed. Their manipulators clean themselves before every contact. One dirty wheel can spoil three months of growth."
+
+"Why build crystal farms here at all?"
+
+"Service access and shielding. Our best farms are free-flying, kilometers away. No floor vibration, almost no dust, and no gravity worth measuring. They also require a tug and an EVA crew when a feeder jams. Factory Four grows the crystals people need quickly. Orbit grows the ones customers will wait a year to receive."
+
+Jace leaned closer to the cover.
+
+For a fraction of a second, the chamber changed.
+
+The metal frame doubled into dim overlapping layers. Each growing crystal remained sharp, but lines of light repeated through it in ordered lattices, extending in directions the physical boule did not possess. The defects were dark interruptions. The cleanest crystal looked larger inside than outside.
+
+Then the ordinary chamber returned.
+
+Jace held still.
+
+"What did you see?" Carlos asked.
+
+"A good growth line."
+
+Carlos accepted the answer and moved on.
+
+The eastern side of Factory Four held warehouse stacks, unfinished pressure frames, and components for a future excavation complex. Jace recorded rack numbers and paths as he walked. One bridge crane, two shutter supports, and the narrow turn beside the crystal isolation bay controlled almost every route between the warehouse and the loading locks.
+
+If any of those points failed, half the floor stopped.
+
+He tagged them without knowing why the knowledge felt urgent.
+
+Near the east wall, the ground changed again.
+
+Not the floor. The rock beneath it.
+
+For one disorienting blink, Jace saw through the slab and into the asteroid. A broad pale volume spread under the future excavation markers, wider than the building and deep enough that his sense of scale failed. It did not look like solid carbonaceous rock. It looked loose, layered, almost fluid, as if a buried sea of silt had settled inside the asteroid and waited for someone to put weight on it.
+
+His HUD continued recording an ordinary metal floor.
+
+Jace stopped at marker K-17 and pinned the coordinates.
+
+"What is planned here?"
+
+"Second anchor gallery and another fabrication hall," Carlos said. "Survey drilling begins next week. Why?"
+
+Jace looked down. Solid gray plating pushed back against his boots.
+
+"The crawler tracks converged near here. I want to review the ground survey."
+
+"I will send it."
+
+Carlos did not ask Jace to explain a thought he could not yet explain. He guided him back by a different route, correcting two turns and letting Jace find the third on his own.
+
+By the time Jace reached the west lock, the recording had run for seventy-three minutes. He had marked twelve route junctions, four shutdown controls, three clean-zone boundaries, and one patch of ground that made no physical sense.
+
+Carlos's video remained in the corner.
+
+"Review it after you sleep," he said. "Factory Four will still be here."
+
+Jace looked back across the kilometer of machines and moving lights.
+
+"That is what I am worried about."
 
 Kim called from Drone Ops during the afternoon.
 
@@ -343,6 +513,12 @@ The dog put one paw on the notebook.
 | Unconscious miner with intact suit plants the next Astral threat | done |
 | Evidence, not feeling, establishes that the crossing was real | done |
 | First surface shift grounds the aftermath in engineering work | done |
+| Survey technician demonstrates private {Aura} composition through suit hardware | done |
+| Factory Four worker gives {Seek} an ordinary compliance micro-scene | done |
+| Factory Four is established as a mapped industrial space and later battle location | done |
+| Carlos teaches industrial scale and drone operations without lecturing | done |
+| Crystal farms establish physical and Astral engineering differences | done |
+| K-17 subsurface anomaly plants the Chapter 17 silt investigation | done |
 | Physical solidity testing recurs throughout the day | done |
 | Crawler navigation logs show layered geometry without explanation | done |
 | Scratched asteroid connects to transfer questions, not answers | done |

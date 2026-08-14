@@ -4,7 +4,7 @@ name: "Sleep Mask Scrubbers"
 type: technology
 status: canonical
 canonical: true
-last_updated: 2026-07-04
+last_updated: 2026-08-14
 description: >
   Standard-issue sleep respiratory mask technology used across Mars, ships, and
   belt stations. Covers normal operation, emergency-breather capability under
@@ -57,22 +57,22 @@ Every scrubber also functions as a short-duration emergency breather if the
 surrounding atmosphere fails or is lost — a hull breach, a suit failure, or
 (unknown to most users) an accidental Astral crossing.
 
-This mode relies on small electrolytic tablets loaded into the unit. When
-normal ambient air is unavailable, the tablet electrolyzes to produce
-breathable oxygen directly. Every properly maintained mask should have a fresh
-tablet loaded at all times — this is a basic-maintenance expectation, like
-checking a smoke detector battery, though not everyone is diligent about it.
+This mode relies on a compact rechargeable gas cartridge and CO2 scrubber. Every
+properly maintained mask should be returned to its refill rack after independent
+use. This is a basic-maintenance expectation, like charging an emergency lamp,
+though an exhausted spacer may postpone it and forget.
 
 **Duration depends on the environment:**
 
-- **True vacuum / complete airless environment** (e.g. a hull breach to open
-  space): a single fresh tablet supplies approximately **2–3 hours** of
-  breathable oxygen.
-- **Low-density existing atmosphere** (e.g. the Never-Never inside or near a
-  ship or station, where a small amount of physical-space air has
-  quantum-tunneled across the dimensional boundary): the same mask can extend
-  usable air to **3–6 hours**, since the mask is supplementing trace ambient
-  gas rather than manufacturing all of it from the tablet alone.
+- **True vacuum / complete airless environment:** a full standard compact cartridge
+  supplies less than one hour of independent breathing gas.
+- **Low-density existing atmosphere:** trace gas may change consumption slightly,
+  but operational planning still uses the cartridge's sub-hour rating.
+
+Cartridges have a standardized recessed transfer valve on the canister bottom,
+and mask harnesses carry a short universal equalization hose. Venting a measured
+share from a fuller donor cartridge into a depleted one is ordinary spacer practice,
+taught in basic pressure drills.
 
 This is not a rebreather with unlimited capacity — it is a genuine ticking
 clock, and belt culture generally treats "how long is your scrubber good for"
@@ -88,24 +88,22 @@ and stations in low gravity.
 ## Story Notes
 
 - Helena's case (see [[char_helena]]) hinges on mask status at the time of her
-  crossing — she was wearing hers, which is why she had hours rather than
+  crossing — she was wearing hers, which is why she had minutes rather than
   seconds before her death, and why the timeline of her disappearance makes
   sense forensically once the Astral explanation is known.
 - Jace's early accidental crossings (see [[spec_crossing_mechanics]]) rely on
   his mask being on and functional without his knowledge of why it matters.
-- Sophia can pull an extra jar of tablets into the Astral with her, but only
+- Sophia can pull extra cartridges into the Astral with her, but only
   with significant effort — bringing inert objects across is hard for her.
   Jace, once he begins deliberately practicing, finds this dramatically
-  easier, and eventually rigs multi-tablet sequential-drop canisters for
+  easier, and eventually rigs sequential canisters for
   extended air, and later still learns to pull full oxygen/nitrogen tanks
   across undetected — see [[spec_crossing_mechanics]] for the progression of
   his Astral basecamp construction.
 
 ## Cross-References
 
-- [[spec_crossing_mechanics]] (mask survival window during accidental
-  crossings; supersedes/reconciles the earlier 3–6 hour figure, which
-  described the low-density-atmosphere case specifically, not vacuum)
+- [[spec_crossing_mechanics]] (mask survival window and cartridge-transfer hardware)
 - [[char_jace_apollo]]
 - [[char_sophia_lotte]]
 - [[char_helena]]
@@ -117,15 +115,10 @@ and stations in low gravity.
 - 2026-07-04: New file. Consolidates sleep mask/scrubber mechanics previously
   scattered through spec_crossing_mechanics.md. Establishes CPAP-style
   standard-gear framing, the days-long normal-operation duration, the
-  electrolytic tablet emergency-breather mode, and the two duration figures
-  (2–3 hrs vacuum / 3–6 hrs low-density Astral air) — reconciling what had
+  emergency-breather mode and duration figures — reconciling what had
   read as a conflicting single figure in spec_crossing_mechanics.md. Added
   cross-species use (Cerberus, Siren) and forward pointer to Jace's later
   basecamp-construction air-supply progression.
 
-⚠️ FLAG for review-queue: spec_crossing_mechanics.md's existing "Open Questions"
-line — "What is the exact scrubber lifetime of the standard belt sleep mask?
-(4-8 hours is the working range)" — should be removed/resolved now that this
-file exists. Recommend a small patch to spec_crossing_mechanics.md pointing to
-tech_sleep_masks.md as the authoritative source, rather than duplicating the
-numbers in both places.
+- 2026-08-14: Replaced multi-hour emergency supplies with the canonical sub-hour
+  compact cartridge and standardized bottom-valve transfer hardware.

@@ -82,6 +82,8 @@ Jin Lóng. Tall (to her) and powerfully compact. A great body for yoga. And othe
 <!-- beat:helena_prologue.beat4_the_bar -->
 She showered. She wore the green top. She checked one more pressure seal and reported a loose ventilation cover on the way to the bar, out of pure habit, and it was fine, everything was fine, and she pushed through the door into light and noise and half the station singing something off-key, and her friends turned toward her the way flowers do. She achieved both objectives, though one of Jin's miner buddies glared at her and pulled him aside before she could convince him to take her home. She left, giddy, tipsy, and a little lonely. She turned off her feed before she got home, singing a silly little goodbye song to her viewers.
 
+Later, security would reconstruct the walk from evidence that agreed just enough to be useless. A corridor camera showed Helena heading toward her pod. Ninety seconds later, Jin entered the same corridor, then both routes passed beyond the last camera before her door. The door controller recorded one ordinary cycle under Helena's bracelet authorization. Her bracelet triggered a routine network sync from inside the pod, and the plumbing controller routed shower water to her unit. Every system reported that Helena had gone home. No camera showed her crossing the threshold.
+
 <!-- beat:helena_prologue.beat5_the_statement -->
 That party was the last anyone saw of her.
 

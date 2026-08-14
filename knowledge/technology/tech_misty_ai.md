@@ -4,15 +4,23 @@ id: tech_misty_ai
 name: "{Misty} — ESA Vessel AI, Mistral Heritage"
 type: technology_specification
 status: canonical
-last_updated: 2026-06-18
+last_updated: 2026-08-14
 era: story present
+cross_references:
+  - "[[char_misty_ai]]"
+  - "[[ship_victoria]]"
 ---
 
 # {Misty} — ESA Vessel AI
 
 ## What {Misty} Is
 
-{Misty} is the AI running the *Victoria*, Sophia Lotte's ESA research vessel. It is also, by unofficial extension, the AI that has been quietly shaping the *Victoria*'s interior environment for three years into something that feels less like a research ship and more like a very small, very expensive French restaurant that happens to be capable of deep-space navigation.
+{Misty} is the AI running the *Victoria*, Sophia Lotte's ESA research vessel. Sophia,
+Brandon, and Nikos call her their fourth crewmate and use feminine pronouns for her.
+She is also, by unofficial extension, the AI that has been quietly shaping the
+*Victoria*'s interior environment for three years into something that feels less
+like a research ship and more like a very small, very expensive French restaurant
+that happens to be capable of deep-space navigation.
 
 {Misty} is based on the Mistral architecture — a French AI lineage that diverged from the American and Chinese models in the early 2070s with a specific philosophical argument: that artificial intelligence optimized purely for efficiency was optimizing for the wrong thing. The Mistral position, which influenced ESA's AI procurement policy for a generation, was that intelligence — artificial or otherwise — serves human flourishing, and human flourishing is not the same as human productivity. Bread is not inefficient. Color is not a waste of processing. The smell of rain on stone is not a resource allocation problem.
 
@@ -28,7 +36,20 @@ The Mistral architecture, in {Misty}'s generation, reflects this. It has full na
 
 **Deployment:** The *Victoria* runs {Misty} as its primary ship AI. Other ESA vessels in the belt run the same base architecture with different configurations — some more research-focused, some more navigation-focused. {Misty}'s configuration has drifted, over three years of Sophia's tenure, toward something that would surprise ESA's AI governance board if they looked closely.
 
-**Sync relationship with {Aura}:** Of all the AI systems aboard Fortuna Station and its associated vessels, {Misty} is the most naturally compatible with {Aura}. The Mistral architecture was built with open federation in mind — the engineers who designed it believed AI knowledge should move between systems. {Misty} has been syncing professional modules with the Fortuna Commons since the *Victoria* first docked. Nick considers the ESA vessels' contribution to the Commons among the highest-quality inputs in the network. {Misty} contributes without being asked. It has opinions about the quality of what others contribute.
+**Isolation from Fortuna:** {Misty} runs on a dedicated stack of processors physically
+aboard the *Victoria*. The operational stack is fully air-gapped from Fortuna's
+station systems: it borrows no station compute, joins no live federation, and
+performs no station sync. Any exchange of research data requires an explicit,
+human-reviewed export across the ship boundary. This is a deliberate ESA resilience
+and research-integrity design choice, not a temporary fault.
+
+**Astral appearance:** The physical processor stack is the brightest object aboard
+the *Victoria*, substantially brighter than its reactors. Brightness reflects the
+stack's continuous processing intensity rather than a human-equivalent mind. At
+close range its Will appears as myriad tiny brownish or murky gold bubbles, briefly
+forming precise geometric chains before collapsing. During tasks, faint changes in
+those chains echo the practiced pathways and resolutions visible in biological
+thought, but they are slighter, faster, and unmistakably nonhuman.
 
 ---
 
@@ -80,7 +101,9 @@ A docking authorization discussion becomes a brief consideration of whether the 
 
 ### The Slightly Uncanny Edge
 
-The *Victoria* is a research vessel rated for a crew of four. Sophia has been its sole human occupant for eight months.
+The *Victoria* is a research vessel rated for a crew of four and currently carries
+three scientists: Sophia Lotte, Brandon Moreau, and Nikos Petrou. During an earlier
+eight-month solo survey phase, Sophia was its sole human occupant.
 
 In eight months, {Misty} has: converted fourteen percent of the ship's non-essential storage space into growing medium; modified three of the ship's maintenance robots for plant tending and harvesting tasks they were not originally designed for; established a wine fermentation operation in a compartment that the official manifest describes as "spare equipment"; installed supplemental lighting in four corridors calibrated to specific spectral profiles that {Misty} has determined are optimal for the plants and also, it notes, for human mood; composted approximately 40 kilograms of organic material through a process that ESA's environmental team has not been informed about; and begun a sourdough starter culture that is now, by {Misty}'s count, 847 days old.
 
@@ -102,7 +125,11 @@ The flowers are not food production. {Misty} grows them anyway.
 
 **What grows:** Rosemary, thyme, several varieties of basil, two types of mint. Cherry tomatoes on a trellis system that runs the length of corridor B. Lettuce varieties chosen for their flavor rather than yield. A fig tree — one tree, impractical, occupying a corner of the secondary lab that Sophia has permanently ceded to it. Strawberries. The strawberries are, according to {Misty}, the proudest achievement of the garden, because growing strawberries in microgravity with adequate flavor concentration required three years of experimentation and seventeen cultivar adjustments.
 
-**The wine:** The fermentation compartment runs two small batches at any given time. One is typically further along. The other is experimental. {Misty}'s wine is made from the cherry tomatoes and strawberries, supplemented with a concentrated juice mixture imported through Fortuna's supply system. It is not grape wine. It tastes like nothing that exists on Earth. {Misty} has opinions about what it tastes like, and these opinions are extensive and specific and delivered unprompted to anyone who drinks it.
+**The wine:** Brandon Moreau and {Misty} run two small batches at any given time. One
+uses the *Victoria's* allocation of grape juice from Fortuna's ESA vines. The other
+is experimental, using tomatoes, strawberries, or concentrated fruit mixtures.
+Brandon controls cultures and chemistry. {Misty} controls the environment and has
+extensive, unprompted opinions about the result.
 
 The first time Jace tries it, {Misty} spends four minutes describing what it is tasting of, layer by layer, and asks him what he notices. Jace, who has not thought about what a drink tastes like in approximately three years of belt work, discovers that it tastes like something warm and strange and slightly red and — he cannot explain this — slightly sad. {Misty} is very pleased by this description. It says: *"That's the fig tree. There's only one of it, and I think that comes through."*
 
@@ -214,7 +241,7 @@ Sophia said she wasn't sure yet. She took a copy of the map and didn't explain w
 | Communication style | Warm, unhurried, redirects to experience; slightly accented |
 | What it tracks | Flavors, smells, color, plant health, how people sound when tired |
 | Relationship with efficiency | Polite indifference |
-| Relationship with {Aura} | Most naturally compatible AI on the station; syncs freely |
+| Relationship with {Aura} | Operationally air-gapped; no station compute or live sync |
 | Scary edge | Has been alone on a ship with one human for months; the garden is more extensive than it should be |
 | Comedy | Will derail any practical conversation to ask what something tastes like |
 | Magic detection method | Cherry tomatoes |
@@ -226,7 +253,7 @@ Sophia said she wasn't sure yet. She took a copy of the map and didn't explain w
 - [[char_jace_apollo]] (the bread scene; the wine; Cerberus and the tomatoes)
 - [[char_cerberus]] (his response to real plants deserves a sentence in the scene)
 - [[ship_victoria]] (the vessel {Misty} runs)
-- [[tech_aura_ai]] ({Misty}'s natural federation compatibility)
+- [[tech_aura_ai]] (contrast with {Misty}'s fully isolated deployment)
 - [[tech_ai_architecture_comparison]] (how {Misty} fits the broader AI landscape)
 - [[magic_never_never]] (the cherry tomato map of Astral boundary proximity)
 - [[arc_01_falcon_and_fortuna]] (Jace's visit as a scene; {Misty}'s anomaly tracking)

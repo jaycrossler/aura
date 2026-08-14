@@ -4,15 +4,15 @@ name: "Chapter 17. The Eye in the Wall"
 type: chapter_draft
 book: book01
 chapter: Ch17
-scene_contract: X-01 threat reveal, X-01b setup
+scene_contract: A-05 follow-on, X-01 threat reveal, X-01b setup
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
 last_updated: 2026-08-13
 description: >
-  As Jace's neglected work, damaged friendship, Penny scrutiny, and Astral
-  instrumentation failures converge, he and Sophia leave the safe Victoria
-  and discover a red-eyed creature inside Fortuna's walls.
+  Jace and Sophia investigate the K-17 subsurface anomaly, then Jace's neglected
+  work, damaged friendship, Penny scrutiny, and Astral instrumentation failures
+  converge before they discover a red-eyed creature inside Fortuna's walls.
 cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[arc_01_thread_N_nick_ai]]"
@@ -20,6 +20,7 @@ cross_references:
   - "[[char_sophia_lotte]]"
   - "[[char_cerberus]]"
   - "[[char_nick_lee]]"
+  - "[[char_carlos]]"
   - "[[ship_victoria]]"
   - "[[spec_crossing_mechanics]]"
   - "[[draft_ch16_ten_good_days]]"
@@ -31,7 +32,123 @@ cross_references:
 >
 > Jace Grant, *unpublished notes*
 
-The first package failed at 0612.
+Eleven days after Jace first walked through Factory Four, he and Sophia rode back to the asteroid with a groundworks survey crew.
+
+They did not arrive as explorers. They occupied the rear bench between a drilling technician, two construction planners, and a pallet of seismic stakes. Carlos had found two unused seats on a scheduled K-17 site survey. The work group knew Sophia as an ESA physicist reviewing instrument placement. They knew Jace as the delivery contractor who had asked too many questions about a floor.
+
+Both descriptions were true enough to survive casual conversation.
+
+Sophia held a paper copy of Jace's Factory Four map on her lap. The HUD recording had captured the building, the lanes, and every ordinary object. It had not captured the moment when the crystal lattices opened into light or the pale volume under K-17 appeared beneath his feet.
+
+"Your camera saw nothing," she said quietly.
+
+"I saw enough."
+
+"Describe the crystals again."
+
+"The physical boules stayed sharp when the chamber doubled. They had bright internal lines going in directions that did not fit inside them. Defects looked like holes in the pattern."
+
+Sophia wrote in the margin.
+
+"Crystal structure may persist more strongly across the boundary than bulk metal. Or your brain recognizes order more easily. Or both."
+
+"You enjoy saying both."
+
+"It is efficient."
+
+The shuttle grounded beside Factory Four. Jace brought up his old recording, then minimized it. He no longer needed the route line. West personnel lock. Western logistics spine. Central crane supports. Crystal isolation bay. East warehouse. K-17.
+
+He could have walked it with his HUD off.
+
+The crew moved through the kilometer-wide factory in a loose line, hauling stakes and a compact drill. They complained about schedules, missing equipment, and a freight request that had reached the wrong loading lock. Jace saw the floor differently now. The workers saw a commute through an old building. He saw two freight spines, three cross-lanes, six isolation zones, and four places where one stopped machine could divide the entire floor.
+
+Sophia watched the crystal-farm cover as they passed.
+
+"Physical space makes them look smaller," she said.
+
+The drilling technician glanced back.
+
+"Compared with the orbital boules?"
+
+"Compared with the data," Sophia said.
+
+At the east lock, the group crossed onto the future dig site. Survey markers outlined a new anchor gallery, fabrication hall, and utility trench. On the plans, the foundations were already straight lines. On the ground, they were flags clipped to cables above gray regolith.
+
+The crew placed four seismic stakes across eight hundred meters. Each drove a pulse into the asteroid and listened for the return. Three produced ordinary layered echoes. The fourth returned a soft blur under K-17.
+
+The crew lead frowned at the display.
+
+"Loose pocket. Shift the stake five meters."
+
+They shifted it. The blur remained.
+
+The compact drill anchored over the first test point. It cut through the surface crust, solid rubble, and a thin competent layer. At eleven meters, resistance collapsed. The core tube came back packed with gray powder so fine that it moved inside the sealed sampler like flour.
+
+They drilled again two hundred meters east.
+
+More powder.
+
+The third bore, near the planned utility trench, produced the same material.
+
+Sophia crouched beside the sample rack. She did not touch it.
+
+"Silt," she said.
+
+"Carbon fines," the crew lead corrected. "Old impact pocket. We stabilize it or move the anchors."
+
+Jace looked across the flags. The pale volume he had glimpsed did not end at three boreholes. In his memory it spread beneath most of the site, a buried basin wide enough to swallow the planned hall.
+
+"How large a pocket?" he asked.
+
+"We do not know yet. That is why we survey."
+
+"The foundations assume competent rock."
+
+"The foundations are preliminary."
+
+One of the planners had stopped complaining. She studied the schedule on her tablet.
+
+"If this reaches the east anchors, we lose the excavation season."
+
+"We do not know that," the crew lead said.
+
+Nobody spoke for several seconds.
+
+The industrial district continued around them. Ore haulers crossed the horizon. Factory Four moved tons of material through its locks. Above, Fortuna Station turned patiently on its spine. The colony had spent years preparing to build here. A basin of loose fines could move the new hall, sever its planned utility route, and force every connected project to wait.
+
+Sophia moved beside Jace, close enough to use a private suit channel.
+
+"It is the shape you saw?"
+
+"Three points inside one volume. They think they found three pockets."
+
+"Can you prove it?"
+
+Jace watched the crew reconfigure the seismic stakes. Their instruments were reading a two-percent-gravity asteroid through layers of fractured rock, active machinery, and thirty years of buried construction debris.
+
+"Not with any method I can explain."
+
+"Then we need a method that can."
+
+Jace thought of Nick taking four incompatible sensor systems and finding one pattern beneath them. Historical gravimetry, crawler drift, construction vibration, thermal data - enough weak measurements might become one defensible warning if the right intelligence recombined them.
+
+"I know someone," he said.
+
+Sophia looked at him.
+
+"The friend you are avoiding?"
+
+"That is a separate engineering problem."
+
+The survey crew packed the three silt cores for analysis and marked K-17 yellow rather than red. Work would pause for one formal review. Then budget pressure would begin arguing with geology.
+
+On the ride back, Jace added the bore locations to his Factory Four map. The recording now held the warehouse routes, clean zones, emergency shutters, surface approaches, and the weak ground beneath the future eastern expansion.
+
+He still did not know why he would need all of it.
+
+##
+
+The next morning, the first package failed at 0612.
 
 Medical supplies for Ring Three reached the correct junction and stopped outside a locked pressure door. Jace's routing script had valid access. The drone did not.
 
@@ -294,6 +411,10 @@ They ran.
 | Item | Status |
 |---|---|
 | Work failures expose Jace's neglected responsibility | done |
+| Jace and Sophia confirm soft silt beneath the K-17 future dig site | done |
+| The survey creates a credible setback without yet proving the anomaly's full scale | done |
+| Factory Four routes and chokepoints are reinforced for the later surface battle | done |
+| Nick is planted as the route to a defensible non-Astral warning | done |
 | Penny openly connects his schedule, relationships, and anomaly pattern | done |
 | Nick confronts Jace and proves anomalies are increasing | done |
 | Jace continues withholding the Astral from Nick, worsening the friendship | done |

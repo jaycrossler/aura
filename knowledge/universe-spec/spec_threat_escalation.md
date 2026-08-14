@@ -25,7 +25,8 @@ The dangers are the environment itself. No active predators. Just the conditions
 - **Cold:** -20°C near Fortuna — manageable with gear, lethal in sleepwear over time
 - **Darkness:** No ambient light source except mind-glows and distant stars
 - **Disorientation:** The extra dimension, N-1 perception, low-gravity float movement
-- **Breathable air window:** 60-90 seconds ambient; masks extend to 3-6 hours — hard operational limit
+- **Breathable air window:** 60-90 seconds ambient; standard compact mask cartridges
+  extend survival to less than one hour — hard operational limit
 - **The learning curve itself:** Getting navigation, equipment, or timing wrong kills you
 
 **Character response:** Sophia and Jace are solving engineering and physics problems. The danger is real but impersonal.

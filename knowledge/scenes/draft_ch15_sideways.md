@@ -17,8 +17,11 @@ cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[char_jace_apollo]]"
   - "[[char_sophia_lotte]]"
+  - "[[char_brandon_moreau]]"
+  - "[[char_nikos_petrou]]"
   - "[[char_cerberus]]"
   - "[[ship_victoria]]"
+  - "[[tech_misty_ai]]"
   - "[[spec_crossing_mechanics]]"
   - "[[spec_astral_phenomenology]]"
   - "[[scene_notes_x09b_composition_question]]"
@@ -48,7 +51,7 @@ Jace read the label.
 
 "40 glasses of wine at 5 per bottle is 8 bottles. That's a fortune out here."
 
-"I'm German, we drink 4 per bottle. And we have a wine cellar on the Victoria. Brandon is our chemist. He is constantly brewing more. He has a whole room for it. Smells amazing."
+"I'm German, we drink 4 per bottle. And we have a wine cellar on the Victoria. Brandon is our chemist. He and {Misty} are constantly brewing more. They have a whole room for it. Smells amazing."
 
 "Space wine? Wait, we're getting off track. We were discussing if we go back."
 
@@ -78,13 +81,29 @@ Sophia held the expression for three seconds. Then she laughed.
 
 The *Victoria* occupied a docking cradle on the inner edge of Ring One.
 
-It was an ESA science vessel built for three physicists, a small laboratory, and no wasted volume. Its hull carried old micrometeor repairs in three different alloys. A blue and gold mission ESA emblem had faded beside the lock.
+It was an ESA science vessel built for three scientists, a small laboratory, and no wasted volume. Its hull carried old micrometeor repairs in three different alloys. A blue and gold ESA mission emblem had faded beside the lock.
 
 The air inside smelled like warm electronics, yeast, and fruit. It was the closest thing to home Jace had smelled since Virginia, and he almost teared up. Cerberus kept smelling everything, nose pumping like a bellows. His tail wagged at light speed. Colors and wood tones were everywhere; it looked more like an old pub than a spaceship.
 
+"Welcome aboard," said a warm European voice from the corridor speakers. "Before
+we discuss anything else: what did you notice first?"
+
+"Bread," Jace said.
+
+"Good. The loaf finished twelve minutes ago. That is when the smell travels best."
+
+"{Misty}," Sophia said. "She is our fourth crewmate."
+
+Jace glanced at the nearest speaker. "Ship AI?"
+
+"European, and entirely local. She runs on her own server stack aboard the
+*Victoria*. No station servers, no station sync."
+
+"The disconnection is a feature," {Misty} said. "So is the bread."
+
 Sophia's shipmates waited in the central cabin.
 
-The French chemist Brandon looked from Sophia to Jace, then down at Cerberus. The Greek astrophysicist looked at the same arrangement and grinned. Jace remembered that he'd delivered them some printed beakers last week.
+The French astrochemist Brandon Moreau looked from Sophia to Jace, then down at Cerberus. The Greek astrophysicist Nikos Petrou looked at the same arrangement and grinned. Jace remembered that he'd delivered them some printed beakers last week.
 
 "He's an engineer. Instrument calibration," Sophia said.
 
@@ -117,6 +136,16 @@ Jace tried a slice. She pulled out a tub of butter and some of the cheese she ha
 He had to fight, for the second time in minutes, to not tear up.
 
 "Your standards have suffered."
+
+Sophia scratched the folds behind Cerberus's ears. "He's a Mops Spitz! They are
+popular in Germany."
+
+"He's a short-haired Puggle mix bred on Mars."
+
+"He's wonderful."
+
+Cerberus preened, spun in a tight circle, and yipped as if the matter had been
+settled in his favor.
 
 "I am used to soup."
 
@@ -198,7 +227,21 @@ He smiled at her enthusiasm. That beeping might get old quick. He resolved to pr
 
 "The floor is solid until it does not. My foot almost fell through once. I don't let myself think that way anymore."
 
-"Look over there. Your ship's reactor is brighter than the water tanks.  But that's, like 150 meters away."
+"Look over there. Your ship's reactor is brighter than the water tanks. But the
+thing behind the aft lab is brighter than the reactor. Way brighter."
+
+The reactor shone white-gold through a hundred and fifty meters of folded ship.
+Behind it, a compact tower burned like a lantern seen through ice: thousands of
+tiny brown-gold bubbles forming, folding into geometric chains, and vanishing
+before he could follow one. The whole mass held unnaturally steady while every
+part of it moved.
+
+"{Misty}'s processor stack," Sophia said.
+
+"That's the brightest thing on the ship."
+
+"Processing intensity may matter," she said. "Architecture may matter. We need
+measurements."
 
 "Complexity may matter. Energy may matter. Both may matter. I need more measurements. We need a way to measure distance."
 
@@ -206,7 +249,7 @@ He smiled at her enthusiasm. That beeping might get old quick. He resolved to pr
 
 "Sieben now." She reverted to German when she was deep in concentration.
 
-They stepped through the lab wall. Cerberus still didn't like it, and had to be carried. Sophia's shipmates sat at a workbench. Both glowed through skin, clothing, and chair. One said something and laughed then turned and kissed the other, speaking lightly.
+They stepped through the lab wall. Cerberus still didn't like it, and had to be carried. Sophia's shipmates sat at a workbench. Both glowed through skin, clothing, and chair. Nikos said something and laughed, then turned and kissed Brandon.
 
 Jace heard nothing, but raised his eyebrows. Sophia just shrugged. "We've been shipmates for 4 years. They are family."
 
@@ -236,7 +279,7 @@ Jace stepped back.
 
 They stayed aboard the *Victoria*. They pulled across more equipment, she timed everything, measured everything. Quick math was that he could pull things four times faster than her, and working together helped. It was close, physical, difficult work and they both revelled in the discovery and novelty and science. 
 
-They looked at bubbling vats of grape juice and yeast in a rear temperature-controlled closet. Thermometers and humidity guages and glassware surrounded the vats, barely visible as multi-dimensional outlines. The yeast was bright inside the vats.  It would make a lot of wine. Sophia told him that the Farm on ring Two had grape vines that were technically owned by the ESA and had been growing for decades, and so any ESA ship that asked got a monthly allocation of grape juice.
+They looked at bubbling vats of grape juice and yeast in a rear temperature-controlled closet. Thermometers, humidity gauges, and glassware surrounded the vats, barely visible as multidimensional outlines. The yeast was bright inside the vats. It would make a lot of wine. Sophia told him that the farm on Ring Two had grape vines that were technically owned by the ESA and had been growing for decades, so any ESA ship that asked received a monthly allocation of grape juice.
 
 They moved about the ship and pulled in more air canisters, food, the bread. Blankets. Pillows. Sophia would order more, until Jace said he would print them to keep them off any suspicious logs. She made lists and plans and notes.
 
@@ -276,7 +319,7 @@ On the second day, she handed Jace another loaf of warm bread with goat cheese. 
 
 He ate.
 
-Crossing 43 took them fourteen minutes.
+Crossing 43 took Jace eighteen minutes. When the *Victoria* unfolded, his shirt clung to his back and his arms felt as if he had finished a full weighted circuit of the *Falcon*. Crossing was meditation only in the way holding a difficult position until every muscle shook was meditation.
 
 "Before you got here, I saw a line of light between you and Cerberus."
 
@@ -310,7 +353,7 @@ The map improved.
 
 ##
 
-Crossing 44 began with measuring three pieces of equal mass.
+Crossing 44 took seventeen minutes and left Jace breathing hard before the work began. They started by measuring three pieces of equal mass.
 
 Wood crossed easily. Aluminum demanded concentration. Copper was much harder. Steel resisted long enough to hurt behind his eyes.
 
@@ -344,6 +387,8 @@ They were slowly building a lab in her "other room". Jace didn't like calling it
 
 Crossing 45 began when Sophia wrote a new heading on a fresh page.
 
+It took Jace sixteen minutes to reach the Astral. The improvement did not make it easy. Each crossing remained a private workout against resistance he could not see, followed by the ache of muscles he could not name.
+
 He had tried wearing a computer bracelet screen on his wrist. They needed better data entry. Crossing with it felt like it weighed a ton, and his body just passed over and left it behind. Same with a small speaker earring, a tablet, a camera, anything complex. 
 
 Sophia had tried these all before, and he verified it. Even if he put a display contact lens in, it wouldn't work—and it felt incredibly uncomfortable when it fell out. Even if they put a computer earring in their mouths and tried to cross that way, it fell behind. Jace was secretly glad; he had been worried about swallowing it. Too much complexity was simply "too heavy."
@@ -372,7 +417,7 @@ Sophia considered the page. Then she crossed out the heading and wrote one word 
 
 "She can file a review."
 
-They crossed a portable soldering iron (very hard), solder (also very hard). Jace used both solder with tin and solder with silver, and they had a noticeable difference. They measured the time to move 10 g of each without a plastic core. Time seemed the best variable to use, and the non-tin version moved just a little faster. They tried it multiple times, and it averaged about 5% faster, which might be measurement error. But, it gave him an idea that maybe the individual elements mattered. Sophia got excited and did lots of scribbling.
+They crossed a portable soldering iron, which was very hard, then tried the same design disassembled into its casing, heater, handle, and simple controls. The separate parts crossed faster than the assembled tool, but not consistently enough to distinguish composition from connections or complexity. Sophia wrote *CONTROLLED MATERIAL SAMPLES* across the top of a page and underlined it twice. Jace suggested equal mass and identical containers. She added both to the next-session list.
 
 They crossed a better thermometer. It had no radio, no network, and almost nothing inside it except a sensor and a strip of metal and the simplest processor chip Jace could make. Jace had rebuilt it twice to remove dense alloys. The third version took seven minutes of pulling.
 
@@ -388,7 +433,7 @@ They placed it beside the blue cloth marker. It was the first time the lab felt 
 
 ##
 
-Crossing 46 took Jace eight minutes.
+Crossing 46 took Jace fifteen minutes. He lay still for another five afterward, sweating in the cold and feeling as if he had completed a hard workout before the workday had even begun.
 
 The fifth day became moving day. Jace rested well and skipped out on many work tasks and his run and workout to get extra rest. Astral crossings were exhausting for both the muscle and the mind.
 
@@ -418,7 +463,7 @@ He kept wondering why he could transfer his body that contained a HUD so much fa
 
 Sophia laughed.
 
-Jace realized he was laughing too.  He didn't notice how the grin left her face and turned to one of shame. She had thought she'd be able to reveal the even-bigger secret to him. But, not yet.
+Jace realized he was laughing too. He did not notice when her grin faded. By the time he looked back, Sophia was studying the floor, one hand closed around her father's pen.
 
 ## Contract coverage
 
@@ -432,6 +477,6 @@ Jace realized he was laughing too.  He didn't notice how the grin left her face 
 | Physical observers cannot see or hear them | done |
 | Privacy and ethics implications are recognized | done |
 | Never-Never becomes Astral after several days | done |
-| Simple equipment transfer and composition testing begin | done |
+| Simple transfers and qualitative material testing begin; quantitative rule remains for X-09b | done |
 | Jace catches up on sleep and the mood remains light | done |
 | No Astral fauna or threat cue appears | done |

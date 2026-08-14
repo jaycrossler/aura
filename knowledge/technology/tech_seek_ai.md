@@ -6,6 +6,9 @@ type: technology_specification
 status: canonical
 last_updated: 2026-06-18
 era: story present
+cross_references:
+  - "[[char_seek_ai]]"
+  - "[[char_penny_ai]]"
 ---
 
 # {Seek} — Chinese State AI System

@@ -14,6 +14,7 @@ description: >
   scale and strain of the station, and encounters Helena's absence as a physical
   part of daily life.
 cross_references:
+  - "[[char_aura_ai]]"
   - "[[arc_01_thread_A_arrival]]"
   - "[[char_carlos]]"
   - "[[char_petroski]]"
@@ -23,6 +24,7 @@ cross_references:
   - "[[char_mei]]"
   - "[[char_sai]]"
   - "[[char_helena]]"
+  - "[[char_mateo_alvarez]]"
   - "[[location_fortuna_station]]"
   - "[[faction_american_red_party]]"
   - "[[faction_china_belt_operations]]"
@@ -256,6 +258,49 @@ The Foundry came next. Its main bay could have swallowed the *Falcon's* forge. P
 
 "I've worked closely with her for 15 years. The evidence remains under review."
 
+The bakery shopfront appeared just before the Barn, set into the warm agricultural block. Yeast and browned sugar reached them before the sign did. Behind the glass, three compact robots measured dough, loaded ovens, and carried cooling trays. A broad man with forearms like pressure pipes stood at a wooden table, rolling dough by hand. Rows of iced flowers waited for him to add their final details.
+
+Carlos stopped.
+
+"Two minutes," he said.
+
+The baker saw him through the glass and came out carrying two wrapped cookies. He was taller than Jace, wider through the shoulders, and dusted with flour from chest to elbows. He stood close enough to Carlos that their sleeves touched and straightened the knot of Carlos's tie with one thick finger.
+
+"You skipped breakfast again," he said.
+
+"I am conducting an arrival tour. Jace, Mei, this is my husband, Mateo Alvarez. Mateo, these are the new animal specialists."
+
+"Delivery support," Jace said.
+
+"Today," Carlos said.
+
+Mateo handed Mei a cookie decorated as a white rabbit. Jace received a lopsided brown dog with three heads.
+
+"The robots mix, portion, and watch the ovens," Mateo said, following Jace's look through the window. "They are better at repetition. I roll and decorate. A machine can make ten thousand identical flowers. That is not why anyone buys one."
+
+Carlos tapped his bracelet against the shop reader.
+
+At the next table, a woman in flour-streaked coveralls touched two fingers to a
+thin display wrapped around her wrist. "{Aura}, tell my sister I found the orange
+icing, but do not send the picture until I fix the ears."
+
+The bracelet answered in her own voice, pitched slightly lower. "Drafted. The ears
+remain open to interpretation."
+
+She snorted and went back to decorating.
+
+"You do not charge family," Mateo said.
+
+"These are for my tour. Therefore, business expense."
+
+Mateo leaned closer and said something too quiet for Jace to hear. Carlos's expression did not change, but the tips of his ears did. Then Mateo returned to his table and a waiting field of unfinished flowers.
+
+Mei bit into the rabbit. Jace followed. The cookie contained real butter.
+
+For several seconds, neither of them spoke.
+
+"Fortuna has advantages," Carlos said, and resumed walking.
+
 The Barn smelled warm before the doors opened.
 
 Nearly a thousand chickens filled tiered runs beyond the first biosecurity gate. Carlos said they produced enough eggs for the station, with margin for every nearby ship on good weeks. Goats climbed low frames. Sheep occupied a long exercise lane. Rabbits moved through stacked habitats. The *Falcon's* livestock had been precious because there were fifty-four animals aboard. Fortuna held hundreds, each backed by feed plans, breeding records, and redundant air.
@@ -334,7 +379,7 @@ Nick looked up. Then farther up.
 
 Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
 
-Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, thumbing tails and instant best friends.
+Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, thumping tails and instant best friends.
 
 Nick slid onto the bench opposite Jace.
 
@@ -367,6 +412,9 @@ Jace did not tell him what he had felt. But it seemed to be getting worse.
 | Ring walk time and Ring Three construction stated | done |
 | Nearly 1,000 chickens and larger livestock population established | done |
 | Sophia, Jin's miners, and Kim planted without premature introductions | done |
+| Carlos introduces Mateo and buys Jace and Mei handmade cookies | done |
+| Bakery automation and Mateo's handwork establish craft beside industry | done |
+| A bakery customer establishes personal {Aura} as ordinary wearable infrastructure | done |
 | Jace carries Sparky's new chassis and ten efficient micro-thrusters | done |
 | Helena's jacket precedes Suzi's investigation scene | done |
 | Nick reunion and stuffed pig | done |

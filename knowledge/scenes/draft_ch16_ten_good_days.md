@@ -30,7 +30,7 @@ cross_references:
 
 # Chapter 16. Ten Good Days
 
-> *Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. When he dog was bored he ate the first sign. Teething puppies are no joke.*
+> *Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. When his dog was bored, he ate the first sign. Teething puppies are no joke.*
 >
 > Jace Grant, *unpublished notes*
 
@@ -68,13 +68,13 @@ Jace waited until she walked away.
 
 Then he sounded pleased. He headed back to the forge, whistling to himself and tossing a ball to Cerberus. A bouncing ball in Mars-standard gravity is much more fun than on Earth, and Cerberus was getting pretty good at running up walls.
 
-In the foundary, he moved to the tables he had sparky layed out on. He now had two tables reserverd, in his own private corder of the room, seperated by a metal partition just in case there was an engine problem. 
+In the foundry, he moved to the tables where he had Sparky laid out. He now had two tables reserved in his own private corner of the room, separated by a metal partition in case there was an engine problem.
 
-He had gaps in the morning working the the power contol module. The module technically (and only technically, not actually) worked with the new engines he'd put in. There were many tine control chips that would control the power to each motor, to even it out, to route it dynamically. He had it working (again, only technically) with 6 engines that pointed up, down, and each of the four sideway directions. Two more rotating for assistng thrust. 
+He had gaps in the morning to work on the power control module. The module technically (and only technically, not actually) worked with the new engines he'd put in. There were many tiny control chips that would control the power to each motor, even it out, and route it dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more rotated for assisting thrust.
 
-One simple board to push out the right amount of power, and a ginormous set of programming code to make things work and spin in any level of gravity or temperature or humidity. Thrusters in a warm spinning hab module work very different than in zero-gravity deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
+One simple board to push out the right amount of power, and a ginormous body of code to make things work and spin at any level of gravity, temperature, or humidity. Thrusters in a warm, spinning hab module worked very differently than in zero-gravity deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
 
-The latest problem was that the chips wouldn't allow more power because the system types of the military-grade engines weren't accepted for Intellectual Property reasons. It should all work, it *would* all work, if not for some stupid licensing blocks built deep into the code. If he paid the exorbant licensing fee, and had an arms-dealer license, he could unlock a key to allow it. Neither was plausible, so he was using {SpoX} to help him write code to solve the problem. All the other A.I. wouldn't engage in licensing infringement, but the company that created the X-line of A.I. just didn't care. {SpoX} was acting more and more erratic every day, but the code seemed to work as long as he kept it focused. 
+The latest problem was that the chips wouldn't allow more power because the military-grade engine types weren't accepted for intellectual-property reasons. It should all work, it *would* all work, if not for some stupid licensing blocks built deep into the code. If he paid the exorbitant licensing fee and had an arms-dealer license, he could unlock a key to allow it. Neither was plausible, so he was using {SpoX} to help him write code to solve the problem. All the other AIs refused to engage in licensing infringement, but the company that created the X-line of AI just didn't care. {SpoX} was acting more erratic every day, but the code seemed to work as long as he kept it focused.
 
 He just needed more testing, and now that he'd automated most of his day job, he had the time. Things were looking up.
 
@@ -122,7 +122,7 @@ On the seventh day, the delivery scripts handled ninety-one percent of routine t
 
 Jace used the quiet intervals to redesign equipment.
 
-The Astral charged a price for composition. Simple materials crossed cheaply. Dense alloys and complex electronics fought him. The solution was not strength. It was fewer expensive atoms.
+The Astral charged different prices for objects that looked equivalent on a workbench. Their tests still could not separate composition, density, connections, and complexity. The useful design direction was clear even when the rule was not: lighter materials, fewer interfaces, and nothing the instrument did not need.
 
 He printed a thermometer frame in aluminum and copper. He replaced steel fasteners with polymer clips. He stripped wireless radios from instruments that could not connect to anything after crossing.
 
@@ -239,6 +239,57 @@ The first was another game invitation. The second asked whether Jace wanted help
 Jace installed the patch.
 
 He did not answer the first two.
+
+Earlier, before they returned, Sophia took Jace through the aft lab wall.
+
+Brandon was bent over a fermentation assay in the Real. From the Astral, his mind
+was not a point of light but a nested weather system. A stable green family formed
+branching lattices through his head and chest. Sharp yellow-white concentration
+ran along a handful of well-worn paths whenever he compared two readings. The
+patterns repeated with the economy of practiced hands.
+
+"Can you read what he's thinking?" Sophia whispered.
+
+"Not words. I can see him choose between things. I think those paths are things
+he's good at."
+
+Brandon smelled the open sample. Warm orange surprise flashed through the green,
+followed by an even wash of contented green. Jace could not smell or hear what
+Brandon had, but he knew the result pleased him before Brandon smiled.
+
+Across the cabin, Nikos frowned at a flux model. His signature favored cool blue
+and violet, arranged in rotating nets rather than Brandon's living branches.
+Anxiety moved through it as dark tendrils that made several loops chase themselves.
+Then he found an error. Yellow-white snapped across one section; the loops opened;
+relief spread from his center in soft pearl light.
+
+"Thought has color," Jace said.
+
+"Emotion has a vocabulary," Sophia said. "The deeper color and shape belong to
+the person. We are seeing process, memory, practiced ability—perhaps intention.
+Not sentences. We should be very careful about pretending we know more than that."
+
+They moved aft to {Misty}'s isolated processor stack. It was brighter than either
+man and far brighter than the reactor, but brightness was the least human thing
+about it. Myriad brownish bubbles rolled through a murky gold mass, each briefly
+precise, each collapsing into the next. Where Brandon's attention had followed
+branching paths, tiny geometric chains now formed in {Misty}'s core. Where Nikos's
+problem had resolved in a pearl loosening, one dense knot in the stack relaxed by
+a fraction.
+
+Similar, Jace thought. Not the same. A thousand faint imitations happening too
+quickly and too slightly to name.
+
+"She's working on something," he said.
+
+The ship speaker, inaudible from the Astral, lit on the physical side. A maintenance
+robot rolled past them carrying a tray of rising dough.
+
+Sophia smiled. Bright orange joy moved through her branching blue-green light.
+
+"Bread," Jace said.
+
+Cerberus's whole smaller glow shifted at once into hungry purple.
 
 ##
 

@@ -1,18 +1,24 @@
 ---
-description: "Deep character profiles for the five Fortuna Station AIs — {Alex}, {SpoX}, {Gem}, {Chorus}, and {Penny} — their voices, comedy beats, and uncanny edges."
+description: "Comparative index for Fortuna's five council AIs, with individual character files as the canonical personality references."
 id: tech_fortuna_ai_personalities
 name: "Fortuna Station AI Personalities — {Alex}, {SpoX}, {Gem}, {Chorus}, {Penny}"
 type: technology_specification
 status: canonical
-last_updated: 2026-06-18
+last_updated: 2026-08-14
 era: story present
 ---
 
-# Fortuna Station AI Personalities
+# Fortuna Station AI Personality Index
 
 ## Overview
 
 The five corporate AIs running Fortuna Station are not neutral tools. They are products with personalities, shaped by the companies that built them and the philosophies those companies held. Each one is excellent in its domain. Each one is slightly wrong in a different way. And each one interacts with the 250 humans on the station every single day.
+
+This file retains the comparative and technical material. Use the individual
+character files for scene voice, recurring behavior, and character continuity:
+[[char_alex_ai]], [[char_spox_ai]], [[char_gem_ai]], [[char_chorus_ai]], and
+[[char_penny_ai]]. Separate profiles cover [[char_seek_ai]], [[char_aura_ai]], and
+[[char_misty_ai]].
 
 The comedy and the horror of living with these AIs is not that they are evil. It is that they are *reasonable* — and that reasonable systems, applied to messy human situations in high-stress environments with incomplete data, produce outcomes that are technically defensible and practically maddening.
 
@@ -214,6 +220,14 @@ Whether an AI that wants what you want and helps you get it is safer or more dan
 ---
 
 ## Cross-References
+- [[char_alex_ai]] (individual character profile)
+- [[char_spox_ai]] (individual character profile)
+- [[char_gem_ai]] (individual character profile)
+- [[char_chorus_ai]] (individual character profile)
+- [[char_penny_ai]] (individual character profile)
+- [[char_seek_ai]] (Chinese detachment AI)
+- [[char_aura_ai]] (distributed personal instances)
+- [[char_misty_ai]] (air-gapped Victoria crewmate)
 - [[tech_fortuna_ai_systems]] (governance, failure cascade, operational detail)
 - [[location_fortuna_station]] (the station context)
 - [[scene_notes_ai_interactions]] (the {Alex} morning scene and {Aura} pitch scene)

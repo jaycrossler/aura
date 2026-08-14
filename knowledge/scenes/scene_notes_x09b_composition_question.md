@@ -29,6 +29,11 @@ atomic-weight-squared crossing-cost rule already canonical in
 `spec_dimensional_travel_mechanics.md`, discovered on-page rather than stated
 as exposition (per the open Arc 1 goal "Empirical Discovery of Rules").
 
+**Reveal control:** Ch15 may establish only that equal masses of different materials
+feel different and that assembled complexity also matters. It must not quantify the
+relationship or identify the atomic-weight-squared rule. The controlled
+helium/lithium/carbon experiment in X-09b remains the on-page quantitative discovery.
+
 ## The physics asides (recurring texture, not one scene)
 
 Sophia thinks out loud while she works. These are scattered across several

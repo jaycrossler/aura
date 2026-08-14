@@ -275,14 +275,28 @@ Every station, ship, and habitat in the belt addresses this with **sleep respira
 The mask provides:
 - Sealed delivery of filtered station air
 - CO2 scrubbing via chemical or electrolytic cartridge
-- Typically 4-8 hours of gas supply in the contained loop before the scrubber saturates
+- A compact cartridge holding less than one hour of independent gas after a crossing;
+  normal station operation continuously replenishes it from habitat air
 - Biometric monitoring (SpO2, respiration rate, CO2 concentration) fed to personal {Aura}
 
-A person who crosses into the Never-Never while wearing their sleep mask wakes up in the dark with their own breathing supply: typically **3-6 hours of usable atmosphere**, depending on mask model and how long they've been asleep before crossing.
+A person who crosses into the Never-Never while wearing their sleep mask wakes up
+in the dark with their own breathing supply: typically **less than one hour of usable
+atmosphere**, depending on mask model, whether the cartridge was fully replenished,
+and how long it has already been used.
 
 This is not comfortable. The mask doesn't know the environment outside has changed. The CO2 sensor reads normal. The O2 sensor reads normal. The {Aura} reads everything as fine. The human wakes up in a blighted dead landscape in the dark, in their sleepwear, wearing a mask that is providing them with the air from their own bunk — a pocket of Fortuna Station atmosphere, sealed against their face, keeping them alive.
 
-They have hours. Not forever. But hours.
+They have minutes. Enough to act, but not enough to waste.
+
+### Standard Cartridge Transfer Hardware
+
+Spacer breathing cartridges use a standardized recessed transfer valve on the
+canister bottom. Mask harnesses carry a short universal equalization hose. Anyone
+raised or trained in a pressure habitat knows how to connect two cartridges, open
+the donor first, vent a measured share into the lower-pressure receiver, and close
+both valves without draining the donor's reserve. It is ordinary spacer safety
+practice, taught with the first pressure drills rather than treated as specialist
+medical knowledge.
 
 ### What the Mask Changes About the Story
 
@@ -296,7 +310,10 @@ With the mask, the first crosser has time to:
 
 The mask is the difference between "magic instantly kills people who discover it" and "magic terrifies people who discover it and some of them survive." This shifts the entire early arc from horror-without-protagonist to horror-with-protagonist.
 
-It also creates a ticking clock that will eventually matter: a practitioner who crosses deliberately knows they have 3-6 hours before their mask scrubber saturates. This is a hard operational limit for early Never-Never expeditions. It is one of the first engineering problems that human practitioners will solve.
+It also creates a ticking clock that will eventually matter: a practitioner who
+crosses deliberately begins with less than an hour unless carrying larger dedicated
+supplies. This is a hard operational limit for early Never-Never expeditions. It is
+one of the first engineering problems that human practitioners will solve.
 
 ---
 
@@ -328,7 +345,7 @@ The {Aura}'s network logs show: connection dropped at crossing time. No location
 
 This is the forensic signature of a crossing event. For a station that monitors biometric data continuously (standard safety practice), a person whose {Aura} drops network connection while they are in their bunk — with no hull breach, no EVA record, no movement sensor data — is a mystery that demands explanation.
 
-The first investigators looking at unexplained disappearances will find this pattern: {Aura} offline, movement sensors show person in bunk, then no person, then — in survival cases — person back in bunk with {Aura} reconnecting and 3-6 hours of biometric data from the mask but no network data.
+The first investigators looking at unexplained disappearances will find this pattern: {Aura} offline, movement sensors show person in bunk, then no person, then — in survival cases — person back in bunk with {Aura} reconnecting and less than an hour of biometric data from the mask but no network data.
 
 ### Cerberus Crosses Too
 
@@ -402,7 +419,7 @@ The 23-minute gap is logged. Nobody looks at it yet.
 
 **Phase 3 — Recurrence and Cerberus as warning system:** Cerberus has been in the Never-Never. He knows the smell. When flux conditions are high enough to trigger crossing risk, he begins waking Jace before he can drift across — standing on him, licking his face, refusing to settle. He thinks he needs the bathroom. He is keeping Jace alive.
 
-**Phase 4 — Deliberate exploration:** Jace, realizing what is happening, begins trying to recreate it deliberately. He discovers the meditative approach — not accidentally stumbling through, but choosing to go. The first deliberate crossing is terrifying in a different way: he knows he is choosing this. He goes alone. He comes back after two minutes, genuinely shaken, with 5 hours of mask supply left and a growing understanding that this is real.
+**Phase 4 — Deliberate exploration:** Jace, realizing what is happening, begins trying to recreate it deliberately. He discovers the meditative approach — not accidentally stumbling through, but choosing to go. The first deliberate crossing is terrifying in a different way: he knows he is choosing this. He goes alone. He comes back after two minutes, genuinely shaken, with most of a compact cartridge left and a growing understanding that this is real.
 
 **Phase 5 — Cerberus stays:** The first time he crosses deliberately and leaves Cerberus behind. He doesn't want to bring him into danger. He is furious. He scratches at the space where he disappeared for the full duration. When he returns, he checks Jace over like he's been injured. He has not been injured. But he knows the smell of where Jace went, and he is not happy about it.
 
@@ -410,7 +427,7 @@ The 23-minute gap is logged. Nobody looks at it yet.
 
 ## Open Questions
 
-- What is the exact scrubber lifetime of the standard belt sleep mask? (4-8 hours is the working range — fixing this matters for operational planning.)
+- What is the exact capacity of each standard belt sleep-mask model within the canonical sub-hour range?
 - Does the Never-Never have a weather analogue that produces local temperature variation while remaining within the solar system's survivable range?
 - Can two practitioners hold a tear together, sharing the effort? If so, what does that coordination require?
 - Does crossing affect the mask's scrubber chemistry — does the Never-Never's dimensional environment interact with the chemical scrubber materials?

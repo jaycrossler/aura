@@ -14,6 +14,8 @@ description: >
   sharpen around Helena's disappearance, a miner's unexplained wound, and news
   of suspected sabotage elsewhere in the belt.
 cross_references:
+  - "[[char_aura_ai]]"
+  - "[[char_seek_ai]]"
   - "[[arc_01_thread_L_life_texture]]"
   - "[[arc_01_thread_P_pressure]]"
   - "[[char_suzi]]"
@@ -127,6 +129,14 @@ They stayed too long telling war stories. When Jace walked back to the boring in
 
 A routine formed before Jace admitted he had one. He ran light deliveries on foot and sent the heavy work by drone. He met Nick for food and strategy games. He spent an hour with Sparky most evenings, improving the hover long enough for it to bounce off a different set of walls. When Suzi was at the Long Burn, he bought one drink and listened to her turn old deployments into arguments about logistics.
 
+One delivery was a blank bracelet screen for a pipefitter in Ring Three. The woman
+turned it over, checked the seal, and said, "Good. I will wipe the vendor assistant
+and put my {Aura} back on tonight. I hate training a replacement every time hardware
+breaks."
+
+Jace marked the package received. By then, people carrying private AIs felt less
+remarkable than people carrying paper.
+
 For a few days, Fortuna felt almost comfortable.
 
 Suzi waited three days before she used that trust.
@@ -151,7 +161,7 @@ He imagined the medical hold, the Origin audit, and another bright message from 
 
 Suzi folded her hands.
 
-"Helena Reyes went home from Sophia Lotte's birthday party. Her pod sealed from inside, she used the bathroom. In the morning, Helena was gone. Tracking bracelet on the bed. Breathing gear missing. Doors weren't opened. No hatch cycle. No EVA record. No suit removed. No camera gap. No pressure event."
+"Helena Reyes left Sophia Lotte's birthday party and walked toward home. Jin followed ninety seconds later. The cameras lose both routes before her door. Her bracelet authorized one ordinary door cycle, synced through the network from inside the pod, and requested shower water. In the morning, Helena was gone. Tracking bracelet on the bed. Breathing gear missing. No later hatch cycle. No EVA record. No suit removed. No pressure event."
 
 Jace ran through possibilities in his head.
 
@@ -200,6 +210,16 @@ She heard the edge in her own words. Her mouth tightened.
 Jace looked across the cafeteria.
 
 Jin sat with Hayes near the Barn entrance. The Chinese miner was compact and heavily built, with a scar crossing one corner of his mouth. A belt axe hung at his hip. Hayes said something. Jin laughed politely.
+
+At the end of Jin's table, a surveyor murmured, "{Seek}, move my equipment report
+to end of shift."
+
+Her bracelet replied in Mandarin. Jace's translator rendered it as: *Delay recorded.
+Reason field remains incomplete.*
+
+"The reason is that I am eating."
+
+*Statement recorded. Reason field remains incomplete.*
 
 The sound carried. Warm. Brief. Ordinary.
 
@@ -275,6 +295,8 @@ The dog gave one low growl.
 | Dream predicts a location Jace later sees | done |
 | Suzi friendship precedes investigative ask | done |
 | Early routine combines foot and drone deliveries, Nick's games, Sparky work, and Suzi's war stories | done |
+| Replacement bracelet delivery establishes personal {Aura} ownership and continuity | done |
+| {Seek}'s incomplete-field exchange establishes its everyday compliance personality | done |
 | Helena case described precisely without declaring Jin guilty | done |
 | Suzi acknowledges her bias | done |
 | Suzi asks Jace to notice through delivery access | done |

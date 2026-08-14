@@ -107,6 +107,16 @@ Cerberus barked, eager for another round.
 
 The remaining thrusters, trajectory smoothing, clean power routing, and actual navigation would take more time than his contract schedule allowed. Jace locked the chassis in his assigned cage before it learned to attack the ceiling.
 
+On his way to Drone Ops, Jace glimpsed a small girl standing at the mouth of a side corridor. She wore an oversized black cardigan, and someone had braided pale dried roots through her dark hair. One loop rested against her wrist like a tiny hand until she moved.
+
+She watched him without fidgeting.
+
+Jace waved.
+
+After a moment, she raised two fingers in reply. A cargo cart crossed between them. When it passed, the corridor was empty.
+
+He recorded the encounter as one more thing children did differently on stations and kept walking.
+
 At noon, he reported to Drone Ops.
 
 The main bay looked like a command center built by accountants. Four hundred eleven status markers covered the curved display. Green meant every machine had done exactly what its queue expected. Yellow meant a human might need to notice. Red meant someone already had.
@@ -257,9 +267,11 @@ The route showed Jace how much station he did not know. Market decks above them.
 
 MISSING.
 
-On the second lap, a little girl stood beside one.
+On the second lap, the girl from his second morning stood beside one.
 
 Ten years old, perhaps. Dark eyes. Still hands. She watched Jace pass without looking at the runners around him.
+
+She wore the same black cardigan. Under the artificial clouds, with the pale roots in her hair and the memorial at her shoulder, she looked for one uncomfortable second like a witch child from an old story. Then she shifted her weight and became only a quiet girl again.
 
 Cerberus had rejoined the runners but stopped when he saw her from ten meters away.
 
@@ -305,7 +317,7 @@ Then it closed into the darkness of sleep.
 | Kim's dog dislike and manifest restriction established separately | done |
 | Siren becomes the Barn's Boss; sibling bark goodbye begins | done |
 | Hayes and biscuit ritual established | done |
-| Mira introduced; Cerberus deliberately avoids her | done |
+| Mira glimpsed on Day Two; Cerberus deliberately avoids her during the later run | done |
 | Nick brings food, continues the {Aura} pitch, and Jace still refuses | done |
 | Evening run and Helena memorial texture | done |
 | Astral perception and dreams escalate | done |

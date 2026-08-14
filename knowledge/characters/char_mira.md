@@ -1,4 +1,5 @@
 ---
+
 id: char_mira
 name: Mira
 aliases: ["the girl", "the one who follows", "the quiet one"]
@@ -6,7 +7,7 @@ type: character
 status: alive
 age: 10
 first_appearance: A-02a — edge of a corridor on Jace's second day at Fortuna
-last_updated: 2026-07-05
+last_updated: 2026-08-14
 description: >
   Ten-year-old girl born and raised on Fortuna Station. Mute. Follows Jace with
   methodical, hollow-eyed attention. Leaves arrangements of twisted plant matter
@@ -51,9 +52,13 @@ biologically normal and produce an effect that is not — not because of their c
 or shape, but because of what they are doing. They are tracking. Whatever she is
 looking at, she is really looking at it.
 
-Standard-issue Fortuna children's station clothes. Clean enough. She has a small
-pouch on her belt for carrying small things. The pouch always has plant matter in it.
-Some of it is not plant matter anymore, technically. It has become something else.
+She favors an oversized black cardigan over standard Fortuna children's station
+clothes. Pale dried roots sometimes appear in her untidy dark hair or loop around
+her wrist. At a distance the roots can resemble tiny fingers, giving her the brief
+outline of a witch child from an old story without making her costume-like. She has
+a small pouch on her belt for carrying small things. The pouch always has plant
+matter in it. Some of it is not plant matter anymore, technically. It has become
+something else.
 
 ---
 
@@ -70,6 +75,10 @@ She watches Jace from:
 - A maintenance level above the drone bay, where there are gaps in the paneling
   she has learned to use
 - Once, from inside a supply closet with the door open exactly the width of one eye
+
+Her first on-page appearance is a distant glimpse on Jace's second morning. He waves;
+after a pause, she raises two fingers. Their later running-route encounter remains
+the first time Cerberus sees her clearly and refuses to approach.
 
 She is not hiding. If asked, she would not understand why her position constitutes
 hiding. She is watching. These are different things.
@@ -213,3 +222,5 @@ fascinating, honestly!"
 - 2026-07-05: Initial file. Age confirmed: 10. Ability: [Astral Creation], nascent,
   unguided. No Mental Fortification — too young when ability manifested. Cerberus
   avoidance is Will-sense, not aggression; ends after Yáo's death. Parents named TBD.
+- 2026-08-14: Added the Day Two corridor glimpse, black-cardigan and pale-root visual
+  motif, and preserved the running encounter as Cerberus's first clear reaction.

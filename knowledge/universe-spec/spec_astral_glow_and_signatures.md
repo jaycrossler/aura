@@ -128,6 +128,18 @@ structures. In the Astral during early crossings, before she develops her skill
 suite, her signature is the calmest human glow in the local space — an oasis of
 organized green against the messier signatures around her.
 
+**Brandon Moreau**
+Stable greens organized as nested, organic lattices. His practiced astrochemistry
+and fermentation routines appear as recurring pathways through the structure:
+not stored facts or readable labels, but economical routes his concentration takes
+when comparing samples and measurements.
+
+**Nikos Petrou**
+Cool blues and violets arranged as rotating interconnected nets. Sensor analysis
+and flux-model work repeatedly engage particular sectors of the net. Under anxiety,
+dark tendrils can trap those loops into circular motion; resolving a model error
+releases them and restores the signature's normal rotation.
+
 **Cerberus (Mars-Bred Companion Dog)**
 Warm Amber and Bronze, shifting toward deep burnished gold when active or alert.
 As a Will-bonded creature, Cerberus's glow mirrors Jace's base color family while
@@ -256,6 +268,13 @@ significant moment: she is expecting biological minds. What she sees instead is
 an impossible structure — vast, brownish, roiling at fine scale, rock-steady at
 large scale, clearly not biological, clearly not any galactic AI design she
 recognizes. She spends time watching it before she is willing to approach.
+
+**{Misty}:** Her dedicated, continuously active processor stack is the brightest
+object aboard the *Victoria*, substantially brighter than the ship's reactors.
+Brightness indicates aggregate processing intensity, not a biological-equivalent
+mind. At close range, some transient geometric chains faintly echo the task pathways
+and resolution changes visible in human signatures, but the changes are slighter,
+faster, and embedded in the canonical brownish bubbling mass of AI Will.
 
 ---
 

@@ -110,7 +110,19 @@ The indicator turned green.
 
 Jace lay still until both of them could breathe.
 
-His own cartridge showed less than one hour of air. Cerberus's showed slightly more.
+His own cartridge showed thirty-four minutes. He had used it on the survey mission,
+come home exhausted, and fallen asleep without putting it on the refill rack.
+Cerberus's larger cartridge showed seventy-six.
+
+Every spacer canister had the same recessed transfer valve on its bottom. Jace
+pulled the short equalization hose from the mask harness, snapped it between the
+two valves, and cracked Cerberus's side first. Gas hissed from the dog's canister
+into his. This was ordinary spacer gear, the kind of maneuver children learned in
+their first pressure drill. It only felt extraordinary because Jace's hands would
+not stop shaking.
+
+He closed both valves at forty-nine minutes for himself and sixty-one for
+Cerberus. Enough to look for help without stealing the dog's reserve.
 
 ##
 

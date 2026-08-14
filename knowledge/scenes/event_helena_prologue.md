@@ -52,6 +52,10 @@ established in [[char_helena]] and investigated by [[char_suzi]].
    reader (or to Helena) that anything is wrong
 7. She heads to the bar, still happy, to meet her friends
 8. State plainly, without a death scene: she is dead
+9. After Helena leaves the party, provide the limited forensic trail: corridor
+   camera toward home, Jin following, bracelet-authorized door cycle and network
+   sync, and shower water routed to her pod. These clues establish probable presence
+   without showing her cross the threshold.
 
 ## Beats
 
@@ -89,6 +93,10 @@ is the last we see of her, alive.
 A clean break from her POV. The reader is told, plainly and without spectacle,
 that Helena is dead. No mechanism, no scene, no discovery. The tone should
 land as genuine loss, not mystery-box intrigue — grief first, questions later.
+
+The transition into this statement may use later security evidence. It must establish
+only that the station systems believed Helena was home; it must not show a crossing,
+body, attacker, or cause of death.
 
 ## Must NOT Do
 

@@ -440,6 +440,12 @@ the practical ceiling for routine use. Anything heavier becomes prohibitively co
 This is why Jace converges on hydrogen fuel and aluminum frames — dimensional economics,
 not merely engineering preference.
 
+**Narrative reveal control:** This is author-facing canon before the characters know
+it. Ch15 permits a qualitative material-cost suspicion only. Sophia derives and
+tests the quantitative relationship later in X-09b with controlled equal-mass
+samples. Earlier chapters must not state the square relationship or produce a precise
+composition-based prediction.
+
 ### AI Will Exception
 
 AI systems generate small but real Will through complex self-referential processing.

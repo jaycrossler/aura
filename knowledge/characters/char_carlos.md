@@ -1,11 +1,12 @@
 ---
 
+
 id: char_carlos
 name: Carlos [surname TBD]
 type: character
 status: alive
 first_appearance: Scene 1-05a — arrival day at Fortuna
-last_updated: 2026-08-13
+last_updated: 2026-08-14
 description: "Drone operations coworker at Fortuna Station. Older, always wears a cardigan sweater and tie. Jace's guide on arrival day."
 cross_references:
   - "[[char_jace_apollo]]"
@@ -15,6 +16,7 @@ cross_references:
   - "[[char_kim]]"
   - "[[char_petroski]]"
   - "[[char_sai]]"
+  - "[[char_mateo_alvarez]]"
 ---
 
 # Carlos
@@ -52,16 +54,37 @@ He meets Jace on arrival day as his formal Origin sponsor of record (*"Drone ops
 The relationship that develops is warm and practical — Carlos respects competence,
 and Jace is competent; that's most of what they need.
 
+Carlos teaches by directing attention rather than delivering lectures. He asks Jace
+to inspect a route, machine, or decision until Jace reaches the useful conclusion,
+then supplies the missing operational context. He corrects errors without treating
+them as moral failures.
+
+## Family
+
+Carlos is married to [[char_mateo_alvarez]], the large, soft-spoken baker who runs a
+shopfront beside Ring Two's main farm. Their affection is comfortable and public.
+Mateo adjusts Carlos's tie, feeds him when he skips meals, and uses proximity more
+readily than Carlos uses overt declarations.
+
+## Industrial Role
+
+Carlos specializes in surface-factory routing and exception management. He, Kim,
+and nine other operators supervise the industrial district's automated production
+fleets. His working knowledge of Factory Four includes freight paths, isolation
+zones, crystal-farm clean loops, and the points where a minor routing error can stop
+an entire production line.
+
 ## The Arrival Tour
 
 On arrival day (Ch07), Carlos guides Jace through Fortuna Station's key districts in sequence:
 1. Ring Corridor (main transit axis)
 2. The Park (gravity ring green space)
 3. The Foundry (workshops & engineering)
-4. The Barn (livestock & agricultural section)
-5. The Cafeteria
-6. Medical Bay
-7. Drone-Ops Bay
+4. Mateo's bakery shopfront
+5. The Barn (livestock & agricultural section)
+6. The Cafeteria
+7. Medical Bay
+8. Drone-Ops Bay
 
 Carlos meets Jace and Mei at customs before the tour. He explains Fortuna's practical
 redundancy rule: the station maintains at least two versions of every essential kind
@@ -85,7 +108,7 @@ someone who has made the correct choice and is at peace with it.
 
 - Surname TBD
 - Full backstory TBD — how long has he been at Fortuna? What brought him to the belt?
-- Drone ops specialty — what is his specific area within the Foundry operations?
+- Surname and whether Carlos adopted Mateo's surname remain TBD
 
 ## Revision Notes
 
@@ -93,3 +116,5 @@ someone who has made the correct choice and is at peace with it.
 - 2026-08-12: Updated with Ch07 details (formal sponsor of record role, Cerberus greeting protocol, Arrival Tour itinerary, Kim drone-ops cross-ref).
 - 2026-08-13: Added the three-officer customs meeting, political mural joke, and
   two-of-everything redundancy explanation.
+- 2026-08-14: Canonized Carlos's marriage to Mateo Alvarez, the arrival-day bakery
+  stop, and Carlos's Factory Four routing and exception-management specialty.

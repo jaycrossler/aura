@@ -301,6 +301,8 @@ Examples:
 - Tiny cafes embedded in Ring Two.
 - A family-friendly noodle shop with robot delivery drawers.
 - A Barn-adjacent grill that sells real eggs on good weeks.
+- Mateo Alvarez's bakery shopfront beside Ring Two's main farm. Three compact robots
+  handle mixing, portioning, ovens, and trays; Mateo rolls and decorates by hand.
 - A low-ceiling founders' bar with old pressure panels mounted as decoration.
 
 ### Sky Gardens
@@ -329,6 +331,50 @@ Industrial spaces are loud, hot by station standards, and visually dense:
 - Warning lights that are not decorative.
 
 Industrial workers wear rugged coveralls, eye protection, ear protection, tool harnesses, emergency breathers, and magnetic or grip boots where needed.
+
+### Factory Four
+
+Factory Four is the industrial district's largest named surface factory and a specific
+recurring location. The unpressurized building is nearly one kilometer wide and built
+from thirty-meter metal slabs. It contains ore processing, vacuum furnaces, truss
+printers, machine cages, warehouse stacks, and surface crystal farms.
+
+Its navigable structure matters later:
+
+- Two north-south freight spines.
+- Three cross-lanes connecting furnace, crystal, warehouse, and loading areas.
+- A central crane rail whose supports form natural choke points.
+- Six emergency isolation zones.
+- A narrow turn beside the crystal clean loop that constrains east-west freight.
+- East and west surface locks with exposed approaches.
+
+Carlos, Kim, and nine other operators supervise the district's normal automated
+production. Jace first receives walking access, not drone-control authority. His HUD
+recording maps routes, shutdown points, and clean-zone boundaries that later matter
+during the surface battle.
+
+### Crystal Farms
+
+Factory Four's crystal farms trade some purity for service access and shielding. The
+asteroid's near-two-percent gravity is still sufficient for dust to settle, so farm
+drones remain inside sealed clean loops and pass through electrostatic cleaning fields
+before every contact. Free-flying orbital farms produce the highest-grade crystals
+without floor vibration, dust, or measurable gravity, but require tugs and EVA work
+for maintenance.
+
+In Astral perception, grown crystals remain sharper than surrounding bulk metal.
+Their ordered lattices appear as repeated internal lines extending through additional
+directions, while lattice defects appear as dark interruptions. Ch15 does not explain
+why; this visual difference seeds later survey-instrument design.
+
+### K-17 Future Dig Site
+
+K-17 lies east of Factory Four under a planned anchor gallery, fabrication hall, and
+utility trench. Beneath a competent surface crust is a broad basin of loose carbonaceous
+fines. Jace first glimpses its scale through residual Astral perception. Eleven days
+later, three physical boreholes produce silt-like powder, but conventional instruments
+cannot yet prove that the samples belong to one continuous basin. A full confirmation
+would force a major redesign and schedule delay.
 
 ## Two Faces of Fortuna
 

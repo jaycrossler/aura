@@ -6,7 +6,9 @@ type: distributed_personal_ai
 status: widely_deployed
 era: late 21st century - early 22nd century
 canonical: true
-last_updated: 2026-04-28
+last_updated: 2026-08-14
+cross_references:
+  - "[[char_aura_ai]]"
 ---
 
 # {Aura}

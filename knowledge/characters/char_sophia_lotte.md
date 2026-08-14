@@ -30,7 +30,7 @@ station: location_fortuna_station (docked — not a resident)
 loyalties: [science, knowledge, the Astral itself, her crew]
 
 # Relationships
-crewmates: [char_victoria_physicist_french (TBD name), char_victoria_physicist_greek (TBD name)]
+crewmates: [char_brandon_moreau, char_nikos_petrou]
 first_contact_astral: char_jace_apollo (finds him and Cerberus in Fortuna mess hall during their first crossing)
 companions_astral: [char_jace_apollo, char_dog_cerberus]
 
@@ -81,6 +81,20 @@ room_preference: Constantly complains she wants to move her room to the higher d
 absent_mindedness: Loses everything except her pen and her notebooks. Notebooks are
   backed up across multiple servers. Data is never lost.
 
+related_characters: [char_jace_apollo, char_dog_cerberus, char_kael, char_brandon_moreau, char_nikos_petrou]
+related_ships: [ship_victoria]
+related_locations: [location_fortuna_station]
+related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
+last_updated: 2026-08-14
+sheets:
+  - sheet_sophia_arc01_end
+cross_references:
+  - "[[sheet_sophia_arc01_end]]"
+  - "[[char_brandon_moreau]]"
+  - "[[char_nikos_petrou]]"
+  - "[[ship_victoria]]"
+---
+
 # The Fountain Pen
 
 ## The Pen (never lost, and Stage 3 payoff)
@@ -107,56 +121,46 @@ scientific observation (recognizing the shield's material rule from someone
 else's failed rock-throw), the one object she has never once let out of her
 possession — and a Force output she didn't know she had.
 
-# Victoria Cabin
-layout: One of three tiny cabins on a three-physicist ship
-organisation: Very organised despite appearing chaotic
-walls:
-  - Large woodcut-style map of Colmar (birthplace)
-  - Large woodcut-style stork print (Alsace's symbol)
-  - Christmas tree image (up most of the year)
-  - Scarves hanging on every available hook
-storage: A shelf of paper journals; a closet of colourful clothes carefully stored
-character: Warm and distinctly hers; not much accumulated stuff but colourful and personal
+## Victoria Cabin
 
-# Story Function
-archetypes: [the first discoverer, the lone pioneer, the scientist as explorer]
-character_arc: solitary discoverer → first teacher → central figure in developing human Astral practice
-themes_embodied: [the scientist's approach to the unknown, the cost of being first, knowledge acquired at personal risk]
-publications_arc1_end: ~20 papers; they become the foundation of humanity's scientific
-  understanding of the Astral
+- **Layout:** One of three tiny cabins on a three-scientist ship.
+- **Organization:** Very organized despite appearing chaotic.
+- **Walls:** A large woodcut-style map of Colmar, a stork print, a Christmas tree
+  image displayed most of the year, and scarves on every available hook.
+- **Storage:** A shelf of paper journals and a closet of carefully stored colorful
+  clothes.
+- **Character:** Warm and distinctly hers; sparse in possessions but rich in color.
 
-# Trauma Aftermath (Arc 1 end)
-traumas_sealed: 3
-visible_aftermath:
-  - Flinches at sudden loud noises
-  - Always carries an extra rebreather; does not discuss why
+## Story Function
 
-# Astral Notes
-crossing_suit: Jace-built leather suit; became obsessive about wearing it after first
-  near-catastrophe; forgets it sometimes at Arc 1 start; never at Arc 1 end
-post_crossing_ritual: Wraps in blanket with Glühwein (spiced mulled wine) and writes
-  frantic notes in her journal
-astral_signature: Natural greens tinged with blues; organic branching "pruned garden"
-  structure; slow considered continuous movement; among the calmest human signatures
-  in the Astral; Kael reads it as remarkable for an untrained practitioner
+- **Archetypes:** The first discoverer, the lone pioneer, the scientist as explorer.
+- **Character arc:** Solitary discoverer to first teacher to central figure in human
+  Astral practice.
+- **Themes:** The scientific approach to the unknown, the cost of being first, and
+  knowledge acquired at personal risk.
+- **Arc 1 publications:** Approximately twenty papers that become the foundation of
+  humanity's scientific understanding of the Astral.
 
-# Kael Language Note
-kael_greek_observation: Sophia notices that Kael's vocabulary maps onto classical Greek terms
-  (dynamis for force/Will, typos for Template, logos for the Cognitive Layer). She can
-  understand about one word in three. She writes this in notebook 41. She has a theory
-  she is not ready to state, but starts a paper on it just in case.
+## Trauma Aftermath (Arc 1 end)
 
-# Cross-References
-related_characters: [char_jace_apollo, char_dog_cerberus, char_kael]
-related_ships: [ship_victoria]
-related_locations: [location_fortuna_station]
-related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
-last_updated: 2026-08-13
-sheets:
-  - sheet_sophia_arc01_end
-cross_references:
-  - "[[sheet_sophia_arc01_end]]"
----
+Sophia has three sealed traumas. She flinches at sudden loud noises and always carries
+an extra rebreather without discussing why.
+
+## Astral Notes
+
+- **Crossing suit:** Jace-built leather suit. She becomes obsessive about wearing it
+  after the first near-catastrophe.
+- **Post-crossing ritual:** Wraps in a blanket with Glühwein and writes frantic notes.
+- **Astral signature:** Natural greens tinged with blue; organic branching in a
+  "pruned garden" structure; slow, continuous movement. Kael reads it as remarkable
+  for an untrained practitioner.
+
+## Kael Language Note
+
+Sophia notices that Kael's vocabulary maps onto classical Greek terms: *dynamis* for
+force or Will, *typos* for Template, and *logos* for the Cognitive Layer. She can
+understand about one word in three. She records the observation in notebook 41 and
+starts a paper before she is ready to state the theory.
 
 # Dr. Sophia Lotte
 
@@ -178,13 +182,13 @@ usually in a quick bun that never fully holds. She dresses colourfully — paste
 florals — and always has a scarf slightly askew. She loses things constantly. She never, not once, loses her father's pen.
 
 ### The *Victoria* Interior
-Three-person crew: Sophia, plus two crewmates (French and Greek; names TBD) who are
-increasingly aware something has changed about Sophia and giving her space. They have
-not asked. She has not explained. This arrangement is approaching its natural limit
-at arc close.
+Three-person crew: Sophia, French astrochemist Brandon Moreau, and Greek
+astrophysicist Nikos Petrou. Brandon and Nikos are partners. Both are increasingly
+aware something has changed about Sophia and give her space. They have not demanded
+an explanation. This arrangement is approaching its natural limit at arc close.
 
-The ship's interior is lived-in in the specific way of seventeen months of solitary
-obsessive work. Notebooks stacked by date in a sequence only Sophia can navigate.
+The ship's interior is lived-in after four years of shared service and Sophia's
+seventeen months of increasingly solitary obsessive work. Notebooks are stacked by date in a sequence only Sophia can navigate.
 Equipment labeled in three languages. A coffee machine that still works — Sophia
 started handing Jace a cup when he arrived, without comment, because she noticed
 the Token constraint and the coffee machine was there.
