@@ -72,7 +72,7 @@ The water network had failed as a balancing system because most of its usable ma
 
 Argon remained in the propulsion reserves.
 
-Hundreds of tonnes of it sat supercooled and dense in tanks feeding the ion and Hall-effect thrusters. Inert. Nonflammable. Heavy. Pumps already moved it along the spine. Empty water canisters waited on the opposite side of the ring.
+Hundreds of tonnes of it sat supercooled and dense in tanks feeding the ion and Hall-effect thrusters. Inert. Nonflammable. Heavy. Pumps already moved it along the spire. Empty water canisters waited on the opposite side of the ring.
 
 He built the mass model twice.
 
@@ -110,7 +110,7 @@ Jace heard something else: Patrick's notes on valve lag, the pump curves, the de
 
 "It should save the ring." She grabbed her tools and ran toward the manual releases.
 
-Should. The same uncertainty, paid for with the lifes of the pigs and ducks and Siren.
+Should. The same uncertainty, paid for with the lives of the pigs and ducks and Siren.
 
 "We should try it!" he called at her retreating back.  She ignored him. He could hear her trying to call Patrick, but the time delay meant an hour before they'd get a response.  Not enough time.
 
@@ -122,7 +122,7 @@ Jace routed Thing One out through the forward service lock and onto the hull its
 
 "I understand the system."
 
-"That is what people say immediately before proving they do not." He didn't realize until much later that she said it in perfect english.
+"That is what people say immediately before proving they do not." He didn't realize until much later that she said it in perfect English.
 
 He opened the first cross-connect.
 
@@ -135,13 +135,13 @@ The wobble worsened for two rotations. *Thump*, *Thump*
 
 Then the lateral acceleration began to fall.
 
-He heard Maureen shouting from down the hall. "What are you doing? I was about to jetison the modules!"
+He heard Maureen shouting from down the hall. "What are you doing? I was about to jettison the modules!"
 
 "Tank eighteen at twelve percent," Jace said. "Moving to nineteen."
 
 *Stop the transfer,* {Alex} said. Its pleasant tone did not change. *Residual fluid is indicated in target section nineteen.*
 
-The blueprint marked the section dry. Patrick's maintenance note reported a shower unitbehind a retrofit elbow. Jace saw it half a second too late.
+The blueprint marked the section dry. Patrick's maintenance note reported a shower unit behind a retrofit elbow. Jace saw it half a second too late.
 
 Supercooled argon hit warm water in a small add-on tank.
 
@@ -149,7 +149,7 @@ The water froze at the interface. The argon expanded violently against the formi
 
 "Close nineteen."
 
-Thing Two transmitted the command. The valce started to close. Too late.
+Thing Two transmitted the command. The valve started to close. Too late.
 
 The manifold exploded.
 
@@ -177,7 +177,7 @@ No berth separated. No spoke failed. Fifty-four animals, two dogs, four humans, 
 
 For several seconds, nobody spoke.
 
-Mei looked at the animal board, where the feed was showing squacking barking chaos. "Siren safe. Ducks OK."
+Mei looked at the animal board, where the feed was showing squawking barking chaos. "Siren safe. Ducks OK."
 
 Jace let out a breath he did not remember holding.
 

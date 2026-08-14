@@ -18,7 +18,7 @@ cross_references:
   - "[[char_maureen]]"
   - "[[char_nick_lee]]"
   - "[[char_cerberus]]"
-  - "[[char_patrick]]"
+  - "[[char_saul]]"
   - "[[ship_falcon]]"
   - "[[chapter_draft_schema_v2]]"
 supersedes:
@@ -88,11 +88,11 @@ Maureen set the coil on the bench. "What did you break?"
 
 "It makes sounds and has a queue manager. If that counts as intelligence, the pigs are eligible for command."
 
-Jace considered Screwdriver's inenious bypasses of the service latch. "I would hear her campaign speach."
+Jace considered Screwdriver's ingenious bypasses of the service latch. "I would hear her campaign speech."
 
 Maureen touched the terminal, approved the maintenance sort, and began cutting the coolant line into measured lengths.
 
-Behind her, insulated pump trunks crossed the workshop bulkhead on their way from the ring tanks to the stationary spine. Most carried water. The larger silver lines carried argon, nearly a thousand tonnes of it at departure, held cold and dense until the ion thrusters metered it into plasma and pushed it out the stern. Argon did not burn. It barely reacted with anything. On the *Falcon*, that made it useful enough to keep in enormous tanks and boring enough for everyone to forget it was there.
+Behind her, insulated pump trunks crossed the workshop bulkhead on their way from the ring tanks to the stationary spire. Most carried water. The larger silver lines carried argon, nearly a thousand tonnes of it at departure, held cold and dense until the ion thrusters metered it into plasma and pushed it out the stern. Argon did not burn. It barely reacted with anything. On the *Falcon*, that made it useful enough to keep in enormous tanks and boring enough for everyone to forget it was there.
 
 Jace liked boring systems. They usually waited until later to become interesting.
 
@@ -155,7 +155,7 @@ Small fixes. The ship accumulated quiet improvements that nobody except Patrick 
 
 His headache returned each morning and cooled by breakfast. Lanchee had scanned the implant twice. Today, he was in her clinic, a quiet and well-kept container pod that she was moving with her from Mars to the belt. He envied people like that. She had the professional power to move her house and clinic with her anywhere in the system.
 
-"No swelling, no pressure problem, no firmware fault". She prescribed the standard scrubbers and told him to report any change. He deflated.
+"No swelling, no pressure problem, no firmware fault." She prescribed the standard scrubbers and told him to report any change. He deflated.
 
 He did not report the dreams growing sharper.
 
@@ -210,7 +210,7 @@ The *Falcon* had no ship A.I. It had a captain who could turn a dinner plate int
 
 Jace closed his eyes. He might be going a little bit crazy. It would not be the first time. 
 
-During the five months in the *Pinta's* crowded berths, Earth to Mars, spent recovering from the HUD surgery while a hundred and fifty strangers learned to live on top of each other. He remembered the exact flavor of that particular mental unraveling, the way sound had started arriving half a beat early. He had come out the other side of that fine. He assumed this was the same shape of thing, wearing a different ship.
+He remembered the five months in the *Pinta's* crowded berths from Earth to Mars, spent recovering from HUD surgery while a hundred and fifty strangers learned to live on top of each other. He remembered the exact flavor of that particular mental unraveling, the way sound had started arriving half a beat early. He had come out the other side of that fine. He assumed this was the same shape of thing, wearing a different ship.
 
 If only he didn't still see outlines of things after he closed his eyes.
 

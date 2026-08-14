@@ -28,13 +28,13 @@ cross_references:
 
 # Chapter 6. The Spire
 
-> *Most people do not know this, but a ship's quietest places are the ones nearest its spine. Less spin. Less gravity. Less noise. I used to think that meant less of everything.*
+> *Most people do not know this, but a ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.*
 >
 > Jace Grant, *Falcon* transit logs
 
 Two nights after the canister launch, Jace dreamed that the *Falcon* had veins.
 
-Light ran through the ship. It moved inside every strut, cable, pipe, and pressure seam. The lines joined at the central spine, where something waited around a knot of warmth.
+Light ran through the ship. It moved inside every strut, cable, pipe, and pressure seam. The lines joined at the central spire, where something waited around a knot of warmth.
 
 It looked back.
 
@@ -54,7 +54,7 @@ He dressed, clipped both of their breathers onto his belt, and opened his privat
 
 He added a fifth.
 
-*0238. Woke from recurring lattice dream. Perceived occupied volume near central spine.*
+*0238. Woke from recurring lattice dream. Perceived occupied volume near central spire.*
 
 He almost wrote *hostile*. He deleted the word.
 
@@ -62,7 +62,7 @@ The first tool within reach was a heavy adjustable wrench. He took it because em
 
 Cerberus followed.
 
-The *Falcon's* central spire began at the hubward wall of the ring. The access shaft climbed toward the stationary spine, through falling gravity and rising silence. No one lived there. No one stored cargo there. Conduit, reaction-control equipment, and old maintenance spaces filled the shaft.
+The *Falcon's* central spire began at the hubward wall of the ring. The access shaft climbed toward the stationary spire, through falling gravity and rising silence. No one lived there. No one stored cargo there. Conduit, reaction-control equipment, and old maintenance spaces filled the shaft.
 
 Jace opened the hatch.
 
@@ -180,7 +180,7 @@ He put it in a sample sleeve and did not log it.
 
 *Contractor Grant, I want to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.*
 
-He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a window of words and numbers next to it. Currently "Self Distructive and Sleep Deprived" both had high numbers. Uh oh.
+He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a window of words and numbers next to it. Currently "Self Destructive and Sleep Deprived" both had high numbers. Uh oh.
 
 "There were two animals inside the panel."
 
@@ -188,7 +188,7 @@ He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a 
 
 "My private recording shows the same thing."
 
-A number next to "Sanity test" went higher, and only "Sleep Deprived" remaind is red.
+A number next to "Sanity test" went higher, and only "Sleep Deprived" remained in red.
 
 *Independent agreement between sensor systems increases confidence in the finding.*
 

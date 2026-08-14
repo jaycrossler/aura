@@ -98,7 +98,7 @@ Kim stood behind him.
 
 Jace looked again.
 
-The sample case's forward restraint showed a small torque mismatch. He overlayed a before and after image.
+The sample case's forward restraint showed a small torque mismatch. He overlaid a before and after image.
 
 "Case shifted a few inches during pickup."
 

@@ -42,7 +42,7 @@ The survey case stayed in a locked cage at Drone Ops.
 
 Jace checked the lock twice.
 
-He slept in his clothes, Cerberus snoring contendetly cuddled into his side.
+He slept in his clothes, Cerberus snoring contentedly cuddled into his side.
 
 ##
 
@@ -246,7 +246,7 @@ No response.
 
 Jace stood in front of him.
 
-Jace whispered insistently in the pilots ear, "Torres!"
+Jace whispered insistently in the pilot's ear, "Torres!"
 
 The pilot lifted another bite.
 

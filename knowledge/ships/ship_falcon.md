@@ -195,9 +195,9 @@ drone_tasks: welding micro-fractures, injecting sealants, reinforcing hull secti
 maintenance_supply_pods: small dedicated 6m³ supply caches for repair materials (distinct from the 13m module/berth system)
 
 # Ship AI / Systems
-majordomo: ship-side AI named {Falcon}, managing integrated systems
+majordomo: ship-side non-A.I. system, managing integrated systems
 known_conflict: >
-  Maureen has not integrated Jace's personal drones with the ship's majordomo {Falcon} —
+  Maureen has not integrated Jace's personal drones with the ship's majordomo  —
   citing certification protocols. Jace manages Thing One and Thing Two manually
   through his HUD. Low-grade ongoing friction.
 aura_integration: ship {Aura} instance, federated with crew Auras

@@ -53,7 +53,7 @@ He looked back once and saw Cerberus at the window, barking frantically at him.
 
 ##
 
-Survey Vessel Seven waited on the nonrotating spine. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter.
+Survey Vessel Seven waited at the bottom of Fortuna's nonrotating central shaft launch pad. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter. Next to it were three other shuttles preppinf to head to the asteroid or out on other missions. Jace waved at a few people he'd met since arriving.
 
 Torres filled the pilot's seat.
 
@@ -329,7 +329,7 @@ Across the animal pens, nearly a thousand chickens began screaming at once.
 | Cerberus remains with Siren for first extended separation | done |
 | Torres established as warm, religious, superstitious, and experienced | done |
 | Belt emptiness and rarity of valuable rocks | done |
-| More than 100 mini survey bots used on each target | done |
+| Many mini survey bots used on each target | done |
 | Scratched asteroid has systematic grooves and no metal | done |
 | Torres becomes physically ill and insists on leaving | done |
 | One bot is lost after an ambiguous visual anomaly | done |

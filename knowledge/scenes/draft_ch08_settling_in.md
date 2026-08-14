@@ -33,7 +33,7 @@ cross_references:
 >
 > Jace Grant, *Fortuna notes*
 
-The first voice Jace heard on Fortuna belonged to {Alex}.
+The first voice Jace heard on his first morning at Fortuna belonged to {Alex}.
 
 *Good morning, Contractor Grant. Today is cycle one of your Fortuna deployment. Your current contract compliance score is ninety-four point two percent.*
 
@@ -261,7 +261,7 @@ On the second lap, a little girl stood beside one.
 
 Ten years old, perhaps. Dark eyes. Still hands. She watched Jace pass without looking at the runners around him.
 
-Cerberus had rejoined the runners but stopped when saw her from ten meters away.
+Cerberus had rejoined the runners but stopped when he saw her from ten meters away.
 
 His tail lowered. He stepped behind Jace's leg and refused to move.
 

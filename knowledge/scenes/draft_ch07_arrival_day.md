@@ -84,11 +84,11 @@ The tug crossed the gap in fifteen minutes.
 
 Fortuna grew until the viewport could not hold it.
 
-Three rings turned around a long central spine, these ones spinning like bicycle wheels while the thick spine remained stationary. The first two wheels carried dense construction between them, a layered city of gantries, pod stacks, markets, and utility towers. Ring Three stood farther out. Half looked finished. The rest looked like someone had stopped building a ship halfway through and dared vacuum to complain. Even now, a small army of drones could be seen welding and moving around the outside.
+Three rings turned around a long central shaft, these ones spinning like bicycle wheels while the thick rod in the middle remained stationary. The first two wheels carried dense construction between them, a layered city of gantries, pod stacks, markets, and utility towers. Ring Three stood farther out. Half looked finished. The rest looked like someone had stopped building a ship halfway through and dared vacuum to complain. Even now, a small army of drones could be seen welding and moving around the outside.
 
 Below everything turned the asteroid, dark gray and immense. Surface factories marked it with rectangular fields of light. He couldn't see movement on its airless surface. All the excitement was on the station.
 
-Jace had spent four months inside the *Falcon's* single ring. A full circuit there took four minutes at a jog. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
+Jace had spent four months inside the *Falcon's* single ring. A full circuit there took two minutes at a jog, three with a vest. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
 "Smaller than Terminus," Mei said, wistful of the Mars city she'd been born in.
 
@@ -214,7 +214,7 @@ Shops filled permanent walls between older canisters. Children cut across robot 
 
 "How long is each ring?" Jace asked.
 
-"About twenty minutes on foot, if no one stops you. Ring Three is only half walkable. Construction crews have the rest blocked off."
+"About fifteen minutes on foot, if no one stops you and all the doors are unsealed. Ring Three is only half walkable. Construction crews have the rest blocked off."
 
 "The *Falcon* was only one corridor."
 

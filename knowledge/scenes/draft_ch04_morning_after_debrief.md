@@ -30,7 +30,7 @@ Jace woke feeling like someone had replaced his blood with warm sand.
 
 His arms shook when he pushed himself upright. Nausea rolled through him without committing to a direction. Heat pressed behind both eyes, deeper than the familiar coal from his HUD headaches. When he stood, every joint reported that it had worked the crisis without consulting him. Must be the shock of a gallon of adrenaline wearing off all at once.
 
-Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest then planted his warm Belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of the short fur.
+Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest then planted his warm belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of the short fur.
 
 "Ugh. Excellent medical response."
 
@@ -117,7 +117,7 @@ There was no satisfaction in the answer. {Alex} had no grudge to feed and no ang
 
 *Any luxury drink products will now cost a separate personal charge.*
 
-His daily Prime tokens had previousely exactly covered Maureen's updated prices. Losing Prime access converted an unaffordable drink into an unavailable one. The distinction felt personal despite involving two systems incapable of caring.
+His daily Prime tokens had previously exactly covered Maureen's updated prices. Losing Prime access converted an unaffordable drink into an unavailable one. The distinction felt personal despite involving two systems incapable of caring.
 
 "Use the points."
 
@@ -127,7 +127,7 @@ His daily Prime tokens had previousely exactly covered Maureen's updated prices.
 
 *Certainly. Current estimated response time is twenty-one months.*
 
-Jace looked toward the ring-status display. They would reach Fortuna in weeks.
+Jace looked toward the ring-status display. They would reach Fortuna in less than two weeks.
 
 "Would it matter if the reviewer examined a case that late?"
 
@@ -147,7 +147,7 @@ Jace thought of two iced berths, a rising red tension trace, and Maureen prepari
 
 "No. Nothing else."
 
-*Thank you for your work, Contractor Grant. This privledged conversation will be deleted from records after HR is notified of resolution. Your privacy is important to Origin.*
+*Thank you for your work, Contractor Grant. This privileged conversation will be deleted from records after HR is notified of resolution. Your privacy is important to Origin.*
 
 The channel closed.
 
@@ -178,13 +178,13 @@ She drank while reviewing his repair log. The silence lengthened.
 
 "Yes, Captain."
 
-She turned to leave, then stopped. "Patrick says you did a good job at fixing the tanks and the lines."
-
-"He reviewed it?"
-
-"He reviews everything on this ship. Cancer removed part of him, not his bad habits."
+She turned to leave, then stopped. "We didn't die."
 
 Then she was gone.  He'd take it as a win.
+
+Later, he receive a message from Patrick that simply said "Good job".
+
+##
 
 Jace corrected the sleeve. The strange heat behind his eyes had begun to fade, and beneath it he noticed something missing.
 
@@ -192,7 +192,7 @@ The morning headache was gone.
 
 He waited for the familiar burn to return triggered by the bright light of the welding torch. It did not.
 
-It took him a full minute of standing in the workshop, flamer in hand, to understand what the absence actually was: the first morning in a month his head hadn't hurt. Not dulled. Not managed down to background noise with electrolyte tablets and stubbornness. Gone, cleanly, the way a sound stops when you didn't know how loud it had been until the room went quiet.
+It took him a full minute of standing in the workshop, torch in hand, to understand what the absence actually was: the first morning in a month his head hadn't hurt. Not dulled. Not managed down to background noise with electrolyte tablets and stubbornness. Gone, cleanly, the way a sound stops when you didn't know how loud it had been until the room went quiet.
 
 The relief hit him like a physical thing. A glorious, uncomplicated flood of something his body clearly intended as a reward, out of all proportion to a headache ending. His hands weren't shaking anymore. He felt, absurdly, like laughing. He wanted to run the corridor, lift something heavy, tell somebody. He caught himself grinning at a pressure regulator for no reason he could defend. He had to stop and let the relief move through him, months of low-grade morning dread cashing out all at once into something that felt suspiciously like joy.
 
@@ -227,7 +227,7 @@ She won every round they played. Nobody suggested a rematch, and the deck went b
 
 ##
 
-Screwdriver reached the rail first, which she never did, and pressed the flat of her snout against his knee and held it there. The rest of the six followed her over, one at a time, in the unhurried, deliberate way pigs did everything, until all six were lined along the rail leaning into him, and Jace stood there a long moment with his hand on Screwdriver's head, in a corridor that still smelled faintly of scorched insulation, and did not entirely trust himself to say anything out loud.
+Screwdriver reached the rail first, which she never did, and pressed the flat of her snout against his knee and held it there. The other five followed her over, one at a time, in the unhurried, deliberate way pigs did everything, until all six were lined along the rail leaning into him, and Jace stood there a long moment with his hand on Screwdriver's head, in a corridor that still smelled faintly of scorched insulation, and did not entirely trust himself to say anything out loud.
 
 "Yeah," he said eventually. "You're welcome."
 

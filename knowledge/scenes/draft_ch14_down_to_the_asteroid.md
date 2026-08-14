@@ -41,7 +41,7 @@ At 0530, {Alex} began his morning briefing.
 
 "Of course it does."
 
-Lanchee's clinic now occupied a permanent frame in Ring One. She was doctor that ran Morning shifts. Of course she was.
+Lanchee's clinic now occupied a permanent frame in Ring One. She was the doctor who ran morning shifts. Of course she was.
 
 Fresh welds surrounded the old canister. Inside, the room looked exactly as it had aboard the *Falcon*. Same instruments. Same narrow bed. Same physician regarding Jace as an engineering failure with a pulse.
 
@@ -67,13 +67,13 @@ Jace looked toward the sound.
 
 "Exposure?"
 
-"No suit failure. No toxin. No obvious neurological event. Long Coma."
+"No suit failure. No toxin. No obvious neurological event. A long coma."
 
 Lanchee shut down the scanner.
 
 "Have you experienced confusion, missing time, visual distortion, or loss of consciousness?"
 
-Jace thought about a multidimensional sandwhich. Transparent walls. Sophia's hand on his arm. A dog pulling a mask across the edge of reality.
+Jace thought about a multidimensional sandwich. Transparent walls. Sophia's hand on his arm. A dog pulling a mask across the edge of reality.
 
 "No loss of consciousness."
 
@@ -97,7 +97,7 @@ His HUD surfaced the two messages from Sophia. Real evidence. Shareable evidence
 
 Lanchee's expression cooled.
 
-"You are cleared for surface duty with hydration monitoring. Have a caffine pill. If you see anything unusual, you stop work and call me."
+"You are cleared for surface duty with hydration monitoring. Have a caffeine pill. If you see anything unusual, you stop work and call me."
 
 "Define unusual."
 
@@ -233,7 +233,7 @@ She was right.
 
 Kim closed the channel.
 
-Thing Two was still up in the station, plugged into a recharge cradle a few meters from the drone ops room. He remotely piloted it over and had it changed the filter. He set it to do so daily. It's camera caught Kim starting at it, nodding in appreciation.
+Thing Two was still up in the station, plugged into a recharge cradle a few meters from the drone ops room. He remotely piloted it over and had it change the filter. He set it to do so daily. Its camera caught Kim staring at it, nodding in appreciation.
 
 Her ordinary complaining steadied him.
 
@@ -255,13 +255,13 @@ The physical world remained solid until it did not.
 
 ##
 
-At the inn, JAce he showered and changed. 
+At the inn, Jace showered and changed.
 
-He had put a new shirt and thick jacket on the print queue and picked them up, pressing them out. Looked nice. He had removed the zipper, and switched metal buttons for only simple plastic. Sophia had sent a note before with the recommendation, which normally would have sounded crazy.
+He had put a new shirt and thick jacket on the print queue and picked them up, pressing out the wrinkles. They looked nice. He had removed the zipper and switched the metal buttons for simple plastic. Sophia had sent a note before with the recommendation, which normally would have sounded crazy.
 
 Looking fresh, he collected Cerberus from Nick.
 
-"Nice Look. He ate," Nick reported. "He went potty. He destroyed nothing. At 1400, he stared at the wall all day."
+"Nice look. He ate," Nick reported. "He went potty. He destroyed nothing. At 1400, he stared at the wall all day."
 
 Nick pointed.
 

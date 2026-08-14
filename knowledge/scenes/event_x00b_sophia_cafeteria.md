@@ -34,7 +34,7 @@ open_flags:
 
 ---
 
-Sophia has been pulling for four minutes and the anchor has moved the width of a fingernail.
+Sophia has been pulling for five minutes and the anchor has moved the width of a fingernail.
 
 She resets her grip on nothing — there is no grip, there is only the intending of a grip, which after forty solo crossings she can hold for about ninety seconds before it shreds — and pulls again. The Never-Never does not creak. It does not strain. It simply declines, politely, at scale, and the light around her stays that same patient silver that has stopped feeling like wonder and started feeling like a laboratory she is locked inside of.
 
@@ -48,7 +48,7 @@ Sophia screams. Her concentration goes to pieces, her footing goes with it, and 
 
 He is real. Her hands are fisted in his sleeves and the sleeves have texture and the arms under them are warm and he is *real*, an actual second human being, here, and after months alone, as her first recorded utterance to another observer in the Never-Never:
 
-"Wait. You're the *delivery boy*."
+"Wait. You're the *delivery boy*?"
 
 ---
 

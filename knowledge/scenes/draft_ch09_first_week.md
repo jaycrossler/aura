@@ -121,7 +121,7 @@ Suzi noticed on the second piece and said nothing until the fifth.
 
 She smiled. It changed her face more than Jace expected.
 
-"Lieutenant." she replied. She knew about his military history, and he had guesses at hers from her bearing and haircut.
+"Lieutenant," she replied. She knew about his military history, and he had guesses at hers from her bearing and haircut.
 
 They stayed too long telling war stories. When Jace walked back to the boring inn, the station felt less like a job site and more like a place where someone knew he was there.
 
@@ -181,7 +181,7 @@ Suzi's voice stayed level. Her grief did not. Anger flared in her eyes.
 
 "No. Wait, you think the Chinese put something on people's ships? There were no explosions, right?"
 
-"They make most of the robots. Robots can cause damage without explosions. They have military camoflague systems, so might not even be detectable. Who knows?"
+"They make most of the robots. Robots can cause damage without explosions. They have military camouflage systems, so might not even be detectable. Who knows?"
 
 Jace paused. That hit too close to home.
 
@@ -231,7 +231,7 @@ Jace thought of the duck feather. He thought of a camera showing an empty condui
 
 "That is the whole job."
 
-At the next table, a Philipino miner sat down and spoke over a bowl of noodles.
+At the next table, a Filipino miner sat down and spoke over a bowl of noodles.
 
 "I saw it! He had a massive wound," the man said. "Shoulder to ribs. Suit intact. Somehow no pressure loss."
 

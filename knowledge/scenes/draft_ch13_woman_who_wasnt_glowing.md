@@ -53,7 +53,7 @@ A dog barked.
 
 The sound struck the silent cafeteria like an explosion.
 
-Sophia lost the pull of the sandwich. It snapped back onto the physical counter, ripped in half. Her hands help a squeezed chunk of bread and cheese and meat. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
+Sophia lost the pull of the sandwich. It snapped back onto the physical counter, ripped in half. Her hands held a squeezed chunk of bread and cheese and meat. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
 
 A man crossed the room and caught her.
 
@@ -65,11 +65,11 @@ Not a glowing human projection. Not a physical person viewed from the other side
 
 Real.
 
-The dog arrived beside them. Short tan fur. Wrinkled expressive face. Mask over his muzzle. Tail oscilating.
+The dog arrived beside them. Short tan fur. Wrinkled expressive face. Mask over his muzzle. Tail oscillating.
 
 Sophia's first words to another human in the Never-Never were not historic. She had a slight French accent with something else in it.
 
-"Mon Deux. You are the delivery boy."
+"Mon Dieu. You are the delivery boy."
 
 The man's expression sharpened.
 
@@ -77,19 +77,19 @@ The man's expression sharpened.
 
 "Yes. Learning Mode. The dog videos. The pigs."
 
-"Former military officer. Engineer. Current delivery support. In that order."
+"Former military officer. Engineer. Current Origin support. So, uh, 'Delivery man' would be more accurate. And dog."
 
 Sophia started laughing.
 
 The laugh broke halfway through. Forty crossings of isolation came apart with it. She pressed one hand over her mouth and tried to stop. Tears escaped anyway.
 
-The dog sat on her foot, tail thumping. He was sniffing at the small piece of sandwhich still clutched in her hand.
+The dog sat on her foot, tail thumping. He was sniffing at the small piece of sandwich still clutched in her hand.
 
-Sophia looked down. Her hand reached down and he oushed off the mask and gingerly bit the food out of her hand. She scrunched his silky ear. He leaned into her hand, and she readjusted his mask back over his nose.
+Sophia looked down. Her hand reached down and he gingerly bit the food out of her hand, somehow still keeping the mask over his nose. She scrunched his silky ear. He leaned into her hand, almost purring.
 
-"He is real."
+"He's real."
 
-"Cerberus. Also real. I have half an hour of oxygen left." His voice was strained.
+"Cerberus. And also real. I have half an hour of oxygen left." His voice was strained.
 
 Training returned faster than composure.
 
@@ -107,7 +107,7 @@ Sophia stood and checked both cartridge indicators. Jace had twenty-three minute
 
 Jace looked through the serving counter at the physical storage rack behind it, inside it, below it. His eyes moved too fast, trying to follow every layer.
 
-"Pick one thing," Sophia said. "Me or the dog. Your brain cannot hold all directions yet."
+"Pick one thing, stare at it." Sophia said. "Me or the dog. Your brain cannot hold all directions yet."
 
 "Yet."
 
@@ -115,7 +115,7 @@ Jace looked through the serving counter at the physical storage rack behind it, 
 
 Jace focused on Cerberus, seeing his insides and outsides, and bones.
 
-"That information did not help."
+"That information did not help. His insides are out."
 
 Sophia moved to the prep station. The oxygen bottles glowed only faintly. Dense alloys and valves resisted crossing more than wood or a living body.
 
@@ -129,7 +129,7 @@ Then stopped.
 
 "How?"
 
-"Decide that it is here. Not there. Here."
+"Decide that it is here. Not there. Here. Pull."
 
 Jace stood behind her. He set one hand against her shoulder, extended the other toward the bottle, and leaned.
 
@@ -157,7 +157,7 @@ Sophia stared at Jace.
 
 "You said twenty."
 
-"My hypothises was that together should divide the effort. Not that much."
+"My hypothesis was that together should divide the effort. Not that much."
 
 Jace took the bottle and inspected the regulator.
 
@@ -199,7 +199,7 @@ Sophia closed the notebook.
 
 Sophia showed him around the cafeteria.
 
-Torres sat three meters away, eating and scrolling. His physical body glowed in layers. Thoughts moved as blocks of color swirling around his heade, then dissolved into complex patterns and swirled structures neither of them could interpret.
+Torres sat three meters away, eating and scrolling. His physical body glowed in layers. Thoughts moved as blocks of color swirling around his head, then dissolved into complex patterns and swirled structures neither of them could interpret.
 
 Sophia waved through the table.
 
@@ -217,7 +217,7 @@ Jace looked at the walls.
 
 "That is a security nightmare."
 
-"This is a physicists dream! If two people experience it, then it must be real! I need to write papers about it."
+"This is a physicist's dream! If two people experience it, then it must be real! I need to write papers about it."
 
 Cerberus leaned against Sophia's shin.
 
@@ -255,7 +255,7 @@ Long corridors bent through extra directions. Jace stopped twice when the floor 
 
 "Yes, I really want a thermometer to measure. It's not cold like space, but still very chilly. There is just enough air here, but not enough to breathe. I wear many layers."
 
-They passed sleeping residents. Jace looked away when he coul to try to offer privacy. Cerberus sniffed every glow until Jace reset the mask for the fifth time.
+They passed sleeping residents. Jace looked away when he could to try to offer privacy. Cerberus sniffed every glow until Jace reset the mask for the fifth time.
 
 At the inn, Jace's room appeared through three walls at once.
 
@@ -331,7 +331,7 @@ Jace read both routing headers.
 
 They were real.
 
-He probably got some sleep but every time he started to drift off he would snap back awake, worried of blue cooridors.
+He probably got some sleep, but every time he started to drift off he would snap back awake, worried about blue corridors.
 
 ## Contract coverage
 

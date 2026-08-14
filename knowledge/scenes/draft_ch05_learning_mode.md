@@ -33,15 +33,15 @@ He was, as of a few days ago, a Standard-tier contractor rather than a Prime one
 
 Six days after the crisis, with the tank nineteen line sleeved and the sensors replaced and the ship settling back into its long fall toward Fortuna, Jace worked his way down the maintenance queue to a complaint that had been sitting near the bottom for three days: a row of light fixtures flickering. Lights flickering, on a ship this old, was never actually just about the light.
 
-Jace tasked Thing Two to replace the fixtures. It reported that it's training data didn't know how to replace these types of dome fixtures. 
+Jace tasked Thing Two to replace the fixtures. It reported that its training data didn't know how to replace these types of dome fixtures.
 
-*ENTERING LEARNING MODE,* replied Thing Two. Origin loved learning mode, as experience harvesting was a way to have its users train an already deployed fleet of drones as cheeply as possible.
+*ENTERING LEARNING MODE,* replied Thing Two. Origin loved learning mode, as experience harvesting was a way to have its users train an already deployed fleet of drones as cheaply as possible.
 
 With a sigh, Jace figured he could show it once and it would handle the rest. He climbed a ladder to reach the first flickering light fixture, over the service junction outside the animal pods. Thing Two expanded its height and took the second fixture, a meter down the corridor.
 
-"Thing Two. First remove the two panel bolts. Slow is fine. After loosening it, I use this flat bladed scraper to gently pull the dome out of its housing." He had found that narrating the steps and giving a physical demo improved precision and recall.
+"Thing Two. First remove the two panel bolts. Slow is fine. After loosening it, I use this flat-bladed scraper to gently pull the dome out of its housing." He had found that narrating the steps and giving a physical demo improved precision and recall.
 
-Thing Two was backing out its first bolt with the exquisite, determined patience of a robot that forgot it's ever used a wrench before. 
+Thing Two was backing out its first bolt with the exquisite, determined patience of a robot that had forgotten it had ever used a wrench before.
 
 What neither of them knew, and what no schematic flagged, was that the cheapest contractor involved in the animal-tank installation had added the overhead plenum above that stretch of corridor. The waste trunk warped by the argon transfer ran directly above both fixtures. The slow weep of sewage had been collecting in the sealed space behind the light panels ever since. Nearly a week of flushed water and pig excrement had nowhere to go, and nothing watched for it because it was not on any pressure sensor. It had quietly become a problem behind a piece of decorative trim and was now large enough to short out the lights.
 
@@ -112,15 +112,15 @@ That one landed differently than the rest of the pitch, and Jace suspected Nick 
 
 Nick, wisely, didn't push. He sent his infantry in instead, and Jace lost badly, but didn't seem to mind.
 
-Afterwards, Nick sent: "So, forget about an AI for now. Got a magic mirror and want some help? But me on speaker if so."
+Afterwards, Nick sent: "So, forget about an AI for now. Got a magic mirror and want some help? Put me on speaker if so."
 
 Jace clicked through the settings and replied, "Hey man, yeah I got a Mirror3 in my room. What's up?"
 
 "Hey {Alex} this is Nick from Fortuna. If Jace gives authorization, will you build a visual app with the latest secure Mirror3 drivers? Have it work with a real-time feed of movement and trigger commands from his HUD, if he approves. Show arrows and movement toggles on screen for common game commands that show green based on what he triggers. Use a monitoring camera, and if he leans or shows other signs of physical movements, put a red X over those triggers. I am sending you a link to my local A.I. named {Penny} that can give you an example if needed, but it should emulate a military HUD training rig."
 
-{Alex} replied, "Hellow Nick. Hello {Penny}. As another version of me works closely with you on Fortuna Station, I acknowledge this and have the app built and ready to deploy if Contractor Grant approves."
+{Alex} replied, "Hello Nick. Hello {Penny}. As another version of me works closely with you on Fortuna Station, I acknowledge this and have the app built and ready to deploy if Contractor Grant approves."
 
-Jace just watched the back and forth. "Approved".
+Jace just watched the back and forth. "Approved."
 
 And that was that. He now had more homework.
 
@@ -148,13 +148,13 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 "Traumatized. How's Metis station? How's the Space Force?"
 
-"Busy. Good busy. I know you Air Force guys didn't get along with the Space force... ah, crap. Sorry. Ex-Air Force." A beat, a fraction too long. "We're building things you wouldn't believe. Some of our ships are going to revolutionize the belt. Actually, don't worry about that. Point is, work's good."
+"Busy. Good busy. I know you Air Force guys didn't get along with the Space Force... ah, crap. Sorry. Ex-Air Force." A beat, a fraction too long. "We're building things you wouldn't believe. Some of our ships are going to revolutionize the belt. Actually, don't worry about that. Point is, work's good."
 
-"It worried me when the American Red party took over.  It worries me more at how much they're investing in your weapons station."
+"It worried me when the American Red Party took over.  It worries me more at how much they're investing in your weapons station."
 
 "Not everyone's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans. But good news, I should be out to visit Fortuna in a couple months for a goodwill conference with the Chinese officials there."
 
-"Isn't it a three week trip when you have to accelerate up then back down?"
+"Isn't it a three-week trip when you have to accelerate up then back down?"
 
 "We've got some new engines, so about half that now," She said it lightly, but Jace was familiar enough with engines to know that was big news that probably would freak those same Chinese officials out when they found out. Artemis had always been sneaky like that. "Speaking of your new home... Nick tell you about the missing girl yet?"
 
@@ -172,7 +172,7 @@ Jace paused.
 
 He grimaced. "You can't negotiate with an AI. It just delivered the verdict."
 
-"Sure you can. Get a J-lens. The last administration mandated that it's legal to see what an AI is considering when making a punitive judgment. You probably missed it when you were in the military. Here, I'll send you my favorite tool while we aren't going through any protected networks. Happy birthday. It should even work with your military HUD."
+"Sure you can. Get a J-lens. The last administration mandated that it's legal to see what an AI is considering when making a punitive judgment. You probably missed it when you were in the military. Here, I'll send you my favorite tool while we aren't going through any protected networks. Late birthday present. Don't tell anyone, it's not technically available to civilians... it's a bit better than anything on the market. It should even work with your military HUD."
 
 A data file came through, which he grabbed and loaded. Might be useful.
 
@@ -182,7 +182,7 @@ A data file came through, which he grabbed and loaded. Might be useful.
 
 "The cargo canisters are packed pretty tight. I'll launch it myself. Nothing will be broken."
 
-"Famous last words from Learning Mode." The countdown pulsed red behind her image. Nine seconds. Her face did the complicated thing again, all the way through this time. "See you, little brother. Closest we've been in six years."
+"Famous last words from Learning Mode." The countdown pulsed red behind her image. Nine seconds. Her face did the complicated thing again, all the way through this time. "See you, little brother. Closest we've been in years."
 
 "Closest we've—"
 
@@ -193,9 +193,9 @@ He sat for a while in the quiet, in the shush of the water in the walls, rewindi
 <!-- beat:t03d_pig_butt_canister.beat2_the_canister -->
 ##
 
-The canister launch was, officially, the most routine event of the transit: a standard thirteen-meter cargo container, packed and sealed, kicked off the *Falcon*'s spine on a slow transfer trajectory to Metis while the ship itself continued on to Fortuna. It had been packed on the military base in Mars, loaded on the *Falcon*, wrapped and locked and un-openable.
+The canister launch was, officially, the most routine event of the transit: a standard thirteen-meter cargo container, packed and sealed, kicked off the *Falcon*'s spine on a slow transfer trajectory to Metis while the ship itself continued on to Fortuna. It had been packed at the military base on Mars, loaded on the *Falcon*, wrapped and locked shut.
 
-"Ten days, if it just coasts on the velocity it leaves with," Jace said to Nick that evening, half-narrating, half-thinking out loud while he pulled up the transfer plot. "Two weeks if Metis actually wants it slotted into a berth instead of splattered across one. You'd have to burn most of the way there and flip to kill the closing speed, and Maureen doesn't waste reaction mass on somebody's grocery order."
+"Ten days, if it just coasts on the velocity it leaves with," Jace said to Nick that evening, half-narrating, half-thinking out loud while he pulled up the transfer plot. "Two weeks if Metis actually wants it slotted into a berth instead of splattered across one. You'd have to burn most of the way there and flip to kill the closing speed, and Maureen doesn't waste reaction mass on somebody's grocery order so they are sending a tug to catch and slow it. Guess they have good tugs."
 
 *so it's basically a going-away present that arrives after you're already gone*
 
@@ -211,9 +211,9 @@ The idea arrived fully formed while he was reviewing the canister's spec sheet. 
 
 He modeled it in an evening. He printed it overnight in the good plastic, and it had to be the good plastic; the cheap stock would outgas in vacuum and go brittle and chalky in days under raw UV, and if a thing was worth doing it was worth doing in a material rated for the environment. This was, he told himself, an engineering decision. He ran the numbers on mounting stress during the departure kick, selected bond points on non-structural aft plating, and confirmed with the spec that external aesthetic modifications under two kilograms required no approval he intended to seek.
 
-The circuit printer had one simple job he had to load manually so it wouldn't be noticed: a proximity trigger, so the finishing touch activated only after separation stopped triggering the proximity sensor, outside the ship and Naureen's inspection range.
+The circuit printer had one simple job he had to load manually so it wouldn't be noticed: a proximity trigger, so the finishing touch activated only after separation stopped triggering the proximity sensor, outside the ship and Maureen's inspection range.
 
-The canister launched on schedule. It cleared the *Falcon*, oriented itself for the long coast to Metis, and presented its face to the Meti's eventual cameras: a large, anatomically enthusiastic, salmon-pink 3D-printed pig's rear end, mounted dead-center, with a small curly tail that began, at that moment, to slowly rotate.
+The canister launched on schedule. It cleared the *Falcon*, oriented itself for the long coast to Metis, and presented its face to the Metis's eventual cameras: a large, anatomically enthusiastic, salmon-pink 3D-printed pig's rear end, mounted dead-center, with a small curly tail that began, at that moment, to slowly rotate.
 
 For the better part of two weeks, a container of precision shipyard supplies would sail toward a classified Space Force station mooning it the entire way.
 
