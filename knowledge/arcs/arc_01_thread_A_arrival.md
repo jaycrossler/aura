@@ -198,17 +198,9 @@ three pages of notes about what an Astral survey instrument would need to measur
    observations, working curiosity
 4. Carlos's patience reads clearly — he is teaching something real without making
    it a lesson
-5. Sparky/Cerberus in an industrial environment — Cerberus investigates a magnetic
-   rail; Sparky rolls into a {SpoX} drone's parking space and is reprimanded by the AI
-6. Weave in that Jace is sending messages back and forth to Sophia, and wants to meet up
-7. They both come down to the asteroid a week later after exploring from within the
+5. They both come down to the asteroid a week later after exploring from within the
    Astral, to explore and see it in the Astral — riding along with another work
    group, showing the difference between the two viewpoints
-
-> ⚠️ **Placement flag:** Item 7 implies Jace and Sophia are already crossing
-> together deliberately, which happens in X-01. If so, A-05 (or at least its back
-> half) may belong *after* X-01 in the Scene Index rather than before. Confirm
-> before finalizing the index.
 
 **Foreshadowing planted:**
 - Crystal farms in the Astral look different from physical space → seeds the drone

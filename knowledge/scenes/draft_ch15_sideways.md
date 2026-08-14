@@ -372,7 +372,7 @@ Sophia considered the page. Then she crossed out the heading and wrote one word 
 
 "She can file a review."
 
-They crossed a portable soldering iron (very hard), solder (also very hard). Jace found that solder with tin and solder with silver instead of tin had a noticeable difference. They measured the time to move 10 g of each without a plastic core. Time seemed the best variable to use, and the non-tin version moved just a little faster.  About 2% faster, which might be measurement error.  But, it gave him an idea that maybe the individual elements mattered. Sophia got excited and did lots of scribbling.
+They crossed a portable soldering iron (very hard), solder (also very hard). Jace used both solder with tin and solder with silver, and they had a noticeable difference. They measured the time to move 10 g of each without a plastic core. Time seemed the best variable to use, and the non-tin version moved just a little faster. They tried it multiple times, and it averaged about 5% faster, which might be measurement error. But, it gave him an idea that maybe the individual elements mattered. Sophia got excited and did lots of scribbling.
 
 They crossed a better thermometer. It had no radio, no network, and almost nothing inside it except a sensor and a strip of metal and the simplest processor chip Jace could make. Jace had rebuilt it twice to remove dense alloys. The third version took seven minutes of pulling.
 

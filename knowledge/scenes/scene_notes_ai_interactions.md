@@ -24,7 +24,7 @@ last_updated: 2026-07-14
 
 The moment his vitals shift — the slight acceleration in heart rate that the wristband reads as waking — he has ninety seconds. {Alex} has determined that ninety seconds is the optimal grace period. It is, in fact, forty seconds too few. He is still mostly asleep when the briefing begins, delivered through the skull cap's bone-conduction audio directly, quiet enough not to wake someone sharing a room, loud enough that he cannot pretend not to hear it.
 
-*"Good morning, Contractor Grant. Today is cycle 14 of your Fortuna Station deployment. Your current contract compliance score is 94.2%. Items requiring attention: One — scheduled maintenance review for drone units T-147 through T-163, originally due cycle 12, now two cycles overdue. Filing an extension request is recommended to avoid automatic penalty escalation. Two — your personal quarters environmental assessment is due cycle 15. Three — Origin Industries wishes to remind you that early contract renewal discussions are available—"*
+*"Good morning, Contractor Grant. Today is cycle 14 of your Fortuna Station deployment. Your current contract compliance score is 94. Items requiring attention: One — scheduled maintenance review for drone units T-147 through T-163, originally due cycle 12, now two cycles overdue. Filing an extension request is recommended to avoid automatic penalty escalation. Two — your personal quarters environmental assessment is due cycle 15. Three — Origin Industries wishes to remind you that early contract renewal discussions are available—"*
 
 "Cancel."
 
@@ -36,7 +36,7 @@ The moment his vitals shift — the slight acceleration in heart rate that the w
 
 He stares at the ceiling. The skull cap is faintly warm from the processing load. Cerberus shifts at the foot of the bunk.
 
-94.2%. He has been trying to figure out what he lost the 5.8% on, and he suspects that knowing would only make it worse.
+94%. He has been trying to figure out what he lost the 6% on, and he suspects that knowing would only make it worse.
 
 ---
 
