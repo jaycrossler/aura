@@ -30,6 +30,8 @@ allies: [char_helena (close, cross-generational; Helena visited her shift regula
 # Physical
 appearance_summary: Elderly. Leathery hands from decades of hands-on animal/barn work — the prologue's one physical detail is "the leathery hand of Saipan," offered and taken easily, the hand of someone still doing manual work into old age.
 distinguishing_features: TBD — no further physical description established yet (face, height, build, hair all open)
+education: retired PhD in agricultural systems
+station_duties: Barn elder; rotating human customs officer
 
 # Voice
 speech_pattern: >
@@ -39,10 +41,10 @@ speech_pattern: >
   extra work while visibly grinning the whole time; this performed-grump/actually-
   delighted pattern is her one clearly established comic beat.
 example_dialogue:
-  - "New ship soon." (sighed, pretending to be grumpy, grinning anyway)
-  - "An actual dog."
-  - "I had dogs like those when I was a girl on Earth. Pugs."
-  - "Like those, just no nose. And more hair." (explaining what a pug is, pointing at a screen)
+  - '"New ship soon." She sighs, pretending to be grumpy and grinning anyway.'
+  - '"An actual dog."'
+  - '"I had dogs like those when I was a girl on Earth. Pugs."'
+  - '"Like those, just no nose. And more hair." She points at a screen.'
 
 # Story Function
 role_in_narrative: >
@@ -58,7 +60,7 @@ themes_embodied: [generational continuity on a young station, found family, the 
 # Cross-references
 related_locations: [location_fortuna_station]
 related_characters: [char_helena]
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: "Character profile for Sai (Saipan), an elderly Barn worker on Fortuna Station and one of Helena's morning-rounds regulars, established in the Prologue."
 cross_references:
   - "[[char_helena]]"
@@ -85,6 +87,12 @@ water line, scratches a headbutting goat, and finds Sai working. They trade
 gossip while "grasping the leathery hand of Saipan" — a small physical detail
 suggesting this is a regular greeting ritual, not a formal handshake. Sai has
 clearly been doing hands-on Barn work for a very long time; her hands show it.
+
+Sai holds a doctorate in agricultural systems. Retirement on Fortuna means she no
+longer has one full-time job. She remains a Barn elder and rotates through customs,
+where station law requires human officers to verify arrivals beside the AIs. On Jace
+and Mei's arrival day, she checks Mei's name off at one of the customs terminals and
+offers the formal line, "China welcomes you."
 
 ## The New Ship
 
@@ -130,13 +138,16 @@ everyone already knows almost everything about everyone else.
 - The grandson's and Betty's full identities — do either recur as named
   characters elsewhere in the KB?
 - Whether Sai has any role or presence after the Prologue — given Jace's arrival
-  tour in Ch07 passes through the Barn, there's a natural opportunity for her to
-  reappear, unflagged as of this file.
+  tour in Ch07 passes through customs and the Barn, she reappears as Mei's customs
+  officer and Barn contact.
 - Her reaction to, and role (if any) in, the aftermath of Helena's disappearance
   — given how close they clearly are, this seems like an obvious emotional
   beat to eventually land, currently unwritten.
 
 ## Revision Notes
+
+- 2026-08-13: Established her agricultural-systems PhD and rotating customs duty;
+  added her role in Jace and Mei's arrival.
 
 - 2026-08-12: Initial file. Built entirely from the Prologue (`draft_ch00_prologue_helena_v2.md`,
   beat1_morning_rounds) — no prior file existed for this character. No new

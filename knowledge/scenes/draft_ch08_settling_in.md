@@ -8,7 +8,7 @@ scene_contract: A-01a + A-02a + L-02 + L-03
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   Jace begins life as a junior delivery worker, learns Fortuna's daily rhythms,
   sees Siren claim the Barn, and discovers that the station's walls feel less
@@ -73,7 +73,7 @@ The phrase appeared over three oxygen icons in three languages.
 
 *Exactly. Fortuna survives because nobody believes the first green light.*
 
-Jace liked that. He disliked that an A.I. had said it.
+Jace liked that. He disliked that an AI had said it.
 
 The forge had his name on the six-to-ten schedule by the second morning. He assumed Carlos had helped until he saw the reason. Nobody wanted the slot.
 
@@ -93,7 +93,19 @@ By the fourth, the controller registered a thermal rise and reduced output befor
 
 Cerberus lay under the bench and chewed the tail off his stuffed pig.
 
-Jace stopped before he made Sparky operational. The drone needed a local control stack, clean power routing, and more testing than his contract schedule allowed. He locked the chassis in his assigned cage.
+Jace wired the four installed thrusters to a stripped-down local controller. He set Sparky on the deck and armed hover mode.
+
+The sphere rose forty centimeters.
+
+It held position for almost two seconds, drifted left, bounced off a cabinet, corrected too hard, and struck the opposite wall. Cerberus chased it through three more impacts before Jace killed the power.
+
+Sparky dropped into his hands.
+
+"You can hover," Jace told it. "You cannot decide where."
+
+Cerberus barked, eager for another round.
+
+The remaining thrusters, trajectory smoothing, clean power routing, and actual navigation would take more time than his contract schedule allowed. Jace locked the chassis in his assigned cage before it learned to attack the ceiling.
 
 At noon, he reported to Drone Ops.
 
@@ -136,6 +148,10 @@ The machines managed normal routes without him. Jace approved exceptions. A door
 None of it required the military HUD in his skull.
 
 All of it required someone to care when the ordinary system stopped matching the real world.
+
+Jace stopped waiting for Thing Two on light deliveries. He sent heavy loads and exterior routes by drone, packed smaller orders into a courier bag, and ran them himself. His Earth legs beat the little machine through crowded corridors, and the miles gave him the exercise his assigned console did not.
+
+Kim called it an unauthorized process change until the delivery times improved. Then she called it temporary.
 
 By the third day, Jace knew forty-seven door delays, six lift quirks, and the exact point where Ring Two's network handed a moving drone to the older Ring One system. The handoff failed one time in twenty. Carlos called that reliable.
 
@@ -205,7 +221,7 @@ Cerberus took the biscuit with great care.
 
 Hayes nodded. The arrangement became permanent without further negotiation.
 
-Nick appeared most evenings. He brought two coffees, handing one to Jace and never asking to be paid back. Then he explained {Aura}'s architecture until Jace felt that no coffee was worth the punishment.
+Nick appeared most evenings. Whenever they ate together, Nick bought enough food for two people, then claimed the noodle counter had misunderstood his order again. Nick was the only person who knew the exact size of Jace's debt. He handed half the food to Jace and never asked to be paid back. Then he explained {Aura}'s architecture until Jace felt that no meal was worth the punishment.
 
 "You have military hardware running a bare civilian partition," Nick said on the fifth night. "It is like buying a fusion torch and using it to warm soup."
 
@@ -213,7 +229,7 @@ Nick appeared most evenings. He brought two coffees, handing one to Jace and nev
 
 "Your HUD could coordinate every sensor, app, and drone stream you own. Locally. No Origin reporting."
 
-"A system-level A.I. would see everything."
+"A system-level AI would see everything."
 
 "Yes."
 
@@ -284,12 +300,12 @@ Then it closed into the darkness of sleep.
 | Item | Status |
 |---|---|
 | First recurring {Alex} morning briefing | done |
-| Forge and Sparky progress without making Sparky operational | done |
-| Delivery reframe and automated-baseline work texture | done |
+| Sparky achieves unstable hover but remains unfit for field work | done |
+| Delivery reframe, foot courier routine, and automated-baseline work texture | done |
 | Kim's dog dislike and manifest restriction established separately | done |
 | Siren becomes the Barn's Boss; sibling bark goodbye begins | done |
 | Hayes and biscuit ritual established | done |
 | Mira introduced; Cerberus deliberately avoids her | done |
-| Nick continues the {Aura} pitch; Jace still refuses | done |
+| Nick brings food, continues the {Aura} pitch, and Jace still refuses | done |
 | Evening run and Helena memorial texture | done |
 | Astral perception and dreams escalate | done |

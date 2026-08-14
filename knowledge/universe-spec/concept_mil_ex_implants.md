@@ -5,7 +5,7 @@ name: MilX — Military Implant Systems and the Implant Ecosystem
 type: universe_spec
 status: established canon
 canonical: true
-last_updated: 2026-05-02
+last_updated: 2026-08-13
 cross_references:
   - "[[char_jace_apollo]]"
   - "[[concept_aura_ai_system]]"
@@ -160,9 +160,13 @@ MilX installation is surgical, requires general anesthesia, and is followed by a
 ### HUD Installation
 **Pain:** Severe and sustained for weeks. Implant sites behind each eye, at the base of the skull, and at both temples ache continuously. The eyes are the worst — scratchy, light-sensitive, painful to blink. Patients describe it as *"sandpaper behind your eyelids, all the time."*
 
-**The blind week.** HUD initialization requires a full visual cortex calibration with normal input suspended. Jace was blind for approximately one week. He was in a recovery room. The military facility ran out of toilet paper two days in. He could not see to find any. He showered instead every time rather than go without. He has told this story once, to Rich, who laughed with disproportionate pleasure. *"Most advanced visual implant in human history,"* Rich said, *"defeated by supply chain."*
+**The blind month.** HUD initialization requires a full visual cortex calibration with normal input suspended. Jace was blind for approximately one month. He was in a recovery room. The military facility ran out of toilet paper two days in. He could not see to find any. He showered instead every time rather than go without. He has told this story once, to Rich, who laughed with disproportionate pleasure. *"Most advanced visual implant in human history,"* Rich said, *"defeated by supply chain."*
 
-**Exercise through recovery.** Jace maintained his daily two-hour exercise routine throughout the blind week. He navigated the recovery gym by memory and touch. Medical staff found this unusual. He found not exercising to be the unusual option.
+**Exercise through recovery.** Jace maintained his daily two-hour exercise routine throughout the blind month. He navigated the recovery gym by memory and touch. Medical staff found this unusual. He found not exercising to be the unusual option.
+
+**Command sensation.** Trained commands do not feel like moving a hand. Jace compares them to pulsing exactly one tooth nerve. Activating an adjacent pathway can invoke two unrelated controls, such as infrared vision and an email folder. The military calibration once made those mappings automatic. The discharge wipe did not remove the hardware, but it did erase that ease.
+
+**Eight-camera fusion.** Jace's MilX HUD uses eight microcameras distributed through the ocular implants and brow. They triangulate his environment and can merge multiple perspectives into a live three-dimensional model. During civilian retraining, full 3D fusion produces a migraine. He therefore uses simpler overlays and fewer simultaneous feeds early in Book 1, leaving the reader room to discover the implant's deeper capabilities with him.
 
 **Post-boot-up.** When the system comes online, the experience is intense — the full dual-partition overlay appears for the first time. Physical reality plus a transparent information layer. Adaptation within hours for most; days for some.
 
@@ -223,5 +227,8 @@ For Jace specifically: his MilX's deep visual-cortex integration means that as h
 
 ## Revision Notes
 
-- 2026-05-02 (initial): HUD system, arm augments, sensory implants, neural stability implants established. Installation recovery, blind week, toilet paper incident, exercise commitment documented. Deactivation experience documented.
+- 2026-05-02 (initial): HUD system, arm augments, sensory implants, neural stability implants established. Installation recovery, blind-period toilet paper incident, exercise commitment documented. Deactivation experience documented.
 - 2026-05-02 (round 5): **Major rewrite.** Commercial implants section added (distinguishing from MilX). Spelling corrected to **MilX** throughout. Dual-partition architecture (Military OS / Civilian OS with hardware firewall) established as the defining MilX feature. Level 1/2/3 access system formalized. Biometric scan procedure documented. Sylvester re-enable as Level 1 documented. Games and {Aura} confirmed as running on Civilian partition. Magic-vulnerability and amplification thread flagged for future.
+- 2026-08-13: Replaced the one-week blindness with roughly one month and added
+  tooth-nerve command sensation, eight-camera fusion, accidental adjacent commands,
+  and the early 3D-feed migraine limit.

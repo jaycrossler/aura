@@ -6,7 +6,7 @@ type: medical_and_military_technology
 status: emerging_widespread
 era: late 21st century
 canonical: true
-last_updated: 2026-04-30
+last_updated: 2026-08-13
 ---
 
 # Cybernetic Augmentation Systems
@@ -17,7 +17,7 @@ By the story's present, cybernetic augmentation has progressed from medical pros
 
 The vast majority of the population relies on non-invasive wearables (smart glasses, contact lenses, bone-conduction earbuds, and wrist displays) to interact with their {Aura}.
 
-True, integrated **HUD implants** are an extreme, expensive commitment. A HUD implant consists of "pea-sized" bundles of advanced organic circuitry installed directly into the user's eyeballs. They cost upward of $1,000,000 to install per eye. They require a web of carbon wires laced around the user's skull to radiate off the massive excess heat generated when the machine's processing runs hot. The surgery takes months to heal from, and leaves the user's head constantly running a mild fever during heavy computation. As a result, they are mostly limited to military applications or extremely wealthy super-nerds.
+True, integrated **HUD implants** are an extreme, expensive commitment. A HUD implant consists of "pea-sized" bundles of advanced organic circuitry installed directly into the user's eyeballs. They cost upward of $1,000,000 to install per eye. They require a web of carbon wires laced around the user's skull to radiate off the massive excess heat generated when the machine's processing runs hot. Normal visual input remains disabled for roughly the first month of calibration. The surgery takes months to heal from, and leaves the user's head constantly running a mild fever during heavy computation. As a result, they are mostly limited to military applications or extremely wealthy super-nerds.
 
 ## Power Sources
 
@@ -36,13 +36,15 @@ Jace carries a current-generation U.S. Air Force-issued HUD implant. He had the 
 Specifications (working):
 
 - **Visual overlay.** Retinal projection providing tactical data, navigation, target identification, sensor feeds from connected systems.
+- **Eight-camera visual system.** Eight microcameras distributed through the ocular implants and brow line triangulate depth, track gaze, and combine external and remote feeds into a three-dimensional model.
 - **Audio.** Subvocal microphone (reads throat micromovements) and bone-conduction audio output.
-- **Neural interface.** Limited — provides command-level control of paired drones and systems, not full neural integration.
+- **Neural interface.** Limited control of paired drones and systems, not full neural integration. A trained command feels like pulsing one specific tooth nerve without activating the adjacent one. During Jace's post-discharge retraining, an adjacent pulse can switch the HUD to infrared while opening an unrelated email folder.
 - **{Aura} integration.** Hosts a military-licensed {Aura} instance with restricted federation and security-cleared knowledge stores.
 - **Sensor suite.** Biometric monitoring, environmental sensing (oxygen, radiation, temperature).
 - **Power.** Glucose interface; supplemental electrical charging available.
 - **Persistence.** Runs continuously while the user is conscious; goes into low-power "dreaming" state during sleep.
-- **Recovery profile.** Surgical implantation requires several weeks of physical recovery and several months for full neural integration. Most patients begin with limited overlay and gradually expand functionality as the brain adapts. Edge cases (rejection, integration failure, cognitive complications) occur in a small percentage of installations.
+- **Recovery profile.** Surgical implantation requires roughly one month without normal vision, several weeks of physical recovery, and several months for full neural integration. Most patients begin with limited overlay and gradually expand functionality as the brain adapts. Edge cases (rejection, integration failure, cognitive complications) occur in a small percentage of installations.
+- **Jace's retraining limit.** After the military mappings are wiped, Jace can use individual camera feeds. Combining all eight into a live three-dimensional view triggers a migraine behind his left eye until he rebuilds the neural pathways.
 
 When Jace is discharged, the implant is permitted to remain — it is medical equipment, not government property — but its security clearances are revoked, the military {Aura} instance is wiped, and a commercial {Aura} license is provisioned in its place. The hardware is still a generation ahead of consumer; the software and access are now civilian. Later, under the Sylvester arrangement, the device is re-elevated to civilian-contractor mode: most apps, games, courseware, and media restored; the secure military circuits and clearances do not return.
 
@@ -118,3 +120,6 @@ There is preliminary speculation (story-internal, contested) that AI-paired impl
 
 - 2026-04-28: Initial draft.
 - 2026-04-30: Updated from voice session. Added: Jace's surgery timing (shortly before Mars voyage; recovery during *Pinta* transit; still relatively new to the system at story start). Added: full Consumer HUD Market section detailing competitive ecosystem, update cadence, pricing tiers, upgrade economy, showroom culture, secondhand market. Added: civilian-contractor mode for the Sylvester reactivation arrangement.
+- 2026-08-13: Set the initial blind calibration period to roughly one month. Added
+  Jace's eight ocular and brow cameras, tooth-nerve command sensation, accidental
+  cross-command behavior, and 3D-feed migraine during civilian retraining.

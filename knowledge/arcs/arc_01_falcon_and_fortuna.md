@@ -282,6 +282,11 @@ as the complete list.)*
 - [ ] {Aura}, {Alex}, {SpoX}, {Chorus}, {Penny}, {Seek}, and {Misty} all appear with `{}` braces consistently — no plain text AI names anywhere
 - [ ] No magic ability has a typographic bracket marker — plain prose throughout Arc 1
 - [ ] Jace's 2,000,000-Token debt established and felt — gray soup, no coffee, the empty progress bar, per-query AI costs
+- [ ] Jace quietly downgrades to the inn's floor room; only Nick knows the exact debt, while the innkeeper infers enough to help
+- [ ] Nick's lack of a HUD, overlay glasses, and Jace's eight-camera retraining limits explain why implanted capability remains rare
+- [ ] Fortuna's civic redundancy appears on arrival through two inns and the separated Ring One and Ring Two Barns and farms
+- [ ] The three retired-PhD customs officers and paired American Red and Chinese murals introduce the station's political tension
+- [ ] Jace's early routine includes foot and drone deliveries, Sparky's unstable hover, games and food with Nick, and Suzi's war stories
 - [ ] Helena's jacket on the hook lands on arrival day before Suzi mentions her
 - [ ] Hayes established as a daily fixture before his medbay incident
 - [ ] Mira's following and Cerberus's avoidance established before her creations become elaborate

@@ -88,7 +88,21 @@ Ninety percent of Jace's work runs autonomously. The ten percent is where he ear
 it. Big operations are scheduled weeks out: prep, simulation, edge cases, full
 shift on the day.
 
-*(Remaining detail not fully retrieved this pass — verify against source.)*
+Early Fortuna routine:
+
+1. Heavy loads and exterior deliveries stay on Things One and Two.
+2. Jace carries light deliveries on foot because his Earth legs beat the interior
+   drone through crowded corridors. The miles replace the exercise his console lacks.
+3. He works on Sparky most evenings. Sparky can hover but still rebounds from walls
+   because trajectory smoothing is unfinished.
+4. Nick brings food and coffee, pretends the vendor doubled his order, and plays
+   strategy games with Jace. Nick alone knows the exact size of Jace's debt.
+5. Jace buys one drink at the Long Burn when he can and listens to Suzi's old war
+   stories. Their friendship must exist before she asks him to notice things for her.
+
+This routine should feel light and sustainable at first. Later crossings pull Jace
+away from Nick, work, sleep, and ordinary station life, so the reader knows what he is
+losing before the consequences stack up.
 
 ---
 

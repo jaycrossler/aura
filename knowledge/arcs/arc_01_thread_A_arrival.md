@@ -59,19 +59,30 @@ offloading via tugs. Jace rides over with Cerberus and Mei and Sparky. Carlos me
 him. People know who he is (especially the pig cam and Learning Mode video) before
 he knows a little of who they are.
 
-*(Full contract text not fully retrieved this pass — cross-check source. Known
-elements: Helena's jacket on the hook lands before Suzi mentions her; the stuffed
-pig Nick made for Cerberus is introduced here; station nicknames "Training Mode" /
-"Dog Man" established via T-03b2's footage preceding him.)*
-
-**NEW — from author notes, not yet in canon (recommend adding):**
-- Cerberus is a novelty on arrival — most people on the station are excited to
+**Current chapter requirements:**
+- Carlos meets Jace and Mei at customs before beginning the station tour.
+- Customs uses three elderly human officers, all retired PhDs: an American
+  crystallographer, Sai in agricultural systems, and Petroski in orbital structures.
+- Petroski is the station's only Russian man. The eight-successor-state exchange and
+  his "one on loan" line introduce the changed Russian political map.
+- The American Red and Chinese murals sit side by side. Both officers formally welcome
+  the arrivals; Carlos's "different color hair" line releases, but does not erase,
+  the tension.
+- Carlos explains at least two of every essential kind of place. The large Barn and
+  main farm are on Ring Two beside Chinatown. Ring One holds the smaller isolation
+  Barn and farm.
+- Cerberus is a novelty on arrival. Most people on the station are excited to
   meet him; many residents have never seen a dog in person before, and reactions
-  split between delight and open wariness
-- Kim is the one clear exception: she does not like dogs, and this is established
+  split between delight and open wariness.
+- Kim is the one clear exception. She does not like dogs, and this is established
   here before it becomes a running friction point in A-03. Her reaction to
   Cerberus should read as genuine dislike, separate from and unrelated to her
-  later scowl toward Jace — two different things the reader shouldn't conflate
+  later scowl toward Jace.
+- Helena's jacket lands before Suzi mentions her. Nick's stuffed pig and the
+  "Learning Mode" and "Dog Man" names also land here.
+- After Carlos leaves, Jace quietly downgrades to a floor-mattress room. The innkeeper
+  infers that he cannot afford the booked room, waives the dog deposit, and helps
+  without learning the exact debt. Only Nick knows the two-million-Token number.
 
 ---
 

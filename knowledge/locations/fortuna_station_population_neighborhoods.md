@@ -7,7 +7,7 @@ parent_location: location_fortuna_station
 status: draft
 canonical: true
 era_of_relevance: story present and beyond
-last_updated: 2026-06-30
+last_updated: 2026-08-13
 related_locations: [location_fortuna_station, location_metis_station, location_asteroid_belt_overview]
 related_characters: [char_jace_apollo, char_nick_lee, char_suzi, char_mei, char_helena]
 ---
@@ -117,7 +117,7 @@ Recommended civic loadout:
 - Market / retail cluster: 1 primary cluster plus small kiosks.
 - Recreation spaces: 4 to 6 major spaces.
 - Green / garden spaces: 3 to 5.
-- Animal and aquaculture areas: 1 major Barn complex plus support rooms.
+- Animal and aquaculture areas: 1 major Ring Two Barn and farm plus 1 smaller Ring One isolation Barn and farm on a separate air loop.
 - Security and emergency response: 1 combined headquarters plus posts.
 - Fire / pressure response caches: 20+ distributed lockers.
 - Maker / community fabrication spaces: 1 large public hall plus small workrooms.
@@ -235,6 +235,7 @@ Characteristics:
 - Most historical identity.
 - Highest prestige.
 - Most visible patchwork.
+- Small isolation Barn and backup farm with protected breeding stock and seed reserves.
 
 Nothing matches perfectly. The ring feels lived-in because people have survived there for years.
 
@@ -259,6 +260,8 @@ Key features:
 - Shops.
 - Market access.
 - Main Street.
+- Large Barn and main farm.
+- Chinatown.
 
 Ring Two is noisy, active, and crowded by station standards. It is the social heart of Fortuna.
 
@@ -332,9 +335,9 @@ It is noisy, hot by station standards, and respected. People who work in the Fou
 
 The most psychologically important civilian space. Contains hydroponics, small trees, flowers, seating, walking paths, humidity, and a carefully managed smell of living plants.
 
-### The Barn
+### The Two Barns
 
-The Barn is agricultural infrastructure and emotional anchor. It contains livestock pods, veterinary rooms, aquaculture tanks, grazing simulation lanes, feed processing, and animal monitoring.
+The large Ring Two Barn is agricultural infrastructure and emotional anchor. It contains livestock pods, veterinary rooms, aquaculture tanks, grazing simulation lanes, feed processing, and animal monitoring. The smaller Ring One Barn and farm keep backup animals, seed stock, and limited food production behind an independent biosecurity barrier.
 
 Animals include:
 - Chickens.
@@ -348,7 +351,11 @@ Animals include:
 - Fish.
 - Insects or larvae for feedstock, if needed.
 
-The Barn smells organic and alive. Many residents call it the closest place to Earth.
+The Ring Two Barn smells organic and alive. Many residents call it the closest place to Earth. The Ring One facility is quieter, less public, and intentionally isolated.
+
+### Chinatown
+
+Chinatown sits on Ring Two near the large Barn and main farm. It includes noodle counters, small groceries, family shops, meeting rooms, imported-food lockers, and Chinese-language services. It is a lived-in neighborhood, not a tourist district. Tension with American crews becomes visible here when belt politics worsens.
 
 ### The Market / The Mess
 
@@ -363,6 +370,8 @@ Unofficial trade and barter district. Common goods include printed parts, custom
 The Last Stop is near docking and caters to cargo crews, transient workers, and contractors. It is loud, rough-edged, and useful.
 
 Gold Horizon Inn is near the Commons and serves visiting executives, technical specialists, negotiators, and people who want quiet drinks.
+
+Gold Horizon also maintains a few unadvertised floor rooms for residents who need the lowest possible rate. Each has a floor mattress, a dresser, and access to a shared washroom. The innkeeper quietly moves Jace into one after recognizing that the room Origin booked would consume his food budget.
 
 ### The Tank
 

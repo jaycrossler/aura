@@ -2,8 +2,8 @@
 id: spec_audiobook_narration_style
 name: "Audiobook Narration Prose Style"
 type: prose_style
-status: proposed_canonical
-last_updated: 2026-08-12
+status: canonical
+last_updated: 2026-08-13
 description: >
   Project-wide prose rules for short, engaging chapter narration that works
   cleanly with audiobook generators.
@@ -23,3 +23,4 @@ Use these rules for chapter drafts and scene prose.
 8. Preserve project typography. AI system names use curly braces. Named abilities do not use square brackets in prose until Jace establishes that convention in-story.
 9. Prefer specific sensory details over stacked adjectives. Use one strong detail, then move.
 10. Read dialogue and action aloud during revision. Replace punctuation that asks a narrator to infer an unnatural pause.
+11. In chapter manuscripts, spell the terms as `AI` and `AIs`. In audiobook exports, convert both singular and plural forms to `A.I.` so text-to-speech systems pronounce the letters separately.

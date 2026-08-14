@@ -6,8 +6,8 @@ aliases: ["American Red", "the Red party", "the Red administration"]
 type: faction
 faction_type: political_party (U.S. federal government, ruling)
 status: in power (from ~6 months after the bridge incident)
-canonical: proposed
-last_updated: 2026-07-21
+canonical: true
+last_updated: 2026-08-13
 cross_references:
   - "[[char_jace_apollo]]"
   - "[[char_major_barnes]]"
@@ -16,6 +16,8 @@ cross_references:
   - "[[faction_united_states_military_intelligence]]"
   - "[[faction_origin_industries]]"
   - "[[timeline_disclosure_political_response]]"
+  - "[[location_fortuna_station]]"
+  - "[[char_petroski]]"
 ---
 
 # The American Red Party
@@ -43,6 +45,12 @@ is real and borne by sympathetic people.
   optimized, not communities to be tended.
 - **Control over trust.** Loyalty is verified, not assumed — preferably by systems that
   don't get tired, sentimental, or insubordinate. Hence the heavy reliance on AI.
+
+## Visual Identity and Fortuna Presence
+
+The party uses a red-washed version of the American flag with fifty-four stars and a giant red flag bearing an eagle as its public symbols. Official portraits show the party's large, jowled leader wearing a red hat. Fortuna's customs area displays these images behind the American desk, where the rotating officer formally says, "On behalf of the American Red Party, welcome to Fortuna."
+
+The American mural deliberately sits beside a Chinese red flag and a similarly framed portrait of China's round-faced leader. The similarity is politically uncomfortable. Carlos reduces it to, "Different color hair," while Petroski snorts and leaves. The scene introduces the party through civic ritual, visual control, and station humor before its role in Jace's purge receives a full explanation.
 
 ## The Purge
 
@@ -93,3 +101,7 @@ confidence in its own sensors. (See `tech_eagle_ai.md`; reader-only in Arc 1.)
 - [ ] Exact governance relationship to Origin and to Mars Command.
 - [ ] Whether Barnes was purged for backing Jace (see `char_major_barnes.md`).
 - [ ] Confirm timeline anchors against `timeline_master.md` and `outbreak_timeline.md`.
+
+## Revision Notes
+
+- 2026-08-13: Promoted to canonical and added the fifty-four-star flag, eagle flag, leader portrait, and Fortuna customs welcome.

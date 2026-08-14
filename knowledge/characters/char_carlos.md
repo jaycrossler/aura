@@ -5,7 +5,7 @@ name: Carlos [surname TBD]
 type: character
 status: alive
 first_appearance: Scene 1-05a — arrival day at Fortuna
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: "Drone operations coworker at Fortuna Station. Older, always wears a cardigan sweater and tie. Jace's guide on arrival day."
 cross_references:
   - "[[char_jace_apollo]]"
@@ -13,6 +13,8 @@ cross_references:
   - "[[arc_01_falcon_and_fortuna]]"
   - "[[char_erin]]"
   - "[[char_kim]]"
+  - "[[char_petroski]]"
+  - "[[char_sai]]"
 ---
 
 # Carlos
@@ -61,6 +63,17 @@ On arrival day (Ch07), Carlos guides Jace through Fortuna Station's key district
 6. Medical Bay
 7. Drone-Ops Bay
 
+Carlos meets Jace and Mei at customs before the tour. He explains Fortuna's practical
+redundancy rule: the station maintains at least two versions of every essential kind
+of place. The large Barn and main farm sit on Ring Two beside Chinatown. A smaller
+Barn and farm remain isolated on Ring One so one animal disease cannot reach the
+entire founder population. He applies the same logic to clinics, kitchens, workshops,
+inns, and bars.
+
+At customs, Carlos translates the political theater without taking a side. When Jace
+asks how the American Red and Chinese leadership portraits differ, Carlos answers,
+"Different color hair."
+
 ## Relationship to Erin's Inn
 
 Carlos has maintained a comfortable distance from the chaos of the second transit inn
@@ -78,3 +91,5 @@ someone who has made the correct choice and is at peace with it.
 
 - 2026-06-26: Initial draft. Established from Scene 1-05a arrival sequence.
 - 2026-08-12: Updated with Ch07 details (formal sponsor of record role, Cerberus greeting protocol, Arrival Tour itinerary, Kim drone-ops cross-ref).
+- 2026-08-13: Added the three-officer customs meeting, political mural joke, and
+  two-of-everything redundancy explanation.

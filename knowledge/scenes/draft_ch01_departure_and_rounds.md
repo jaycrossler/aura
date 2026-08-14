@@ -295,6 +295,22 @@ They'd met months back the same way most of the belt met, online. A public strat
 
 The military had once tuned the implant within his skull until intention became command. He had commanded thirty drones without thinking about menus, gesture layers, or which eye held focus. After discharge, the service had wiped those trained mappings and returned the civilian partition to factory standard. The hardware remained in his skull. The practiced interface did not. Some of the others that had been kicked out related it to relearning to walk after a coma.
 
+*What does it feel like?* Nick sent.
+
+Jace read the message twice. *You do not have a HUD?*
+
+*I have overlay glasses. They cost less than a house. An implant leaves you blind for a month while your brain recovers.*
+
+Jace had assumed Nick was implanted. Everyone who beat him this badly should have needed surgery.
+
+He tried to explain. Sending a command felt like controlling exactly one tooth nerve. Not his jaw. Not his tongue. One nerve under one tooth, pulsed in precisely the right way. If he hit the neighboring pathway, the HUD switched to infrared and opened an email folder while his mech walked into enemy fire.
+
+Eight cameras in his eyeballs and brow triangulated the room around him. Before the military wipe, his implant had fused their feeds without effort. Now, if he tried to watch anything through all eight cameras in full three dimensions, a migraine began behind his left eye.
+
+*That sounds terrible,* Nick sent.
+
+*It used to feel better.*
+
 Now three simulated mechs crowded his attention. Two he could manage. A third turned every command into a negotiation with his own visual cortex. Nick won while Jace was still trying to select the correct set of attack commands.
 
 *You are getting better,* Nick sent.
@@ -348,6 +364,8 @@ Behind his left eye, the burning coal flared with migraine-inducing pain.  OK, n
 | NEW - One-crossing-plus-five-year-Fortuna-contract mention | done | must_accomplish | beat2_morning_routine |
 | NEW - Third pill, for the bone condition that predates his discharge | done | must_accomplish | beat2_morning_routine |
 | NEW - Nick/Jace's "met a few months ago via strategy games" backstory | done | must_accomplish | beat3_birthday_and_game |
+| NEW - Nick uses overlay glasses because implanted HUDs cost too much and require a month without normal vision | done | must_accomplish | beat3_birthday_and_game |
+| NEW - Jace explains tooth-nerve commands, eight-camera fusion, accidental adjacent controls, and 3D migraines | done | must_accomplish | beat3_birthday_and_game |
 | NEW - Jace assumes Nick's short-mech joke is a height joke (belters run tall) | done | must_accomplish | beat3_birthday_and_game |
 
 ## Open Notes

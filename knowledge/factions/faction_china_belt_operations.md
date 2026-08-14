@@ -4,7 +4,7 @@ name: China Belt Operations
 type: faction
 status: active
 canonical: true
-last_updated: 2026-07-12
+last_updated: 2026-08-13
 description: >
   The umbrella entity for Chinese state and state-affiliated presence across the
   asteroid belt — Tianhe Cosmics as the operating corporation, the Ministry of
@@ -116,6 +116,10 @@ secrecy (see Jin's three months of unreported nest-clearing, `arc_01_thread_P_pr
 P-04) comes from realistic fear of {Seek} and what an honest report costs them,
 not from any actual hostility toward the station or its other residents.
 
+## Fortuna Customs Presence
+
+The customs area places a large Chinese red flag and a framed portrait of a round-faced national leader beside the American Red Party's red-washed flag and leader portrait. Elder Sai staffs the Chinese desk during Jace and Mei's arrival and says, "China welcomes you." The side-by-side imagery makes the two systems look more alike than either claims, creating a small but visible point of political tension.
+
 ## Post-Disclosure Policy Reversal (NEW — author notes)
 
 The Odysseus-triggered withdrawal (above) reverses sharply once the swarm fight
@@ -162,3 +166,4 @@ arrives in time to matter for the swarm battle or arrives too late.
   `char_mei.md`, `location_psyche_station.md`, `location_odysseus_station.md`,
   and the restructured arc_01 thread files — no new worldbuilding invented,
   only consolidated into a dedicated faction file.
+- 2026-08-13: Added the Fortuna customs mural and Sai's formal arrival welcome.

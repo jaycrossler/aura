@@ -35,22 +35,25 @@ hair: Black; always styled and tinted a different colour; takes deliberate time 
 appearance_summary: >
   4'6", thin and wiry, looks 17 at 28. Light Korean skin, black eyes. Black hair
   always styled and tinted green ("the green of a chemistry accident" at Arc 1 start).
-  Thick AR glasses (always the current testing model; always cracked somewhere;
+  Thick overlay glasses (always the current testing model; always cracked somewhere;
   replaced next day). Two pearl-style earrings containing {Aura} instances. Keyboard
   gloves on his hands at all times — constantly typing or gesturing in the air.
 
 distinguishing_features: >
-  The thick AR glasses that are always broken. The pearl earrings that make a faint
+  The thick overlay glasses that are always broken. The pearl earrings that make a faint
   tinny sound if you are close enough. The keyboard gloves with screens on the backs
   of his hands. The hair — always styled, tinted green at Arc 1 start; the one vanity
   he commits to.
 
 # The Glasses
-always_wearing: thick AR glasses; current testing model
+always_wearing: thick overlay glasses; current testing model
 always_breaking: sits on them, someone opens a door into them, someone steps on them
 replacement: has a new pair the next day; running station joke; he always seems to
   be on the same model because he breaks them before the next generation ships
 running_joke: true
+implant_status: no neural HUD implant
+reason_no_implant: integrated HUDs cost more than Nick can justify and require roughly
+  one month without normal vision during recovery; he prefers replaceable overlay glasses
 
 # The Earrings
 appearance: Large pearl-style; one per ear; look purely decorative
@@ -90,8 +93,9 @@ baseline: Has some Bay Area inflection under the performance; the San Francisco 
 # San Francisco Residue
 monitor_background: Cycles through photographs of the San Francisco Bay Bridge — different
   weather, lighting, times of day; many taken by his father before the flooding
-on_flooding: Occasionally remarks, unprompted: "Most of those are from before all the
-  flooding." Not sad exactly — more like carrying a fact.
+on_flooding: >
+  Occasionally remarks, unprompted, "Most of those are from before all the flooding."
+  Not sad exactly, more like carrying a fact.
 
 # The 90-Second Crossing
 what_happened: Vomited up noodles; sat on the floor; five minutes of silence
@@ -104,7 +108,7 @@ when_memory_comes_up: Makes the game joke; changes the subject; subject stays ch
 magic_user: TBD — nascent [Information Flow] unrecognised by himself
 notable_skills:
   - AI development and systems integration (expert-level)
-  - {Aura} stack assembly, tuning, and jailbreaking
+  - "{Aura} stack assembly, tuning, and jailbreaking"
   - Open-source software archaeology
   - Pattern recognition across distributed systems
   - Social network-building across belt stations
@@ -119,9 +123,9 @@ when_pushed: Firm; friendliness doesn't vanish but the padding does; goes precis
 technical_mode: Accent drops; voice flattens; sounds more senior
 with_jace: Highest laugh rate; gamer shorthand; truest version; most relaxed
 example_dialogue:
-  - "THERE it is." (reaction to Jace's "you're shorter than in the mecha" comeback on first meeting)
-  - "That's not what I'm talking about, though... I'm not building that." (Ch05 {Aura} pitch)
-  - "That skull cap of yours is running at maybe thirty percent load." (Ch05 idle-processing argument)
+  - '"THERE it is." Reaction to Jace saying Nick is shorter than his mecha.'
+  - '"That is not what I am talking about, though... I am not building that." Ch05 {Aura} pitch.'
+  - '"That skull cap of yours is running at maybe thirty percent load." Ch05 idle-processing argument.'
 
 # Story Function
 archetypes: [the wizard in the back room, the gatekeeper of the underground, the multiplier]
@@ -134,7 +138,7 @@ beliefs: >
   commons underneath it all — so the infrastructure isn't corporate-owned. Subversive,
   dreamy, sincere. This is the seed of the Arc 1 open-source decision.
 
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 sheets:
   - sheet_nick_arc01_end
 cross_references:
@@ -148,7 +152,7 @@ cross_references:
 Nick Lee is a Korean-American AI engineer and programmer at Fortuna Station — developer
 and maintainer of the {Aura} AI stack that everyone in the belt uses. He is 4'6", thin
 and wiry, 28 years old and looks seventeen. He has black hair that he always styles and
-tints some interesting colour. He wears thick AR glasses that are always cracked and
+tints some interesting colour. He wears thick overlay glasses that are always cracked and
 always replaced the next day. He has pearl-style earrings containing live {Aura}
 instances. He wears keyboard gloves at all times and is constantly typing in the air
 or on the backs of his own hands.
@@ -196,6 +200,21 @@ on them. He looks dejected for a moment. He has a new pair the next day. He seem
 always be testing the same generation because he breaks them before the next ships.
 This has been going on for years.
 
+## Why Nick Does Not Have a HUD
+
+Nick uses overlay glasses, keyboard gloves, and the two earring-mounted {Aura}
+instances instead of a neural implant. He understands implanted HUD architecture
+better than most users, but considers the price and recovery irrational for his work.
+A full installation costs more than he can afford and leaves the patient without normal
+vision for roughly a month while the visual cortex calibrates. Glasses break. They can
+also be replaced the next morning.
+
+During an early strategy game, Nick asks Jace what direct command feels like. Jace
+compares it to pulsing exactly one tooth nerve. An adjacent neural pulse can switch the
+HUD into infrared while opening an email folder. Jace's eight ocular and brow cameras
+can triangulate full three-dimensional feeds, but doing so during civilian retraining
+triggers migraines.
+
 ## The 90-Second Crossing
 
 Nick went into the Astral once, for ninety seconds, and vomited up noodles on the way
@@ -234,4 +253,6 @@ the subject.
   pre-flooding). 90-second crossing aftermath (noodle vomit, "not like in the games", 4D
   wrongness). Belt-adapted movement (20 years in low gravity).
 - 2026-07-14: Reworked transit companions: updated Jace friendship origin, added 10× vision belief, added drone-testbed HUD pairing note.
+- 2026-08-13: Established that Nick has no implant, uses overlay glasses, and rejects
+  the cost and month-long blind recovery. Added Jace's early command-sensation explanation.
 - 2026-08-12: Updated with Prologue-Ch07 details (hair tint green confirmed, hand-sewn pig gift for Cerberus, Ch05 pitch dialogue anchors).

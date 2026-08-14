@@ -125,6 +125,10 @@ She smiled. It changed her face more than Jace expected.
 
 They stayed too long telling war stories. When Jace walked back to the boring inn, the station felt less like a job site and more like a place where someone knew he was there.
 
+A routine formed before Jace admitted he had one. He ran light deliveries on foot and sent the heavy work by drone. He met Nick for food and strategy games. He spent an hour with Sparky most evenings, improving the hover long enough for it to bounce off a different set of walls. When Suzi was at the Long Burn, he bought one drink and listened to her turn old deployments into arguments about logistics.
+
+For a few days, Fortuna felt almost comfortable.
+
 Suzi waited three days before she used that trust.
 
 This time she joined him at the cafeteria's gray-soup table. No drink. No smile.
@@ -139,7 +143,7 @@ Jace kept his face still. She had been watching. Base security. Of course.
 
 He could tell her about the spire. The feather sat in a private evidence sleeve at the bottom of his sock drawer at the inn. He could show her footage of himself fighting empty air.
 
-He imagined the medical hold, the Origin audit, and another bright message from {Alex} explaining that institutional concern carried no malice. {Alex} and the other station A.I.s would be watching them, even here.
+He imagined the medical hold, the Origin audit, and another bright message from {Alex} explaining that institutional concern carried no malice. {Alex} and the other station AIs would be watching them, even here.
 
 "Ships hide voids," he said. "Old retrofits. Dead conduit. Spaces that exist on the blueprint and not the scan, or the other way around."
 
@@ -187,7 +191,7 @@ Suzi continued. "Helena knew everyone. Half the station wants Jin Lóng charged 
 
 Suzi glanced toward the Chinese tables before answering.
 
-"I think his people hold access I cannot audit. Their A.I. won't share anything. I also think suspicion is not evidence, even when it feels like it. I don't know.  But something fishy is going on."
+"I think his people hold access I cannot audit. Their AI won't share anything. I also think suspicion is not evidence, even when it feels like it. I don't know.  But something fishy is going on."
 
 She heard the edge in her own words. Her mouth tightened.
 
@@ -270,6 +274,7 @@ The dog gave one low growl.
 | Helena memorial remains active community grief | done |
 | Dream predicts a location Jace later sees | done |
 | Suzi friendship precedes investigative ask | done |
+| Early routine combines foot and drone deliveries, Nick's games, Sparky work, and Suzi's war stories | done |
 | Helena case described precisely without declaring Jin guilty | done |
 | Suzi acknowledges her bias | done |
 | Suzi asks Jace to notice through delivery access | done |

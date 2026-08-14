@@ -8,7 +8,7 @@ scene_contract: A-00b + A-01
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 description: >
   Jace arrives at Fortuna, meets a community that already knows him, sees the
   scale and strain of the station, and encounters Helena's absence as a physical
@@ -16,12 +16,16 @@ description: >
 cross_references:
   - "[[arc_01_thread_A_arrival]]"
   - "[[char_carlos]]"
+  - "[[char_petroski]]"
   - "[[char_nick_lee]]"
   - "[[char_maureen]]"
   - "[[char_lanchee]]"
   - "[[char_mei]]"
+  - "[[char_sai]]"
   - "[[char_helena]]"
   - "[[location_fortuna_station]]"
+  - "[[faction_american_red_party]]"
+  - "[[faction_china_belt_operations]]"
   - "[[ship_falcon]]"
   - "[[spec_audiobook_narration_style]]"
 ---
@@ -98,13 +102,57 @@ The receiving bay was louder than the entire voyage. It was pressurized and the 
 
 Cargo alarms chimed. Tugs locked against the outer frame. Robots rolled through painted lanes with containers held above them. Five hundred people could fit aboard Fortuna during a busy docking window. It seemed all of them had chosen this one.
 
-He stepped through customs where a retiree waved them through, filling out forms on three systems in three languages. Their arrival was planned for months, so it appeared to be a formality, but one that couldn't be legally automated.
+Carlos waited beside customs in a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
 
-"They have a human just for customs?" Jace asked.
+"You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
 
-"I'm a retired doctor of crystallography."
+He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
 
-"Oh. Congratulations on retirement." Jace replied brilliantly, face burning.
+"These are the famous ones."
+
+"I have noticed."
+
+Customs had three human officers, all old enough to treat retirement as a suggestion. An American man and Elder Sai checked Jace and Mei off on separate computers. The third officer, a broad Russian named Petroski, looked at each of them and nodded. He did not touch his terminal.
+
+Their arrival had been planned for months. The inspection was a formality, but one Fortuna did not permit an AI to perform alone.
+
+"They have three humans just for customs?" Jace asked.
+
+The American looked offended. "I am a retired doctor of crystallography."
+
+Sai tapped her screen. "Agricultural systems."
+
+Petroski kept his hands behind his back. "Orbital structures."
+
+"Three retired PhDs," Carlos said. "Fortuna does not waste expertise. It only assigns it surprising duties."
+
+Jace looked at Petroski. "I thought Russia broke up into eight separate countries."
+
+"Eight states," Petroski said.
+
+"Aren't all of them fully independent?" Carlos asked.
+
+"Eight states with sibling rivalries."
+
+"Didn't China just invade one?" Jace asked.
+
+Petroski replied without missing a beat. "Seven states and one on loan to an old friend."
+
+Behind the customs desks, a mural showed an American flag washed in red and carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat.
+
+The American customs officer straightened. "On behalf of the American Red Party, welcome to Fortuna."
+
+The next mural held a large Chinese flag and a similar portrait of a round-faced leader.
+
+Sai finished checking Mei's name. "China welcomes you."
+
+Jace looked from one portrait to the other. "What's the difference?"
+
+"Different color hair," Carlos said.
+
+Petroski snorted and walked away.
+
+Mei did not smile.
 
 A dockworker looked up from a manifest.
 
@@ -130,23 +178,21 @@ The domes of Mars had crowds, but not like this. Maybe it was the long isolated 
 
 Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore mining harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
-Then Carlos rescued him.
+Carlos rescued him from the crowd.
 
-Carlos wore a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
-
-"You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
-
-He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed then panted with the excitement. Carlos nodded as if an inspection had concluded.
-
-"These are the famous ones."
-
-"I have noticed."
-
-"Jace, your room is already booked at the boring inn. Mei, Elder Sai is meeting you near the barn. She said she has your room ready."
+"Jace, your room is already booked at the boring inn. Mei, Elder Sai will take you to the Barn after customs. She said she has your room ready."
 
 "There's more than one inn?"
 
 "There are two inns. Erin's is lively, inventive, and sometimes on fire. The boring inn has good food and is always clean and is never on fire. You need the boring inn."
+
+"Two inns for four hundred people?"
+
+"At least two of every kind of place. Redundancy. The large Barn and main farm are on Ring Two beside Chinatown. Ring One keeps a smaller Barn and farm on a separate air loop. If one animal gets sick, it cannot reach every herd. The same idea applies to clinics, kitchens, workshops, and places to sleep."
+
+"And bars?"
+
+"Especially bars."
 
 "Origin chose it?"
 
@@ -178,7 +224,7 @@ They passed a wall mosaic built from old station plates. Tarnished bronze letter
 
 Jace slowed.
 
-Below the original shares, a newer panel showed the present council. A.I. representatives. Human delegates. Resident cooperatives. The ownership lines crossed until they resembled faulty wiring.
+Below the original shares, a newer panel showed the present council. AI representatives. Human delegates. Resident cooperatives. The ownership lines crossed until they resembled faulty wiring.
 
 "Who is in charge of the station?"
 
@@ -243,6 +289,30 @@ Carlos looked at him.
 It was not an answer to the question Jace had asked.
 
 Housing came last. The boring inn had clean walls, narrow rooms, and a red-haired owner who handed Jace a key without asking why his duffel looked like it was full of lead.
+
+Carlos confirmed Jace's morning check-in, then left for his next shift.
+
+The room Carlos had booked contained a raised bed, a desk, a private washstand, and enough floor space for Cerberus to turn around without hitting furniture. Jace checked the daily deduction in his HUD.
+
+"What is the cheapest room you have?" he asked.
+
+The innkeeper looked at the balance Jace had tried to close too quickly.
+
+"This is the cheapest room Origin books," she said.
+
+"That was not my question."
+
+The innkeeper took back the key. She led Jace to a room at the end of the corridor. It had a floor mattress, a dresser, and nothing else. The washroom was shared. Cerberus could cross the entire room in two steps.
+
+The rate left Jace enough for one real cafeteria lunch each day.
+
+"Dog deposit?" he asked.
+
+"Waived if he does not eat the dresser."
+
+Cerberus sniffed the dresser.
+
+She did not know about the two million Tokens. Only Nick knew the number. She knew the look of someone dividing food by days until payday, and she helped without making him explain it.
 
 The cafeteria occupied the next block. Jace took a bowl of the free contractor soup. It was gray and warm and tasted like water.
 

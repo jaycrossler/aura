@@ -21,13 +21,16 @@ rings: three parallel rotating rings on a common spine (Ring Three under constru
 ring_radius: ~100 m
 artificial_gravity: ~1/3 g (≈0.33g), constant, at roughly ~1.7 RPM at 100 m radius
 canonical: true
-last_updated: 2026-07-27
+last_updated: 2026-08-13
 cross_references:
   - "[[location_belt_visual_prompt_library]]"
   - "[[location_the_scar_never_never]]"
   - "[[tech_everyday_robotics_and_ai]]"
   - "[[tech_space_materials_and_fabrication]]"
   - "[[visual_profile_fortuna_station]]"
+  - "[[char_petroski]]"
+  - "[[faction_american_red_party]]"
+  - "[[faction_china_belt_operations]]"
 
 # Fleet and Associated Vessels
 associated_vessels: 20-30 small ships and exploration platforms (various companies and mining groups)
@@ -43,9 +46,9 @@ travel_connections: [nuclear ferry from Mars (~4.5 months), inter-belt transits 
 strategic_significance: largest inner-belt station; food, smelting, manufacturing, mining coordination, comms relay before blackout
 
 # Cross-references
-notable_inhabitants: [char_jace_apollo, char_nick_lee, char_mei, char_suzi, char_helena]
+notable_inhabitants: [char_jace_apollo, char_nick_lee, char_mei, char_suzi, char_helena, char_petroski]
 associated_vessels_docked: [ship_victoria, ship_falcon]
-related_factions: [faction_belter_stations, faction_megacorps]
+related_factions: [faction_belter_stations, faction_megacorps, faction_american_red_party, faction_china_belt_operations]
 related_ships: [ship_falcon, ship_victoria]
 related_locations: [fortuna_station_population_neighborhoods, location_metis_station, location_asteroid_belt_overview]
 related_events: [event_jace_arrives_fortuna, event_communications_blackout, event_first_magical_incident_fortuna, event_helena_disappearance, event_china_belt_withdrawal]
@@ -103,6 +106,8 @@ Each ring has a circumference of about 628 meters. A practical walk around a rin
 
 Ring One is the original settlement. It contains leadership offices, archives, older residential pods, clinic functions, some early market spaces, and the highest concentration of residents who remember Fortuna before it looked viable.
 
+It also holds Fortuna's smaller Barn and backup farm on an isolated air loop. The facility preserves breeding stock and basic food production if disease, contamination, or mechanical failure closes the larger Ring Two complex.
+
 It feels patched and beloved:
 - Older canisters mounted into newer frames.
 - Scuffed grab rails polished by hands.
@@ -116,6 +121,8 @@ Ring One has prestige because it has survived.
 ### Ring Two - Civic Ring
 
 Ring Two is the social heart. It contains schools, restaurants, small shops, recreation, family housing, the main market, and most normal daily life. It is the place where Fortuna feels most like a town rather than a machine.
+
+Ring Two also contains the large Barn, the main farm, and Chinatown, the dense Chinese-heritage commercial and residential district built around noodle counters, family shops, meeting rooms, and imported food lockers.
 
 Its main corridors are deliberately wide for a station of this size. A typical civic corridor is 5 to 7 meters wide and 3 to 4 meters high, with wider node spaces at intersections. The ceiling carries LED cloudscapes and artificial sky cycles. The station has very few real windows in rotating corridors because external views and spin geometry can cause disorientation. Instead, residents prefer sky ceilings, mural panels, and calm internal vistas.
 
@@ -169,6 +176,8 @@ The overall design should not look like sleek science fiction. It should look li
 ## Rule of Three
 
 Fortuna's operating law is simple: one is none, two is one, three is safe.
+
+The same instinct shapes civic services. Fortuna keeps at least two versions of every essential kind of place, even when one is much smaller. It has two inns, distributed clinics, separate kitchens, multiple workshops, and two agricultural complexes. The large Barn and main farm operate on Ring Two. The smaller Ring One facilities remain on a separate air loop so a sick animal cannot expose the entire founder population.
 
 Critical systems have three layers:
 - Station layer.
@@ -255,7 +264,7 @@ Construction facilities include:
 
 ## The Barn and Animal Culture
 
-The Barn is Fortuna's most distinctive civilian space. It is both agricultural infrastructure and emotional anchor. It includes livestock pods, veterinary areas, aquaculture tanks, feed processing, animal exercise lanes, and controlled grazing simulation spaces.
+The Ring Two Barn is Fortuna's most distinctive civilian space. It is both agricultural infrastructure and emotional anchor. It includes livestock pods, veterinary areas, aquaculture tanks, feed processing, animal exercise lanes, and controlled grazing simulation spaces. A smaller Ring One Barn and farm hold backup breeding stock, seed reserves, and basic production behind a separate biosecurity boundary.
 
 Animals include chickens, rabbits, goats, sheep, pigs, working dogs, cats, aquaculture fish, and a small number of high-status cattle or cattle-derived breeding assets. Large animals are rare because mass, feed, waste, and veterinary complexity matter.
 
@@ -270,6 +279,12 @@ The Commons is the closest thing Fortuna has to a public square. It is in the In
 ### Main Street
 
 Each ring has a Main Street corridor. The best-known one is in Ring Two. It has a wide pedestrian lane, small shops, benches, wall gardens, public screens, and ceiling cloudscapes.
+
+### Customs and Political Murals
+
+Fortuna keeps human customs officers because arrivals cannot be cleared entirely by AI. Retired PhDs rotate through the duty. On Jace and Mei's arrival, an elderly American crystallographer and Sai, a retired agricultural-systems PhD, check names on separate computers. Petroski, the station's only Russian man and a retired orbital-structures PhD, verifies arrivals with a look and a nod.
+
+The customs wall displays the investors' political identities. The American section uses a red-washed flag with fifty-four stars, a giant red flag bearing an eagle, and a framed portrait of the American Red Party's large, jowled leader in a red hat. The Chinese section uses a large red flag and a parallel portrait of a round-faced leader. The visual symmetry should create unease before the dialogue turns it into a joke.
 
 ### The Market / The Mess
 
@@ -405,11 +420,13 @@ SHOULD NOT invent:
 - [[char_nick_lee]]
 - [[char_mei]]
 - [[char_suzi]]
+- [[char_petroski]]
 - [[char_helena]]
 - [[magic_breach_crossers_transient]]
 
 ## Revision Notes
 
 - 2026-06-30: Expanded spatial logic, corridor design, surface operations, warehouse/construction facilities, Rule of Three, robot density, Barn details, and reusable visual prompts. Verified population/loadout as plausible for a 350-person permanent station with 50-150 transients and extensive automation.
+- 2026-08-13: Added civic two-of-everything redundancy, the Ring One isolation Barn and farm, Ring Two Chinatown, and the three-officer customs area with American Red and Chinese political murals.
 - 2026-06-17: Population and three-ring architecture update.
 - 2026-04-28: Initial draft replacing Demeter Station.
