@@ -142,7 +142,7 @@ Sophia opened a fresh notebook page and wrote a large number at the top.
 
 "Crossing number?" Jace asked.
 
-"Around forty alone. Last night became 41. This is 42, and our first planned crossing together."
+"Forty alone. Last night became 41. This is 42, and our first planned crossing together."
 
 "You stopped counting exactly before forty."
 

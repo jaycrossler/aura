@@ -39,7 +39,7 @@ cross_references:
 
 **Victoria Safe-Haven Rule:** No Astral threats or creatures inhabit the *Victoria*. Sophia's ship is a secure crossing base while docked and can detach from Fortuna if needed. Fauna may occupy parts of Fortuna's walls and become a direct threat once the team leaves the ship through the station connection.
 
-**Early Nomenclature and Count:** Sophia calls the place the Never-Never, based on childhood Baba Yaga stories about walking into shadows and a house larger inside than outside. She has completed around forty solo crossings when Jace finds her during crossing 41. Their first planned joint crossing aboard the *Victoria* is crossing 42. After several days of experiments, Jace proposes Astral from old books and games because it is easier to say. Sophia accepts the new working term.
+**Early Nomenclature and Count:** Sophia calls the place the Never-Never, based on childhood Baba Yaga stories about walking into shadows and a house larger inside than outside. She has completed forty solo crossings when Jace finds her during crossing 41. Their first planned joint crossing aboard the *Victoria* is crossing 42. After several days of experiments, Jace proposes Astral from old books and games because it is easier to say. Sophia accepts the new working term.
 
 ---
 

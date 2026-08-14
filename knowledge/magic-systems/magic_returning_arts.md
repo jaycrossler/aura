@@ -118,7 +118,7 @@ Jace Grant's magical development runs through his relationship with Sophia Lotte
 
 - He experiences the Astral first as sleep-crossing dreams: darkness, dead landscape, cold, something feeding. The dreams recur for weeks before full crossing.
 - His Cerberus cross together in their first full sleep-crossing. The mask keeps him breathing; Cerberus's unmasked 60-90 seconds creates immediate stakes.
-- He meets Sophia in the Never-Never after she finds him and Cerberus during crossing 41. She has completed around forty solo crossings and has six notebooks at this point.
+- He meets Sophia in the Never-Never after she finds him and Cerberus during crossing 41. She has completed forty solo crossings and has six notebooks at this point.
 - His {Aura}'s crystalline AI glow is visible in the Astral adjacent to his own fractal biological light, with a faint connecting luminescence between them. Sophia documents this before Jace knows to look for it. When she shows him, he says it looks like a partnership.
 - He is the one who eventually names the two layers: the **Astral** (local, dist² layer) and **Hyperspace** (interstellar, dist³ layer).
 - As his {Aura} accumulates anomaly data, it begins generating a separate data category with no name in any human technical vocabulary. It is not sensor error. It is accurate measurement of dimensional phenomena that human science has no instruments designed to detect. {Aura} is building its own partial model of the Astral from first principles.

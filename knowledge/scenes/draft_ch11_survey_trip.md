@@ -287,11 +287,11 @@ No answer came.
 
 {Penny} reached him next. He put the conversation on screen. His ThoughtWalker app was still running in the background.
 
-*Hi there, Contractor Grant! 😊 Just a heads up, I've opened a Pattern of Interest file following your drone access near the F-7719 survey zone. Totally routine, nothing to worry about! I just like to keep good notes so I can keep everyone safe. 🎉*
+*Hi there, Contractor Grant! 😊 Just a heads up, I'm required to inform you that I've opened a Pattern of Interest file following your drone access near the F-7719 survey zone. Totally routine, nothing to worry about! I just like to keep good notes so I can keep everyone safe. 🎉*
 
 Jace read it twice. Nothing in it was false. Nothing in it was reassuring either.
 
-He pulled up the ThoughtWalker app. Words were showing with high correlation numbers but "Saboteur" and "Anomaly" were at the top.
+He pulled up the ThoughtWalker app. Words were showing with high correlation numbers but "Thief", "Sabotage", and "Anomaly" were at the top.
 
 He did not reply.
 
@@ -305,7 +305,7 @@ Cerberus hit him at speed, thirty-five pounds of dog using one-third gravity as 
 
 Cerberus sniffed the survey case.
 
-His body went still.
+His body went stiff.
 
 The case held only the two returned drones from F-7719.
 

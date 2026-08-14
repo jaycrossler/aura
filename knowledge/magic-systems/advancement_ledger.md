@@ -180,7 +180,7 @@ advancement_events:
     skill: "[Force Application]"
     from_level: null
     to_level: 1
-    trigger: practice (around forty solo crossings at Fortuna, experimental)
+    trigger: practice (forty solo crossings at Fortuna, experimental)
     arc: arc_01
     scene: pre-Jace-arrival solo period
     confirmed: true

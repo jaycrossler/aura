@@ -31,8 +31,6 @@ cross_references:
 >
 > Jace Grant, *unpublished notes*
 
-Jace slept for forty minutes.
-
 At 0530, {Alex} began his morning briefing.
 
 *Good morning, Contractor Grant. Your sleep duration fell below the recommended minimum. Today you are assigned to surface maintenance crew seven. Shuttle departure is 0640.*
@@ -43,11 +41,13 @@ At 0530, {Alex} began his morning briefing.
 
 "Of course it does."
 
-Lanchee's clinic now occupied a permanent frame in Ring One. Fresh welds surrounded the old canister. Inside, the room looked exactly as it had aboard the *Falcon*. Same instruments. Same narrow bed. Same physician regarding Jace as an engineering failure with a pulse.
+Lanchee's clinic now occupied a permanent frame in Ring One. She was doctor that ran Morning shifts. Of course she was.
+
+Fresh welds surrounded the old canister. Inside, the room looked exactly as it had aboard the *Falcon*. Same instruments. Same narrow bed. Same physician regarding Jace as an engineering failure with a pulse.
 
 She scanned him at 0558.
 
-"Forty minutes of sleep. Elevated cortisol. Mild dehydration."
+"Sleep deprived. Elevated cortisol. Mild dehydration. Looks familiar."
 
 "Survey clock. Torres warned me."
 
@@ -67,13 +67,13 @@ Jace looked toward the sound.
 
 "Exposure?"
 
-"No suit failure. No toxin. No obvious neurological event."
+"No suit failure. No toxin. No obvious neurological event. Long Coma."
 
 Lanchee shut down the scanner.
 
 "Have you experienced confusion, missing time, visual distortion, or loss of consciousness?"
 
-Jace thought about a clock that was not a clock. Transparent walls. Sophia's hand on his arm. A dog pulling a mask across the edge of reality.
+Jace thought about a multidimensional sandwhich. Transparent walls. Sophia's hand on his arm. A dog pulling a mask across the edge of reality.
 
 "No loss of consciousness."
 
@@ -89,15 +89,15 @@ Lanchee watched him.
 
 The patient behind the curtain exhaled.
 
-Jace opened his mouth.
+Jace opened his mouth, about to confess everything.
 
-His HUD surfaced the two messages from Sophia. Real evidence. Shareable evidence. He imagined Lanchee calling {Alex}, Origin locking his work permissions, and Sophia's records from around forty crossings becoming corporate property before lunch.
+His HUD surfaced the two messages from Sophia. Real evidence. Shareable evidence. He imagined Lanchee calling {Alex}, Origin locking his work permissions, and Sophia's records from forty crossings becoming corporate property before lunch.
 
 "Survey fatigue," he said. "Nothing else I can document."
 
 Lanchee's expression cooled.
 
-"You are cleared for surface duty with hydration monitoring. If you see anything unusual, you stop work and call me."
+"You are cleared for surface duty with hydration monitoring. Have a caffine pill. If you see anything unusual, you stop work and call me."
 
 "Define unusual."
 
@@ -117,13 +117,13 @@ Nick opened the door wearing one keyboard glove, no glasses, and an expression o
 
 Jace handed him the stuffed pig, a feeding packet, and a written schedule.
 
-"He had a rough night."
+"He had a rough night. The Barn is closed for maintenance after the power failure last night."
 
-Nick looked at Cerberus. The dog wagged, found the noodle shelf, and sat beneath it.
+Nick looked at Cerberus. The dog wagged, found the noodle shelf, and curled beneath it, instantly asleep.
 
 Nick looked at Jace. Jace's eyes felt packed with sand.
 
-"Sure," Nick said. "The dog had a rough night."
+"Sure," Nick said. "Only the dog had a rough night."
 
 The shuttle left at 0640.
 
@@ -185,35 +185,11 @@ The browned charging frame failed for an ordinary reason. Forty years of thermal
 
 The parked units were less ordinary.
 
-Both had stopped at the same empty patch of regolith. Their navigation logs showed clear routes. Their physical tracks curved toward the stop point from different directions.
-
-"Obstacle avoidance?" the crew lead asked.
-
-"No obstacle in lidar."
-
-"Magnetic anomaly?"
-
-"Nothing above background."
-
-Jace replayed the final seconds from the first crawler.
-
-The unit moved forward. Its ranging display doubled. One map placed the surface five meters ahead. Another placed it beneath the crawler. The software chose to stop rather than decide which world it occupied.
-
-Jace's skin tightened inside the suit.
-
-"Firmware?" the crew lead asked.
-
-"Probably."
-
-He copied the raw logs before rebooting both units.
-
-The problem disappeared.
-
-That made it worse.
+Both had stopped at the same empty patch of regolith. Their navigation logs showed clear routes. Their physical tracks curved toward the stop point from different directions. One was glitching, probably from cosmic rays, and wouldn't reboot. Jace flipped the back panel and pushed the reboot key. All this way just to push a button.
 
 At noon, Jace stood beside the smelter radiator field and looked across the industrial district. Warehouses, pressure shelters, truss printers, ore bins, crawler garages, and construction frames spread over the rock. Robots performed most of the motion. Humans visited when the models stopped matching reality.
 
-The scratched asteroid returned to him.
+The scratched asteroid from the survey trip returned to him.
 
 Something had removed metal from two hundred meters of rock. Last night, Jace had helped pull an oxygen bottle through a dimensional boundary. The bottle had crossed because two people decided it belonged somewhere else.
 
@@ -229,9 +205,9 @@ Jace opened a new private file.
 
 He added another line.
 
-*Question: Why did crawler lidar produce two valid geometries?*
+*Question: Why did Sophia and I move things differently?*
 
-The skullcap warmed while storing the file. No AI interpreted it. No system connected it to Helena, the *Falcon*, the survey bot, or the sleeping miner.
+The skullcap stored the file locally. No AI interpreted it. No system connected it to Helena, the *Falcon*, the survey bot, or the sleeping miner.
 
 Jace had never appreciated silence more.
 
@@ -257,7 +233,9 @@ She was right.
 
 Kim closed the channel.
 
-The ordinary complaint steadied him.
+Thing Two was still up in the station, plugged into a recharge cradle a few meters from the drone ops room. He remotely piloted it over and had it changed the filter. He set it to do so daily. It's camera caught Kim starting at it, nodding in appreciation.
+
+Her ordinary complaining steadied him.
 
 The shuttle lifted at 1710.
 
@@ -277,7 +255,7 @@ The physical world remained solid until it did not.
 
 At the inn, Jace showered and changed. He collected Cerberus from Nick.
 
-"He ate," Nick reported. "He destroyed nothing. At 1400, he stared at the noodle shelf for forty minutes."
+"He ate," Nick reported. "He went potty. He destroyed nothing. At 1400, he stared at the noodle shelf for forty minutes."
 
 Nick pointed.
 
@@ -303,7 +281,7 @@ She had brought her father's pen.
 
 She also had coffee.
 
-Jace sat down. Cerberus placed his head on Sophia's knee.
+Jace sat down. Cerberus placed his head on Sophia's knee, and she immediately commenced with petting.
 
 "I thought this was dinner," Jace said.
 
@@ -311,7 +289,7 @@ Jace sat down. Cerberus placed his head on Sophia's knee.
 
 "I have contractor soup."
 
-"I know. I ordered cheese. You need to understand the station is producing a very promising goat cheese."
+"I heard. I ordered noodles and a block of cheese. You need to understand the station is producing a very promising goat cheese."
 
 Jace looked at the six notebooks.
 

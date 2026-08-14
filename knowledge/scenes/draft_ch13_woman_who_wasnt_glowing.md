@@ -10,7 +10,7 @@ status: staged_draft
 schema_version: 2
 last_updated: 2026-08-13
 description: >
-  Sophia's isolation through around forty solo crossings ends when Jace and Cerberus find her. They
+  Sophia's isolation through forty solo crossings ends when Jace and Cerberus find her. They
   discover joint pulling, establish a survival method, and agree to meet in the
   physical world.
 cross_references:
@@ -31,17 +31,17 @@ cross_references:
 >
 > Sophia Lotte, private notebook
 
-Sophia had crossed alone around forty times.
+Sophia had crossed alone forty times.
 
 Tonight was crossing 41. She had filled six notebooks. She had learned to bring paper, a wood-bodied pen, a breathing mask, and nothing she could not afford to spend an hour pulling.
 
-She had not learned how to bring lunch.
+She had not remembered to bring lunch.
 
 One sandwich existed half a meter from her hands and one dimension away.
 
-Sophia fixed her attention on it. She imagined its weight. Its crust. The thin layer of goat cheese between two pieces of bread. She drew the sandwich toward herself with the intention that had worked on paper, cloth, and one very expensive camera.
+Sophia fixed her attention on it. She imagined its weight. Its crust. The thin layer of cheese between two pieces of bread. The real meat from an old cow that had passed last month and probably cost a day's salary. She drew the sandwich toward herself with the intention that had worked on paper, cloth, and the new cold-weather boots she'd had delivered.
 
-The sandwich moved the width of a fingernail.
+The sandwich moved the width of a fingernail. She didn't want to tear it, so readjusted her grip.
 
 Her arms shook anyway.
 
@@ -61,51 +61,51 @@ For one second, Sophia held his sleeves and forgot every language she spoke.
 
 He was solid.
 
-Not a glowing human projection. Not a physical person viewed from the other side. Warm cloth. Human arms. Breath behind a mask.
+Not a glowing human projection. Not a physical person viewed from the other side. Warm cloth. Human arms. Strong arms. Breath behind a mask.
 
 Real.
 
-The dog arrived beside them. Short brindled fur. Wrinkled face. Mask over his muzzle. Tail moving.
+The dog arrived beside them. Short tan fur. Wrinkled expressive face. Mask over his muzzle. Tail moving.
 
-Sophia's first words to another human in the Never-Never were not historic.
+Sophia's first words to another human in the Never-Never were not historic. She had a slight French accent with something else in it.
 
-"Wait. You are the delivery boy."
+"Mon Deux. You are the delivery boy."
 
 The man's expression sharpened.
 
-"I am Jace."
+"I'm Jace."
 
-"Yes. Learning Mode. The dog videos."
+"Yes. Learning Mode. The dog videos. The pigs."
 
 "Former military officer. Engineer. Current delivery support. In that order."
 
 Sophia started laughing.
 
-The laugh broke halfway through. Around forty crossings of isolation came apart with it. She pressed one hand over her mouth and tried to stop. Tears escaped anyway.
+The laugh broke halfway through. Forty crossings of isolation came apart with it. She pressed one hand over her mouth and tried to stop. Tears escaped anyway.
 
-The dog sat on her foot.
+The dog sat on her foot, tail thumping.
 
-Sophia looked down.
+Sophia looked down. Her hand reached down and scrunched his sily ear. He leaned into her hand, sighing into his mask.
 
 "He is real."
 
-"Cerberus. Also real. I have less than half an hour of oxygen left."
+"Cerberus. Also real. I have half an hour of oxygen left."
 
 Training returned faster than composure.
 
-Sophia stood and checked both cartridge indicators. Jace had twenty-three minutes. Cerberus had sixty-one.
+Sophia stood and checked both cartridge indicators. Jace had twenty-three minutes. Cerberus had thirty-one.
 
 "There are full bottles at the prep station," she said. "Physical side. I can pull one across. It takes time."
 
 "How much?"
 
-"Twenty minutes if I do not fail."
+"Twenty minutes if I do not slip."
 
 "You have done this before."
 
-"Not with a bottle. With a notebook. The notebook took fourteen minutes and damaged three pages."
+"Yes, with air bottles. Every time I'm here."
 
-Jace looked through the serving counter at the physical storage rack behind it. His eyes moved too fast, trying to follow every layer.
+Jace looked through the serving counter at the physical storage rack behind it, inside it, below it. His eyes moved too fast, trying to follow every layer.
 
 "Pick one thing," Sophia said. "Me or the dog. Your brain cannot hold all directions yet."
 
@@ -113,11 +113,11 @@ Jace looked through the serving counter at the physical storage rack behind it. 
 
 "It improves. The vomiting usually stops by the fourth night."
 
-Jace focused on Cerberus.
+Jace focused on Cerberus, seeing his insides and outsides, and bones.
 
 "That information did not help."
 
-Sophia moved to the prep station. The oxygen bottles glowed only faintly. Dense alloys and valves resisted crossing more than wood, paper, cloth, or a living body.
+Sophia moved to the prep station. The oxygen bottles glowed only faintly. Dense alloys and valves resisted crossing more than wood or a living body.
 
 She fixed her attention on the nearest bottle.
 
@@ -135,7 +135,7 @@ Jace stood behind her. He set one hand against her shoulder, extended the other 
 
 The bottle moved.
 
-For three minutes, Jace pulled.
+For three minutes, Jace and Sophia pulled.
 
 Nothing about it was fast. The bottle came through a fraction at a time. First the regulator, then the neck, then the metal cylinder. Jace's arms began shaking even though his hands held nothing. His cartridge counted down through twenty-one minutes, then twenty, then nineteen.
 
@@ -157,7 +157,7 @@ Sophia stared at Jace.
 
 "You said twenty."
 
-"Together should divide the effort. It should not make the effort disappear."
+"My hypothises was that together should divide the effort. Not that much."
 
 Jace took the bottle and inspected the regulator.
 
@@ -165,41 +165,41 @@ Jace took the bottle and inspected the regulator.
 
 "Yes. Good. Correct priority."
 
-They refilled his cartridge, then Cerberus's. The fresh indicators gave Jace seventy minutes and Cerberus two hours.
+They refilled his cartridge, then Cerberus's. The fresh indicators gave Jace seventy minutes and Cerberus two hours. The bottle was still half full.
 
-Sophia recorded the bottle serial number in her notebook.
+Sophia recorded the bottle serial number in her notebook and her records of the time.
 
 Jace watched the pen.
 
 "Wood?"
 
-"My father made it. The metal insert comes out. Wood crosses easily. Electronics do not."
+"My father made it. The metal pen insert comes out and I leave it here and put it back in when I arrive. Wood crosses easily. Metals are harder. This took an hour for the inside.  I tried a small computer tablet, but couldn't get it across."
 
-"My HUD came with me."
+"My HUD came with me. But it's not working, keeps crashing."
 
-"Implants follow the body. Usually. It may be why your display is failing. Complex objects resist this place."
+"It is very small. Maybe implants follow the body? It may be why your display is failing. Complex objects resist this place."
 
 "This place."
 
 Sophia closed the notebook.
 
-"I call it the Never-Never. The name is not scientific."
+"I call it the Never-Never." She pronounced with a German accent this time.
 
-"It sounds like a children's story."
+"That sounds like a children's story."
 
 "It is. When I was little, I heard stories of Baba Yaga. She could walk into shadows, and her house was bigger inside than outside. I needed a name before I had a theory."
 
-"I walked through six walls to find you."
+"Guess I'm a witch.  I walked through six walls to find you."
 
 "Seven, if you came from the inn. The hydroponics pressure door counts twice."
 
 "That is not how walls work."
 
-"Not from here."
+"Seems to be how they work here, but I'm still collecting data."
 
-Sophia showed him the cafeteria.
+Sophia showed him around the cafeteria.
 
-Torres sat three meters away, eating and scrolling. His physical body glowed in layers. Thoughts moved as blocks of color, then dissolved into structures neither of them could interpret.
+Torres sat three meters away, eating and scrolling. His physical body glowed in layers. Thoughts moved as blocks of color swirling around his heade, then dissolved into complex patterns and swirled structures neither of them could interpret.
 
 Sophia waved through the table.
 
@@ -217,7 +217,7 @@ Jace looked at the walls.
 
 "That is a security nightmare."
 
-"That was my third conclusion. The first was physics. The second was oxygen."
+"This is a physicists dream! If two people experience it, then it must be real! I need to write papers about it."
 
 Cerberus leaned against Sophia's shin.
 
@@ -225,23 +225,11 @@ She put one hand on his back. The dog remained a dog in every direction. His inn
 
 "He pulled my mask through," Jace said. "Before he pulled his own."
 
-"He crossed with you."
+"He crossed with you together."
 
-"I noticed."
+"I noticed. Is this safe for him?"
 
-Sophia walked around Cerberus. A faint cord of light joined the dog to Jace. It entered near Jace's chest and split into finer threads along both bodies.
-
-"There is a cord between you. An umbilical, perhaps."
-
-Jace looked down.
-
-"I do not see it."
-
-"Your perception is new. Also, it may not be an umbilical. That was another label I needed before I had data."
-
-"What does it do?"
-
-"I have had a dog to study for six minutes. Ask me tomorrow."
+"I have had a dog to study for six minutes. Ask me when we come back tomorrow."
 
 The word stopped them both.
 
@@ -253,7 +241,7 @@ Sophia's face changed.
 
 "How long?"
 
-"Around forty crossings. Partial episodes before that. I told one colleague. She scheduled a medical consult. I stopped telling people."
+"Forty crossings over seven weeks. Partial episodes before that. I told one colleague. She scheduled a medical consult. I mentioned it to {Penny} and it still watches me closely, has a file on me. I stopped telling people."
 
 "We should get you home," she said.
 
@@ -261,25 +249,29 @@ They walked through Ring Two.
 
 Long corridors bent through extra directions. Jace stopped twice when the floor appeared to drop into bright distance. Sophia touched his arm each time.
 
-"It is flat. Pick the rivet. Keep moving."
+"It is flat. Pick the rivet. Keep moving. Think about stepping on the floor and don't lean on any walls."
 
-They passed sleeping residents. Jace looked away when he could. Cerberus sniffed every glow until Jace reset the mask for the fifth time.
+"It's so cold."
+
+"Yes, I really want a thermometer to measure. It's not cold like space, but still very chilly. There is just enough air here, but not enough to breathe. I wear many layers."
+
+They passed sleeping residents. Jace looked away when he coul to try to offer privacy. Cerberus sniffed every glow until Jace reset the mask for the fifth time.
 
 At the inn, Jace's room appeared through three walls at once.
 
-"What if I cannot return?" he asked.
+"What if we can't get back?" he asked.
 
 "You can. Bodies remember."
 
 "That sounds spiritual."
 
-"I have returned around forty times without a failure. I can phrase it as a probability if that comforts you."
+"I have returned forty times without a failure. I can phrase it as a probability if that comforts you."
 
-"It does."
+"That sounds more reassuring."
 
-"Hold Cerberus. Think about your bunk. The blanket weight. Recycler noise. Something boring and physical. Then decide you are there."
+"Hold Cerberus. Think about your bunk. The blanket weight. Recycler noise. Something boring and physical. Then decide you are there.  Let it take time."
 
-Jace lifted the dog.
+Jace picked up the dog, both happy at the warmth.
 
 "Tomorrow?"
 
@@ -291,7 +283,7 @@ Sophia stared at him.
 
 "You crossed into another dimension and still have to work?"
 
-"Origin does not recognize dimensional discovery as leave."
+"Origin does not recognize dimensional exploration as leave."
 
 "Then dinner. You owe me for oxygen."
 
@@ -301,21 +293,27 @@ Sophia stared at him.
 
 "I moved it."
 
-"Exactly. You owe me an explanation too."
+"I oversaw the work. You owe me an explanation to how that worked so well."
 
-Jace closed his eyes.
+"Leave the rest of the air bottle here, so you have some when you come back."
+
+"Good thinking."
+
+Jace tucked the bottle in the corner and closed his eyes.
 
 He held Cerberus and remembered the bunk. Thin blanket. Recycler hum. The stuffed pig under the dog's chin.
 
-The bright geometry folded.
+The bright geometry folded. Sophia stood patiently, watching them. Not creepy at all.
 
 Cold air became warmer air. The floor gained one direction. The walls became opaque.
 
 Jace opened his eyes on the bunk.
 
-Cerberus lay in his arms. Both masks remained sealed. The room clock read 0238.
+Cerberus lay in his arms. Both masks remained sealed. The room clock read 0238. No Sophia.
 
 Jace removed the mask and stared at the ceiling.
+
+"Thanks," he said and waved at the air. He felt foolish.
 
 Solid. Flat. Ordinary.
 
@@ -333,14 +331,14 @@ Jace read both routing headers.
 
 They were real.
 
-He lay awake until the alarm.
+He probably got some sleep but every time he started to drift off he would snap back awake, worried of blue cooridors.
 
 ## Contract coverage
 
 | Item | Status |
 |---|---|
 | Sanctioned Sophia POV opens the chapter | done |
-| Sophia has completed around forty solo crossings; this encounter is crossing 41 | done |
+| Sophia has completed forty solo crossings; this encounter is crossing 41 | done |
 | Sophia introduces Never-Never through her childhood Baba Yaga stories | done |
 | Delivery-boy recognition lands before Jace's name | done |
 | Cerberus breaks Sophia's isolation | done |

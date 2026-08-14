@@ -42,7 +42,7 @@ The survey case stayed in a locked cage at Drone Ops.
 
 Jace checked the lock twice.
 
-He slept in his clothes.
+He slept in his clothes, Cerberus snoring contendetly cuddled into his side.
 
 ##
 
@@ -110,13 +110,13 @@ The indicator turned green.
 
 Jace lay still until both of them could breathe.
 
-His own cartridge showed one hour and ten minutes of air. Cerberus's showed two hours.
+His own cartridge showed less than one hour of air. Cerberus's showed slightly more.
 
 ##
 
 Survival had become a countdown.
 
-The room was cold. Frost formed along the bunk frame. Jace's exhaled breath clouded the mask.
+The room was cold. Very cold. Jace expected frost, but there wasn't enough air for that. Jace's exhaled breath clouded the mask.
 
 His HUD filled with errors.
 
@@ -180,7 +180,7 @@ Soft human shapes rested in bunks. Hearts pulsed. Lungs moved. Colors flowed thr
 
 Jace looked away.
 
-The next wall showed more sleepers. Some together. Friends and neighbors he had met that he thought were single were obviously not single. One bed had a surprising number of occupants.
+The next wall showed more sleepers. Some together. Friends and neighbors he had met that he thought were single were obviously not single. One bed belonging to a quiet older farm engineer had a surprising number of occupants.
 
 Privacy had stopped existing.
 
@@ -246,7 +246,7 @@ No response.
 
 Jace stood in front of him.
 
-"Torres!"
+Jace whispered insistently in the pilots ear, "Torres!"
 
 The pilot lifted another bite.
 
@@ -260,7 +260,7 @@ She looked solid. Sharp. Present in the same way Jace felt present. A bright sca
 
 Jace recognized the pale woman from the receiving bay.
 
-Cerberus barked once.
+Cerberus barked once, loud in the empty place.
 
 The sound tore through the silent room.
 

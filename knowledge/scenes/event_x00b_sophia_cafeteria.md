@@ -36,7 +36,7 @@ open_flags:
 
 Sophia has been pulling for four minutes and the anchor has moved the width of a fingernail.
 
-She resets her grip on nothing — there is no grip, there is only the intending of a grip, which after around forty solo crossings she can hold for about ninety seconds before it shreds — and pulls again. The Never-Never does not creak. It does not strain. It simply declines, politely, at scale, and the light around her stays that same patient silver that has stopped feeling like wonder and started feeling like a laboratory she is locked inside of.
+She resets her grip on nothing — there is no grip, there is only the intending of a grip, which after forty solo crossings she can hold for about ninety seconds before it shreds — and pulls again. The Never-Never does not creak. It does not strain. It simply declines, politely, at scale, and the light around her stays that same patient silver that has stopped feeling like wonder and started feeling like a laboratory she is locked inside of.
 
 Crossing 41. No second observer. She has started narrating her methodology aloud, for the notebook, for rigor, and also — she can admit this here, where there is no one — because a human voice, even her own, is data she badly needs.
 
@@ -46,7 +46,7 @@ The anchor gives another fingernail. She sets her feet against nothing, leans he
 
 Sophia screams. Her concentration goes to pieces, her footing goes with it, and she falls — slowly, absurdly, a third of gravity stretched thinner by the Astral's indifference, long enough to be embarrassed on the way down. The man crosses the clearing at a sprint and catches her before she lands, which is not difficult, because nothing here is in a hurry except him.
 
-He is real. Her hands are fisted in his sleeves and the sleeves have texture and the arms under them are warm and he is *real*, an actual second human being, here, and around forty solo crossings produce, as her first recorded utterance to another observer in the Never-Never:
+He is real. Her hands are fisted in his sleeves and the sleeves have texture and the arms under them are warm and he is *real*, an actual second human being, here, and after months alone, as her first recorded utterance to another observer in the Never-Never:
 
 "Wait. You're the *delivery boy*."
 

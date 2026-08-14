@@ -192,7 +192,7 @@ the Token constraint and the coffee machine was there.
 ## The Astral Discovery
 
 Sophia crossed into the Never-Never by accident while trying to explain instrument
-readings that current physics could not account for. She completed around forty solo
+readings that current physics could not account for. She completed forty solo
 crossings before Jace and Cerberus found her during crossing 41. She kept detailed
 paper notebooks because she could not pull her tablet across the dimensional membrane.
 
@@ -302,5 +302,5 @@ does not state her theory out loud.
   dynamic, Glühwein ritual, money habits, Christmas enthusiasm, cheese excitement, Victoria
   cabin description all added. Trauma aftermath (flinch, extra rebreather) added.
 - 2026-08-13: Canon ruling. Sophia uses Never-Never from childhood Baba Yaga stories,
-  completes around forty solo crossings, meets Jace during crossing 41, and makes their
+  completes forty solo crossings, meets Jace during crossing 41, and makes their
   first planned joint experiment crossing 42. Jace proposes Astral several days later.
