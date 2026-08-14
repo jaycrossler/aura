@@ -25,8 +25,9 @@ cross_references:
 
 # X-09d — Moving House
 
-**Placement:** Follows X-09c, runs concurrently across several sessions
-rather than a single scene — this is a montage-shaped beat.
+**Placement:** Begins during the ten safe daily crossings in Chapters 15 and 16,
+then continues after X-09c as the equipment becomes more sophisticated. The early
+phase is montage-shaped and remains aboard the safe *Victoria*.
 
 ## The strategy
 

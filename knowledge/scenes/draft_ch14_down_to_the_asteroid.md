@@ -12,7 +12,7 @@ last_updated: 2026-08-13
 description: >
   After forty minutes of sleep, Jace submits to a medical check without
   disclosing the crossing, works his first surface shift, tests the solidity of
-  the physical world, and meets Sophia for dinner.
+  the physical world, and meets Sophia to begin planning deliberate exploration.
 cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[arc_01_thread_A_arrival]]"
@@ -221,7 +221,7 @@ What could move an asteroid's metal?
 
 How many people would it take?
 
-What if the answer was not people?
+What if the answer was a process nobody had measured yet?
 
 Jace opened a new private file.
 
@@ -277,11 +277,11 @@ The physical world remained solid until it did not.
 
 At the inn, Jace showered and changed. He collected Cerberus from Nick.
 
-"He ate," Nick reported. "He destroyed nothing. At 1400, he stared at that wall for forty minutes."
+"He ate," Nick reported. "He destroyed nothing. At 1400, he stared at the noodle shelf for forty minutes."
 
 Nick pointed.
 
-"I checked it with three sensors. Nothing there."
+"I checked it with three sensors. The shelf remains noodles."
 
 Jace scratched Cerberus behind the ears.
 
@@ -327,31 +327,27 @@ She opened the second.
 
 "Not enough to know why you pulled that bottle five times harder than I can."
 
-The third notebook contained a sketch of a creature with black joints and red eyes.
+The third notebook contained a map of the *Victoria* drawn from directions Jace could not name.
 
-Jace stopped breathing for one beat.
+He turned it sideways.
 
-"You have seen it."
+"That does not help," Sophia said.
 
-Sophia shook her head.
+"I was hoping it would become a ship."
 
-"No. I drew what you described after I returned."
-
-She turned the page.
-
-Three words filled it.
-
-*NOT EMPTY HERE.*
-
-Cerberus lifted his head.
+"It is a ship. You are holding the wrong three dimensions."
 
 Across the cafeteria, the sleeping miner's wife spoke quietly with Lanchee.
 
-A faint scratching moved inside the wall behind them.
+Sophia slid a fresh notebook across the table.
 
-Cerberus lifted his head.
+"Tomorrow," she said. "Crossing 42. Awake, prepared, and with enough air."
 
-No one else reacted.
+Jace looked at Cerberus.
+
+The dog put one paw on the notebook.
+
+"He votes yes," Sophia said.
 
 ## Contract coverage
 
@@ -364,7 +360,7 @@ No one else reacted.
 | Physical solidity testing recurs throughout the day | done |
 | Crawler navigation logs show layered geometry without explanation | done |
 | Scratched asteroid connects to transfer questions, not answers | done |
-| Cerberus remains sensitive to unseen wall activity | done |
+| Cerberus turns the next crossing into a light partnership beat | done |
 | Sophia and Jace meet physically without romance | done |
 | Sophia's notebooks and pen are planted | done |
-| Chapter ends with rising fauna danger | done |
+| Chapter ends with anticipation rather than fauna danger | done |

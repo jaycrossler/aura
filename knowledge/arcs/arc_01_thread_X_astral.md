@@ -9,12 +9,9 @@ status: draft
 canonical: true
 last_updated: 2026-08-13
 description: >
-  Scene contracts for Thread X — Astral exploration and the empirical derivation
-  of Astral physics. Migrated out of arc_01_falcon_and_fortuna.md during the
-  thread-split restructure. Contains two new author-note scenes this pass: X-03
-  (Jace's "two cores") drafted into a previously-empty slot, and X-10 (rotating
-  mirror light-speed experiment) logged as a blocked placeholder pending Open
-  Decision #8b in the master file.
+  Scene contracts for Thread X, including ten safe daily exploration crossings,
+  an Astral workspace aboard the Victoria, and the delayed first fauna reveal
+  inside Fortuna during Chapter 17.
 cross_references:
   - "[[arc_01_falcon_and_fortuna]]"
   - "[[char_jace_apollo]]"
@@ -30,13 +27,15 @@ cross_references:
   - "[[scene_notes_x09d_moving_house]]"
   - "[[scene_notes_x09e_sparky_comes_across]]"
   - "[[draft_ch15_sideways]]"
+  - "[[draft_ch16_ten_good_days]]"
+  - "[[draft_ch17_the_eye_in_the_wall]]"
 ---
 
 # Thread X — Astral Exploration
 
 **Sophia's Consent and Disclosure Stance:** Sophia does not want to disclose to anyone yet, Nick included. She yields only because Jace personally vouches for Nick and because Jace makes the case that Nick's {Aura} instrumentation will accelerate her documentation. She is proven right to be cautious and right to relent: Nick's tools go on to multiply what her notebooks can capture.
 
-**Rising-Danger Through-Line:** Across Thread X (and P-04 nest-clearing), the Astral fauna threat should **escalate on a felt curve** — Tick-Maws → the Bloated Maw feeding on {Seek} → the Scavenging Queen → the swarm — so the reader carries growing dread and a sense of a *race*: the wonder/discovery/instrumentation curve and the danger curve climbing toward each other, colliding at the swarm that closes Act 1. Every discovery beat should be shadowed by a slightly larger threat beat. Do **not** add new creatures to hit this; sharpen pacing and juxtaposition of existing ones. Success test: by the pre-swarm beats, a reader should feel the collision coming.
+**Rising-Danger Through-Line:** Chapters 15 and 16 are a deliberate wonder interval. They contain ten daily crossings, one per day, with no fauna, attacks, scratching, eyes, or other creature cues. Pressure rises only through Jace's neglected work, damaged friendship with Nick, {Penny}'s scrutiny, and increasing technical anomalies. Chapter 17 ends the interval with the first clear Astral fauna sighting inside Fortuna. From that point, the fauna curve escalates through Tick-Maws, the Bloated Maw feeding on {Seek}, the Scavenging Queen, and the swarm.
 
 **Victoria Safe-Haven Rule:** No Astral threats or creatures inhabit the *Victoria*. Sophia's ship is a secure crossing base while docked and can detach from Fortuna if needed. Fauna may occupy parts of Fortuna's walls and become a direct threat once the team leaves the ship through the station connection.
 
@@ -76,6 +75,10 @@ to breathe and promises to meet up tomorrow.
 11. Jace needs to sleep because he has a big day tomorrow at work, but lies awake thinking about it all night
 12. Sophia identifies Jace by his job before his name — "delivery boy" — landing the role reframe at maximum indignity.
 13. POV exception note: The opening of this scene is a sanctioned Sophia-POV exception until Jace's arrival in the clearing. (Ruled 2026-07-19.)
+14. Sophia is trying to pull one sandwich, not a tray of food
+15. The emergency oxygen bottle takes Jace and Sophia three full minutes to pull across
+16. Jace's cartridge begins at one hour ten minutes and Cerberus's at two hours
+17. Do not connect the Falcon animals to the Astral until the end of Chapter 17
 
 **Must NOT do:**
 1. No romance between characters
@@ -87,8 +90,8 @@ to breathe and promises to meet up tomorrow.
 
 #### X-01 — The Astral Crossing Teamup
 
-**Summary:** Jace and Sophia continue their first physical conversation and plan
-their first deliberate joint crossing. Sophia is nervous, and Jace is terrified.
+**Summary:** Jace and Sophia continue their first physical conversation and begin
+ten consecutive days of deliberate joint crossings. Sophia is nervous, and Jace is terrified.
 They finish dinner at the inn. Sophia has a glass of wine, which she says helps
 her relax into the crossing. Afterward, Sophia jokingly
 asks "Your place or mine?" Jace blanches, and Sophia laughs. "I just want to do it
@@ -105,15 +108,16 @@ It's amazing to see, and he tries to replicate it. It's harder, and Cerberus is
 nervous. Finally he opens his eyes as he feels the change in air on his skin. "20
 minutes," Sophia said, "It took me an hour my first time. You're a natural at
 this! And Cerberus is a good magic dog, too!" This is Sophia's crossing 42 and
-their first planned joint crossing. The *Victoria* remains safe. The threat becomes
-real only after they move through the attached station access into Fortuna.
+their first planned joint crossing. Chapters 15 and 16 cover crossings 42 through
+51, exactly one per day. The *Victoria* remains safe. The threat becomes real in
+Chapter 17 after they move through the attached station access into Fortuna.
 
 **Must accomplish:**
 1. Sophia gets comfortable with Jace, Cerberus helps
 2. They establish what it looks like to cross to the Astral, and how the mechanics work
-3. A few joint crossings with Sophia (and Cerberus)
-4. Jace concludes he needs better data-collection tools — this, not Nick's earlier
-   pitch alone, is what tips him into agreeing
+3. Ten daily joint crossings with Sophia and Cerberus across Chapters 15 and 16
+4. Jace automates much of his delivery work, initially succeeds, then discovers
+   that exceptions and accountability accumulated while he ignored Nick
 5. Sophia tells Jace what he looks like in the Real, and that there's a "cord" or
    "umbilical" connecting him to Cerberus
 6. They look at other people in the Real, and think it's amazing no one can see
@@ -122,13 +126,19 @@ real only after they move through the attached station access into Fortuna.
 7. Sophia calls the place the Never-Never during the first experiments. After a
    few days, Jace proposes Astral because it is shorter and familiar from old books
    and games; Sophia adopts it
-8. Preserve the *Victoria* as a safe haven. Place any fauna threat in Fortuna's
-   walls after the team leaves the ship
+8. Preserve the *Victoria* as a safe haven. Place the first fauna reveal in
+   Fortuna's walls at the end of Chapter 17, after the team leaves the ship
+9. Sophia feeds Jace bread and his protected schedule lets him recover sleep
+10. Move simple equipment and Sparky across in stages; build a modest Astral lab
+11. Keep Chapters 15 and 16 fun, exploratory, and entirely free of threats
+12. Increase {Penny} scrutiny and technical anomalies near the end of Chapter 16
 
 **Must NOT do:**
 - Use `[Skill]` bracket notation (predates Jace's convention — still Arc 1)
 - Resolve what the crossings mean systemically — Jace and Sophia are still figuring
   this out empirically at this point
+- Include fauna, creature scratches, threatening movement, or watched sensations
+  anywhere in Chapters 15 or 16
 
 ---
 

@@ -35,13 +35,13 @@ Sophia had crossed alone around forty times.
 
 Tonight was crossing 41. She had filled six notebooks. She had learned to bring paper, a wood-bodied pen, a breathing mask, and nothing she could not afford to spend an hour pulling.
 
-She had not learned how to bring food.
+She had not learned how to bring lunch.
 
-The bread tray existed half a meter from her hands and one dimension away.
+One sandwich existed half a meter from her hands and one dimension away.
 
-Sophia fixed her attention on it. She imagined its weight. Its crust. The slight bend in the metal beneath it. She drew the object toward herself with the intention that had worked on paper, cloth, and one very expensive camera.
+Sophia fixed her attention on it. She imagined its weight. Its crust. The thin layer of goat cheese between two pieces of bread. She drew the sandwich toward herself with the intention that had worked on paper, cloth, and one very expensive camera.
 
-The tray moved the width of a fingernail.
+The sandwich moved the width of a fingernail.
 
 Her arms shook anyway.
 
@@ -53,7 +53,7 @@ A dog barked.
 
 The sound struck the silent cafeteria like an explosion.
 
-Sophia lost the tray. It snapped back into the physical counter. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
+Sophia lost the sandwich. It snapped back onto the physical counter. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
 
 A man crossed the room and caught her.
 
@@ -89,11 +89,11 @@ Sophia looked down.
 
 "He is real."
 
-"Cerberus. Also real. We have about an hour of oxygen left."
+"Cerberus. Also real. I have less than half an hour of oxygen left."
 
 Training returned faster than composure.
 
-Sophia stood and checked both cartridge indicators. Jace had sixty-one minutes. Cerberus had fifty-seven.
+Sophia stood and checked both cartridge indicators. Jace had twenty-three minutes. Cerberus had sixty-one.
 
 "There are full bottles at the prep station," she said. "Physical side. I can pull one across. It takes time."
 
@@ -133,9 +133,13 @@ Then stopped.
 
 Jace stood behind her. He set one hand against her shoulder, extended the other toward the bottle, and leaned.
 
-The bottle tore free.
+The bottle moved.
 
-It crossed in less than a second.
+For three minutes, Jace pulled.
+
+Nothing about it was fast. The bottle came through a fraction at a time. First the regulator, then the neck, then the metal cylinder. Jace's arms began shaking even though his hands held nothing. His cartridge counted down through twenty-one minutes, then twenty, then nineteen.
+
+At three minutes and four seconds, the bottle tore free.
 
 Sophia caught it against her chest and fell backward into Jace. All three of them hit the floor in a slow tangle of limbs, masks, and indignant dog.
 
@@ -161,7 +165,7 @@ Jace took the bottle and inspected the regulator.
 
 "Yes. Good. Correct priority."
 
-They refilled his cartridge, then Cerberus's. The fresh indicators gave them more than two hours.
+They refilled his cartridge, then Cerberus's. The fresh indicators gave Jace seventy minutes and Cerberus two hours.
 
 Sophia recorded the bottle serial number in her notebook.
 
@@ -250,24 +254,6 @@ Sophia's face changed.
 "How long?"
 
 "Around forty crossings. Partial episodes before that. I told one colleague. She scheduled a medical consult. I stopped telling people."
-
-"I reported two animals aboard the *Falcon*. The cameras showed me fighting a wall. Origin fined me."
-
-"Animals?"
-
-"Black. Jointed. Red eyes. One damaged a water line. Two hatched in the ship's spine."
-
-Sophia stopped writing.
-
-"You have seen living things here?"
-
-"I think they saw me first."
-
-For the first time since Jace found her, Sophia looked afraid of something other than being alone.
-
-She wrote three words and underlined them.
-
-*Not empty here.*
 
 "We should get you home," she said.
 
@@ -363,6 +349,6 @@ He lay awake until the alarm.
 | Sophia teaches perception control and safe return | done |
 | Physical people cannot see or hear Never-Never crossers | done |
 | Jace and Cerberus's visible cord is planted | done |
-| Falcon creatures create a direct threat escalation | done |
+| Fauna is not connected to the Never-Never during the first meeting | done |
 | No romance; dinner is debt and follow-up | done |
 | Post-return messages prove the event occurred | done |

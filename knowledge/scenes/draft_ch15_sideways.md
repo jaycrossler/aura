@@ -4,15 +4,15 @@ name: "Chapter 15. Sideways"
 type: chapter_draft
 book: book01
 chapter: Ch15
-scene_contract: X-01
+scene_contract: X-01, X-09b setup
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
 last_updated: 2026-08-13
 description: >
-  Jace, Sophia, and Cerberus make their first planned crossing from the Victoria,
-  test the Never-Never across several nights, rename it the Astral, and discover
-  that they need better instruments to study the threats inside Fortuna's walls.
+  Across the first five of ten daily crossings, Jace, Sophia, and Cerberus
+  explore the safe Astral Victoria, establish procedures, rename the realm,
+  and begin moving simple equipment while rediscovering sleep, bread, and fun.
 cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[char_jace_apollo]]"
@@ -21,8 +21,11 @@ cross_references:
   - "[[ship_victoria]]"
   - "[[spec_crossing_mechanics]]"
   - "[[spec_astral_phenomenology]]"
+  - "[[scene_notes_x09b_composition_question]]"
+  - "[[scene_notes_x09d_moving_house]]"
   - "[[spec_audiobook_narration_style]]"
   - "[[draft_ch14_down_to_the_asteroid]]"
+  - "[[draft_ch16_ten_good_days]]"
 ---
 
 # Chapter 15. Sideways
@@ -31,35 +34,7 @@ cross_references:
 >
 > Jace Grant, *unpublished notes*
 
-The scratching stopped.
-
-Cerberus kept staring at the wall.
-
-Sophia followed his gaze. Her hand closed around her father's pen.
-
-"He hears it too?"
-
-"He heard things on the *Falcon* before I did."
-
-Across the cafeteria, Lanchee guided the miner's wife toward the exit. Neither woman looked at the wall. Around them, food service continued. Cups touched tables. Chairs moved. Someone laughed near the counter.
-
-The wall remained quiet.
-
-Sophia wrote the time in her notebook.
-
-"We need to cross while we are awake," she said.
-
-Jace looked at the creature drawing between them.
-
-"You say that as if sleep was the unsafe method."
-
-"Sleep gave you no preparation and almost killed you. Awake is an improvement."
-
-"A narrow one."
-
-"Science advances by narrow improvements."
-
-She finished her coffee, then produced a small sealed bottle from her bag.
+Sophia finished her coffee, then produced a small sealed bottle from her bag.
 
 Jace read the label.
 
@@ -67,7 +42,7 @@ Jace read the label.
 
 "One glass helps me relax. Not enough to impair me. Enough to make the transition easier."
 
-"You have a medical protocol for dimensional travel that includes alcohol."
+"Your dimensional travel protocol includes alcohol."
 
 "I have six notebooks of evidence. You have one bad night and a dog."
 
@@ -123,7 +98,7 @@ Sophia pushed Jace toward the aft passage.
 
 "This is how I know."
 
-Her cabin was barely wider than its bunk. Every object had a place. Scarves hung from hooks in a line of bright color. A Colmar woodcut and a print of a stork covered two storage panels. Paper journals filled a strapped shelf. A small Christmas image had been fixed above the desk.
+Her cabin was barely wider than its bunk. Every object had a place. Scarves hung from hooks in a line of bright color. Paper journals filled a strapped shelf. A small Christmas image had been fixed above the desk.
 
 It felt lived in. The inn felt issued.
 
@@ -143,33 +118,19 @@ Jace tried it.
 
 Cerberus sat beneath the bread.
 
-Sophia crouched and held out a piece no larger than a fingernail. Cerberus took it with great care. Then Sophia moved both hands across the deck and scratched at the floor.
+Sophia gave him a piece no larger than a fingernail. Then she scratched both hands across the deck.
 
 The puppy lowered his front legs, launched, and almost knocked her into the desk.
 
-They wrestled in the narrow aisle. Sophia laughed into his neck. Cerberus sneezed, spun once, and came back with the stuffed pig Jace had packed.
+They wrestled in the narrow aisle. Sophia laughed into his neck. Cerberus sneezed, spun once, and returned with his stuffed pig.
 
 The tension left her shoulders.
 
-Jace understood the dog had accomplished in twenty seconds what one measured glass of wine had not.
+Jace understood the dog had accomplished in twenty seconds what half a glass of wine had not.
 
 Sophia stood and became serious.
 
-"Masks first. Full cartridges. No loose metal. No complex equipment we cannot afford to lose. If one person signals return, all three return."
-
-"And if we see something?"
-
-"We observe from a distance."
-
-"If it approaches?"
-
-"We return."
-
-"If return fails?"
-
-Sophia met his eyes.
-
-"Then we solve that problem with whatever time remains in the cartridge."
+"Masks first. Full cartridges. No loose metal. If one person signals return, all three return."
 
 She handed him a written checklist.
 
@@ -189,111 +150,41 @@ Sophia opened a fresh notebook page and wrote a large number at the top.
 
 ##
 
-Sophia sat at her desk with her mask sealed.
+Crossing 42 took Jace twenty minutes.
 
-Jace sat on the bunk. Cerberus pressed against his leg, wearing the dog mask. A physical timer counted upward on the wall.
+Sophia took six.
 
-"Do not force it," Sophia said through her mask. "Choose one sensation. Let everything else become less important."
+Cerberus appeared beside Jace with one paw raised, as if he had stepped over something too small to see.
 
-"Which sensation?"
+The *Victoria* unfolded around them.
 
-"The one that does not belong."
+Its pressure hull curved near and far at once. Jace saw the lab, drive spaces, water tanks, docking clamps, and the station beyond. Physical metal became layered darkness edged with light. Warm physical air moved through him without touching him.
 
-"That is not an engineering answer."
+Cold settled through his clothes.
 
-"It is the best one I have."
+His mask thermometer stabilized near minus twenty Celsius.
 
-She closed her eyes.
+"Cold," he said.
 
-For four minutes, nothing happened.
+"Yes."
 
-Then color appeared beneath her skin.
+"You could have put that on the checklist."
 
-It did not shine on her. It moved through her. Red, blue, green, and colors Jace could not separate from direction flowed across her face and hands. The cabin wall became visible through her shoulder.
+"I wrote thermal layer."
 
-Sophia drew one slow breath.
+"I thought you meant underwear."
 
-Her body became transparent without becoming less solid. Jace could see bone, blood, thought, and the cabin beyond, each occupying a different layer.
-
-She opened her eyes.
-
-She stood.
-
-Then she stepped sideways.
-
-There was no room beside the desk. Her body moved anyway.
-
-Sophia vanished.
-
-The timer read six minutes and twelve seconds.
-
-Cerberus whined.
-
-Jace put one hand on his back.
-
-"She said it took an hour the first time."
-
-The dog looked at the empty chair.
-
-"That was not encouragement."
-
-Jace closed his eyes.
-
-He chose the pressure behind his left eye. It had been there for months. Headaches. Dreams. The second outline around solid things. A direction he could feel before he could see it.
-
-He stopped trying to push it away.
-
-The cabin recycler grew quiet.
-
-His body felt too large for three dimensions.
-
-Cerberus leaned harder against him. A second pulse joined Jace's heartbeat. The feeling moved between them and returned stronger.
-
-Jace let go.
-
-Cold touched the skin around his mask.
-
-He opened his eyes.
-
-The *Victoria* unfolded.
-
-Its pressure hull curved around him and away from him at once. He saw the lab, drive spaces, docking clamps, and the station beyond. Metal became dark cross sections edged with faint light. Warm physical air moved through him without touching him.
-
-Sophia stood beside the desk.
-
-She checked the wall timer through the layered cabin.
-
-"Twenty minutes."
-
-Jace checked both masks.
-
-"Is that good?"
-
-"It took me an hour my first time. You are a natural at this."
-
-She looked at Cerberus.
-
-"And he is a good magic dog."
-
-"Engineer. Physicist. Magic dog. This team lacks discipline."
-
-Cerberus barked.
-
-Sophia smiled behind her mask.
-
-"He disagrees."
-
-##
+"I did."
 
 They explored the ship first.
 
-Jace kept one hand on Cerberus's harness. Sophia made him name each change as they moved.
+Jace kept one hand on Cerberus's harness. Sophia made him name each observation as they moved.
 
 "Physical metal is visible but not solid."
 
 "Mostly."
 
-"The floor here feels solid."
+"The floor feels solid."
 
 "Until it does not."
 
@@ -305,23 +196,15 @@ Jace kept one hand on Cerberus's harness. Sophia made him name each change as th
 
 "Seven now."
 
-They passed through the lab wall.
-
-Sophia's shipmates sat at a workbench. Both glowed through skin, clothing, and chair. The French physicist watched a silent display. The Greek physicist said something and laughed.
+They passed through the lab wall. Sophia's shipmates sat at a workbench. Both glowed through skin, clothing, and chair. The Greek physicist said something and laughed.
 
 Jace heard nothing.
 
-Sophia leaned close to the workbench. Her eyes narrowed.
+Sophia leaned close to the table.
 
-"There," she said. "I think I feel the sound."
+"I think I feel the vibration."
 
-"I hear nothing."
-
-"Not sound. Vibration. Very small. Through the table, perhaps."
-
-Jace placed his palm where the table appeared.
-
-The physical surface gave no resistance. Something trembled at the edge of perception, too faint for rhythm.
+Jace placed his palm where the physical surface appeared. Something trembled at the edge of perception, too faint for rhythm.
 
 The Greek physicist reached for a cup. His hand passed through Jace's arm.
 
@@ -339,137 +222,109 @@ Jace stepped back.
 
 "That does not make it ethical."
 
-"No. It makes it inconvenient. Ethics remain our problem."
+"No. Ethics remain our problem."
 
-They crossed the outer hull.
+They stayed aboard the *Victoria*. It was enough for one night.
 
-Fortuna surrounded them.
+The ship had become a country with impossible borders. They walked through the lab without opening its hatch. They stood inside a water tank and watched physical liquid pass through their bodies. They looked out through every side of the hull at once.
 
-The station was no longer three rings and a spine. It was a bright mechanical organism folded through an extra direction. Air moved in luminous channels. Electrical systems formed thin veins. Hundreds of human lives burned through bulkheads in layers of color.
+Cerberus discovered he could chase a reflection that belonged to a direction humans did not have.
 
-Beyond the station, the Never-Never extended into blue darkness.
+He lost.
 
-Points of light marked distances that did not behave like distance.
-
-Cerberus pulled toward them.
-
-Jace tightened the harness.
-
-"Ship first. Universe later."
-
-They returned with eighty-four minutes left in Jace's cartridge.
-
-The transition back took less than a minute.
+They returned with more than an hour of air remaining.
 
 The cabin snapped into three dimensions. Heat touched Jace's face. His stomach stayed behind for one terrible second, then caught up.
 
 Sophia wrote until her hand cramped.
 
-##
-
-They crossed again two nights later.
-
-This time, Jace went first.
-
-Sophia remained in the physical cabin with a camera, a thermal scanner, and three clocks. When she joined him twenty-six minutes later, she was shaking with excitement.
-
-"You disappeared in stages," she said. "First the edges. Then your center became transparent. Every color moved through you at once. Your body stood before your muscles moved. Then you turned through a direction the camera could not record."
-
-Jace looked at Cerberus.
-
-"And him?"
-
-"He crossed with your hand on his harness. There was a cord between you before either body vanished. It brightened as you changed."
-
-In the Never-Never, Sophia walked around them.
-
-Jace finally saw it.
-
-A fine band of light ran from his chest to Cerberus. It was not a cable. It had no fixed width. When the dog moved, the line divided into smaller strands and joined again.
-
-"Umbilical is unpleasant," Jace said.
-
-"Connection?"
-
-"Generic."
-
-"Symbiotic transfer structure?"
-
-"Premature."
-
-"Magic dog leash?"
-
-Cerberus wagged.
-
-"The committee has voted," Sophia said.
-
-They moved toward the *Victoria's* docking collar.
-
-Sophia stopped before the station connection.
-
-"I have never found anything dangerous aboard the *Victoria*," she said. "Nothing."
-
-"And Fortuna?"
-
-"Fortuna has walls that scratch."
-
-Behind them, the *Victoria* remained warm in the physical world. Its engines, tanks, and three living minds formed a compact island of ordered light. Ahead, Fortuna spread through impossible angles.
-
-"If this goes wrong," Sophia said, "we return here. The ship can detach."
-
-They crossed the docking seal into Ring One.
-
-Cerberus growled.
-
-Doors became optional. Locked rooms became visible. Jace forced himself to look only long enough to understand the risk. A security office. A power control room. A private cabin. A medical storage bay.
-
-No alarm noticed them.
-
-No camera turned.
-
-Their own voices carried cleanly between them. Physical voices did not.
-
-At a Fortuna cafeteria wall, Sophia pressed two fingers against a dark section of metal.
-
-"Vibration again. Stronger."
-
-Jace felt it this time. A thin tremor. Three quick pulses, then two.
-
-"Machinery?"
-
-"Perhaps."
-
-"Speech?"
-
-"Perhaps."
-
-"Creature scratching inside the wall?"
-
-Sophia removed her hand.
-
-"Also perhaps."
-
-Cerberus growled.
-
-They returned to the ship.
+Jace slept nine hours.
 
 ##
 
-On the third planned crossing, four days after the first, Jace brought every instrument his skullcap could run.
+They agreed to one crossing each day.
 
-Before they began, he looked at the heading in Sophia's notebook.
+No accidental nights. No skipped sleep. No crossing before work. Every session began on the *Victoria*. Every session ended there.
 
-*Never-Never Session 44.*
+Sophia added another rule.
 
-"Never-Never is too long for an emergency call," he said.
+"You eat first."
 
-"It has worked for forty-three crossings."
+On the second day, she handed Jace warm bread with goat cheese.
+
+"This is not a rule," he said.
+
+"Your face has looked dead since Mars. Eat."
+
+He ate.
+
+Crossing 43 took fourteen minutes.
+
+They tested distance aboard the ship. The Astral engine room was twelve steps away through the corridor and one step away through a direction Sophia called inward.
+
+Jace tried inward.
+
+He emerged through the wrong side of a storage locker with Cerberus sitting on his boots.
+
+Sophia laughed so hard her mask fogged.
+
+"Controlled result," Jace said.
+
+"You have discovered luggage."
+
+They marked safe routes with strips of cloth. Cloth crossed easily. Sophia tied blue at the cabin, green at the lab, red at the docking collar.
+
+Cerberus moved the red strip to the bread locker.
+
+The map improved.
+
+##
+
+Crossing 44 began with three pieces of equal mass.
+
+Wood crossed easily. Aluminum demanded concentration. Steel resisted long enough to hurt behind his eyes.
+
+Sophia timed each attempt with a physical clock visible through the hull. She covered four pages in tight handwriting.
+
+"Mass is not enough," she said.
+
+"Shape?"
+
+"Composition. Maybe complexity. Maybe both."
+
+"You enjoy saying maybe."
+
+"It is what scientists say before engineers build expensive mistakes."
+
+Jace transferred a wood-handled screwdriver. Sophia transferred a folded paper bag. Cerberus transferred the stuffed pig by refusing to release it.
+
+The pig crossed faster than anything except the dog.
+
+"Control variable," Jace said.
+
+"Very poor control."
+
+"Sentimental constant."
+
+Sophia wrote that down.
+
+##
+
+Crossing 45 began when Sophia headed a new page.
+
+*Never-Never Session 45.*
+
+Jace looked at it.
+
+"Never-Never is too long for an emergency call."
+
+"It has worked for forty-four crossings."
 
 "Astral. Old books and games used it for places beside the ordinary world. Two syllables."
 
 "You want to rename my discovery because the old name takes too long to say?"
 
-"I want to save syllables while something is chasing us."
+"I want to save syllables while wearing a mask."
 
 Sophia considered the page. Then she crossed out the heading and wrote one word above it.
 
@@ -479,108 +334,68 @@ Sophia considered the page. Then she crossed out the heading and wrote one word 
 
 "She can file a review."
 
-The HUD clock failed first.
+They crossed a thermometer.
 
-Position followed. Temperature reported six different values. Radio filled with symbols, rebooted, and shut down. The local recorder saved seven seconds of color noise, then insisted its storage was empty.
+It had no radio, no network, and almost nothing inside it except a sensor and a strip of metal. Jace had rebuilt it twice to remove dense alloys. The third version took eleven minutes.
 
-Jace spoke observations aloud while Sophia wrote on paper.
+The display settled at minus nineteen point six Celsius.
 
-"Time since crossing unknown."
+Sophia held both hands up.
 
-"Physical timer says nine minutes," Sophia said.
+"We have an instrument."
 
-"HUD error count thirty-one. No usable sensor data."
+"We have a temperature."
 
-"Paper remains undefeated."
+"Today, same thing."
 
-"Paper cannot sample radiation."
+They placed it beside the blue cloth marker. It was the first piece of equipment they left behind.
 
-"Paper also does not crash."
+For the first time, the Astral *Victoria* contained something because they had put it there.
 
-They left the *Victoria* and entered Fortuna through the docking collar.
+##
 
-Cerberus stopped at a utility wall in Ring One.
+Crossing 46 took Jace eight minutes.
 
-The light cord between him and Jace pulled tight.
+The fifth day became moving day.
 
-Sophia closed her notebook.
+They carried paper, cloth, hand tools, two lamps that did not work, one lamp that did, sample containers, a folding stool, and a simple aluminum frame.
 
-Inside Fortuna's physical wall, something black folded around a cable.
+Sophia arranged the objects in the Astral lab. Jace objected to every arrangement. Cerberus moved the cloth markers. The stuffed pig became their first unauthorized relocation.
 
-One joint opened. Then another.
+By the end of the session, they had a workbench, storage, a thermometer, and a list of forty-three experiments.
 
-A red eye turned toward them.
+They also had a name.
 
-Jace knew that eye.
+The Astral.
 
-The creature released the cable and withdrew deeper into the station wall. It did not run. It moved sideways, using the same impossible direction Sophia had used to cross.
+Jace stood outside the *Victoria's* physical hull but remained inside the safe boundary they had mapped. Fortuna shone around them. The asteroid curved below in more directions than a sphere required. Stars flickered through blue distance.
 
-For one instant, a groove in the station wall glowed where its limb had rested.
+There was a new place, a warm cord of light between Jace and Cerberus, and Sophia turning slow circles as she tried to see all of it.
 
-Then it was gone.
+"Tomorrow," she said, "we move a camera."
 
-Sophia reached for the mark.
+"Tomorrow we move half a camera."
 
-Jace caught her wrist.
+"That is not useful."
 
-"Distance. Your rule."
+"It is if we move the correct half."
 
-She looked at the place where the creature had vanished.
+Sophia laughed.
 
-"Return," she said.
-
-The *Victoria's* cabin became solid around them.
-
-Cerberus turned toward the docking collar. He stopped growling only after Sophia sealed the inner hatch.
-
-Sophia checked the ship's sensors. No mark. No heat change. No pressure change. No indication that anything had followed them aboard.
-
-Her hand hovered over the undocking control.
-
-"The *Victoria* can leave," she said.
-
-"Fortuna cannot."
-
-Jace opened the recorder.
-
-Seven seconds of color noise.
-
-No eye. No creature. No groove.
-
-Nothing they could show anyone.
-
-Sophia set her notebook on the desk.
-
-"We need instruments that can understand what your senses are doing."
-
-"My HUD cannot keep time there."
-
-"Then it needs help."
-
-Jace looked through his unopened messages.
-
-Nick's offer waited where he had left it.
-
-*Latest {Aura} build. Local. Configurable. Opens most HUD settings the manufacturer hides. Still interested?*
-
-Jace had ignored the message twice.
-
-He replied.
-
-*Yes. How soon can we install it?*
+Jace realized he was laughing too.
 
 ## Contract coverage
 
 | Item | Status |
 |---|---|
-| First planned joint crossing begins from the *Victoria* as crossing 42 | done |
-| Dinner, wine, room joke, bread, and shipmate concern are preserved | done |
-| Sophia becomes comfortable with Jace through Cerberus | done |
-| Physical appearance and deliberate crossing mechanics are established | done |
-| Several joint crossings build empirical knowledge without resolving the system | done |
-| Sophia begins with Never-Never; Jace proposes Astral after several days | done |
-| Sophia describes Jace's crossing and his visible cord to Cerberus | done |
-| Physical people cannot see or hear them; faint vibration remains uncertain | done |
-| Security and privacy implications are recognized | done |
-| The *Victoria* remains safe; existing fauna raises the threat inside Fortuna's walls | done |
-| Instrument failure tips Jace toward installing {Aura} | done |
+| Crossing 42 is the first planned joint crossing | done |
+| The Victoria remains completely safe | done |
+| Days one through five each contain one crossing | done |
+| Bread, wine, room joke, and shipmate concern are preserved | done |
+| Minus twenty Celsius Astral temperature is established | done |
+| Physical observers cannot see or hear them | done |
+| Privacy and ethics implications are recognized | done |
+| Never-Never becomes Astral after several days | done |
+| Simple equipment transfer and composition testing begin | done |
+| Jace catches up on sleep and the mood remains light | done |
+| No Astral fauna or threat cue appears | done |

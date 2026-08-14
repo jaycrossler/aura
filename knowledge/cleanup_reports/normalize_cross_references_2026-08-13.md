@@ -127,6 +127,8 @@ last_updated: 2026-08-13
 | `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
 | `"[[scene_notes_x09e_sparky_comes_across]]"` | `[[scene_notes_x09e_sparky_comes_across]]` |
 | `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
+| `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
+| `"[[draft_ch17_the_eye_in_the_wall]]"` | `[[draft_ch17_the_eye_in_the_wall]]` |
 
 ### `arcs\arc_02_addendum_kael_two_weeks.md`
 
@@ -910,8 +912,42 @@ last_updated: 2026-08-13
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+| `"[[scene_notes_x09b_composition_question]]"` | `[[scene_notes_x09b_composition_question]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 | `"[[draft_ch14_down_to_the_asteroid]]"` | `[[draft_ch14_down_to_the_asteroid]]` |
+| `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
+
+### `scenes\draft_ch16_ten_good_days.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
+| `"[[scene_notes_x09e_sparky_comes_across]]"` | `[[scene_notes_x09e_sparky_comes_across]]` |
+| `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
+| `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
+| `"[[draft_ch17_the_eye_in_the_wall]]"` | `[[draft_ch17_the_eye_in_the_wall]]` |
+
+### `scenes\draft_ch17_the_eye_in_the_wall.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
+| `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
 
 ### `scenes\event_t_forge_no_more_voices.md`
 
@@ -1255,55 +1291,7 @@ last_updated: 2026-08-13
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\arcs\arc_01_falcon_and_fortuna.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-| `"[[char_suzi]]"` | `[[char_suzi]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-| `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
-| `"[[char_kim]]"` | `[[char_kim]]` |
-| `"[[char_torres]]"` | `[[char_torres]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-| `"[[faction_origin_industries]]"` | `[[faction_origin_industries]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
-| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-| `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
-| `"[[magic_astral_transfer_skill]]"` | `[[magic_astral_transfer_skill]]` |
-| `"[[spec_threat_escalation]]"` | `[[spec_threat_escalation]]` |
-| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
-| `"[[location_the_scar_never_never]]"` | `[[location_the_scar_never_never]]` |
-| `"[[timeline_book01_incursions]]"` | `[[timeline_book01_incursions]]` |
-| `"[[tech_aura_ai]]"` | `[[tech_aura_ai]]` |
-| `"[[tech_sleep_masks]]"` | `[[tech_sleep_masks]]` |
-| `"[[draft_ch01_departure]]"` | `[[draft_ch01_departure]]` |
-| `"[[draft_ch04_plumbing_crisis]]"` | `[[draft_ch04_plumbing_crisis]]` |
-| `"[[draft_ch08_arrival_day]]"` | `[[draft_ch08_arrival_day]]` |
-| `"[[priority_fix_list]]"` | `[[priority_fix_list]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\arcs\arc_01_thread_L_life_texture.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_mira]]"` | `[[char_mira]]` |
-| `"[[char_kim]]"` | `[[char_kim]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\arcs\arc_01_thread_X_astral.md`
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\arcs\arc_01_thread_X_astral.md`
 
 | Before | After |
 |---|---|
@@ -1321,173 +1309,10 @@ last_updated: 2026-08-13
 | `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
 | `"[[scene_notes_x09e_sparky_comes_across]]"` | `[[scene_notes_x09e_sparky_comes_across]]` |
 | `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
+| `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
+| `"[[draft_ch17_the_eye_in_the_wall]]"` | `[[draft_ch17_the_eye_in_the_wall]]` |
 
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\characters\char_sophia_lotte.md`
-
-| Before | After |
-|---|---|
-| `"[[sheet_sophia_arc01_end]]"` | `[[sheet_sophia_arc01_end]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\magic-systems\advancement_ledger.md`
-
-| Before | After |
-|---|---|
-| `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
-| `"[[magic_skill_level_scale]]"` | `[[magic_skill_level_scale]]` |
-| `"[[magic_self_template_skill]]"` | `[[magic_self_template_skill]]` |
-| `"[[magic_astral_transfer_skill]]"` | `[[magic_astral_transfer_skill]]` |
-| `"[[sheet_jace_arc01_end]]"` | `[[sheet_jace_arc01_end]]` |
-| `"[[sheet_sophia_arc01_end]]"` | `[[sheet_sophia_arc01_end]]` |
-| `"[[sheet_jin_arc01_end]]"` | `[[sheet_jin_arc01_end]]` |
-| `"[[sheet_nick_arc01_end]]"` | `[[sheet_nick_arc01_end]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\magic-systems\magic_skill_level_scale.md`
-
-| Before | After |
-|---|---|
-| `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
-| `"[[magic_astral_transfer_skill]]"` | `[[magic_astral_transfer_skill]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_kael]]"` | `[[char_kael]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch00_prologue_helena.md`
-
-| Before | After |
-|---|---|
-| `"[[event_helena_prologue]]"` | `[[event_helena_prologue]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-| `"[[char_suzi]]"` | `[[char_suzi]]` |
-| `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_dog_siren]]"` | `[[char_dog_siren]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch01_departure_and_rounds.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[event_t_forge_no_more_voices]]"` | `[[event_t_forge_no_more_voices]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_patrick]]"` | `[[char_patrick]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch02_no_more_voices.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[event_t_forge_no_more_voices]]"` | `[[event_t_forge_no_more_voices]]` |
-| `"[[draft_ch03_afternoon_workshop]]"` | `[[draft_ch03_afternoon_workshop]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_patrick]]"` | `[[char_patrick]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch03_plumbing_crisis.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[tech_nuclear_ferries]]"` | `[[tech_nuclear_ferries]]` |
-| `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch04_morning_after_debrief.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[draft_ch03_plumbing_crisis]]"` | `[[draft_ch03_plumbing_crisis]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_maureen]]"` | `[[char_maureen]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-| `"[[ship_falcon]]"` | `[[ship_falcon]]` |
-| `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch05_learning_mode.md`
-
-| Before | After |
-|---|---|
-| `"[[book01-ch02b-learning-mode]]"` | `[[book01-ch02b-learning-mode]]` |
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[draft_ch04_morning_after_debrief]]"` | `[[draft_ch04_morning_after_debrief]]` |
-| `"[[scene_notes_ai_interactions]]"` | `[[scene_notes_ai_interactions]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[draft_ch07_artemis_call_canister]]"` | `[[draft_ch07_artemis_call_canister]]` |
-| `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
-| `"[[location_metis_station]]"` | `[[location_metis_station]]` |
-| `"[[tech_modular_pod_canisters]]"` | `[[tech_modular_pod_canisters]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch06_the_spire.md`
-
-| Before | After |
-|---|---|
-| `"[[event_t_spire_eggs]]"` | `[[event_t_spire_eggs]]` |
-| `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
-| `"[[draft_ch05_learning_mode]]"` | `[[draft_ch05_learning_mode]]` |
-| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
-| `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
-| `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch09_first_week.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_L_life_texture]]"` | `[[arc_01_thread_L_life_texture]]` |
-| `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
-| `"[[char_suzi]]"` | `[[char_suzi]]` |
-| `"[[char_helena]]"` | `[[char_helena]]` |
-| `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
-| `"[[char_mei]]"` | `[[char_mei]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-| `"[[char_hayes]]"` | `[[char_hayes]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-| `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch10_first_drone_shift.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[char_kim]]"` | `[[char_kim]]` |
-| `"[[char_carlos]]"` | `[[char_carlos]]` |
-| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_dog_siren]]"` | `[[char_dog_siren]]` |
-| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
-| `"[[tech_seek_ai]]"` | `[[tech_seek_ai]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-| `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch11_survey_trip.md`
-
-| Before | After |
-|---|---|
-| `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
-| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_torres]]"` | `[[char_torres]]` |
-| `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
-| `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
-| `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
-
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch12_awakening.md`
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\draft_ch12_awakening.md`
 
 | Before | After |
 |---|---|
@@ -1500,7 +1325,7 @@ last_updated: 2026-08-13
 | `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch13_woman_who_wasnt_glowing.md`
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\draft_ch13_woman_who_wasnt_glowing.md`
 
 | Before | After |
 |---|---|
@@ -1514,7 +1339,7 @@ last_updated: 2026-08-13
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch14_down_to_the_asteroid.md`
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\draft_ch14_down_to_the_asteroid.md`
 
 | Before | After |
 |---|---|
@@ -1528,7 +1353,7 @@ last_updated: 2026-08-13
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 | `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
 
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch15_sideways.md`
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\draft_ch15_sideways.md`
 
 | Before | After |
 |---|---|
@@ -1539,25 +1364,62 @@ last_updated: 2026-08-13
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+| `"[[scene_notes_x09b_composition_question]]"` | `[[scene_notes_x09b_composition_question]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 | `"[[draft_ch14_down_to_the_asteroid]]"` | `[[draft_ch14_down_to_the_asteroid]]` |
+| `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
 
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\event_x00b_sophia_cafeteria.md`
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\draft_ch16_ten_good_days.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
+| `"[[scene_notes_x09e_sparky_comes_across]]"` | `[[scene_notes_x09e_sparky_comes_across]]` |
+| `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
+| `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
+| `"[[draft_ch17_the_eye_in_the_wall]]"` | `[[draft_ch17_the_eye_in_the_wall]]` |
+
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\draft_ch17_the_eye_in_the_wall.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
+| `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
+
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\scene_notes_x09d_moving_house.md`
 
 | Before | After |
 |---|---|
 | `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
-| `"[[spec_chapter_epigraphs]]"` | `[[spec_chapter_epigraphs]]` |
+| `"[[scene_notes_x09b_composition_question]]"` | `[[scene_notes_x09b_composition_question]]` |
+| `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 
-### `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\universe-spec\spec_crossing_mechanics.md`
+### `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\scene_notes_x09e_sparky_comes_across.md`
 
 | Before | After |
 |---|---|
-| `"[[spec_dungeon_entry_and_interface]]"` | `[[spec_dungeon_entry_and_interface]]` |
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 
 ### `universe-spec\concept_ai_seams.md`
 
@@ -1796,11 +1658,4 @@ These stems don't match any filename in the repo. Do NOT guess the intended targ
 - `scenes\non-canonical-ideas\book01-opening-notes.md` → missing: `draft_ch04_plumbing_crisis`, `draft_ch05_morning_after_debrief`, `draft_ch06_learning_mode`, `draft_ch07_artemis_call_canister`, `draft_ch08_arrival_day`
 - `scenes\scene_notes_x09c_what_else_she_can_do.md` → missing: `event_x03b_what_she_can_do`
 - `storybot\storybot_orpheus_voice_tag_reference.md` → missing: `voice_char_jace_apollo`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\arcs\arc_01_falcon_and_fortuna.md` → missing: `char_torres`, `draft_ch01_departure`, `draft_ch04_plumbing_crisis`, `draft_ch08_arrival_day`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch01_departure_and_rounds.md` → missing: `char_patrick`, `chapter_draft_schema_v2`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch02_no_more_voices.md` → missing: `draft_ch03_afternoon_workshop`, `char_patrick`, `chapter_draft_schema_v2`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch03_plumbing_crisis.md` → missing: `chapter_draft_schema_v2`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch04_morning_after_debrief.md` → missing: `chapter_draft_schema_v2`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch05_learning_mode.md` → missing: `book01-ch02b-learning-mode`, `draft_ch07_artemis_call_canister`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch11_survey_trip.md` → missing: `char_torres`
-- `to_merge\aura_main_merge_461bc77\replacement_files\knowledge\scenes\draft_ch13_woman_who_wasnt_glowing.md` → missing: `char_torres`
+- `to_merge\aura_ch12_17_astral_rewrite\replacements\knowledge\scenes\draft_ch13_woman_who_wasnt_glowing.md` → missing: `char_torres`

@@ -110,7 +110,7 @@ The indicator turned green.
 
 Jace lay still until both of them could breathe.
 
-His own cartridge showed two hours and ten minutes of air. Cerberus's showed three hours.
+His own cartridge showed one hour and ten minutes of air. Cerberus's showed two hours.
 
 ##
 
@@ -210,7 +210,7 @@ The clinic door wasn't there. It was a blank wall with a solar system behind it.
 
 Lanchee had moved her canister into Ring One. Jace knew that. His oxygen-starved brain had gone to the place she used to be aboard the *Falcon*, translated onto the station map, and called it a plan.
 
-His air cartridge showed ninety-eight minutes.
+His air cartridge showed thirty-eight minutes.
 
 Night workers would be in the cafeteria near the inn. Someone had to be awake there.
 
@@ -228,15 +228,7 @@ His hand passed through the shell. The resistance felt different from the door. 
 
 The robot rolled through his arm and kept cleaning.
 
-Cerberus turned his head and stared into a wall.
-
-Jace followed his gaze.
-
-Something small moved inside the metal.
-
-Not a cable. Not light. A black joint folded, then withdrew.
-
-Jace pulled Cerberus away.
+Cerberus turned his head and stared into a wall. Jace followed his gaze and saw only layered cable runs, ducts, and metal that no longer agreed on where it ended.
 
 "Cafeteria. Now."
 
@@ -288,5 +280,5 @@ The woman looked up.
 | Physical-side people cannot perceive Jace | done |
 | Living people appear as layered glows | done |
 | Torres insomnia pays off in the cafeteria | done |
-| A hidden creature shape raises the threat | done |
+| The first crossing remains dangerous through oxygen and geometry, without revealing fauna | done |
 | Sophia appears as the only solid person | done |

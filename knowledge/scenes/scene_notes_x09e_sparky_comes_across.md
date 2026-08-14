@@ -21,7 +21,8 @@ cross_references:
 
 # X-09e — Sparky Comes Across
 
-**Placement:** Follows X-09d, overlapping in time. Sparky's physical-side
+**Placement:** Begins in Chapter 16 after the first simple equipment transfers,
+overlapping with X-09d. Sparky's physical-side
 mobility work (rolling, then hovering) is a separate, ongoing project thread
 that reaches a milestone here and gets folded into the Astral work once it
 does.
@@ -42,8 +43,9 @@ is a specific object with sentimental and functional continuity, not a
 sensor he can print twice.
 
 The mini complex thruster engine is the hard part: dense, alloy-heavy,
-tightly toleranced. **Two hours of heavy, exhausted pulling** for one small
-engine — this should read as real physical and mental cost, consistent with
+tightly toleranced. **Two hours of heavy, exhausted pulling** for the first small
+engine. Jace then reduces the Astral configuration to three thrusters and Sophia
+helps with the remaining pair. This should read as real physical and mental cost, consistent with
 the atomic-weight rule established in X-09b (complex alloyed electronics are
 expensive to cross).
 
@@ -51,7 +53,7 @@ The shell is easy by comparison — simple metal, low complexity, crosses in
 a fraction of the time and effort.
 
 Spread across several days and sessions, Jace gets enough of Sparky across to
-reassemble him on the Astral side. Once whole again, Sparky becomes a working
+reassemble him on the Astral side during crossing 51. Once whole again, Sparky becomes a working
 tool for their experiments there — an extra set of hands/sensors, not a
 combat asset, not dramatic. The reunion beat (Sparky powering on, first roll
 across Astral terrain) can be small and a little funny rather than a big
