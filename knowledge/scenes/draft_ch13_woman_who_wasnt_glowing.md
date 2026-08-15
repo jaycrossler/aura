@@ -77,15 +77,15 @@ The man's expression sharpened.
 
 "Yes. Learning Mode. The dog videos. The pigs."
 
-"Former military officer. Engineer. Current Origin support. So, uh, 'Delivery man' would be more accurate. And dog."
+"Former military officer. Engineer. Current Origin support. Dog wrangler. So, uh, 'Delivery *guy and dog*' would be more accurate. 'Delivery *boy*' is reductive."
 
 Sophia started laughing.
 
 The laugh broke halfway through. Forty crossings of isolation came apart with it. She pressed one hand over her mouth and tried to stop. Tears escaped anyway.
 
-The dog sat on her foot, tail thumping. He was sniffing at the small piece of sandwich still clutched in her hand.
+The dog sat on her foot, tail thumping. He was sniffing at the small piece of sandwich still clutched in her hand. Of course, existential physics-defying trauma and Cerberus still had his priorities.
 
-Sophia looked down. Her hand reached down and he gingerly bit the food out of her hand, somehow still keeping the mask over his nose. She scrunched his silky ear. He leaned into her hand, almost purring.
+Sophia looked down. Her hand reached and he gingerly bit the food out of her hand, somehow still keeping the mask over his nose. She scrunched his silky floppy ear. He leaned into her hand, almost purring.
 
 "He's real."
 
@@ -137,9 +137,9 @@ The bottle moved.
 
 For three minutes, Jace and Sophia pulled.
 
-Nothing about it was fast. The bottle came through a fraction at a time. First the regulator, then the neck, then the metal cylinder. Jace's arms began shaking even though his hands held nothing. His cartridge counted down through twenty-one minutes, then twenty, then nineteen.
+Nothing about it was fast. The bottle came through a fraction at a time. First the regulator, then the neck, then the metal cylinder. Jace's arms began shaking even though his hands held nothing. His cartridge counted down through twenty-one minutes, then twenty, then nineteen. He was starting to panic, knowing that the dials were never exact.
 
-At three minutes and four seconds, the bottle tore free.
+At three minutes, the bottle tore free.
 
 Sophia caught it against her chest and fell backward into Jace. All three of them hit the floor in a slow tangle of limbs, masks, and indignant dog.
 

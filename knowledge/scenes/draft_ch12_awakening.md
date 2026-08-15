@@ -110,9 +110,7 @@ The indicator turned green.
 
 Jace lay still until both of them could breathe.
 
-His own cartridge showed thirty-four minutes. He had used it on the survey mission,
-come home exhausted, and fallen asleep without putting it on the refill rack.
-Cerberus's larger cartridge showed seventy-six.
+His own cartridge showed fourteen minutes of emergency air. He had used it on the survey mission, come home exhausted, and fallen asleep without refilling it. Cerberus's fuller cartridge showed about one hundred.
 
 Every spacer canister had the same recessed transfer valve on its bottom. Jace
 pulled the short equalization hose from the mask harness, snapped it between the
@@ -121,8 +119,7 @@ into his. This was ordinary spacer gear, the kind of maneuver children learned i
 their first pressure drill. It only felt extraordinary because Jace's hands would
 not stop shaking.
 
-He closed both valves at forty-nine minutes for himself and sixty-one for
-Cerberus. Enough to look for help without stealing the dog's reserve.
+He closed both valves at fifty minutes for himself and and the rest for Cerberus. Enough to look for help without stealing the dog's reserve. They wre estimates only, a face which scared him more than he would admit.
 
 ##
 
@@ -144,7 +141,7 @@ Stroke. Radiation damage. Implant failure. Oxygen deprivation. A seizure shared 
 
 None explained the room.
 
-He needed a doctor. Maybe get to Lanchee? Her clinic should be only five minutes away.
+He needed a doctor. Maybe get to Lanchee? Her clinic should be only minutes away.
 
 Jace stood, holding Cerberus against his chest, and pressed the hatch control.
 
@@ -222,7 +219,7 @@ The clinic door wasn't there. It was a blank wall with a solar system behind it.
 
 Lanchee had moved her canister into Ring One. Jace knew that. His oxygen-starved brain had gone to the place she used to be aboard the *Falcon*, translated onto the station map, and called it a plan.
 
-His air cartridge showed thirty-eight minutes.
+His air cartridge showed thirty-five minutes.
 
 Night workers would be in the cafeteria near the inn. Someone had to be awake there.
 
