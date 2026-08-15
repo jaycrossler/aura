@@ -30,13 +30,13 @@ cross_references:
 
 # Chapter 16. Ten Good Days
 
-> *Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. When his dog was bored, he ate the first sign. Teething puppies are no joke.*
+> *Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. When Cerberus was bored, he chewed the first sign to pulp. Teething puppies are no joke.*
 >
 > Jace Grant, *unpublished notes*
 
 On the sixth day, Jace automated fourteen of his seventeen delivery routes.
 
-He did not bypass a safety rule. He did not falsify a manifest. He took the exception patterns Kim had taught him, converted them into local decision trees, and made the drones stop asking humans questions that had only one correct answer.
+He did not bypass any safety rules. He did not falsify a manifest. He took the exception patterns he had been collecting and that Kim had taught him, converted them into local decision trees, and made the drones stop asking humans questions that had only one correct answer. Everything that required him to tap screens in Drone Ops could be done remotely.
 
 The morning queue fell from forty-seven items to eleven.
 
@@ -66,15 +66,17 @@ She opened three route logs. Every decision pointed to the applicable procedure.
 
 Jace waited until she walked away.
 
-Then he sounded pleased. He headed back to the forge, whistling to himself and tossing a ball to Cerberus. A bouncing ball in Mars-standard gravity is much more fun than on Earth, and Cerberus was getting pretty good at running up walls.
+Then he sounded pleased with himself. He headed back to the forge, whistling to himself and tossing a ball to Cerberus. He kept drone feeds on his HUD. A bouncing ball in Mars-standard gravity is much more fun than on Earth, and Cerberus was getting pretty good at running up walls.
 
 In the foundry, he moved to the tables where he had Sparky laid out. He now had two tables reserved in his own private corner of the room, separated by a metal partition in case there was an engine problem.
 
-He had gaps in the morning to work on the power control module. The module technically (and only technically, not actually) worked with the new engines he'd put in. There were many tiny control chips that would control the power to each motor, even it out, and route it dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more rotated for assisting thrust.
+In between drone fixes and delivery runs, he had gaps in the morning to work on the power control module. The module technically (and only technically, not actually) worked with the new thrusters that he'd made. There were many tiny control chips that would control the power to each motor, even it out, and route it dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more rotated for assisting thrust.
 
 One simple board to push out the right amount of power, and a ginormous body of code to make things work and spin at any level of gravity, temperature, or humidity. Thrusters in a warm, spinning hab module worked very differently than in zero-gravity deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
 
-The latest problem was that the chips wouldn't allow more power because the military-grade engine types weren't accepted for intellectual-property reasons. It should all work, it *would* all work, if not for some stupid licensing blocks built deep into the code. If he paid the exorbitant licensing fee and had an arms-dealer license, he could unlock a key to allow it. Neither was plausible, so he was using {SpoX} to help him write code to solve the problem. All the other AIs refused to engage in licensing infringement, but the company that created the X-line of AI just didn't care. {SpoX} was acting more erratic every day, but the code seemed to work as long as he kept it focused.
+The latest problem was that the chips wouldn't allow more power because the military-grade engine types weren't accepted for intellectual-property reasons. It should all work, it *would* all work, if not for some stupid licensing blocks built deep into the code. If he paid the exorbitant licensing fee and had an arms-dealer license, he could unlock a key to allow it. Neither was plausible, so he was using {SpoX} to help him write code to solve the problem. All the other AIs refused to engage in licensing infringement, but the company that created the X-line of AI just didn't care. 
+
+{SpoX} was acting more erratic every day, but the code seemed to work as long as he kept the tempramental A.I. focused.
 
 He just needed more testing, and now that he'd automated most of his day job, he had the time. Things were looking up.
 
@@ -90,9 +92,9 @@ Sophia fed him rye bread before crossing 47.
 
 "Thank you."
 
-"It was not a compliment. Eat."
+"It was not a compliment. You should take care of your body better. Eat."
 
-They moved the camera in seven pieces.
+As well as more equipment, they moved the camera in seven pieces. Sophia went out to do some experiments while Jace heaved and pulled, like a weightlifter mime.
 
 The lens crossed first. The housing followed. The battery took forty minutes and left Jace sitting on the Astral floor with his back against a wall that was only solid because he expected it to be.
 
@@ -100,9 +102,9 @@ Sophia crouched beside him.
 
 "Stop."
 
-"One connector remains."
+"One connector left."
 
-"Tomorrow remains."
+"Tomorrow."
 
 Jace looked at the pieces arranged on their folding table.
 
@@ -112,9 +114,9 @@ Jace looked at the pieces arranged on their folding table.
 
 Cerberus lay across Jace's boots and made the vote binding.
 
-They returned.
+They returned to the real world.
 
-Jace slept eight hours and forty-six minutes.
+Jace slept nine hours and forty-six blissful minutes.
 
 ##
 
@@ -124,11 +126,11 @@ Jace used the quiet intervals to redesign equipment.
 
 The Astral charged different prices for objects that looked equivalent on a workbench. Their tests still could not separate composition, density, connections, and complexity. The useful design direction was clear even when the rule was not: lighter materials, fewer interfaces, and nothing the instrument did not need.
 
-He printed a thermometer frame in aluminum and copper. He replaced steel fasteners with polymer clips. He stripped wireless radios from instruments that could not connect to anything after crossing.
+He printed a thermometer frame in aluminum and copper. He replaced steel fasteners with polymer clips. He stripped wireless radios from instruments that could not connect to anything after crossing. We used the cheapest PLA plastic. As long as it wasn't exposed to solar winds or space, it'd be fine and crossed over twenty times easier.
 
-His equipment became ugly, light, and honest.
+His equipment became ugly, light, and colored in whichever filament had been last been on the forge printer.
 
-Kim approved the scripts for another week.
+Kim approved his drone scripts for another week.
 
 Jace interpreted that as approval of his entire life.
 
@@ -142,29 +144,33 @@ Nick replied with a picture of a short mech being crushed by an enormous loaf of
 
 Jace laughed, packed the case, and went to the *Victoria*.
 
-Crossing 48 completed the camera.
+Crossing 48 completed the camera. The hundred-year-old camera blueprint.
 
-It recorded blue noise, three seconds of Sophia's scarf, and a view through the back of its own housing.
+It recorded blue noise, three seconds of Sophia's scarf, and a view through the back of its own housing. Still photos worked better but still had too many layers all in one.
 
-"Success," Sophia said.
+"Success!" Sophia said.
 
 "It filmed itself."
 
 "Nothing has ever filmed itself from that direction."
 
-"That is not a market."
+"That is not... marketable."
 
 "You lack vision."
 
-They spent an hour making terrible Astral photographs.
+"Was that a camera joke?"
 
-Cerberus appeared in all of them, including two taken before he entered the room.
+They spent an hour making terrible Astral photographs. Jace took notes on paper for how he might try to use different graphics libraries to fix the images, but he couldn't do it from here.
+
+Cerberus appeared in many of the photos, including two taken before he entered the room.
+
+"These photos will be famous."
 
 ##
 
-Sparky rolled for the first time on the eighth morning.
+Sparky rolled perfrectly, then hovered without hitting a wall, then rolled again for the first time on the eighth morning.
 
-The machine was a rough sphere built from hexagonal and pentagonal panels. Ten micro-thrusters sat around its shell. Four small wheels unfolded beneath it for station use.
+The machine was a rough sphere built from hexagonal and pentagonal panels. Micro-thrusters sat around its shell. It looked like a soccer ball, but each panel could fold back to reveal a thruster or a light or an empty spot where a sensor could go. By moving it's heavy internal battery, it could roll in any direction.
 
 Jace set it on the workshop floor.
 
@@ -182,7 +188,7 @@ Sparky turned right, struck a parts cabinet, corrected, and displayed a green st
 
 Jace crouched beside it.
 
-"That was not left."
+"That should have been my left."
 
 The light remained confidently green.
 
@@ -200,17 +206,17 @@ Kim looked in through the workshop hatch.
 
 "Is it delivering anything?"
 
-Jace set a package on top of Sparky.
+Jace used his HUD to have Sparky open a few panels. It was just big enough that he could fit a samll package inside.
 
-The machine rolled forward, turned right again, and delivered the package to a waste recycler.
+The machine rolled forward, turned right again, and delivered the package to the waste recycler and confidently pop it into the disposal before Jace could catch it.
 
-Kim watched it disappear.
+Kim watched it disappear. 
 
 "Your platform requires work."
 
 "The route completed."
 
-"Your standards are dangerous."
+She just raised her eyebrow then walked out.
 
 ##
 
