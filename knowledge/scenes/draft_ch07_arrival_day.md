@@ -90,7 +90,7 @@ Fortuna grew until the viewport could not hold it.
 
 Three rings turned around a long central shaft, these ones spinning like bicycle wheels while the thick rod in the middle remained stationary. The first two wheels carried dense construction between them, a layered city of gantries, pod stacks, markets, and utility towers. Ring Three stood farther out. Half looked finished. The rest looked like someone had stopped building a ship halfway through and dared vacuum to complain. Even now, a small army of drones could be seen welding and moving around the outside.
 
-Below everything turned the asteroid, dark gray and immense. Surface factories marked it with rectangular fields of light. He couldn't see movement on its airless surface. All the excitement was on the station.
+Below everything turned the asteroid 'Fortuna 3' which the station was named after, dark gray and immense. Surface factories marked it with rectangular fields of light, impossibly large even from here. He couldn't see movement on its airless surface. All the excitement was on the station.
 
 Jace had spent four months inside the *Falcon's* single ring. A full circuit there took two minutes at a jog, three with a vest. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
@@ -112,37 +112,35 @@ Carlos waited beside customs in a brown cardigan and a necktie. The tie was real
 
 He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
 
-"These are the famous ones."
+"Ahh, the true celebrities. Sorry, my friends, but you are just not as interesting."
 
-"I have noticed."
+"I noticed."
 
 Customs had three human officers, all old enough to treat retirement as a suggestion. An American man and Elder Sai checked Jace and Mei off on separate computers. The third officer, a broad Russian named Petroski, looked at each of them and nodded. He did not touch his terminal.
 
 Their arrival had been planned for months. The inspection was a formality, but one Fortuna did not permit an AI to perform alone.
 
-"They have three humans just for customs?" Jace asked.
+"They have three humans just for a customs station?" Jace asked.
 
-The American looked offended. "I am a retired doctor of crystallography."
+The American looked bored. "International rules. I am a retired doctor of crystallography."
 
 Sai tapped her screen. "Agricultural systems."
 
-Petroski kept his hands behind his back. "Orbital structures."
-
-"Three retired PhDs," Carlos said. "They were probably bored."
+Petroski kept his hands behind his back. "Orbital structures. They lost at cards. I'm the only Russian on the station."
 
 Jace looked at Petroski. "I thought Russia broke up into eight separate countries."
 
 "Eight *states*," Petroski said.
 
-"Aren't all of them fully independent?" the American asked.
+"Aren't all of them claiming to be fully independent soverign nations now?" the American asked, obviously needling his friend.
 
-"Eight states... with sibling rivalries."
+"Eight rambunctious states... experiencing sibling rivalries."
 
 "Didn't China just invade one?" Jace asked.
 
-Petroski replied without missing a beat. "Seven states and one on loan to an old friend."
+Petroski replied without missing a beat. "Seven states and one on loan to an old friend of Mother Russia."
 
-Behind the customs desks, a mural showed an American flag washed in red and carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat.
+Behind the customs desks, a mural showed an American flag carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat, and red floodlights shone over everything.
 
 The American customs officer straightened. "On behalf of the American Red Party, welcome to Fortuna."
 
@@ -150,13 +148,13 @@ The next mural held a large Chinese flag and a similar portrait of a round-faced
 
 Sai finished checking Mei's name. "China welcomes you."
 
-Jace looked from one portrait to the other. "What's the difference?"
-
-"Different color hair," Carlos said.
+Jace looked from one portrait to the other. "From this angle, I'm not seeing much difference."
 
 Petroski snorted and walked away.
 
 Mei did not smile.
+
+##
 
 A dockworker looked up from a manifest.
 
@@ -355,10 +353,9 @@ The innkeeper took back the key. He led Jace to a room at the end of the corrido
 
 The rate left Jace enough for two real cafeteria meals each day.
 
+##
 
-
-
-The cafeteria occupied the next block. Jace took a bowl of the free contractor soup. It was gray and warm and tasted like water sprinkled with grass.
+The cafeteria occupied the next block. Jace took a bowl of the free 'contractor soup'. It was gray and warm and tasted like water sprinkled with protein powder and sadness.
 
 He had taken three sponfulls when a shadow crossed the table.
 
@@ -372,9 +369,9 @@ Nick looked up. Then farther up.
 
 "You are absurdly tall."
 
-"You are... shorter than the mecha."
+"You are... the size of the mech you made me."
 
-"There it is. Four months, and you finally understand the joke."
+"There it is. Now you know why I'm up here. They say low gravity makes you a few inches taller."
 
 Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
 
@@ -396,7 +393,7 @@ For one second, the wall behind Nick went faint and layered. Jace saw the corrid
 
 Nick kept talking.
 
-Jace did not tell him what he had felt. But it seemed to be getting worse.
+Jace did not tell him what he had felt. But the condition seemed to be getting worse.
 
 ## Contract coverage
 

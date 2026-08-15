@@ -263,13 +263,13 @@ Nick pushed his glasses up. One lens had cracked since yesterday. He had a habit
 
 "I have been thinking about it for four months."
 
-"Think better."
+"Think better. You seem like you need a hobby."
 
 Jace did not install {Aura}.
 
 He did start running again, though.
 
-After finishing a delivery, he saw that residents had gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn where Siren came to wrestle with him until everyone returned. Over a dozen people stopped to coo and pet and just watch the dogs, who appreciated the audience.
+After finishing a delivery to a European chemist, he saw that residents had gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn where Siren came to wrestle with him until everyone returned. Over a dozen people stopped to coo and pet and just watch the dogs, who appreciated the audience.
 
 The route showed Jace how much station he did not know. Market decks above them. Transit towers between rings. Windows into crystal farms, where pale rods grew in perfect silence. Memorial posters for Helena appeared at intersections, each with the same word beneath her picture.
 

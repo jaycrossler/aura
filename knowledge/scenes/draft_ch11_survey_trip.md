@@ -53,7 +53,9 @@ He looked back once and saw Cerberus at the window, barking frantically at him.
 
 ##
 
-Survey Vessel Seven waited at the bottom of Fortuna's nonrotating central shaft launch pad. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter. Next to it were three other shuttles preppinf to head to the asteroid or out on other missions. Jace waved at a few people he'd met since arriving.
+Survey Vessel Seven waited at the bottom of Fortuna's nonrotating central shaft launch pad. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter. Next to it were three other shuttles preppinf to head down to the asteroid or out on other missions. 
+
+Jace waved at a few people he'd met since arriving. He saw the little girl Mira standing in the corner, floating in the zero gravity, just casually staring at him, her hair floating in all directions. He waved but she didn't wave back. His cold was gone and he felt better, though still exhausted from poor sleep. And freaky little witch girls.
 
 Torres filled the pilot's seat.
 
@@ -107,7 +109,7 @@ Torres glanced at him.
 
 The first target waited eleven hours away.
 
-Jace learned that Torres snored. A lot. Their emergency breathing masks pushed air into his nose, like the CPAP machine Jace's grandfather had used when Jace was a boy. If Torres tilted his head the right way, he breathed fine. If it shifted, as heads do in zero gravity, he did not.
+Jace learned that Torres snored. A lot. Their emergency breathing mask pushing air into his nose was set on high pressure, like the CPAP machine Jace's grandfather had used when Jace was a boy. If Torres tilted his head the right way, he breathed fine. If it shifted, as heads do in zero gravity, he did not and the mask gurgled.
 
 The belt looked like empty space. No rocks crossed the canopy. No tumbling field threatened the hull. Radar marked distant points that the eye could not separate from stars.
 
@@ -151,7 +153,7 @@ Jace slept velcroed to the cabin wall. Without gravity, his body refused to beli
 
 In zero gravity, carbon dioxide could pool around your head and slowly suffocate you. Either you slept under a fan that dried out your lips, eyes, and skin, or you used a mask and topped up the oxygen supply. Jace liked breathing, so he made sure he had emergency tablets that could provide a few extra hours of air when electrolyzed.
 
-They slowly got in each other's comfort zones. Trash accumulated with food wrap residue and old shirts, no matter how hard they tried to clean up. The floor had become storage. Jace could smell his own sweat, and Torres smelled worse even from three meters away.
+They slowly got in each other's comfort zones. Trash accumulated with food wrap residue and old shirts, no matter how hard they tried to clean up. The floor had become storage. Jace could smell his own sweat, and Torres smelled worse even from three meters away. Jace had brought a box of hand-made protein bars he'd bought from a merchant in Chinatown, and Torres kept complaining that they smelled like silkworm and that he could see insect legs when Jace chewed.
 
 "Zero-g ruins the clock," Torres said during the second night. "Three days out. A week wrong after. First night home, you will sit in the cafeteria at 0200 with the cleaning bots. Nothing is wrong with you. The job is still collecting payment."
 

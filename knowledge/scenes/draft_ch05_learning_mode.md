@@ -71,7 +71,7 @@ He spent forty minutes in the wash station using a week's allowance of water. He
 
 At the workbench that night, toweled and philosophical, he told the tray of Sparky prototypes about it. "This is why we're building you," he said, tapping the sensor board. "Local control. No Learning Mode. No experience harvesting. A drone that works for the person standing next to it." The board, which worked when warm, said nothing, but supportively.
 
----
+##
 
 *Seen it?,* Nick's message said, before Jace had mentioned anything. *EVERYONE'S seen it. you're famous. they're calling you Learning Mode on the boards. also Dog Man, because of the dog. don't fight it. The belt decides your name before you get here, it's tradition, mine took THREE YEARS to live down and I'm not telling you what it was*
 
@@ -135,9 +135,9 @@ Nick stopped capitalizing things when he got emotional. Jace read it twice, stan
 
 Later, alone, running his thumb along the edge of the newly repaired regulator housing to check the fit, Jace caught the shimmer again. There and gone at the housing's edge, a hair's width of doubled outline, exactly like the one on the shelf bracket days before. He decided, as he had the first time, that it was fatigue, and went to bed, and did not mention it to Lanchee, and did not mention it to himself in any form he'd have to look at twice.
 
-<!-- beat:t03c_artemis_call.beat1_the_call -->
 ##
 
+<!-- beat:t03c_artemis_call.beat1_the_call -->
 Two days later, his call window opened without warning and Artemis's face filled his HUD in real-enough time, the lag down to two seconds now, close enough for actual conversation.
 
 "There he is." Her crooked smile arrived a half-beat ahead of the rest of her face, the way it always did when she'd been saving something up. "Learning Mode himself."
@@ -190,9 +190,9 @@ The call closed with the zoomed-in image of a pig's butt. She always had to have
 
 He sat for a while in the quiet, in the shush of the water in the walls, rewinding the conversation in his head and thinking of how to get her back.
 
-<!-- beat:t03d_pig_butt_canister.beat2_the_canister -->
 ##
 
+<!-- beat:t03d_pig_butt_canister.beat2_the_canister -->
 The canister launch was, officially, the most routine event of the transit: a standard thirteen-meter cargo container, packed and sealed, kicked off the *Falcon*'s spine on a slow transfer trajectory to Metis while the ship itself continued on to Fortuna. It had been packed at the military base on Mars, loaded on the *Falcon*, wrapped and locked shut.
 
 "Ten days, if it just coasts on the velocity it leaves with," Jace said to Nick that evening, half-narrating, half-thinking out loud while he pulled up the transfer plot. "Two weeks if Metis actually wants it slotted into a berth instead of splattered across one. You'd have to burn most of the way there and flip to kill the closing speed, and Maureen doesn't waste reaction mass on somebody's grocery order so they are sending a tug to catch and slow it. Guess they have good tugs."

@@ -51,7 +51,7 @@ Everyone had been watching the channel. A few of her viewers sent buzzes and lik
 
 She pointed at the screen showing a wrinkle-faced puppy cocking its head and staring up at a young, opinionated goat. "Looks like *them*, just no nose. And more hair. Same curly tail. Shorter and just as stubborn."
 
----
+##
 
 A kilometer below her feet, through the deck and the ring structure and a lot of nothing, the asteroid turned its slow gray shoulder. Fortuna. The rock they all lived on top of, technically lived *above*, strung on a spine of trusses with the mining district winking on its surface like a small stubborn constellation. She'd been down to the surface earlier this year. She preferred it up on station, where the gravity was manufactured but the community was real.
 
@@ -79,14 +79,16 @@ The other was to finally dance with Jin.
 
 Jin Lóng. Tall (to her) and powerfully compact. A great body for yoga. And other things...  Jin, who said maybe forty words a week and made every one of them count, whom she had been orbiting at a careful, cowardly distance for the better part of a year. Tonight she was done orbiting. She'd decided during the class, somewhere in all that warmth: life was good, and short, and she was going to walk up to that serious, compact man and make him laugh if it took her all night.
 
+##
+
 <!-- beat:helena_prologue.beat4_the_bar -->
 She showered. She wore the green top. She checked one more pressure seal and reported a loose ventilation cover on the way to the bar, out of pure habit, and it was fine, everything was fine, and she pushed through the door into light and noise and half the station singing something off-key, and her friends turned toward her the way flowers do. She achieved both objectives, though one of Jin's miner buddies glared at her and pulled him aside before she could convince him to take her home. She left, giddy, tipsy, and a little lonely. She turned off her feed before she got home, singing a silly little goodbye song to her viewers.
 
-Later, security would reconstruct the walk from evidence that agreed just enough to be useless. A corridor camera showed Helena heading toward her pod. Ninety seconds later, Jin entered the same corridor, then both routes passed beyond the last camera before her door. The door controller recorded one ordinary cycle under Helena's bracelet authorization. Her bracelet triggered a routine network sync from inside the pod, and the plumbing controller routed shower water to her unit. Every system reported that Helena had gone home. No camera showed her crossing the threshold.
+A corridor camera recorded Helena heading toward her pod. It was the last anyone saw of her.
+
+A few minutes later, Jin entered the same corridor. The door controller recorded one ordinary cycle under Helena's bracelet authorization. Her plumbing controller routed shower water to her unit.
 
 <!-- beat:helena_prologue.beat5_the_statement -->
-That party was the last anyone saw of her.
-
 Helena Reyes, first child of Fortuna Station, keeper of its seals and its gossip and its animals, beloved of essentially everyone, died that night.
 
 No one knows this yet. Not her friends, still singing. Not the station, turning patiently above its asteroid. Not the *Falcon*, still weeks away, carrying a tired man and two small brindle puppies toward all of it.

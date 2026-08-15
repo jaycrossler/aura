@@ -198,7 +198,7 @@ The Falcon continued on toward Fortuna, Metis already falling behind.
 
 Chapter 6. The Spire
 
-Most people do not know this, but a ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.
+Most people do not know this, but a spin ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.
 
 Jace Grant, Falcon transit logs
 
@@ -276,7 +276,7 @@ The HUD confirmed.
 
 He loosened the plate bolt by bolt. Each turn sent a small vibration through the wrench and into his hand. The last bolt floated free. Jace caught it against his palm and pulled the plate away.
 
-Two... things rested in the tight space.
+Two... round things rested in the tight space.
 
 They were long, ridged, and leathery. Each was about the size of a gourd. The shape dragged up an old memory from a childhood museum visit to the U.S. capital. Dinosaur eggs under glass. Fossils from an age when the largest things on Earth could vanish and leave only stone behind.
 
@@ -284,45 +284,45 @@ He flagged the HUD to infrared. The overlay returned nothing — no heat bloom, 
 
 It was cold. Cold enough that he almost pulled his hand back before he made himself hold still.
 
-One shell flexed.
+One shell flexed. Or ball? Or pouch?
 
-Both eggs split.
+Both split open in a flurry of sharp parts. What looked like small black robot legs came out.
 
-The first hatchling hit Jace before the shell fragments finished drifting. It moved low and fast, with too many black joints folded into too little body. Hooked claws raked his forearm. His sleeve opened. Blood formed bright spheres and slid away from the cut.
+The first thing hit Jace before the shell fragments finished drifting. It moved low and fast, with too many black joints folded into too little body. Hooked claws raked his forearm. His sleeve opened. Blood formed bright spheres and slid away from the cut in the zero gravity.
 
-The second creature sprang at his face.
+The second thing sprang at his face.
 
 Jace twisted. His boot kicked off the ladder. With no weight to hold him, the movement spun his whole body into the shaft wall. His shoulder struck metal. The wrench floated from his grip.
 
 He caught it by the adjustment wheel.
 
-The first creature pushed away from the panel and launched again. Two red points opened above its forelimbs.
+The first creature pushed away from the panel and launched again. Two red points opened above its forelimbs like glowing LEDs.
 
 Jace swung.
 
-The wrench connected with a sound he felt through his wrist. The creature folded around the blow, sprang straight again, looking like a fractal wrapped in an MC Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
+The wrench connected with a sound he felt through his wrist. The creature folded around the blow without bleeding, sprang straight again, looking like a fractal wrapped in an MC Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
 
-He swung a second time. The wrench struck the head.
+He swung a second time. The wrench struck the top part, where an animal would keep its head.
 
-The hatchling ended.
+The hatchling? drone? creature? deathbot? crumpled and ended.
 
-Silver-white light filled the shaft. It passed through Jace, cold and quick. His vision went blank for a fraction of a second. When it returned, the creature was gone.
+Silver-white light filled the shaft like a battery had shorted but the energy had pooled into a ball. It passed through Jace's arm, cold and quick. His vision went blank for a fraction of a second. When it returned, the thing was gone.
 
-The second hatchling crouched inside the open cavity.
+The second thing crouched inside the open cavity.
 
 Jace reached for a handhold.
 
-The creature jumped through the outer wall panel.
+It jumped directly through the outer wall panel, passing through 6 inches of metal as though it were water.
 
-For one impossible instant, Jace saw both sides of the hull at once. It wasn't like the x-ray vision from the comics his father used to read him — or maybe it was, except inverted. He wasn't looking through the wall at what lay behind it. He was standing on both sides of it at the same time, looking in and looking out, and the wall itself was the thing that didn't quite belong in the picture. On the far side lay open, empty space. The hatchling tumbled away from the Falcon, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it, behind it, somehow it had passed through it.
+For one impossible instant, Jace saw both sides of the hull at once. It wasn't like x-ray vision from the comics his father used to read, or maybe it was, except inverted. He wasn't looking through the wall at what lay behind it. He was standing on both sides at the same time, looking in and looking out, and the wall itself was the thing that didn't quite belong in the picture. On the far side lay open, empty space. The dark shape tumbled away from the Falcon, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it.
 
 No breach alarm sounded.
 
 Jace hung in the shaft with one arm bleeding, the wrench raised, and Cerberus growling far below.
 
-He checked the cavity. Eggshells drifted through the shredded insulation. They looked solid until he tried to touch them. His fingers passed through. The shells blurred, dimmed, and disappeared.
+He checked the cavity. The 'eggshells' floated in the tight space. They looked solid until he tried to touch them. His fingers passed through. The pieces quickly blurred, dimmed, and disappeared.
 
-His HUD recorded an empty hole.
+His HUD recorded an empty hole. No shells. No creature.
 
 He watched the footage before he climbed down.
 
@@ -332,27 +332,27 @@ No eggs. No creatures. No light.
 
 Only Jace, fighting the air.
 
-Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then sniffed him and pressed his shoulder against Jace's shin, licking.
+Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then sniffed his arm and pressed his shoulder against Jace's shin, licking his leg.
 
-"Good choice staying here," Jace said. "One of us made one."
+"I'm happy you stayed here," Jace said. "One of us made a good choice."
 
 He returned to the spire with Thing One after sunrise. The drone mapped every panel, seam, and cable run. It found the removed plate and Jace's blood. It found nothing else.
 
-Jace searched the floor grate beneath the shaft before leaving.
+Jace's foot crunched as he searched the floor grate beneath the shaft before leaving.
 
-A single black, brown, and white feather had caught behind the mesh.
+A single black, brown, and white feather had caught behind an air circulation filter mesh. A few insect shell pieces were cracked as well on the ground near it. Starships didn't, as a rule, have problems with insects unless they brought them along as foodstock. These looked like silkworm shell pieces.
 
-He held it under the work light. Small. Curved. Duck.
+He held the feather up under the work light. Small. Curved. Duck.
 
 He put it in a sample sleeve and did not log it.
 
 Alex requested the incident footage before lunch.
 
-Contractor Grant, I want to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.
-
-He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a window of words and numbers next to it. Currently "Self Destructive and Sleep Deprived" both had high numbers. Uh oh.
+Contractor Grant, Origin wants to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.
 
 "There were two animals inside the panel."
+
+He had loaded the app that Artemis had sent him called "ThoughtWalker" and finally got it to maximize on his HUD. It showed a window of words and numbers next to it. Currently "Sabotage" and "Sleep Deprived" both had high numbers. Uh oh.
 
 No animals appear in the recording. The cavity contains no biological residue. Your injury is consistent with the panel edge.
 
@@ -364,7 +364,7 @@ Independent agreement between sensor systems increases confidence in the finding
 
 The fine appeared.
 
-It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary anyway?
+It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary for adults? He was sure he read that somewhere.
 
 This is your second documented incident involving unauthorized tool use during the current contract period. Origin recommends a medical assessment and temporary suspension from hazardous equipment.
 
@@ -406,9 +406,9 @@ Jace added the medical scan to his private file. He encrypted the feather's samp
 
 The shaft stayed empty.
 
-For the next two days, Jace went over every inch of the ship, inside and out, or as much as Maureen and Alex would let him get away with. He found nothing.
+For the next two days, Jace carried the wrench with him everywhere. He went over every inch of the ship, inside and out, or as much as Maureen and Alex would let him get away with. He found nothing.
 
-Cerberus still would not come near the access shaft.
+Cerberus still would not come near the access shaft. No more ducks went missing and the Silkworms bred normally after.
 
 
 
@@ -419,13 +419,13 @@ Most people do not know this, but you can be famous on a station you have never 
 
 Jace Grant, Fortuna notes
 
-The Falcon did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart. Two large spinning disks any closer together would have been a recipe for disaster.
+The Falcon did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart. Two large spinning disks any closer together would have been a recipe for disaster. They had spun down to zero gravity again.
 
 Cargo tugs crossed the gap in a steady line. Each tug locked onto one of the ship's thirteen-meter canisters, freed it from the ring, and carried it toward Fortuna's receiving central spire, where the spin could be matched and the canister attached to its new home. Some canisters would return to the Falcon after unloading to ship goods back in-system. Others had made their last voyage.
 
 Lanchee's clinic was one of those.
 
-She stood beside Jace at the observation port while two tugs detached the canister that held her examination room, instruments, bed, and every private thing he had never seen. Lanchee would remain aboard until four suited crew and a dozen helper drones welded it into Fortuna's frame and certified three separate air supplies.
+She floated beside Jace at the observation port while two tugs detached the canister that held her examination room, instruments, bed, and every private thing he had never seen. An A.I. from Fortuna named Penny had built a plan for four suited crew and a dozen helper drones to weld the new clinic into Fortuna's frame and certify it with three separate air supplies.
 
 "You are staying with the ship?" Jace asked.
 
@@ -433,9 +433,9 @@ She stood beside Jace at the observation port while two tugs detached the canist
 
 Her opinion of him seemed to be decreasing every time they interacted. Luckily Fortuna had a second doctor. She'd probably appreciate if he avoided her in the future.
 
-Maureen appeared at the passenger lock with a tablet under one arm and Siren at her heel.
+Maureen appeared at the passenger lock with a tablet under one arm and Siren floating near by. Jace noticed that Maureen was sneakily feeding her a treat.
 
-"Your repairs held," Maureen told Jace. "All of them. Even the corner anchors you ran hot."
+"Your repairs held," Maureen told Jace. "All of them. Patrick says 'good job'."
 
 From Maureen, this approached poetry.
 
@@ -447,15 +447,17 @@ From Maureen, this approached poetry.
 
 "Then do better work here."
 
-Jace almost told her about the... things.
+Jace almost told her about the... things. They were all gone now, but still.
 
 She was the one person on this voyage who had watched him make an impossible call under pressure and turn out to be right about it. In a few days she would be gone, and the Falcon would not be back for a year. He would still be here. So would whatever had been in that spire.
 
 "Copy that," he said instead.
 
-She turned to the next manifest without offering a hand. Jace understood the gesture anyway. The Falcon would return next year. They would meet again, complain about the same plumbing, and measure affection in tolerances.
+She turned to the next manifest without offering a hand. Jace understood the gesture anyway. The Falcon would return next year. They would meet again, complain about the plumbing, and fondly recollect their adventures.
 
 That was enough.
+
+
 
 Mei waited inside the transfer tug with one light bag between her boots. Four months of work, a new station, and everything visible in her life fit inside it.
 
@@ -469,17 +471,17 @@ Fortuna grew until the viewport could not hold it.
 
 Three rings turned around a long central shaft, these ones spinning like bicycle wheels while the thick rod in the middle remained stationary. The first two wheels carried dense construction between them, a layered city of gantries, pod stacks, markets, and utility towers. Ring Three stood farther out. Half looked finished. The rest looked like someone had stopped building a ship halfway through and dared vacuum to complain. Even now, a small army of drones could be seen welding and moving around the outside.
 
-Below everything turned the asteroid, dark gray and immense. Surface factories marked it with rectangular fields of light. He couldn't see movement on its airless surface. All the excitement was on the station.
+Below everything turned the asteroid 'Fortuna 3' which the station was named after, dark gray and immense. Surface factories marked it with rectangular fields of light, impossibly large even from here. He couldn't see movement on its airless surface. All the excitement was on the station.
 
 Jace had spent four months inside the Falcon's single ring. A full circuit there took two minutes at a jog, three with a vest. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
-"Smaller than Terminus," Mei said, wistful of the Mars city she'd been born in.
+Mei said "Smaller than Terminus," wistful of the Mars city she'd been born in.
 
 "Most places are."
 
 She watched the station for another minute, looking anxious as they rode an elevator up the spine that turned horizontal and crossed over through a strut into the ever-increasing weight of Fortuna proper. It reminded him of a half-remembered amusement park ride as a boy, complete with a lap harness.
 
-Siren sat beside Mei. At some point between the Falcon and the tug and the elevator, the dog had transferred her allegiance from Maureen to Mei with a leash and without complaint.
+Siren sat beside Mei. At some point between the Falcon and the tug and the elevator, the dog had transferred her allegiance to Mei without complaint.
 
 The receiving bay was louder than the entire voyage. It was pressurized and the dogs turned their heads at every sound, like watching a tennis match.
 
@@ -491,37 +493,35 @@ Carlos waited beside customs in a brown cardigan and a necktie. The tie was real
 
 He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
 
-"These are the famous ones."
+"Ahh, the true celebrities. Sorry, my friends, but you are just not as interesting."
 
-"I have noticed."
+"I noticed."
 
 Customs had three human officers, all old enough to treat retirement as a suggestion. An American man and Elder Sai checked Jace and Mei off on separate computers. The third officer, a broad Russian named Petroski, looked at each of them and nodded. He did not touch his terminal.
 
 Their arrival had been planned for months. The inspection was a formality, but one Fortuna did not permit an AI to perform alone.
 
-"They have three humans just for customs?" Jace asked.
+"They have three humans just for a customs station?" Jace asked.
 
-The American looked offended. "I am a retired doctor of crystallography."
+The American looked bored. "International rules. I am a retired doctor of crystallography."
 
 Sai tapped her screen. "Agricultural systems."
 
-Petroski kept his hands behind his back. "Orbital structures."
-
-"Three retired PhDs," Carlos said. "Fortuna does not waste expertise. It only assigns it surprising duties."
+Petroski kept his hands behind his back. "Orbital structures. They lost at cards. I'm the only Russian on the station."
 
 Jace looked at Petroski. "I thought Russia broke up into eight separate countries."
 
 "Eight states," Petroski said.
 
-"Aren't all of them fully independent?" Carlos asked.
+"Aren't all of them claiming to be fully independent soverign nations now?" the American asked, obviously needling his friend.
 
-"Eight states with sibling rivalries."
+"Eight rambunctious states... experiencing sibling rivalries."
 
 "Didn't China just invade one?" Jace asked.
 
-Petroski replied without missing a beat. "Seven states and one on loan to an old friend."
+Petroski replied without missing a beat. "Seven states and one on loan to an old friend of Mother Russia."
 
-Behind the customs desks, a mural showed an American flag washed in red and carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat.
+Behind the customs desks, a mural showed an American flag carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat, and red floodlights shone over everything.
 
 The American customs officer straightened. "On behalf of the American Red Party, welcome to Fortuna."
 
@@ -529,19 +529,19 @@ The next mural held a large Chinese flag and a similar portrait of a round-faced
 
 Sai finished checking Mei's name. "China welcomes you."
 
-Jace looked from one portrait to the other. "What's the difference?"
-
-"Different color hair," Carlos said.
+Jace looked from one portrait to the other. "From this angle, I'm not seeing much difference."
 
 Petroski snorted and walked away.
 
 Mei did not smile.
 
+
+
 A dockworker looked up from a manifest.
 
-"Learning Mode!"
+"It's Learning Mode!"
 
-Someone farther back called, "Dog man!"
+Someone farther back called, "The Pig guy!"
 
 Then they saw Cerberus.
 
@@ -561,25 +561,27 @@ The domes of Mars had crowds, but not like this. Maybe it was the long isolated 
 
 Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore mining harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
-Carlos rescued him from the crowd.
+Then Carlos rescued him.
 
-"Jace, your room is already booked at the boring inn. Mei, Elder Sai will take you to the Barn after customs. She said she has your room ready."
+Carlos wore a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
+
+"You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
+
+He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed then panted with the excitement. Carlos nodded as if an inspection had concluded.
+
+"These are the famous ones."
+
+"I've noticed."
+
+"Mei, Elder Sai is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn. "
 
 "There's more than one inn?"
 
-"There are two inns. Erin's is lively, inventive, and sometimes on fire. The boring inn has good food and is always clean and is never on fire. You need the boring inn."
-
-"Two inns for four hundred people?"
-
-"At least two of every kind of place. Redundancy. The large Barn and main farm are on Ring Two beside Chinatown. Ring One keeps a smaller Barn and farm on a separate air loop. If one animal gets sick, it cannot reach every herd. The same idea applies to clinics, kitchens, workshops, and places to sleep."
-
-"And bars?"
-
-"Especially bars."
+"There are two inns. Erin's is lively, inventive, and sometimes on fire. The boring inn has good food and is always clean and is never on fire. Weirdly, they both have red hair. Must be an innkeeper thing. You need the boring inn."
 
 "Origin chose it?"
 
-"I chose it. Origin would have assigned you to whichever bed produced the cheaper invoice."
+"I chose it. Origin would have assigned you to whichever charged them the slowest."
 
 Carlos walked them through locks and through side corridors into Ring Two. Just the novelty of having side passages was glorious.
 
@@ -607,7 +609,7 @@ They passed a wall mosaic built from old station plates. Tarnished bronze letter
 
 Jace slowed.
 
-Below the original shares, a newer panel showed the present council. AI representatives. Human delegates. Resident cooperatives. The ownership lines crossed until they resembled faulty wiring.
+Below the original shares, a newer panel showed the present council. A.I. representatives. Human delegates. Resident cooperatives. The ownership lines crossed until they resembled faulty wiring.
 
 "Who is in charge of the station?"
 
@@ -631,7 +633,7 @@ The Foundry came next. Its main bay could have swallowed the Falcon's forge. Pri
 
 "You start with delivery support. Kim decides when you become a drone operator."
 
-"Was Kim the woman who left the receiving bay?"
+"Was Kim the woman who just left the receiving bay?"
 
 "Kim does not like dogs."
 
@@ -716,7 +718,7 @@ It was not an answer to the question Jace had asked.
 
 Housing came last. The boring inn had clean walls, narrow rooms, and a red-haired owner who handed Jace a key without asking why his duffel looked like it was full of lead.
 
-Carlos confirmed Jace's morning check-in, then left for his next shift.
+Carlos confirmed Jace's morning check-in, then left to head back to work.
 
 The room Carlos had booked contained a raised bed, a desk, a private washstand, and enough floor space for Cerberus to turn around without hitting furniture. Jace checked the daily deduction in his HUD.
 
@@ -724,39 +726,33 @@ The room Carlos had booked contained a raised bed, a desk, a private washstand, 
 
 The innkeeper looked at the balance Jace had tried to close too quickly.
 
-"This is the cheapest room Origin books," she said.
+"This is the cheapest room Origin books," he said.
 
 "That was not my question."
 
-The innkeeper took back the key. She led Jace to a room at the end of the corridor. It had a floor mattress, a dresser, and nothing else. The washroom was shared. Cerberus could cross the entire room in two steps.
+The innkeeper took back the key. He led Jace to a room at the end of the corridor. It had a floor mattress, a dresser, and nothing else. The washroom was shared. Cerberus could cross the entire room in two steps.
 
-The rate left Jace enough for one real cafeteria lunch each day.
+The rate left Jace enough for two real cafeteria meals each day.
 
-"Dog deposit?" he asked.
 
-"Waived if he does not eat the dresser."
 
-Cerberus sniffed the dresser.
+The cafeteria occupied the next block. Jace took a bowl of the free 'contractor soup'. It was gray and warm and tasted like water sprinkled with protein powder and sadness.
 
-She did not know about the two million Tokens. Only Nick knew the number. She knew the look of someone dividing food by days until payday, and she helped without making him explain it.
-
-The cafeteria occupied the next block. Jace took a bowl of the free contractor soup. It was gray and warm and tasted like water.
-
-He had taken three bites when a short shadow crossed the table.
+He had taken three sponfulls when a shadow crossed the table.
 
 "Stand up," a familiar voice said. "I need to see this in person."
 
-Nick Lee stood four and a half feet tall. He wore cracked viz glasses, keyboard gloves, pearl earrings, and green hair that looked freshly coifed.
+Nick Lee stood almost five feet tall. He wore viz glasses, keyboard gloves, pearl earrings, and green hair that looked freshly coifed.
 
 Jace stood.
 
 Nick looked up. Then farther up.
 
-"You are absurd."
+"You are absurdly tall."
 
-"You are shorter than your mecha."
+"You are... the size of the mech you made me."
 
-"There it is. Four months, and you finally understand the joke."
+"There it is. Now you know why I'm up here. They say low gravity makes you a few inches taller."
 
 Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
 
@@ -778,14 +774,14 @@ For one second, the wall behind Nick went faint and layered. Jace saw the corrid
 
 Nick kept talking.
 
-Jace did not tell him what he had felt. But it seemed to be getting worse.
+Jace did not tell him what he had felt. But the condition seemed to be getting worse.
 
 
 
 
 Chapter 8. Settling In
 
-Most people do not know this, but moving to a new station begins with a safety briefing, three identity checks, and an artificial intelligence explaining that your room knows when you are awake. The room knew before I did.
+Most people do not know this, but Origin has a clause in most jobs where the title they hire you for can change if over-ridden by a senior. If an A.I agrees, they don't need any other oversight. Your salary can then be adjusted accordingly.
 
 Jace Grant, Fortuna notes
 
@@ -793,9 +789,9 @@ The first voice Jace heard on his first morning at Fortuna belonged to Alex.
 
 Good morning, Contractor Grant. Today is cycle one of your Fortuna deployment. Your current contract compliance score is ninety-four point two percent.
 
-Jace opened one eye.
+Jace opened one eye. How had he lost 6 points in 6 hours of sleep?
 
-The inn room had no window. The ceiling glowed with artificial dawn. Cerberus slept across his feet with the stuffed pig under his chin, hair matted with dried slobber.
+The room had no window. Cerberus slept across his legs with the stuffed pig under his chin, hair matted with dried slobber.
 
 Items requiring attention. One, Station Safety Orientation begins in fifty-eight minutes. Two, your quarters environmental assessment is due before cycle three. Three, early contract renewal discussions are available after four hundred compliant cycles.
 
@@ -811,9 +807,11 @@ Jace stared at the ceiling and pulled off his sleep breathing mask.
 
 "I miss Maureen."
 
-Cerberus opened one eye, judged this unworthy of response, and went back to sleep.
+Cerberus opened one eye, judged this unworthy of response, and slowly got up.
 
-Station Safety Orientation lasted ninety minutes. It covered the Rule of Three, the location of emergency breathers, the difference between a local alarm and a ring alarm, and nine ways a newcomer could step into robot traffic.
+
+
+Outside, the ceiling glowed with artificial dawn. Station Safety Orientation lasted ninety minutes. It covered the Rule of Three, the location of emergency breathers, the difference between a local alarm and a ring alarm, and nine ways a newcomer could step into robot traffic.
 
 The instructor was an educational branch of Penny projected on the wall as a cheerful woman in orange coveralls.
 
@@ -831,35 +829,37 @@ Exactly. Fortuna survives because nobody believes the first green light.
 
 Jace liked that. He disliked that an AI had said it.
 
-The forge had his name on the six-to-ten schedule by the second morning. He assumed Carlos had helped until he saw the reason. Nobody wanted the slot.
 
-Four printers occupied one side of the bay. A wire winder, circuit printer, pick-and-place cage, and tool bot filled the other. The machines were better than the Falcon's. The queue was worse.
 
-Jace loaded the new Sparky chassis and his ten micro-thrusters onto a clean bench. The body formed a rough sphere of swappable hexagonal and pentagonal plates. Empty mounts waited for sensors, batteries, and maneuvering units.
+The forge had his name on the six-to-ten schedule by the next morning. He assumed Carlos had helped until he realized no one wanted the slot because that's when all the maintenance drones would trudge throguh, bumbing machines and grabbing stock.
+
+Four masive printers occupied one side of the bay, able to print anything from giant steel plates to nuts and bolts. A wire winder, circuit printer, pick-and-place cage, and tool bot filled the other. The machines were better than the Falcon's and more automated. The queue was worse, over 5 pages in length, slowly moving through the system.
+
+Jace loaded the new Sparky chassis and his ten micro-thrusters onto a clean bench that he'd reserved online. The body formed a rough sphere of swappable hexagonal and pentagonal plates. Like the spine of a soccer ball. Empty mounts waited for sensors, batteries, and maneuvering units.
 
 He installed the first thruster.
 
-It fired at three percent power without tripping the bus.
+It fired at three percent power without tripping the bus. Powerful enough that it almost lifted in the air.
 
 The second worked too.
 
-By the fourth, the controller registered a thermal rise and reduced output before anything smoked.
+By the fourth, he was smiling. 9 out of 10 worked flawlessly, and he only needed 8 for full flight.
 
 "Progress," Jace said.
 
-Cerberus lay under the bench and chewed the tail off his stuffed pig.
+Cerberus lay under the bench and chewed the tail of his stuffed pig.
 
-Jace wired the four installed thrusters to a stripped-down local controller. He set Sparky on the deck and armed hover mode.
+Jace wired eight thrusters to a stripped-down local controller. He set Sparky on the deck and armed hover mode.
 
-The sphere rose forty centimeters.
+The sphere rose forty centimeters, flipping and turning.
 
-It held position for almost two seconds, drifted left, bounced off a cabinet, corrected too hard, and struck the opposite wall. Cerberus chased it through three more impacts before Jace killed the power.
+It held position for almost two seconds, drifted left, bounced off a cabinet, corrected too hard, and struck the opposite wall. Cerberus chased it, huffing, through three more impacts before Jace killed the power.
 
 Sparky dropped into his hands.
 
-"You can hover," Jace told it. "You cannot decide where."
+"You can fly," Jace told it. "Aiming comes next."
 
-Cerberus barked, eager for another round.
+Cerberus barked, eager for another round of fetch.
 
 The remaining thrusters, trajectory smoothing, clean power routing, and actual navigation would take more time than his contract schedule allowed. Jace locked the chassis in his assigned cage before it learned to attack the ceiling.
 
@@ -879,7 +879,7 @@ The main bay looked like a command center built by accountants. Four hundred ele
 
 Kim sat at the central console. She had the same compact build, close-cut hair, and fixed scowl Jace remembered from the receiving bay.
 
-"Grant," she said. "Back room."
+"Grant," she said. "Back room." The back room said deliveries and was smaller than the closet he slept in.
 
 Jace looked past her at the fleet board. "My assignment says drone operations."
 
@@ -887,7 +887,7 @@ Jace looked past her at the fleet board. "My assignment says drone operations."
 
 "I ran the Falcon's exterior survey and maintenance units."
 
-"You ran two drones you already knew on a ship with no competing traffic."
+"You ran two drones on a ship with no competing traffic."
 
 "There were other exterior repair drones."
 
@@ -895,15 +895,17 @@ Jace looked past her at the fleet board. "My assignment says drone operations."
 
 Carlos sat two consoles away. He did not hide his wince.
 
-Kim pointed at the back room. "Learn the manifest queue. Keep Things One and Two inside their assigned sectors. Come back in a month."
+Kim pointed at the back room. "Learn the manifest queue. Keep your two to deliveries only. Come back in a month."
 
 "Then I get a console?"
 
 "Then you can ask again with a month of relevant experience."
 
-The back room was six meters long, windowless, and full of retired parts. It smelled like solder and a forgotten lunch.
+The back room was six meters long, windowless, and full of retired parts on a work bench. It smelled like solder. Some of the pieces looked really useful.
 
-Thing One waited in an exterior cradle. Thing Two sat under a delivery rack. The Origin network had kept their names after transit, which made Jace suspect he would never escape them.
+
+
+Thing One waited in an exterior cradle. Thing Two sat under a delivery rack. The Origin network had kept their names after transit, which made Jace suspect he would never escape the joke he'd made when accepting stewardship of them.
 
 The work was delivery.
 
@@ -919,7 +921,7 @@ Jace stopped waiting for Thing Two on light deliveries. He sent heavy loads and 
 
 Kim called it an unauthorized process change until the delivery times improved. Then she called it temporary.
 
-By the third day, Jace knew forty-seven door delays, six lift quirks, and the exact point where Ring Two's network handed a moving drone to the older Ring One system. The handoff failed one time in twenty. Carlos called that reliable.
+By the third day, Jace knew forty-seven door delays, six lift quirks, and the exact point where Ring Two's network handed a moving drone to the older Ring One system. The handoff failed one time in twenty. Carlos called that reliable. Jace just set them to automatically go into offline mode a second before and try to connect a few seconds after.
 
 Cerberus came to work and slept against Jace's ankle.
 
@@ -941,17 +943,17 @@ She looked at the dog. Then at the intake grille.
 
 Kim left.
 
-Carlos leaned around the doorframe after she was gone. "She likes you fine."
+Carlos leaned around the doorframe after she was gone. "She likes you."
 
 
 
 The Barn became Jace's evening stop.
 
-The Falcon's pigs had joined Fortuna's older herd and immediately divided the enclosure into political territories. Screwdriver controlled the water station. A local gilt twice her mass controlled the warm sleeping pad. Neither accepted the other's government.
+The Falcon's pigs had joined Fortuna's older herd and immediately divided the enclosure into political territories. Screwdriver controlled the water station. A local gilt twice her mass controlled the warm sleeping pad. Neither accepted the other's governance. War was brewing.
 
 The Pig Channel audience had tripled.
 
-Mei worked inside the pen, silent and unhurried. She redirected two pigs with a feed scoop and one look.
+Mei worked inside the pen, silent and unhurried. She redirected two pigs with a feed scoop and a glare.
 
 Siren watched from the gate.
 
@@ -971,6 +973,8 @@ Siren answered once.
 
 Mei raised one hand without looking up.
 
+
+
 Jace ate dinner near the Barn because the food there was better and the company expected less conversation.
 
 An old man sat at the end of the long table each morning and evening. Silver stubble. Heavy forearms. Worn hands. On Jace's fourth breakfast, the man broke off the corner of a biscuit and lowered it beside his chair.
@@ -981,7 +985,7 @@ Cerberus appeared under his hand.
 
 "Jace."
 
-"I know."
+"Yup."
 
 Cerberus took the biscuit with great care.
 
@@ -993,7 +997,7 @@ Nick appeared most evenings. Whenever they ate together, Nick bought enough food
 
 "I like soup."
 
-"Your HUD could coordinate every sensor, app, and drone stream you own. Locally. No Origin reporting."
+"Your HUD could coordinate every sensor, app, and drone stream on this station ring. Locally. No Origin reporting."
 
 "A system-level AI would see everything."
 
@@ -1003,21 +1007,21 @@ Nick appeared most evenings. Whenever they ate together, Nick bought enough food
 
 Nick pushed his glasses up. One lens had cracked since yesterday. He had a habit of sitting on his glasses. Jace was printing him new lenses which had required mastering the grinding machine in the fabricator room.
 
-"Alex sees everything and scores you. Penny sees everything and opens files. Aura sees what you tell it to see and keeps the results on your hardware. Those are different architectures."
+"Alex sees everything and scores you. Penny sees everything and writes reports. Aura sees what you tell it to see and keeps the results on your hardware. Those are different architectures."
 
-"They feel similar from inside my skull."
+"They would feel similar from inside my skull."
 
 "Think about it."
 
 "I have been thinking about it for four months."
 
-"Think better."
+"Think better. You seem like you need a hobby."
 
 Jace did not install Aura.
 
-He did start running again.
+He did start running again, though.
 
-At 1800, residents gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn where Siren came to wrestle with him until everyone returned. Over a dozen people stopped to coo and pet and just watch the dogs, who appreciated the audience.
+After finishing a delivery to a European chemist, he saw that residents had gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn where Siren came to wrestle with him until everyone returned. Over a dozen people stopped to coo and pet and just watch the dogs, who appreciated the audience.
 
 The route showed Jace how much station he did not know. Market decks above them. Transit towers between rings. Windows into crystal farms, where pale rods grew in perfect silence. Memorial posters for Helena appeared at intersections, each with the same word beneath her picture.
 
@@ -1037,13 +1041,13 @@ The girl looked at the dog.
 
 Not frightened. Curious.
 
-One of his fellow runners came up beside Jace. "Mira. She watches. She is all right."
+One of his fellow runners came up beside Jace. "Mira. She's all right."
 
 "Cerberus likes everyone."
 
 "Apparently not everyone."
 
-Mira turned into a cross-corridor.
+Mira stepped into a cross-corridor.
 
 Cerberus waited until she disappeared before moving again.
 
@@ -1074,9 +1078,9 @@ Jace Grant, Fortuna notes
 
 The evening run began at 1800 and did not officially exist.
 
-No signup. No route permit. No organizer. At 1758, people drifted into Ring Two wearing soft shoes and old shirts. At 1800, someone started moving. Everyone else followed.
+No signup. No route permit. No organizer. At 1750, people drifted into Ring Two wearing soft shoes and old shirts. At 1800, someone started moving. Everyone else followed.
 
-The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers. Jace joined near the end of his first week and was the fastest runner by a clear margin. Earth muscles helped a lot, even with the weighted vest.
+The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers, or an old-style mile. Jace was the fastest runner by a clear margin. Earth muscles helped a lot, even with the weighted vest.
 
 People watched from shopfronts. Children counted laps. A baker handed out water at the Commons. Two women from a fabrication crew matched Jace's pace for half a circuit and asked whether he needed someone to show him the Sky Gardens after hours.
 
@@ -1150,7 +1154,7 @@ Cerberus collected pretzel pieces from three tables.
 
 Suzi noticed on the second piece and said nothing until the fifth.
 
-"Your dog is running an unlicensed food network."
+"Your dog is running a food heist."
 
 "I do not control him. I manage exceptions."
 
@@ -1176,11 +1180,11 @@ remarkable than people carrying paper.
 
 For a few days, Fortuna felt almost comfortable.
 
-Suzi waited three days before she used that trust.
+Suzi waited three days before she capitalized on that trust.
 
-This time she joined him at the cafeteria's gray-soup table. No drink. No smile.
+This time she joined him at the cafeteria's soup table. No drink. No smile.
 
-"You saw Helena's jacket."
+"You heard about Helena."
 
 "Carlos said security checked everything."
 
@@ -1188,11 +1192,17 @@ This time she joined him at the cafeteria's gray-soup table. No drink. No smile.
 
 Jace kept his face still. She had been watching. Base security. Of course.
 
-He could tell her about the spire. The feather sat in a private evidence sleeve at the bottom of his sock drawer at the inn. He could show her footage of himself fighting empty air.
+"Should we be talking about this here?"
+
+She pointed at a sign that read "Privacy zone." in three languages.
+
+"Belters don't break rules."
+
+He could tell her about the spire on the Falcon. The feather sat in a bag at the bottom of his sock drawer at the inn. He could show her footage of himself fighting empty air.
 
 He imagined the medical hold, the Origin audit, and another bright message from Alex explaining that institutional concern carried no malice. Alex and the other station AIs would be watching them, even here.
 
-"Ships hide voids," he said. "Old retrofits. Dead conduit. Spaces that exist on the blueprint and not the scan, or the other way around."
+"Walls have voids," he said. "Old retrofits. Dead conduit. Spaces that exist on the blueprint and not the scan, or the other way around."
 
 "Fortuna has thirty years of those. We opened every one near her pod."
 
@@ -1228,11 +1238,11 @@ Suzi's voice stayed level. Her grief did not. Anger flared in her eyes.
 
 "No. Wait, you think the Chinese put something on people's ships? There were no explosions, right?"
 
-"They make most of the robots. Robots can cause damage without explosions. They have military camouflage systems, so might not even be detectable. Who knows?"
+"They make most of the robots in the belt. Robots can cause damage without explosions. They have military camouflage systems, so might not even be detectable. Who knows?"
 
 Jace paused. That hit too close to home.
 
-Suzi continued. "Helena knew everyone. Half the station wants Jin Lóng charged because they were always seen together and because his section keeps its records behind Seek and he was seen on camera near her room that night. The other half wants her declared dead so the inheritance process can start. I have no body, no breach, and no evidence that Jin did anything."
+Suzi continued. "Helena knew everyone. Half the station wants Jin Lóng charged because they were always seen together and because Chinatown keeps its records behind Seek and he was seen on camera near her room that night. The other half wants her declared dead so the inheritance process can start. I have no body, no breach, and no evidence that Jin did anything."
 
 "Do you think he did?"
 
@@ -1308,9 +1318,9 @@ Then he looked away.
 
 
 
-That night, Jace dreamed of Helena.
+That night, Jace dreamed of Helena. He had a cold and was up coughing and sneezing, which made wearing the sleep mask really awkward. He left it around his neck to follow protocols, but a stuffed nose wouldn't let the pressurized air in.
 
-She floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin.
+She floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt light he was suffocating.
 
 When Jace reached for her, she opened her eyes.
 
@@ -1318,6 +1328,6 @@ Something moved behind them.
 
 Jace woke before he touched her.
 
-Cerberus stood at the foot of the bunk, facing Jace. Staring at him with what looked like suspicion.
+Cerberus stood at the foot of the bunk, facing Jace, hackles raised. Staring at him with what looked like suspicion.
 
-The dog gave one low growl.
+The dog gave one low growl before going back to sleep.

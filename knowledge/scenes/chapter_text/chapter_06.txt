@@ -1,6 +1,6 @@
 Chapter 6. The Spire
 
-Most people do not know this, but a ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.
+Most people do not know this, but a spin ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.
 
 Jace Grant, Falcon transit logs
 
@@ -78,7 +78,7 @@ The HUD confirmed.
 
 He loosened the plate bolt by bolt. Each turn sent a small vibration through the wrench and into his hand. The last bolt floated free. Jace caught it against his palm and pulled the plate away.
 
-Two... things rested in the tight space.
+Two... round things rested in the tight space.
 
 They were long, ridged, and leathery. Each was about the size of a gourd. The shape dragged up an old memory from a childhood museum visit to the U.S. capital. Dinosaur eggs under glass. Fossils from an age when the largest things on Earth could vanish and leave only stone behind.
 
@@ -86,45 +86,45 @@ He flagged the HUD to infrared. The overlay returned nothing — no heat bloom, 
 
 It was cold. Cold enough that he almost pulled his hand back before he made himself hold still.
 
-One shell flexed.
+One shell flexed. Or ball? Or pouch?
 
-Both eggs split.
+Both split open in a flurry of sharp parts. What looked like small black robot legs came out.
 
-The first hatchling hit Jace before the shell fragments finished drifting. It moved low and fast, with too many black joints folded into too little body. Hooked claws raked his forearm. His sleeve opened. Blood formed bright spheres and slid away from the cut.
+The first thing hit Jace before the shell fragments finished drifting. It moved low and fast, with too many black joints folded into too little body. Hooked claws raked his forearm. His sleeve opened. Blood formed bright spheres and slid away from the cut in the zero gravity.
 
-The second creature sprang at his face.
+The second thing sprang at his face.
 
 Jace twisted. His boot kicked off the ladder. With no weight to hold him, the movement spun his whole body into the shaft wall. His shoulder struck metal. The wrench floated from his grip.
 
 He caught it by the adjustment wheel.
 
-The first creature pushed away from the panel and launched again. Two red points opened above its forelimbs.
+The first creature pushed away from the panel and launched again. Two red points opened above its forelimbs like glowing LEDs.
 
 Jace swung.
 
-The wrench connected with a sound he felt through his wrist. The creature folded around the blow, sprang straight again, looking like a fractal wrapped in an MC Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
+The wrench connected with a sound he felt through his wrist. The creature folded around the blow without bleeding, sprang straight again, looking like a fractal wrapped in an MC Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
 
-He swung a second time. The wrench struck the head.
+He swung a second time. The wrench struck the top part, where an animal would keep its head.
 
-The hatchling ended.
+The hatchling? drone? creature? deathbot? crumpled and ended.
 
-Silver-white light filled the shaft. It passed through Jace, cold and quick. His vision went blank for a fraction of a second. When it returned, the creature was gone.
+Silver-white light filled the shaft like a battery had shorted but the energy had pooled into a ball. It passed through Jace's arm, cold and quick. His vision went blank for a fraction of a second. When it returned, the thing was gone.
 
-The second hatchling crouched inside the open cavity.
+The second thing crouched inside the open cavity.
 
 Jace reached for a handhold.
 
-The creature jumped through the outer wall panel.
+It jumped directly through the outer wall panel, passing through 6 inches of metal as though it were water.
 
-For one impossible instant, Jace saw both sides of the hull at once. It wasn't like the x-ray vision from the comics his father used to read him — or maybe it was, except inverted. He wasn't looking through the wall at what lay behind it. He was standing on both sides of it at the same time, looking in and looking out, and the wall itself was the thing that didn't quite belong in the picture. On the far side lay open, empty space. The hatchling tumbled away from the Falcon, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it, behind it, somehow it had passed through it.
+For one impossible instant, Jace saw both sides of the hull at once. It wasn't like x-ray vision from the comics his father used to read, or maybe it was, except inverted. He wasn't looking through the wall at what lay behind it. He was standing on both sides at the same time, looking in and looking out, and the wall itself was the thing that didn't quite belong in the picture. On the far side lay open, empty space. The dark shape tumbled away from the Falcon, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it.
 
 No breach alarm sounded.
 
 Jace hung in the shaft with one arm bleeding, the wrench raised, and Cerberus growling far below.
 
-He checked the cavity. Eggshells drifted through the shredded insulation. They looked solid until he tried to touch them. His fingers passed through. The shells blurred, dimmed, and disappeared.
+He checked the cavity. The 'eggshells' floated in the tight space. They looked solid until he tried to touch them. His fingers passed through. The pieces quickly blurred, dimmed, and disappeared.
 
-His HUD recorded an empty hole.
+His HUD recorded an empty hole. No shells. No creature.
 
 He watched the footage before he climbed down.
 
@@ -134,27 +134,27 @@ No eggs. No creatures. No light.
 
 Only Jace, fighting the air.
 
-Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then sniffed him and pressed his shoulder against Jace's shin, licking.
+Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then sniffed his arm and pressed his shoulder against Jace's shin, licking his leg.
 
-"Good choice staying here," Jace said. "One of us made one."
+"I'm happy you stayed here," Jace said. "One of us made a good choice."
 
 He returned to the spire with Thing One after sunrise. The drone mapped every panel, seam, and cable run. It found the removed plate and Jace's blood. It found nothing else.
 
-Jace searched the floor grate beneath the shaft before leaving.
+Jace's foot crunched as he searched the floor grate beneath the shaft before leaving.
 
-A single black, brown, and white feather had caught behind the mesh.
+A single black, brown, and white feather had caught behind an air circulation filter mesh. A few insect shell pieces were cracked as well on the ground near it. Starships didn't, as a rule, have problems with insects unless they brought them along as foodstock. These looked like silkworm shell pieces.
 
-He held it under the work light. Small. Curved. Duck.
+He held the feather up under the work light. Small. Curved. Duck.
 
 He put it in a sample sleeve and did not log it.
 
 Alex requested the incident footage before lunch.
 
-Contractor Grant, I want to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.
-
-He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a window of words and numbers next to it. Currently "Self Destructive and Sleep Deprived" both had high numbers. Uh oh.
+Contractor Grant, Origin wants to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.
 
 "There were two animals inside the panel."
+
+He had loaded the app that Artemis had sent him called "ThoughtWalker" and finally got it to maximize on his HUD. It showed a window of words and numbers next to it. Currently "Sabotage" and "Sleep Deprived" both had high numbers. Uh oh.
 
 No animals appear in the recording. The cavity contains no biological residue. Your injury is consistent with the panel edge.
 
@@ -166,7 +166,7 @@ Independent agreement between sensor systems increases confidence in the finding
 
 The fine appeared.
 
-It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary anyway?
+It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary for adults? He was sure he read that somewhere.
 
 This is your second documented incident involving unauthorized tool use during the current contract period. Origin recommends a medical assessment and temporary suspension from hazardous equipment.
 
@@ -208,6 +208,6 @@ Jace added the medical scan to his private file. He encrypted the feather's samp
 
 The shaft stayed empty.
 
-For the next two days, Jace went over every inch of the ship, inside and out, or as much as Maureen and Alex would let him get away with. He found nothing.
+For the next two days, Jace carried the wrench with him everywhere. He went over every inch of the ship, inside and out, or as much as Maureen and Alex would let him get away with. He found nothing.
 
-Cerberus still would not come near the access shaft.
+Cerberus still would not come near the access shaft. No more ducks went missing and the Silkworms bred normally after.

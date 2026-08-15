@@ -66,6 +66,8 @@ She had never once done this before. She did not appear inclined to explain hers
 
 The ship now carried less water shielding, less argon reserve, and a temporary mass arrangement nobody wanted to trust. Jace had saved it. Jace had also created half the repair list in front of him. Both facts remained true no matter which one he considered first.
 
+##
+
 <!-- beat:t03_morning_after.beat2_alex_debrief -->
 The next day, {Alex} scheduled a post-incident review after Origin headquarters had reviewed the incident. They were 13 days to Fortuna. Lucky 13.
 
@@ -151,6 +153,8 @@ Jace thought of two iced berths, a rising red tension trace, and Maureen prepari
 
 The channel closed.
 
+##
+
 <!-- beat:t03_morning_after.beat3_choice_and_aftermath -->
 Maureen appeared in the hatch carrying a replacement pressure regulator.
 
@@ -203,6 +207,8 @@ After that, alone in the workshop, he caught himself staring at the edge of a sh
 He had broken the rules because the approved choices ended with losing part of the ship. The rules existed because improvising around pressure vessels killed people. {Alex} was right about the risk. Maureen was right about the cost.
 
 He would still open the valve again.
+
+##
 
 <!-- beat:t03_morning_after.beat4_reputation_seed -->
 A day after the {Alex} debrief, an old social network app messaged him with something it had never shown before: an audience count. Somebody, not him, had cut together forty seconds of the disaster: suit-cam pressure readouts intercut with the actual tank-nineteen vent, the argon flare lighting the ring up from the inside in the dark. It sat at just over one hundred thousand views, many of them logged in from Fortuna Station itself.

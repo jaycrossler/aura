@@ -187,6 +187,8 @@ Jace let out a breath he did not remember holding.
 
 *You are welcome.*
 
+##
+
 <!-- beat:t03_plumbing_crisis.beat4_damage_and_glimpse -->
 They still had a ship. They no longer had plumbing anyone trusted.
 
@@ -198,11 +200,11 @@ The ruptured water pipe was not punctured. Three massive ragged grooves ran alon
 
 His HUD flared hot behind his left eye. Blue targeting brackets appeared on bare conduit, vanished, and returned around nothing. He shut the overlay off.
 
-Something moved beyond the next frame.
+Something moved beyond the next frame. Something robotic.
 
-It was taller than the cavity allowed. Black joints folded the wrong way. Two red points opened above hooked forelimbs, and a wet, ridged shape pulled itself soundlessly out of the ice toward him, faster than anything that size should have been able to move in that little space. Even in his space suit, the hair on the back of his neck stood straight up.
+It was taller than the cavity allowed. Black joints folded the wrong way. Two red lights opened above hooked appendages, and a sharp, ridged shape pulled itself soundlessly out of the ice toward him, faster than anything that size should have been able to move in that little space. Even in his space suit, the hair on the back of his neck stood straight up.
 
-Jace didn't think. The torch was already lit, already in his hand, still trailing a curl of vaporized ice from the ragged hatch edge he'd been cutting a second earlier. He swept it through the shape the way you'd swing a bar at something in the dark. Not aimed, just there, just fast.
+Jace didn't think. The torch was already lit, already in his hand, still trailing a curl of vaporized ice from the ragged hatch edge he'd been cutting a second earlier. He swept the burning plasma through the shape the way you'd swing a bar at something in the dark. Not aimed, just swiped, just fast.
 
 The lance of flame passed through it, slicing it in half like the light swords popular in ancient movies.
 
@@ -214,13 +216,15 @@ There was no impact. No weight. No temperature. For one full second he held some
 
 He knelt there a long moment, torch still lit, breathing loud in his own ears.
 
-Later, after the cavity had been sealed and logged, he pulled the suit's helmet-cam footage and ran it back three times. Nothing. His HUD also recorded everything: targeting brackets, thermal overlays, a full log of the torch cut. It showed his arm sweeping through empty ice. It showed his hand closing on nothing. There was no shape in the footage. No red eyes, no glow, no sphere. According to every sensor he owned, he had knelt alone in a damaged service cavity and closed his fist around vacuum for no reason at all.
+Later, after the cavity had been sealed and logged, he pulled the suit's helmet-cam footage and ran it back three times. Nothing. No robot or creature or whatever it was. His HUD also recorded everything: targeting brackets, thermal overlays, a full log of the torch cut. It showed his arm sweeping through empty ice. It showed his hand closing on nothing. There was no shape in the footage. No red LEDs, no glow, no sphere. According to every sensor he owned, he had knelt alone in a damaged service cavity and closed his fist around vacuum for no reason at all.
 
 He searched until Maureen ordered him out. He found no tracks, no heat, and no space where the shape could have gone. His HUD had been hurting for weeks. He had slept less than three hours. He had just caused an explosion inside a spinning spacecraft.
 
 Stress hallucinations were real. That explanation frightened him less than the alternative and more than he cared to admit... except that stress hallucinations did not, as a rule, leave deep gouges through reinforced steel right next to the exact spot where his sensors insisted nothing at all had been standing.
 
 In the official report, he selected *impact or fatigue damage, investigation pending*. He did not mention claws. He did not mention the light. He was no longer entirely sure either had happened, and he found that he preferred it that way.
+
+##
 
 <!-- beat:t03_plumbing_crisis.beat5_anger_and_cost -->
 Maureen held the debrief in the damaged corridor so nobody could pretend the outcome had been clean.

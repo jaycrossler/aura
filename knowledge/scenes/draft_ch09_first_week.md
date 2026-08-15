@@ -277,9 +277,9 @@ Then he looked away.
 
 ##
 
-That night, Jace dreamed of Helena.
+That night, Jace dreamed of Helena. He had a cold and was up coughing and sneezing, which made wearing the sleep mask really awkward. He left it around his neck to follow protocols, but a stuffed nose wouldn't let the pressurized air in.
 
-She floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin.
+She floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt light he was suffocating.
 
 When Jace reached for her, she opened her eyes.
 
@@ -287,9 +287,9 @@ Something moved behind them.
 
 Jace woke before he touched her.
 
-Cerberus stood at the foot of the bunk, facing Jace. Staring at him with what looked like suspicion.
+Cerberus stood at the foot of the bunk, facing Jace, hackles raised. Staring at him with what looked like suspicion.
 
-The dog gave one low growl.
+The dog gave one low growl before going back to sleep.
 
 ## Contract coverage
 

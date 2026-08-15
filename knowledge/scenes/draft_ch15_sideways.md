@@ -41,7 +41,7 @@ Sophia finished her coffee, then produced a small sealed bottle from her bag.
 
 Jace read the label.
 
-"Red Wine. Real wine from Germany."
+"Trittenheimer Apotheke. Real wine from Germany."
 
 "One glass helps me relax. Not enough to impair me. Enough to make the transition easier."
 
@@ -79,9 +79,9 @@ Sophia held the expression for three seconds. Then she laughed.
 
 ##
 
-The *Victoria* occupied a docking cradle on the inner edge of Ring One.
+The *Victoria* occupied a docking cradle on the inner edge of Ring Two. From the cooridor, you couldn't tell there was a ship behind the door. It and the 5 nearest it looked just like any other inner door, though had been decorated with a fake brick wall with a flower pot outside and a little porch, like doors to townhouses back on Earth. Jake Guessed the ship could undock, and be tugged down the spine and launched from the shuttle pad. It was amazing how Fortuna blended all these ways to live in space and made them... convenient.
 
-It was an ESA science vessel built for three scientists, a small laboratory, and no wasted volume. Its hull carried old micrometeor repairs in three different alloys. A blue and gold ESA mission emblem had faded beside the lock.
+Inside, it was a 30-meter long ESA science vessel built for three scientists, a small laboratory, and no wasted volume. Its hull carried old micrometeor repairs in three different alloys. A blue and gold ESA mission emblem had faded beside the lock.
 
 The air inside smelled like warm electronics, yeast, and fruit. It was the closest thing to home Jace had smelled since Virginia, and he almost teared up. Cerberus kept smelling everything, nose pumping like a bellows. His tail wagged at light speed. Colors and wood tones were everywhere; it looked more like an old pub than a spaceship.
 
@@ -235,11 +235,11 @@ He smiled at her enthusiasm. That beeping might get old quick. He resolved to pr
 
 "{Misty}'s processor stack," Sophia said.
 
-They walked through walls to reach it. Cerberus didn't like that, and had to be carried.
+They walked through walls to look at things. Cerberus didn't like that, and had to be carried, whining.
 
-The reactor shone white-gold through a twenty meters of folded ship. Behind it, a compact tower burned like a lantern set in ice. They approached and saw thousands of tiny brown-gold bubbles formed around it like sea foam, folding into geometric chains, and vanishing before he could follow one chain fully. It was ethereally beautiful. He felt an urge to scoop up the bubbles and see how they tasted.
+The reactor shone white-gold through twenty meters of folded ship. Behind it, a compact tower burned like a lantern set in ice. They approached and saw thousands of tiny brown-gold bubbles formed around it like sea foam, folding into geometric chains, and vanishing before he could follow one chain fully. It was ethereally beautiful. He felt an urge to scoop up the bubbles and see how they tasted.
 
-"Complexity may matter. Energy may matter. Both may matter. I need more measurements. We need a way to measure distance."
+"Complexity may matter. Energy may matter. Both may matter. I need more measurements. We need a way to measure distance. And these bubbles."
 
 "You have six notebooks of measurements."
 
@@ -267,7 +267,7 @@ Jace stepped back.
 
 "Watch any conversation. Maybe read any screen."
 
-"Without hearing it. And I can't make out details on screens."
+"Without hearing it. And you can't make out details on screens." She pointed to the one on the wall which just looked like a gray rectangle.
 
 "That does not make it ethical."
 
@@ -295,7 +295,7 @@ The cabin snapped into three dimensions. Warmth touched Jace's face. His stomach
 
 Sophia wrote until her hand cramped.
 
-Jace slept nine hours that night, happy for once.
+Jace slept nine hours that night, the happiest deepest sleep he had in months.
 
 ##
 
