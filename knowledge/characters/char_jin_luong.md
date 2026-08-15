@@ -196,6 +196,7 @@ last_updated: 2026-06-30
 sheets:
   - sheet_jin_arc01_end
 cross_references:
+  - "[[voice_char_jin_luong]]"
   - "[[sheet_jin_arc01_end]]"
 ---
 

@@ -63,6 +63,7 @@ related_characters: [char_helena]
 last_updated: 2026-08-13
 description: "Character profile for Sai (Saipan), an elderly Barn worker on Fortuna Station and one of Helena's morning-rounds regulars, established in the Prologue."
 cross_references:
+  - "[[voice_char_sai]]"
   - "[[char_helena]]"
   - "[[location_fortuna_station]]"
   - "[[event_helena_prologue]]"

@@ -10,6 +10,7 @@ description: >
   announcements, environmental scheduling, and access control. Explicitly not an
   AI — no curly braces in prose. Exists because Maureen refuses to run a ship AI.
 cross_references:
+  - "[[voice_char_falcon_ai]]"
   - "[[ship_falcon]]"
   - "[[char_maureen]]"
   - "[[tech_fortuna_ai_personalities]]"

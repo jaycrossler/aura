@@ -11,6 +11,7 @@ first_appearance: Chapter 7 - Arrival Day
 last_updated: 2026-08-13
 description: "The only Russian man on Fortuna, a retired orbital-structures PhD who rotates through customs."
 cross_references:
+  - "[[voice_char_petroski]]"
   - "[[draft_ch07_arrival_day]]"
   - "[[char_carlos]]"
   - "[[char_sai]]"

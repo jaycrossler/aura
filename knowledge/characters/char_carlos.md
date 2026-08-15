@@ -9,6 +9,7 @@ first_appearance: Scene 1-05a — arrival day at Fortuna
 last_updated: 2026-08-14
 description: "Drone operations coworker at Fortuna Station. Older, always wears a cardigan sweater and tie. Jace's guide on arrival day."
 cross_references:
+  - "[[voice_char_carlos]]"
   - "[[char_jace_apollo]]"
   - "[[location_fortuna_station]]"
   - "[[arc_01_falcon_and_fortuna]]"

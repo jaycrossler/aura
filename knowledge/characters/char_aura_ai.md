@@ -7,6 +7,7 @@ canonical: true
 last_updated: 2026-08-14
 description: "Distributed personal AI architecture whose local instances grow into distinct private collaborators."
 cross_references:
+  - "[[voice_char_aura_ai]]"
   - "[[tech_aura_ai]]"
   - "[[char_nick_lee]]"
   - "[[char_jace_apollo]]"

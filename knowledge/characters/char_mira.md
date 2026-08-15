@@ -18,6 +18,7 @@ description: >
   significant character in later arcs. Surname TBD.
 canonical: true
 cross_references:
+  - "[[voice_char_mira]]"
   - "[[char_jace_apollo]]"
   - "[[char_cerberus]]"
   - "[[char_kael]]"

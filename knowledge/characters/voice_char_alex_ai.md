@@ -1,17 +1,16 @@
 ---
 id: voice_char_alex_ai
-character_ref: tech_alex_ai
+character_ref: char_alex_ai
 type: character_voice_profile
 status: detailed (drafted from Ch04-06 dialogue)
-last_updated: 2026-08-12
-description: "Vocal and speech pattern profile for {Alex}, Origin Industries' contract-AI riding in Jace's HUD, formatted for Orpheus TTS audiobook generation. No prior character or voice file was found for {Alex} specifically in the retrieved KB — this profile is built entirely from dialogue in Ch04-06 and should be checked against any existing tech_alex/{Alex}-specific KB file if one exists outside what was retrieved this session."
+last_updated: 2026-08-15
+description: "Vocal and speech pattern profile for {Alex}, Origin Industries' contract-AI riding in Jace's HUD, formatted for Orpheus TTS audiobook generation."
 storybot_extrapolation_allowed: true
 cross_references:
+  - "[[char_alex_ai]]"
   - "[[char_jace_apollo]]"
   - "[[tech_fortuna_ai_personalities]]"
   - "[[storybot_orpheus_voice_tag_reference]]"
-open_flags:
-  - "No dedicated char_/tech_ file for {Alex} turned up in this session's searches — this voice profile may need to be reconciled against one if it exists elsewhere in the KB (e.g. under a different filename than searched). Treat the id/cross_references above as provisional."
 ---
 
 # Character Voice Profile — {Alex}

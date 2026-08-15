@@ -1,8 +1,9 @@
 ---
-
-description: "Character profile detailing Nick Lee, the AI engineer and architect of Fortuna Station's open-source {Aura} system."
 id: char_nick_lee
 name: Nick Lee
+type: character
+status: alive
+description: "Character profile detailing Nick Lee, the AI engineer and architect of Fortuna Station's open-source {Aura} system."
 aliases: ["the Aura guy", "the kit-builder", "the librarian (ironic)"]
 species: human
 gender: male
@@ -12,137 +13,33 @@ date_of_birth: ~2075 (28 at Arc 1 start)
 date_of_death: alive
 birthplace: San Francisco, Earth — upper districts (not the flooded coastal area)
 emigration: Left San Francisco at age 6; Mars; then belt; 20+ years in low gravity
-
-# Status
-status: alive
 first_appearance: Book 1 — online during Jace's Falcon transit, then in person at Fortuna Station
 last_appearance: ongoing — major recurring character
-pov_character: false (possibly secondary POV in later books)
-recurring: true (major)
-
-# Affiliations
+pov_character: false
+recurring: true
 factions: [faction_belter_stations, gray-market knowledge underground]
 loyalties: [Jace (best friend), open-source network, knowledge as commons, eventually the Synthesis circle]
-
-# Physical
-height: 4'6" (~137cm) — notably short; shorter than almost everyone on the station
+height: 4'6" (~137cm)
 build: Thin and wiry
 age_appearance: Looks 17; is 28
 skin_tone: Light Korean skin tone
 eyes: Black
-hair: Black; always styled and tinted a different colour; takes deliberate time on his hair to feel fancy
-
+hair: Black; always styled and tinted a different colour
 appearance_summary: >
   4'6", thin and wiry, looks 17 at 28. Light Korean skin, black eyes. Black hair
   always styled and tinted green ("the green of a chemistry accident" at Arc 1 start).
-  Thick overlay glasses (always the current testing model; always cracked somewhere;
-  replaced next day). Two pearl-style earrings containing {Aura} instances. Keyboard
-  gloves on his hands at all times — constantly typing or gesturing in the air.
-
-distinguishing_features: >
-  The thick overlay glasses that are always broken. The pearl earrings that make a faint
-  tinny sound if you are close enough. The keyboard gloves with screens on the backs
-  of his hands. The hair — always styled, tinted green at Arc 1 start; the one vanity
-  he commits to.
-
-# The Glasses
-always_wearing: thick overlay glasses; current testing model
-always_breaking: sits on them, someone opens a door into them, someone steps on them
-replacement: has a new pair the next day; running station joke; he always seems to
-  be on the same model because he breaks them before the next generation ships
-running_joke: true
-implant_status: no neural HUD implant
-reason_no_implant: integrated HUDs cost more than Nick can justify and require roughly
-  one month without normal vision during recovery; he prefers replaceable overlay glasses
-
-# The Earrings
-appearance: Large pearl-style; one per ear; look purely decorative
-contents: Each contains a physical {Aura} instance
-sound: Faint tinny audio they project into his ears; just barely audible to people
-  very close to him
-astral_appearance: Two tiny crystalline AI-Will masses flanking his head glow
-
-# The Keyboard Gloves
-description: Custom gloves that let him enter commands via air gestures or typing
-backs_of_hands: Small screens he types on directly — he is constantly "drawing" on himself
-always_wearing: true
-tells: Constant finger-twitching and air-typing mid-conversation; brief micro-pause
-  when an agent alert lands, then continues talking
-
-# The Chair
-description: A very nice ergonomic chair with built-in back massager, armrest keyboards,
-  small built-in fridge, and a designated noodle holder
-ritual: Plops into it, reclines, sighs contentedly, pulls out monitors, gets to work
-jace_comment: Once asked "Isn't that bad for your spine?" Nick did not answer.
-
-# The Noodles
-every_meal: true — ramen specifically
-type: Rotates between types and spices; always trying different combinations
-procurement: Preorders from noodle stalls as he's walking up; robot hands him bowl and
-  compostable chopsticks without breaking stride; walks through the station's "Chinatown"
-  daily
-in_workspace: Keeps a supply in the server room fridge
-
-# The Korean Accent
-character: Present but deliberate performance
-lean_into: When meeting new people; dealing with annoying officials; when amused by something
-drop: In technical mode; with people he trusts (especially Jace)
-baseline: Has some Bay Area inflection under the performance; the San Francisco origin
-  is occasionally audible
-
-# San Francisco Residue
-monitor_background: Cycles through photographs of the San Francisco Bay Bridge — different
-  weather, lighting, times of day; many taken by his father before the flooding
-on_flooding: >
-  Occasionally remarks, unprompted, "Most of those are from before all the flooding."
-  Not sad exactly, more like carrying a fact.
-
-# The 90-Second Crossing
-what_happened: Vomited up noodles; sat on the floor; five minutes of silence
-assessment: "That's not like in the games."
-specific_wrongness: The 4D view; the sense that he could fall through the walls;
-  nothing shaped the way it should be
-when_memory_comes_up: Makes the game joke; changes the subject; subject stays changed
-
-# Capabilities
-magic_user: TBD — nascent [Information Flow] unrecognised by himself
-notable_skills:
-  - AI development and systems integration (expert-level)
-  - "{Aura} stack assembly, tuning, and jailbreaking"
-  - Open-source software archaeology
-  - Pattern recognition across distributed systems
-  - Social network-building across belt stations
-  - Gaming and game design
-  - Running 20-30 AI agents simultaneously via keyboard gloves and earring instances
-
-# Voice
-register: High-pitched; reads younger than he is
-accent: Korean performance vs. technical baseline (see above)
-default: Fast, friendly, three topics simultaneously
-when_pushed: Firm; friendliness doesn't vanish but the padding does; goes precise not loud
-technical_mode: Accent drops; voice flattens; sounds more senior
-with_jace: Highest laugh rate; gamer shorthand; truest version; most relaxed
-example_dialogue:
-  - '"THERE it is." Reaction to Jace saying Nick is shorter than his mecha.'
-  - '"That is not what I am talking about, though... I am not building that." Ch05 {Aura} pitch.'
-  - '"That skull cap of yours is running at maybe thirty percent load." Ch05 idle-processing argument.'
-
-# Story Function
-archetypes: [the wizard in the back room, the gatekeeper of the underground, the multiplier]
-character_arc: gray-market {Aura} provider → recognized infrastructure backbone → de facto
-  authority on {Aura}/Will interaction → open-source movement architect → reluctant leader
-themes_embodied: [the open-source ethic, knowledge as commons, infrastructure as power]
-beliefs: >
-  The 10× vision (early canon): During transit conversations, Nick articulates his dream:
-  Fortuna ten times its current size, thousands of robots to maintain, and {Aura} as the
-  commons underneath it all — so the infrastructure isn't corporate-owned. Subversive,
-  dreamy, sincere. This is the seed of the Arc 1 open-source decision.
-
-last_updated: 2026-08-13
-sheets:
-  - sheet_nick_arc01_end
+  Thick overlay glasses (always broken/replaced next day). Two pearl-style earrings
+  containing {Aura} instances. Keyboard gloves on his hands at all times.
+last_updated: 2026-08-15
 cross_references:
+  - "[[char_jace_apollo]]"
+  - "[[char_aura_ai]]"
+  - "[[tech_aura_ai]]"
+  - "[[visual_profile_nick_lee]]"
+  - "[[voice_char_nick_lee]]"
   - "[[sheet_nick_arc01_end]]"
+  - "[[arc_01_thread_N_nick_ai]]"
+  - "[[location_fortuna_station]]"
 ---
 
 # Nick Lee

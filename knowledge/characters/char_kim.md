@@ -1,10 +1,11 @@
 ---
 id: char_kim
-name: Kim [surname TBD]
+name: Kim Jones-Hyatt
+ethnicity: African American
 status: alive
 type: character
-canonical: false
-last_updated: 2026-07-12
+canonical: true
+last_updated: 2026-08-15
 description: >
   Drone Ops coworker of Jace and Carlos at Fortuna Station. Approximately 45,
   African American, reads as chronically rude and scowling toward Jace and
@@ -13,6 +14,7 @@ description: >
   hidden for the whole arc, are revealed to Jace via Astral sight. Her Will
   manifestation is deferred to a future arc.
 cross_references:
+  - "[[voice_char_kim]]"
   - "[[char_jace_apollo]]"
   - "[[char_carlos]]"
   - "[[char_maureen]]"

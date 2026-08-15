@@ -7,6 +7,7 @@ first_appearance: Scene 1-05a — arrival day at Fortuna
 last_updated: 2026-07-12
 description: "Innkeeper of the second transit inn on Fortuna Station. Red-haired, chaotic energy, genuinely engaged by whatever is happening. Unwittingly houses Kael for two weeks at the start of Arc 2 without noticing anything was wrong."
 cross_references:
+  - "[[voice_char_erin]]"
   - "[[char_carlos]]"
   - "[[location_fortuna_station]]"
   - "[[arc_01_falcon_and_fortuna]]"

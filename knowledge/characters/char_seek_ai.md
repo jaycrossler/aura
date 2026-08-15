@@ -7,6 +7,7 @@ canonical: true
 last_updated: 2026-08-14
 description: "Chinese mining-detachment compliance AI that turns every action into a reportable field and every omission into a deviation."
 cross_references:
+  - "[[voice_char_seek_ai]]"
   - "[[tech_seek_ai]]"
   - "[[tech_fortuna_ai_systems]]"
   - "[[char_jin_luong]]"

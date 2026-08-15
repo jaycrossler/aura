@@ -8,6 +8,7 @@ pronouns: she/her
 last_updated: 2026-08-14
 description: "Fortuna security AI whose cheerful curiosity assembles surveillance into increasingly confident threat narratives."
 cross_references:
+  - "[[voice_char_penny_ai]]"
   - "[[tech_fortuna_ai_personalities]]"
   - "[[tech_fortuna_ai_systems]]"
   - "[[char_suzi]]"

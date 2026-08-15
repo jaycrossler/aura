@@ -14,6 +14,7 @@ description: >
   minor character; his wrongness is the arc's first clear demonstration of what
   unguided Will use does to a person.
 cross_references:
+  - "[[voice_char_hayes]]"
   - "[[char_jace_apollo]]"
   - "[[char_cerberus]]"
   - "[[char_lanchee]]"

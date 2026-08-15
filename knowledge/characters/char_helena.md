@@ -37,6 +37,7 @@ sheets:
   - sheet_helena_prologue_death
   - sheet_helena_epilogue_resurrection
 cross_references:
+  - "[[voice_char_helena]]"
   - "[[sheet_helena_prologue_death]]"
   - "[[sheet_helena_epilogue_resurrection]]"
 ---

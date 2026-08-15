@@ -8,6 +8,7 @@ pronouns: she/her
 last_updated: 2026-08-14
 description: "Air-gapped European ship AI and fourth crewmate of the Victoria, attentive to sensory experience and human wellbeing."
 cross_references:
+  - "[[voice_char_misty_ai]]"
   - "[[tech_misty_ai]]"
   - "[[ship_victoria]]"
   - "[[char_sophia_lotte]]"

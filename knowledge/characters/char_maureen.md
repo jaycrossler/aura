@@ -62,6 +62,7 @@ related_ships: [ship_falcon]
 related_locations: [location_fortuna_station]
 last_updated: 2026-07-15
 cross_references:
+  - "[[voice_char_maureen]]"
   - "[[char_saul]]"
   - "[[char_jace_apollo]]"
 ---

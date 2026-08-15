@@ -15,6 +15,7 @@ description: >
   farm. Carlos's husband. Uses robots for repeatable production but rolls dough and
   decorates finished goods himself.
 cross_references:
+  - "[[voice_char_mateo_alvarez]]"
   - "[[char_carlos]]"
   - "[[location_fortuna_station]]"
   - "[[draft_ch07_arrival_day]]"

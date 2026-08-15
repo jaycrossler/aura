@@ -89,6 +89,7 @@ last_updated: 2026-08-14
 sheets:
   - sheet_sophia_arc01_end
 cross_references:
+  - "[[voice_char_sophia_lotte]]"
   - "[[sheet_sophia_arc01_end]]"
   - "[[char_brandon_moreau]]"
   - "[[char_nikos_petrou]]"

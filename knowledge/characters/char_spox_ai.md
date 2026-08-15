@@ -7,6 +7,7 @@ canonical: true
 last_updated: 2026-08-14
 description: "Mining and survey AI defined by accurate physics, hostile brevity, and contempt for unmodeled judgment."
 cross_references:
+  - "[[voice_char_spox_ai]]"
   - "[[tech_fortuna_ai_personalities]]"
   - "[[tech_fortuna_ai_systems]]"
   - "[[char_jace_apollo]]"

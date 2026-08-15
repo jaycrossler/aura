@@ -17,6 +17,7 @@ description: >
   fermentation work with {Misty}. Nikos Petrou's partner and Sophia Lotte's longtime
   crewmate.
 cross_references:
+  - "[[voice_char_brandon_moreau]]"
   - "[[char_sophia_lotte]]"
   - "[[char_nikos_petrou]]"
   - "[[ship_victoria]]"

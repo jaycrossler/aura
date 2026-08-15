@@ -17,6 +17,7 @@ description: >
   long-baseline instruments. Brandon Moreau's partner and Sophia Lotte's longtime
   crewmate.
 cross_references:
+  - "[[voice_char_nikos_petrou]]"
   - "[[char_sophia_lotte]]"
   - "[[char_brandon_moreau]]"
   - "[[ship_victoria]]"
