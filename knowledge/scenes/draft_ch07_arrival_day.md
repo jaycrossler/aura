@@ -38,13 +38,13 @@ cross_references:
 >
 > Jace Grant, *Fortuna notes*
 
-The *Falcon* did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart. Two large spinning disks any closer together would have been a recipe for disaster.
+The *Falcon* did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart. Two large spinning disks any closer together would have been a recipe for disaster. They had spun down to zero gravity again.
 
 Cargo tugs crossed the gap in a steady line. Each tug locked onto one of the ship's thirteen-meter canisters, freed it from the ring, and carried it toward Fortuna's receiving central spire, where the spin could be matched and the canister attached to its new home. Some canisters would return to the *Falcon* after unloading to ship goods back in-system. Others had made their last voyage.
 
 Lanchee's clinic was one of those.
 
-She stood beside Jace at the observation port while two tugs detached the canister that held her examination room, instruments, bed, and every private thing he had never seen. Lanchee would remain aboard until four suited crew and a dozen helper drones welded it into Fortuna's frame and certified three separate air supplies.
+She floated beside Jace at the observation port while two tugs detached the canister that held her examination room, instruments, bed, and every private thing he had never seen. An A.I. from Fortuna named {Penny} had built a plan for four suited crew and a dozen helper drones to weld the new clinic into Fortuna's frame and certify it with three separate air supplies.
 
 "You are staying with the ship?" Jace asked.
 
@@ -52,9 +52,9 @@ She stood beside Jace at the observation port while two tugs detached the canist
 
 Her opinion of him seemed to be decreasing every time they interacted. Luckily Fortuna had a second doctor. She'd probably appreciate if he avoided her in the future.
 
-Maureen appeared at the passenger lock with a tablet under one arm and Siren at her heel.
+Maureen appeared at the passenger lock with a tablet under one arm and Siren floating near by. Jace noticed that Maureen was sneakily feeding her a treat.
 
-"Your repairs held," Maureen told Jace. "All of them. Even the corner anchors you ran hot."
+"Your repairs held," Maureen told Jace. "All of them. Patrick says 'good job'."
 
 From Maureen, this approached poetry.
 
@@ -66,15 +66,17 @@ From Maureen, this approached poetry.
 
 "Then do better work here."
 
-Jace almost told her about the... things.
+Jace almost told her about the... things. They were all gone now, but still.
 
 She was the one person on this voyage who had watched him make an impossible call under pressure and turn out to be right about it. In a few days she would be gone, and the *Falcon* would not be back for a year. He would still be here. So would whatever had been in that spire.
 
 "Copy that," he said instead.
 
-She turned to the next manifest without offering a hand. Jace understood the gesture anyway. The *Falcon* would return next year. They would meet again, complain about the same plumbing, and measure affection in tolerances.
+She turned to the next manifest without offering a hand. Jace understood the gesture anyway. The *Falcon* would return next year. They would meet again, complain about the plumbing, and fondly recollect their adventures.
 
 That was enough.
+
+##
 
 Mei waited inside the transfer tug with one light bag between her boots. Four months of work, a new station, and everything visible in her life fit inside it.
 
@@ -92,13 +94,13 @@ Below everything turned the asteroid, dark gray and immense. Surface factories m
 
 Jace had spent four months inside the *Falcon's* single ring. A full circuit there took two minutes at a jog, three with a vest. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
-"Smaller than Terminus," Mei said, wistful of the Mars city she'd been born in.
+Mei said "Smaller than Terminus," wistful of the Mars city she'd been born in.
 
 "Most places are."
 
 She watched the station for another minute, looking anxious as they rode an elevator up the spine that turned horizontal and crossed over through a strut into the ever-increasing weight of Fortuna proper. It reminded him of a half-remembered amusement park ride as a boy, complete with a lap harness.
 
-Siren sat beside Mei. At some point between the *Falcon* and the tug and the elevator, the dog had transferred her allegiance from Maureen to Mei with a leash and without complaint.
+Siren sat beside Mei. At some point between the *Falcon* and the tug and the elevator, the dog had transferred her allegiance to Mei without complaint.
 
 The receiving bay was louder than the entire voyage. It was pressurized and the dogs turned their heads at every sound, like watching a tennis match.
 
@@ -126,15 +128,15 @@ Sai tapped her screen. "Agricultural systems."
 
 Petroski kept his hands behind his back. "Orbital structures."
 
-"Three retired PhDs," Carlos said. "Fortuna does not waste expertise. It only assigns it surprising duties."
+"Three retired PhDs," Carlos said. "They were probably bored."
 
 Jace looked at Petroski. "I thought Russia broke up into eight separate countries."
 
-"Eight states," Petroski said.
+"Eight *states*," Petroski said.
 
-"Aren't all of them fully independent?" Carlos asked.
+"Aren't all of them fully independent?" the American asked.
 
-"Eight states with sibling rivalries."
+"Eight states... with sibling rivalries."
 
 "Didn't China just invade one?" Jace asked.
 
@@ -158,9 +160,9 @@ Mei did not smile.
 
 A dockworker looked up from a manifest.
 
-"Learning Mode!"
+"It's Learning Mode!"
 
-Someone farther back called, "Dog man!"
+Someone farther back called, "The Pig guy!"
 
 Then they saw Cerberus.
 
@@ -180,25 +182,27 @@ The domes of Mars had crowds, but not like this. Maybe it was the long isolated 
 
 Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore mining harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
-Carlos rescued him from the crowd.
+Then Carlos rescued him.
 
-"Jace, your room is already booked at the boring inn. Mei, Elder Sai will take you to the Barn after customs. She said she has your room ready."
+Carlos wore a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
+
+"You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
+
+He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed then panted with the excitement. Carlos nodded as if an inspection had concluded.
+
+"These are the famous ones."
+
+"I've noticed."
+
+"Mei, Elder Sai is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn. "
 
 "There's more than one inn?"
 
-"There are two inns. Erin's is lively, inventive, and sometimes on fire. The boring inn has good food and is always clean and is never on fire. You need the boring inn."
-
-"Two inns for four hundred people?"
-
-"At least two of every kind of place. Redundancy. The large Barn and main farm are on Ring Two beside Chinatown. Ring One keeps a smaller Barn and farm on a separate air loop. If one animal gets sick, it cannot reach every herd. The same idea applies to clinics, kitchens, workshops, and places to sleep."
-
-"And bars?"
-
-"Especially bars."
+"There are two inns. Erin's is lively, inventive, and sometimes on fire. The boring inn has good food and is always clean and is never on fire. Weirdly, they both have red hair. Must be an innkeeper thing. You need the boring inn."
 
 "Origin chose it?"
 
-"I chose it. Origin would have assigned you to whichever bed produced the cheaper invoice."
+"I chose it. Origin would have assigned you to whichever charged them the slowest."
 
 Carlos walked them through locks and through side corridors into Ring Two. Just the novelty of having side passages was glorious.
 
@@ -226,7 +230,7 @@ They passed a wall mosaic built from old station plates. Tarnished bronze letter
 
 Jace slowed.
 
-Below the original shares, a newer panel showed the present council. AI representatives. Human delegates. Resident cooperatives. The ownership lines crossed until they resembled faulty wiring.
+Below the original shares, a newer panel showed the present council. A.I. representatives. Human delegates. Resident cooperatives. The ownership lines crossed until they resembled faulty wiring.
 
 "Who is in charge of the station?"
 
@@ -250,7 +254,7 @@ The Foundry came next. Its main bay could have swallowed the *Falcon's* forge. P
 
 "You start with delivery support. Kim decides when you become a drone operator."
 
-"Was Kim the woman who left the receiving bay?"
+"Was Kim the woman who just left the receiving bay?"
 
 "Kim does not like dogs."
 
@@ -335,7 +339,7 @@ It was not an answer to the question Jace had asked.
 
 Housing came last. The boring inn had clean walls, narrow rooms, and a red-haired owner who handed Jace a key without asking why his duffel looked like it was full of lead.
 
-Carlos confirmed Jace's morning check-in, then left for his next shift.
+Carlos confirmed Jace's morning check-in, then left to head back to work.
 
 The room Carlos had booked contained a raised bed, a desk, a private washstand, and enough floor space for Cerberus to turn around without hitting furniture. Jace checked the daily deduction in his HUD.
 
@@ -343,37 +347,32 @@ The room Carlos had booked contained a raised bed, a desk, a private washstand, 
 
 The innkeeper looked at the balance Jace had tried to close too quickly.
 
-"This is the cheapest room Origin books," she said.
+"This is the cheapest room Origin books," he said.
 
 "That was not my question."
 
-The innkeeper took back the key. She led Jace to a room at the end of the corridor. It had a floor mattress, a dresser, and nothing else. The washroom was shared. Cerberus could cross the entire room in two steps.
+The innkeeper took back the key. He led Jace to a room at the end of the corridor. It had a floor mattress, a dresser, and nothing else. The washroom was shared. Cerberus could cross the entire room in two steps.
 
-The rate left Jace enough for one real cafeteria lunch each day.
+The rate left Jace enough for two real cafeteria meals each day.
 
-"Dog deposit?" he asked.
 
-"Waived if he does not eat the dresser."
 
-Cerberus sniffed the dresser.
 
-She did not know about the two million Tokens. Only Nick knew the number. She knew the look of someone dividing food by days until payday, and she helped without making him explain it.
+The cafeteria occupied the next block. Jace took a bowl of the free contractor soup. It was gray and warm and tasted like water sprinkled with grass.
 
-The cafeteria occupied the next block. Jace took a bowl of the free contractor soup. It was gray and warm and tasted like water.
-
-He had taken three bites when a short shadow crossed the table.
+He had taken three sponfulls when a shadow crossed the table.
 
 "Stand up," a familiar voice said. "I need to see this in person."
 
-Nick Lee stood four and a half feet tall. He wore cracked viz glasses, keyboard gloves, pearl earrings, and green hair that looked freshly coifed.
+Nick Lee stood almost five feet tall. He wore viz glasses, keyboard gloves, pearl earrings, and green hair that looked freshly coifed.
 
 Jace stood.
 
 Nick looked up. Then farther up.
 
-"You are absurd."
+"You are absurdly tall."
 
-"You are shorter than your mecha."
+"You are... shorter than the mecha."
 
 "There it is. Four months, and you finally understand the joke."
 

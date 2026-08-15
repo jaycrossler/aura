@@ -28,7 +28,7 @@ cross_references:
 
 # Chapter 6. The Spire
 
-> *Most people do not know this, but a ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.*
+> *Most people do not know this, but a spin ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.*
 >
 > Jace Grant, *Falcon* transit logs
 
@@ -134,7 +134,7 @@ The wrench connected with a sound he felt through his wrist. The creature folded
 
 He swung a second time. The wrench struck the head.
 
-The hatchling ended.
+The hatchling crumpled and ended.
 
 Silver-white light filled the shaft. It passed through Jace, cold and quick. His vision went blank for a fraction of a second. When it returned, the creature was gone.
 
@@ -142,7 +142,7 @@ The second hatchling crouched inside the open cavity.
 
 Jace reached for a handhold.
 
-The creature jumped through the outer wall panel.
+The creature jumped directly through the outer wall panel.
 
 For one impossible instant, Jace saw both sides of the hull at once. It wasn't like the x-ray vision from the comics his father used to read him — or maybe it was, except inverted. He wasn't looking through the wall at what lay behind it. He was standing on both sides of it at the same time, looking in and looking out, and the wall itself was the thing that didn't quite belong in the picture. On the far side lay open, empty space. The hatchling tumbled away from the *Falcon*, black limbs turning against the stars. Then his sight snapped back to metal, and the creature vanished with it, behind it, somehow it had passed through it.
 
@@ -162,9 +162,9 @@ No eggs. No creatures. No light.
 
 Only Jace, fighting the air.
 
-Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then sniffed him and pressed his shoulder against Jace's shin, licking.
+Cerberus stopped growling when Jace reached the lower third of the ladder. He did not climb up to meet him. He waited until Jace's boots touched the deck, then sniffed his arm and pressed his shoulder against Jace's shin, licking his leg.
 
-"Good choice staying here," Jace said. "One of us made one."
+"Good you stayed here," Jace said. "One of us made a good choice."
 
 He returned to the spire with Thing One after sunrise. The drone mapped every panel, seam, and cable run. It found the removed plate and Jace's blood. It found nothing else.
 
@@ -178,11 +178,11 @@ He put it in a sample sleeve and did not log it.
 
 {Alex} requested the incident footage before lunch.
 
-*Contractor Grant, I want to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.*
-
-He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a window of words and numbers next to it. Currently "Self Destructive and Sleep Deprived" both had high numbers. Uh oh.
+*Contractor Grant, Origin wants to be direct. The recording shows unauthorized access to ship infrastructure and eleven seconds of unsafe tool use in a confined maintenance space.*
 
 "There were two animals inside the panel."
+
+He loaded the app that Artemis had sent him called "ThoughtWalker". It showed a window of words and numbers next to it. Currently "Self Destructive and Sleep Deprived" both had high numbers. Uh oh.
 
 *No animals appear in the recording. The cavity contains no biological residue. Your injury is consistent with the panel edge.*
 
@@ -194,7 +194,7 @@ A number next to "Sanity test" went higher, and only "Sleep Deprived" remained i
 
 The fine appeared.
 
-It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast.  Didn't he once hear that breakfast was totally unnecessary anyway?
+It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary for adults? He was sure he read that somewhere.
 
 *This is your second documented incident involving unauthorized tool use during the current contract period. Origin recommends a medical assessment and temporary suspension from hazardous equipment.*
 

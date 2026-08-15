@@ -37,9 +37,9 @@ cross_references:
 
 The evening run began at 1800 and did not officially exist.
 
-No signup. No route permit. No organizer. At 1758, people drifted into Ring Two wearing soft shoes and old shirts. At 1800, someone started moving. Everyone else followed.
+No signup. No route permit. No organizer. At 1750, people drifted into Ring Two wearing soft shoes and old shirts. At 1800, someone started moving. Everyone else followed.
 
-The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers. Jace joined near the end of his first week and was the fastest runner by a clear margin. Earth muscles helped a lot, even with the weighted vest.
+The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers, or an old-style mile. Jace was the fastest runner by a clear margin. Earth muscles helped a lot, even with the weighted vest.
 
 People watched from shopfronts. Children counted laps. A baker handed out water at the Commons. Two women from a fabrication crew matched Jace's pace for half a circuit and asked whether he needed someone to show him the Sky Gardens after hours.
 
@@ -113,7 +113,7 @@ Cerberus collected pretzel pieces from three tables.
 
 Suzi noticed on the second piece and said nothing until the fifth.
 
-"Your dog is running an unlicensed food network."
+"Your dog is running a food heist."
 
 "I do not control him. I manage exceptions."
 
@@ -139,11 +139,11 @@ remarkable than people carrying paper.
 
 For a few days, Fortuna felt almost comfortable.
 
-Suzi waited three days before she used that trust.
+Suzi waited three days before she capitalized on that trust.
 
-This time she joined him at the cafeteria's gray-soup table. No drink. No smile.
+This time she joined him at the cafeteria's soup table. No drink. No smile.
 
-"You saw Helena's jacket."
+"You heard about Helena."
 
 "Carlos said security checked everything."
 
@@ -151,11 +151,17 @@ This time she joined him at the cafeteria's gray-soup table. No drink. No smile.
 
 Jace kept his face still. She had been watching. Base security. Of course.
 
-He could tell her about the spire. The feather sat in a private evidence sleeve at the bottom of his sock drawer at the inn. He could show her footage of himself fighting empty air.
+"Should we be talking about this here?"
+
+She pointed at a sign that read "Privacy zone." in three languages.
+
+"Belters don't break rules."
+
+He could tell her about the spire on the *Falcon*. The feather sat in a bag at the bottom of his sock drawer at the inn. He could show her footage of himself fighting empty air.
 
 He imagined the medical hold, the Origin audit, and another bright message from {Alex} explaining that institutional concern carried no malice. {Alex} and the other station AIs would be watching them, even here.
 
-"Ships hide voids," he said. "Old retrofits. Dead conduit. Spaces that exist on the blueprint and not the scan, or the other way around."
+"Walls have voids," he said. "Old retrofits. Dead conduit. Spaces that exist on the blueprint and not the scan, or the other way around."
 
 "Fortuna has thirty years of those. We opened every one near her pod."
 
@@ -191,13 +197,13 @@ Suzi's voice stayed level. Her grief did not. Anger flared in her eyes.
 
 "No. Wait, you think the Chinese put something on people's ships? There were no explosions, right?"
 
-"They make most of the robots. Robots can cause damage without explosions. They have military camouflage systems, so might not even be detectable. Who knows?"
+"They make most of the robots in the belt. Robots can cause damage without explosions. They have military camouflage systems, so might not even be detectable. Who knows?"
 
 Jace paused. That hit too close to home.
 
-Suzi continued. "Helena knew everyone. Half the station wants Jin Lóng charged because they were always seen together and because his section keeps its records behind {Seek} and he was seen on camera near her room that night. The other half wants her declared dead so the inheritance process can start. I have no body, no breach, and no evidence that Jin did anything."
+Suzi continued. "Helena knew everyone. Half the station wants Jin Lóng charged because they were always seen together and because Chinatown keeps its records behind {Seek} and he was seen on camera near her room that night. The other half wants her declared dead so the inheritance process can start. I have no body, no breach, and no evidence that Jin did anything."
 
-"Do you think he did?"
+"Do you *think* he did?"
 
 Suzi glanced toward the Chinese tables before answering.
 

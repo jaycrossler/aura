@@ -29,7 +29,7 @@ cross_references:
 
 # Chapter 8. Settling In
 
-> *Most people do not know this, but moving to a new station begins with a safety briefing, three identity checks, and an artificial intelligence explaining that your room knows when you are awake. The room knew before I did.*
+> *Most people do not know this, but Origin has a clause in most jobs where the title they hire you for can change if over-ridden by a senior. If an A.I agrees, they don't need any other oversight. Your salary can then be adjusted accordingly.*
 >
 > Jace Grant, *Fortuna notes*
 
@@ -37,9 +37,9 @@ The first voice Jace heard on his first morning at Fortuna belonged to {Alex}.
 
 *Good morning, Contractor Grant. Today is cycle one of your Fortuna deployment. Your current contract compliance score is ninety-four point two percent.*
 
-Jace opened one eye.
+Jace opened one eye. How had he lost 6 points in 6 hours of sleep?
 
-The inn room had no window. The ceiling glowed with artificial dawn. Cerberus slept across his feet with the stuffed pig under his chin, hair matted with dried slobber.
+The room had no window. Cerberus slept across his legs with the stuffed pig under his chin, hair matted with dried slobber.
 
 *Items requiring attention. One, Station Safety Orientation begins in fifty-eight minutes. Two, your quarters environmental assessment is due before cycle three. Three, early contract renewal discussions are available after four hundred compliant cycles.*
 
@@ -55,9 +55,11 @@ Jace stared at the ceiling and pulled off his sleep breathing mask.
 
 "I miss Maureen."
 
-Cerberus opened one eye, judged this unworthy of response, and went back to sleep.
+Cerberus opened one eye, judged this unworthy of response, and slowly got up.
 
-Station Safety Orientation lasted ninety minutes. It covered the Rule of Three, the location of emergency breathers, the difference between a local alarm and a ring alarm, and nine ways a newcomer could step into robot traffic.
+##
+
+Outside, the ceiling glowed with artificial dawn. Station Safety Orientation lasted ninety minutes. It covered the Rule of Three, the location of emergency breathers, the difference between a local alarm and a ring alarm, and nine ways a newcomer could step into robot traffic.
 
 The instructor was an educational branch of {Penny} projected on the wall as a cheerful woman in orange coveralls.
 
@@ -75,35 +77,37 @@ The phrase appeared over three oxygen icons in three languages.
 
 Jace liked that. He disliked that an AI had said it.
 
-The forge had his name on the six-to-ten schedule by the second morning. He assumed Carlos had helped until he saw the reason. Nobody wanted the slot.
+##
 
-Four printers occupied one side of the bay. A wire winder, circuit printer, pick-and-place cage, and tool bot filled the other. The machines were better than the *Falcon's*. The queue was worse.
+The forge had his name on the six-to-ten schedule by the next morning. He assumed Carlos had helped until he realized no one wanted the slot because that's when all the maintenance drones would trudge throguh, bumbing machines and grabbing stock.
 
-Jace loaded the new Sparky chassis and his ten micro-thrusters onto a clean bench. The body formed a rough sphere of swappable hexagonal and pentagonal plates. Empty mounts waited for sensors, batteries, and maneuvering units.
+Four masive printers occupied one side of the bay, able to print anything from giant steel plates to nuts and bolts. A wire winder, circuit printer, pick-and-place cage, and tool bot filled the other. The machines were better than the *Falcon's* and more automated. The queue was worse, over 5 pages in length, slowly moving through the system.
+
+Jace loaded the new Sparky chassis and his ten micro-thrusters onto a clean bench that he'd reserved online. The body formed a rough sphere of swappable hexagonal and pentagonal plates. Like the spine of a soccer ball. Empty mounts waited for sensors, batteries, and maneuvering units.
 
 He installed the first thruster.
 
-It fired at three percent power without tripping the bus.
+It fired at three percent power without tripping the bus. Powerful enough that it almost lifted in the air.
 
 The second worked too.
 
-By the fourth, the controller registered a thermal rise and reduced output before anything smoked.
+By the fourth, he was smiling. 9 out of 10 worked flawlessly, and he only needed 8 for full flight.
 
 "Progress," Jace said.
 
-Cerberus lay under the bench and chewed the tail off his stuffed pig.
+Cerberus lay under the bench and chewed the tail of his stuffed pig.
 
-Jace wired the four installed thrusters to a stripped-down local controller. He set Sparky on the deck and armed hover mode.
+Jace wired eight thrusters to a stripped-down local controller. He set Sparky on the deck and armed hover mode.
 
-The sphere rose forty centimeters.
+The sphere rose forty centimeters, flipping and turning.
 
-It held position for almost two seconds, drifted left, bounced off a cabinet, corrected too hard, and struck the opposite wall. Cerberus chased it through three more impacts before Jace killed the power.
+It held position for almost two seconds, drifted left, bounced off a cabinet, corrected too hard, and struck the opposite wall. Cerberus chased it, huffing, through three more impacts before Jace killed the power.
 
 Sparky dropped into his hands.
 
-"You can hover," Jace told it. "You cannot decide where."
+"You can fly," Jace told it. "Aiming comes next."
 
-Cerberus barked, eager for another round.
+Cerberus barked, eager for another round of fetch.
 
 The remaining thrusters, trajectory smoothing, clean power routing, and actual navigation would take more time than his contract schedule allowed. Jace locked the chassis in his assigned cage before it learned to attack the ceiling.
 
@@ -123,7 +127,7 @@ The main bay looked like a command center built by accountants. Four hundred ele
 
 Kim sat at the central console. She had the same compact build, close-cut hair, and fixed scowl Jace remembered from the receiving bay.
 
-"Grant," she said. "Back room."
+"Grant," she said. "Back room." The back room said deliveries and was smaller than the closet he slept in.
 
 Jace looked past her at the fleet board. "My assignment says drone operations."
 
@@ -131,7 +135,7 @@ Jace looked past her at the fleet board. "My assignment says drone operations."
 
 "I ran the *Falcon's* exterior survey and maintenance units."
 
-"You ran two drones you already knew on a ship with no competing traffic."
+"You ran two drones on a ship with no competing traffic."
 
 "There were other exterior repair drones."
 
@@ -139,15 +143,17 @@ Jace looked past her at the fleet board. "My assignment says drone operations."
 
 Carlos sat two consoles away. He did not hide his wince.
 
-Kim pointed at the back room. "Learn the manifest queue. Keep Things One and Two inside their assigned sectors. Come back in a month."
+Kim pointed at the back room. "Learn the manifest queue. Keep your two to deliveries only. Come back in a month."
 
 "Then I get a console?"
 
 "Then you can ask again with a month of relevant experience."
 
-The back room was six meters long, windowless, and full of retired parts. It smelled like solder and a forgotten lunch.
+The back room was six meters long, windowless, and full of retired parts on a work bench. It smelled like solder. Some of the pieces looked really useful.
 
-Thing One waited in an exterior cradle. Thing Two sat under a delivery rack. The Origin network had kept their names after transit, which made Jace suspect he would never escape them.
+##
+
+Thing One waited in an exterior cradle. Thing Two sat under a delivery rack. The Origin network had kept their names after transit, which made Jace suspect he would never escape the joke he'd made when accepting stewardship of them.
 
 The work was delivery.
 
@@ -163,7 +169,7 @@ Jace stopped waiting for Thing Two on light deliveries. He sent heavy loads and 
 
 Kim called it an unauthorized process change until the delivery times improved. Then she called it temporary.
 
-By the third day, Jace knew forty-seven door delays, six lift quirks, and the exact point where Ring Two's network handed a moving drone to the older Ring One system. The handoff failed one time in twenty. Carlos called that reliable.
+By the third day, Jace knew forty-seven door delays, six lift quirks, and the exact point where Ring Two's network handed a moving drone to the older Ring One system. The handoff failed one time in twenty. Carlos called that reliable. Jace just set them to automatically go into offline mode a second before and try to connect a few seconds after.
 
 Cerberus came to work and slept against Jace's ankle.
 
@@ -185,17 +191,17 @@ She looked at the dog. Then at the intake grille.
 
 Kim left.
 
-Carlos leaned around the doorframe after she was gone. "She likes you fine."
+Carlos leaned around the doorframe after she was gone. "She likes you."
 
 ##
 
 The Barn became Jace's evening stop.
 
-The *Falcon's* pigs had joined Fortuna's older herd and immediately divided the enclosure into political territories. Screwdriver controlled the water station. A local gilt twice her mass controlled the warm sleeping pad. Neither accepted the other's government.
+The *Falcon's* pigs had joined Fortuna's older herd and immediately divided the enclosure into political territories. Screwdriver controlled the water station. A local gilt twice her mass controlled the warm sleeping pad. Neither accepted the other's governance. War was brewing.
 
 The Pig Channel audience had tripled.
 
-Mei worked inside the pen, silent and unhurried. She redirected two pigs with a feed scoop and one look.
+Mei worked inside the pen, silent and unhurried. She redirected two pigs with a feed scoop and a glare.
 
 Siren watched from the gate.
 
@@ -215,6 +221,8 @@ Siren answered once.
 
 Mei raised one hand without looking up.
 
+##
+
 Jace ate dinner near the Barn because the food there was better and the company expected less conversation.
 
 An old man sat at the end of the long table each morning and evening. Silver stubble. Heavy forearms. Worn hands. On Jace's fourth breakfast, the man broke off the corner of a biscuit and lowered it beside his chair.
@@ -225,7 +233,7 @@ Cerberus appeared under his hand.
 
 "Jace."
 
-"I know."
+"Yup."
 
 Cerberus took the biscuit with great care.
 
@@ -237,7 +245,7 @@ Nick appeared most evenings. Whenever they ate together, Nick bought enough food
 
 "I like soup."
 
-"Your HUD could coordinate every sensor, app, and drone stream you own. Locally. No Origin reporting."
+"Your HUD could coordinate every sensor, app, and drone stream on this station ring. Locally. No Origin reporting."
 
 "A system-level AI would see everything."
 
@@ -247,9 +255,9 @@ Nick appeared most evenings. Whenever they ate together, Nick bought enough food
 
 Nick pushed his glasses up. One lens had cracked since yesterday. He had a habit of sitting on his glasses. Jace was printing him new lenses which had required mastering the grinding machine in the fabricator room.
 
-"{Alex} sees everything and scores you. {Penny} sees everything and opens files. {Aura} sees what you tell it to see and keeps the results on your hardware. Those are different architectures."
+"{Alex} sees everything and scores you. {Penny} sees everything and writes reports. {Aura} sees what you tell it to see and keeps the results on your hardware. Those are different architectures."
 
-"They feel similar from inside my skull."
+"They would feel similar from inside my skull."
 
 "Think about it."
 
@@ -259,9 +267,9 @@ Nick pushed his glasses up. One lens had cracked since yesterday. He had a habit
 
 Jace did not install {Aura}.
 
-He did start running again.
+He did start running again, though.
 
-At 1800, residents gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn where Siren came to wrestle with him until everyone returned. Over a dozen people stopped to coo and pet and just watch the dogs, who appreciated the audience.
+After finishing a delivery, he saw that residents had gathered for an unofficial loop through Ring Two, the Commons, and the Foundry level. Jace joined at the back. He wore his weighted vest. Cerberus ran the first half circuit, decided the group had poor judgment, and waited near the Barn where Siren came to wrestle with him until everyone returned. Over a dozen people stopped to coo and pet and just watch the dogs, who appreciated the audience.
 
 The route showed Jace how much station he did not know. Market decks above them. Transit towers between rings. Windows into crystal farms, where pale rods grew in perfect silence. Memorial posters for Helena appeared at intersections, each with the same word beneath her picture.
 
@@ -281,13 +289,13 @@ The girl looked at the dog.
 
 Not frightened. Curious.
 
-One of his fellow runners came up beside Jace. "Mira. She watches. She is all right."
+One of his fellow runners came up beside Jace. "Mira. She's all right."
 
 "Cerberus likes everyone."
 
 "Apparently not everyone."
 
-Mira turned into a cross-corridor.
+Mira stepped into a cross-corridor.
 
 Cerberus waited until she disappeared before moving again.
 
