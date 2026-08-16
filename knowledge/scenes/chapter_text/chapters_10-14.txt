@@ -4,13 +4,31 @@ Most people do not know this, but ninety-five percent of drone operations is wat
 
 Jace Grant, Fortuna notes
 
-Kim gave Jace a console on cycle twelve.
+Thing One and Thing Two had passed the point of learning the station's layout, and he felt familiar with at least every major neighborhood and pressure lock and elevator.
 
-Not a fleet console. Delivery had forty-three active units, and his permissions covered seventeen. The distinction appeared in three places on the screen and twice in Kim's briefing.
+Every morning he'd eat a bowl of soup with Hayes, who would feed biscuit pieces to Cerberus and tell Jace stories of how the station was built. He knew a surprisingly useful number of shortcuts, or where the chokepoints were. A couple hundred people and a thousand drones still created traffic jams at times.
 
-"You touch these," she said, marking a blue group. "You observe the rest. If a red alert appears outside your group, you notify the assigned operator. You do not help."
+The inn kept a giant bag of dog food in a special drawer for Cerberus. They'd needed to lock it when the precocious puppy had found a way to open the door when no one was looking, and was discovered a meter off the ground, head in a bag of food and legs scrambling in the low gravity.
 
-"What if the operator asks?"
+Then it was to the forge, where Jace would pick up orders, print some that required human intervention, or move others to the packaging station. He had found an old broken robotic arm unit in storage and set it up to hang from the ceiling. It could move packages from many of the print beds to the next station, and Jace kep it's status constantly in his HUD. Nick had reflashed it's programming and Jace had repaired a crack in the power board, and it performed admirably.
+
+Print, run, deliver, and repeat. Thing One was outside the station most days, as the construction crews on Three would sometimes order tools or food or extra oxygen bottles. Think One would pass packages through an airlock. Jace was getting pretty comfortable in the maneuver, and had downloaded a new HUD app to help him automate it. Constant improvements. With the robots handling those tasks, he found himself running and delivering more packages himself, which let him meet people all over the station.
+
+Chinatown was colorful, though very private. All the walls in that part of Two had screens, all of them running Seek who ruled his flock of humans with an iron fist.
+
+Most of the animal pods that the Falcon had delivered were anchored on One, so he'd stop by and visit and help feed them. They loved seeing him and Cerberus, and would crowd forward any time he entered the pods. The pigs were down in the main Barn on Two. The different neighborhoods were his favorite part of Fortuna. One was older, more refined. Fewer pods and more permanent housing that had sprung up over the decades. More stones cut into paths, more greenery artfully placed around doors and seals. Bots were everywhere, cleaning filters, tending grass, polishing and cleaning and carrying things for the retirees and more distinguished station residents. The school was up on One close to his inn and the forge and Drone Ops, and he smiled at the gaggle of kids and teens everytime he saw them.
+
+Two had the Barn, the Farm, Chinatown, and fifty other pods and rooms and stores. It felt newer. More restraunts, more nightlife, more of a younger vibe. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, plugged in with two other doctors and a handful of nurses supporting all the small wounds and scratches and accidents that mining and construction crews accumulated.
+
+Three was less crowded. More maintenance rooms, more smaller workshops, more storage. Lots of space for future residents. Jace had heard that the new US government had ordered large expansion of the station, though all the gossip was that not enough residents were moving out to the belt. His count was they could probably fit another two hundred people comfortably on Fortuna with the current resources, so it seemed a poor use of resources to keep expanding until funds were secured. But of course he was biased against the new government so kept his opinion to himself.
+
+Kim gave Jace a console after his thousandth successful package delivery.
+
+Not a fleet console. Delivery had one hundred and forty-three active units, and his permissions covered seventeen that were on the station. Kim and Carlos and others would handle all the outsides drones and the ones down on the asteroid surface.
+
+"You touch these," she said, marking a blue group. "You observe the rest. If a red alert appears outside your group, you notify the assigned operator. You do not help, esepcially on the asteroid."
+
+"What if the operator asks for help?"
 
 "Then you help."
 
@@ -22,7 +40,7 @@ Not a fleet console. Delivery had forty-three active units, and his permissions 
 
 Kim looked at him.
 
-"Then you act, and we spend the next month deciding whether you acted well."
+"Then you act, and we spend the next month deciding whether you acted well. But do anything to save lives. If you need to explode a toilet to do so, I'll back you up."
 
 It was the most reasonable policy Origin had ever placed near his work.
 

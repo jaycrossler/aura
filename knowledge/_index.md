@@ -102,6 +102,7 @@
     - normalize_cross_references_2026-08-13.md - updated: 2026-08-13; lines: 1766; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-14.md - updated: 2026-08-14; lines: 1789; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-15.md - updated: 2026-08-15; lines: 2013; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-08-16.md - updated: 2026-08-16; lines: 2013; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: true; updated: 2026-08-13; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 107; xrefs: 9; canonical: true; chars: jace_apollo, major_barnes, petroski
@@ -212,15 +213,15 @@
         - chapters_20-24.txt
     - draft_ch00_prologue_helena.md - name: Prologue. Helena's Last Day; id: draft_ch00_prologue_helena; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death.; lines: 131; xrefs: 7; canonical: false; chars: helena, suzi, jin_luong, cerberus, dog_siren
     - draft_ch01_departure_and_rounds.md - name: Chapter 1. Departure and Rounds; id: draft_ch01_departure_and_rounds; status: draft_v2; updated: 2026-08-13; type: chapter_draft; description: Cargo-heavy departure, late-transit animal rounds with Mei, real-time; lines: 378; xrefs: 11; canonical: false; chars: jace_apollo, cerberus, maureen, mei, lanchee, nick_lee, saul
-    - draft_ch02_no_more_voices.md - name: Chapter 2. Going a little crazy; id: draft_ch02_no_more_voices; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery.; lines: 249; xrefs: 10; canonical: false; chars: jace_apollo, maureen, nick_lee, cerberus, saul
+    - draft_ch02_no_more_voices.md - name: Chapter 2. Going a little crazy; id: draft_ch02_no_more_voices; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery.; lines: 255; xrefs: 10; canonical: false; chars: jace_apollo, maureen, nick_lee, cerberus, saul
     - draft_ch03_plumbing_crisis.md - name: Chapter 3. The Plumbing Crisis; id: draft_ch03_plumbing_crisis; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: A water-line rupture loads one side of the Falcon ring with ice; Jace defies Alex and uses cryogenic argon as emergency counter-ballast, saving the ship at dangerous cost.; lines: 291; xrefs: 6; canonical: false; chars: jace_apollo, maureen
     - draft_ch04_morning_after_debrief.md - name: Chapter 4. The Morning After; id: draft_ch04_morning_after_debrief; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: Jace repairs the Falcon while suffering an unexplained post-crisis illness, then Alex fines him for the successful but prohibited argon maneuver.; lines: 275; xrefs: 7; canonical: false; chars: jace_apollo, maureen, lanchee
     - draft_ch05_learning_mode.md - name: Chapter 5. Learning Mode; id: draft_ch05_learning_mode; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: Register shift after the crisis, Thing One/Two comedy, the footage that becomes Jace's Fortuna reputation, Sparky-project mention, surveillance-discomfort seed, Nick's first real {Aura} pitch, an early rumor of Helena's disappearance; lines: 271; xrefs: 10; canonical: false; chars: helena, nick_lee, sister_artemis
     - draft_ch06_the_spire.md - name: Chapter 6. The Spire; id: draft_ch06_the_spire; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 260; xrefs: 8; canonical: false; chars: jace_apollo, cerberus, lanchee
     - draft_ch07_arrival_day.md - name: Chapter 7. Arrival Day; id: draft_ch07_arrival_day; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 420; xrefs: 16; canonical: false; chars: aura_ai, carlos, petroski, nick_lee, maureen, lanchee, mei, sai, helena, mateo_alvarez
     - draft_ch08_settling_in.md - name: Chapter 8. Settling In; id: draft_ch08_settling_in; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 331; xrefs: 11; canonical: false; chars: kim, carlos, mira, hayes, cerberus, nick_lee
-    - draft_ch09_first_week.md - name: Chapter 9. Eyes Open; id: draft_ch09_first_week; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 311; xrefs: 13; canonical: false; chars: aura_ai, seek_ai, suzi, helena, jin_luong, mei, cerberus, carlos, hayes
-    - draft_ch10_first_drone_shift.md - name: Chapter 10. Ordinary; id: draft_ch10_first_drone_shift; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 256; xrefs: 10; canonical: false; chars: kim, carlos, nick_lee, cerberus, dog_siren
+    - draft_ch09_first_week.md - name: Chapter 9. Eyes Open; id: draft_ch09_first_week; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 317; xrefs: 13; canonical: false; chars: aura_ai, seek_ai, suzi, helena, jin_luong, mei, cerberus, carlos, hayes
+    - draft_ch10_first_drone_shift.md - name: Chapter 10. Ordinary; id: draft_ch10_first_drone_shift; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 274; xrefs: 10; canonical: false; chars: kim, carlos, nick_lee, cerberus, dog_siren
     - draft_ch11_survey_trip.md - name: Chapter 11. The Empty Rocks; id: draft_ch11_survey_trip; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 341; xrefs: 7; canonical: false; chars: cerberus, torres
     - draft_ch12_awakening.md - name: Chapter 12. The Other Side; id: draft_ch12_awakening; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 293; xrefs: 8; canonical: false; chars: cerberus
     - draft_ch13_woman_who_wasnt_glowing.md - name: Chapter 13. The Woman Who Was Not Glowing; id: draft_ch13_woman_who_wasnt_glowing; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 351; xrefs: 9; canonical: false; chars: sophia_lotte, jace_apollo, cerberus, torres
@@ -321,23 +322,6 @@
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-08-13; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
-    - aura_kb_rulings_2026-08-15b/
-        - CHANGES.md - updated: 2026-08-15; lines: 69; xrefs: 0; canonical: false
-        - new_files/
-            - characters/
-                - char_falcon_ai.md - name: {Falcon}; id: char_falcon_ai; status: canonical; canonical: true; updated: 2026-08-15; type: ai_character; description: The Falcon's own majordomo AI. Old ship hardware with a tired personality, tolerated rather than loved by Maureen, distinct from Alex's no-executive-partition presence aboard the same vessel.; lines: 51; xrefs: 6; canonical: true; chars: maureen, jace_apollo, alex_ai
-                - voice_char_aura_ai.md - id: voice_char_aura_ai; status: detailed (revised — install timing confirmed Ch18, Sparky attempt noted, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Aura}, the open-source federated AI Jace attempts to install on Sparky and later installs on his own HUD in Ch18, formatted for local TTS audiobook generation. Supersedes the 2026-08-15 version with author-confirmed install timing.; lines: 141; xrefs: 6; canonical: false; chars: aura_ai, nick_lee, jace_apollo
-                - voice_char_claudia_ai.md - id: voice_char_claudia_ai; status: canonical (renamed from {Chorus} by author ruling, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Claudia}, Fortuna Station's life-support AI, renamed from {Chorus} and recharacterized by author ruling as a consensus-building agent-harness AI, formatted for local TTS audiobook generation.; lines: 150; xrefs: 5; canonical: false; chars: claudia_ai
-                - voice_char_kim.md - id: voice_char_kim; status: detailed (revised — author-ruled name and ethnicity, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for Kim Jones-Hyatt, Fortuna Station drone operations manager, formatted for local TTS audiobook generation. Supersedes the 2026-08-15 light profile now that her surname and background are ruled.; lines: 133; xrefs: 5; canonical: false; chars: kim, carlos, jace_apollo
-                - voice_char_misty_ai.md - id: voice_char_misty_ai; status: detailed (revised — pronoun preference confirmed, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Misty}, the air-gapped Mistral-heritage ship AI and fourth crewmate of the Victoria, formatted for local TTS audiobook generation. Supersedes the 2026-08-15 version with the author-confirmed pronoun ruling.; lines: 120; xrefs: 7; canonical: false; chars: misty_ai, sophia_lotte, brandon_moreau, nikos_petrou
-                - voice_char_torres.md - id: voice_char_torres; status: light (confirmed: no first name exists in-story, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Torres, the Fortuna survey pilot, formatted for local TTS audiobook generation. Author confirmed no character in the story knows his first name — this is settled, not a gap.; lines: 52; xrefs: 4; canonical: false; chars: torres, jace_apollo
-            - visual_profiles/
-                - visual_profile_suzi.md - name: Visual Profile — Suzi Gonzales; id: visual_profile_suzi; status: partial; updated: 2026-08-15; type: visual_profile; description: >; lines: 106; xrefs: 4; canonical: false; chars: suzi
-        - patches/
-            - EDITS.md - updated: 2026-08-15; lines: 156; xrefs: 0; canonical: false
-        - {new_files/
-            - characters,patches}/
-    - aura_kb_rulings_2026-08-15b.zip
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -415,9 +399,7 @@ These files were marked as draft or have non-canonical status and should not be 
 ### Orphaned Files
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
-- `CHANGES`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
-- `EDITS`
 - `_visual_profile_gaps_2026-08-15`
 - `addition_new_doctor_memory_mention`
 - `book01-opening-notes`
@@ -437,6 +419,7 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `normalize_cross_references_2026-08-13`
 - `normalize_cross_references_2026-08-14`
 - `normalize_cross_references_2026-08-15`
+- `normalize_cross_references_2026-08-16`
 - `review_queue`
 - `system_character_sheets_skill_format`
 - `voice_char_jin_luong`
