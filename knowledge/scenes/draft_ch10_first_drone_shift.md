@@ -132,7 +132,7 @@ Kim returned to her station.
 
 Jace used the drone's manipulator to re-seat the case. D-14 entered Ring Two minutes later.
 
-He felt good about the fix for nearly an hour.
+He felt good about the fix for nearly an hour. If Kim raised him up, the bump in salary would put some spending money in his pocket.
 
 At shift end, when bending over to pet Cerberus, he heard his name through the equipment rack.
 
@@ -144,7 +144,7 @@ Carlos said something Jace could not hear.
 
 "The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job. Not now."
 
-Jace left quickly with Cerberus.
+Jace left quickly with Cerberus. His massive debt looked larger than ever.
 
 ##
 
@@ -182,27 +182,29 @@ Jace ate.
 
 "Six months," Nick said. "Be boring and good for six months. Boring and good beats famous out here."
 
-"That sounded almost wise."
+"That sounded almost wise." Jace just though about eating thin soup for six months.
 
-"I saved it for a crisis."
+"I save my wisdom for a crisis."
 
 Nick's hands stopped moving. The change drew more attention than any warning tone.
 
-"There is something else. Talk around the station about the Chinese mining contract on the Falcon ending abruptly. Odysseus, Helena, the *Falcon* leak. Now there are three missing vessels out near Jupiter."
+"There is something else. Talk around the station about the Chinese mining contract on the Falcon ending abruptly. Odysseus, Helena, the *Falcon* leak. Now there are three missing vessels out near Saturn."
 
-"Suzi thinks Jin has access she cannot audit."
+"Suzi says she can't audit any of the systems in Chinatown, that {Seek} keeps blocking their requests for video surveilance."
 
-Nick leaned closer.
+Nick leaned closer, checking they were still in a privacy zone.
 
-"Watch your logs. You are new. You have an American military record, Origin access, and have been hanging out with a very suspicious head of security that drinks and gets loud. If something breaks, somebody will decide you were near it. Keep records cleaner than you think you need."
+"You are new. You have an American military record, Origin access, and have been hanging out with a very paranoid head of security that drinks and talks too loud. If something breaks, somebody will decide you were near it. Keep records cleaner than you think you need."
 
 "You expect sabotage?"
 
 "I expect frightened people to think accidents are something worse."
 
+Nick paid for their Ramen noodles. Jace felt bad that Nick always picked up the bill, but his station payment account had actually been disabled earlier in the day for insufficient funds. He was too embarassed to tell his friend, but Nick was pretty empathic and had definately picked up on something.
+
 ##
 
-Jace opened D-14's route history.
+Jace opened D-14's route history. Suzi had sent him a list of suspicious activity and we was looking through the logs.
 
 The drone had passed a junction near the Chinese leasehold at 1041. It had used the correct public corridor. Six minutes later, the sensor alert appeared.
 
