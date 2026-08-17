@@ -45,7 +45,7 @@ Jace crouched. Cerberus pressed his forehead against Jace's chest, tail wagging.
 
 "Three days. Guard the Barn."
 
-Siren nudged her brother away from the gate and toward the pens.
+Siren nudged her brother away from the gate and toward the pens. When he didn't immediately come, she bit his floppy ear and dragged him. He *murphed* then jumped on her.
 
 Jace left while the dogs were wrestling.
 
@@ -53,7 +53,7 @@ He looked back once and saw Cerberus at the window, barking frantically at him.
 
 ##
 
-Survey Vessel Seven waited at the bottom of Fortuna's nonrotating central shaft launch pad. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter. Next to it were three other shuttles preppinf to head down to the asteroid or out on other missions. 
+Survey Vessel Seven waited at the bottom of Fortuna's nonrotating central shaft launch pad. It was a pressure cabin, a drive, and enough equipment racks to make both difficult to enter. Next to it were three other shuttles prepping to head down to the asteroid or out on other missions. 
 
 Jace waved at a few people he'd met since arriving. He saw the little girl Mira standing in the corner, floating in the zero gravity, just casually staring at him, her hair floating in all directions. He waved but she didn't wave back. His cold was gone and he felt better, though still exhausted from poor sleep. And freaky little witch girls.
 
@@ -117,7 +117,7 @@ Torres ate from a pouch and talked in long, quiet stretches. He had flown survey
 
 "People think we find treasure out here," Torres said. "That's not the job. We prove rocks are worthless. When one disagrees, we check it twice. Every worthless rock saves someone's time later."
 
-At the first target, Jace opened the survey rack, excited.
+At the first target, Jace opened the survey rack, excited at all the future riches.
 
 One hundred and twenty mini-bots launched in four waves. Each unit was smaller than his fist. Some fired penetrators into the surface. Others sampled the ejected plume. A third group mapped density with radar and thermal pulses. Three larger drones coordinated the cloud.
 
@@ -137,13 +137,19 @@ The second target produced... rock.
 
 The third target offered nine minutes of hope, then revealed a scan of nickel.
 
-{SpoX} interrupted before the scans finished. "Thin nickel-rich surface over carbon interior. Result of a collision. Estimated value of four hundred tokens. A crusted liar. Lying liar."
+{SpoX} interrupted before the scans finished. "Thin nickel-rich surface over carbon interior. Result of a collision. Estimated value of a few thousand tokens. A crusted liar. Lying liar."
 
 Jace looked at Torres. Torres looked disconcerted by {SpoX}'s reply. Maybe an AI could go a little stir-crazy too.
 
+They tried it anyway. {SpoX} was right. It took hours, but they only scraped up a small amount of nickel ore using two drones who carried the rocks to a small smelter founted to the back of the shuttle. {SpoX} was quiet until the end, and seemed to inject sullen emotion into it's voice.
+
+"I have notified {Alex} that Origin industries is the proud new owner of 7200 Tokens worth of nickle particulates. Your accounts have been credited 360 Tokens each."
+
+Torres just grunted. Jace fought to hide his elation. That was food money for a month. 
+
 They went through ten more, following a path {SpoX} laid out from science, heuristics, and prayers. Jace recovered most of the drones. They used each one until it was too damaged to function, its sensors froze, or solar and ultraviolet exposure forced them to replace it.
 
-Every target expanded Fortuna's map. Most produced nothing else. Hundreds of scans would eventually build a pattern, and {SpoX} was quietly predicting the best options.
+Every target expanded Fortuna's map. Most produced nothing else. Hundreds of scans would eventually build a pattern, and {SpoX} was quietly predicting the best options. No more minerals were recovered.
 
 If only the rocks were as close as in video games, they'd be rich.
 
