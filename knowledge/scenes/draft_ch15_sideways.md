@@ -129,17 +129,17 @@ Jace replied, "But you're a scientist."
 
 "This is how I know."
 
-Her cabin was wide and orderly. Every object had a place. Scarves hung from hooks in a line of bright color. Paper journals filled a shelf, textured to look like an oak bookcase. A small Christmas image had been fixed above the desk. A large screen showed calculations and maps and pinned notes. A box on screen had a Green box on it, microphone icon blinking.
+Her cabin was wide and orderly. Every object had a place. Scarves hung from hooks in a line of bright color. Paper journals filled a shelf, textured to look like an oak bookcase. A small Christmas image had been fixed above the desk. A large screen showed calculations and maps and pinned notes. A box on the screen was green, its microphone icon blinking.
 
 It felt lived in where his room at the inn felt issued.
 
-"{Misty}"
+"{Misty}."
 
 "Yes, Sophia?"
 
 "Can you start a new protocol? When Jace enters here with me, turn off all monitoring until we leave. Full privacy mode."
 
-{Misty} sounded mischevous, "Whatever you say. Have fun you two." The box on the screen turned red, with the words 'Privacy Mode' showing in English, German, and French.
+{Misty} sounded mischievous: "Whatever you say. Have fun, you two." The box on the screen turned red, with the words 'Privacy Mode' showing in English, German, and French.
 
 Sophia opened a wood-paneled shelf and pulled out a round loaf of fresh dark bread.
 
@@ -149,7 +149,7 @@ Jace tried a slice. She pulled out a tub of butter and some of the cheese she ha
 
 "This is actual bread. It's divine."
 
-"Thank you. Your standards must be slipping"
+"Thank you. Your standards must be slipping."
 
 "I'm used to soup."
 
@@ -157,7 +157,7 @@ Jace tried a slice. She pulled out a tub of butter and some of the cheese she ha
 
 Cerberus sat beneath where she had placed the rest of the loaf, slobbering and drooling over her nice soft wood-tone floors.
 
-Sophia cut and handed him a piece as well, smeared with a bit of cheese. Then she scratched his neck with both hands.
+Sophia cut him a piece and handed it over, smeared with a bit of cheese. Then she scratched his neck with both hands.
 
 "He looks like he's turning in his notice and defecting to the *Victoria*."
 
@@ -167,11 +167,11 @@ Sophia cut and handed him a piece as well, smeared with a bit of cheese. Then sh
 
 "He's wonderful."
 
-Cerberus finished eating, then saw they were both watching him. Show time. He twirled trying to nip at his tail. He fell over in the low gravity onto her foot, legs up in the air. His expressive face raised his cheek muscles, a giant puppy smile marred only by a lolling tongue getting in the way. Sophia laughed into his neck. Cerberus sneezed, jumped up, spun once, and curled into a ball, watching them unguardedly.
+Cerberus finished eating, then saw they were both watching him. Showtime. He twirled, trying to nip at his tail. He fell over in the low gravity onto her foot, legs up in the air. His expressive face raised his cheek muscles, a giant puppy smile marred only by a lolling tongue getting in the way. Sophia laughed into his neck. Cerberus sneezed, jumped up, spun once, and curled into a ball, watching them unguardedly.
 
 The tension left Sophia's shoulders.
 
-Jace understood the dog had accomplished in twenty seconds what a glass of wine and an hour of conversation had not. In a flash of rare insight, Jace realized she must have been worried that he wouldn't help. Or that he'd be weird when alone in her quarters. Despite his size, or because of the two men outside, she must have concluded he was non-threatening enough to work with.
+Jace understood that the dog had accomplished in twenty seconds what a glass of wine and an hour of conversation had not. In a flash of rare insight, Jace realized she must have been worried that he wouldn't help. Or that he'd be weird when alone in her quarters. Despite his size, or because of the two men outside, she must have concluded he was non-threatening enough to work with.
 
 Sophia stood, taking on a professorial tone.
 
@@ -191,7 +191,7 @@ Sophia opened a fresh notebook page and wrote a large number at the top.
 
 ##
 
-Sophia went first and took fifteen minutes until she disappeared.
+Sophia went first and took fifteen minutes to disappear.
 
 It took Jace and Cerberus more than twenty minutes. He had to relax, almost meditate, and ignore the breathing woman next to him.
 
@@ -211,7 +211,7 @@ His mask thermometer stabilized near minus twenty Celsius.
 
 "I wore two layers."
 
-She had reassembled her pen, and wrote something on the checklist, "Next time lets try three."
+She had reassembled her pen and wrote something on the checklist. "Next time, let's try three."
 
 They explored her ship first. Her room on the *Victoria* looked almost completely different. Her shelves here were covered in bottles, beakers, notebooks, and other things. Trash was kept in a box, presumably as wrappers and packaging took time to move across the barrier.
 
@@ -227,23 +227,23 @@ He pulled, and she counted. It felt as though the outer plastic shell came easil
 
 "Fifteen minutes and a few seconds."
 
-He was already sweating despite the cold. She wrote down the numbers, then pushed beeping buttons. Everything seemed to work as normal.
+He was already sweating despite the cold. She wrote down the numbers, then pushed beeping buttons. Everything seemed to work normally.
 
 Sophia was giddy with excitement. "But now we can time it more accurately!"
 
-He smiled at her enthusiasm. That beeping might get old quick. He resolved to print a new timer with a smaller screen and no beep. Origin was sure to have different schematics.
+He smiled at her enthusiasm. That beeping might get old quickly. He resolved to print a new timer with a smaller screen and no beep. Origin was sure to have different schematics.
 
 "The floor feels solid. Or at least, the lower layer which is graphite. The steel above it lets me easily sink a finger through it."
 
 "The floor is solid until it does not. My foot almost fell through once. I don't let myself think that way anymore."
 
-"I see your friends outside, glowing. But what is over there? Your ship's reactor is bright, and those than the water tanks. But the thing behind the aft lab is brighter than the reactor. Way brighter."
+"I see your friends outside, glowing. But what is over there? Your ship's reactor is bright, and so are the water tanks. But the thing behind the aft lab is brighter than the reactor. Way brighter."
 
 "{Misty}'s processor stack," Sophia said.
 
 They walked through walls to look at things. Cerberus didn't like that, and had to be carried, whining.
 
-The reactor shone white-gold through twenty meters of folded ship. Behind it, a compact tower burned like a lantern set in ice. They approached and saw thousands of tiny brown-gold bubbles formed around it like sea foam, folding into geometric chains, and vanishing before he could follow one chain fully. It was ethereally beautiful. He felt an urge to scoop up the bubbles and see how they tasted.
+The reactor shone white-gold through twenty meters of folded ship. Behind it, a compact tower burned like a lantern set in ice. They approached and saw thousands of tiny brown-gold bubbles formed around it like sea foam, folding into geometric chains and vanishing before he could follow one chain fully. It was ethereally beautiful. He felt an urge to scoop up the bubbles and see how they tasted.
 
 "Complexity may matter. Energy may matter. Both may matter. I need more measurements. We need a way to measure distance. And these bubbles."
 
@@ -261,7 +261,7 @@ Sophia leaned close to the table.
 
 Jace placed his palm where the physical surface appeared. Something trembled at the edge of perception, too faint for rhythm.
 
-Brandon reached for a cup. His hand passed through Jace's arm. Jace could see both the cup, and the liquid. And what looked like glowing fractals in Brandon's head.
+Brandon reached for a cup. His hand passed through Jace's arm. Jace could see both the cup and the liquid. And what looked like glowing fractals in Brandon's head.
 
 Neither man reacted.
 
@@ -279,7 +279,7 @@ Jace stepped back.
 
 "No. Ethics remain a problem."
 
-They stayed aboard the *Victoria*. They pulled across more equipment, she timed everything, measured everything. Quick math was that he could pull things four times faster than her, and working together helped. It was close, physical, difficult work and they both revelled in the discovery and novelty and science. 
+They stayed aboard the *Victoria*. They pulled across more equipment while she timed and measured everything. A quick calculation showed that he could pull things four times faster than she could, and working together helped. It was close, physical, difficult work, and they both reveled in the discovery, novelty, and science.
 
 They looked at bubbling vats of grape juice and yeast in a rear temperature-controlled closet. Thermometers, humidity gauges, and glassware surrounded the vats, barely visible as multidimensional outlines. The yeast was bright inside the vats. It would make a lot of wine. Sophia told him that the farm on Ring Two had grape vines that were technically owned by the ESA and had been growing for decades, so any ESA ship that asked received a monthly allocation of grape juice.
 
@@ -301,11 +301,11 @@ The cabin snapped into three dimensions. Warmth touched Jace's face. His stomach
 
 Sophia wrote until her hand cramped.
 
-Jace slept nine hours that night, the happiest deepest sleep he had in months.
+Jace slept nine hours that night, the happiest deepest sleep he had had in months.
 
 ##
 
-They agreed to keep exploring, jobs permitting. Sophia was on a physics voyage sponsored years ago. They were supposed to leave for Odysseus station, but with it going dark they were staying on Fortuna. She was free to do anything she wanted as long as papers were published and science was done. Oh, and science was getting done. It was his job that was getting in the way.
+They agreed to keep exploring, jobs permitting. Sophia was on a physics voyage sponsored years ago. They were supposed to leave for Odysseus Station, but with it going dark they were staying on Fortuna. She was free to do anything she wanted as long as papers were published and science was done. Oh, and science was getting done. It was his job that was getting in the way.
 
 They could do one crossing each day. No accidental nights. No skipped sleep. No crossing before work. Every session began on the *Victoria*. Every session ended there. She wanted more, but also knew not to rush things. She could see how tired he was, and she felt the mental weariness herself. Small migraines, deep aches in her bones.
 
@@ -315,7 +315,7 @@ Sophia added another rule.
 
 On the second day, she handed Jace another loaf of warm bread with goat cheese. He had already finished the first.
 
-"This is not a rule," he said. He was embarassed to discsuss his finances with her. 
+"This is not a rule," he said. He was embarrassed to discuss his finances with her.
 
 "Your face has looked dead since Mars. Eat."
 
@@ -325,17 +325,17 @@ Crossing 43 took Jace eighteen minutes. When the *Victoria* unfolded, his shirt 
 
 "Before you got here, I saw... a line of light between you and Cerberus."
 
-Jace looked up. They had taken to lying down on her bed when crossing, as comfort mattered. Cerberus wagged his tail. Jace had made him a warm doggie snow coat and little boots to keep his feet warm.
+Jace looked up. They had taken to lying down on her bed when crossing, because comfort mattered. Cerberus wagged his tail. Jace had made him a warm doggie snow coat and little boots to keep his feet warm.
 
 "It was like an umbilical cord. Not exactly straight, but a faint shimmer. Like the color of your thoughts when you are happy."
 
 Jace reached out. He couldn't see or feel anything.
 
-"I don't see it now. It was only when you were in the normal and I was in the Never Never. From your chest towards his." 
+"I don't see it now. It was only when you were in the normal and I was in the Never-Never. From your chest toward his."
 
 They moved out of her ship and tested distance aboard Fortuna where there was more room. Having her ship affixed to the Fortuna ring was... weird. Just having a door from the main corridor by a park that took you into a private ship was actually not as weird as moving through dimensions, but still took some thinking about.
 
-They walked down the corridor on two, toward the park. The glowing oak tree in the distance was a great landmark you could orient around from most of the station. A pump room behind a wall was twenty steps away and eight steps away through a direction Sophia called inward. He was getting better at seeing through walls, his brain parsing the inside and outside at the same time.
+They walked down the corridor on Two, toward the park. The glowing oak tree in the distance was a great landmark you could orient around from most of the station. A pump room behind a wall was twenty steps away and eight steps away through a direction Sophia called inward. He was getting better at seeing through walls, his brain parsing the inside and outside at the same time.
 
 Jace stood by a wall near someone's apartment and tried moving "inward."
 
@@ -383,7 +383,7 @@ The pig crossed faster than anything except the dog.
 
 Sophia wrote that down.
 
-They were slowly building a lab in her "other room". Jace didn't like calling it her "Never Never lab" but always smiled at the name. He printed over a hundred tools and sensors and components, only half of which crossed over well. His HUD still never worked.
+They were slowly building a lab in her "other room". Jace didn't like calling it her "Never-Never lab" but always smiled at the name. He printed over a hundred tools and sensors and components, only half of which crossed over well. His HUD still never worked.
 
 ##
 
@@ -405,7 +405,7 @@ Jace looked at what she wrote.
 
 "It has worked for forty-four crossings."
 
-"How about something simpler? 'Shadow'? 'Nether'? 'Upside-down'?, 'Astral Space'? Old books and games used those for places beside the ordinary world. Two syllables is ideal."
+"How about something simpler? 'Shadow'? 'Nether'? 'Upside-down'? 'Astral Space'? Old books and games used those for places beside the ordinary world. Two syllables is ideal."
 
 "You want to rename the most important discovery in history because the old name takes too long to say?"
 
@@ -443,15 +443,15 @@ The fifth day was moving day. Jace rested well and skipped out on his forge and 
 
 They carried over reams of paper, cloth, hand tools, two lamps that should have worked on small batteries, one lamp that did, sample containers, a folding stool, and a simple aluminum frame. If something didn't work once in the astral, he would take it apart to reuse components. She measured everything. Time, temperatures, distances, sounds.
 
-Sophia arranged the objects in the 'other lab'. Jace tried to optimize to every arrangement. Cerberus moved the cloth markers. The stuffed pig became their mascot.
+Sophia arranged the objects in the 'other lab'. Jace tried to optimize each arrangement. Cerberus moved the cloth markers. The stuffed pig became their mascot.
 
 By the end of the grueling session, they had a workbench, storage, tools, chairs, a dog bed, and a list of forty-three planned experiments.
 
-They also had finalized on the name.
+They also had finalized the name.
 
 The Astral.
 
-Jace stood, panting, outside the *Victoria's* physical hull on the short ramp connected to the station. Fortuna shone around them. Through the floor, the asteroid curved below in more directions than a sphere required, it felt like it looked closer that it should be. Stars flickered through blue distance. It felt considerably colder out here. He had never felt so bone-weary in his life.
+Jace stood, panting, outside the *Victoria's* physical hull on the short ramp connected to the station. Fortuna shone around them. Through the floor, the asteroid curved below in more directions than a sphere required, it felt like it looked closer than it should be. Stars flickered through blue distance. It felt considerably colder out here. He had never felt so bone-weary in his life.
 
 Sophia came out, warming her hands. She looked at him. "Your sweat is freezing to ice."
 
@@ -463,11 +463,11 @@ She ran through the wall, came out holding the thermometer.
 
 "It's colder out here. Negative nineteen degrees. It's warmer inside the ship. Let's go back inside."
 
-Jace just nodded, too tired to ponder through the meaning of this.
+Jace just nodded, too tired to ponder the meaning of this.
 
 "Tomorrow," she said, "we move a camera."
 
-"Tomorrow we move half a camera. A very small camera. Cameras are very complex. If only these ones in my head worked..." 
+"Tomorrow we move half a camera. A very small camera. Cameras are very complex. If only the ones in my head worked..."
 
 He kept wondering why he could transfer his body that contained a HUD and eight cameras so much faster than the same type of parts that were outside his body. They were missing something fundamental about how the Astral worked.
 

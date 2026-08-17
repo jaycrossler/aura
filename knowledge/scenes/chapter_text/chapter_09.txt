@@ -28,7 +28,7 @@ The headline did not.
 
 SUSPECTED CHINESE SABOTAGE DISRUPTS BELT SUPPLY LINE.
 
-The Chinese-language summary used different wording. Seek helpfully translated it as "Heroes of China gave life for the people", but his HUD translator said something much darker. A group of Chinese barn-workers near the screen left together. An American shift crew watched them go.
+The Chinese-language summary used different wording. Seek helpfully translated it as "Heroes of China gave life for the people," but his HUD translator said something much darker. A group of Chinese barn workers near the screen left together. An American shift crew watched them go.
 
 The runners passed Helena's memorial on every lap.
 
@@ -122,7 +122,7 @@ Jace kept his face still. She had been watching. Base security. Of course.
 
 "Should we be talking about this here?"
 
-She pointed at a sign that read "Privacy zone." in three languages.
+She pointed at a sign that read "Privacy zone" in three languages.
 
 "Belters don't break rules."
 
@@ -152,7 +152,7 @@ Jace ran through possibilities in his head.
 
 "Normal until it was not occupied. No transition."
 
-"Then its something impossible with known technology."
+"Then it's something impossible with known technology."
 
 "That is the problem."
 
@@ -166,7 +166,7 @@ Suzi's voice stayed level. Her grief did not. Anger flared in her eyes.
 
 "No. Wait, you think the Chinese put something on people's ships? There were no explosions, right?"
 
-"They make most of the robots in the belt. Robots can cause damage without explosions. They have military camouflage systems, so might not even be detectable. Who knows?"
+"They make most of the robots in the belt. Robots can cause damage without explosions. They have military camouflage systems, so they might not even be detectable. Who knows?"
 
 Jace paused. That hit too close to home.
 
@@ -192,11 +192,11 @@ Her bracelet replied in Mandarin. Jace's translator rendered it as: Delay record
 
 "The reason is that I am eating."
 
-Statement recorded. Reason field remains incomplete. You are fined one token for ineficiency.
+Statement recorded. Reason field remains incomplete. You are fined one token for inefficiency.
 
 The sound carried. Warm. Brief. Ordinary. Jace felt the man's pain.
 
-Mei sat two tables away from them with another young Chinese man. They ate without appearing to watch, but when Jace looked she looked sharply at him, seeming to send him a message using only glares.
+Mei sat two tables away from them with another young Chinese man. They ate without appearing to watch, but when Jace looked, she looked sharply at him, seeming to send him a message using only glares.
 
 "Why tell me?" Jace asked, turning back to Suzi.
 
@@ -214,7 +214,7 @@ Mei sat two tables away from them with another young Chinese man. They ate witho
 
 "Because Origin closed the case as presumed accidental loss after twelve days. And China funds many Origin projects."
 
-"Odysseus Station was AlphaCorp and European run, not Origin or Chinese."
+"Odysseus Station was AlphaCorp- and European-run, not Origin or Chinese."
 
 "You see my problem."
 
@@ -224,7 +224,7 @@ Jace thought of the duck feather. He thought of a camera showing an empty condui
 
 "That is the whole job. The chance to help right a wrong. What else could I offer?"
 
-He debated telling Suzi about his financial issues, but the truth was he was just embarassed. Probably everyone on the station was some variant of millionaire. He was just trying to get out of debt. Should he ask her for something? Food? Pay? He didn't want pity from her or anyone else. He stayed silent.
+He debated telling Suzi about his financial issues, but the truth was he was just embarrassed. Probably everyone on the station was some variant of millionaire. He was just trying to get out of debt. Should he ask her for something? Food? Pay? He didn't want pity from her or anyone else. He stayed silent.
 
 At the next table, a Filipino miner sat down and spoke over a bowl of noodles.
 
@@ -240,13 +240,13 @@ She stood, looking tired. She was focusing on her wristcomp.
 
 "I thought you had thousands of cameras all over the station."
 
-She sighed, rolling down her black sleeves to indicate she was on duty. "That still doesn't give us full coverage. And, we have privacy zones. And many of the A.I. don't share feeds or block them for inscrutible reasons. Seek won't ever share anything in Chinatown or if a Chinese citizen is nearby. Very frustrating."
+She sighed, rolling down her black sleeves to indicate she was on duty. "That still doesn't give us full coverage. And we have privacy zones. And many of the AIs don't share feeds or block them for inscrutable reasons. Seek won't ever share anything in Chinatown or if a Chinese citizen is nearby. Very frustrating."
 
 She left already typing notes on her wrist.
 
 Jace sat with his untouched soup.
 
-Across the room still sitting with Hayes, Jin cocked his head as if listening to something. He abruptly stopped laughing. His head turned toward Jace, not quickly, not enough to count as a reaction.
+Across the room, still sitting with Hayes, Jin cocked his head as if listening to something. He abruptly stopped laughing. His head turned toward Jace, not quickly, not enough to count as a reaction.
 
 Then he looked away.
 
@@ -254,7 +254,7 @@ Then he looked away.
 
 That night, Jace dreamed of the missing girl he'd never met. He had a cold and had started coughing and sneezing, which made wearing the sleep mask quite awkward. He left it around his neck to follow protocols, but a stuffed nose wouldn't let the pressurized air in. He had quickly stopped by the forge to print himself a trash bin for an accumulating pile of tissues.
 
-In the dream, Helena floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt light he was suffocating.
+In the dream, Helena floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt like he was suffocating.
 
 When Jace reached for her, she opened her eyes.
 
@@ -262,6 +262,6 @@ Something moved behind them.
 
 Jace woke before he touched her.
 
-Cerberus stood at the foot of the bunk, facing Jace, hackles raised. Staring at him with what looked like suspicion.
+Cerberus stood at the foot of the bunk, facing Jace with his hackles raised and staring at him with what looked like suspicion.
 
 The dog gave one low growl before going back to sleep.

@@ -26,7 +26,7 @@ cross_references:
 
 Helena Reyes woke before the lights did, the way she had every morning of her life, in the only home she had ever known. After freshening up, she switched on her stream, lazily waving to the thousands of followers she had online. Some were on station, most were scattered across the solar system and wouldn't watch until hours or days later.
 
-She was twenty-six years old, and Fortuna Station had been exactly one year older than her for all of them. Her parents had come out with the second wave, when the station was three modules and a prayer, and she'd been born in a medical pod that was now the seed library. She had watched the rings go up. She'd been small enough, once, to fit inside the maze of ventilation shafts while they were still stacked in the loading bay on One, and she had grown up knowing more robots than people. Though, on the web, she had millions of followers. She'd been the first baby born on a station this far from the sun, a novelty item to a hundred systems' worth of newsfeeds before she could walk, and the fame had simply never worn off.
+She was twenty-six years old, and Fortuna Station had been exactly one year older than her for all of them. Her parents had come out with the second wave, when the station was three modules and a prayer, and she'd been born in a medical pod that was now the seed library. She had watched the rings go up. She'd been small enough, once, to fit inside the maze of ventilation shafts while they were still stacked in the loading bay on One, and she had grown up knowing more robots than people. On the web, though, she had millions of followers. She'd been the first baby born on a station this far from the sun, a novelty item to a hundred systems' worth of newsfeeds before she could walk, and the fame had simply never worn off.
 
 <!-- beat:helena_prologue.beat1_morning_rounds -->
 Her rounds took her spinward, because in the rotating gravity of the station it just felt better to walk into the spin. She waved to at least 20 other good friends and neighbors along the way, skipping along with the loping steps common of those born on Mars or on stations.
@@ -45,7 +45,7 @@ In the Barn, she topped off a water line, scratched a goat that headbutted her w
 
 Everyone had been watching the channel. A few of her viewers sent buzzes and likes indicating that they were _also_ watching the pig channel, which pulsed as warm icons on the edge of her contact lenses.
 
-"I had similar dogs when I was a girl on Earth. They were Pugs." Sai said in her station mix of English and Chinese.
+"I had similar dogs when I was a girl on Earth. They were pugs," Sai said in her station mix of English and Chinese.
 
 "What's a pug?"
 
@@ -77,7 +77,7 @@ Sophia Lotte turned thirty today, and the party at the inn was going to be the b
 
 The other was to finally dance with Jin.
 
-Jin Lóng. Tall (to her) and powerfully compact. A great body for yoga. And other things...  Jin, who said maybe forty words a week and made every one of them count, whom she had been orbiting at a careful, cowardly distance for the better part of a year. Tonight she was done orbiting. She'd decided during the class, somewhere in all that warmth: life was good, and short, and she was going to walk up to that serious, compact man and make him laugh if it took her all night.
+Jin Lóng. Tall (to her) and powerfully compact. A great body for yoga. And other things... Jin, who said maybe forty words a week and made every one of them count, whom she had been orbiting at a careful, cowardly distance for the better part of a year. Tonight she was done orbiting. She'd decided during the class, somewhere in all that warmth: life was good, and short, and she was going to walk up to that serious, compact man and make him laugh if it took her all night.
 
 ##
 

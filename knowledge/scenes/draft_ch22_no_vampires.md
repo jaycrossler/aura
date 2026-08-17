@@ -1,14 +1,14 @@
 ---
-id: draft_ch19_no_vampires
-name: "Chapter 19. No Vampires"
+id: draft_ch22_no_vampires
+name: "Chapter 22. No Vampires"
 type: chapter_draft
 book: book01
-chapter: Ch19
+chapter: Ch22
 scene_contract: X-02 revised + P-01b follow-on
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-14
+last_updated: 2026-08-17
 description: >
   A consent-limited clinic experiment reveals human Will, passive healing, and
   the geometric light of Jace's new Aura before an old intact-suit injury leads
@@ -25,10 +25,10 @@ cross_references:
   - "[[spec_astral_phenomenology]]"
   - "[[spec_crossing_mechanics]]"
   - "[[draft_ch09_first_week]]"
-  - "[[draft_ch18_quiet_companion]]"
+  - "[[draft_ch21_quiet_companion]]"
 ---
 
-# Chapter 19. No Vampires
+# Chapter 22. No Vampires
 
 > *Most people do not know this, but the first rule of discovering a new form of energy is not “measure it.” The first rule is “agree not to steal it from anybody.” Then measure it.*
 >

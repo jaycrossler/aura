@@ -27,7 +27,7 @@ supersedes:
 
 # Chapter 2. Going a little crazy
 
-> *Most people do not know this, but space is all about logistics and planning.  He who controls the printers controls the goods. She who controls the goods controls the workforce. Step three... profit. I probably should have majored in business, not engineering.*
+> *Most people do not know this, but space is all about logistics and planning. He who controls the printers controls the goods. She who controls the goods controls the workforce. Step three... profit. I probably should have majored in business, not engineering.*
 
 <!-- beat:t_forge_no_more_voices.beat1_forge_and_voices -->
 The machine shop smelled like warm polymer and burnt ambition.
@@ -102,7 +102,7 @@ The cutter stopped.
 
 Maureen looked at him the way she looked at a pressure reading that had moved without authorization.
 
-"I carry {Alex} when Origin sends contractors. I load {Seek} when the Chinese hire the ship. AlphaCorp makes me carry {Gem}, and {Gem} spends the whole voyage offering improvements to services AlphaCorp owns. Every contract brings another voice that wants access, telemetry, and a fee." She restarted the cutter. "I want less voices around me, not more."
+"I carry {Alex} when Origin sends contractors. I load {Seek} when the Chinese hire the ship. AlphaCorp makes me carry {Gem}, and {Gem} spends the whole voyage offering improvements to services AlphaCorp owns. Every contract brings another voice that wants access, telemetry, and a fee." She restarted the cutter. "I want fewer voices around me, not more."
 
 The ceiling speaker said, "Fabrication job three requires material confirmation."
 
@@ -140,7 +140,7 @@ He expanded the account routing. Plates had been ordered each of the last 100 da
 
 Jace printed the plate. He said nothing further, mostly because there was nothing further to say that would not also apply to the fan he'd just had Patrick smuggle onto the same queue.
 
-Jace could have pointed out that he eighty plates could fit on this print bed snuggly, and the saved job time would make the costs negligible. He wisely did not. Maureen left carrying her twenty-one-token plate. A massive amount of printer capacity paid for by Origin was going unused. He looked at all the well-kept machines around the room and just thought of the wasted potential. An idea was forming.
+Jace could have pointed out that eighty plates could fit snugly on this print bed, and the saved job time would make the costs negligible. He wisely did not. Maureen left carrying her twenty-one-token plate. A massive amount of printer capacity paid for by Origin was going unused. He looked at all the well-kept machines around the room and just thought of the wasted potential. An idea was forming.
 
 "I think she likes me," Jace told Cerberus.
 
@@ -149,7 +149,7 @@ Cerberus snored.
 ##
 
 <!-- beat:t_forge_no_more_voices.beat2_automation_and_sparky -->
-His thumb found a hairline fracture Maureen's diagnostic drone missed. Thing One was flying exterior in cold space, well clear of the hull along ring segment twelve, and inspected the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone up from negative 270 degrees took hours, and it was better to let it finish the whole exterior circuit while it was already cold-soaked and park it outside.
+His thumb found a hairline fracture Maureen's diagnostic drone missed. Thing One was flying outside in cold space, well clear of the hull along ring segment twelve, and was inspecting the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone up from negative 270 degrees took hours, and it was better to let it finish the whole exterior circuit while it was already cold-soaked and park it outside.
 
 Thing Two, meanwhile, spent the same stretch working its way down the interior ring corridor, clearing lint screens and wall scuffs near the forge, the unglamorous, indoor half of the same maintenance sweep, logged under a different queue and, Jace had noticed, never once acknowledged by anyone who wasn't him.
 
@@ -161,7 +161,7 @@ His headache returned each morning and cooled by breakfast. Lanchee had scanned 
 
 "Could it be something with all the irradiated food?"
 
-"No, all of our food packaged on Mars doesn't 'absorb' radiation. It just passes through the food to kill bacterium."
+"No, food packaged on Mars doesn't 'absorb' radiation. Radiation passes through the food to kill bacteria."
 
 Jace raised his eyes. Lanchee was a font of knowledge. She never used implants or even seemed to glance at screens. She just had a phenomenal memory.
 
@@ -181,7 +181,7 @@ Calling it a drone would have flattered it. The tray held a sensor board that wo
 
 That named the project.
 
-Sparky was not a machine yet. It was a direction. A compact body with swappable panels, local controls, and no corporate firmware deciding which ideas were permitted. Someday it might carry the open A.I. stack Nick kept talking about from Fortuna. An intelligence he could choose, running in a body he could repair.  
+Sparky was not a machine yet. It was a direction. A compact body with swappable panels, local controls, and no corporate firmware deciding which ideas were permitted. Someday it might carry the open A.I. stack Nick kept talking about from Fortuna. An intelligence he could choose, running in a body he could repair.
 
 Cerberus slept beneath the bench while Jace rebuilt the scorched power bus. The puppy had doubled in mass since departure and still believed his body would fit wherever his head entered.
 
@@ -191,11 +191,11 @@ On good days Sparky could roll around without crashing into things. Every time h
 
 Jace thought. Other than the pay, the second-best thing about working at Origin was the product library, millions of blueprints and printer files for almost anything you could imagine. If someone had ordered it printed in the last hundred years, Origin probably had the blueprints. Even military-spec hardware. He scrolled through designs. Some required printers. Some needed wire winders. Some needed circuit-board pick-and-place machines. The more complex ones required a screw-bot that could fasten components with pinpoint accuracy. Maureen conveniently had one of each.
 
-He selected the most complex space-rated thrust module that could fit within the unused print queues and set a task to print one every time unused capacity was available.  Might as well put these fabricators to use.
+He selected the most complex space-rated thrust module that could fit within the unused print queues and set a task to print one every time unused capacity was available. Might as well put these fabricators to use.
 
 ##
 
-For the evening game he stayed using the HUD. Physical controls would not rebuild the control pathways the military wipe had taken from him.
+For the evening game, he continued using the HUD. Physical controls would not rebuild the control pathways the military wipe had taken from him.
 
 Nick noticed the change in his game commands during the next match.
 
@@ -207,18 +207,18 @@ Nick noticed the change in his game commands during the next match.
 
 *And spite. How large is the arena?* Jace asked.
 
-*You'll see. I finished building the custom mech for you to pilot.*  It was about half the height of the other mechs on board.
+*You'll see. I finished building the custom mech for you to pilot.* It was about half the height of the other mechs on board.
 
 Nick won. Nick always won. Jace kept two units coordinated cleanly and brought the third under control long enough to land one useful shot. Frustration warmed the back of his neck, but he could see small improvements.
 
 ##
 
 <!-- beat:t_forge_no_more_voices.beat3_night_recurrence -->
-That night he lay in his bunk with Cerberus between his knees and breathing masks snug over each of their faces. Water moved through the walls. Somewhere down the ring, a pig struck a panel three times with patient, experimental force. Like they were prisoners inventing their own code to break out of jail.
+That night he lay in his bunk with Cerberus between his knees and breathing masks snug over each of their faces. Water moved through the walls. Somewhere down the ring, a pig struck a panel three times with patient, experimental force, like the animals were prisoners inventing their own code to break out of jail.
 
 The *Falcon* had no ship A.I. It had a captain who could turn a dinner plate into cash, a shop slowly turning filament into engines, an engine turning argon fuel into thrust, and fifty-four animals conducting unauthorized research. Jace agreed with her that he wanted no more voices in his head.
 
-Jace closed his eyes. He might be going a little bit crazy. It would not be the first time. 
+Jace closed his eyes. He might be going a little bit crazy. It would not be the first time.
 
 He remembered the five months in the *Pinta's* crowded berths from Earth to Mars, spent recovering from HUD surgery while a hundred and fifty strangers learned to live on top of each other. He remembered the exact flavor of that particular mental unraveling, the way sound had started arriving half a beat early. He had come out the other side of that fine. He assumed this was the same shape of thing, wearing a different ship.
 

@@ -18,9 +18,11 @@ Chinatown was colorful, though very private. All the walls in that part of Two h
 
 Most of the animal pods that the Falcon had delivered were anchored on One, so he'd stop by and visit and help feed them. They loved seeing him and Cerberus, and would crowd forward any time he entered the pods. The pigs were down in the main Barn on Two. The different neighborhoods were his favorite part of Fortuna. One was older, more refined. Fewer pods and more permanent housing that had sprung up over the decades. More stones cut into paths, more greenery artfully placed around doors and seals. Bots were everywhere, cleaning filters, tending grass, polishing and cleaning and carrying things for the retirees and more distinguished station residents. The school was up on One close to his inn and the forge and Drone Ops, and he smiled at the gaggle of kids and teens everytime he saw them.
 
-Two had the Barn, the Farm, Chinatown, and fifty other pods and rooms and stores. It felt newer. More restraunts, more nightlife, more of a younger vibe. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, plugged in with two other doctors and a handful of nurses supporting all the small wounds and scratches and accidents that mining and construction crews accumulated.
+Two had the Barn, the Farm, Chinatown, and fifty other pods and rooms and stores. Most of the Chinese citizens lifed in Chinatown, everyone else was scattered all over the station. It felt newer. More restraunts, more nightlife, more of a younger vibe. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, plugged in with two other doctors and a handful of nurses supporting all the small wounds and scratches and accidents that mining and construction crews accumulated.
 
-Three was less crowded. More maintenance rooms, more smaller workshops, more storage. Lots of space for future residents. Jace had heard that the new US government had ordered large expansion of the station, though all the gossip was that not enough residents were moving out to the belt. His count was they could probably fit another two hundred people comfortably on Fortuna with the current resources, so it seemed a poor use of resources to keep expanding until funds were secured. But of course he was biased against the new government so kept his opinion to himself.
+Three was less crowded. More maintenance rooms, more smaller workshops, more storage. Lots of space for future residents. People there were minimized until all safety checks were tripple-complete, and that would take a few more months of construction. Jace had heard that the new US government had ordered large expansion of the station, though all the gossip was that not enough residents were moving out to the belt.
+
+His count was that Fortuna station could probably fit another two hundred people comfortably with the current resources, so it seemed a poor use of all those construction crews to keep expanding until people were secured, rather than building factories. No ships full of colonists were en route, though a few were apparently being discussed from Earth and Mars. The rumros of problems at Odysseus and other ship problems were souring things, and the administartion was not helping by accusing everyone of sabotage. But of course he was biased against the new government party so kept his opinions to himself.
 
 Kim gave Jace a console after his thousandth successful package delivery.
 
@@ -104,7 +106,7 @@ Kim returned to her station.
 
 Jace used the drone's manipulator to re-seat the case. D-14 entered Ring Two minutes later.
 
-He felt good about the fix for nearly an hour. If Kim raised him up, the bump in salary would put some spending money in his pocket.
+He felt good about the fix for nearly an hour. If Kim promoted him, the bump in salary would put some spending money in his pocket.
 
 At shift end, when bending over to pet Cerberus, he heard his name through the equipment rack.
 
@@ -132,7 +134,7 @@ He walked the long route to the Barn.
 
 Cerberus kept one shoulder against his calf, sensing his unhappiness.
 
-Nick found them near the noodle counter.
+Nick found them near the noodle bar. The girl Mira had been standing across the hallway, staring at him. She had dissapeared and Jace walked over when Cerberus kept growling. there was a small doll on the ground that looked like a dog, missing a head. Cute, until Jace realized that it was made out of some suishy slime-like material and was covered in thick red liquid. He sniffed it and recoiled at the heavy iron smell. Was that blood? He threw it in a waste receptagle and washed his hands.
 
 "I heard Kim called you ordinary."
 
@@ -144,7 +146,7 @@ Nick found them near the noodle counter.
 
 Nick pushed a bowl toward him. Real noodles, not gray soup. Jace did not ask who paid.
 
-"Kim called Carlos mediocre for two years," Nick said. "Carlos can make two hundred drones look like a hivemind."
+"Kim called Carlos mediocre for two years," Nick said. "Carlos can make two hundred drones look like a hive mind."
 
 "She was right about me."
 
@@ -154,7 +156,7 @@ Jace ate.
 
 "Six months," Nick said. "Be boring and good for six months. Boring and good beats famous out here."
 
-"That sounded almost wise." Jace just though about eating thin soup for six months.
+"That sounded almost wise." Jace just thought about eating thin soup for six months.
 
 "I save my wisdom for a crisis."
 
@@ -166,17 +168,17 @@ Nick's hands stopped moving. The change drew more attention than any warning ton
 
 Nick leaned closer, checking they were still in a privacy zone.
 
-"You are new. You have an American military record, Origin access, and have been hanging out with a very paranoid head of security that drinks and talks too loud. If something breaks, somebody will decide you were near it. Keep records cleaner than you think you need."
+"You are new. You have an American military record, Origin access, and have been hanging out with a very paranoid head of security who drinks and talks too loud. If something breaks, somebody will decide you were near it. Keep records cleaner than you think you need."
 
 "You expect sabotage?"
 
 "I expect frightened people to think accidents are something worse."
 
-Nick paid for their Ramen noodles. Jace felt bad that Nick always picked up the bill, but his station payment account had actually been disabled earlier in the day for insufficient funds. He was too embarassed to tell his friend, but Nick was pretty empathic and had definately picked up on something.
+Nick paid for their ramen noodles. Jace felt bad that Nick always picked up the bill, but his station payment account had actually been disabled earlier in the day for insufficient funds. He was too embarrassed to tell his friend, but Nick was pretty empathic and had definitely picked up on something.
 
 
 
-Jace opened D-14's route history. Suzi had sent him a list of suspicious activity and we was looking through the logs.
+Jace opened D-14's route history. Suzi had sent him a list of suspicious activity and he was looking through the logs.
 
 The drone had passed a junction near the Chinese leasehold at 1041. It had used the correct public corridor. Six minutes later, the sensor alert appeared.
 

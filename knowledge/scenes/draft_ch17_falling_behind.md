@@ -1,12 +1,41 @@
-Chapter 17. Falling Behind
+---
+id: draft_ch17_falling_behind
+name: "Chapter 17. Falling Behind"
+type: chapter_draft
+book: book01
+chapter: Ch17
+scene_contract: X-01 rescue, X-01a force reveal, P-pressure escalation
+pov: char_jace_apollo
+status: staged_draft
+schema_version: 2
+last_updated: 2026-08-17
+description: >
+  Kim orders Jace to stay home while Drone Ops repairs his automation failures.
+  He discovers Sophia stranded behind Fortuna in the Astral, sends Sparky after
+  her with oxygen, and learns that both motion and Sophia's abilities obey rules
+  neither of them understood.
+cross_references:
+  - "[[arc_01_thread_X_astral]]"
+  - "[[arc_01_thread_P_pressure]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_sophia_lotte]]"
+  - "[[char_cerberus]]"
+  - "[[char_kim]]"
+  - "[[ship_victoria]]"
+  - "[[spec_crossing_mechanics]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[draft_ch16_ten_good_days]]"
+---
 
-Most people do not know this, but you can fall off a space station without moving down. Down is optional. Momentum is not.
+# Chapter 17. Falling Behind
 
-Jace Grant, unpublished notes
+> *Most people do not know this, but you can fall off a space station without moving down. Down is optional. Momentum is not.*
+>
+> Jace Grant, *unpublished notes*
 
 Kim's message arrived at 0543.
 
-Do not report to Drone Ops today. Carlos and I are rolling back your routing model and checking every unit it touched. Stay home. Do not send a patch. Do not help remotely. We will talk tomorrow.
+*Do not report to Drone Ops today. Carlos and I are rolling back your routing model and checking every unit it touched. Stay home. Do not send a patch. Do not help remotely. We will talk tomorrow.*
 
 Jace read it three times while Cerberus watched from the foot of the bed.
 
@@ -22,7 +51,7 @@ Jace opened his work queue. His permissions had already dropped to read-only. Si
 
 He started a reply, deleted it, started another, and finally sent four words.
 
-Understood. I am sorry.
+*Understood. I am sorry.*
 
 Kim did not answer.
 
@@ -30,7 +59,7 @@ Embarrassment arrived as heat under his collar. He had been on Fortuna for less 
 
 On the other hand, he had a whole day free.
 
-He could sleep. He could take Cerberus to the Barn. He could eat breakfast with Sophia before the rush and then spend an hour organizing the small physical workshop he had made aboard the Victoria. He could stay completely away from drones, routing, freight corridors, and anything Kim might reasonably describe as her problem.
+He could sleep. He could take Cerberus to the Barn. He could eat breakfast with Sophia before the rush and then spend an hour organizing the small physical workshop he had made aboard the *Victoria*. He could stay completely away from drones, routing, freight corridors, and anything Kim might reasonably describe as her problem.
 
 It would not be so bad.
 
@@ -42,7 +71,7 @@ The fourth ship had failed to report during a scheduled course correction near S
 
 Beneath the ship report, another outer-belt station had missed two mandatory check-ins. Odysseus remained dark. A United States Department of Belt Security spokesperson appeared in a blue studio and said investigators now believed coordinated sabotage was the most likely explanation. The banner beneath her used larger words.
 
-U.S. DECLARES CHINESE SABOTAGE CAMPAIGN LIKELY
+**U.S. DECLARES CHINESE SABOTAGE CAMPAIGN LIKELY**
 
 The Chinese-language feed called the accusation preparation for an American seizure of belt assets. Mars security forces had moved ships toward two disputed transfer points. American contractors were reviewing Chinese station access. Chinese operators were doing the same to Americans.
 
@@ -56,7 +85,7 @@ Cerberus leaned against his leg. Jace scratched behind his ears.
 
 "Breakfast," he said. "A quiet, politically neutral breakfast."
 
-
+##
 
 The Barn was already awake.
 
@@ -86,15 +115,15 @@ Jace unclipped the leash and crouched beside Cerberus.
 
 Siren sneezed in his face.
 
-He left them playing beside the feed sacks and followed the curve of Ring Two toward the Victoria.
+He left them playing beside the feed sacks and followed the curve of Ring Two toward the *Victoria*.
 
 The station felt different from the day before. Nothing physical had changed. The shops were open. Cargo carts moved. The oak tree spread its leaves beneath a bright simulated sky. Yet conversations dropped when uniforms from different sections passed each other. Public displays showed maps of missing ships. An American security notice advised workers to report unusual Chinese network activity. A Chinese notice warned citizens not to surrender equipment for inspection without a representative from their leasehold.
 
 Everyone had received the same facts and been given different enemies.
 
-The Victoria's outer hatch opened for him.
+The *Victoria's* outer hatch opened for him.
 
-"Good morning, Jace," Misty said. "Sophia is in her room."
+"Good morning, Jace," {Misty} said. "Sophia is in her room."
 
 "Perfect. Is she awake?"
 
@@ -114,7 +143,7 @@ He knocked again.
 
 Nothing.
 
-"Misty, unlock the door."
+"{Misty}, unlock the door."
 
 "Sophia's privacy profile does not permit guest override."
 
@@ -136,7 +165,7 @@ On the desk, her father's wooden pen was missing.
 
 Jace swore.
 
-"Misty, when did she last communicate?"
+"{Misty}, when did she last communicate?"
 
 "At 0116 she asked me to wake her at 0700. She entered her room two minutes later."
 
@@ -150,7 +179,7 @@ The resistance caught every part of him at once.
 
 He pulled.
 
-Warm air became blue cold. The physical Victoria thinned into layered walls and pale structure. His HUD vanished. The radio remained solid against his chest.
+Warm air became blue cold. The physical *Victoria* thinned into layered walls and pale structure. His HUD vanished. The radio remained solid against his chest.
 
 Sophia was not there.
 
@@ -178,7 +207,7 @@ The next sound was a choked inhale.
 
 "All of it. I can see all of Fortuna, but it is in front of me. I am outside. I fell out."
 
-Jace looked through the Victoria's layered hull. Ring Two curved in both directions. The station remained exactly where it belonged.
+Jace looked through the *Victoria's* layered hull. Ring Two curved in both directions. The station remained exactly where it belonged.
 
 "You cannot fall out of a station."
 
@@ -220,11 +249,11 @@ He powered Sparky and set the little robot to follow. Three thrusters lifted him
 
 "It is where the door is."
 
-
+##
 
 They had never gone this far through Fortuna.
 
-Jace left the Victoria, crossed the transparent corridor of Ring Two, and entered the docking spine. Sparky flew beside him with the oxygen bottle knocking softly against his shell.
+Jace left the *Victoria*, crossed the transparent corridor of Ring Two, and entered the docking spine. Sparky flew beside him with the oxygen bottle knocking softly against his shell.
 
 The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings.
 
@@ -506,7 +535,7 @@ She laughed once, then shivered so hard that her teeth clicked.
 
 "We need to move," Jace said.
 
-
+##
 
 They climbed Fortuna's spine slowly.
 
@@ -542,7 +571,7 @@ Jace stopped pulling along the rail.
 
 "Then you should phrase your proposals more carefully."
 
-They reached Ring Two. The Victoria's Astral hull settled around them, incomplete but stable. The workbench, labels, and half-built instruments looked almost domestic.
+They reached Ring Two. The *Victoria's* Astral hull settled around them, incomplete but stable. The workbench, labels, and half-built instruments looked almost domestic.
 
 Sophia stood beside her physical bed and touched the place where she needed to return.
 
@@ -558,7 +587,7 @@ The physical room snapped into place. Warm air struck Jace's face. Gravity retur
 
 Jace sat beside her until the shaking slowed.
 
-Misty spoke from the ceiling.
+{Misty} spoke from the ceiling.
 
 "Sophia, your scheduled wake time passed forty-three minutes ago. Shall I record that you were already awake?"
 
@@ -603,3 +632,21 @@ Sophia leaned back against the wall, exhausted.
 Outside the room, Fortuna continued its long fall around the Sun.
 
 Inside, Jace held a cup that had flown.
+
+## Contract coverage
+
+| Item | Status |
+|---|---|
+| Kim orders Jace to stay home while Drone Ops repairs his failures | done |
+| Missing ships, a second silent station, and U.S.-China tension escalate | done |
+| Jace leaves Cerberus with Siren before visiting Sophia | done |
+| Misty reports Sophia in her room, but Jace finds it empty and crosses | done |
+| Sophia is stranded outside Fortuna, panicked, freezing, and nearly out of oxygen | done |
+| Leaving a large structure can separate a traveler from its Astral motion line | done, proposed new canon |
+| Jace descends through the hub and spine to the launchpad | done |
+| Sparky carries Jace's jacket and oxygen to Sophia | done |
+| Sophia and Sparky run on Astral motion lines with nonuniform movement | done |
+| Sophia reveals force movement to lift herself and Sparky | done |
+| Sophia explains her fear of being a Baba Yaga-like witch | done |
+| Sophia describes the tall, jointed shape near Ring Three | done |
+| Sophia demonstrates force movement in physical space | done |

@@ -48,7 +48,7 @@ Mei waited inside the transfer tug with one light bag between her boots. Four mo
 
 Jace had two bags. The duffel was heavy enough to pull hard against his shoulder in the tug's weak spin. Inside, wrapped in clothing, rode a new Sparky chassis and ten shiny new precision space-rated micro-thrusters he had printed without anyone complaining. The thrusters drew less power than the old design, carried better overload protection, and remained unplugged so one bad impact would not convert the bag into a brief electrical fire. He felt a little bad at the amount of platinum wire he'd used in their design. But only a little.
 
-Cerberus rode in a chest harness. He had grown to nearly thirty pounds and transitioning from Mars-standard gravity to weightless and slowly back up to Mars-standard again was apparently the most exciting thing that had happened to him in his life.
+Cerberus rode in a chest harness. He had grown to nearly thirty pounds and the transition from Mars-standard gravity to weightlessness and slowly back to Mars-standard again was apparently the most exciting thing that had happened to him in his life.
 
 The tug crossed the gap in fifteen minutes.
 
@@ -60,7 +60,7 @@ Below everything turned the asteroid 'Fortuna 3' which the station was named aft
 
 Jace had spent four months inside the Falcon's single ring. A full circuit there took two minutes at a jog, three with a vest. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
-Mei said "Smaller than Terminus," wistful of the Mars city she'd been born in.
+Mei said, "Smaller than Terminus," sounding wistful for the Mars city where she'd been born.
 
 "Most places are."
 
@@ -68,7 +68,7 @@ She watched the station for another minute, looking anxious as they rode an elev
 
 Siren sat beside Mei. At some point between the Falcon and the tug and the elevator, the dog had transferred her allegiance to Mei without complaint.
 
-The receiving bay was louder than the entire voyage. It was pressurized and the dogs turned their heads at every sound, like watching a tennis match.
+The receiving bay was louder than the entire voyage. It was pressurized and the dogs turned their heads at every sound, as if watching a tennis match.
 
 Cargo alarms chimed. Tugs locked against the outer frame. Robots rolled through painted lanes with containers held above them. Five hundred people could fit aboard Fortuna during a busy docking window. It seemed all of them had chosen this one.
 
@@ -98,7 +98,7 @@ Jace looked at Petroski. "I thought Russia broke up into eight separate countrie
 
 "Eight states," Petroski said.
 
-"Aren't all of them claiming to be fully independent soverign nations now?" the American asked, obviously needling his friend.
+"Aren't all of them claiming to be fully independent sovereign nations now?" the American asked, obviously needling his friend.
 
 "Eight rambunctious states... experiencing sibling rivalries."
 
@@ -142,7 +142,7 @@ One compact woman wearing a drone-operations blue patch who had been chatting wi
 
 He also noticed a pale woman moving quickly across the far side of the bay. A bright scarf flashed at her throat, all red and green against gray station fabric. She carried no luggage and did not join the crowd. She looked tired, but vibrant.
 
-The domes of Mars had crowds, but not like this. Maybe it was the long isolated trip, maybe that the spin here was barely noticeable. It felt like Mars but more colorful and alive.
+The domes of Mars had crowds, but not like this. Maybe it was the long, isolated trip, or maybe it was that the spin here was barely noticeable. It felt like Mars but more colorful and alive.
 
 Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore mining harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
@@ -152,13 +152,13 @@ Carlos wore a brown cardigan and a necktie. The tie was real fabric. It hung per
 
 "You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
 
-He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed then panted with the excitement. Carlos nodded as if an inspection had concluded.
+He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
 
 "These are the famous ones."
 
 "I've noticed."
 
-"Mei, Elder Sai is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn. "
+"Mei, Elder Sai is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn."
 
 "There's more than one inn?"
 
@@ -178,7 +178,7 @@ Carlos looked up. "It's an old agreement that the U.S. signed. All signs on an A
 
 "I thought this was an international station?"
 
-"Technically. But in reality, it's an Origin station. They paid half of the trillion dollars making it. America paid a fifth, all of us co-op together to own the rest. We mostly use Tokens, but you can use old dollars if you want."
+"Technically. But in reality, it's an Origin station. They paid half of the trillion dollars spent building it. America paid a fifth; all of us co-op together to own the rest. We mostly use Tokens, but you can use old dollars if you want."
 
 Shops filled permanent walls between older canisters. Children cut across robot lanes and got scolded by humans and machines at the same time. Emergency masks sat behind clear panels every few meters. Jace noticed most people had one clipped to their belt just like he did, though not everyone.
 
@@ -279,11 +279,11 @@ Carlos pointed toward the animal office. "They are expecting you."
 
 Siren walked after her without hesitation, deciding that she was the one expected and Mei was her emotional-support human.
 
-Cerberus lunged forward, and touched his nose to hers. They circled each other, tails moving. Then Siren followed Mei through the gate, not looking back.
+Cerberus lunged forward and touched his nose to hers. They circled each other, tails moving. Then Siren followed Mei through the gate, not looking back.
 
 Cerberus gave one soft whine.
 
-Walking nearby was a cozy door to a living pod, styled and painted with flowers in a window box. Hanging outside on a hook was a jacket.
+Nearby was a cozy door to a living pod, styled and painted with flowers in a window box. Hanging outside on a hook was a jacket.
 
 Green fabric. Worn cuffs. A small flower stitched into the collar. Every hook around it carried daily work gear. No one had touched hers.
 
@@ -323,7 +323,7 @@ The rate left Jace enough for two real cafeteria meals each day.
 
 The cafeteria occupied the next block. Jace took a bowl of the free 'contractor soup'. It was gray and warm and tasted like water sprinkled with protein powder and sadness.
 
-He had taken three sponfulls when a shadow crossed the table.
+He had taken three spoonfuls when a shadow crossed the table.
 
 "Stand up," a familiar voice said. "I need to see this in person."
 
@@ -341,7 +341,7 @@ Nick looked up. Then farther up.
 
 Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
 
-Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, thumping tails and instant best friends.
+Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, his tail thumping as if they were instant best friends.
 
 Nick slid onto the bench opposite Jace.
 

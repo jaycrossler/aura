@@ -53,7 +53,7 @@ A dog barked.
 
 The sound struck the silent cafeteria like an explosion.
 
-Sophia lost the pull of the sandwich. It snapped back onto the physical counter, ripped in half. Her hands held a squeezed chunk of bread and cheese and meat. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
+Sophia lost the pull of the sandwich. It snapped back onto the physical counter and ripped in half. Her hands held a squeezed chunk of bread and cheese and meat. She turned too quickly, caught her own foot, and fell in slow one-third gravity.
 
 A man crossed the room and caught her.
 
@@ -107,13 +107,13 @@ Sophia stood and checked both cartridge indicators. Jace had twenty-three minute
 
 Jace looked through the serving counter at the physical storage rack behind it, inside it, below it. His eyes moved too fast, trying to follow every layer.
 
-"Pick one thing, stare at it." Sophia said. "Me or the dog. Your brain cannot hold all directions yet."
+"Pick one thing, stare at it," Sophia said. "Me or the dog. Your brain cannot hold all directions yet."
 
 "Yet."
 
 "It improves. The vomiting usually stops by the fourth night."
 
-Jace focused on Cerberus, seeing his insides and outsides, and bones.
+Jace focused on Cerberus, seeing his insides, outsides, and bones.
 
 "That information did not help. His insides are out."
 
@@ -167,7 +167,7 @@ Jace took the bottle and inspected the regulator.
 
 They refilled his cartridge, then Cerberus's. The fresh indicators gave Jace seventy minutes and Cerberus two hours. The bottle was still half full.
 
-Sophia recorded the bottle serial number in her notebook and her records of the time.
+Sophia recorded the bottle serial number in her notebook and recorded the time.
 
 Jace watched the pen.
 
@@ -183,13 +183,13 @@ Jace watched the pen.
 
 Sophia closed the notebook.
 
-"I call it the Never-Never." She pronounced with a German accent this time.
+"I call it the Never-Never." She pronounced it with a German accent this time.
 
 "That sounds like a children's story."
 
 "It is. When I was little, I heard stories of Baba Yaga. She could walk into shadows, and her house was bigger inside than outside. I needed a name before I had a theory."
 
-"Guess I'm a witch.  I walked through six walls to find you."
+"Guess I'm a witch. I walked through six walls to find you."
 
 "Seven, if you came from the inn. The hydroponics pressure door counts twice."
 
@@ -199,7 +199,7 @@ Sophia closed the notebook.
 
 Sophia showed him around the cafeteria.
 
-Torres sat three meters away, eating and scrolling. His physical body glowed in layers. Thoughts moved as blocks of color swirling around his head, then dissolved into complex patterns and swirled structures neither of them could interpret.
+Torres sat three meters away, eating and scrolling. His physical body glowed in layers. Thoughts moved as blocks of color swirling around his head, then dissolved into complex patterns and swirling structures neither of them could interpret.
 
 Sophia waved through the table.
 
@@ -225,7 +225,7 @@ She put one hand on his back. The dog remained a dog in every direction. His inn
 
 "He pulled my mask through," Jace said. "Before he pulled his own."
 
-"He crossed with you together."
+"He crossed with you."
 
 "I noticed. Is this safe for him?"
 
@@ -241,7 +241,7 @@ Sophia's face changed.
 
 "How long?"
 
-"Forty crossings over seven weeks. Partial episodes before that. I told one colleague. She scheduled a medical consult. I mentioned it to {Penny} and it still watches me closely, has a file on me. I stopped telling people."
+"Forty crossings over seven weeks. Partial episodes before that. I told one colleague. She scheduled a medical consult. I mentioned it to {Penny} and it still watches me closely. It has a file on me. I stopped telling people."
 
 "We should get you home," she said.
 
@@ -253,7 +253,7 @@ Long corridors bent through extra directions. Jace stopped twice when the floor 
 
 "It's so cold."
 
-"Yes, I really want a thermometer to measure. It's not cold like space, but still very chilly. There is just enough air here, but not enough to breathe. I wear many layers."
+"Yes, I really want a thermometer to measure it. It's not cold like space, but still very chilly. There is just enough air here, but not enough to breathe. I wear many layers."
 
 They passed sleeping residents. Jace looked away when he could to try to offer privacy. Cerberus sniffed every glow until Jace reset the mask for the fifth time.
 
@@ -293,7 +293,7 @@ Sophia stared at him.
 
 "I moved it."
 
-"I oversaw the work. You owe me an explanation to how that worked so well."
+"I oversaw the work. You owe me an explanation of how that worked so well."
 
 "Leave the rest of the air bottle here, so you have some when you come back."
 

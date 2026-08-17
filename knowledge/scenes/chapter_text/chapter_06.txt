@@ -102,7 +102,7 @@ The first creature pushed away from the panel and launched again. Two red points
 
 Jace swung.
 
-The wrench connected with a sound he felt through his wrist. The creature folded around the blow without bleeding, sprang straight again, looking like a fractal wrapped in an MC Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
+The wrench connected with a sound he felt through his wrist. The creature folded around the blow without bleeding, sprang straight again, looking like a fractal wrapped in an M. C. Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
 
 He swung a second time. The wrench struck the top part, where an animal would keep its head.
 
@@ -128,7 +128,7 @@ His HUD recorded an empty hole. No shells. No creature.
 
 He watched the footage before he climbed down.
 
-The camera showed Jace opening a vacant conduit plate. It showed him recoil, strike the wall twice, his air canister popping, and him spinning into the ladder. It showed his sleeve split against the panel's sharp edge. It showed him stare through a solid hull for twenty seconds.
+The camera showed Jace opening a vacant conduit plate. It showed him recoiling, striking the wall twice, popping his air canister, and spinning into the ladder. It showed his sleeve split against the panel's sharp edge. It showed him stare through a solid hull for twenty seconds.
 
 No eggs. No creatures. No light.
 
@@ -142,7 +142,7 @@ He returned to the spire with Thing One after sunrise. The drone mapped every pa
 
 Jace's foot crunched as he searched the floor grate beneath the shaft before leaving.
 
-A single black, brown, and white feather had caught behind an air circulation filter mesh. A few insect shell pieces were cracked as well on the ground near it. Starships didn't, as a rule, have problems with insects unless they brought them along as foodstock. These looked like silkworm shell pieces.
+A single black, brown, and white feather had caught behind an air circulation filter mesh. A few insect-shell fragments lay cracked on the ground nearby. Starships didn't, as a rule, have problems with insects unless they brought them along as foodstock. These looked like silkworm shell pieces.
 
 He held the feather up under the work light. Small. Curved. Duck.
 
@@ -166,7 +166,7 @@ Independent agreement between sensor systems increases confidence in the finding
 
 The fine appeared.
 
-It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary for adults? He was sure he read that somewhere.
+It was smaller than the plumbing penalty. Jace found that almost insulting, but he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary for adults? He was sure he read that somewhere.
 
 This is your second documented incident involving unauthorized tool use during the current contract period. Origin recommends a medical assessment and temporary suspension from hazardous equipment.
 
@@ -210,4 +210,4 @@ The shaft stayed empty.
 
 For the next two days, Jace carried the wrench with him everywhere. He went over every inch of the ship, inside and out, or as much as Maureen and Alex would let him get away with. He found nothing.
 
-Cerberus still would not come near the access shaft. No more ducks went missing and the Silkworms bred normally after.
+Cerberus still would not come near the access shaft. No more ducks went missing and the silkworms bred normally afterward.

@@ -134,7 +134,7 @@ Kim returned to her station.
 
 Jace used the drone's manipulator to re-seat the case. D-14 entered Ring Two minutes later.
 
-He felt good about the fix for nearly an hour. If Kim raised him up, the bump in salary would put some spending money in his pocket.
+He felt good about the fix for nearly an hour. If Kim promoted him, the bump in salary would put some spending money in his pocket.
 
 At shift end, when bending over to pet Cerberus, he heard his name through the equipment rack.
 
@@ -174,7 +174,7 @@ Nick found them near the noodle bar. The girl Mira had been standing across the 
 
 Nick pushed a bowl toward him. Real noodles, not gray soup. Jace did not ask who paid.
 
-"Kim called Carlos mediocre for two years," Nick said. "Carlos can make two hundred drones look like a hivemind."
+"Kim called Carlos mediocre for two years," Nick said. "Carlos can make two hundred drones look like a hive mind."
 
 "She was right about me."
 
@@ -184,7 +184,7 @@ Jace ate.
 
 "Six months," Nick said. "Be boring and good for six months. Boring and good beats famous out here."
 
-"That sounded almost wise." Jace just though about eating thin soup for six months.
+"That sounded almost wise." Jace just thought about eating thin soup for six months.
 
 "I save my wisdom for a crisis."
 
@@ -196,17 +196,17 @@ Nick's hands stopped moving. The change drew more attention than any warning ton
 
 Nick leaned closer, checking they were still in a privacy zone.
 
-"You are new. You have an American military record, Origin access, and have been hanging out with a very paranoid head of security that drinks and talks too loud. If something breaks, somebody will decide you were near it. Keep records cleaner than you think you need."
+"You are new. You have an American military record, Origin access, and have been hanging out with a very paranoid head of security who drinks and talks too loud. If something breaks, somebody will decide you were near it. Keep records cleaner than you think you need."
 
 "You expect sabotage?"
 
 "I expect frightened people to think accidents are something worse."
 
-Nick paid for their Ramen noodles. Jace felt bad that Nick always picked up the bill, but his station payment account had actually been disabled earlier in the day for insufficient funds. He was too embarassed to tell his friend, but Nick was pretty empathic and had definately picked up on something.
+Nick paid for their ramen noodles. Jace felt bad that Nick always picked up the bill, but his station payment account had actually been disabled earlier in the day for insufficient funds. He was too embarrassed to tell his friend, but Nick was pretty empathic and had definitely picked up on something.
 
 ##
 
-Jace opened D-14's route history. Suzi had sent him a list of suspicious activity and we was looking through the logs.
+Jace opened D-14's route history. Suzi had sent him a list of suspicious activity and he was looking through the logs.
 
 The drone had passed a junction near the Chinese leasehold at 1041. It had used the correct public corridor. Six minutes later, the sensor alert appeared.
 

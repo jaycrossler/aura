@@ -105,7 +105,7 @@ Not a POV character in Ch00-20.
 `char_suzi.md` describes her manner but the retrieved chapter text did not
 surface direct quoted lines for her. **No dialogue anchors are listed here
 rather than inventing them.** Populate this section from `draft_ch09_first_week.md`
-and `draft_ch19_no_vampires.md` on the next pass.
+and `draft_ch22_no_vampires.md` on the next pass.
 
 ## Speech-Affecting Conditions
 None established.

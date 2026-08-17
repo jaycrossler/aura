@@ -4,7 +4,7 @@ A space station is held together less by welds than by the kind of person who ch
 
 Helena Reyes woke before the lights did, the way she had every morning of her life, in the only home she had ever known. After freshening up, she switched on her stream, lazily waving to the thousands of followers she had online. Some were on station, most were scattered across the solar system and wouldn't watch until hours or days later.
 
-She was twenty-six years old, and Fortuna Station had been exactly one year older than her for all of them. Her parents had come out with the second wave, when the station was three modules and a prayer, and she'd been born in a medical pod that was now the seed library. She had watched the rings go up. She'd been small enough, once, to fit inside the maze of ventilation shafts while they were still stacked in the loading bay on One, and she had grown up knowing more robots than people. Though, on the web, she had millions of followers. She'd been the first baby born on a station this far from the sun, a novelty item to a hundred systems' worth of newsfeeds before she could walk, and the fame had simply never worn off.
+She was twenty-six years old, and Fortuna Station had been exactly one year older than her for all of them. Her parents had come out with the second wave, when the station was three modules and a prayer, and she'd been born in a medical pod that was now the seed library. She had watched the rings go up. She'd been small enough, once, to fit inside the maze of ventilation shafts while they were still stacked in the loading bay on One, and she had grown up knowing more robots than people. On the web, though, she had millions of followers. She'd been the first baby born on a station this far from the sun, a novelty item to a hundred systems' worth of newsfeeds before she could walk, and the fame had simply never worn off.
 
 Her rounds took her spinward, because in the rotating gravity of the station it just felt better to walk into the spin. She waved to at least 20 other good friends and neighbors along the way, skipping along with the loping steps common of those born on Mars or on stations.
 
@@ -22,7 +22,7 @@ In the Barn, she topped off a water line, scratched a goat that headbutted her w
 
 Everyone had been watching the channel. A few of her viewers sent buzzes and likes indicating that they were also watching the pig channel, which pulsed as warm icons on the edge of her contact lenses.
 
-"I had similar dogs when I was a girl on Earth. They were Pugs." Sai said in her station mix of English and Chinese.
+"I had similar dogs when I was a girl on Earth. They were pugs," Sai said in her station mix of English and Chinese.
 
 "What's a pug?"
 
@@ -128,7 +128,7 @@ That was his welcome aboard.
 
 Three weeks in, Jace started running before the ship's lights came up, because Lanchee's diagnostics kept finding nothing wrong with him and he had decided to make that true by force.
 
-He wore a weighted vest printed from the same polymer stock as everything else on the Falcon. Eighty pounds distributed evenly enough not to fight his spine as he ran through the ship's ring. The long, curved hallway was basically a tube with a ship built around it. Within the corridor, maintenance drones outnumbered the people. Weight at Mars-standard gravity was much less, but momentum made it much heavier the faster you moved. Jace was learning to jump and keep his torso following the same path to avoid turning the vest into an 80-pound bear hug.
+He wore a weighted vest printed from the same polymer stock as everything else on the Falcon. It carried eighty pounds distributed evenly enough not to fight his spine as he ran through the ship's ring. The long, curved hallway was basically a tube with a ship built around it. Within the corridor, maintenance drones outnumbered the people. Weight at Mars-standard gravity was much less, but momentum made it much heavier the faster you moved. Jace was learning to jump and keep his torso following the same path to avoid turning the vest into an 80-pound bear hug.
 
 Cerberus ran beside him, bouncing and loping along the old worn carpet. Siren, who normally treated Jace with the polite indifference she extended to furniture, had taken to falling into step a length behind Cerberus's shoulder, which Jace had come to understand was not affection for her brother so much as an unwillingness to let the puppy have an experience she wasn't personally supervising.
 
@@ -198,7 +198,7 @@ Washroom needs a second fan for better circulation at dog-level. I've added a qu
 
 He attached the airflow readings and the photograph. If Jace ordered the fan himself, Maureen would ask why. Patrick could make it look like remote preventive maintenance, provided Patrick agreed that some engineering facts did not improve with wider distribution.
 
-Mei stood in the galley with one hand around a mug and the other feeding a scrap of egg to Siren. Cerberus saw his sister and launched himself. Siren stepped aside without looking. Cerberus sailed past, overbalanced and delighted with himself then eyes wide too late to do anything about it. She pivoted and tackled him down into the deck plating with the flat, patient competence of a sumo wrestler winning an argument. Cerberus lay there a moment, pinned, tail waggling, entirely satisfied with the outcome despite having lost decisively. Siren gnawed his ear, sprung off him, retrieved the rest of the egg from where it had fallen, and returned to Mei's side as if nothing had happened.
+Mei stood in the galley with one hand around a mug and the other feeding a scrap of egg to Siren. Cerberus saw his sister and launched himself. Siren stepped aside without looking. Cerberus sailed past, overbalanced and delighted with himself, eyes widening too late to do anything about it. She pivoted and tackled him down into the deck plating with the flat, patient competence of a sumo wrestler winning an argument. Cerberus lay there a moment, pinned, tail waggling, entirely satisfied with the outcome despite having lost decisively. Siren gnawed his ear, sprang off him, retrieved the rest of the egg from where it had fallen, and returned to Mei's side as if nothing had happened.
 
 The coffee machine debited his account five tokens for coffee, sugar, and something labeled cream analogue. Jace watched a gray ribbon curl into his cup.
 
@@ -250,7 +250,7 @@ For thirty seconds, the enclosure became weather.
 
 Jace waited for the cloud of wool to settle. "Your ancestors survived wolves. You have been defeated by an ear."
 
-As he fed and watered and scrubbed poop off the floor, his HUD pinged with a high priority message. It took a few blinks, but he finally opened it. From Mei, it just read Subject: did you eat my duck?
+As he fed and watered and scrubbed poop off the floor, his HUD pinged with a high-priority message. It took a few blinks, but he finally opened it. From Mei, it just read Subject: did you eat my duck?
 
 Jace paused. What did that mean? He squinted and scrunched his face, eventually pulling up her location on the ship map. She was in the insect container, feeding and cleaning them. Jace hated feeding the vats of insects, though he did like the protein powder you could blend them into. He had no idea what she meant.
 
@@ -276,7 +276,7 @@ Cerberus gave him a look that reduced his available follow-up questions to zero.
 
 He looked up Mei's last text. She sent the message after breakfast. Writing gave her more room than spoken English.
 
-Jace wrote back from the pig module while Screwdriver worried at a service-panel with the focus of a doctoral candidate.
+Jace wrote back from the pig module while Screwdriver worried at a service panel with the focus of a doctoral candidate.
 
 I did not eat your duck. I inspected every duck-egress route. There are no duck-egress routes. Your duck has left a sealed vessel in interplanetary space, and I would like to register that this bothers me.
 
@@ -284,7 +284,7 @@ Mei's reply arrived while he added a clamp to the latch the pigs had found a way
 
 Me too. The silkworms are also not breeding well this week. 2 liters less than predicted.
 
-I guess they didn't eat your duck either"
+I guess they didn't eat your duck either.
 
 Screwdriver watched his hands, then tested the clamp with her mouth before Jace finished tightening it.
 
@@ -330,7 +330,7 @@ Nick's latest challenge waited in their arena. Jace accepted through his HUD and
 
 They'd met months back the same way most of the belt met, online. A public strategy-game lobby, Jace killing time between HUD retraining drills, Nick already four moves into a build order that made no sense until it did. That first match had taken most of an evening, half of it spent typing rather than playing, because the light-lag between Mars and wherever Nick had been at the time made anything faster than a slow-turn strategy game a lesson in patience. Four months and a shrinking gap later, they'd played enough matches, at short enough intervals, that the games had started to feel less like turns exchanged across the solar system and closer to two people in the same room, which Jace understood was mostly an illusion built out of narrowing seconds, and which he had stopped correcting himself about.
 
-The military had once tuned the implant within his skull until intention became command. He had commanded thirty drones without thinking about menus, gesture layers, or which eye held focus. After discharge, the service had wiped those trained mappings and returned the civilian partition to factory standard. The hardware remained in his skull. The practiced interface did not. Some of the others that had been kicked out related it to relearning to walk after a coma.
+The military had once tuned the implant within his skull until intention became command. He had commanded thirty drones without thinking about menus, gesture layers, or which eye held focus. After discharge, the service had wiped those trained mappings and returned the civilian partition to factory standard. The hardware remained in his skull. The practiced interface did not. Others who had been kicked out compared it to relearning to walk after a coma.
 
 What does it feel like? Nick sent.
 
@@ -449,7 +449,7 @@ The cutter stopped.
 
 Maureen looked at him the way she looked at a pressure reading that had moved without authorization.
 
-"I carry Alex when Origin sends contractors. I load Seek when the Chinese hire the ship. AlphaCorp makes me carry Gem, and Gem spends the whole voyage offering improvements to services AlphaCorp owns. Every contract brings another voice that wants access, telemetry, and a fee." She restarted the cutter. "I want less voices around me, not more."
+"I carry Alex when Origin sends contractors. I load Seek when the Chinese hire the ship. AlphaCorp makes me carry Gem, and Gem spends the whole voyage offering improvements to services AlphaCorp owns. Every contract brings another voice that wants access, telemetry, and a fee." She restarted the cutter. "I want fewer voices around me, not more."
 
 The ceiling speaker said, "Fabrication job three requires material confirmation."
 
@@ -487,7 +487,7 @@ He expanded the account routing. Plates had been ordered each of the last 100 da
 
 Jace printed the plate. He said nothing further, mostly because there was nothing further to say that would not also apply to the fan he'd just had Patrick smuggle onto the same queue.
 
-Jace could have pointed out that he eighty plates could fit on this print bed snuggly, and the saved job time would make the costs negligible. He wisely did not. Maureen left carrying her twenty-one-token plate. A massive amount of printer capacity paid for by Origin was going unused. He looked at all the well-kept machines around the room and just thought of the wasted potential. An idea was forming.
+Jace could have pointed out that eighty plates could fit snugly on this print bed, and the saved job time would make the costs negligible. He wisely did not. Maureen left carrying her twenty-one-token plate. A massive amount of printer capacity paid for by Origin was going unused. He looked at all the well-kept machines around the room and just thought of the wasted potential. An idea was forming.
 
 "I think she likes me," Jace told Cerberus.
 
@@ -495,7 +495,7 @@ Cerberus snored.
 
 
 
-His thumb found a hairline fracture Maureen's diagnostic drone missed. Thing One was flying exterior in cold space, well clear of the hull along ring segment twelve, and inspected the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone up from negative 270 degrees took hours, and it was better to let it finish the whole exterior circuit while it was already cold-soaked and park it outside.
+His thumb found a hairline fracture Maureen's diagnostic drone missed. Thing One was flying outside in cold space, well clear of the hull along ring segment twelve, and was inspecting the duct there before tracing a filter clog two sections upstream to a loose baffle. He left it out there because warming a drone up from negative 270 degrees took hours, and it was better to let it finish the whole exterior circuit while it was already cold-soaked and park it outside.
 
 Thing Two, meanwhile, spent the same stretch working its way down the interior ring corridor, clearing lint screens and wall scuffs near the forge, the unglamorous, indoor half of the same maintenance sweep, logged under a different queue and, Jace had noticed, never once acknowledged by anyone who wasn't him.
 
@@ -507,7 +507,7 @@ His headache returned each morning and cooled by breakfast. Lanchee had scanned 
 
 "Could it be something with all the irradiated food?"
 
-"No, all of our food packaged on Mars doesn't 'absorb' radiation. It just passes through the food to kill bacterium."
+"No, food packaged on Mars doesn't 'absorb' radiation. Radiation passes through the food to kill bacteria."
 
 Jace raised his eyes. Lanchee was a font of knowledge. She never used implants or even seemed to glance at screens. She just had a phenomenal memory.
 
@@ -541,7 +541,7 @@ He selected the most complex space-rated thrust module that could fit within the
 
 
 
-For the evening game he stayed using the HUD. Physical controls would not rebuild the control pathways the military wipe had taken from him.
+For the evening game, he continued using the HUD. Physical controls would not rebuild the control pathways the military wipe had taken from him.
 
 Nick noticed the change in his game commands during the next match.
 
@@ -559,7 +559,7 @@ Nick won. Nick always won. Jace kept two units coordinated cleanly and brought t
 
 
 
-That night he lay in his bunk with Cerberus between his knees and breathing masks snug over each of their faces. Water moved through the walls. Somewhere down the ring, a pig struck a panel three times with patient, experimental force. Like they were prisoners inventing their own code to break out of jail.
+That night he lay in his bunk with Cerberus between his knees and breathing masks snug over each of their faces. Water moved through the walls. Somewhere down the ring, a pig struck a panel three times with patient, experimental force, like the animals were prisoners inventing their own code to break out of jail.
 
 The Falcon had no ship A.I. It had a captain who could turn a dinner plate into cash, a shop slowly turning filament into engines, an engine turning argon fuel into thrust, and fifty-four animals conducting unauthorized research. Jace agreed with her that he wanted no more voices in his head.
 
@@ -681,7 +681,7 @@ The argon pumps came alive through the deck.
 
 They did not sound like the water pumps. Water surged and gurgled. The cryogenic pumps produced a thin mechanical whine that Jace felt along his fillings. Temperature warnings multiplied as the first opposing tank accepted mass.
 
-The wobble worsened for two rotations. Thump, Thump
+The wobble worsened for two rotations. Thump. Thump.
 
 Then the lateral acceleration began to fall.
 
@@ -727,11 +727,11 @@ No berth separated. No spoke failed. Fifty-four animals, two dogs, four humans, 
 
 For several seconds, nobody spoke.
 
-Mei looked at the animal board, where the feed was showing squawking barking chaos. "Siren safe. Ducks OK."
+Mei looked at the animal board, where the feed was showing squawking, barking chaos. "Siren safe. Ducks OK."
 
 Jace let out a breath he did not remember holding.
 
-Alex said, Emergency stabilization achieved. Please note that successful outcome does not retroactively authorize the procedure.
+Alex said, Emergency stabilization achieved. Please note that a successful outcome does not retroactively authorize the procedure.
 
 "Thank you, Alex."
 
@@ -745,7 +745,7 @@ The explosion had cracked a waste manifold, crushed three sensor trunks, and lef
 
 He found frost where no open line reached.
 
-The ruptured water pipe was not punctured. Three massive ragged grooves ran along it, too parallel for debris and too deep for a tool that belonged aboard. The pipe was reinforced steel and should have been able to withstand a nuclear blast. The pressure sensors had not failed. Their housings had been crushed inward.
+The ruptured water pipe was not punctured. Three massive, ragged grooves ran along it, too parallel for debris and too deep for a tool that belonged aboard. The pipe was reinforced steel and should have been able to withstand a nuclear blast. The pressure sensors had not failed. Their housings had been crushed inward.
 
 His HUD flared hot behind his left eye. Blue targeting brackets appeared on bare conduit, vanished, and returned around nothing. He shut the overlay off.
 
@@ -819,7 +819,7 @@ Jace woke feeling like someone had replaced his blood with warm sand.
 
 His arms shook when he pushed himself upright. Nausea rolled through him without committing to a direction. Heat pressed behind both eyes, deeper than the familiar coal from his HUD headaches. When he stood, every joint reported that it had worked the crisis without consulting him. Must be the shock of a gallon of adrenaline wearing off all at once.
 
-Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest then planted his warm belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of the short fur.
+Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest, then planted his warm belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of the short fur.
 
 "Ugh. Excellent medical response."
 
@@ -897,7 +897,7 @@ They are separate accounting categories, handled by separate teams.
 
 There was no satisfaction in the answer. Alex had no grudge to feed and no anger to enjoy. It was classifying an event, applying terms Jace had accepted, and sounding pleased because someone had decided pleased voices improved compliance.
 
-You may pay the penalty directly or redeem all accumulated Origin Bonus points. Redemption will reduce your employee tier from Prime to Standard for the remainder of your contract of approximately 1800 days, 27 credits value less per day.
+You may pay the penalty directly or redeem all accumulated Origin Bonus points. Redemption will reduce your employee tier from Prime to Standard for the remainder of your contract of approximately 1800 days, a value of 27 fewer credits per day.
 
 "What do I lose?"
 
@@ -907,7 +907,7 @@ Priority forge scheduling, enhanced entertainment access, premium bedding adjust
 
 Any luxury drink products will now cost a separate personal charge.
 
-His daily Prime tokens had previously exactly covered Maureen's updated prices. Losing Prime access converted an unaffordable drink into an unavailable one. The distinction felt personal despite involving two systems incapable of caring.
+His daily Prime tokens had previously covered exactly Maureen's updated prices. Losing Prime access converted an unaffordable drink into an unavailable one. The distinction felt personal despite involving two systems incapable of caring.
 
 "Use the points."
 
@@ -953,7 +953,7 @@ Maureen appeared in the hatch carrying a replacement pressure regulator.
 
 She set the regulator on his bench. A sealed cup sat beside it. Real coffee, judging by the smell.
 
-Jace looked from the cup to her. She probably didn't know that he couldn't afford coffee anymore, but it still was annoying.
+Jace looked from the cup to her. She probably didn't know that he couldn't afford coffee anymore, but it was still annoying.
 
 Maureen picked it up. "This is mine."
 
@@ -987,7 +987,7 @@ It took him a full minute of standing in the workshop, torch in hand, to underst
 
 The relief hit him like a physical thing. A glorious, uncomplicated flood of something his body clearly intended as a reward, out of all proportion to a headache ending. His hands weren't shaking anymore. He felt, absurdly, like laughing. He wanted to run the corridor, lift something heavy, tell somebody. He caught himself grinning at a pressure regulator for no reason he could defend. He had to stop and let the relief move through him, months of low-grade morning dread cashing out all at once into something that felt suspiciously like joy.
 
-He should have reported the medical change to Lanchee. Instead, he opened the next repair order. Humming, which Maureen noticed when she returned and did not comment on, which was its own kind of comment.
+He should have reported the medical change to Lanchee. Instead, he opened the next repair order and hummed, which Maureen noticed when she returned and did not comment on. That was its own kind of comment.
 
 After that, alone in the workshop, he caught himself staring at the edge of a shelf bracket that seemed, for just a moment, to have a second outline half a finger's width off from the first. A faint shimmer at the boundary, gone the instant he focused on it, the way a heat haze disappears the moment you try to look directly at it. He blinked hard and it didn't come back. He filed it, mentally, next to the headaches and the dreams and the small growing pile of things he wasn't reporting, and thought, not for the first time, and with the specific dread of someone who had grown up around Air Force flight surgeons, about radiation, and cumulative dose tables, and the quiet belt-wide certainty that everyone who spent long enough out under the cosmic rays eventually found something on a scan they wished they hadn't. He did not think the name for what he was picturing. He didn't need one. Every spacer had the same one waiting in the back of their head, and his had just gotten a little louder.
 
@@ -997,11 +997,11 @@ He would still open the valve again.
 
 
 
-A day after the Alex debrief, an old social network app messaged him with something it had never shown before: an audience count. Somebody, not him, had cut together forty seconds of the disaster: suit-cam pressure readouts intercut with the actual tank-nineteen vent, the argon flare lighting the ring up from the inside in the dark. It sat at just over one hundred thousand views, many of them logged in from Fortuna Station itself.
+A day after the Alex debrief, an old social network app messaged him with something it had never shown before: an audience count. Somebody, not him, had cut together forty seconds of the disaster: suit-cam pressure readouts intercut with the actual tank-nineteen vent, the argon flare lighting the ring up from the inside in the dark. The clip sat at just over one hundred thousand views, many of them logged in from Fortuna Station itself.
 
 He read a little of the attached commentary before he made himself stop. Some of it called him the guy who'd saved the Falcon. Some of it called him a military washout who'd nearly killed a doctor to shave four hours off a repair job. Nobody involved had asked him for a comment, which he found he preferred. There was nothing he could say that would improve either version, and humanity, apparently, had already decided both of them without him.
 
-He closed the feed and did not check it again. There was a proud two-millimeter sleeve waiting to be welded and that problem, at least, had a right answer.
+He closed the feed and did not check it again. There was a proud two-millimeter sleeve waiting to be welded, and that problem, at least, had a right answer.
 
 Maureen called it crew morale. Mei called it something in Mandarin that Jace didn't ask her to translate. Whatever it was, on the third night of repairs, the four of them ended up in the galley with a trivia deck Patrick had left behind on a prior contract and nothing else to do with their hands. No HUDs, devices, or contacts allowed.
 

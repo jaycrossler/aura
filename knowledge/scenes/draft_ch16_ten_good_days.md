@@ -25,7 +25,7 @@ cross_references:
   - "[[scene_notes_x09e_sparky_comes_across]]"
   - "[[spec_audiobook_narration_style]]"
   - "[[draft_ch15_sideways]]"
-  - "[[draft_ch17_the_eye_in_the_wall]]"
+  - "[[draft_ch17_falling_behind]]"
 ---
 
 # Chapter 16. Ten Good Days
@@ -66,7 +66,7 @@ She opened three route logs. Every decision pointed to the applicable procedure.
 
 Jace waited until she walked away, loading continuous rotating drone feeds into his HUD.
 
-*Then* he sounded pleased with himself. He headed back to the forge, whistling and tossing a ball to Cerberus. A bouncing ball in Mars-standard gravity is much more fun than on Earth, and Cerberus was getting pretty good at running up walls and parkouring over obstactles.
+*Then* he sounded pleased with himself. He headed back to the forge, whistling and tossing a ball to Cerberus. A bouncing ball in Mars-standard gravity was much more fun than on Earth, and Cerberus was getting pretty good at running up walls and parkouring over obstacles.
 
 In the foundry, Jace moved to the tables where he had Sparky laid out. He now had two tables reserved in his own private corner of the room, separated by a metal partition in case there was an engine problem or fire.
 
@@ -86,7 +86,7 @@ He just needed more testing, and now that he'd automated most of his day job, he
 
 "Um, you were whistling. And smiling. That's new."
 
-Jace laughed, "Hah. Funny. Perfect timing, I was just going on a delivery down to Two. Want to walk with?"
+Jace laughed. "Hah. Funny. Perfect timing. I was just going on a delivery down to Two. Want to walk with me?"
 
 Nick looked at him and the bench full of components. "Sure."
 
@@ -96,7 +96,7 @@ He queued up the next few jobs, loaded filaments, checked that "Mr Handy" was ab
 
 As they walked down, multiple people waved and approached them, petting Cerberus and asking Nick questions. Jace hadn't quite seen him holding court like this before. They'd show Nick their tablets or wristcomps, and he'd poke them or tap them or pull out a cable and fix things on the fly. They'd look around and move to where Nick would point out dead-camera zones where no A.I. were watching.
 
-Each of them were running {Aura} units on their devices, and Nick was their magnanimous tech support guru. They'd leave, happy and thankful, sometimes handing him a bag of coffee beans or a wrapped cookie in payment.
+Each of them was running {Aura} units on their devices, and Nick was their magnanimous tech support guru. They'd leave, happy and thankful, sometimes handing him a bag of coffee beans or a wrapped cookie in payment.
 
 "Wow, you're like a drug dealer."
 
@@ -114,7 +114,7 @@ Sophia fed him half a loaf of rye bread before crossing 47.
 
 "I've actually been sleeping for almost 30 years."
 
-"You used to become unconscious in short emergency installments. Now you sleep. Your face was very angular and sharp before, it's filling out again."
+"You used to become unconscious in short emergency installments. Now you sleep. Your face was very angular and sharp before; it's filling out again."
 
 Jace paused. "Thank you?"
 
@@ -154,7 +154,7 @@ Jace used the quiet intervals to redesign equipment.
 
 The Astral charged different prices for objects that looked equivalent on a workbench. Their tests still could not separate composition, density, connections, and complexity. The useful design direction was clear even when the rule was not: lighter materials, fewer interfaces, and nothing the instrument did not need.
 
-He printed a thermometer frame in aluminum and copper. He replaced steel fasteners with polymer clips. He stripped wireless radios from instruments that could not connect to anything after crossing. He used the cheapest PLA plastic. As long as it wasn't exposed to solar winds or space, it'd be fine and crossed over twenty times easier that the good stuff.
+He printed a thermometer frame in aluminum and copper. He replaced steel fasteners with polymer clips. He stripped wireless radios from instruments that could not connect to anything after crossing. He used the cheapest PLA plastic. As long as it wasn't exposed to solar winds or space, it'd be fine and crossed over twenty times easier than the good stuff.
 
 His equipment became ugly, light, and colored in whichever filament had last been on the forge printer.
 
@@ -182,7 +182,7 @@ It recorded blue noise, three seconds of Sophia's scarf, and a view through the 
 
 "Nothing has ever filmed itself from that direction."
 
-"That is... problematic"
+"That is... problematic."
 
 "You lack vision."
 
@@ -238,7 +238,7 @@ Jace used his HUD to have Sparky open a few panels. Just enough room that he cou
 
 The machine rolled forward, turned right again, moved to the waste recycler and confidently popped it into the disposal before Jace could catch it.
 
-Kim watched it disappear. 
+Kim watched it disappear.
 
 "Your platform requires work."
 
@@ -272,19 +272,19 @@ Jace handed him a A.I. core chip stack. It was ancient as well.
 
 Nick plugged a cable into the unit.
 
-"OK, I'll strip the current Aura down to it's smallest possible build. No language model, no apps. Just sensors and engines and flight models. It's actually quite small this way. Maybe I should make a version packaged like this, for people who want to load it on toys. No offense."
+"OK, I'll strip the current Aura down to its smallest possible build. No language model, no apps. Just sensors and engines and flight models. It's actually quite small this way. Maybe I should make a version packaged like this, for people who want to load it on toys. No offense."
 
 ##
 
 Crossing 49 began with two radios and Sparky's shell.
 
-The radios were relatively easy. He had found an old children's crystal radio kit. An hour gave them a walkie-talkie that ran on existing batteries he'd previously moved over. They looked... very cheap. But they worked and should cover the whole station. Probably.
+The radios were relatively easy. He had found an old children's crystal radio kit. An hour gave them a walkie-talkie that ran on existing batteries he'd previously moved over. It looked... very cheap. But it worked and should cover the whole station. Probably.
 
 For Sparky, Jace removed the panels and transferred them one at a time. Simple metal crossed in minutes. The wires took longer. The controller took most of the session.
 
 Sophia laid the parts in exact rows on the Astral workbench as they came across. She had her radio in her ear, and would periodically leave for measurements or experiments.
 
-"This is like moving an entire appartment of furniture. Small, metal, robotic furniture."
+"This is like moving an entire apartment of furniture. Small, metal, robotic furniture."
 
 "I'm hoping he will work the same after reassembly."
 
@@ -298,7 +298,7 @@ They returned before midnight.
 
 Nick had sent three messages.
 
-The first was to meet for dinner. The first was another game invitation. The send a quick patch tohelp with simplifying Sparky's control stack.
+The first asked him to meet for dinner. The second was another game invitation. The third sent a quick patch to help simplify Sparky's control stack.
 
 Jace installed the patch.
 
@@ -330,7 +330,7 @@ Similar, Jace thought. Not the same. A thousand faint imitations happening too q
 
 On the physical side, both men looked up at the wall, like they had heard {Misty}'s screen speak. A maintenance robot rolled out of the side kitchen room and up to them carrying a tray of small dark shapes.
 
-Cerberus woke, stretched, and sniffed the air. His thoughts crystalized, sparked orange. Jace could see the thoughts of purple hunger crystalize and overtake all other thoughts.
+Cerberus woke, stretched, and sniffed the air. His thoughts crystallized, sparked orange. Jace could see the thoughts of purple hunger crystallize and overtake all other thoughts.
 
 Brandon smiled. A small blush of orange joy moved through his branching mental lights.
 
@@ -346,7 +346,7 @@ His HUD pinged that one delivery drone entered safe mode at the construction jun
 
 Jace's script rerouted traffic around it and opened an exception.
 
-He was in the workshop balancing Sparky's thrusters before transitioning them tonight. He saw the alert, tagged it for the next maintenance window, and returned to testing the power control module and the code that {SpoX} had written.  All tests looked good so far, and he was engrossed in the project. He had printed another shell and panels and wires so he could test pieces here. It was easier than moving the heavy components back and forth.
+He was in the workshop balancing Sparky's thrusters before transitioning them tonight. He saw the alert, tagged it for the next maintenance window, and returned to testing the power control module and the code that {SpoX} had written. All tests looked good so far, and he was engrossed in the project. He had printed another shell and panels and wires so he could test pieces here. It was easier than moving the heavy components back and forth.
 
 Twenty minutes later, a second drone entered safe mode at the same junction.
 
@@ -362,7 +362,7 @@ Jace closed it.
 
 He should have told Kim.
 
-Instead, he made a note to tell her after the crossing of the routing issues.
+Instead, he made a note to tell her about the routing issues after the crossing.
 
 Crossing 50 was Sparky's thruster day.
 
@@ -372,7 +372,7 @@ The assemebled unit was smaller than Jace's fist. It contained dense alloys, cer
 
 Jace pulled until his vision narrowed.
 
-Sophia made him stop twice, pausing while she anchored the motor in place. Pulling again, Cerberus leaned against his leg, adding his energy and weight. The thruster emerged by fractions and left his hands shaking.
+Sophia made him stop twice, pausing while she anchored the motor in place. When they began pulling again, Cerberus leaned against his leg, adding his energy and weight. The thruster emerged by fractions and left his hands shaking.
 
 When it finally crossed, Jace set it on the table and looked at the other nine still in the physical crate.
 
@@ -386,7 +386,7 @@ When it finally crossed, Jace set it on the table and looked at the other nine s
 
 "Three."
 
-"You are becoming an authoritarian. I thought Germans were fierce task masters."
+"You are becoming an authoritarian. I thought Germans were fierce taskmasters."
 
 Sophia handed him bread.
 
@@ -398,7 +398,7 @@ On the next day, Jace's morning queue contained sixty-three exceptions.
 
 He stared at the number.
 
-The contruction cooridor reroute had sent too much traffic through a freight corridor. A loading delay had caused three missed handoffs. One delivery of requested oxygen arrived nineteen minutes late. Two batteries had dropped below reserve because his model assumed a charger was available when it was not in the construction zone. The crew complained and had to curtail a shift.
+The construction corridor reroute had sent too much traffic through a freight corridor. A loading delay had caused three missed handoffs. One delivery of requested oxygen arrived nineteen minutes late. Two batteries had dropped below reserve because his model assumed a charger was available when it was not in the construction zone. The crew complained and had to curtail a shift.
 
 Nothing catastrophic had happened.
 
@@ -430,11 +430,11 @@ Jace looked at him.
 
 "You made work less busy. Then you disappeared with your girlfriend."
 
-"She's not.. we're... I am here now."
+"She's not... we're... I am here now."
 
 "Your body is."
 
-Nick stood, looking through pockets unti he found his glasses. They were in his back pocket, with a cracked lens. He's sat on them. He scowled.
+Nick stood, looking through pockets until he found his glasses. They were in his back pocket, with a cracked lens. He'd sat on them. He scowled.
 
 "You asked me to help with Sparky for months. He starts moving, and I find out because my patch reports a successful install and engine test. You do not even send the crash video."
 
@@ -444,7 +444,7 @@ Bread. Sleep. Blue light. Sophia laughing. Cerberus chasing impossible reflectio
 
 Nick stood.
 
-"I get it. I date alot. But, I balance things. I hope it is worth it."
+"I get it. I date a lot. But I balance things. I hope it is worth it."
 
 He left before Jace found an answer.
 
@@ -480,7 +480,7 @@ He turned left. He hovered.
 
 Jace laughed. Sophia applauded. Cerberus barked and chased him around the folding stool.
 
-Sparky completed three circles, bumped the wall, and started passing through it. Jace grabbed the case to stop him, almost burning his fingers on a thruster exhaust.
+Sparky completed three circles, bumped the wall, and started passing through it. Jace grabbed the casing to stop him, almost burning his fingers on a thruster exhaust.
 
 They had built something in another dimension.
 

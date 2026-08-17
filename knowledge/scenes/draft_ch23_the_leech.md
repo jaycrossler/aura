@@ -1,8 +1,38 @@
-Chapter 20. The Leech
+---
+id: draft_ch23_the_leech
+name: "Chapter 23. The Leech"
+type: chapter_draft
+book: book01
+chapter: Ch23
+scene_contract: X-02a revised
+pov: char_jace_apollo
+status: staged_draft
+schema_version: 2
+last_updated: 2026-08-17
+description: >
+  Jace, Sophia, and Lanchee authorize a dangerous Astral intervention on the
+  failing miner, where impatience and caution collide with a feeding Tick-Maw,
+  a physical bite, and Sophia's first deliberate orb absorption.
+cross_references:
+  - "[[arc_01_thread_X_astral]]"
+  - "[[arc_01_thread_P_pressure]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_sophia_lotte]]"
+  - "[[char_cerberus]]"
+  - "[[char_lanchee]]"
+  - "[[char_aura_ai]]"
+  - "[[magic_cryptid_species_reference]]"
+  - "[[magic_will_orbs]]"
+  - "[[advancement_ledger]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[draft_ch22_no_vampires]]"
+---
 
-Most people do not know this, but the difference between a parasite and a patient is obvious until both of them are dying and only one can tell you to stop.
+# Chapter 23. The Leech
 
-Jace Grant, unpublished notes
+> *Most people do not know this, but the difference between a parasite and a patient is obvious until both of them are dying and only one can tell you to stop.*
+>
+> Jace Grant, *unpublished notes*
 
 The parasite uncoiled one tendril from the miner's spine.
 
@@ -22,11 +52,11 @@ Jace stepped back.
 
 The creature's mouth followed.
 
-"Aura, return marker. Now."
+"{Aura}, return marker. Now."
 
 His implant translated the intent into a physical alert. Sophia pulled them across.
 
-
+##
 
 Jace hit the examination-room floor hard enough to bruise his shoulder.
 
@@ -170,11 +200,11 @@ Neither of them apologized.
 
 Sophia wrote both risks beneath Lanchee's authorization. They signed again, this time beside their own disagreement.
 
-
+##
 
 They changed the instrumentation before crossing 55.
 
-Jace fixed the physical medical clock to an isolated light that flashed once per second. Sparky carried its Astral camera and a paper wheel marked with sixty black lines. Sophia would rotate the wheel one mark for each physical flash that Aura reported through Jace's implant.
+Jace fixed the physical medical clock to an isolated light that flashed once per second. Sparky carried its Astral camera and a paper wheel marked with sixty black lines. Sophia would rotate the wheel one mark for each physical flash that {Aura} reported through Jace's implant.
 
 The method was crude. Every component failed differently. That made the combined failure useful.
 
@@ -196,7 +226,7 @@ Nick's jaw tightened.
 
 "Understood."
 
-He verified each clock, isolated Aura's buffer, and locked the clinic connection to receive-only.
+He verified each clock, isolated {Aura}'s buffer, and locked the clinic connection to receive-only.
 
 "If your implant temperature rises, the system pulls you out of the feed," he said. "If your physical heart becomes irregular, Lanchee ends the test. I do not care what you think you are about to accomplish."
 
@@ -212,7 +242,7 @@ Sophia touched the bread.
 
 The cold opened.
 
-
+##
 
 The parasite had moved.
 
@@ -234,7 +264,7 @@ The green vanished into its body.
 
 Three seconds.
 
-The physical medical signal reached Aura. Heart rate down. Temperature down by one hundredth of a degree.
+The physical medical signal reached {Aura}. Heart rate down. Temperature down by one hundredth of a degree.
 
 Four.
 
@@ -260,11 +290,11 @@ The thing did not have eyes. Jace knew it was watching him anyway.
 
 Seven.
 
-"Aura, trend."
+"{Aura}, trend."
 
 The response arrived as a pattern in his visual field.
 
-DECLINE CORRELATES WITH PULSE. FOUR OF FOUR.
+**DECLINE CORRELATES WITH PULSE. FOUR OF FOUR.**
 
 Eight.
 
@@ -384,9 +414,9 @@ The paper wheel turned to twenty-three.
 
 Behind them, the miner's dim light expanded with his next breath.
 
-Aura marked the physical monitor.
+{Aura} marked the physical monitor.
 
-HEART RATE RISING. TEMPERATURE RISING.
+**HEART RATE RISING. TEMPERATURE RISING.**
 
 Jace's forearm burned.
 
@@ -394,7 +424,7 @@ Blood spread across the floor around his physical body.
 
 "Return," he said.
 
-
+##
 
 Lanchee caught Jace's injured arm before he finished becoming heavy.
 
@@ -492,13 +522,13 @@ Sophia let out a breath. "Correct."
 
 It cost her something to agree. Not pride. Hope.
 
-Lanchee recorded the exchange without comment. She added a second line to Jace's treatment order: No unclassified intervention, including by patient request.
+Lanchee recorded the exchange without comment. She added a second line to Jace's treatment order: **No unclassified intervention, including by patient request.**
 
 For two hours, the miner's temperature climbed toward normal.
 
 His implant spikes stopped.
 
-The medical system revised its model from stable recovery to accelerated recovery, then asked Lanchee to classify the unexplained change. She entered unknown external intervention and refused every suggested alternative.
+The medical system revised its model from stable recovery to accelerated recovery, then asked Lanchee to classify the unexplained change. She entered **unknown external intervention** and refused every suggested alternative.
 
 The miner woke near the end of the second hour.
 
@@ -586,8 +616,27 @@ The first line under it was not a description of the creature.
 
 It was the cost.
 
-One patient recovering. One physical injury. One unknown absorption.
+**One patient recovering. One physical injury. One unknown absorption.**
 
 Below that, he wrote the next requirement.
 
-Find out how many more are aboard Fortuna.
+**Find out how many more are aboard Fortuna.**
+
+## Contract coverage
+
+| Item | Status |
+|---|---|
+| Jace and Sophia honor the promise to return before intervening | done |
+| Lanchee authorizes a narrowly bounded emergency intervention | done |
+| Cerberus remains protected on the physical side | done |
+| The revised instrumentation package produces partial synchronized evidence | done |
+| Sophia's caution and Jace's impatience both contribute to the rescue | done |
+| The Tick-Maw feeds through the patient's wound and spine | done |
+| The creature attacks Jace's face and bites his blocking forearm | done |
+| The bite manifests as a real physical wound | done |
+| Sophia kills the creature with directed force and ordered material | done |
+| Sophia deliberately absorbs the responsive amber orb through physical contact and feels warmth | done |
+| The hidden parasite deposit is preserved for the later two-cores reveal | done |
+| The patient stabilizes within two hours and remains unaware of the Astral cause | done |
+| Lanchee imposes consequences and continued medical oversight | done |
+| The ending motivates the station sweep | done |

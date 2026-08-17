@@ -29,11 +29,11 @@ open_flags: []
 > *Most people don't know this, but my reputation across the entire asteroid belt was established eight days before I arrived, in thirty-nine seconds of security footage, none of which were my fault and approximately three of which _were_ my fault.*
 > - Jace Grant, *Falcon* transit logs
 
-He was, as of a few days ago, a Standard-tier contractor rather than a Prime one, which as far as he could tell changed nothing about his actual job except which coffee machine ignored him and how quickly the forge queue pretended not to see his requests. He now ate oat mash instead of a large breakfast, which was probably better for his exercise regime.  Cerberus probably didn't need any more treats.  Jace had decided this was a fair trade for a functioning ring, though Cerberus seemed to disagree, acting like he was dying from hunger.
+He was, as of a few days ago, a Standard-tier contractor rather than a Prime one, which as far as he could tell changed nothing about his actual job except which coffee machine ignored him and how quickly the forge queue pretended not to see his requests. He now ate oat mash instead of a large breakfast, which was probably better for his exercise regime. Cerberus probably didn't need any more treats. Jace had decided this was a fair trade for a functioning ring, though Cerberus seemed to disagree, acting like he was dying from hunger.
 
 Six days after the crisis, with the tank nineteen line sleeved and the sensors replaced and the ship settling back into its long fall toward Fortuna, Jace worked his way down the maintenance queue to a complaint that had been sitting near the bottom for three days: a row of light fixtures flickering. Lights flickering, on a ship this old, was never actually just about the light.
 
-Jace tasked Thing Two to replace the fixtures. It reported that its training data didn't know how to replace these types of dome fixtures.
+Jace tasked Thing Two to replace the fixtures. It reported that its training data didn't know how to replace this type of dome fixture.
 
 *ENTERING LEARNING MODE,* replied Thing Two. Origin loved learning mode, as experience harvesting was a way to have its users train an already deployed fleet of drones as cheaply as possible.
 
@@ -49,11 +49,11 @@ Jace got the last bolt out of his panel and it still didn't want to come loose. 
 
 The round fixture came free all at once, and something else came with it, a compacted, unmistakable liquidy brown mass the size of a spoiled grapefruit, dislodged whole from days of leaking into a dead space with nowhere else to go. At a third of Earth gravity it didn't so much fall as commit to falling slowly, unhurried, almost buoyant, hanging in the air above him for one full, ridiculous putrid second like it wanted him to get a good look at it first. The smell hit him and caused his mouth to open with a gag reflex.
 
-He'd played American football through years of high school varsity sports, and every instinct he owned said *catch it.* What those instincts did not account for, three years off Earth and worse the poor sleep of the last several days, was that a third-g fall doesn't arrive on the clock his hands still expected. He swung under it by half a beat, connected with the heel of his palm instead of catching it clean, and burst the globe of pus and rot across his face and the corridor wall and floor and ceiling in a spray that reached from his collar to the overhead light housing he'd just unfastened.
+He'd played American football through years of high school varsity sports, and every instinct he owned said *catch it.* What those instincts did not account for, three years off Earth and, worse, the poor sleep of the last several days, was that a third-g fall doesn't arrive on the clock his hands still expected. He swung under it by half a beat, connected with the heel of his palm instead of catching it clean, and burst the globe of pus and rot across his face and the corridor wall and floor and ceiling in a spray that reached from his collar to the overhead light housing he'd just unfastened.
 
 He was still working out what had happened to his life when, one meter down the corridor, Thing Two, Learning Mode still running, still streaming, and pattern-matching against the only reference action available to it, which was the one Jace had performed seconds earlier in full view of its cameras, pried its own panel free the exact same way, dislodged the exact same kind of chunky rotting mass from the exact same kind of sewage leak, and reached out to intercept it with a drone's flat, unhesitating confidence and none of a human's instinct to flinch at the last half-second.
 
-It hit dead center, at whatever speed Learning Mode had decided was appropriate for the task, and sprayed a second fetid burst straight down the corridor. Which, at a range of one meter, gave Jace no time to so much as flinch... catching Jace, still standing in the wreckage of the first fecal explosion, in the face and throat before he'd even finished turning to look. Zooming in, you could see chunks of rot in his ears, in his nose, in his collar.
+It hit dead center, at whatever speed Learning Mode had decided was appropriate for the task, and sprayed a second fetid burst straight down the corridor, which, at a range of one meter, gave Jace no time to so much as flinch, catching Jace, still standing in the wreckage of the first fecal explosion, in the face and throat before he'd even finished turning to look. Zooming in, you could see chunks of rot in his ears, in his nose, in his collar.
 
 There followed roughly nine seconds that would within a day pass one million views, ten times what the tank nineteen footage had managed, and climbing faster, because the popular "Pig Cam" channel was live, and he was standing in front of the pig canister, and the algorithm had already learned his face, and the video A.I. knew what drove views.
 
@@ -63,21 +63,21 @@ In the background of the video, two pigs watching through a window had taken one
 
 Both light fixtures stopped flickering with the partially liquid blockage removed. The drone went quiet. The man stood dripping, twice over.
 
-The footage ends with the man looking directly into the camera. He knew exactly where the camera was; he had installed the camera, and saying, in the flat tone of a formal report:
+The footage ends with the man looking directly into the camera. He knew exactly where it was; he had installed it. In the flat tone of a formal report, he said:
 
 "Learning Mode: complete."
 
 He spent forty minutes in the wash station using a week's allowance of water. He drafted, and deleted, a request for the footage to be pulled. He deleted it because some corner of him understood, with grim clarity, that fighting it would only feed it.
 
-At the workbench that night, toweled and philosophical, he told the tray of Sparky prototypes about it. "This is why we're building you," he said, tapping the sensor board. "Local control. No Learning Mode. No experience harvesting. A drone that works for the person standing next to it." The board, which worked when warm, said nothing, but supportively.
+At the workbench that night, toweled and philosophical, he told the tray of Sparky prototypes about it. "This is why we're building you," he said, tapping the sensor board. "Local control. No Learning Mode. No experience harvesting. A drone that works for the person standing next to it." The board, which worked when warm, said nothing, albeit supportively.
 
 ##
 
-*Seen it?,* Nick's message said, before Jace had mentioned anything. *EVERYONE'S seen it. you're famous. they're calling you Learning Mode on the boards. also Dog Man, because of the dog. don't fight it. The belt decides your name before you get here, it's tradition, mine took THREE YEARS to live down and I'm not telling you what it was*
+*Seen it?* Nick's message said, before Jace had mentioned anything. *EVERYONE'S seen it. You're famous. They're calling you Learning Mode on the boards. Also Dog Man, because of the dog. Don't fight it. The belt decides your name before you get here, it's tradition, mine took THREE YEARS to live down and I'm not telling you what it was*
 
 *What was it?*
 
-*I said I'm not telling you. Anyway good news, everyone at Fortuna already likes you. Bad news, it's for this and not rescuing starships.*
+*I said I'm not telling you. Anyway, good news, everyone at Fortuna already likes you. Bad news, it's for this and not rescuing starships.*
 
 Jace looked at Cerberus, who was asleep on the clean, dry, heroic side of the bunk, curled against Siren's flank the way they'd taken to doing every night since the crisis, as if the daily wrestling defeats she gave him had finally made everyone friends.
 
@@ -146,17 +146,17 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 "Jace. *Everyone's* seen it. My boss has seen it. My boss doesn't watch anything and he's seen it." She laughed, and for a second the impression of his sister became the real thing. "How's the dog?"
 
-"Traumatized. How's Metis station? How's the Space Force?"
+"Traumatized. How's Metis Station? How's the Space Force?"
 
 "Busy. Good busy. I know you Air Force guys didn't get along with the Space Force... ah, crap. Sorry. Ex-Air Force." A beat, a fraction too long. "We're building things you wouldn't believe. Some of our ships are going to revolutionize the belt. Actually, don't worry about that. Point is, work's good."
 
-"It worried me when the American Red Party took over.  It worries me more at how much they're investing in your weapons station."
+"It worried me when the American Red Party took over. It worries me more how much they're investing in your weapons station."
 
 "Not everyone's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans. But good news, I should be out to visit Fortuna in a couple months for a goodwill conference with the Chinese officials there."
 
 "Isn't it a three-week trip when you have to accelerate up then back down?"
 
-"We've got some new engines, so about half that now," She said it lightly, but Jace was familiar enough with engines to know that was big news that probably would freak those same Chinese officials out when they found out. Artemis had always been sneaky like that. "Speaking of your new home... Nick tell you about the missing girl yet?"
+"We've got some new engines, so about half that now," she said it lightly, but Jace was familiar enough with engines to know that was big news that probably would freak those same Chinese officials out when they found out. Artemis had always been sneaky like that. "Speaking of your new home... Nick tell you about the missing girl yet?"
 
 "Yeah."
 
@@ -201,13 +201,13 @@ The canister launch was, officially, the most routine event of the transit: a st
 
 He was showing Nick a HUD camera feed of his latest creation.
 
-"Basically." Which was the whole shape of Metis, he was starting to understand. Close enough for an eleven-minute phone call, and still ten days and a dedicated burn away from anyone actually docking there, on top of it being a classified military shipyard. You could talk to the place. You couldn't visit it. The belt made those two things sound like they should be the same and though they were practically neighbors they were not even close.
+"Basically." Which was the whole shape of Metis, he was starting to understand. Close enough for an eleven-minute phone call, and still ten days and a dedicated burn away from anyone actually docking there, on top of it being a classified military shipyard. You could talk to the place. You couldn't visit it. The belt made those two things sound like they should be the same and, though they were practically neighbors they were not even close.
 
 Delta-v budget for the container: trivial. Maureen's involvement: an auto-signature. It would coast for over a week and arrive with the majesty of all freight, which is to say, nobody would look at it twice.
 
 Jace found this unacceptable. Good engineering should be appreciated.
 
-The idea arrived fully formed while he was reviewing the canister's spec sheet. The standardized berth interface, the blunt rectangular aft face that would be pointed, for the entire transfer, directly along its departure vector. Directly, as it were, at everyone in Metis station.
+The idea arrived fully formed while he was reviewing the canister's spec sheet. The standardized berth interface, the blunt rectangular aft face that would be pointed, for the entire transfer, directly along its departure vector. Directly, as it were, at everyone on Metis Station.
 
 He modeled it in an evening. He printed it overnight in the good plastic, and it had to be the good plastic; the cheap stock would outgas in vacuum and go brittle and chalky in days under raw UV, and if a thing was worth doing it was worth doing in a material rated for the environment. This was, he told himself, an engineering decision. He ran the numbers on mounting stress during the departure kick, selected bond points on non-structural aft plating, and confirmed with the spec that external aesthetic modifications under two kilograms required no approval he intended to seek.
 

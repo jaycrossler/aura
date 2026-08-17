@@ -1,6 +1,6 @@
 Chapter 14. Down to the Asteroid
 
-Most people do not know this, but the human brain can file almost anything under “I was tired.” Walking through walls. Pulling oxygen through solid metal. I wonder how many hallucinations caused from exhaustion over the years were actually real.
+Most people do not know this, but the human brain can file almost anything under “I was tired.” Walking through walls. Pulling oxygen through solid metal. I wonder how many hallucinations caused by exhaustion over the years were actually real.
 
 Jace Grant, unpublished notes
 
@@ -114,7 +114,7 @@ The Victoria's signature was valid. The timestamps matched station time. Jace ha
 
 Everything else could still be a dream.
 
-The shuttle crossed the kilometer between station and asteroid. 3 Fortuna rose beneath them, a curved gray world large enough to own a horizon. Floodlights marked the manufacturing district. Robot hives moved as slow points between warehouses.
+The shuttle crossed the kilometer between station and asteroid. Fortuna 3 rose beneath them, a curved gray world large enough to own a horizon. Floodlights marked the manufacturing district. Robot hives moved as slow points between warehouses.
 
 Jace had seen the asteroid from the survey boat. He had seen through it in dreams.
 
@@ -169,7 +169,7 @@ Relief came with disappointment. Jace did not examine either.
 
 The browned charging frame failed for an ordinary reason. Years of thermal cycling had cracked a connector. Jace replaced it, rerouted two crawlers, and watched their batteries accept current.
 
-Both had stopped at the same empty patch of regolith. Their navigation logs showed clear routes. Their physical tracks curved toward the stop point from different directions. One was glitching, probably from cosmic rays, and wouldn't reboot. Jace flipped the back panel and pushed the reboot key. All this way just to push a button. The other had been stuck waiting for the first one in an open comms message that never responded. Clearing the first fixed both.
+Both had stopped at the same empty patch of regolith. Their navigation logs showed clear routes. Their physical tracks curved toward the stop point from different directions. One was glitching, probably from cosmic rays, and wouldn't reboot. Jace flipped the back panel and pushed the reboot key. All this way just to push a button. The other had been stuck waiting for the first one to answer an open communications request. Clearing the first fixed both.
 
 At noon, Jace stood beside the smelter radiator field and looked across the industrial district. Warehouses, pressure shelters, truss printers, ore bins, crawler garages, and construction frames spread over the rock. Robots performed most of the motion. Humans visited when the models stopped matching reality.
 
@@ -199,7 +199,7 @@ At 1238, Carlos called.
 
 His face filled Jace's HUD until Jace pushed the video into the upper-left corner, reduced it to twelve percent, and restored the crawler diagnostics underneath.
 
-"How's Fortuna asteroid?," Carlos asked.
+"How's Fortuna asteroid?" Carlos asked.
 
 "Solid. How's Fortuna Station?"
 
@@ -221,7 +221,7 @@ The west personnel lock opened on Carlos's authorization.
 
 Inside, the scale became harder to understand. The factory was unpressurized. Banks of lamps threw white light across ore crushers, vacuum furnaces, truss printers, machine cages, and warehouse stacks that rose five stories in one-fiftieth gravity. Overhead cranes moved on rails too far above him to look real. Hundreds of drones crossed marked lanes in steady streams.
 
-He entered a pressurized room where a few people were looking at screens. A Chinese maintenance tech had a comple map open on one, and said "Seek, delay inspection report four by seven minutes."
+He entered a pressurized room where a few people were looking at screens. A Chinese maintenance tech had a complete map open on one, and said "Seek, delay inspection report four by seven minutes."
 
 A precise Mandarin voice answered over his suit speaker. Jace's HUD translated: Delay recorded. Explanation field remains blank.
 
@@ -237,7 +237,7 @@ The man cursed and headed out, picking up a torch.
 
 "Sorry Ray."
 
-A second put down his lunch and grabbed a helment, Seek already tasking him to follow.
+A second technician put down his lunch and grabbed a helmet, Seek already tasking him to follow.
 
 Most of the work was done by robots that carried loads. A few cleaned the other machines. Smaller units cleaned the cleaning units. Everything moved in short bounces, or rolled on tracks that sometimes left the ground.
 
@@ -267,7 +267,7 @@ Jace enlarged the old floor plan. A straight route would have saved eighty meter
 
 "Correct. Details only fill in once you get access. Open that inner viewing cover close to you. I'll turn on a blue light, but just for a minute."
 
-Behind the cover, a window showed towers of metal rectangular boxes were arrange in a pattern through the dark room. A sign on the wall read "Crystal Growth Farm 7". Each box was on a seperate vibration-cancelling platform.
+Behind the cover, a window showed towers of rectangular metal boxes arranged in a pattern through the dark room. A sign on the wall read "Crystal Growth Farm 7." Each box was on a separate vibration-cancelling platform.
 
 Rows of seed rods hung inside the vacuum growth chambers. Some carried clear boules longer than Jace's arm. Others held pale blue, amber, or nearly black crystals with surfaces so smooth that the chambers seemed to contain captured pieces of geometry. Soft manipulator arms advanced by fractions of a millimeter. Nothing vibrated. Nothing touched a growing face unless the process required it.
 
@@ -277,13 +277,13 @@ Jace forgot his headache for several seconds.
 
 "They are expensive," Carlos said. "No air, almost no dust, almost no vibrations. That's where most computer memory chips are made, or the crystal pieces of them are, anyway."
 
-A palm-sized service drone crossed the bay, stopped inside an electrostatic cleaning frame, rotated through three fields, and continued only after a particle dust counter approved it.
+A palm-sized service drone crossed the bay, stopped inside an electrostatic cleaning frame, rotated through three fields, and continued only after a particle counter approved it.
 
 "The asteroid is almost two percent gravity," Carlos continued. "Enough for dust to settle. Fortuna makes dust by mining, cutting, printing, walking, and existing. The farm drones never leave this loop. Their bearings are sealed. Their manipulators clean themselves before every contact. One dirty wheel can spoil three months of growth."
 
 "Why build crystal farms here at all?"
 
-"Service access and shielding. The best farms are free-flying, kilometers away from Fortuna. Those are perfect, while these are only almost perfect. When their atoms are aligned in perfect matrixes then they work as superconducors. Or so I'm told. The orbital ones require a tug and an EVA crew to remake the whole set when a feeder jams. It gives us two product lines."
+"Service access and shielding. The best farms are free-flying, kilometers away from Fortuna. Those are perfect, while these are only almost perfect. When their atoms are aligned in perfect matrices, then they work as superconductors. Or so I'm told. The orbital ones require a tug and an EVA crew to remake the whole set when a feeder jams. It gives us two product lines."
 
 Jace leaned closer to the cover.
 
@@ -293,7 +293,7 @@ The metal frame doubled into dim overlapping layers. Each growing crystal remain
 
 Then the ordinary chamber returned.
 
-Jace blinked until his eyes cleared, Carlos telling him more that he could process about crystals and buyers and a hundred details that his brain couldn't hold on to.
+Jace blinked until his eyes cleared, while Carlos told him more than he could process about crystals and buyers and a hundred details that his brain couldn't hold on to.
 
 
 
@@ -335,7 +335,7 @@ Damn it. She was right.
 
 Kim closed the channel.
 
-Thing Two was still up in the station, plugged into a recharge cradle a few meters from the drone ops room. He remotely piloted it over and had it change the filter. He set it to do so daily. Its camera caught Kim staring at it, nodding in appreciation.
+Thing Two was still up in the station, plugged into a recharge cradle a few meters from the Drone Ops room. He remotely piloted it over and had it change the filter. He set it to do so daily. Its camera caught Kim staring at it, nodding in appreciation.
 
 Her ordinary complaining centered him. He was tired, but he'd push through.
 
@@ -345,7 +345,7 @@ The shuttle lifted at 1710.
 
 Fortuna Station descended toward them from the black. Three rings. One spine. Hundreds of lives hidden behind metal that Jace now knew could become transparent.
 
-He nodded off in the ride. Could this all be a dream? He made himself state the facts.
+He nodded off during the ride. Could this all be a dream? He made himself state the facts.
 
 He had crossed somewhere real.
 
@@ -361,7 +361,7 @@ The physical world remained solid but could change. Or he changed it. Or there w
 
 At the inn, Jace showered and changed.
 
-He had put a new shirt and thick jacket on the print queue and picked them up, pressing out the wrinkles. They looked nice. He had removed the zipper and switched the metal buttons for simple plastic. Sophia had sent a note before with the recommendation, which normally would have sounded crazy.
+He had put a new shirt and thick jacket on the print queue and picked them up, pressing out the wrinkles. They looked nice. He had removed the zipper and switched the metal buttons for simple plastic. Sophia had sent a note earlier with that recommendation, which normally would have sounded crazy.
 
 Looking fresh, he collected Cerberus from Nick.
 

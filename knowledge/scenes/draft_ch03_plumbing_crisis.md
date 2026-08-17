@@ -131,7 +131,7 @@ The argon pumps came alive through the deck.
 
 They did not sound like the water pumps. Water surged and gurgled. The cryogenic pumps produced a thin mechanical whine that Jace felt along his fillings. Temperature warnings multiplied as the first opposing tank accepted mass.
 
-The wobble worsened for two rotations. *Thump*, *Thump*
+The wobble worsened for two rotations. *Thump. Thump.*
 
 Then the lateral acceleration began to fall.
 
@@ -177,11 +177,11 @@ No berth separated. No spoke failed. Fifty-four animals, two dogs, four humans, 
 
 For several seconds, nobody spoke.
 
-Mei looked at the animal board, where the feed was showing squawking barking chaos. "Siren safe. Ducks OK."
+Mei looked at the animal board, where the feed was showing squawking, barking chaos. "Siren safe. Ducks OK."
 
 Jace let out a breath he did not remember holding.
 
-{Alex} said, *Emergency stabilization achieved. Please note that successful outcome does not retroactively authorize the procedure.*
+{Alex} said, *Emergency stabilization achieved. Please note that a successful outcome does not retroactively authorize the procedure.*
 
 "Thank you, Alex."
 
@@ -196,7 +196,7 @@ The explosion had cracked a waste manifold, crushed three sensor trunks, and lef
 
 He found frost where no open line reached.
 
-The ruptured water pipe was not punctured. Three massive ragged grooves ran along it, too parallel for debris and too deep for a tool that belonged aboard. The pipe was reinforced steel and should have been able to withstand a nuclear blast. The pressure sensors had not failed. Their housings had been crushed inward.
+The ruptured water pipe was not punctured. Three massive, ragged grooves ran along it, too parallel for debris and too deep for a tool that belonged aboard. The pipe was reinforced steel and should have been able to withstand a nuclear blast. The pressure sensors had not failed. Their housings had been crushed inward.
 
 His HUD flared hot behind his left eye. Blue targeting brackets appeared on bare conduit, vanished, and returned around nothing. He shut the overlay off.
 
@@ -281,7 +281,7 @@ He picked up his tools and started on the plumbing.
 | NEW - Maureen has an explicit, on-page chance to order Jace to stand down; her silence, not an order, is what lets him proceed | done | must_accomplish | beat2_argon_plan |
 | NEW - Thing One triggers the valves physically, from an exterior hull control panel | done | must_accomplish | beat2_argon_plan |
 | NEW - Jace is holding a lit plasma torch (cutting ice from the access hatch) when the creature appears; he swipes it through the creature and the creature vanishes, leaving a glowing sphere his hand closes on and then loses | done | must_accomplish | beat4_damage_and_glimpse |
-| NEW - His own HUD/helmet-cam footage, reviewed afterward, shows nothing. no creature, no light, just his arm moving through empty ice | done | must_accomplish | beat4_damage_and_glimpse |
+| NEW - His own HUD/helmet-cam footage, reviewed afterward, shows nothing: no creature, no light, just his arm moving through empty ice | done | must_accomplish | beat4_damage_and_glimpse |
 
 ## Open Notes
 

@@ -28,7 +28,10 @@ cross_references:
   - "[[scene_notes_x09e_sparky_comes_across]]"
   - "[[draft_ch15_sideways]]"
   - "[[draft_ch16_ten_good_days]]"
-  - "[[draft_ch17_the_eye_in_the_wall]]"
+  - "[[draft_ch17_falling_behind]]"
+  - "[[draft_ch21_quiet_companion]]"
+  - "[[draft_ch22_no_vampires]]"
+  - "[[draft_ch23_the_leech]]"
 ---
 
 # Thread X — Astral Exploration

@@ -29,7 +29,7 @@ cross_references:
 
 # Chapter 8. Settling In
 
-> *Most people do not know this, but Origin has a clause in most jobs where the title they hire you for can change if over-ridden by a senior. If an A.I agrees, they don't need any other oversight. Your salary can then be adjusted accordingly.*
+> *Most people do not know this, but Origin has a clause in most jobs where the title they hire you for can change if overridden by a senior. If an A.I. agrees, they don't need any other oversight. Your salary can then be adjusted accordingly.*
 >
 > Jace Grant, *Fortuna notes*
 
@@ -41,7 +41,7 @@ Jace opened one eye. How had he lost 6 points in 6 hours of sleep?
 
 The room had no window. Cerberus slept across his legs with the stuffed pig under his chin, hair matted with dried slobber.
 
-*Items requiring attention. One, Station Safety Orientation begins in fifty-eight minutes. Two, your quarters environmental assessment is due before cycle three. Three, early contract renewal discussions are available after four hundred compliant cycles.*
+*Items requiring attention. One, Station Safety Orientation begins in fifty-eight minutes. Two, the environmental assessment of your quarters is due before cycle three. Three, early contract renewal discussions are available after four hundred compliant cycles.*
 
 "Cancel."
 
@@ -87,7 +87,7 @@ Jace loaded the new Sparky chassis and his ten micro-thrusters onto a clean benc
 
 He installed the first thruster.
 
-It fired at three percent power without tripping the bus. Powerful enough that it almost lifted in the air.
+It fired at three percent power without tripping the bus, powerfully enough that it almost lifted into the air.
 
 The second worked too.
 
@@ -149,7 +149,7 @@ Kim pointed at the back room. "Learn the manifest queue. Keep your two to delive
 
 "Then you can ask again with a month of relevant experience."
 
-The back room was six meters long, windowless, and full of retired parts on a work bench. It smelled like solder. Some of the pieces looked really useful.
+The back room was six meters long, windowless, and full of retired parts on a workbench. It smelled like solder. Some of the pieces looked really useful.
 
 ##
 

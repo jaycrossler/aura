@@ -7,7 +7,7 @@ He was, as of a few days ago, a Standard-tier contractor rather than a Prime one
 
 Six days after the crisis, with the tank nineteen line sleeved and the sensors replaced and the ship settling back into its long fall toward Fortuna, Jace worked his way down the maintenance queue to a complaint that had been sitting near the bottom for three days: a row of light fixtures flickering. Lights flickering, on a ship this old, was never actually just about the light.
 
-Jace tasked Thing Two to replace the fixtures. It reported that its training data didn't know how to replace these types of dome fixtures.
+Jace tasked Thing Two to replace the fixtures. It reported that its training data didn't know how to replace this type of dome fixture.
 
 ENTERING LEARNING MODE, replied Thing Two. Origin loved learning mode, as experience harvesting was a way to have its users train an already deployed fleet of drones as cheaply as possible.
 
@@ -23,11 +23,11 @@ Jace got the last bolt out of his panel and it still didn't want to come loose. 
 
 The round fixture came free all at once, and something else came with it, a compacted, unmistakable liquidy brown mass the size of a spoiled grapefruit, dislodged whole from days of leaking into a dead space with nowhere else to go. At a third of Earth gravity it didn't so much fall as commit to falling slowly, unhurried, almost buoyant, hanging in the air above him for one full, ridiculous putrid second like it wanted him to get a good look at it first. The smell hit him and caused his mouth to open with a gag reflex.
 
-He'd played American football through years of high school varsity sports, and every instinct he owned said catch it. What those instincts did not account for, three years off Earth and worse the poor sleep of the last several days, was that a third-g fall doesn't arrive on the clock his hands still expected. He swung under it by half a beat, connected with the heel of his palm instead of catching it clean, and burst the globe of pus and rot across his face and the corridor wall and floor and ceiling in a spray that reached from his collar to the overhead light housing he'd just unfastened.
+He'd played American football through years of high school varsity sports, and every instinct he owned said catch it. What those instincts did not account for, three years off Earth and, worse, the poor sleep of the last several days, was that a third-g fall doesn't arrive on the clock his hands still expected. He swung under it by half a beat, connected with the heel of his palm instead of catching it clean, and burst the globe of pus and rot across his face and the corridor wall and floor and ceiling in a spray that reached from his collar to the overhead light housing he'd just unfastened.
 
 He was still working out what had happened to his life when, one meter down the corridor, Thing Two, Learning Mode still running, still streaming, and pattern-matching against the only reference action available to it, which was the one Jace had performed seconds earlier in full view of its cameras, pried its own panel free the exact same way, dislodged the exact same kind of chunky rotting mass from the exact same kind of sewage leak, and reached out to intercept it with a drone's flat, unhesitating confidence and none of a human's instinct to flinch at the last half-second.
 
-It hit dead center, at whatever speed Learning Mode had decided was appropriate for the task, and sprayed a second fetid burst straight down the corridor. Which, at a range of one meter, gave Jace no time to so much as flinch... catching Jace, still standing in the wreckage of the first fecal explosion, in the face and throat before he'd even finished turning to look. Zooming in, you could see chunks of rot in his ears, in his nose, in his collar.
+It hit dead center, at whatever speed Learning Mode had decided was appropriate for the task, and sprayed a second fetid burst straight down the corridor, which, at a range of one meter, gave Jace no time to so much as flinch, catching Jace, still standing in the wreckage of the first fecal explosion, in the face and throat before he'd even finished turning to look. Zooming in, you could see chunks of rot in his ears, in his nose, in his collar.
 
 There followed roughly nine seconds that would within a day pass one million views, ten times what the tank nineteen footage had managed, and climbing faster, because the popular "Pig Cam" channel was live, and he was standing in front of the pig canister, and the algorithm had already learned his face, and the video A.I. knew what drove views.
 
@@ -37,21 +37,21 @@ In the background of the video, two pigs watching through a window had taken one
 
 Both light fixtures stopped flickering with the partially liquid blockage removed. The drone went quiet. The man stood dripping, twice over.
 
-The footage ends with the man looking directly into the camera. He knew exactly where the camera was; he had installed the camera, and saying, in the flat tone of a formal report:
+The footage ends with the man looking directly into the camera. He knew exactly where it was; he had installed it. In the flat tone of a formal report, he said:
 
 "Learning Mode: complete."
 
 He spent forty minutes in the wash station using a week's allowance of water. He drafted, and deleted, a request for the footage to be pulled. He deleted it because some corner of him understood, with grim clarity, that fighting it would only feed it.
 
-At the workbench that night, toweled and philosophical, he told the tray of Sparky prototypes about it. "This is why we're building you," he said, tapping the sensor board. "Local control. No Learning Mode. No experience harvesting. A drone that works for the person standing next to it." The board, which worked when warm, said nothing, but supportively.
+At the workbench that night, toweled and philosophical, he told the tray of Sparky prototypes about it. "This is why we're building you," he said, tapping the sensor board. "Local control. No Learning Mode. No experience harvesting. A drone that works for the person standing next to it." The board, which worked when warm, said nothing, albeit supportively.
 
 
 
-Seen it?, Nick's message said, before Jace had mentioned anything. EVERYONE'S seen it. you're famous. they're calling you Learning Mode on the boards. also Dog Man, because of the dog. don't fight it. The belt decides your name before you get here, it's tradition, mine took THREE YEARS to live down and I'm not telling you what it was
+Seen it? Nick's message said, before Jace had mentioned anything. EVERYONE'S seen it. You're famous. They're calling you Learning Mode on the boards. Also Dog Man, because of the dog. Don't fight it. The belt decides your name before you get here, it's tradition, mine took THREE YEARS to live down and I'm not telling you what it was
 
 What was it?
 
-I said I'm not telling you. Anyway good news, everyone at Fortuna already likes you. Bad news, it's for this and not rescuing starships.
+I said I'm not telling you. Anyway, good news, everyone at Fortuna already likes you. Bad news, it's for this and not rescuing starships.
 
 Jace looked at Cerberus, who was asleep on the clean, dry, heroic side of the bunk, curled against Siren's flank the way they'd taken to doing every night since the crisis, as if the daily wrestling defeats she gave him had finally made everyone friends.
 
@@ -117,17 +117,17 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 "Jace. Everyone's seen it. My boss has seen it. My boss doesn't watch anything and he's seen it." She laughed, and for a second the impression of his sister became the real thing. "How's the dog?"
 
-"Traumatized. How's Metis station? How's the Space Force?"
+"Traumatized. How's Metis Station? How's the Space Force?"
 
 "Busy. Good busy. I know you Air Force guys didn't get along with the Space Force... ah, crap. Sorry. Ex-Air Force." A beat, a fraction too long. "We're building things you wouldn't believe. Some of our ships are going to revolutionize the belt. Actually, don't worry about that. Point is, work's good."
 
-"It worried me when the American Red Party took over. It worries me more at how much they're investing in your weapons station."
+"It worried me when the American Red Party took over. It worries me more how much they're investing in your weapons station."
 
 "Not everyone's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let me off station without scans. But good news, I should be out to visit Fortuna in a couple months for a goodwill conference with the Chinese officials there."
 
 "Isn't it a three-week trip when you have to accelerate up then back down?"
 
-"We've got some new engines, so about half that now," She said it lightly, but Jace was familiar enough with engines to know that was big news that probably would freak those same Chinese officials out when they found out. Artemis had always been sneaky like that. "Speaking of your new home... Nick tell you about the missing girl yet?"
+"We've got some new engines, so about half that now," she said it lightly, but Jace was familiar enough with engines to know that was big news that probably would freak those same Chinese officials out when they found out. Artemis had always been sneaky like that. "Speaking of your new home... Nick tell you about the missing girl yet?"
 
 "Yeah."
 
@@ -171,13 +171,13 @@ so it's basically a going-away present that arrives after you're already gone
 
 He was showing Nick a HUD camera feed of his latest creation.
 
-"Basically." Which was the whole shape of Metis, he was starting to understand. Close enough for an eleven-minute phone call, and still ten days and a dedicated burn away from anyone actually docking there, on top of it being a classified military shipyard. You could talk to the place. You couldn't visit it. The belt made those two things sound like they should be the same and though they were practically neighbors they were not even close.
+"Basically." Which was the whole shape of Metis, he was starting to understand. Close enough for an eleven-minute phone call, and still ten days and a dedicated burn away from anyone actually docking there, on top of it being a classified military shipyard. You could talk to the place. You couldn't visit it. The belt made those two things sound like they should be the same and, though they were practically neighbors they were not even close.
 
 Delta-v budget for the container: trivial. Maureen's involvement: an auto-signature. It would coast for over a week and arrive with the majesty of all freight, which is to say, nobody would look at it twice.
 
 Jace found this unacceptable. Good engineering should be appreciated.
 
-The idea arrived fully formed while he was reviewing the canister's spec sheet. The standardized berth interface, the blunt rectangular aft face that would be pointed, for the entire transfer, directly along its departure vector. Directly, as it were, at everyone in Metis station.
+The idea arrived fully formed while he was reviewing the canister's spec sheet. The standardized berth interface, the blunt rectangular aft face that would be pointed, for the entire transfer, directly along its departure vector. Directly, as it were, at everyone on Metis Station.
 
 He modeled it in an evening. He printed it overnight in the good plastic, and it had to be the good plastic; the cheap stock would outgas in vacuum and go brittle and chalky in days under raw UV, and if a thing was worth doing it was worth doing in a material rated for the environment. This was, he told himself, an engineering decision. He ran the numbers on mounting stress during the departure kick, selected bond points on non-structural aft plating, and confirmed with the spec that external aesthetic modifications under two kilograms required no approval he intended to seek.
 
@@ -300,7 +300,7 @@ The first creature pushed away from the panel and launched again. Two red points
 
 Jace swung.
 
-The wrench connected with a sound he felt through his wrist. The creature folded around the blow without bleeding, sprang straight again, looking like a fractal wrapped in an MC Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
+The wrench connected with a sound he felt through his wrist. The creature folded around the blow without bleeding, sprang straight again, looking like a fractal wrapped in an M. C. Escher drawing, and its claws scored the breather casing without finding skin, popping it with a loud hiss of escaping air.
 
 He swung a second time. The wrench struck the top part, where an animal would keep its head.
 
@@ -326,7 +326,7 @@ His HUD recorded an empty hole. No shells. No creature.
 
 He watched the footage before he climbed down.
 
-The camera showed Jace opening a vacant conduit plate. It showed him recoil, strike the wall twice, his air canister popping, and him spinning into the ladder. It showed his sleeve split against the panel's sharp edge. It showed him stare through a solid hull for twenty seconds.
+The camera showed Jace opening a vacant conduit plate. It showed him recoiling, striking the wall twice, popping his air canister, and spinning into the ladder. It showed his sleeve split against the panel's sharp edge. It showed him stare through a solid hull for twenty seconds.
 
 No eggs. No creatures. No light.
 
@@ -340,7 +340,7 @@ He returned to the spire with Thing One after sunrise. The drone mapped every pa
 
 Jace's foot crunched as he searched the floor grate beneath the shaft before leaving.
 
-A single black, brown, and white feather had caught behind an air circulation filter mesh. A few insect shell pieces were cracked as well on the ground near it. Starships didn't, as a rule, have problems with insects unless they brought them along as foodstock. These looked like silkworm shell pieces.
+A single black, brown, and white feather had caught behind an air circulation filter mesh. A few insect-shell fragments lay cracked on the ground nearby. Starships didn't, as a rule, have problems with insects unless they brought them along as foodstock. These looked like silkworm shell pieces.
 
 He held the feather up under the work light. Small. Curved. Duck.
 
@@ -364,7 +364,7 @@ Independent agreement between sensor systems increases confidence in the finding
 
 The fine appeared.
 
-It was smaller than the plumbing penalty. Jace found that almost insulting. But, he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary for adults? He was sure he read that somewhere.
+It was smaller than the plumbing penalty. Jace found that almost insulting, but he would feel it in his breakfast. Didn't he once hear that breakfast was totally unnecessary for adults? He was sure he read that somewhere.
 
 This is your second documented incident involving unauthorized tool use during the current contract period. Origin recommends a medical assessment and temporary suspension from hazardous equipment.
 
@@ -408,7 +408,7 @@ The shaft stayed empty.
 
 For the next two days, Jace carried the wrench with him everywhere. He went over every inch of the ship, inside and out, or as much as Maureen and Alex would let him get away with. He found nothing.
 
-Cerberus still would not come near the access shaft. No more ducks went missing and the Silkworms bred normally after.
+Cerberus still would not come near the access shaft. No more ducks went missing and the silkworms bred normally afterward.
 
 
 
@@ -463,7 +463,7 @@ Mei waited inside the transfer tug with one light bag between her boots. Four mo
 
 Jace had two bags. The duffel was heavy enough to pull hard against his shoulder in the tug's weak spin. Inside, wrapped in clothing, rode a new Sparky chassis and ten shiny new precision space-rated micro-thrusters he had printed without anyone complaining. The thrusters drew less power than the old design, carried better overload protection, and remained unplugged so one bad impact would not convert the bag into a brief electrical fire. He felt a little bad at the amount of platinum wire he'd used in their design. But only a little.
 
-Cerberus rode in a chest harness. He had grown to nearly thirty pounds and transitioning from Mars-standard gravity to weightless and slowly back up to Mars-standard again was apparently the most exciting thing that had happened to him in his life.
+Cerberus rode in a chest harness. He had grown to nearly thirty pounds and the transition from Mars-standard gravity to weightlessness and slowly back to Mars-standard again was apparently the most exciting thing that had happened to him in his life.
 
 The tug crossed the gap in fifteen minutes.
 
@@ -475,7 +475,7 @@ Below everything turned the asteroid 'Fortuna 3' which the station was named aft
 
 Jace had spent four months inside the Falcon's single ring. A full circuit there took two minutes at a jog, three with a vest. Fortuna broke the scale. It had neighborhoods. It had traffic. It had a horizon that curved up in front of you and disappeared behind buildings.
 
-Mei said "Smaller than Terminus," wistful of the Mars city she'd been born in.
+Mei said, "Smaller than Terminus," sounding wistful for the Mars city where she'd been born.
 
 "Most places are."
 
@@ -483,7 +483,7 @@ She watched the station for another minute, looking anxious as they rode an elev
 
 Siren sat beside Mei. At some point between the Falcon and the tug and the elevator, the dog had transferred her allegiance to Mei without complaint.
 
-The receiving bay was louder than the entire voyage. It was pressurized and the dogs turned their heads at every sound, like watching a tennis match.
+The receiving bay was louder than the entire voyage. It was pressurized and the dogs turned their heads at every sound, as if watching a tennis match.
 
 Cargo alarms chimed. Tugs locked against the outer frame. Robots rolled through painted lanes with containers held above them. Five hundred people could fit aboard Fortuna during a busy docking window. It seemed all of them had chosen this one.
 
@@ -513,7 +513,7 @@ Jace looked at Petroski. "I thought Russia broke up into eight separate countrie
 
 "Eight states," Petroski said.
 
-"Aren't all of them claiming to be fully independent soverign nations now?" the American asked, obviously needling his friend.
+"Aren't all of them claiming to be fully independent sovereign nations now?" the American asked, obviously needling his friend.
 
 "Eight rambunctious states... experiencing sibling rivalries."
 
@@ -557,7 +557,7 @@ One compact woman wearing a drone-operations blue patch who had been chatting wi
 
 He also noticed a pale woman moving quickly across the far side of the bay. A bright scarf flashed at her throat, all red and green against gray station fabric. She carried no luggage and did not join the crowd. She looked tired, but vibrant.
 
-The domes of Mars had crowds, but not like this. Maybe it was the long isolated trip, maybe that the spin here was barely noticeable. It felt like Mars but more colorful and alive.
+The domes of Mars had crowds, but not like this. Maybe it was the long, isolated trip, or maybe it was that the spin here was barely noticeable. It felt like Mars but more colorful and alive.
 
 Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore mining harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
@@ -567,13 +567,13 @@ Carlos wore a brown cardigan and a necktie. The tie was real fabric. It hung per
 
 "You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
 
-He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed then panted with the excitement. Carlos nodded as if an inspection had concluded.
+He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
 
 "These are the famous ones."
 
 "I've noticed."
 
-"Mei, Elder Sai is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn. "
+"Mei, Elder Sai is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn."
 
 "There's more than one inn?"
 
@@ -593,7 +593,7 @@ Carlos looked up. "It's an old agreement that the U.S. signed. All signs on an A
 
 "I thought this was an international station?"
 
-"Technically. But in reality, it's an Origin station. They paid half of the trillion dollars making it. America paid a fifth, all of us co-op together to own the rest. We mostly use Tokens, but you can use old dollars if you want."
+"Technically. But in reality, it's an Origin station. They paid half of the trillion dollars spent building it. America paid a fifth; all of us co-op together to own the rest. We mostly use Tokens, but you can use old dollars if you want."
 
 Shops filled permanent walls between older canisters. Children cut across robot lanes and got scolded by humans and machines at the same time. Emergency masks sat behind clear panels every few meters. Jace noticed most people had one clipped to their belt just like he did, though not everyone.
 
@@ -694,11 +694,11 @@ Carlos pointed toward the animal office. "They are expecting you."
 
 Siren walked after her without hesitation, deciding that she was the one expected and Mei was her emotional-support human.
 
-Cerberus lunged forward, and touched his nose to hers. They circled each other, tails moving. Then Siren followed Mei through the gate, not looking back.
+Cerberus lunged forward and touched his nose to hers. They circled each other, tails moving. Then Siren followed Mei through the gate, not looking back.
 
 Cerberus gave one soft whine.
 
-Walking nearby was a cozy door to a living pod, styled and painted with flowers in a window box. Hanging outside on a hook was a jacket.
+Nearby was a cozy door to a living pod, styled and painted with flowers in a window box. Hanging outside on a hook was a jacket.
 
 Green fabric. Worn cuffs. A small flower stitched into the collar. Every hook around it carried daily work gear. No one had touched hers.
 
@@ -738,7 +738,7 @@ The rate left Jace enough for two real cafeteria meals each day.
 
 The cafeteria occupied the next block. Jace took a bowl of the free 'contractor soup'. It was gray and warm and tasted like water sprinkled with protein powder and sadness.
 
-He had taken three sponfulls when a shadow crossed the table.
+He had taken three spoonfuls when a shadow crossed the table.
 
 "Stand up," a familiar voice said. "I need to see this in person."
 
@@ -756,7 +756,7 @@ Nick looked up. Then farther up.
 
 Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
 
-Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, thumping tails and instant best friends.
+Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, his tail thumping as if they were instant best friends.
 
 Nick slid onto the bench opposite Jace.
 
@@ -781,7 +781,7 @@ Jace did not tell him what he had felt. But the condition seemed to be getting w
 
 Chapter 8. Settling In
 
-Most people do not know this, but Origin has a clause in most jobs where the title they hire you for can change if over-ridden by a senior. If an A.I agrees, they don't need any other oversight. Your salary can then be adjusted accordingly.
+Most people do not know this, but Origin has a clause in most jobs where the title they hire you for can change if overridden by a senior. If an A.I. agrees, they don't need any other oversight. Your salary can then be adjusted accordingly.
 
 Jace Grant, Fortuna notes
 
@@ -793,7 +793,7 @@ Jace opened one eye. How had he lost 6 points in 6 hours of sleep?
 
 The room had no window. Cerberus slept across his legs with the stuffed pig under his chin, hair matted with dried slobber.
 
-Items requiring attention. One, Station Safety Orientation begins in fifty-eight minutes. Two, your quarters environmental assessment is due before cycle three. Three, early contract renewal discussions are available after four hundred compliant cycles.
+Items requiring attention. One, Station Safety Orientation begins in fifty-eight minutes. Two, the environmental assessment of your quarters is due before cycle three. Three, early contract renewal discussions are available after four hundred compliant cycles.
 
 "Cancel."
 
@@ -839,7 +839,7 @@ Jace loaded the new Sparky chassis and his ten micro-thrusters onto a clean benc
 
 He installed the first thruster.
 
-It fired at three percent power without tripping the bus. Powerful enough that it almost lifted in the air.
+It fired at three percent power without tripping the bus, powerfully enough that it almost lifted into the air.
 
 The second worked too.
 
@@ -901,7 +901,7 @@ Kim pointed at the back room. "Learn the manifest queue. Keep your two to delive
 
 "Then you can ask again with a month of relevant experience."
 
-The back room was six meters long, windowless, and full of retired parts on a work bench. It smelled like solder. Some of the pieces looked really useful.
+The back room was six meters long, windowless, and full of retired parts on a workbench. It smelled like solder. Some of the pieces looked really useful.
 
 
 
@@ -1100,7 +1100,7 @@ The headline did not.
 
 SUSPECTED CHINESE SABOTAGE DISRUPTS BELT SUPPLY LINE.
 
-The Chinese-language summary used different wording. Seek helpfully translated it as "Heroes of China gave life for the people", but his HUD translator said something much darker. A group of Chinese barn-workers near the screen left together. An American shift crew watched them go.
+The Chinese-language summary used different wording. Seek helpfully translated it as "Heroes of China gave life for the people," but his HUD translator said something much darker. A group of Chinese barn workers near the screen left together. An American shift crew watched them go.
 
 The runners passed Helena's memorial on every lap.
 
@@ -1194,7 +1194,7 @@ Jace kept his face still. She had been watching. Base security. Of course.
 
 "Should we be talking about this here?"
 
-She pointed at a sign that read "Privacy zone." in three languages.
+She pointed at a sign that read "Privacy zone" in three languages.
 
 "Belters don't break rules."
 
@@ -1224,7 +1224,7 @@ Jace ran through possibilities in his head.
 
 "Normal until it was not occupied. No transition."
 
-"Then its something impossible with known technology."
+"Then it's something impossible with known technology."
 
 "That is the problem."
 
@@ -1238,7 +1238,7 @@ Suzi's voice stayed level. Her grief did not. Anger flared in her eyes.
 
 "No. Wait, you think the Chinese put something on people's ships? There were no explosions, right?"
 
-"They make most of the robots in the belt. Robots can cause damage without explosions. They have military camouflage systems, so might not even be detectable. Who knows?"
+"They make most of the robots in the belt. Robots can cause damage without explosions. They have military camouflage systems, so they might not even be detectable. Who knows?"
 
 Jace paused. That hit too close to home.
 
@@ -1264,11 +1264,11 @@ Her bracelet replied in Mandarin. Jace's translator rendered it as: Delay record
 
 "The reason is that I am eating."
 
-Statement recorded. Reason field remains incomplete. You are fined one token for ineficiency.
+Statement recorded. Reason field remains incomplete. You are fined one token for inefficiency.
 
 The sound carried. Warm. Brief. Ordinary. Jace felt the man's pain.
 
-Mei sat two tables away from them with another young Chinese man. They ate without appearing to watch, but when Jace looked she looked sharply at him, seeming to send him a message using only glares.
+Mei sat two tables away from them with another young Chinese man. They ate without appearing to watch, but when Jace looked, she looked sharply at him, seeming to send him a message using only glares.
 
 "Why tell me?" Jace asked, turning back to Suzi.
 
@@ -1286,7 +1286,7 @@ Mei sat two tables away from them with another young Chinese man. They ate witho
 
 "Because Origin closed the case as presumed accidental loss after twelve days. And China funds many Origin projects."
 
-"Odysseus Station was AlphaCorp and European run, not Origin or Chinese."
+"Odysseus Station was AlphaCorp- and European-run, not Origin or Chinese."
 
 "You see my problem."
 
@@ -1296,7 +1296,7 @@ Jace thought of the duck feather. He thought of a camera showing an empty condui
 
 "That is the whole job. The chance to help right a wrong. What else could I offer?"
 
-He debated telling Suzi about his financial issues, but the truth was he was just embarassed. Probably everyone on the station was some variant of millionaire. He was just trying to get out of debt. Should he ask her for something? Food? Pay? He didn't want pity from her or anyone else. He stayed silent.
+He debated telling Suzi about his financial issues, but the truth was he was just embarrassed. Probably everyone on the station was some variant of millionaire. He was just trying to get out of debt. Should he ask her for something? Food? Pay? He didn't want pity from her or anyone else. He stayed silent.
 
 At the next table, a Filipino miner sat down and spoke over a bowl of noodles.
 
@@ -1312,13 +1312,13 @@ She stood, looking tired. She was focusing on her wristcomp.
 
 "I thought you had thousands of cameras all over the station."
 
-She sighed, rolling down her black sleeves to indicate she was on duty. "That still doesn't give us full coverage. And, we have privacy zones. And many of the A.I. don't share feeds or block them for inscrutible reasons. Seek won't ever share anything in Chinatown or if a Chinese citizen is nearby. Very frustrating."
+She sighed, rolling down her black sleeves to indicate she was on duty. "That still doesn't give us full coverage. And we have privacy zones. And many of the AIs don't share feeds or block them for inscrutable reasons. Seek won't ever share anything in Chinatown or if a Chinese citizen is nearby. Very frustrating."
 
 She left already typing notes on her wrist.
 
 Jace sat with his untouched soup.
 
-Across the room still sitting with Hayes, Jin cocked his head as if listening to something. He abruptly stopped laughing. His head turned toward Jace, not quickly, not enough to count as a reaction.
+Across the room, still sitting with Hayes, Jin cocked his head as if listening to something. He abruptly stopped laughing. His head turned toward Jace, not quickly, not enough to count as a reaction.
 
 Then he looked away.
 
@@ -1326,7 +1326,7 @@ Then he looked away.
 
 That night, Jace dreamed of the missing girl he'd never met. He had a cold and had started coughing and sneezing, which made wearing the sleep mask quite awkward. He left it around his neck to follow protocols, but a stuffed nose wouldn't let the pressurized air in. He had quickly stopped by the forge to print himself a trash bin for an accumulating pile of tissues.
 
-In the dream, Helena floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt light he was suffocating.
+In the dream, Helena floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt like he was suffocating.
 
 When Jace reached for her, she opened her eyes.
 
@@ -1334,6 +1334,6 @@ Something moved behind them.
 
 Jace woke before he touched her.
 
-Cerberus stood at the foot of the bunk, facing Jace, hackles raised. Staring at him with what looked like suspicion.
+Cerberus stood at the foot of the bunk, facing Jace with his hackles raised and staring at him with what looked like suspicion.
 
 The dog gave one low growl before going back to sleep.

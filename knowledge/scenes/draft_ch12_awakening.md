@@ -34,7 +34,7 @@ The Barn lights returned after nine seconds.
 
 {Penny} called it a routine power handoff. {SpoX} had apparently determined that Ring Two had too much power.
 
-Everyone he passed in the corridors wore an emergency mask. People spoke furiously about the station AIs acting more and more erratic.
+Everyone he passed in the corridors wore an emergency mask. People spoke furiously about the station AIs acting more and more erratically.
 
 Jace carried Cerberus back to the inn at midnight. The dog kept looking behind them. Jace checked every intersection and found only cleaning robots, night crews, and one child being escorted home by a worried parent.
 
@@ -50,7 +50,7 @@ The dream began with a blue light.
 
 Not a lamp. Not stars. Points of color filled every direction. They vibrated at different frequencies and refused to settle into distance.
 
-Jace tried to cough, but couldn't. He couldn't breathe. Jace opened his eyes, and his lungs burned.
+Jace tried to cough, but couldn't. He couldn't breathe. He opened his eyes, and his lungs burned.
 
 The light remained.
 
@@ -60,13 +60,13 @@ The geometry folded through itself.
 
 His throat kept trying to make swallowing motions, and his nose wouldn't work. His vision was swimming.
 
-Cerberus crawled onto his chest. The dog looked impossible. Jace saw fur, skin, muscle, lungs, and a hammering heart all layers on top of each other. The puppy's jaws held Jace's sleep mask.
+Cerberus crawled onto his chest. The dog looked impossible. Jace saw fur, skin, muscle, lungs, and a hammering heart in layers on top of each other. The puppy's jaws held Jace's sleep mask.
 
 Half the mask floated near Jace's face.
 
 The other half remained somewhere else, like it was cut off into a point that dwindled into nothing.
 
-Cerberus pulled, hard. He strained, pulling at the mask until the rest slowly materialized. Jace flailed, grasping at his throat.
+Cerberus pulled, hard. He strained until the rest slowly materialized. Jace flailed, grasping at his throat.
 
 The dog's paws shook. His chest heaved without enough air. Cerberus finally pulled the mask out of the discontinuity, leaving about a fifth of it impossibly gone and hanging in the air above them.
 
@@ -119,7 +119,7 @@ into his. This was ordinary spacer gear, the kind of maneuver children learned i
 their first pressure drill. It only felt extraordinary because Jace's hands would
 not stop shaking.
 
-He closed both valves at fifty minutes for himself and and the rest for Cerberus. Enough to look for help without stealing the dog's reserve. They wre estimates only, a face which scared him more than he would admit.
+He closed both valves at fifty minutes for himself and left the rest for Cerberus. Enough to look for help without stealing the dog's reserve. They were estimates only, a fact that scared him more than he would admit.
 
 ##
 
@@ -141,7 +141,7 @@ Stroke. Radiation damage. Implant failure. Oxygen deprivation. A seizure shared 
 
 None explained the room.
 
-He needed a doctor. Maybe get to Lanchee? Her clinic should be only minutes away.
+He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away.
 
 Jace stood, holding Cerberus against his chest, and pressed the hatch control.
 
@@ -177,7 +177,7 @@ Jace stared at it.
 
 Cerberus shoved his nose against the mask seal.
 
-Jace adjusted it to improve the airflow. He found that the masks that helped you breathe at night worked very well if you felt the urge to hyperventilate.
+Jace adjusted it to improve the airflow. He found that the masks that helped them breathe at night worked very well if you felt the urge to hyperventilate.
 
 "Operational concern first. Existential concern second."
 
@@ -189,7 +189,7 @@ Soft human shapes rested in bunks. Hearts pulsed. Lungs moved. Colors flowed thr
 
 Jace looked away.
 
-The next wall showed more sleepers. Some together. Friends and neighbors he had met that he thought were single were obviously not single. One bed belonging to a quiet older farm engineer had a surprising number of occupants.
+The next wall showed more sleepers. Some together. Friends and neighbors he had met whom he thought were single were obviously not single. One bed belonging to a quiet older farm engineer had a surprising number of occupants.
 
 Privacy had stopped existing.
 

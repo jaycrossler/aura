@@ -1,14 +1,14 @@
 ---
-id: draft_ch18_quiet_companion
-name: "Chapter 18. Quiet Companion"
+id: draft_ch21_quiet_companion
+name: "Chapter 21. Quiet Companion"
 type: chapter_draft
 book: book01
-chapter: Ch18
+chapter: Ch21
 scene_contract: X-01 threat follow-on + X-01b revised + L-04/L-07 follow-on
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-14
+last_updated: 2026-08-17
 description: >
   Jace and Sophia escape the red-eyed creature, Jace begins repairing the work
   and friendship damage caused by his secrecy, and Nick installs a local Aura
@@ -27,10 +27,10 @@ cross_references:
   - "[[ship_victoria]]"
   - "[[scene_notes_ai_interactions]]"
   - "[[spec_astral_phenomenology]]"
-  - "[[draft_ch17_the_eye_in_the_wall]]"
+  - "[[draft_ch17_falling_behind]]"
 ---
 
-# Chapter 18. Quiet Companion
+# Chapter 21. Quiet Companion
 
 > *Most people do not know this, but running away is an engineering discipline. The important variables are direction, traction, and whether your dog agrees with your route.*
 >

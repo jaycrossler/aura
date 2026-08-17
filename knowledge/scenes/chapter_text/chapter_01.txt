@@ -55,7 +55,7 @@ That was his welcome aboard.
 
 Three weeks in, Jace started running before the ship's lights came up, because Lanchee's diagnostics kept finding nothing wrong with him and he had decided to make that true by force.
 
-He wore a weighted vest printed from the same polymer stock as everything else on the Falcon. Eighty pounds distributed evenly enough not to fight his spine as he ran through the ship's ring. The long, curved hallway was basically a tube with a ship built around it. Within the corridor, maintenance drones outnumbered the people. Weight at Mars-standard gravity was much less, but momentum made it much heavier the faster you moved. Jace was learning to jump and keep his torso following the same path to avoid turning the vest into an 80-pound bear hug.
+He wore a weighted vest printed from the same polymer stock as everything else on the Falcon. It carried eighty pounds distributed evenly enough not to fight his spine as he ran through the ship's ring. The long, curved hallway was basically a tube with a ship built around it. Within the corridor, maintenance drones outnumbered the people. Weight at Mars-standard gravity was much less, but momentum made it much heavier the faster you moved. Jace was learning to jump and keep his torso following the same path to avoid turning the vest into an 80-pound bear hug.
 
 Cerberus ran beside him, bouncing and loping along the old worn carpet. Siren, who normally treated Jace with the polite indifference she extended to furniture, had taken to falling into step a length behind Cerberus's shoulder, which Jace had come to understand was not affection for her brother so much as an unwillingness to let the puppy have an experience she wasn't personally supervising.
 
@@ -125,7 +125,7 @@ Washroom needs a second fan for better circulation at dog-level. I've added a qu
 
 He attached the airflow readings and the photograph. If Jace ordered the fan himself, Maureen would ask why. Patrick could make it look like remote preventive maintenance, provided Patrick agreed that some engineering facts did not improve with wider distribution.
 
-Mei stood in the galley with one hand around a mug and the other feeding a scrap of egg to Siren. Cerberus saw his sister and launched himself. Siren stepped aside without looking. Cerberus sailed past, overbalanced and delighted with himself then eyes wide too late to do anything about it. She pivoted and tackled him down into the deck plating with the flat, patient competence of a sumo wrestler winning an argument. Cerberus lay there a moment, pinned, tail waggling, entirely satisfied with the outcome despite having lost decisively. Siren gnawed his ear, sprung off him, retrieved the rest of the egg from where it had fallen, and returned to Mei's side as if nothing had happened.
+Mei stood in the galley with one hand around a mug and the other feeding a scrap of egg to Siren. Cerberus saw his sister and launched himself. Siren stepped aside without looking. Cerberus sailed past, overbalanced and delighted with himself, eyes widening too late to do anything about it. She pivoted and tackled him down into the deck plating with the flat, patient competence of a sumo wrestler winning an argument. Cerberus lay there a moment, pinned, tail waggling, entirely satisfied with the outcome despite having lost decisively. Siren gnawed his ear, sprang off him, retrieved the rest of the egg from where it had fallen, and returned to Mei's side as if nothing had happened.
 
 The coffee machine debited his account five tokens for coffee, sugar, and something labeled cream analogue. Jace watched a gray ribbon curl into his cup.
 
@@ -177,7 +177,7 @@ For thirty seconds, the enclosure became weather.
 
 Jace waited for the cloud of wool to settle. "Your ancestors survived wolves. You have been defeated by an ear."
 
-As he fed and watered and scrubbed poop off the floor, his HUD pinged with a high priority message. It took a few blinks, but he finally opened it. From Mei, it just read Subject: did you eat my duck?
+As he fed and watered and scrubbed poop off the floor, his HUD pinged with a high-priority message. It took a few blinks, but he finally opened it. From Mei, it just read Subject: did you eat my duck?
 
 Jace paused. What did that mean? He squinted and scrunched his face, eventually pulling up her location on the ship map. She was in the insect container, feeding and cleaning them. Jace hated feeding the vats of insects, though he did like the protein powder you could blend them into. He had no idea what she meant.
 
@@ -203,7 +203,7 @@ Cerberus gave him a look that reduced his available follow-up questions to zero.
 
 He looked up Mei's last text. She sent the message after breakfast. Writing gave her more room than spoken English.
 
-Jace wrote back from the pig module while Screwdriver worried at a service-panel with the focus of a doctoral candidate.
+Jace wrote back from the pig module while Screwdriver worried at a service panel with the focus of a doctoral candidate.
 
 I did not eat your duck. I inspected every duck-egress route. There are no duck-egress routes. Your duck has left a sealed vessel in interplanetary space, and I would like to register that this bothers me.
 
@@ -211,7 +211,7 @@ Mei's reply arrived while he added a clamp to the latch the pigs had found a way
 
 Me too. The silkworms are also not breeding well this week. 2 liters less than predicted.
 
-I guess they didn't eat your duck either"
+I guess they didn't eat your duck either.
 
 Screwdriver watched his hands, then tested the clamp with her mouth before Jace finished tightening it.
 
@@ -257,7 +257,7 @@ Nick's latest challenge waited in their arena. Jace accepted through his HUD and
 
 They'd met months back the same way most of the belt met, online. A public strategy-game lobby, Jace killing time between HUD retraining drills, Nick already four moves into a build order that made no sense until it did. That first match had taken most of an evening, half of it spent typing rather than playing, because the light-lag between Mars and wherever Nick had been at the time made anything faster than a slow-turn strategy game a lesson in patience. Four months and a shrinking gap later, they'd played enough matches, at short enough intervals, that the games had started to feel less like turns exchanged across the solar system and closer to two people in the same room, which Jace understood was mostly an illusion built out of narrowing seconds, and which he had stopped correcting himself about.
 
-The military had once tuned the implant within his skull until intention became command. He had commanded thirty drones without thinking about menus, gesture layers, or which eye held focus. After discharge, the service had wiped those trained mappings and returned the civilian partition to factory standard. The hardware remained in his skull. The practiced interface did not. Some of the others that had been kicked out related it to relearning to walk after a coma.
+The military had once tuned the implant within his skull until intention became command. He had commanded thirty drones without thinking about menus, gesture layers, or which eye held focus. After discharge, the service had wiped those trained mappings and returned the civilian partition to factory standard. The hardware remained in his skull. The practiced interface did not. Others who had been kicked out compared it to relearning to walk after a coma.
 
 What does it feel like? Nick sent.
 

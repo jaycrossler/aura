@@ -333,7 +333,7 @@ Full contracts live in the linked thread file.
 | 15 | A-03 | A | First Drone Shift — Kim's scowl, mediocrity, sabotage warning | thread_A | ok |
 | 16 | A-04 | A | The Survey Trip — Torres, scratched asteroid, survey bots | thread_A | ok |
 | 17 | X-00 | X | Almost dying in the Astral; meets Sophia in the cafeteria | thread_X | drafted |
-| 18 | A-05 | A | Factory Four — Carlos, crystal farms, K-17 silt setup | `draft_ch14_down_to_the_asteroid` + `draft_ch17_the_eye_in_the_wall` | merged |
+| 18 | A-05 | A | Factory Four — Carlos, crystal farms, K-17 silt setup | `draft_ch14_down_to_the_asteroid` + `draft_ch17_falling_behind` | merged |
 | 19 | X-01 | X | The Astral Crossing Teamup — Sophia's ship, umbilical reveal | thread_X | drafted |
 | 20 | X-01b | X | *(renamed from duplicate L-01)* {Aura} install scene | thread_X | renamed this pass |
 | 21 | X-02 | X | Ambient glow, healing light, "no vampires" rule | thread_X | ok |
