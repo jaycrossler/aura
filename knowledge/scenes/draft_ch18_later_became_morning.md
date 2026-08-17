@@ -37,11 +37,9 @@ cross_references:
 
 Jace reported to Drone Ops at 0530 because arriving early felt like the smallest available apology.
 
-He had slept for ninety-two minutes.
+He had slept for a few hours, but was exhausted. Worrying about Sophia, worrying about the drone she'd seen on Three, worrying about falling through walls.
 
-Sophia had remained aboard the *Victoria* under three blankets while {Misty} warmed the cabin and produced soup she did not ask for. Jace had stayed until Sophia stopped shivering. Then he had collected Cerberus from the Barn, carried Sparky home, and spent the remaining dark hours making lists he had been ordered not to make.
-
-He brought none of them.
+Sophia had remained aboard the *Victoria* under three blankets while {Misty} warmed the cabin and produced soup she did not ask for. Jace had stayed until Sophia stopped shivering. Then he had collected Cerberus from the Barn, carried Sparky home, and spent the remaining dark hours making lists and worrying that they were being reckless.
 
 Kim sat at the lead console with Carlos behind her. Every automated route Jace had written was disabled. The station map held sixty-three amber markers, each one a delivery that had stopped somewhere between a valid request and an invalid assumption.
 

@@ -123,7 +123,7 @@ Jace handed him the stuffed pig, a feeding packet, and a written schedule.
 
 "He had a rough night. The Barn is closed for maintenance after the power failure last night."
 
-Nick looked at Cerberus. The dog wagged, found the noodle shelf, and curled beneath it, instantly asleep.
+Nick looked at Cerberus. The dog wagged his tail, curled beneath a shelf, instantly asleep.
 
 Nick looked at Jace. Jace's eyes felt packed with sand.
 
@@ -434,7 +434,7 @@ Jace sat down. Cerberus placed his head on Sophia's knee, and she immediately co
 
 "I heard. I ordered noodles and a block of cheese. You need to understand the station is producing a very promising goat cheese."
 
-Jace looked at the six notebooks.
+Jace looked at the six notebooks, each thick with papers stuffed in, held together by rubber bands.
 
 "How much do you know?"
 

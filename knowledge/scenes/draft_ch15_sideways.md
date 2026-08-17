@@ -129,7 +129,9 @@ Jace replied, "But you're a scientist."
 
 "This is how I know."
 
-Her cabin was wide and orderly. Every object had a place. Scarves hung from hooks in a line of bright color. Paper journals filled a shelf, textured to look like an oak bookcase. A small Christmas image had been fixed above the desk. A large screen showed calculations and maps and pinned notes. A box on the screen was green, its microphone icon blinking.
+Her cabin was comfortable and orderly. Every object had a place. Scarves hung from hooks in a line of bright color. She placed her journals back onto a shelf rejoining two others, textured to look like an oak bookcase. A small Christmas photo had been fixed above the desk, laminated, showing a thin girl trying to catch snow in front of wood buildings covered in lights. 
+
+A large screen showed calculations and maps and pinned notes. A box on the screen was green, its microphone icon blinking.
 
 It felt lived in where his room at the inn felt issued.
 
@@ -451,13 +453,13 @@ They also had finalized the name.
 
 The Astral.
 
-Jace stood, panting, outside the *Victoria's* physical hull on the short ramp connected to the station. Fortuna shone around them. Through the floor, the asteroid curved below in more directions than a sphere required, it felt like it looked closer than it should be. Stars flickered through blue distance. It felt considerably colder out here. He had never felt so bone-weary in his life.
+Jace stood, panting, outside the *Victoria's* physical hull on the short ramp connected to the station. Fortuna shone around them. Through the floor, the asteroid curved below in more directions than a sphere required, it felt like it looked closer than it should be. Stars flickered through blue distance. It felt considerably colder out here. He had never felt so bone-weary in his life. From here, he could see the station all around him, hundreds of bright dots walking and running through Fortuna's rings, Oak tree and animals *almost* visible to each side. He almost felt like he was in Drone Ops staring at cameras, if Drone Ops was in a glwoing crystal fractal igloo.
 
 Sophia came out, warming her hands. She looked at him. "Your sweat is freezing to ice."
 
 "God I'm cold."
 
-"No. I mean, I see ice crystals. Inside is not below freezing."
+"No. I mean, I see ice crystals. Inside is not *below* freezing."
 
 She ran through the wall, came out holding the thermometer.
 
