@@ -1,47 +1,6 @@
-# Cross-Reference Normalization Report — 2026-08-17
-
-Mode: APPLIED
-
-Files scanned: 287
-Files normalized: 190
-Files with broken references: 15
-
-## Files Changed
-
-### `SERIES_BIBLE.md`
-
-| Before | After |
-|---|---|
-| `"[[progression_review_guide]]"` | `[[progression_review_guide]]` |
-| `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
-| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
-| `"[[magic_cultural_schools]]"` | `[[magic_cultural_schools]]` |
-| `"[[faction_galactic_species_index]]"` | `[[faction_galactic_species_index]]` |
-| `"[[faction_galactic_will_networks]]"` | `[[faction_galactic_will_networks]]` |
-| `"[[tech_ai_architecture_comparison]]"` | `[[tech_ai_architecture_comparison]]` |
-| `"[[timeline_master]]"` | `[[timeline_master]]` |
-| `"[[arc_03_the_return_and_the_trap]]"` | `[[arc_03_the_return_and_the_trap]]` |
-| `"[[arc_04_the_bloom]]"` | `[[arc_04_the_bloom]]` |
-| `"[[arc_05_the_reckoning]]"` | `[[arc_05_the_reckoning]]` |
-| `"[[priority_fix_list]]"` | `[[priority_fix_list]]` |
-
-### `VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md`
-
-| Before | After |
-|---|---|
-| `"[[visual_profile_cerberus_and_siren]]"` | `[[visual_profile_cerberus_and_siren]]` |
-| `"[[visual_profile_fortuna_station]]"` | `[[visual_profile_fortuna_station]]` |
-| `"[[visual_profile_jace_apollo]]"` | `[[visual_profile_jace_apollo]]` |
-| `"[[visual_profile_jin_long]]"` | `[[visual_profile_jin_long]]` |
-| `"[[visual_profile_kael]]"` | `[[visual_profile_kael]]` |
-| `"[[visual_profile_nick_lee]]"` | `[[visual_profile_nick_lee]]` |
-| `"[[visual_profile_ship_falcon]]"` | `[[visual_profile_ship_falcon]]` |
-| `"[[visual_profile_sophia_lotte]]"` | `[[visual_profile_sophia_lotte]]` |
-
-### `arcs/arc_01_falcon_and_fortuna.md`
-
-| Before | After |
-|---|---|
+---
+last_updated: 2026-08-17
+---|
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |
@@ -75,7 +34,7 @@ Files with broken references: 15
 | `"[[draft_ch08_arrival_day]]"` | `[[draft_ch08_arrival_day]]` |
 | `"[[priority_fix_list]]"` | `[[priority_fix_list]]` |
 
-### `arcs/arc_01_thread_A_arrival.md`
+### `arcs\arc_01_thread_A_arrival.md`
 
 | Before | After |
 |---|---|
@@ -88,7 +47,7 @@ Files with broken references: 15
 | `"[[char_hayes]]"` | `[[char_hayes]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `arcs/arc_01_thread_L_life_texture.md`
+### `arcs\arc_01_thread_L_life_texture.md`
 
 | Before | After |
 |---|---|
@@ -99,7 +58,7 @@ Files with broken references: 15
 | `"[[char_mira]]"` | `[[char_mira]]` |
 | `"[[char_kim]]"` | `[[char_kim]]` |
 
-### `arcs/arc_01_thread_N_nick_ai.md`
+### `arcs\arc_01_thread_N_nick_ai.md`
 
 | Before | After |
 |---|---|
@@ -110,7 +69,7 @@ Files with broken references: 15
 | `"[[tech_seek_ai]]"` | `[[tech_seek_ai]]` |
 | `"[[concept_aura_ai_system]]"` | `[[concept_aura_ai_system]]` |
 
-### `arcs/arc_01_thread_P_pressure.md`
+### `arcs\arc_01_thread_P_pressure.md`
 
 | Before | After |
 |---|---|
@@ -121,7 +80,7 @@ Files with broken references: 15
 | `"[[char_helena]]"` | `[[char_helena]]` |
 | `"[[char_mei]]"` | `[[char_mei]]` |
 
-### `arcs/arc_01_thread_S_swarm.md`
+### `arcs\arc_01_thread_S_swarm.md`
 
 | Before | After |
 |---|---|
@@ -137,7 +96,7 @@ Files with broken references: 15
 | `"[[char_carlos]]"` | `[[char_carlos]]` |
 | `"[[char_mira]]"` | `[[char_mira]]` |
 
-### `arcs/arc_01_thread_T_transit.md`
+### `arcs\arc_01_thread_T_transit.md`
 
 | Before | After |
 |---|---|
@@ -150,7 +109,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[magic_cryptid_species_reference]]"` | `[[magic_cryptid_species_reference]]` |
 
-### `arcs/arc_01_thread_X_astral.md`
+### `arcs\arc_01_thread_X_astral.md`
 
 | Before | After |
 |---|---|
@@ -174,7 +133,7 @@ Files with broken references: 15
 | `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
 | `"[[draft_ch23_the_leech]]"` | `[[draft_ch23_the_leech]]` |
 
-### `arcs/arc_02_addendum_kael_two_weeks.md`
+### `arcs\arc_02_addendum_kael_two_weeks.md`
 
 | Before | After |
 |---|---|
@@ -184,7 +143,7 @@ Files with broken references: 15
 | `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 
-### `characters/char_alex_ai.md`
+### `characters\char_alex_ai.md`
 
 | Before | After |
 |---|---|
@@ -193,7 +152,7 @@ Files with broken references: 15
 | `"[[voice_char_alex_ai]]"` | `[[voice_char_alex_ai]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 
-### `characters/char_aura_ai.md`
+### `characters\char_aura_ai.md`
 
 | Before | After |
 |---|---|
@@ -204,7 +163,7 @@ Files with broken references: 15
 | `"[[char_penny_ai]]"` | `[[char_penny_ai]]` |
 | `"[[char_seek_ai]]"` | `[[char_seek_ai]]` |
 
-### `characters/char_brandon_moreau.md`
+### `characters\char_brandon_moreau.md`
 
 | Before | After |
 |---|---|
@@ -214,7 +173,7 @@ Files with broken references: 15
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[tech_misty_ai]]"` | `[[tech_misty_ai]]` |
 
-### `characters/char_carlos.md`
+### `characters\char_carlos.md`
 
 | Before | After |
 |---|---|
@@ -228,7 +187,7 @@ Files with broken references: 15
 | `"[[char_sai]]"` | `[[char_sai]]` |
 | `"[[char_mateo_alvarez]]"` | `[[char_mateo_alvarez]]` |
 
-### `characters/char_cerberus.md`
+### `characters\char_cerberus.md`
 
 | Before | After |
 |---|---|
@@ -236,7 +195,7 @@ Files with broken references: 15
 | `"[[visual_profile_cerberus_and_siren]]"` | `[[visual_profile_cerberus_and_siren]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 
-### `characters/char_claudia_ai.md`
+### `characters\char_claudia_ai.md`
 
 | Before | After |
 |---|---|
@@ -245,13 +204,13 @@ Files with broken references: 15
 | `"[[tech_fortuna_ai_systems]]"` | `[[tech_fortuna_ai_systems]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `characters/char_dog_siren.md`
+### `characters\char_dog_siren.md`
 
 | Before | After |
 |---|---|
 | `"[[spec_will_bonded_animals]]"` | `[[spec_will_bonded_animals]]` |
 
-### `characters/char_erin.md`
+### `characters\char_erin.md`
 
 | Before | After |
 |---|---|
@@ -261,7 +220,7 @@ Files with broken references: 15
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 | `"[[arc_02_addendum_kael_two_weeks]]"` | `[[arc_02_addendum_kael_two_weeks]]` |
 
-### `characters/char_falcon_ai.md`
+### `characters\char_falcon_ai.md`
 
 | Before | After |
 |---|---|
@@ -272,7 +231,7 @@ Files with broken references: 15
 | `"[[char_alex_ai]]"` | `[[char_alex_ai]]` |
 | `"[[voice_char_falcon_ai]]"` | `[[voice_char_falcon_ai]]` |
 
-### `characters/char_gem_ai.md`
+### `characters\char_gem_ai.md`
 
 | Before | After |
 |---|---|
@@ -281,7 +240,7 @@ Files with broken references: 15
 | `"[[tech_fortuna_ai_systems]]"` | `[[tech_fortuna_ai_systems]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `characters/char_hayes.md`
+### `characters\char_hayes.md`
 
 | Before | After |
 |---|---|
@@ -292,7 +251,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
-### `characters/char_helena.md`
+### `characters\char_helena.md`
 
 | Before | After |
 |---|---|
@@ -300,27 +259,27 @@ Files with broken references: 15
 | `"[[sheet_helena_prologue_death]]"` | `[[sheet_helena_prologue_death]]` |
 | `"[[sheet_helena_epilogue_resurrection]]"` | `[[sheet_helena_epilogue_resurrection]]` |
 
-### `characters/char_jace_apollo.md`
+### `characters\char_jace_apollo.md`
 
 | Before | After |
 |---|---|
 | `"[[voice_char_jace_apollo]]"` | `[[voice_char_jace_apollo]]` |
 
-### `characters/char_kael.md`
+### `characters\char_kael.md`
 
 | Before | After |
 |---|---|
 | `"[[char_kai]]"` | `[[char_kai]]` |
 | `"[[spec_magic_items_and_artifacts]]"` | `[[spec_magic_items_and_artifacts]]` |
 
-### `characters/char_kai.md`
+### `characters\char_kai.md`
 
 | Before | After |
 |---|---|
 | `"[[char_kael]]"` | `[[char_kael]]` |
 | `"[[spec_will_bonded_animals]]"` | `[[spec_will_bonded_animals]]` |
 
-### `characters/char_kim.md`
+### `characters\char_kim.md`
 
 | Before | After |
 |---|---|
@@ -335,7 +294,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 
-### `characters/char_major_barnes.md`
+### `characters\char_major_barnes.md`
 
 | Before | After |
 |---|---|
@@ -343,7 +302,7 @@ Files with broken references: 15
 | `"[[faction_american_red_party]]"` | `[[faction_american_red_party]]` |
 | `"[[faction_united_states_military_intelligence]]"` | `[[faction_united_states_military_intelligence]]` |
 
-### `characters/char_mateo_alvarez.md`
+### `characters\char_mateo_alvarez.md`
 
 | Before | After |
 |---|---|
@@ -352,7 +311,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[draft_ch07_arrival_day]]"` | `[[draft_ch07_arrival_day]]` |
 
-### `characters/char_maureen.md`
+### `characters\char_maureen.md`
 
 | Before | After |
 |---|---|
@@ -360,7 +319,7 @@ Files with broken references: 15
 | `"[[char_saul]]"` | `[[char_saul]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 
-### `characters/char_mira.md`
+### `characters\char_mira.md`
 
 | Before | After |
 |---|---|
@@ -373,7 +332,7 @@ Files with broken references: 15
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 
-### `characters/char_misty_ai.md`
+### `characters\char_misty_ai.md`
 
 | Before | After |
 |---|---|
@@ -384,7 +343,7 @@ Files with broken references: 15
 | `"[[char_brandon_moreau]]"` | `[[char_brandon_moreau]]` |
 | `"[[char_nikos_petrou]]"` | `[[char_nikos_petrou]]` |
 
-### `characters/char_nick_lee.md`
+### `characters\char_nick_lee.md`
 
 | Before | After |
 |---|---|
@@ -397,7 +356,7 @@ Files with broken references: 15
 | `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `characters/char_nikos_petrou.md`
+### `characters\char_nikos_petrou.md`
 
 | Before | After |
 |---|---|
@@ -407,7 +366,7 @@ Files with broken references: 15
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[tech_misty_ai]]"` | `[[tech_misty_ai]]` |
 
-### `characters/char_penny_ai.md`
+### `characters\char_penny_ai.md`
 
 | Before | After |
 |---|---|
@@ -418,7 +377,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_seek_ai]]"` | `[[char_seek_ai]]` |
 
-### `characters/char_petroski.md`
+### `characters\char_petroski.md`
 
 | Before | After |
 |---|---|
@@ -428,7 +387,7 @@ Files with broken references: 15
 | `"[[char_sai]]"` | `[[char_sai]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `characters/char_sai.md`
+### `characters\char_sai.md`
 
 | Before | After |
 |---|---|
@@ -437,7 +396,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[event_helena_prologue]]"` | `[[event_helena_prologue]]` |
 
-### `characters/char_saul.md`
+### `characters\char_saul.md`
 
 | Before | After |
 |---|---|
@@ -445,7 +404,7 @@ Files with broken references: 15
 | `"[[char_maureen]]"` | `[[char_maureen]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 
-### `characters/char_seek_ai.md`
+### `characters\char_seek_ai.md`
 
 | Before | After |
 |---|---|
@@ -455,7 +414,7 @@ Files with broken references: 15
 | `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
 | `"[[char_penny_ai]]"` | `[[char_penny_ai]]` |
 
-### `characters/char_sophia_lotte.md`
+### `characters\char_sophia_lotte.md`
 
 | Before | After |
 |---|---|
@@ -465,7 +424,7 @@ Files with broken references: 15
 | `"[[char_nikos_petrou]]"` | `[[char_nikos_petrou]]` |
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 
-### `characters/char_spox_ai.md`
+### `characters\char_spox_ai.md`
 
 | Before | After |
 |---|---|
@@ -474,13 +433,13 @@ Files with broken references: 15
 | `"[[tech_fortuna_ai_systems]]"` | `[[tech_fortuna_ai_systems]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 
-### `characters/non-canonical-ideas/char_lt_rich_cullivan.md`
+### `characters\non-canonical-ideas\char_lt_rich_cullivan.md`
 
 | Before | After |
 |---|---|
 | `"[[voice_char_lt_rich_cullivan]]"` | `[[voice_char_lt_rich_cullivan]]` |
 
-### `characters/voice_char_alex_ai.md`
+### `characters\voice_char_alex_ai.md`
 
 | Before | After |
 |---|---|
@@ -489,7 +448,7 @@ Files with broken references: 15
 | `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_aura_ai.md`
+### `characters\voice_char_aura_ai.md`
 
 | Before | After |
 |---|---|
@@ -500,7 +459,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_brandon_moreau.md`
+### `characters\voice_char_brandon_moreau.md`
 
 | Before | After |
 |---|---|
@@ -511,7 +470,7 @@ Files with broken references: 15
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_carlos.md`
+### `characters\voice_char_carlos.md`
 
 | Before | After |
 |---|---|
@@ -519,7 +478,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_claudia_ai.md`
+### `characters\voice_char_claudia_ai.md`
 
 | Before | After |
 |---|---|
@@ -529,7 +488,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_falcon_ai.md`
+### `characters\voice_char_falcon_ai.md`
 
 | Before | After |
 |---|---|
@@ -541,7 +500,7 @@ Files with broken references: 15
 | `"[[char_alex_ai]]"` | `[[char_alex_ai]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_gem_ai.md`
+### `characters\voice_char_gem_ai.md`
 
 | Before | After |
 |---|---|
@@ -550,7 +509,7 @@ Files with broken references: 15
 | `"[[tech_fortuna_ai_systems]]"` | `[[tech_fortuna_ai_systems]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_hayes.md`
+### `characters\voice_char_hayes.md`
 
 | Before | After |
 |---|---|
@@ -561,7 +520,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_helena.md`
+### `characters\voice_char_helena.md`
 
 | Before | After |
 |---|---|
@@ -570,7 +529,7 @@ Files with broken references: 15
 | `"[[event_helena_prologue]]"` | `[[event_helena_prologue]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_jace_apollo.md`
+### `characters\voice_char_jace_apollo.md`
 
 | Before | After |
 |---|---|
@@ -579,7 +538,7 @@ Files with broken references: 15
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `characters/voice_char_jin_luong.md`
+### `characters\voice_char_jin_luong.md`
 
 | Before | After |
 |---|---|
@@ -590,7 +549,7 @@ Files with broken references: 15
 | `"[[sheet_jin_arc01_end]]"` | `[[sheet_jin_arc01_end]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_kim.md`
+### `characters\voice_char_kim.md`
 
 | Before | After |
 |---|---|
@@ -600,7 +559,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_lanchee.md`
+### `characters\voice_char_lanchee.md`
 
 | Before | After |
 |---|---|
@@ -608,7 +567,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_maureen.md`
+### `characters\voice_char_maureen.md`
 
 | Before | After |
 |---|---|
@@ -616,7 +575,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_mei.md`
+### `characters\voice_char_mei.md`
 
 | Before | After |
 |---|---|
@@ -624,7 +583,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_mira.md`
+### `characters\voice_char_mira.md`
 
 | Before | After |
 |---|---|
@@ -635,7 +594,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_misty_ai.md`
+### `characters\voice_char_misty_ai.md`
 
 | Before | After |
 |---|---|
@@ -647,7 +606,7 @@ Files with broken references: 15
 | `"[[char_nikos_petrou]]"` | `[[char_nikos_petrou]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_nick_lee.md`
+### `characters\voice_char_nick_lee.md`
 
 | Before | After |
 |---|---|
@@ -655,7 +614,7 @@ Files with broken references: 15
 | `"[[visual_profile_nick_lee]]"` | `[[visual_profile_nick_lee]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_nikos_petrou.md`
+### `characters\voice_char_nikos_petrou.md`
 
 | Before | After |
 |---|---|
@@ -666,7 +625,7 @@ Files with broken references: 15
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_penny_ai.md`
+### `characters\voice_char_penny_ai.md`
 
 | Before | After |
 |---|---|
@@ -678,7 +637,7 @@ Files with broken references: 15
 | `"[[char_seek_ai]]"` | `[[char_seek_ai]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_petroski.md`
+### `characters\voice_char_petroski.md`
 
 | Before | After |
 |---|---|
@@ -688,7 +647,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_sai.md`
+### `characters\voice_char_sai.md`
 
 | Before | After |
 |---|---|
@@ -696,7 +655,7 @@ Files with broken references: 15
 | `"[[char_helena]]"` | `[[char_helena]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_saul.md`
+### `characters\voice_char_saul.md`
 
 | Before | After |
 |---|---|
@@ -706,7 +665,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_seek_ai.md`
+### `characters\voice_char_seek_ai.md`
 
 | Before | After |
 |---|---|
@@ -717,7 +676,7 @@ Files with broken references: 15
 | `"[[char_penny_ai]]"` | `[[char_penny_ai]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_sister_artemis.md`
+### `characters\voice_char_sister_artemis.md`
 
 | Before | After |
 |---|---|
@@ -725,7 +684,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_sophia_lotte.md`
+### `characters\voice_char_sophia_lotte.md`
 
 | Before | After |
 |---|---|
@@ -735,7 +694,7 @@ Files with broken references: 15
 | `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_spox_ai.md`
+### `characters\voice_char_spox_ai.md`
 
 | Before | After |
 |---|---|
@@ -745,7 +704,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_suzi.md`
+### `characters\voice_char_suzi.md`
 
 | Before | After |
 |---|---|
@@ -756,7 +715,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `characters/voice_char_torres.md`
+### `characters\voice_char_torres.md`
 
 | Before | After |
 |---|---|
@@ -765,7 +724,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[storybot_orpheus_voice_tag_reference]]"` | `[[storybot_orpheus_voice_tag_reference]]` |
 
-### `factions/faction_alphacorp.md`
+### `factions\faction_alphacorp.md`
 
 | Before | After |
 |---|---|
@@ -774,7 +733,7 @@ Files with broken references: 15
 | `"[[char_maureen]]"` | `[[char_maureen]]` |
 | `"[[concept_ai_seams]]"` | `[[concept_ai_seams]]` |
 
-### `factions/faction_american_red_party.md`
+### `factions\faction_american_red_party.md`
 
 | Before | After |
 |---|---|
@@ -788,7 +747,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[char_petroski]]"` | `[[char_petroski]]` |
 
-### `factions/faction_china_belt_operations.md`
+### `factions\faction_china_belt_operations.md`
 
 | Before | After |
 |---|---|
@@ -803,7 +762,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
-### `factions/faction_galactic_species_index.md`
+### `factions\faction_galactic_species_index.md`
 
 | Before | After |
 |---|---|
@@ -819,20 +778,20 @@ Files with broken references: 15
 | `"[[faction_outsider_scouts]]"` | `[[faction_outsider_scouts]]` |
 | `"[[faction_galactic_will_networks]]"` | `[[faction_galactic_will_networks]]` |
 
-### `factions/faction_titan_forge.md`
+### `factions\faction_titan_forge.md`
 
 | Before | After |
 |---|---|
 | `"[[spec_magic_items_and_artifacts]]"` | `[[spec_magic_items_and_artifacts]]` |
 
-### `locations/location_asteroid_belt_overview.md`
+### `locations\location_asteroid_belt_overview.md`
 
 | Before | After |
 |---|---|
 | `"[[tech_cyclers]]"` | `[[tech_cyclers]]` |
 | `"[[tech_nuclear_ferries]]"` | `[[tech_nuclear_ferries]]` |
 
-### `locations/location_fortuna_station.md`
+### `locations\location_fortuna_station.md`
 
 | Before | After |
 |---|---|
@@ -845,7 +804,7 @@ Files with broken references: 15
 | `"[[faction_american_red_party]]"` | `[[faction_american_red_party]]` |
 | `"[[faction_china_belt_operations]]"` | `[[faction_china_belt_operations]]` |
 
-### `locations/location_mars_consumer_district.md`
+### `locations\location_mars_consumer_district.md`
 
 | Before | After |
 |---|---|
@@ -853,7 +812,7 @@ Files with broken references: 15
 | `"[[location_mars_overview]]"` | `[[location_mars_overview]]` |
 | `"[[location_mars_fabrication_district]]"` | `[[location_mars_fabrication_district]]` |
 
-### `locations/location_mars_fabrication_district.md`
+### `locations\location_mars_fabrication_district.md`
 
 | Before | After |
 |---|---|
@@ -862,7 +821,7 @@ Files with broken references: 15
 | `"[[location_mars_consumer_district]]"` | `[[location_mars_consumer_district]]` |
 | `"[[location_pangu]]"` | `[[location_pangu]]` |
 
-### `locations/location_mars_livestock_farm.md`
+### `locations\location_mars_livestock_farm.md`
 
 | Before | After |
 |---|---|
@@ -871,7 +830,7 @@ Files with broken references: 15
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |
 | `"[[event_jace_gym_arrival]]"` | `[[event_jace_gym_arrival]]` |
 
-### `locations/location_mars_overview.md`
+### `locations\location_mars_overview.md`
 
 | Before | After |
 |---|---|
@@ -884,7 +843,7 @@ Files with broken references: 15
 | `"[[location_mars_visual_prompt_library]]"` | `[[location_mars_visual_prompt_library]]` |
 | `"[[tech_dogs_space_adapted]]"` | `[[tech_dogs_space_adapted]]` |
 
-### `locations/location_mars_us_afspace_force_base.md`
+### `locations\location_mars_us_afspace_force_base.md`
 
 | Before | After |
 |---|---|
@@ -894,7 +853,7 @@ Files with broken references: 15
 | `"[[event_jace_mars_tour_with_rich]]"` | `[[event_jace_mars_tour_with_rich]]` |
 | `"[[concept_military_address_culture]]"` | `[[concept_military_address_culture]]` |
 
-### `locations/location_mars_visual_prompt_library.md`
+### `locations\location_mars_visual_prompt_library.md`
 
 | Before | After |
 |---|---|
@@ -906,7 +865,7 @@ Files with broken references: 15
 | `"[[location_mars_consumer_district]]"` | `[[location_mars_consumer_district]]` |
 | `"[[location_mars_fabrication_district]]"` | `[[location_mars_fabrication_district]]` |
 
-### `locations/location_metis_station.md`
+### `locations\location_metis_station.md`
 
 | Before | After |
 |---|---|
@@ -916,7 +875,7 @@ Files with broken references: 15
 | `"[[char_eugene]]"` | `[[char_eugene]]` |
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 
-### `locations/location_odysseus_station.md`
+### `locations\location_odysseus_station.md`
 
 | Before | After |
 |---|---|
@@ -924,14 +883,14 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[faction_china_belt_operations]]"` | `[[faction_china_belt_operations]]` |
 
-### `locations/location_pangu.md`
+### `locations\location_pangu.md`
 
 | Before | After |
 |---|---|
 | `"[[location_mars_overview]]"` | `[[location_mars_overview]]` |
 | `"[[location_terminus]]"` | `[[location_terminus]]` |
 
-### `locations/location_terminus.md`
+### `locations\location_terminus.md`
 
 | Before | After |
 |---|---|
@@ -943,7 +902,7 @@ Files with broken references: 15
 | `"[[location_pangu]]"` | `[[location_pangu]]` |
 | `"[[location_mars_overview]]"` | `[[location_mars_overview]]` |
 
-### `locations/location_the_long_burn_bar.md`
+### `locations\location_the_long_burn_bar.md`
 
 | Before | After |
 |---|---|
@@ -951,7 +910,7 @@ Files with broken references: 15
 | `"[[char_smuggler_mars]]"` | `[[char_smuggler_mars]]` |
 | `"[[event_jace_bar_rumors]]"` | `[[event_jace_bar_rumors]]` |
 
-### `magic-systems/advancement_ledger.md`
+### `magic-systems\advancement_ledger.md`
 
 | Before | After |
 |---|---|
@@ -964,7 +923,7 @@ Files with broken references: 15
 | `"[[sheet_jin_arc01_end]]"` | `[[sheet_jin_arc01_end]]` |
 | `"[[sheet_nick_arc01_end]]"` | `[[sheet_nick_arc01_end]]` |
 
-### `magic-systems/magic_astral_transfer_skill.md`
+### `magic-systems\magic_astral_transfer_skill.md`
 
 | Before | After |
 |---|---|
@@ -974,7 +933,7 @@ Files with broken references: 15
 | `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 
-### `magic-systems/magic_breach_crossers_transient.md`
+### `magic-systems\magic_breach_crossers_transient.md`
 
 | Before | After |
 |---|---|
@@ -984,7 +943,7 @@ Files with broken references: 15
 | `"[[magic_cryptids_silicon]]"` | `[[magic_cryptids_silicon]]` |
 | `"[[magic_manifestations_early]]"` | `[[magic_manifestations_early]]` |
 
-### `magic-systems/magic_cryptid_species_reference.md`
+### `magic-systems\magic_cryptid_species_reference.md`
 
 | Before | After |
 |---|---|
@@ -994,7 +953,7 @@ Files with broken references: 15
 | `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
-### `magic-systems/magic_cryptids_silicon.md`
+### `magic-systems\magic_cryptids_silicon.md`
 
 | Before | After |
 |---|---|
@@ -1003,7 +962,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[magic_improvised_responses]]"` | `[[magic_improvised_responses]]` |
 
-### `magic-systems/magic_dual_existence_entities.md`
+### `magic-systems\magic_dual_existence_entities.md`
 
 | Before | After |
 |---|---|
@@ -1012,7 +971,7 @@ Files with broken references: 15
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 
-### `magic-systems/magic_improvised_responses.md`
+### `magic-systems\magic_improvised_responses.md`
 
 | Before | After |
 |---|---|
@@ -1021,7 +980,7 @@ Files with broken references: 15
 | `"[[magic_overview]]"` | `[[magic_overview]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `magic-systems/magic_manifestations_early.md`
+### `magic-systems\magic_manifestations_early.md`
 
 | Before | After |
 |---|---|
@@ -1031,7 +990,7 @@ Files with broken references: 15
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |
 | `"[[concept_aura_ai_system]]"` | `[[concept_aura_ai_system]]` |
 
-### `magic-systems/magic_overview.md`
+### `magic-systems\magic_overview.md`
 
 | Before | After |
 |---|---|
@@ -1041,7 +1000,7 @@ Files with broken references: 15
 | `"[[magic_returning_arts]]"` | `[[magic_returning_arts]]` |
 | `"[[magic_cryptid_species_reference]]"` | `[[magic_cryptid_species_reference]]` |
 
-### `magic-systems/magic_progression_signals_guide.md`
+### `magic-systems\magic_progression_signals_guide.md`
 
 | Before | After |
 |---|---|
@@ -1050,7 +1009,7 @@ Files with broken references: 15
 | `"[[magic_skill_level_scale]]"` | `[[magic_skill_level_scale]]` |
 | `"[[progression_review_guide]]"` | `[[progression_review_guide]]` |
 
-### `magic-systems/magic_self_template_skill.md`
+### `magic-systems\magic_self_template_skill.md`
 
 | Before | After |
 |---|---|
@@ -1061,7 +1020,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_kael]]"` | `[[char_kael]]` |
 
-### `magic-systems/magic_skill_level_scale.md`
+### `magic-systems\magic_skill_level_scale.md`
 
 | Before | After |
 |---|---|
@@ -1070,7 +1029,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_kael]]"` | `[[char_kael]]` |
 
-### `magic-systems/magic_skills_framework.md`
+### `magic-systems\magic_skills_framework.md`
 
 | Before | After |
 |---|---|
@@ -1083,7 +1042,7 @@ Files with broken references: 15
 | `"[[magic_skill_level_scale]]"` | `[[magic_skill_level_scale]]` |
 | `"[[advancement_ledger]]"` | `[[advancement_ledger]]` |
 
-### `magic-systems/magic_technological_adaptation.md`
+### `magic-systems\magic_technological_adaptation.md`
 
 | Before | After |
 |---|---|
@@ -1092,7 +1051,7 @@ Files with broken references: 15
 | `"[[concept_mil_ex_implants]]"` | `[[concept_mil_ex_implants]]` |
 | `"[[magic_manifestations_early]]"` | `[[magic_manifestations_early]]` |
 
-### `magic-systems/magic_will_and_templates.md`
+### `magic-systems\magic_will_and_templates.md`
 
 | Before | After |
 |---|---|
@@ -1100,7 +1059,7 @@ Files with broken references: 15
 | `"[[spec_dungeon_anchor_mechanics]]"` | `[[spec_dungeon_anchor_mechanics]]` |
 | `"[[spec_dungeon_cognitive_evolution]]"` | `[[spec_dungeon_cognitive_evolution]]` |
 
-### `magic-systems/magic_will_orbs.md`
+### `magic-systems\magic_will_orbs.md`
 
 | Before | After |
 |---|---|
@@ -1111,7 +1070,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[magic_dual_existence_entities]]"` | `[[magic_dual_existence_entities]]` |
 
-### `scenes/draft_ch00_prologue_helena.md`
+### `scenes\draft_ch00_prologue_helena.md`
 
 | Before | After |
 |---|---|
@@ -1123,7 +1082,7 @@ Files with broken references: 15
 | `"[[char_dog_siren]]"` | `[[char_dog_siren]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `scenes/draft_ch01_departure_and_rounds.md`
+### `scenes\draft_ch01_departure_and_rounds.md`
 
 | Before | After |
 |---|---|
@@ -1139,7 +1098,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
 
-### `scenes/draft_ch02_no_more_voices.md`
+### `scenes\draft_ch02_no_more_voices.md`
 
 | Before | After |
 |---|---|
@@ -1154,7 +1113,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
 
-### `scenes/draft_ch03_plumbing_crisis.md`
+### `scenes\draft_ch03_plumbing_crisis.md`
 
 | Before | After |
 |---|---|
@@ -1165,7 +1124,7 @@ Files with broken references: 15
 | `"[[tech_nuclear_ferries]]"` | `[[tech_nuclear_ferries]]` |
 | `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
 
-### `scenes/draft_ch04_morning_after_debrief.md`
+### `scenes\draft_ch04_morning_after_debrief.md`
 
 | Before | After |
 |---|---|
@@ -1177,7 +1136,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[chapter_draft_schema_v2]]"` | `[[chapter_draft_schema_v2]]` |
 
-### `scenes/draft_ch05_learning_mode.md`
+### `scenes\draft_ch05_learning_mode.md`
 
 | Before | After |
 |---|---|
@@ -1192,7 +1151,7 @@ Files with broken references: 15
 | `"[[location_metis_station]]"` | `[[location_metis_station]]` |
 | `"[[tech_modular_pod_canisters]]"` | `[[tech_modular_pod_canisters]]` |
 
-### `scenes/draft_ch06_the_spire.md`
+### `scenes\draft_ch06_the_spire.md`
 
 | Before | After |
 |---|---|
@@ -1205,7 +1164,7 @@ Files with broken references: 15
 | `"[[magic_breach_crossers_transient]]"` | `[[magic_breach_crossers_transient]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch07_arrival_day.md`
+### `scenes\draft_ch07_arrival_day.md`
 
 | Before | After |
 |---|---|
@@ -1226,7 +1185,7 @@ Files with broken references: 15
 | `"[[ship_falcon]]"` | `[[ship_falcon]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch08_settling_in.md`
+### `scenes\draft_ch08_settling_in.md`
 
 | Before | After |
 |---|---|
@@ -1242,7 +1201,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch09_first_week.md`
+### `scenes\draft_ch09_first_week.md`
 
 | Before | After |
 |---|---|
@@ -1260,7 +1219,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch10_first_drone_shift.md`
+### `scenes\draft_ch10_first_drone_shift.md`
 
 | Before | After |
 |---|---|
@@ -1275,7 +1234,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch11_survey_trip.md`
+### `scenes\draft_ch11_survey_trip.md`
 
 | Before | After |
 |---|---|
@@ -1287,7 +1246,7 @@ Files with broken references: 15
 | `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch12_awakening.md`
+### `scenes\draft_ch12_awakening.md`
 
 | Before | After |
 |---|---|
@@ -1300,7 +1259,7 @@ Files with broken references: 15
 | `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch13_woman_who_wasnt_glowing.md`
+### `scenes\draft_ch13_woman_who_wasnt_glowing.md`
 
 | Before | After |
 |---|---|
@@ -1314,7 +1273,7 @@ Files with broken references: 15
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 
-### `scenes/draft_ch14_down_to_the_asteroid.md`
+### `scenes\draft_ch14_down_to_the_asteroid.md`
 
 | Before | After |
 |---|---|
@@ -1331,7 +1290,7 @@ Files with broken references: 15
 | `"[[spec_audiobook_narration_style]]"` | `[[spec_audiobook_narration_style]]` |
 | `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
 
-### `scenes/draft_ch15_sideways.md`
+### `scenes\draft_ch15_sideways.md`
 
 | Before | After |
 |---|---|
@@ -1351,7 +1310,7 @@ Files with broken references: 15
 | `"[[draft_ch14_down_to_the_asteroid]]"` | `[[draft_ch14_down_to_the_asteroid]]` |
 | `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
 
-### `scenes/draft_ch16_ten_good_days.md`
+### `scenes\draft_ch16_ten_good_days.md`
 
 | Before | After |
 |---|---|
@@ -1368,7 +1327,7 @@ Files with broken references: 15
 | `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
 | `"[[draft_ch17_falling_behind]]"` | `[[draft_ch17_falling_behind]]` |
 
-### `scenes/draft_ch17_falling_behind.md`
+### `scenes\draft_ch17_falling_behind.md`
 
 | Before | After |
 |---|---|
@@ -1384,7 +1343,7 @@ Files with broken references: 15
 | `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
 | `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
 
-### `scenes/draft_ch18_later_became_morning.md`
+### `scenes\draft_ch18_later_became_morning.md`
 
 | Before | After |
 |---|---|
@@ -1401,7 +1360,7 @@ Files with broken references: 15
 | `"[[draft_ch17_falling_behind]]"` | `[[draft_ch17_falling_behind]]` |
 | `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
 
-### `scenes/draft_ch19_fault_lines.md`
+### `scenes\draft_ch19_fault_lines.md`
 
 | Before | After |
 |---|---|
@@ -1417,7 +1376,7 @@ Files with broken references: 15
 | `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
 | `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
 
-### `scenes/draft_ch20_the_eye_on_three.md`
+### `scenes\draft_ch20_the_eye_on_three.md`
 
 | Before | After |
 |---|---|
@@ -1432,7 +1391,7 @@ Files with broken references: 15
 | `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
 | `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
 
-### `scenes/draft_ch21_quiet_companion.md`
+### `scenes\draft_ch21_quiet_companion.md`
 
 | Before | After |
 |---|---|
@@ -1452,7 +1411,7 @@ Files with broken references: 15
 | `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
 | `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
 
-### `scenes/draft_ch22_no_vampires.md`
+### `scenes\draft_ch22_no_vampires.md`
 
 | Before | After |
 |---|---|
@@ -1470,7 +1429,7 @@ Files with broken references: 15
 | `"[[draft_ch09_first_week]]"` | `[[draft_ch09_first_week]]` |
 | `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
 
-### `scenes/draft_ch23_the_leech.md`
+### `scenes\draft_ch23_the_leech.md`
 
 | Before | After |
 |---|---|
@@ -1487,7 +1446,7 @@ Files with broken references: 15
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
 
-### `scenes/event_t_forge_no_more_voices.md`
+### `scenes\event_t_forge_no_more_voices.md`
 
 | Before | After |
 |---|---|
@@ -1497,7 +1456,7 @@ Files with broken references: 15
 | `"[[tech_origin_logistics]]"` | `[[tech_origin_logistics]]` |
 | `"[[faction_alphacorp]]"` | `[[faction_alphacorp]]` |
 
-### `scenes/event_t_spire_eggs.md`
+### `scenes\event_t_spire_eggs.md`
 
 | Before | After |
 |---|---|
@@ -1509,7 +1468,7 @@ Files with broken references: 15
 | `"[[tech_falcon_majordomo]]"` | `[[tech_falcon_majordomo]]` |
 | `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
 
-### `scenes/event_x00a_astral_awakening.md`
+### `scenes\event_x00a_astral_awakening.md`
 
 | Before | After |
 |---|---|
@@ -1521,7 +1480,7 @@ Files with broken references: 15
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[spec_chapter_epigraphs]]"` | `[[spec_chapter_epigraphs]]` |
 
-### `scenes/event_x00b_sophia_cafeteria.md`
+### `scenes\event_x00b_sophia_cafeteria.md`
 
 | Before | After |
 |---|---|
@@ -1532,7 +1491,7 @@ Files with broken references: 15
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[spec_chapter_epigraphs]]"` | `[[spec_chapter_epigraphs]]` |
 
-### `scenes/non-canonical-ideas/book01-opening-notes.md`
+### `scenes\non-canonical-ideas\book01-opening-notes.md`
 
 | Before | After |
 |---|---|
@@ -1552,7 +1511,7 @@ Files with broken references: 15
 | `"[[event_x00b_sophia_cafeteria]]"` | `[[event_x00b_sophia_cafeteria]]` |
 | `"[[scene_notes_ai_interactions]]"` | `[[scene_notes_ai_interactions]]` |
 
-### `scenes/non-canonical-ideas/event_jace_assembles_smuggling_list.md`
+### `scenes\non-canonical-ideas\event_jace_assembles_smuggling_list.md`
 
 | Before | After |
 |---|---|
@@ -1562,7 +1521,7 @@ Files with broken references: 15
 | `"[[outbreak_timeline]]"` | `[[outbreak_timeline]]` |
 | `"[[event_jace_bar_rumors]]"` | `[[event_jace_bar_rumors]]` |
 
-### `scenes/non-canonical-ideas/event_jace_day2_acclimation.md`
+### `scenes\non-canonical-ideas\event_jace_day2_acclimation.md`
 
 | Before | After |
 |---|---|
@@ -1570,7 +1529,7 @@ Files with broken references: 15
 | `"[[event_jace_drone_center_tour]]"` | `[[event_jace_drone_center_tour]]` |
 | `"[[scenes_temporal_map]]"` | `[[scenes_temporal_map]]` |
 
-### `scenes/non-canonical-ideas/event_jace_dog_breeder_visits.md`
+### `scenes\non-canonical-ideas\event_jace_dog_breeder_visits.md`
 
 | Before | After |
 |---|---|
@@ -1580,7 +1539,7 @@ Files with broken references: 15
 | `"[[event_jace_origin_negotiation]]"` | `[[event_jace_origin_negotiation]]` |
 | `"[[location_terminus]]"` | `[[location_terminus]]` |
 
-### `scenes/non-canonical-ideas/event_jace_drone_center_tour.md`
+### `scenes\non-canonical-ideas\event_jace_drone_center_tour.md`
 
 | Before | After |
 |---|---|
@@ -1593,7 +1552,7 @@ Files with broken references: 15
 | `"[[concept_mil_ex_implants]]"` | `[[concept_mil_ex_implants]]` |
 | `"[[scenes_temporal_map]]"` | `[[scenes_temporal_map]]` |
 
-### `scenes/non-canonical-ideas/event_jace_horse_farm_offer.md`
+### `scenes\non-canonical-ideas\event_jace_horse_farm_offer.md`
 
 | Before | After |
 |---|---|
@@ -1603,7 +1562,7 @@ Files with broken references: 15
 | `"[[char_jinx_grant]]"` | `[[char_jinx_grant]]` |
 | `"[[event_jace_origin_negotiation]]"` | `[[event_jace_origin_negotiation]]` |
 
-### `scenes/non-canonical-ideas/event_jace_lina_yoga_scene.md`
+### `scenes\non-canonical-ideas\event_jace_lina_yoga_scene.md`
 
 | Before | After |
 |---|---|
@@ -1612,7 +1571,7 @@ Files with broken references: 15
 | `"[[magic_manifestations_early]]"` | `[[magic_manifestations_early]]` |
 | `"[[magic_overview]]"` | `[[magic_overview]]` |
 
-### `scenes/non-canonical-ideas/event_rich_comms_favor.md`
+### `scenes\non-canonical-ideas\event_rich_comms_favor.md`
 
 | Before | After |
 |---|---|
@@ -1621,7 +1580,7 @@ Files with broken references: 15
 | `"[[event_jace_doctor_appointment]]"` | `[[event_jace_doctor_appointment]]` |
 | `"[[tech_communications_filtering]]"` | `[[tech_communications_filtering]]` |
 
-### `scenes/scene_notes_x09b_composition_question.md`
+### `scenes\scene_notes_x09b_composition_question.md`
 
 | Before | After |
 |---|---|
@@ -1631,7 +1590,7 @@ Files with broken references: 15
 | `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 | `"[[event_t_spire_eggs]]"` | `[[event_t_spire_eggs]]` |
 
-### `scenes/scene_notes_x09c_what_else_she_can_do.md`
+### `scenes\scene_notes_x09c_what_else_she_can_do.md`
 
 | Before | After |
 |---|---|
@@ -1641,7 +1600,7 @@ Files with broken references: 15
 | `"[[event_x03b_what_she_can_do]]"` | `[[event_x03b_what_she_can_do]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 
-### `scenes/scene_notes_x09d_moving_house.md`
+### `scenes\scene_notes_x09d_moving_house.md`
 
 | Before | After |
 |---|---|
@@ -1652,7 +1611,7 @@ Files with broken references: 15
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 
-### `scenes/scene_notes_x09e_sparky_comes_across.md`
+### `scenes\scene_notes_x09e_sparky_comes_across.md`
 
 | Before | After |
 |---|---|
@@ -1661,7 +1620,24 @@ Files with broken references: 15
 | `"[[scene_notes_x09d_moving_house]]"` | `[[scene_notes_x09d_moving_house]]` |
 | `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 
-### `sheets/sheet_helena_epilogue_resurrection.md`
+### `SERIES_BIBLE.md`
+
+| Before | After |
+|---|---|
+| `"[[progression_review_guide]]"` | `[[progression_review_guide]]` |
+| `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
+| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+| `"[[magic_cultural_schools]]"` | `[[magic_cultural_schools]]` |
+| `"[[faction_galactic_species_index]]"` | `[[faction_galactic_species_index]]` |
+| `"[[faction_galactic_will_networks]]"` | `[[faction_galactic_will_networks]]` |
+| `"[[tech_ai_architecture_comparison]]"` | `[[tech_ai_architecture_comparison]]` |
+| `"[[timeline_master]]"` | `[[timeline_master]]` |
+| `"[[arc_03_the_return_and_the_trap]]"` | `[[arc_03_the_return_and_the_trap]]` |
+| `"[[arc_04_the_bloom]]"` | `[[arc_04_the_bloom]]` |
+| `"[[arc_05_the_reckoning]]"` | `[[arc_05_the_reckoning]]` |
+| `"[[priority_fix_list]]"` | `[[priority_fix_list]]` |
+
+### `sheets\sheet_helena_epilogue_resurrection.md`
 
 | Before | After |
 |---|---|
@@ -1670,7 +1646,7 @@ Files with broken references: 15
 | `"[[event_helena_epilogue]]"` | `[[event_helena_epilogue]]` |
 | `"[[magic_will_and_templates]]"` | `[[magic_will_and_templates]]` |
 
-### `sheets/sheet_helena_prologue_death.md`
+### `sheets\sheet_helena_prologue_death.md`
 
 | Before | After |
 |---|---|
@@ -1680,7 +1656,7 @@ Files with broken references: 15
 | `"[[magic_will_and_templates]]"` | `[[magic_will_and_templates]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 
-### `sheets/sheet_jace_arc01_end.md`
+### `sheets\sheet_jace_arc01_end.md`
 
 | Before | After |
 |---|---|
@@ -1688,56 +1664,56 @@ Files with broken references: 15
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 | `"[[sheet_jace_arc01_start]]"` | `[[sheet_jace_arc01_start]]` |
 
-### `sheets/sheet_jace_arc01_start.md`
+### `sheets\sheet_jace_arc01_start.md`
 
 | Before | After |
 |---|---|
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
-### `sheets/sheet_jin_arc01_end.md`
+### `sheets\sheet_jin_arc01_end.md`
 
 | Before | After |
 |---|---|
 | `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
-### `sheets/sheet_nick_arc01_end.md`
+### `sheets\sheet_nick_arc01_end.md`
 
 | Before | After |
 |---|---|
 | `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
-### `sheets/sheet_sophia_arc01_end.md`
+### `sheets\sheet_sophia_arc01_end.md`
 
 | Before | After |
 |---|---|
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 
-### `sheets/system_character_sheets_skill_format.md`
+### `sheets\system_character_sheets_skill_format.md`
 
 | Before | After |
 |---|---|
 | `"[[system_character_sheets]]"` | `[[system_character_sheets]]` |
 | `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
 
-### `ships/ship_falcon.md`
+### `ships\ship_falcon.md`
 
 | Before | After |
 |---|---|
 | `"[[ship_livestock_ferry_class]]"` | `[[ship_livestock_ferry_class]]` |
 | `"[[visual_profile_ship_falcon]]"` | `[[visual_profile_ship_falcon]]` |
 
-### `storybot/storybot_orpheus_voice_tag_reference.md`
+### `storybot\storybot_orpheus_voice_tag_reference.md`
 
 | Before | After |
 |---|---|
 | `"[[voice_char_jace_apollo]]"` | `[[voice_char_jace_apollo]]` |
 | `"[[VISUAL_PROFILE_SYSTEM_INSTRUCTIONS]]"` | `[[VISUAL_PROFILE_SYSTEM_INSTRUCTIONS]]` |
 
-### `technology/tech_ai_architecture_comparison.md`
+### `technology\tech_ai_architecture_comparison.md`
 
 | Before | After |
 |---|---|
@@ -1745,13 +1721,13 @@ Files with broken references: 15
 | `"[[tech_misty_ai]]"` | `[[tech_misty_ai]]` |
 | `"[[tech_eagle_ai]]"` | `[[tech_eagle_ai]]` |
 
-### `technology/tech_aura_ai.md`
+### `technology\tech_aura_ai.md`
 
 | Before | After |
 |---|---|
 | `"[[char_aura_ai]]"` | `[[char_aura_ai]]` |
 
-### `technology/tech_eagle_ai.md`
+### `technology\tech_eagle_ai.md`
 
 | Before | After |
 |---|---|
@@ -1761,7 +1737,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[faction_united_states_mars]]"` | `[[faction_united_states_mars]]` |
 
-### `technology/tech_falcon_majordomo.md`
+### `technology\tech_falcon_majordomo.md`
 
 | Before | After |
 |---|---|
@@ -1770,14 +1746,14 @@ Files with broken references: 15
 | `"[[char_maureen]]"` | `[[char_maureen]]` |
 | `"[[tech_fortuna_ai_personalities]]"` | `[[tech_fortuna_ai_personalities]]` |
 
-### `technology/tech_misty_ai.md`
+### `technology\tech_misty_ai.md`
 
 | Before | After |
 |---|---|
 | `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 
-### `technology/tech_origin_logistics.md`
+### `technology\tech_origin_logistics.md`
 
 | Before | After |
 |---|---|
@@ -1789,14 +1765,14 @@ Files with broken references: 15
 | `"[[arc_01_thread_A_arrival]]"` | `[[arc_01_thread_A_arrival]]` |
 | `"[[arc_01_thread_T_transit]]"` | `[[arc_01_thread_T_transit]]` |
 
-### `technology/tech_seek_ai.md`
+### `technology\tech_seek_ai.md`
 
 | Before | After |
 |---|---|
 | `"[[char_seek_ai]]"` | `[[char_seek_ai]]` |
 | `"[[char_penny_ai]]"` | `[[char_penny_ai]]` |
 
-### `technology/tech_sleep_masks.md`
+### `technology\tech_sleep_masks.md`
 
 | Before | After |
 |---|---|
@@ -1807,7 +1783,7 @@ Files with broken references: 15
 | `"[[char_dog_siren]]"` | `[[char_dog_siren]]` |
 | `"[[char_helena]]"` | `[[char_helena]]` |
 
-### `timeline/outbreak_timeline.md`
+### `timeline\outbreak_timeline.md`
 
 | Before | After |
 |---|---|
@@ -1819,7 +1795,7 @@ Files with broken references: 15
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 | `"[[concept_aura_ai_system]]"` | `[[concept_aura_ai_system]]` |
 
-### `timeline/timeline_disclosure_political_response.md`
+### `timeline\timeline_disclosure_political_response.md`
 
 | Before | After |
 |---|---|
@@ -1833,7 +1809,7 @@ Files with broken references: 15
 | `"[[arc_01_thread_S_swarm]]"` | `[[arc_01_thread_S_swarm]]` |
 | `"[[location_fortuna_station]]"` | `[[location_fortuna_station]]` |
 
-### `universe-spec/concept_ai_seams.md`
+### `universe-spec\concept_ai_seams.md`
 
 | Before | After |
 |---|---|
@@ -1845,7 +1821,7 @@ Files with broken references: 15
 | `"[[char_mei]]"` | `[[char_mei]]` |
 | `"[[char_suzi]]"` | `[[char_suzi]]` |
 
-### `universe-spec/concept_aura_ai_system.md`
+### `universe-spec\concept_aura_ai_system.md`
 
 | Before | After |
 |---|---|
@@ -1854,7 +1830,7 @@ Files with broken references: 15
 | `"[[char_eugene]]"` | `[[char_eugene]]` |
 | `"[[concept_mil_ex_implants]]"` | `[[concept_mil_ex_implants]]` |
 
-### `universe-spec/concept_mil_ex_implants.md`
+### `universe-spec\concept_mil_ex_implants.md`
 
 | Before | After |
 |---|---|
@@ -1862,7 +1838,7 @@ Files with broken references: 15
 | `"[[concept_aura_ai_system]]"` | `[[concept_aura_ai_system]]` |
 | `"[[tech_cybernetics]]"` | `[[tech_cybernetics]]` |
 
-### `universe-spec/concept_military_address_culture.md`
+### `universe-spec\concept_military_address_culture.md`
 
 | Before | After |
 |---|---|
@@ -1870,13 +1846,13 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[location_mars_us_afspace_force_base]]"` | `[[location_mars_us_afspace_force_base]]` |
 
-### `universe-spec/concept_resource_scarcity.md`
+### `universe-spec\concept_resource_scarcity.md`
 
 | Before | After |
 |---|---|
 | `"[[spec_belt_transport_and_economy]]"` | `[[spec_belt_transport_and_economy]]` |
 
-### `universe-spec/cosmology.md`
+### `universe-spec\cosmology.md`
 
 | Before | After |
 |---|---|
@@ -1887,7 +1863,7 @@ Files with broken references: 15
 | `"[[magic_will_and_templates]]"` | `[[magic_will_and_templates]]` |
 | `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 
-### `universe-spec/legacy_lexicon_and_rulebook_reconciliation.md`
+### `universe-spec\legacy_lexicon_and_rulebook_reconciliation.md`
 
 | Before | After |
 |---|---|
@@ -1898,14 +1874,14 @@ Files with broken references: 15
 | `"[[magic_never_never]]"` | `[[magic_never_never]]` |
 | `"[[tech_never_never_transit]]"` | `[[tech_never_never_transit]]` |
 
-### `universe-spec/physics-and-magic-interaction.md`
+### `universe-spec\physics-and-magic-interaction.md`
 
 | Before | After |
 |---|---|
 | `"[[spec_dungeon_systems]]"` | `[[spec_dungeon_systems]]` |
 | `"[[spec_dungeon_cognitive_evolution]]"` | `[[spec_dungeon_cognitive_evolution]]` |
 
-### `universe-spec/spec_astral_glow_and_signatures.md`
+### `universe-spec\spec_astral_glow_and_signatures.md`
 
 | Before | After |
 |---|---|
@@ -1917,13 +1893,13 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_kael]]"` | `[[char_kael]]` |
 
-### `universe-spec/spec_belt_transport_and_economy.md`
+### `universe-spec\spec_belt_transport_and_economy.md`
 
 | Before | After |
 |---|---|
 | `"[[concept_resource_scarcity]]"` | `[[concept_resource_scarcity]]` |
 
-### `universe-spec/spec_cognitive_layer.md`
+### `universe-spec\spec_cognitive_layer.md`
 
 | Before | After |
 |---|---|
@@ -1938,13 +1914,13 @@ Files with broken references: 15
 | `"[[spec_dungeon_cognitive_evolution]]"` | `[[spec_dungeon_cognitive_evolution]]` |
 | `"[[spec_dungeon_entry_and_interface]]"` | `[[spec_dungeon_entry_and_interface]]` |
 
-### `universe-spec/spec_crossing_mechanics.md`
+### `universe-spec\spec_crossing_mechanics.md`
 
 | Before | After |
 |---|---|
 | `"[[spec_dungeon_entry_and_interface]]"` | `[[spec_dungeon_entry_and_interface]]` |
 
-### `universe-spec/spec_dimensional_travel_mechanics.md`
+### `universe-spec\spec_dimensional_travel_mechanics.md`
 
 | Before | After |
 |---|---|
@@ -1957,7 +1933,7 @@ Files with broken references: 15
 | `"[[spec_dungeon_entry_and_interface]]"` | `[[spec_dungeon_entry_and_interface]]` |
 | `"[[spec_dungeon_systems]]"` | `[[spec_dungeon_systems]]` |
 
-### `universe-spec/spec_magic_items_and_artifacts.md`
+### `universe-spec\spec_magic_items_and_artifacts.md`
 
 | Before | After |
 |---|---|
@@ -1969,14 +1945,27 @@ Files with broken references: 15
 | `"[[faction_titan_forge]]"` | `[[faction_titan_forge]]` |
 | `"[[char_kael]]"` | `[[char_kael]]` |
 
-### `universe-spec/spec_scar_clearing_mechanics.md`
+### `universe-spec\spec_scar_clearing_mechanics.md`
 
 | Before | After |
 |---|---|
 | `"[[spec_dungeon_anchor_mechanics]]"` | `[[spec_dungeon_anchor_mechanics]]` |
 | `"[[spec_dungeon_systems]]"` | `[[spec_dungeon_systems]]` |
 
-### `visual_profiles/_visual_profile_gaps_2026-08-15.md`
+### `VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md`
+
+| Before | After |
+|---|---|
+| `"[[visual_profile_cerberus_and_siren]]"` | `[[visual_profile_cerberus_and_siren]]` |
+| `"[[visual_profile_fortuna_station]]"` | `[[visual_profile_fortuna_station]]` |
+| `"[[visual_profile_jace_apollo]]"` | `[[visual_profile_jace_apollo]]` |
+| `"[[visual_profile_jin_long]]"` | `[[visual_profile_jin_long]]` |
+| `"[[visual_profile_kael]]"` | `[[visual_profile_kael]]` |
+| `"[[visual_profile_nick_lee]]"` | `[[visual_profile_nick_lee]]` |
+| `"[[visual_profile_ship_falcon]]"` | `[[visual_profile_ship_falcon]]` |
+| `"[[visual_profile_sophia_lotte]]"` | `[[visual_profile_sophia_lotte]]` |
+
+### `visual_profiles\_visual_profile_gaps_2026-08-15.md`
 
 | Before | After |
 |---|---|
@@ -1984,7 +1973,7 @@ Files with broken references: 15
 | `"[[visual_profile_suzi]]"` | `[[visual_profile_suzi]]` |
 | `"[[review_2026-08-15_cast_and_voice_audit]]"` | `[[review_2026-08-15_cast_and_voice_audit]]` |
 
-### `visual_profiles/visual_profile_cerberus_and_siren.md`
+### `visual_profiles\visual_profile_cerberus_and_siren.md`
 
 | Before | After |
 |---|---|
@@ -1992,7 +1981,7 @@ Files with broken references: 15
 | `"[[char_dog_siren]]"` | `[[char_dog_siren]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 
-### `visual_profiles/visual_profile_fortuna_station.md`
+### `visual_profiles\visual_profile_fortuna_station.md`
 
 | Before | After |
 |---|---|
@@ -2000,7 +1989,7 @@ Files with broken references: 15
 | `"[[fortuna_station_population_neighborhoods]]"` | `[[fortuna_station_population_neighborhoods]]` |
 | `"[[spec_belt_transport_and_economy]]"` | `[[spec_belt_transport_and_economy]]` |
 
-### `visual_profiles/visual_profile_jace_apollo.md`
+### `visual_profiles\visual_profile_jace_apollo.md`
 
 | Before | After |
 |---|---|
@@ -2009,14 +1998,14 @@ Files with broken references: 15
 | `"[[sheet_jace_arc01_end]]"` | `[[sheet_jace_arc01_end]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 
-### `visual_profiles/visual_profile_jin_long.md`
+### `visual_profiles\visual_profile_jin_long.md`
 
 | Before | After |
 |---|---|
 | `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 
-### `visual_profiles/visual_profile_kael.md`
+### `visual_profiles\visual_profile_kael.md`
 
 | Before | After |
 |---|---|
@@ -2024,14 +2013,14 @@ Files with broken references: 15
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 | `"[[magic_skills_framework]]"` | `[[magic_skills_framework]]` |
 
-### `visual_profiles/visual_profile_nick_lee.md`
+### `visual_profiles\visual_profile_nick_lee.md`
 
 | Before | After |
 |---|---|
 | `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 
-### `visual_profiles/visual_profile_ship_falcon.md`
+### `visual_profiles\visual_profile_ship_falcon.md`
 
 | Before | After |
 |---|---|
@@ -2040,7 +2029,7 @@ Files with broken references: 15
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_mei]]"` | `[[char_mei]]` |
 
-### `visual_profiles/visual_profile_sophia_lotte.md`
+### `visual_profiles\visual_profile_sophia_lotte.md`
 
 | Before | After |
 |---|---|
@@ -2048,7 +2037,7 @@ Files with broken references: 15
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 
-### `visual_profiles/visual_profile_suzi.md`
+### `visual_profiles\visual_profile_suzi.md`
 
 | Before | After |
 |---|---|
@@ -2061,18 +2050,18 @@ Files with broken references: 15
 
 These stems don't match any filename in the repo. Do NOT guess the intended target — resolve manually or flag to review-queue.
 
-- `arcs/arc_01_falcon_and_fortuna.md` → missing: `char_torres`, `draft_ch01_departure`, `draft_ch04_plumbing_crisis`, `draft_ch08_arrival_day`
-- `arcs/arc_01_thread_A_arrival.md` → missing: `char_torres`
-- `arcs/arc_01_thread_S_swarm.md` → missing: `char_torres`
-- `characters/char_erin.md` → missing: `voice_char_erin`
-- `characters/char_mateo_alvarez.md` → missing: `voice_char_mateo_alvarez`
-- `characters/voice_char_torres.md` → missing: `char_torres`
-- `scenes/draft_ch01_departure_and_rounds.md` → missing: `chapter_draft_schema_v2`
-- `scenes/draft_ch02_no_more_voices.md` → missing: `draft_ch03_afternoon_workshop`, `chapter_draft_schema_v2`
-- `scenes/draft_ch03_plumbing_crisis.md` → missing: `chapter_draft_schema_v2`
-- `scenes/draft_ch04_morning_after_debrief.md` → missing: `chapter_draft_schema_v2`
-- `scenes/draft_ch05_learning_mode.md` → missing: `book01-ch02b-learning-mode`, `draft_ch07_artemis_call_canister`
-- `scenes/draft_ch11_survey_trip.md` → missing: `char_torres`
-- `scenes/draft_ch13_woman_who_wasnt_glowing.md` → missing: `char_torres`
-- `scenes/non-canonical-ideas/book01-opening-notes.md` → missing: `draft_ch04_plumbing_crisis`, `draft_ch05_morning_after_debrief`, `draft_ch06_learning_mode`, `draft_ch07_artemis_call_canister`, `draft_ch08_arrival_day`
-- `scenes/scene_notes_x09c_what_else_she_can_do.md` → missing: `event_x03b_what_she_can_do`
+- `arcs\arc_01_falcon_and_fortuna.md` → missing: `char_torres`, `draft_ch01_departure`, `draft_ch04_plumbing_crisis`, `draft_ch08_arrival_day`
+- `arcs\arc_01_thread_A_arrival.md` → missing: `char_torres`
+- `arcs\arc_01_thread_S_swarm.md` → missing: `char_torres`
+- `characters\char_erin.md` → missing: `voice_char_erin`
+- `characters\char_mateo_alvarez.md` → missing: `voice_char_mateo_alvarez`
+- `characters\voice_char_torres.md` → missing: `char_torres`
+- `scenes\draft_ch01_departure_and_rounds.md` → missing: `chapter_draft_schema_v2`
+- `scenes\draft_ch02_no_more_voices.md` → missing: `draft_ch03_afternoon_workshop`, `chapter_draft_schema_v2`
+- `scenes\draft_ch03_plumbing_crisis.md` → missing: `chapter_draft_schema_v2`
+- `scenes\draft_ch04_morning_after_debrief.md` → missing: `chapter_draft_schema_v2`
+- `scenes\draft_ch05_learning_mode.md` → missing: `book01-ch02b-learning-mode`, `draft_ch07_artemis_call_canister`
+- `scenes\draft_ch11_survey_trip.md` → missing: `char_torres`
+- `scenes\draft_ch13_woman_who_wasnt_glowing.md` → missing: `char_torres`
+- `scenes\non-canonical-ideas\book01-opening-notes.md` → missing: `draft_ch04_plumbing_crisis`, `draft_ch05_morning_after_debrief`, `draft_ch06_learning_mode`, `draft_ch07_artemis_call_canister`, `draft_ch08_arrival_day`
+- `scenes\scene_notes_x09c_what_else_she_can_do.md` → missing: `event_x03b_what_she_can_do`

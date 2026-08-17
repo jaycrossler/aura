@@ -44,7 +44,7 @@ Jace read it three times while Cerberus watched from the foot of the bed.
 
 Cerberus tilted his head.
 
-"It is a mandatory day off with unusually specific boundaries."
+"It is a mandatory day off with... unusually specific boundaries."
 
 Cerberus yawned.
 
@@ -398,7 +398,7 @@ She pulled on the jacket. It hung loose over her coat. Sparky hovered beside her
 
 "Tell him to retrace the route," Jace said. "Return to sender."
 
-"This makes no sense."
+"That shouldn't work. It makes no sense."
 
 "Do your best."
 
@@ -614,11 +614,11 @@ Sophia lowered her hand. The pen remained level.
 
 She turned her wrist. The pen rotated.
 
-The ceramic cup beside it lifted next. A spoon rattled inside. Sophia's face tightened with concentration, and the cup drifted from the desk to Jace's open palm. She had gone from feezing to sweating.
+The ceramic cup beside it lifted next. A spoon rattled inside. Sophia's face tightened with concentration, and the cup drifted from the desk to Jace's open palm. Her body was feezing but her head was sweating.
 
 It weighed exactly what a cup should weigh.
 
-"You can do it here," he said.
+"You can do it *here*," he said.
 
 "Not as well. Not for long."
 

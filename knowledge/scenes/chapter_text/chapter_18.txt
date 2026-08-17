@@ -14,7 +14,7 @@ Kim sat at the lead console with Carlos behind her. Every automated route Jace h
 
 Kim did not ask him to sit.
 
-"Yesterday," she said, "you told the queue that any route without a clean confidence score could wait for later."
+"Yesterday," she said, "you told the queue that any route without a clean confidence score could wait for later. You left them to A.I.s to manage."
 
 "Yes, ma'am."
 
@@ -22,7 +22,7 @@ Kim did not ask him to sit.
 
 Carlos looked at the floor.
 
-Kim opened the rollback report. "Fourteen loads arrived late. Seven required human rerouting. Three oxygen transfers missed their preferred windows. One medical case remained in review for two hours because the requesting clinic and destination did not match. No one died. That is the full list of good outcomes."
+Kim opened the rollback report. "Fourteen loads arrived late. Hal required human rerouting. Three oxygen transfers missed their preferred windows. One medical case remained in review for two hours because the requesting clinic and destination did not match. No one died. That is the full list of good outcomes."
 
 Jace kept his hands away from the console.
 
@@ -36,15 +36,17 @@ The true answer contained blue cold, a woman running behind a space station, and
 
 "On a private project."
 
-"Was it worth delaying oxygen?"
+"Was it worth delaying oxygen to people in space suits?"
 
 "No."
 
-That answer hurt because the project had saved Sophia's life. Both facts remained true.
+That answer hurt because the project had saved Sophia's life. It was too hard to explain that to Kim.
 
-Kim removed his automation credential. His console collapsed from systems view to a manual operator queue.
+"People have been fighting this battle for decades. The A.I. are so confident that they can run everything. We trust them. Things work. Things stop working. Disaster ensues."
 
-"You may enter one route at a time. Carlos reviews each release. You do not write routing code. You do not install a model. You do not use a drone outside an assigned ticket."
+She tapped on a keyboard and removed his automation credential. On his desk, his console collapsed from systems view to a manual operator queue.
+
+"You may enter one route at a time. Carlos reviews each release. You do not write routing code. You do not let A.I. manage your work. You do not use a drone outside an assigned ticket."
 
 "For how long?"
 
@@ -54,7 +56,7 @@ Jace nodded. "Understood."
 
 "I am not asking for shame, Grant. Shame is expensive and has poor operational value. I am asking for attention."
 
-She moved the first terminal toward him.
+She pointed to his desk.
 
 "Start with medical and pressure control."
 
@@ -68,7 +70,7 @@ Carlos read the ticket once.
 
 "Patient moved," he said.
 
-"The destination should have been updated."
+Jace replied, "The destination should have been updated."
 
 "Yes."
 
@@ -78,11 +80,11 @@ Carlos read the ticket once.
 
 "The request is wrong."
 
-Carlos pulled on his cardigan. "Come on."
+Carlos typed a quick message, then pulled on his cardigan. "Come on."
 
-They carried the case by hand.
+Jace carried the case by hand. As they walked, a baker stepped out and handed a croisant to Carlos, smiled and walked back without a word. Huh.
 
-Ring Two looked normal until Jace noticed what had changed. Public menu boards no longer showed weekly prices. They showed subject to availability. The bakery had removed coffee from its breakfast bundle. Two market lockers stood open and empty while a woman argued with their inventory agent.
+Ring Two looked normal until Jace noticed the subtle differences. Public menu boards no longer showed weekly prices. Some showed subject to availability. The bakery had removed coffee from its breakfast bundle. Two market lockers stood open and empty while a woman argued with their inventory agent.
 
 A station news panel played a statement from the American Red administration. The official stood before a red-washed flag and announced that all Chinese-chartered belt cargo would undergo additional security review. Mars had paused three outbound launches while the review terms were negotiated. Earth insurers had suspended new coverage for independent belt traffic.
 
@@ -94,57 +96,57 @@ The panel changed to a Fortuna financial notice before Jace could read the detai
 
 Carlos followed his eyes.
 
-"That was before the shipments stopped."
+"You didn't know the shipments stopped? Where have you been?"
 
 "Fortuna is losing billions?"
 
 "Fortuna has always lost billions. It was supposed to lose fewer billions after the settlers arrived."
 
-The settlers had not arrived. The Spoke had carried animals, specialists, and empty rooms meant for families who had cancelled.
+The settlers had not arrived. The Falcon had carried animals, specialists, and empty rooms meant for families who had cancelled. Other ships had all been delayed.
 
 "How long can it continue?"
 
-"That depends on whether you ask accounting, Origin, or the people who know how much food is actually in the warehouses."
+"That depends on whether you ask accounting, Origin, or the people doing the actual work."
 
-Maureen stepped out of a market office before Jace could ask which group Carlos trusted.
+Maureen stepped out of a market office as Jace and Carlos stepped into the elevator to Two.
 
-The owner of the Spoke carried two screens and the expression of someone who had found a new category of invoice. One screen showed the empty passenger modules that had arrived with them. The other showed columns of red numbers.
+The owner of the Falcon carried a tablet and the expression of someone who had found a new category of bills. The screen showed columns of red numbers.
 
-"Grant," she said. "Your former ship has generated another problem for you."
+"Grant," she said in greeting.
 
-"I do not think that is how ownership works."
-
-"Ownership is the part where I receive the problem first. You are the part where I complain about it."
+"Good morning, Captain. I thought you'd left with the Falcon."
 
 She held up the financial screen. The settlement consortium had financed farms, school capacity, water processing, and half of Ring Three against a population that no longer planned to arrive. Debt payments had started on schedule. Residents had not.
 
-"Fortuna expected six hundred people by next year," Maureen said. "Then five hundred. Then four hundred and twenty. We have beds, air, and food capacity for people whose lawyers sent apologies instead of bodies."
+"They just issued a flight stop for non-emergencies. I'm all fueled and we're full of Cores and Crystals and Copper and Coal."
 
-"How much are they losing?"
+"Poetic. Not Cobalt and Cadmium? You'd make more."
 
-"Enough that accounting stopped putting the total on public dashboards. Billions this year. More if the cargo freeze lasts through the next launch window."
+"You always were clever Grant. Maybe too clever." She looked to Carlos and saw his grimace. "Ahh, is the honeymoon over?"
+
+Jace redened. Could this lift not move any faster?
+
+"Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely 10 percent of those have signed up for when I return. I need to rethink all my schedules."
+
+"How much are you losing?"
+
+"Enough that Patrick thinks we might be done after I get back. Sell the ship and retire."
 
 Carlos pointed at the coffee cup in her hand. "You still found coffee."
 
-"I raised the price again."
-
-"That does not make the station solvent."
-
-"It makes me less insolvent."
-
-Maureen shifted the passenger forecast aside. "The paused Mars cargo includes replacement membranes, pharmaceuticals, seed cultures, and three people Lanchee hired. Earth suspended financing on the next Wheelship until the Red administration finishes its security review. Every delay adds interest while removing the cargo that might earn it back."
-
-Jace looked through the market toward the Barn. The lights were bright. Children watched goats through the glass. A cleaning robot worked beneath a row of food lockers. Fortuna still looked rich in the specific way a station could look rich while losing billions: everything necessary already existed, and everything necessary needed continuous replacement.
+The lift finally stopped on Two. As they got off, Jace looked through the market stalls by the elevator toward the Barn. The lights were bright. Children watched goats through the glass. A cleaning robot worked beneath a row of food lockers. Fortuna still looked rich in the specific way a station could look rich while losing billions: everything necessary already existed, and everything necessary needed continuous replacement.
 
 "What happens if the pause becomes a blockade?" he asked.
 
 Maureen's humor disappeared.
 
-"Then the people with flags discover they cannot eat flags."
+"Then it's a good thing we brought more bacon."
+
+Maureen walked briskly off in the other direction, nodding to him dismissively.
 
 A shout carried from the Barn junction.
 
-Suzi stood beside an open egg carrier with one hand on the shoulder of a Chinese boy. He looked twelve, perhaps younger. Six eggs had broken across the floor. Two unbroken ones bulged beneath his jacket.
+Suzi stood beside an open egg carrier with one hand on the shoulder of a Chinese boy. He looked twelve, perhaps younger. Eggs had broken across the floor at his feet. Two lumps bulged beneath his jacket.
 
 Suzi wore a compact tranquilizer pistol on her belt.
 
@@ -154,11 +156,9 @@ Two deputies waited behind her with identical pistols and conspicuously empty ha
 
 A Barn worker pointed at the boy. "Third theft this week."
 
-"Second reported theft," Suzi said.
+"First reported theft," Suzi said.
 
 "He had eggs."
-
-"I can see the eggs."
 
 The boy stared at the floor. His station shoes were too large and his work patch had been removed from the shoulder.
 
@@ -172,7 +172,7 @@ He said nothing.
 
 His mouth moved. "My mother."
 
-The Barn worker made a disgusted sound.
+The Barn worker made a disgusted sound. He had a Korean patch on his breast pocket.
 
 Suzi looked back once. The sound stopped.
 
@@ -184,57 +184,37 @@ Suzi's expression did not change. "Give me the two that did not break."
 
 The boy hesitated, then placed them in her palm.
 
-She handed both to the Barn worker. "Log six damaged eggs to security operations."
+She handed both to the Barn worker. "Alex, Request reimbursement for six damaged eggs, billed to security operations."
+
+A chime beeped from the screen nearby.
 
 "He stole them."
 
-"Yes. I am preventing you from solving a ration error with a hungry child. Those are different jobs."
+"Yes, thief was stopped. Now, I'm dealing with a hungry child. Those are different tasks."
 
-She stood and directed one deputy toward the Chinese leasehold office. The other began photographing the carrier.
+She stood and directed one deputy toward the Chinese leasehold office.
 
-The boy glanced at Jace's Origin patch and flinched.
+Jace had been wearing a t-shirt with a US flag on it. They boy saw it and flinched. Not the best timing.
 
-Jace zipped his jacket over it.
+Suzi saw him. "Morning, Grant."
 
-Suzi saw him do it.
-
-"Morning, Grant."
-
-"Are the pistols new?"
-
-"The visibility is new."
-
-"Trouble?"
-
-"Fear. Trouble follows if people feed it."
-
-Her eyes settled on the platelet case.
-
-"Finish your delivery."
-
-The emergency berth had been converted into a treatment room. A pressure worker lay beneath a sterile field while a clinic medic repaired a crushed leg. The engineering supervisor had requested the platelets because the medic's hands were occupied inside the wound.
-
-Carlos passed over the case.
-
-The medic scanned it, opened it, and returned to work without asking why it was late.
-
-In the corridor, Jace closed the exception himself.
+Jace and Carlos nodded, then hurried past the barn to the treatment room. A pressure worker lay beneath a sterile field while a clinic medic repaired a crushed leg. A medic was looking at a tablet showing a bone scan, then scanned Jace's case, opened it, and attached a blood bag to the woman's leg without asking about the delay or even pausing in their discussion with the patient. A nearby construction crew chief had carried the woman over and was the one who had requested the bag to help the medic out.
 
 Delivered after manual verification. Automation failure. No recipient fault.
 
 Carlos watched him add the final sentence.
 
-"Keep that part," he said.
+"Good," he said.
 
 
 
 By lunch, twenty-nine exceptions remained.
 
-Jace ate in the low-g bay because it was close to Drone Ops and because sitting felt dangerous. He had a bowl of noodles in front of him. He had consumed none of them.
+Jace ate in the low-g bay because it was close to Drone Ops and because sitting felt dangerous. He had a bowl of noodles in front of him, where he'd bought an extra token's worth of sauce.
 
 Nick sat across the table without asking.
 
-His overlay glasses had eight small cameras around the frame. Two were dark. The pearl earring beneath his left ear pulsed yellow as it negotiated the cafeteria's damaged network.
+His overlay glasses had eight small cameras around the frame. The pearl earring beneath his left ear pulsed yellow as it negotiated the cafeteria's damaged network.
 
 "You missed game night," Nick said.
 
@@ -244,13 +224,13 @@ His overlay glasses had eight small cameras around the frame. Two were dark. The
 
 "Also work."
 
-"You have eaten lunch with me twice since you docked. Both times you left before finishing. You have bags under your eyes deep enough to store cargo, and yesterday your location record says you spent four hours in your room while your implant showed no usable sensor data."
+"You have eaten lunch with me twice since your jaunt with Torres. Both times you left before finishing. You have bags under your eyes deep enough to store cargo, and yesterday your location record says you spent four hours in your room while your implant showed no usable sensor data."
 
 Jace put down the fork.
 
 "You are monitoring me?"
 
-"No. Your broken equipment keeps asking me for help. It is difficult to repair a system while pretending the operator is not the common failure."
+"No. Your broken equipment keeps asking me for help. It is difficult to repair a system when the system is unable to be accessed for repair."
 
 "I am handling it."
 
@@ -266,7 +246,7 @@ The question arrived quietly.
 
 Jace's pulse rose. Nick's glasses probably saw it.
 
-"She is running a physics project. I am helping with instruments."
+"She is running a novel physics project. I am helping with instruments."
 
 "At three in the morning?"
 
@@ -274,15 +254,15 @@ Jace's pulse rose. Nick's glasses probably saw it.
 
 "You are a bad liar."
 
-"I am not lying."
+"I don't lie."
 
 Nick leaned back.
 
-"You missed meals, work, and me. Your sensors fail in ways I cannot reproduce. You keep appearing with damage you cannot explain. You are telling me none of that connects."
+"You missed meals, work, and me. Your sensors fail in ways I cannot reproduce. He pointed to a bruise on Jace's arm from touching Sparky's frozen shell. You are telling me none of that connects."
 
-"I am telling you I cannot discuss her work."
+"I am telling you I cannot discuss our work."
 
-"Her work."
+"Our work?"
 
 Jace heard the distinction too late.
 
@@ -294,29 +274,31 @@ Nick removed his glasses and rubbed the bridge of his nose. Without the overlays
 
 "Then tell me what is."
 
-Jace thought of Sophia's pen floating between them. He thought of the red point in the wall. He thought of a secret that belonged partly to someone who had nearly died protecting it.
+Jace thought of Sophia's pen floating between them. He thought of the drone that could cross to the astral and Chinese sabotage. He thought of a secret that belonged partly to someone who had nearly died protecting it.
 
-"I cannot."
+"I can't."
 
 Nick put his glasses back on.
 
 "Then stop asking me to believe you are fine."
 
-He left his lunch untouched beside Jace's.
+He left and Jace didn't heel like finishing his soup.
 
 
+
+Sophia had agreed they should take the evening off. Jace had some print work to do and ideas to try anyway, and they both needed a break after the near-death disaster.
 
 Jace cleared the last exception at 1938.
 
-Kim read the platelet ticket twice.
+Kim read the medical after action report twice.
 
 "What changes in the next version?"
 
-"Medical mismatches page a human immediately. The page stays ahead of routine exceptions. A delayed response escalates to you or Carlos."
+"Medical mismatches page a human immediately. The page stays ahead of routine exceptions. A delayed response escalates to a duty officer or me, then Carlos. If it's not acknowledge within a set time, it goes to you."
 
 "Who reviews the code?"
 
-"Carlos first. You approve deployment."
+"Carlos first. You approve deployment. No AI's to build it, all human created and tested."
 
 "Write it as a proposal. Your permissions stay reduced."
 
@@ -336,57 +318,29 @@ He sent Artemis a message anyway.
 
 Art, Fortuna says Metis missed the handshake. Let me know you are all right. Any answer is enough.
 
-He called Earth next.
+He had sent a message to Earth a few hours earlier, and was slowly continuing the conversation. His parents sent a quick reply that everything was great. Over the next few hours, he had a delayed conversation with his younger sister who away from college but still on their group chat, depite the fifty minutes it took a message to make the round trip.
 
-His parents received the message queue, but no live channel opened. Athena answered from college after eleven minutes with a compressed video. Her hair was tied back, and a library wall filled the frame behind her.
+Her hair was tied back, and a library wall filled the frame behind her. Athena was the opposite of their older sister; smart and expressive face, thick arms from being a college wrestler, long hair. Are you safe? Artemis has not answered me either. Mom and dad are worried but pretending not to be, and their son blowing up toilets isn't helping."
 
-"I have class in four minutes. Mom says not to believe the feeds. Dad says believe half of each feed and none of the conclusions. Are you safe? Artemis has not answered me either."
+"Hey sis, I'm good. It's hard, but I'm surviving. I'm trying Artie too, but nothing in a week or two."
 
-"How are Mom and Dad? Actually."
+Her next reply caught him off guard, "Also, everyone here knows you are my brother now. We are all team Screwdriver, so that makes me a minor celebrity by association."
 
-"Worried. Pretending not to be. Mom reorganized the emergency pantry, and Dad checked the storm shelter twice even though there is no storm. Jelly is sleeping in the barn. Jinx is offended by the cold. I sent you a clip."
+His reply was short, "What?"
 
-Athena glanced past her camera and lowered her voice without becoming quieter.
-
-"Also, everyone here knows you are my brother now."
-
-"Why?"
-
-"Queen Screwdriver. In space. The Pig Channel has replayed it approximately one billion times. My friends watch the channel constantly, so congratulations. You are the famous older brother now."
-
-"That is not how it happened."
-
-"You saved her. There is video. Reality has lost the vote."
+"Queen Screwdriver? The Fortuna Pig Channel has replayed how you rescued her and her court approximately one billion times. You and Cerberus are famous."
 
 Jace rubbed his eyes. "Please do not let your friends make shirts."
 
-Athena looked offscreen again.
-
-"That request arrived several days too late."
-
-Behind her, someone had covered the library display with a red campaign banner. Another student pulled it down while Athena recorded. A smaller group in the corridor argued beside a Chinese student association notice. Campus security stood between them without touching anyone.
-
-"The administration cancelled two exchange seminars," Athena said. "One professor says the missing ships prove China is testing a new weapon. Another says the United States invented the disappearances to seize the stations. Neither one has left Earth in twenty years."
+Athena send back a video of her looking offscreen again. "That request arrived several days too late. In other news, the administration cancelled two exchange seminars," Athena said. "One professor says the missing ships prove China is testing a new weapon. Another says the United States invented the disappearances to seize the stations. Neither one has left Earth in twenty years so what do they know. Are you at war with them?"
 
 "Do not get between groups looking for an audience."
 
-"That advice from you feels historically unsupported."
-
-"I am older now."
-
-"You got into a plumbing disaster three weeks ago."
-
-"Older is not the same as improved."
-
-Athena's expression softened.
-
-"Art always answers," she said. "Even if it is one word."
-
-"I know."
+"That advice from you feels historically unsupported. Anyway, love you big bro. Say hi to Artie. She said she's comign to visit you soon and will make you pay for the pig butt. So, fair warning."
 
 Jace recorded his reply twice. The first version contained too much. The second contained nothing.
 
-"I am safe. Work is busy. Cerberus is excellent. If Artemis answers you first, forward it immediately."
+"Thanks sis. I am safe. Work is busy. Cerberus is excellent. If Artemis answers you first, forward it immediately."
 
 Cerberus waited at his door when he returned, leaning his whole body against the panel as if physical pressure could make Jace arrive faster.
 
