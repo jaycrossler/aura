@@ -470,7 +470,9 @@ She watched him for another second, then nodded.
 
 They crossed.
 
-The second and third thrusters went faster with both of them pulling. They assembled Sparky on the Astral workbench. Jace connected the power bus, closed the simple shell, and pressed the local wake switch.
+The second and third thrusters went faster with both of them pulling, but it was still almost an entire night of grueling work. They pulled just the first small piece of the Aura control chip Nick had made. It was modular, and had over a dozen other layers that stacked on, adding more processing power. The bottom layer was the thickness of an ancient coin, and had enough processing power for voice commands and routing. Jace felt like he was pulling a car through a pool of jello.
+
+They assembled Sparky on the Astral workbench. Jace connected the power bus, pressed the local wake switch, and closed the shell.
 
 A green light appeared.
 
@@ -486,7 +488,7 @@ They had built something in another dimension.
 
 For a minute, every problem waited on the physical side.
 
-They crossed back, jubilant and excited. He rebooted his HUD like normal.
+They crossed back, jubilant and excited and exhausted. He rebooted his HUD like normal. It was just after midnight.
 
 His queue error counter climbed from twelve to "ERROR." 
 
