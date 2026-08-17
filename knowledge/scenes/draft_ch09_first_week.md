@@ -217,25 +217,23 @@ Jace looked across the cafeteria.
 
 Jin sat with Hayes near the Barn entrance. The Chinese miner was compact and heavily built, with a scar crossing one corner of his mouth. A belt axe hung at his hip. Hayes said something. Jin laughed politely.
 
-At the end of Jin's table, a surveyor murmured, "{Seek}, move my equipment report
-to end of shift."
+At the end of Jin's table, a surveyor murmured, "{Seek}, move my equipment report to end of shift."
 
-Her bracelet replied in Mandarin. Jace's translator rendered it as: *Delay recorded.
-Reason field remains incomplete.*
+Her bracelet replied in Mandarin. Jace's translator rendered it as: *Delay recorded. Reason field remains incomplete.*
 
 "The reason is that I am eating."
 
-*Statement recorded. Reason field remains incomplete.*
+*Statement recorded. Reason field remains incomplete. You are fined one token for ineficiency.*
 
-The sound carried. Warm. Brief. Ordinary.
+The sound carried. Warm. Brief. Ordinary. Jace felt the man's pain.
 
-Mei sat two tables away from them, alone. She ate without appearing to watch.
+Mei sat two tables away from them with another young Chinese man. They ate without appearing to watch, but when Jace looked she looked sharply at him, seeming to send him a message using only glares.
 
-"Why tell me?" Jace asked.
+"Why tell me?" Jace asked, turning back to Suzi.
 
-"You arrived after she vanished. Four months of transit logs put you farther from this case than any adult on Fortuna."
+"You arrived after she vanished. You were mutinying a starship live on camera at the time."
 
-"A clean alibi. There were four of us on that ship."
+"A clean alibi. There were four of us on that ship, why not ask them?"
 
 "You were military."
 
@@ -251,11 +249,13 @@ Mei sat two tables away from them, alone. She ate without appearing to watch.
 
 "You see my problem."
 
-Jace thought of the duck feather. He thought of a camera showing an empty conduit while his arm opened under invisible claws.
+Jace thought of the duck feather. He thought of a camera showing an empty conduit while his arm opened under invisible robot claws.
 
 "Eyes open," he said.
 
-"That is the whole job."
+"That is the whole job. The chance to help right a wrong. What else could I offer?"
+
+He debated telling Suzi about his financial issues, but the truth was he was just embarassed. Probably everyone on the station was some variant of millionaire. He was just trying to get out of debt. Should he ask her for something? Food? Pay? He didn't want pity from her or anyone else. He stayed silent.
 
 At the next table, a Filipino miner sat down and spoke over a bowl of noodles.
 
@@ -285,7 +285,7 @@ Then he looked away.
 
 That night, Jace dreamed of the missing girl he'd never met. He had a cold and had started coughing and sneezing, which made wearing the sleep mask quite awkward. He left it around his neck to follow protocols, but a stuffed nose wouldn't let the pressurized air in. He had quickly stopped by the forge to print himself a trash bin for an accumulating pile of tissues.
 
-In the dram, Helena floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt light he was suffocating.
+In the dream, Helena floated outside the station without a suit. A night shirt billowed around her in a wind that could not exist. The stars shone through her skin. He felt light he was suffocating.
 
 When Jace reached for her, she opened her eyes.
 

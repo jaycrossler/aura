@@ -1,8 +1,17 @@
-Chapter 17. The Eye in the Wall
+Chapter 17. Spinning
 
 Most people do not know this, but disaster rarely waits for your life to become orderly. It notices the open tickets, the angry friend, the watching machine, and decides you are ready.
 
 Jace Grant, unpublished notes
+
+Jace told by Kim to stay home for a day while they fix things
+Jace goes to meet Sophia. She's not there. Mysty says she's in her room. Jace crosses over.
+Sophia is calling frantically on the radio
+She fell out of the station, is stuck outside. Thinks she saw something
+Jace had to calm her down, come down to get her. She's almost out of oxygen.
+Uses Sparky to help?
+
+Move everything below to later chapter?
 
 Eleven days after Jace first walked through Factory Four, he and Sophia rode back to the asteroid with a groundworks survey crew.
 
@@ -152,7 +161,7 @@ Kim's face hardened.
 
 "So did this. Yesterday. Twice."
 
-Jace checked the archived alerts. The two hydroponics units had reported the same doubled geometry before entering safe mode.
+Jace checked the archived alerts. The two units near the construction entrance had reported the same doubled geometry before entering safe mode.
 
 His script had classified both as navigation noise and routed around them.
 
@@ -240,23 +249,23 @@ Nick read every line.
 
 "No. Look."
 
-Nick overlaid the events by time. One on the survey crawler. Two at hydroponics. Three near the freight corridor. Twelve at the Ring Three pressure door. The error duration increased with each cluster.
+Nick overlaid the events by time. One on the survey crawler. Two down in Ring Three in the area being built. Three near the freight corridor. Twelve at the Ring Three external door. The error duration increased with each cluster.
 
 "Something is teaching the sensors to be wrong," Jace said.
 
-"Sensors do not learn from each other without a model. These use four vendors and three operating systems."
+"Sensors do not learn from each other without a model or trigger. These use four vendors and three operating systems."
 
-"Then the environment is changing."
+"Then someone is doing that to them."
 
 Nick looked at him for a long moment.
 
-"This is the part where you tell me what you have been doing with Sophia."
+"Wait, what does that mean?"
 
-Jace almost did.
+Jace almost told him.
 
-He thought of Sophia saying she had told one colleague and received a medical consult. He thought of Penny counting meals and friendships. He thought of Origin owning his hours, his equipment, and most of the data his skullcap could reach.
+He thought of Sophia saying she had told one colleague and received a medical consult. Nick wouldn't do that, would he? Nick ran the AI stacks on the station. He thought of Penny counting meals and friendships. He thought of Origin owning his hours, his equipment, and most of the data his skullcap could reach. Sophia's papers and research might be taken as corporate property. He needed to discuss with her first.
 
-"I need one more measurement," he said.
+"I need to figure some more things out first," he said.
 
 Nick's expression closed.
 
