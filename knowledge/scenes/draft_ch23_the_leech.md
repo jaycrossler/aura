@@ -4,15 +4,16 @@ name: "Chapter 23. The Leech"
 type: chapter_draft
 book: book01
 chapter: Ch23
-scene_contract: X-02a revised
+scene_contract: X-02a Tick-Maw intervention + medical AI misclassification
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
 last_updated: 2026-08-17
 description: >
   Jace, Sophia, and Lanchee authorize a dangerous Astral intervention on the
-  failing miner, where impatience and caution collide with a feeding Tick-Maw,
-  a physical bite, and Sophia's first deliberate orb absorption.
+  failing miner after a medical AI mistakes tissue repair for recovery. Their
+  intervention produces a physical bite, Sophia's first deliberate orb
+  absorption, and evidence that Astral causes can corrupt otherwise valid models.
 cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[arc_01_thread_P_pressure]]"
@@ -639,4 +640,7 @@ Below that, he wrote the next requirement.
 | The hidden parasite deposit is preserved for the later two-cores reveal | done |
 | The patient stabilizes within two hours and remains unaware of the Astral cause | done |
 | Lanchee imposes consequences and continued medical oversight | done |
+| The medical system's repair-is-recovery error extends the valid-data, wrong-conclusion AI pattern | done |
 | The ending motivates the station sweep | done |
+
+

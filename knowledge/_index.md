@@ -103,7 +103,7 @@
     - normalize_cross_references_2026-08-14.md - updated: 2026-08-14; lines: 1789; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-15.md - updated: 2026-08-15; lines: 2013; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-16.md - updated: 2026-08-16; lines: 2013; xrefs: 0; canonical: false
-    - normalize_cross_references_2026-08-17.md - updated: 2026-08-17; lines: 2062; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-08-17.md - updated: 2026-08-17; lines: 2067; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: true; updated: 2026-08-13; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 107; xrefs: 9; canonical: true; chars: jace_apollo, major_barnes, petroski
@@ -186,6 +186,10 @@
 - scenes/
     - archived/
     - chapter_text/
+        - ch00_mode1.mp3
+        - ch00_mode2.mp3
+        - ch01_mode1.mp3
+        - ch01_mode2.mp3
         - chapter_00.txt
         - chapter_01.txt
         - chapter_02.txt
@@ -233,12 +237,12 @@
     - draft_ch15_sideways.md - name: Chapter 15. Sideways; id: draft_ch15_sideways; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 498; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, brandon_moreau, nikos_petrou, cerberus
     - draft_ch16_ten_good_days.md - name: Chapter 16. Ten Good Days; id: draft_ch16_ten_good_days; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 519; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
     - draft_ch17_falling_behind.md - name: Chapter 17. Falling Behind; id: draft_ch17_falling_behind; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 653; xrefs: 11; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, kim
-    - draft_ch18_later_became_morning.md - name: Chapter 18. Later Became Morning; id: draft_ch18_later_became_morning; status: outline_shell; updated: 2026-08-17; type: chapter_draft; description: >; lines: 65; xrefs: 11; canonical: false; chars: jace_apollo, kim, carlos, nick_lee, cerberus
-    - draft_ch19_fault_lines.md - name: Chapter 19. Fault Lines; id: draft_ch19_fault_lines; status: outline_shell; updated: 2026-08-17; type: chapter_draft; description: >; lines: 55; xrefs: 10; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, cerberus
-    - draft_ch20_the_eye_on_three.md - name: Chapter 20. The Eye on Three; id: draft_ch20_the_eye_on_three; status: outline_shell; updated: 2026-08-17; type: chapter_draft; description: >; lines: 59; xrefs: 8; canonical: false; chars: jace_apollo, sophia_lotte, cerberus
-    - draft_ch21_quiet_companion.md - name: Chapter 21. Quiet Companion; id: draft_ch21_quiet_companion; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 592; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee, lanchee, carlos, aura_ai
-    - draft_ch22_no_vampires.md - name: Chapter 22. No Vampires; id: draft_ch22_no_vampires; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 541; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, suzi, aura_ai
-    - draft_ch23_the_leech.md - name: Chapter 23. The Leech; id: draft_ch23_the_leech; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 642; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, aura_ai
+    - draft_ch18_later_became_morning.md - name: Chapter 18. Later Became Morning; id: draft_ch18_later_became_morning; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 447; xrefs: 12; canonical: false; chars: jace_apollo, kim, carlos, nick_lee, suzi, sister_artemis
+    - draft_ch19_fault_lines.md - name: Chapter 19. Fault Lines; id: draft_ch19_fault_lines; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 486; xrefs: 11; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, mira, cerberus
+    - draft_ch20_the_eye_on_three.md - name: Chapter 20. The Eye on Three; id: draft_ch20_the_eye_on_three; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 528; xrefs: 10; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, seek_ai
+    - draft_ch21_quiet_companion.md - name: Chapter 21. Quiet Companion; id: draft_ch21_quiet_companion; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 354; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, nick_lee, lanchee, aura_ai, misty_ai, seek_ai, sister_artemis
+    - draft_ch22_no_vampires.md - name: Chapter 22. No Vampires; id: draft_ch22_no_vampires; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 699; xrefs: 13; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, suzi, aura_ai, misty_ai
+    - draft_ch23_the_leech.md - name: Chapter 23. The Leech; id: draft_ch23_the_leech; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 646; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, aura_ai
     - event_helena_epilogue.md - name: Epilogue — Helena; id: event_helena_epilogue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Epilogue scene — Helena's resurrection, paired framing device closing Arc 1.; lines: 111; xrefs: 0; canonical: true
     - event_helena_prologue.md - name: Prologue — Helena; id: event_helena_prologue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Prologue scene — Helena's last day, framing device introducing Fortuna Station before Jace's POV begins.; lines: 116; xrefs: 0; canonical: true
     - event_t_forge_no_more_voices.md - name: No More Voices (forge room, pre-crisis); id: event_t_forge_no_more_voices; status: contracted; updated: 2026-07-19; type: scene_contract; lines: 62; xrefs: 5; canonical: false; chars: maureen, jace_apollo
@@ -323,16 +327,26 @@
     - technology-template.md - name: [Technology Name]; id: tech_[unique_slug]; status: [emerging | mainstream | declining | obsolete | banned | classified]; canonical: [true | false]; type: [propulsion | weapon | medical | computing | communication | construction | life_support | augmentation | infrastructure | other]; description: Template for detailing a fictional piece of advanced technology's specifications and history.; lines: 109; xrefs: 0; canonical: [true | false]
 - timeline/
     - outbreak_timeline.md - name: The Outbreak — Chronological Timeline of Magic's Return; id: outbreak_timeline; status: working draft; canonical: true (phases and structure); partial (specific scene details); updated: 2105-04-22; type: timeline; description: Chronological timeline detailing the gradual return and manifestation of magic in space, centered around Metis Station and Fortuna Station.; lines: 252; xrefs: 7; canonical: true (phases and structure); partial (specific scene details); chars: sister_artemis
-    - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); canonical: true; updated: 2105-03-16; type: chronology_index; description: Chronological index mapping all scenes, dates, and character continuity for the book's timeline.; lines: 519; xrefs: 0; canonical: true
+    - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); canonical: true; updated: 2105-03-16; type: chronology_index; description: Chronological index mapping all scenes, dates, and character continuity for the book's timeline.; lines: 522; xrefs: 0; canonical: true
     - timeline_book01_incursions.md - name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helena); id: timeline_book01_incursions; status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md; canonical: working; updated: 2026-07-15; type: timeline; description: Timeline detailing events during the Falcon transit, covering plot crises and character arcs.; lines: 56; xrefs: 0; canonical: working
     - timeline_disclosure_political_response.md - name: The Disclosure Crisis — Political and Military Response; id: timeline_disclosure_political_response; status: working draft; canonical: true (structure) / partial (specific scene placement); updated: 2026-07-12; type: timeline; description: >; lines: 165; xrefs: 9; canonical: true (structure) / partial (specific scene placement)
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-08-13; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
 - to_merge/
-    - aura_ch00-17_copyedit.patch
-    - chapter_17_onward_restructure.md - lines: 183; xrefs: 0; canonical: false
-    - copyedit_review.md - updated: 2026-08-17; lines: 50; xrefs: 0; canonical: false
-    - proposed_draft_ch17_falling_behind.md - name: Chapter 17. Falling Behind; id: proposed_draft_ch17_falling_behind; status: proposed_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 652; xrefs: 10; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, kim
+    - aura_ch18-23_continuity_drafts.patch
+    - aura_ch18-23_merge_package.zip
+    - ch17-23_continuity_review.md - name: Chapters 17-23 continuity review and contract matrix; id: ch17_23_continuity_review; status: staged; updated: 2026-08-17; type: review_report; description: >; lines: 129; xrefs: 0; canonical: false
+    - knowledge/
+        - scenes/
+            - draft_ch18_later_became_morning.md - name: Chapter 18. Later Became Morning; id: draft_ch18_later_became_morning; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 447; xrefs: 12; canonical: false; chars: jace_apollo, kim, carlos, nick_lee, suzi, sister_artemis
+            - draft_ch19_fault_lines.md - name: Chapter 19. Fault Lines; id: draft_ch19_fault_lines; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 486; xrefs: 11; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, mira, cerberus
+            - draft_ch20_the_eye_on_three.md - name: Chapter 20. The Eye on Three; id: draft_ch20_the_eye_on_three; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 528; xrefs: 10; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, seek_ai
+            - draft_ch21_quiet_companion.md - name: Chapter 21. Quiet Companion; id: draft_ch21_quiet_companion; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 354; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, nick_lee, lanchee, aura_ai, misty_ai, seek_ai, sister_artemis
+            - draft_ch22_no_vampires.md - name: Chapter 22. No Vampires; id: draft_ch22_no_vampires; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 699; xrefs: 13; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, suzi, aura_ai, misty_ai
+            - draft_ch23_the_leech.md - name: Chapter 23. The Leech; id: draft_ch23_the_leech; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 646; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, aura_ai
+        - timeline/
+            - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); canonical: true; updated: 2105-03-16; type: chronology_index; description: Chronological index mapping all scenes, dates, and character continuity for the book's timeline.; lines: 522; xrefs: 0; canonical: true
+    - MERGE_NOTES.md - name: Chapters 18-23 merge notes; id: ch18_23_merge_notes; status: staged; updated: 2026-08-17; type: merge_notes; description: >; lines: 46; xrefs: 0; canonical: false
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -411,11 +425,11 @@ These files were marked as draft or have non-canonical status and should not be 
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
 - `CLAUDE_PROJECT_INSTRUCTIONS`
+- `MERGE_NOTES`
 - `_visual_profile_gaps_2026-08-15`
 - `addition_new_doctor_memory_mention`
 - `book01-opening-notes`
-- `chapter_17_onward_restructure`
-- `copyedit_review`
+- `ch17-23_continuity_review`
 - `draft_ch06_the_spire`
 - `draft_ch08_settling_in`
 - `draft_ch12_awakening`
@@ -434,7 +448,6 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `normalize_cross_references_2026-08-15`
 - `normalize_cross_references_2026-08-16`
 - `normalize_cross_references_2026-08-17`
-- `proposed_draft_ch17_falling_behind`
 - `review_queue`
 - `system_character_sheets_skill_format`
 - `voice_char_jin_luong`

@@ -1,4 +1,5 @@
 ---
+
 description: "Chronological index mapping all scenes, dates, and character continuity for the book's timeline."
 id: scenes_temporal_map
 name: Master Scenes Temporal Map
@@ -141,6 +142,8 @@ While Jace runs on the treadmill, his HUD is doing three things at once:
 1. Running the combat sim / strategy game he loves
 2. Recording video messages home (Dawn, Chris, Athena), each of which includes an ask about Jelly (the family dog) or Jinx (the family horse) — small recurring Earth anchors
 3. Attempting to send a message to Artemis at Metis Station — repeatedly, with each attempt failing
+
+**Athena continuity note:** Jace should send Athena more than one early message, not wait until the Metis crisis. These exchanges establish Athena as his younger sister in college on Earth and give him routine updates about their parents, Jelly, and Jinx. By the Fortuna supply-crisis chapters, Athena and her friends follow the Pig Channel constantly. She is delighted that her famous older brother saved Queen Screwdriver in space, while Jace is embarrassed by the channel's version of the rescue. Keep Athena distinct from Artemis, Jace's older sister stationed at Metis, whose failure to answer becomes the source of his escalating fear.
 
 His face appears, to anyone looking, to be staring forward in concentration. He is, in fact, oblivious to the room around him. Two young women on adjacent treadmills smile at him, one of them speaks toward him at one point — he doesn't notice. He is too deep in the game-and-messaging stack. The reader sees what Jace doesn't.
 

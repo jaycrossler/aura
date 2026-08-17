@@ -1,172 +1,26 @@
 Chapter 21. Quiet Companion
 
-Most people do not know this, but running away is an engineering discipline. The important variables are direction, traction, and whether your dog agrees with your route.
+Most people do not know this, but the best assistant is not the one that speaks first. It is the one that notices the instrument was wrong before you build a life around the answer.
 
 Jace Grant, unpublished notes
 
-The red line on Sophia's map moved first.
+Jace did not cross the next day.
 
-It slid through the paper toward them.
+His hands recovered temperature slowly. Hot water felt sharp. Cold water felt like pressure. Sophia recorded both findings, then refused his suggestion that they repeat the exposure to establish a curve.
 
-Jace ran with one hand on Cerberus's cord and the other holding Sparky against his chest. The robot weighed almost nothing here, but its wheels spun every time they struck the tilted suggestion of a floor. Sophia stayed beside him. Her father's pen remained clenched in her fist.
+"One encounter with a creature is not an exposure study," she said.
 
-Behind them, the wall folded.
+"It is one data point."
 
-There was no impact. No grinding metal. The black creature moved through a space that the physical station did not possess, opening and closing its many joints around cables, pressure lines, and structural ribs. Each time the red eye disappeared, it opened again closer.
+"It tried to reach into Sparky's light."
 
-"The door," Sophia said.
-
-The doubled corridor offered them two.
-
-The black route on her map continued toward the pressure door they had crossed. The red route bent inward, through the wall, toward a narrow opening that did not exist aboard Fortuna.
-
-Jace's HUD flashed a route arrow down the red corridor.
-
-He killed the overlay.
-
-"Paper route," he said.
-
-They took the black line.
-
-Cerberus reached the pressure door first. He did not pass through it. He stopped so sharply that Jace nearly tripped over him, then turned and barked once.
-
-The black creature had opened behind Sophia.
-
-Not the eye. A limb.
-
-It unfolded from the wall like a broken crane, reaching for the light cord between Jace and Cerberus.
-
-Sophia snapped her pen across it.
-
-The wood passed through the limb. The creature recoiled anyway. Its surfaces rippled around the pen, unable to decide whether the wood belonged inside them.
-
-"It does not like ordered material," she said.
-
-"Excellent. We can publish while running."
-
-Jace pulled Sparky's battery cover open and tore free the coil of copper wire he had installed as a retrieval lead. He threw the coil across the threshold.
-
-It unrolled in a bright, clean curve. One end remained beside them. The other landed in the physical corridor beyond the doubled geometry.
-
-The creature struck at it.
-
-Its limb bent around the wire, then split into two possible positions. The red eye narrowed.
-
-Jace did not wait to understand. He stepped over the threshold, hauled Cerberus after him, and caught Sophia's sleeve as the corridor tried to turn beneath her. Sparky bounced once against his ribs. The three of them crossed into the simpler passage.
-
-The pressure door became one door again.
-
-The creature stayed on the far side.
-
-It could have been the copper. It could have been the boundary between station sections. It could have been choosing not to pursue.
-
-Sophia made a mark on the paper.
-
-"Observation only," she said. "Not a rule."
-
-"It stopped."
-
-"Once."
-
-"Once is my favorite number when the alternative is being eaten."
-
-They kept moving.
-
-The doubled spaces diminished as they descended toward the docking spine. Sparky's camera returned in bursts. Blue noise. A strip of corridor. Sophia's face rendered as three displaced profiles. Then ordinary static.
-
-At the Victoria transfer hatch, Cerberus pulled hard enough to drag Jace through the last meters.
-
-The ship appeared around them.
-
-Its walls were incomplete but stable. Its floor remained where floors were expected. The physical and Astral shapes did not divide.
-
-Sophia closed the hatch.
-
-The red line on her map ended at the seal.
-
-They waited.
-
-Nothing followed.
-
-Jace counted to one hundred while his lungs remembered that they did not need to breathe here. Cerberus pressed his entire body against Jace's legs. Sparky's left wheel spun slowly in the air.
-
-Sophia crouched and studied the map.
-
-"The ink recorded route selection," she said. "The red line moved before the creature occupied each position."
-
-"Prediction?"
-
-"Or pressure. Or the ink responded to whatever it used to move."
-
-"Both?"
-
-She looked up.
-
-"Do not steal my efficient answers."
-
-Jace sat on the deck. Cerberus climbed into his lap despite being much too large for it.
-
-For ten days, the Astral had been a private laboratory. Cold, strange, empty, and theirs.
-
-It was not empty.
-
-It had never been theirs.
-
-
-
-Back in the physical Victoria, Jace discovered that his hands would not close.
-
-He sat on the cabin floor with his back against the bulkhead and watched his fingers tremble. The crossing had ended cleanly. No wrenching transition. No pain. His body had simply reached its opinion later.
-
-Sophia removed his glove and pressed two fingers to his wrist.
-
-"Your pulse is fast."
-
-"We ran."
-
-"We do not have muscles there."
-
-"Then it was an emotional run."
-
-She ignored that. "Can you feel this?"
-
-She touched his smallest finger.
-
-"Pressure. Not temperature."
-
-"And this?"
-
-"Nothing."
-
-Cerberus whined.
-
-Sophia wrote the symptoms down. Her own hand shook enough to make the first line illegible. She stared at it, crossed it out, and wrote again.
-
-"No crossings tomorrow," she said.
-
-"Agreed."
-
-Her pen stopped.
-
-"That was easy."
-
-"Something tried to eat my dog."
-
-"It turned toward him. We do not know its intention."
-
-"Observation only. Not a rule."
-
-"Correct."
-
-He flexed his fingers until sensation returned as pins of cold.
-
-"We need better instruments," he said.
-
-"Yes."
-
-"The kind I cannot build without Nick."
+"A memorable data point."
 
 Sophia closed the notebook.
+
+"We need better instruments."
+
+"The kind I cannot build without Nick."
 
 "Then you must decide which danger is larger. Telling your friend, or continuing to lie to him badly."
 
@@ -178,125 +32,9 @@ She looked at him.
 
 "That sentence is a lie wearing a technical uniform."
 
+Jace went to the forge.
 
-
-Jace reported for shift thirty minutes early.
-
-Kim was already there.
-
-She stood at the delivery board with his automated routes disabled and forty-one unresolved items stacked beside his name. Carlos worked the adjoining terminal. He glanced at Jace, then concentrated very carefully on a pallet dispute.
-
-Jace set his helmet on the desk.
-
-"I treated a successful trial as permission to stop supervising it," he said. "Then I spent my attention somewhere else. The failures are mine."
-
-Kim waited.
-
-"I have a rollback for every route, a list of the exception cases I missed, and a manual plan to clear the queue before end of shift. I will not re-enable automation without your review."
-
-"What do you want from me?"
-
-"Nothing. I am reporting the failure and the correction."
-
-Carlos looked up.
-
-Kim opened the rollback list. Her expression did not soften, but she moved one of the terminals toward him.
-
-"Start with medical and pressure-control deliveries. Carlos reviews your priorities. Every exception comes to a human."
-
-"Yes, ma'am."
-
-"And Grant?"
-
-"Yes?"
-
-"You are good at making systems faster. That does not make the people inside them optional."
-
-Jace looked at the queue.
-
-"Understood."
-
-Carlos waited until Kim crossed the room.
-
-"That was almost an adult apology."
-
-"I practiced in the airlock."
-
-"Do not ruin it."
-
-They cleared thirty-six items before shift end.
-
-The thirty-seventh was a sealed case of synthetic platelets. Jace's automation had held it because the requesting clinic and delivery destination did not match. The clinic was in Ring One. The destination was an emergency berth in Ring Two. The procedures said medical products required a verified medical receiver. The berth listed an engineering supervisor.
-
-His decision tree had classified the request as incomplete.
-
-Carlos read the log once.
-
-"Patient moved," he said.
-
-"The destination should have been updated."
-
-"Yes."
-
-"The receiver should have medical authorization."
-
-"Also yes."
-
-"The request is wrong in two fields."
-
-Carlos put on his cardigan, although they were already indoors and the station was warm.
-
-"Come on."
-
-They carried the case to Ring Two.
-
-At the emergency berth, an exhausted engineering supervisor stood beside a pressure worker whose leg had been crushed by a cargo restraint. A clinic medic had converted the berth into temporary care because moving the patient again would risk the vascular repair. The supervisor had requested the platelets because the medic's hands were occupied inside a sterile field.
-
-Carlos handed over the case.
-
-The medic did not ask why it was late. She scanned it, opened it, and went back to work.
-
-In the corridor, Jace looked at the two invalid fields on his display.
-
-"The automation followed procedure," he said.
-
-"It followed the part you gave it."
-
-"A human would have called."
-
-"A human did call. Your queue put the call behind seventeen identical exception notices."
-
-Jace closed the ticket himself.
-
-Delivered after manual verification. Automation failure. No recipient fault.
-
-Carlos watched him write the last sentence.
-
-"Keep that part," he said.
-
-They cleared the remaining items before shift end. Jace walked the last four by hand because Cerberus needed movement and because some failures should be repaired at human speed.
-
-He gave Kim the completed queue and the platelet ticket before she asked.
-
-She read his note twice.
-
-"What changes in the next version?"
-
-"Medical mismatches page a human immediately. The page stays ahead of routine exceptions. A delayed response escalates to you or Carlos."
-
-"Who reviews the code?"
-
-"Carlos first. You approve deployment."
-
-Kim handed the terminal back.
-
-"Write that as a proposal. Your permissions stay reduced."
-
-"Yes, ma'am."
-
-It was not forgiveness. It was a path that required work. Jace found that more reassuring.
-
-Nick was in the forge when they arrived.
+Nick was in the forge when Jace arrived.
 
 He sat behind the partition with Jace's diagnostics open on three screens. Green hair covered one lens of his cracked overlay glasses. The pearl earring below his left ear pulsed with muted light.
 
@@ -328,7 +66,7 @@ Nick's keyboard gloves went still.
 
 "Is someone in danger?"
 
-Jace thought of the red eye turning toward Cerberus.
+Jace thought of the red eye fixed on him and the fine threads reaching toward Sparky's light.
 
 "Yes."
 
@@ -396,7 +134,7 @@ He shook Jace's hand anyway.
 
 Lanchee performed the installation in the Ring One clinic.
 
-The room had once been a Falcon storage compartment. Its cabinets still matched the ship's curved walls. A folded privacy screen covered the place where Jace had once hidden a canister labeled PIG BUTTS.
+The room had once been a Spoke storage compartment. Its cabinets still matched the ship's curved walls. A folded privacy screen covered the place where Jace had once hidden a canister labeled PIG BUTTS.
 
 Lanchee read Nick's consent screen twice.
 
@@ -470,7 +208,7 @@ Nick groaned.
 
 "That is why I gave you access. I am still allowed to resent how quickly you found the correct menu."
 
-They spent an hour separating the camera, HUD, suit telemetry, and Sparky feeds from Fortuna's cooperative processing layer. The result was ugly, local, and slower. Jace trusted it immediately.
+Jace had not told Nick where the streams went. They spent an hour separating the camera, HUD, suit telemetry, and Sparky feeds from Fortuna's cooperative processing layer. The result was ugly, local, and slower. Jace trusted it immediately.
 
 When they finished, Lanchee made him walk a straight line, read a paragraph, and identify four smells. Nick verified the rollback package again.
 
@@ -511,6 +249,28 @@ Jace felt the implant warming again.
 Aura: Similar discontinuities appear in two earlier messages. Confidence is insufficient to determine whether they are intentional edits.
 
 For the first time since the red eye opened, Jace wished the problem in front of him was only a monster.
+
+Before Jace left the clinic, Sophia forwarded the duplicate-response record from Misty.
+
+Aura compared the ship AI's internal log, the cabin microphone, and Sophia's physical timer.
+
+Aura: Two audible responses. One internal generation event. The second response has no recorded source.
+
+"Network echo?" Jace asked.
+
+"Misty is air-gapped from the station," Nick said. "There is no network path to echo through."
+
+Aura: A similar class of disagreement appears in three Penny service responses and eleven Seek assessments. The systems report one decision. External records contain repeated or mutually exclusive decisions.
+
+Nick looked toward the clinic wall as if it had become transparent.
+
+"Every AI on Fortuna thinks someone is altering its data," he said. "Earth and Mars feeds are dropping packets, so they blame the links. The station systems blame each other."
+
+"And you?"
+
+"I blame evidence after I have it."
+
+It was the correct answer. It did not make Jace feel better.
 
 
 
