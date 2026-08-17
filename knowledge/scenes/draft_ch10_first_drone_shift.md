@@ -162,7 +162,7 @@ He walked the long route to the Barn.
 
 Cerberus kept one shoulder against his calf, sensing his unhappiness.
 
-Nick found them near the noodle counter.
+Nick found them near the noodle bar. The girl Mira had been standing across the hallway, staring at him. She had dissapeared and Jace walked over when Cerberus kept growling. there was a small doll on the ground that looked like a dog, missing a head. Cute, until Jace realized that it was made out of some suishy slime-like material and was covered in thick red liquid. He sniffed it and recoiled at the heavy iron smell. Was that blood?  He threw it in a waste receptagle and washed his hands.
 
 "I heard Kim called you ordinary."
 
