@@ -424,11 +424,11 @@ Sophia came out, warming her hands. She looked at him. "Your sweat is freezing t
 
 "God I'm cold."
 
-"No. I mean, I see ice crystals."
+"No. I mean, I see ice crystals. Inside is not below freezing."
 
 She ran through the wall, came out holding the thermometer.
 
-"It's colder out here. Negative nineteen degrees. It's warmer inside the ship. Let's go back inside."
+"It's colder out here in the walkway. Negative six degrees. It's warmer inside the ship. Let's go back inside."
 
 Jace just nodded, too tired to ponder the meaning of this.
 
@@ -493,7 +493,7 @@ Then he sounded pleased with himself. He headed back to the forge, whistling and
 
 In the foundry, Jace moved to the tables where he had Sparky laid out. He now had two tables reserved in his own private corner of the room, separated by a metal partition in case there was an engine problem or fire.
 
-In between drone fixes and delivery runs, he had gaps through the day to work on Sparky's power control module. The module technically (and only technically, not actually) worked with the new thrusters that he'd printed from the Falcon. There were many multiple control chips to control each motor's power level, even it out, and route energy dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more could pop out for assisting thrust and fine-grained changes and rotations.
+In between drone fixes and delivery runs, he had gaps through the day to work on Sparky's power control module. The module technically (and only technically, not actually) worked with the new thrusters that he'd printed from the Falcon. There were many multiple ricegrain-sized chips connecting to large power routers to throttle each motor's power level, even it out, and route energy dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more could pop out for assisting thrust and fine-grained changes and rotations.
 
 One reprinted simple board to push out the right amount of power, and a ginormous body of code to make things work and spin at any level of gravity, temperature, or humidity. Thrusters in a warm, spinning hab module worked very differently than in zero-gravity freezing deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
 
@@ -691,7 +691,7 @@ Jace handed him a A.I. core chip stack. It was ancient as well.
 
 "Yeah, but this one seperates into twenty sub-pieces. And takes one hundredth the power."
 
-"Why do you care about power? Just use a higher-density battery. OK, OK, I get it. You've got some crazy idea to get rich and want my free expertise. She's a physicist, so it's got to be some high-energy mumbo jumbo thing or something. Got it."
+"Why do you care about power? Just use a higher-density battery. OK, OK, I get it. You've got some crazy idea to get rich and want my massive expertise. She's a physicist, so it's got to be some mumbo jumbo thing where electronics creat hum or distortion or something. Got it. You could just tell me, you know."
 
 Nick plugged a cable into the unit.
 
@@ -1535,3 +1535,74 @@ Sophia leaned back against the wall, exhausted.
 Outside the room, Fortuna continued its long fall around the Sun.
 
 Inside, Jace held a cup that had flown.
+
+
+
+
+Chapter 18. Later Became Morning
+
+Most people do not know this, but when automation breaks, it does not stop working. It keeps working at full speed in the wrong direction.
+
+Jace Grant, unpublished notes
+
+1. The Formal Reckoning
+
+Jace reports to Drone Ops following his mandatory day of absence. Kim sits at the lead console with Carlos behind her. She reviews the overnight rollback of Jace's automated routing model.
+
+Kim delivers her formal assessment: "Later became my morning."
+Jace's automation permissions are revoked; his write access is stripped to manual queue entries.
+Sixty-three flagged routing exceptions remain beneath his queue name.
+
+2. Manual Repair and the Platelet Delivery
+
+Jace works through the exception queue line by line alongside Carlos.
+
+Carlos takes Jace through a urgent platelet delivery route that failed under automated logic.
+They inspect the door anomaly: a locked-door / doubled-lidar failure on Ring Three where physical sensors disagreed without software error.
+Jace owns his operational mistakes directly rather than hiding behind the technical anomaly.
+
+3. Nick's Lunch Confrontation
+
+During lunch in the quarter-g bay, Nick approaches Jace.
+
+Nick confronts Jace over missed meals, cancelled game nights, and persistent exhaustion.
+Jace maintains secrecy regarding Sophia and the Astral, unable to explain his nocturnal absences.
+Nick leaves frustrated and hurt, cementing a rift in their friendship.
+
+4. Reduced Permissions and Quiet Work
+
+Jace finishes the day's manual queue backlog.
+
+Restricted to basic operator credentials, Jace returns to his living module.
+Cerberus waits at the door; Jace accepts the accountability as necessary work rather than unfair punishment.
+
+
+
+
+Chapter 19. Fault Lines
+
+Most people do not know this, but a fault line is not a crack in the rock. It is two places that used to agree about where they were going.
+
+Jace Grant, unpublished notes
+
+1. Cautious Astral Sessions
+
+Jace and Sophia establish strict new operational rules following the rescue behind Fortuna.
+
+Crossing protocols enforced: short duration only, no open-space travel, independent timers, and paper mapping routes.
+Jace adheres to caution in the Astral while continuing to avoid Nick in physical station life.
+
+2. The K-17 Silt Survey
+
+Jace operates drone surveys over the K-17 asteroid sector.
+
+Drone telemetry detects deep silt beds and structural instability beneath the proposed station expansion zone.
+Jace recognizes that physical sensors capture only a fraction of the underlying structural weakness.
+
+3. Political Tension and the Long Burn Fight
+
+Station news feeds amplify accusations between American administration and Chinese sector mining teams.
+
+At the Long Burn bar, Chinese miner Yáo confronts Jace over drone reroutes, delayed oxygen shipments, and lost shift credit.
+Defensive and stressed, Jace exchanges sharp words that escalate into a physical brawl.
+Jin Lóng intervenes to stop the fight, refusing the sabotage narrative while enforcing order and making Jace leave.

@@ -40,7 +40,7 @@ Then he sounded pleased with himself. He headed back to the forge, whistling and
 
 In the foundry, Jace moved to the tables where he had Sparky laid out. He now had two tables reserved in his own private corner of the room, separated by a metal partition in case there was an engine problem or fire.
 
-In between drone fixes and delivery runs, he had gaps through the day to work on Sparky's power control module. The module technically (and only technically, not actually) worked with the new thrusters that he'd printed from the Falcon. There were many multiple control chips to control each motor's power level, even it out, and route energy dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more could pop out for assisting thrust and fine-grained changes and rotations.
+In between drone fixes and delivery runs, he had gaps through the day to work on Sparky's power control module. The module technically (and only technically, not actually) worked with the new thrusters that he'd printed from the Falcon. There were many multiple ricegrain-sized chips connecting to large power routers to throttle each motor's power level, even it out, and route energy dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more could pop out for assisting thrust and fine-grained changes and rotations.
 
 One reprinted simple board to push out the right amount of power, and a ginormous body of code to make things work and spin at any level of gravity, temperature, or humidity. Thrusters in a warm, spinning hab module worked very differently than in zero-gravity freezing deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
 
@@ -238,7 +238,7 @@ Jace handed him a A.I. core chip stack. It was ancient as well.
 
 "Yeah, but this one seperates into twenty sub-pieces. And takes one hundredth the power."
 
-"Why do you care about power? Just use a higher-density battery. OK, OK, I get it. You've got some crazy idea to get rich and want my free expertise. She's a physicist, so it's got to be some high-energy mumbo jumbo thing or something. Got it."
+"Why do you care about power? Just use a higher-density battery. OK, OK, I get it. You've got some crazy idea to get rich and want my massive expertise. She's a physicist, so it's got to be some mumbo jumbo thing where electronics creat hum or distortion or something. Got it. You could just tell me, you know."
 
 Nick plugged a cable into the unit.
 

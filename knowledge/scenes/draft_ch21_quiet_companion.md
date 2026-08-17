@@ -27,6 +27,7 @@ cross_references:
   - "[[ship_victoria]]"
   - "[[scene_notes_ai_interactions]]"
   - "[[spec_astral_phenomenology]]"
+  - "[[draft_ch20_the_eye_on_three]]"
   - "[[draft_ch17_falling_behind]]"
 ---
 

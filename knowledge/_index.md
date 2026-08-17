@@ -103,7 +103,7 @@
     - normalize_cross_references_2026-08-14.md - updated: 2026-08-14; lines: 1789; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-15.md - updated: 2026-08-15; lines: 2013; xrefs: 0; canonical: false
     - normalize_cross_references_2026-08-16.md - updated: 2026-08-16; lines: 2013; xrefs: 0; canonical: false
-    - normalize_cross_references_2026-08-17.md - updated: 2026-08-17; lines: 2016; xrefs: 0; canonical: false
+    - normalize_cross_references_2026-08-17.md - updated: 2026-08-17; lines: 2062; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: true; updated: 2026-08-13; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 107; xrefs: 9; canonical: true; chars: jace_apollo, major_barnes, petroski
@@ -204,6 +204,9 @@
         - chapter_15.txt
         - chapter_16.txt
         - chapter_17.txt
+        - chapter_18.txt
+        - chapter_19.txt
+        - chapter_20.txt
         - chapter_21.txt
         - chapter_22.txt
         - chapter_23.txt
@@ -229,8 +232,11 @@
     - draft_ch14_down_to_the_asteroid.md - name: Chapter 14. Down to the Asteroid; id: draft_ch14_down_to_the_asteroid; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 493; xrefs: 12; canonical: false; chars: aura_ai, seek_ai, lanchee, carlos, sophia_lotte, cerberus
     - draft_ch15_sideways.md - name: Chapter 15. Sideways; id: draft_ch15_sideways; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 498; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, brandon_moreau, nikos_petrou, cerberus
     - draft_ch16_ten_good_days.md - name: Chapter 16. Ten Good Days; id: draft_ch16_ten_good_days; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 519; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
-    - draft_ch17_falling_behind.md - name: Chapter 17. Falling Behind; id: draft_ch17_falling_behind; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 652; xrefs: 10; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, kim
-    - draft_ch21_quiet_companion.md - name: Chapter 21. Quiet Companion; id: draft_ch21_quiet_companion; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 591; xrefs: 14; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee, lanchee, carlos, aura_ai
+    - draft_ch17_falling_behind.md - name: Chapter 17. Falling Behind; id: draft_ch17_falling_behind; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 653; xrefs: 11; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, kim
+    - draft_ch18_later_became_morning.md - name: Chapter 18. Later Became Morning; id: draft_ch18_later_became_morning; status: outline_shell; updated: 2026-08-17; type: chapter_draft; description: >; lines: 65; xrefs: 11; canonical: false; chars: jace_apollo, kim, carlos, nick_lee, cerberus
+    - draft_ch19_fault_lines.md - name: Chapter 19. Fault Lines; id: draft_ch19_fault_lines; status: outline_shell; updated: 2026-08-17; type: chapter_draft; description: >; lines: 55; xrefs: 10; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, cerberus
+    - draft_ch20_the_eye_on_three.md - name: Chapter 20. The Eye on Three; id: draft_ch20_the_eye_on_three; status: outline_shell; updated: 2026-08-17; type: chapter_draft; description: >; lines: 59; xrefs: 8; canonical: false; chars: jace_apollo, sophia_lotte, cerberus
+    - draft_ch21_quiet_companion.md - name: Chapter 21. Quiet Companion; id: draft_ch21_quiet_companion; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 592; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee, lanchee, carlos, aura_ai
     - draft_ch22_no_vampires.md - name: Chapter 22. No Vampires; id: draft_ch22_no_vampires; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 541; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, suzi, aura_ai
     - draft_ch23_the_leech.md - name: Chapter 23. The Leech; id: draft_ch23_the_leech; status: staged_draft; updated: 2026-08-17; type: chapter_draft; description: >; lines: 642; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, aura_ai
     - event_helena_epilogue.md - name: Epilogue — Helena; id: event_helena_epilogue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Epilogue scene — Helena's resurrection, paired framing device closing Arc 1.; lines: 111; xrefs: 0; canonical: true

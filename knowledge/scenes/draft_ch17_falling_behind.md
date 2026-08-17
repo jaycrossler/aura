@@ -25,6 +25,7 @@ cross_references:
   - "[[spec_crossing_mechanics]]"
   - "[[spec_astral_phenomenology]]"
   - "[[draft_ch16_ten_good_days]]"
+  - "[[draft_ch18_later_became_morning]]"
 ---
 
 # Chapter 17. Falling Behind

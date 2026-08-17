@@ -1,17 +1,6 @@
-# Cross-Reference Normalization Report — 2026-08-17
-
-Mode: APPLIED
-
-Files scanned: 284
-Files normalized: 187
-Files with broken references: 15
-
-## Files Changed
-
-### `arcs\arc_01_falcon_and_fortuna.md`
-
-| Before | After |
-|---|---|
+---
+last_updated: 2026-08-17
+---|
 | `"[[arc_02_woven_and_unbound]]"` | `[[arc_02_woven_and_unbound]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |
@@ -1352,6 +1341,51 @@ Files with broken references: 15
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
+| `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
+
+### `scenes\draft_ch18_later_became_morning.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
+| `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
+| `"[[arc_01_thread_L_life_texture]]"` | `[[arc_01_thread_L_life_texture]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_kim]]"` | `[[char_kim]]` |
+| `"[[char_carlos]]"` | `[[char_carlos]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[draft_ch17_falling_behind]]"` | `[[draft_ch17_falling_behind]]` |
+| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
+
+### `scenes\draft_ch19_fault_lines.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_suzi]]"` | `[[char_suzi]]` |
+| `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
+| `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
+
+### `scenes\draft_ch20_the_eye_on_three.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
+| `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
 
 ### `scenes\draft_ch21_quiet_companion.md`
 
@@ -1370,6 +1404,7 @@ Files with broken references: 15
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[scene_notes_ai_interactions]]"` | `[[scene_notes_ai_interactions]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+| `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
 | `"[[draft_ch17_falling_behind]]"` | `[[draft_ch17_falling_behind]]` |
 
 ### `scenes\draft_ch22_no_vampires.md`
