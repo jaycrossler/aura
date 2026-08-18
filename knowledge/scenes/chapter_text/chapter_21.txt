@@ -284,7 +284,7 @@ At nine hundred, the daily review icon appeared.
 
 He opened it.
 
-Aura: The failures from crossing 52 do not match random instrument loss. Four sensors reported internally valid data. The reports were discarded because they disagreed about position.
+Aura: The failures from the Ring Three crossing do not match random instrument loss. Four sensors reported internally valid data. The reports were discarded because they disagreed about position.
 
 "How many positions?"
 

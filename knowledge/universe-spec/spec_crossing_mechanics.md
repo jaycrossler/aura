@@ -5,7 +5,7 @@ name: Dimensional Crossing — Costs, Accidents, and the AI Discovery
 type: foundational_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-08-13
+last_updated: 2026-08-17
 cross_references:
   - "[[spec_dungeon_entry_and_interface]]"
 ---
@@ -49,6 +49,10 @@ In high-flux environments — the outer belt at story start — a person with st
 Partial crossing: the sleeper's consciousness briefly inhabits both layers simultaneously. They experience this as an unusually vivid, strange dream — usually involving darkness, dead landscape, something watching, and a pervasive sense of being somewhere that is not anywhere they know. They wake disoriented. They go back to sleep. This happens repeatedly over days or weeks before anyone connects it to the anomalies.
 
 Full crossing: the sleeper's physical body crosses entirely into the Never-Never. They wake up in the blighted dark, in their sleeping clothes or nothing at all, with no suit, no equipment, and no understanding of what has happened.
+
+**A completed full crossing is physical transfer, not projection.** The person's entire body is in the destination layer. No sleeping body, trance-bound shell, duplicate, or other physical remainder stays behind. During the transition, a sensitive observer may perceive an overlap or alignment in both layers, but once the crossing completes the body occupies only one of them. A practitioner who can faintly perceive across the boundary, or exert force across it, has not physically crossed unless their body also completes the transfer.
+
+Partial sleep-crossing is the exception only in the limited sense described above: perception or consciousness overlaps both layers while the body remains physical. It is not a half-material body and cannot be used to place physical anatomy in both layers at once.
 
 This is nearly always fatal without immediate recovery.
 
@@ -438,3 +442,4 @@ The 23-minute gap is logged. Nobody looks at it yet.
 - 2026-05-31: Major addition. Added atmosphere section (Never-Never unbreathable, sleep mask as survival equipment, 60-90 sec ambient vs 3-6 hr mask supply). Added temperature (~-40 to -60C), gravity analogue (0.05-0.1G near asteroid), {Aura} dark gap as forensic signature, Cerberus crossing mechanics. Added self-crossing vs tear mechanics with psychological profile of each. Added Jace arc phases.
 - 2026-07-14: Added dungeon-forced crossing surcharge, delay, and occupancy failure rules; flagged occupancy-conflict behavior for ordinary crossings.
 - 2026-08-13: Canon ruling. Replaced the obsolete -40°C to -60°C belt estimate with approximately -20°C near Fortuna and established that thermal conditions remain survivable throughout the solar system with suitable protection.
+- 2026-08-17: Clarified that a completed full crossing transfers the entire physical body, leaves no duplicate behind, and is distinct from cross-boundary perception or force.

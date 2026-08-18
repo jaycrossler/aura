@@ -68,6 +68,9 @@ last_updated: 2026-08-17
 | `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
 | `"[[tech_seek_ai]]"` | `[[tech_seek_ai]]` |
 | `"[[concept_aura_ai_system]]"` | `[[concept_aura_ai_system]]` |
+| `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
+| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
+| `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
 
 ### `arcs\arc_01_thread_P_pressure.md`
 
@@ -79,6 +82,7 @@ last_updated: 2026-08-17
 | `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
 | `"[[char_helena]]"` | `[[char_helena]]` |
 | `"[[char_mei]]"` | `[[char_mei]]` |
+| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
 
 ### `arcs\arc_01_thread_S_swarm.md`
 
@@ -129,6 +133,8 @@ last_updated: 2026-08-17
 | `"[[draft_ch15_sideways]]"` | `[[draft_ch15_sideways]]` |
 | `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
 | `"[[draft_ch17_falling_behind]]"` | `[[draft_ch17_falling_behind]]` |
+| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
+| `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
 | `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
 | `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
 | `"[[draft_ch23_the_leech]]"` | `[[draft_ch23_the_leech]]` |
@@ -1367,14 +1373,23 @@ last_updated: 2026-08-17
 | `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
 | `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
 | `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
+| `"[[arc_01_thread_L_life_texture]]"` | `[[arc_01_thread_L_life_texture]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[char_suzi]]"` | `[[char_suzi]]` |
 | `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
-| `"[[char_mira]]"` | `[[char_mira]]` |
-| `"[[char_cerberus]]"` | `[[char_cerberus]]` |
+| `"[[char_kim]]"` | `[[char_kim]]` |
+| `"[[char_carlos]]"` | `[[char_carlos]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
+| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
+| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+| `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
+| `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
 | `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
+| `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
 
 ### `scenes\draft_ch20_the_eye_on_three.md`
 
@@ -1427,6 +1442,7 @@ last_updated: 2026-08-17
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[draft_ch09_first_week]]"` | `[[draft_ch09_first_week]]` |
+| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
 | `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
 
 ### `scenes\draft_ch23_the_leech.md`

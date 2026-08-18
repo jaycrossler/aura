@@ -7,11 +7,12 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-13
+last_updated: 2026-08-17
 description: >
   Scene contracts for Thread X, including ten safe daily exploration crossings,
-  an Astral workspace aboard the Victoria, and the delayed first fauna reveal
-  inside Fortuna during Chapter 17.
+  an Astral workspace aboard the Victoria, the delayed first fauna reveal inside
+  Fortuna, and the Chapter 19 interface-lab sequence that establishes communication,
+  three-camera recording, environmental measurements, and accidental Will transfer.
 cross_references:
   - "[[arc_01_falcon_and_fortuna]]"
   - "[[char_jace_apollo]]"
@@ -29,6 +30,8 @@ cross_references:
   - "[[draft_ch15_sideways]]"
   - "[[draft_ch16_ten_good_days]]"
   - "[[draft_ch17_falling_behind]]"
+  - "[[draft_ch19_fault_lines]]"
+  - "[[draft_ch20_the_eye_on_three]]"
   - "[[draft_ch21_quiet_companion]]"
   - "[[draft_ch22_no_vampires]]"
   - "[[draft_ch23_the_leech]]"
@@ -289,21 +292,88 @@ She is wrong. The second core is the Tick-Maw egg, growing.
 
 #### X-03b — "What She Can Do" (Sophia shows Jace her force, physical side)
 
-**Proposed ID `X-03b` — early partnership sequence.**
+**Proposed ID `X-03b` — Chapter 17 reveal with Chapter 19 measurement follow-on.**
 
-**Summary:** Early in the partnership, during an exploration session, and **before they cross over together**, Sophia shows Jace her physical-space force powers — small, controlled, precise. It's the moment Jace understands they are *different kinds of practitioner*: he moves things through the membrane; she reaches through it to act on the physical world without leaving it. Establishes the Crossing-vs-Manifesting split for the reader through character, not exposition.
+**Summary:** After using force to return herself and Sparky to Fortuna in Chapter
+17, Sophia demonstrates the same capability in physical space. Chapter 19 gives
+the reveal its controlled measurement follow-on: Sophia stays physical while Jace
+fully crosses, records the working from the Astral, and returns observations by
+paper while her messages travel through the one-way relay. This establishes the
+Crossing-vs-Manifesting split through character and instrumentation rather than
+exposition.
 
 **Must accomplish:**
 1. Sophia's `[Force Application]` is shown working *in physical space* (per `magic_skills_framework.md`: manifestation, body stays physical).
 2. The complementarity lands: Jace = transfer/crossing; Sophia = force/perception. Neither is superior; the partnership works *because* of the asymmetry.
-3. Keep it small and controlled — a private demonstration, not a public event; nothing that would trip the involuntary-disclosure structure reserved for the swarm.
+3. Keep the controlled follow-on private; nothing trips the involuntary-disclosure structure reserved for the swarm.
+4. The prose must distinguish full-body crossing from limited cross-boundary
+   perception: Jace can faintly sense the Astral while physical, but his body is
+   wholly in one layer at a time.
 
 ---
 
-#### X-04 — *(Open slot — not drafted)*
+#### X-04 — The Interface Lab / Fault Lines
 
-Referenced by `L-04`'s progression table ("Stage 3 (X-04 to X-05)") but no
-contract exists. Flagged as missing.
+**Summary:** After Sophia's near-fatal separation from Fortuna, she and Jace rank
+their immediate engineering needs: communication first, imagery and recording
+second, physics third. Jace builds a one-way physical-to-Astral relay that converts
+text into spoken confirmation and Morse vibration in the Real, then reconstructs
+the vibration as text and radio speech in the Astral. Astral-to-physical traffic
+remains paper pushed through the membrane. They transfer a third camera, mount all
+three on Sparky, and discover that the feeds cannot yet be combined into a stable
+four-dimensional reconstruction.
+
+The camera failure produces the medical-training idea: pair known MRI/CT models
+with simultaneous Astral scans and train an {Aura} model on the correlation. Jace
+and Sophia recognize that Lanchee will require a medical reason, informed consent,
+privacy limits, and evidence that observation does not alter the subject.
+
+Jace then observes Sophia's physical-space force from the Astral. Her working
+produces a brilliant, inefficient gold-white plume over her green-blue branching
+signature. When an exhausted Jace touches her Astral-visible outline and wishes he
+could take her sleep, he accidentally draws Will from her. He becomes fully alert
+and retains the energy; Sophia becomes profoundly exhausted and begins avoiding contact.
+Their next coordinated push/pull transfers several Sparky components far faster
+than normal.
+
+The following morning, their wired probe measures approximately -20°C in open
+Astral space, warmer temperatures in older attached volumes, and elevated carbon
+dioxide and humidity in the repeatedly occupied Astral room. They infer that heat
+crosses the membrane faster than matter, while gas accumulates very slowly and
+local breathing changes sealed Astral pockets.
+
+That evening, Jace accidentally touches {Misty}'s Astral processor signature and
+draws AI Will. {Misty} reboots with recent-memory gaps and repeated outputs. Sophia
+names the earlier drain as a felt betrayal even though Jace did not intend it. They
+adopt a no-contact boundary and decide to investigate the Ring Three figure using
+Sparky, the relay, cameras, and a tether.
+
+**Must accomplish:**
+1. Rank communication, imagery/recording, and physics in that order.
+2. Establish slow but usable one-way electronic communication from the Real into
+   the Astral and paper return traffic; do not solve the electronic return path.
+3. State clearly that a completed human crossing moves the entire physical body;
+   faint perception across the boundary is not partial bodily presence.
+4. Put three incompatible camera projections on Sparky and defer model-based
+   reconstruction until training data and {Aura} instrumentation exist.
+5. Seed the MRI/CT correlation and Lanchee consent problem without beginning the
+   patient study.
+6. Render Sophia's working with her canonical green-blue branching signature,
+   yellow-white concentration, and ragged gold-white plume.
+7. Move the Sophia and {Misty} drains here from the older No Vampires draft;
+   neither event is intentional, safe, or ethically neutral.
+8. Preserve {Misty}'s normal operation between the two drain events.
+9. Establish approximately -20°C open-space temperature, age-dependent local
+   warming, slow atmospheric bleed, and breathing-driven CO2/humidity accumulation.
+10. End with Sophia's trust damaged, explicit no-touch boundaries, Nick still
+    excluded, and a direct launch into the Ring Three investigation.
+
+**Must NOT do:**
+- Treat Jace's temporary energy gain as an advancement or a stable new ability.
+- Let the three-camera system produce a faithful four-dimensional image in Arc 1.
+- Use `[Skill]` bracket notation in prose.
+- Make Sophia's anger irrational or erase the bodily violation because the drain
+  was accidental.
 
 ---
 
@@ -419,16 +489,18 @@ logs the coordinates and visits it later.
 
 ---
 
-#### X-04c — "The Foundational Recording" (the historic record)
+#### X-04c — "The Foundational Recording" (folded into X-04)
 
-**Proposed ID `X-04c` — must fall AFTER Jace's Astral camera reaches basic function (the hundred-node array first working) and can sit alongside/after `X-07`.**
+**Status:** The originating recording now occurs during Chapter 19's X-04
+interface-lab sequence rather than waiting for a separate hundred-node-array scene.
+Jace records Sophia's physical-space force from the Astral with the three-camera
+Sparky rig. The feeds are incomplete and contradictory, but they become the first
+empirical record behind Sophia's later papers and human magical theory.
 
-**Summary:** With the camera working at a level where it can capture Astral dynamics, Jace crosses into the Astral while Sophia stays physical and works her force powers. From the Astral side, her physical-space manifestations bloom as impossible geometry — shapes and structures no one has ever seen from this angle — and Jace *records it.* Neither fully grasps, in the moment, that this footage will become **one of the most important recordings in human history**: the empirical root of Sophia's foundational papers and the seed of magical theory as humanity comes to understand it. As Nick's {Aura} instrumentation improves the measurement layer around these sessions, the record deepens and knowledge compounds.
-
-**Must accomplish:**
-1. The recording is shown as real engineering + real physics, not spectacle — this is *data*, and its historical weight is felt precisely because the characters treat it as work.
-2. Establish this footage as the origin point of Sophia's later papers / human magical theory (plant for far-future payoff — see Foreshadowing rows).
-3. Nick's {Aura} tooling is shown improving measurement between/around sessions; knowledge visibly compounds (Sophia notebooks → instrumented capture → theory).
+Later {Aura} instrumentation can deepen and correlate this record; it must not
+repeat the initial demonstration as if Chapter 19 did not happen. The historical
+importance remains a far-future payoff that Jace and Sophia do not recognize in
+the moment.
 
 ---
 
@@ -494,6 +566,9 @@ using the camera system and telemetry they designed.
 
 ## Revision Notes (this file)
 
+- 2026-08-17: Added X-04 as the Chapter 19 interface-lab contract; folded the
+  previously proposed X-04c demonstration into that scene and preserved later
+  {Aura} correlation as follow-on rather than a duplicate discovery.
 - 2026-08-13: **Post-X-09 experimentation cluster added (author notes).** Four new
   scene-note files staged, following X-09's "10x differential, don't know why" hook:
   X-09b (The Composition Question — Sophia's physics asides + atomic-weight
@@ -511,4 +586,3 @@ using the camera system and telemetry they designed.
 - X-02, X-06 flagged as incompletely retrieved — verify against source.
 - **X-03 drafted this pass** from new author notes (Jace's "two cores") — filling a previously-empty referenced slot.
 - **X-10 logged this pass** as a blocked placeholder (rotating mirror / light-speed note) — explicitly NOT written as a full contract because it conflicts with X-05a as currently written. See Open Decision #8b in the master file.
-- X-04 confirmed still missing.

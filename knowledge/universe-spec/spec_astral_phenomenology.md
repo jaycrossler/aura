@@ -5,7 +5,7 @@ name: The Astral — Physical Properties and Perceptual Experience
 type: foundational_phenomenology
 status: canonical
 canonical: true
-last_updated: 2026-08-13
+last_updated: 2026-08-17
 supersedes: spec_astral_phenomenology (2026-05-31)
 ---
 
@@ -60,9 +60,45 @@ The Astral remains cold but survivable throughout the solar system. Temperature 
 
 **Practical requirement near Fortuna:** Cold-weather thermal gear plus a breathing mask. Not a spacesuit. This is dramatically lighter than practitioners initially expect. The Astral near the belt is survivable with civilian equipment.
 
+### Local Age and Occupancy Gradient
+
+The solar gradient sets the open-space baseline near Fortuna at approximately
+-20°C. Stable physical volumes create smaller local deviations from that baseline.
+Thermal energy crosses the membrane wherever a physical room, ship compartment, or
+station passage maintains a long-lived geometric relationship to the Astral. An
+older unchanged room is therefore warmer on the Astral side than new construction.
+Repeated crossings and sustained occupation strengthen the local effect further.
+
+Early measurements aboard the *Victoria* establish the pattern:
+
+- Open Astral space outside the hull: approximately -20°C
+- Recently rebuilt or newly attached compartment: close to the open-space baseline
+- Older docking passages: several degrees warmer
+- Sophia's repeatedly occupied Astral room: warmest local pocket, still below
+  ordinary physical room temperature
+
+This is a local accumulation effect, not a replacement for the solar gradient.
+Opening a new physical room does not instantly produce a warm Astral room.
+
 ### Why This Doesn't Mean Easy Oxygen
 
-Heat transfers through the membrane as a field. Gas molecules tunnel through as particles — geological-timescale slow. Near Earth, billions of years of oxygen tunneling have produced marginally breathable pockets. Near belt stations (decades old), atmospheric bleed is negligible — 60-90 seconds usable ambient. The -20°C near Fortuna comes from solar heat transfer, not from breathable atmospheric presence. Breathing gear is still essential.
+Heat transfers through the membrane as a field. Gas molecules cross as particles
+and move vastly more slowly. Near Earth, billions of years of leakage have produced
+marginally breathable pockets. Near belt stations, decades of leakage produce only
+trace, locally measurable station atmosphere. That trace is not safe to breathe and
+does not remove the need for a mask.
+
+Stable bounded volumes retain more gas than open Astral space. Older rooms contain
+more trace oxygen, nitrogen, water vapor, and carbon dioxide than recent construction.
+Crossers also change a pocket directly: vented breath, mask changes, and equipment
+purges add moisture and carbon dioxide that have no ordinary ventilation path. A
+repeatedly occupied Astral room can therefore become a high-CO2 pocket while still
+lacking enough oxygen for safe breathing. Empty neighboring rooms remain much drier
+and contain less gas.
+
+Operational consequence: Astral workrooms require circulation and chemical
+scrubbing on both sides of the membrane. Temperature and gas composition must be
+measured separately; a warmer room is not necessarily a breathable one.
 
 ### Thermal Manipulation as Early Will Skill
 
@@ -236,3 +272,7 @@ The dist³ layer — Hyperspace — is only accessible beyond gravity wells. A p
 - 2026-05-31: New file. Established canonical phenomenology: extra dimension, gravity, Will pressure, N-1 perception, mind-glows, clockwork dance, astral algae. Separated Astral (dist²) from Hyperspace (dist³).
 - 2026-06-03: Major update. Corrected temperature to **-20°C** near Fortuna (revised from -40 to -60°C). Added crystal tunnel dream explanation (N-1 perception of physical infrastructure). Added wall permeability and Jace's temperature probe discovery. Added open-space exploration. Added asteroid prospecting via N-1 perception (Jace's drone discovery). Added solar thermal gradient table. Added beacon effect. Clarified that terminology is intentionally loose at story start. Added thermal manipulation as early Will skill.
 - 2026-08-13: Canon ruling. The Astral is approximately **-20°C** near Fortuna and remains cold but survivable throughout the solar system. Sophia begins with Never-Never from childhood Baba Yaga stories. Jace proposes Astral after several days because it is shorter and familiar from old books and games.
+- 2026-08-17: Added the Chapter 19 local age and occupancy gradient. Stable older
+  physical volumes create warmer Astral pockets; trace atmosphere accumulates much
+  more slowly than heat, and repeated human occupation can raise local CO2 and
+  humidity without making the pocket safely breathable.

@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-15
+last_updated: 2026-08-17
 description: >
   Scene contracts for Thread P — station politics, Helena, Jin, Suzi. Migrated
   out of arc_01_falcon_and_fortuna.md during the thread-split restructure.
@@ -16,6 +16,7 @@ cross_references:
   - "[[char_jin_luong]]"
   - "[[char_helena]]"
   - "[[char_mei]]"
+  - "[[draft_ch19_fault_lines]]"
 ---
 
 # Thread P — Pressure
@@ -81,9 +82,32 @@ girl floating in space.
 
 *Renamed this pass from a duplicate `P-01a` label.*
 
-**Summary:** Jace gets into a fight with Yáo (one of Jin's mining crew) at a bar
-when he overheard Suzi and Jace talking about the Chinese miners. Jace gets fined
-for fighting and loses more credits from {Alex}.
+**Summary:** Suzi shows Jace archived repair-drone footage recorded two days after
+Helena vanished. Yáo and another miner carry an untagged, human-sized flexible bag
+from an unlisted Ring Three passage. The image suggests a body but does not prove
+one; Suzi requires Jace to document only the camera's automatic privacy suppression
+and missing tags.
+
+Suzi asks Jace to meet at the Long Burn while she checks old crew rotations. Yáo
+overhears Jace describing disappearing shifts, unlisted passages, system failures,
+and possible sabotage. Jace does not mention the body-shaped contents. Yáo confronts
+him and wins the resulting fistfight decisively. Suzi breaks it up. {Alex} fines
+both men. Jin is absent.
+
+**Must accomplish:**
+1. Timestamp the footage two days after Helena's disappearance without claiming
+   the bag contains Helena or any body.
+2. Suzi separates observation from inference and limits Jace's written note to
+   camera behavior and missing logistics tags.
+3. Jace's accusation draws on real suspicious behavior but is worsened by
+   exhaustion, political pressure, and confirmation bias.
+4. Jace never mentions the apparent body during the bar exchange; he implies
+   sabotage from movements, access, and failures.
+5. Yáo wins cleanly and reads as experienced and controlled, not a disposable
+   antagonist.
+6. Suzi ends the fight; Jin remains absent.
+7. Preserve P-05 as a later, separate confrontation driven by {Seek}'s formal
+   reconnaissance flag.
 
 ---
 

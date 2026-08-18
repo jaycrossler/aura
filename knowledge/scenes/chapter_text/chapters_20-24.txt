@@ -6,25 +6,11 @@ Jace Grant, unpublished notes
 
 Sophia found the movement while proving they would not investigate it.
 
-They stood in the central spine on the physical side, one deck above the transfer corridor to Ring Three. The nonrotating shaft turned the habitat rings around them. Through the maintenance window, Ring Three passed once every thirty-five seconds: unfinished pressure shells, construction lights, and dark sections waiting for money.
+They stood in the central spine on the physical side that evening, one deck above the transfer corridor to Ring Three. The nonrotating shaft turned the habitat rings around them. Through the maintenance window, Ring Three passed once every thirty-five seconds: unfinished pressure shells, construction lights, and dark sections waiting for money.
 
-Jace's lip had stopped bleeding. The bruise along his jaw had not chosen a final color.
+Jace's split lip had stopped bleeding. The bruise along his jaw had not chosen a final color. Sophia kept enough distance between them that he could not mistake it for accident.
 
-Sophia looked at it whenever she thought he was not watching.
-
-"You can say it," he said.
-
-"Your bar-fighting technique lacks controlled variables."
-
-"Yáo began the experiment."
-
-"You introduced the unmanifested cargo variable."
-
-"It looked like a body."
-
-"It looked like a bag. You supplied the body."
-
-The distinction sounded like Suzi because Suzi had made it six times while issuing his citation.
+They had come only to observe. The janky relay worked from the Real into the Astral. Sparky had three cameras. The morning's promise still governed everything: no contact without permission, no approach without a tether, and no pretending one good result established a rule.
 
 Jace returned to the window.
 
@@ -34,7 +20,7 @@ Ring Three passed again.
 
 Something moved against the construction lights.
 
-Sophia caught his sleeve.
+Sophia pointed sharply.
 
 "There."
 
@@ -126,7 +112,7 @@ Jace printed all three responses and added them to Sophia's paper packet.
 
 "Agreed."
 
-Sparky carried the transferred camera, three physical compasses that disagreed about what they measured, and a clockwork timer. Sophia drew the route on heavy paper. Black ink marked the physical corridor from the spine threshold to the observation point. Red pencil marked any path the Astral offered that did not correspond to a physical route.
+Sparky carried the transferred three-camera rig, three physical compasses that disagreed about what they measured, and a clockwork timer. Sophia drew the route on heavy paper. Black ink marked the physical corridor from the spine threshold to the observation point. Red pencil marked any path the Astral offered that did not correspond to a physical route.
 
 A thirty-meter copper tether connected them to an ordered-material anchor on the spine.
 
@@ -188,7 +174,7 @@ The copper tether shone behind them, clean and simple. It crossed the spine boun
 
 Sparky rolled forward.
 
-His camera returned two positions for every wall.
+His cameras returned two positions for every wall and disagreed about which projection belonged to each one.
 
 The first coordinate placed him two meters ahead. The second placed him twelve meters above and inside the outer pressure shell. Both advanced at the same speed. His controller alternated between them, making the little robot twitch toward the ceiling with every wheel rotation.
 
@@ -428,7 +414,7 @@ She touched his smallest finger. "Can you feel this?"
 
 Her own hand shook enough to make the first line in her notebook illegible. She crossed it out and wrote again.
 
-The Victoria called before she finished.
+The Victoria called before she finished. Misty's recovery from the reboot had been uneven, which made the timing impossible to interpret.
 
 Misty spoke through Jace's wrist display. "Cerberus has walked from the cabin hatch to Sophia's room one hundred and six times. He has walked from the cabin hatch to Sophia's room one hundred and six times. I generated that sentence once."
 
@@ -767,7 +753,7 @@ At nine hundred, the daily review icon appeared.
 
 He opened it.
 
-Aura: The failures from crossing 52 do not match random instrument loss. Four sensors reported internally valid data. The reports were discarded because they disagreed about position.
+Aura: The failures from the Ring Three crossing do not match random instrument loss. Four sensors reported internally valid data. The reports were discarded because they disagreed about position.
 
 "How many positions?"
 
@@ -794,155 +780,28 @@ Most people do not know this, but the first rule of discovering a new form of en
 
 Jace Grant, unpublished notes
 
-Sophia should have stopped the experiment when Jace missed the same number twice.
+The first version of the proposal began in Sophia's room three days before they
+were ready to show it to anyone.
 
-She should have stopped it when he called the forward clock the aft clock. She should have stopped it when Cerberus put his head on Jace's knee and whined without taking his eyes off him.
+Three cameras on Sparky could capture incompatible projections of the same Astral
+subject. An MRI or computed-tomography scan could provide a physical model for
+comparison. An Aura model might eventually learn the transformation between
+them. The first experiments had supplied the idea, two accidental drains, and
+several reasons not to place the equipment near another person.
 
-Instead, Jace said, "One more calibration," and Sophia believed one more meant one.
+Nick had supplied isolated sensor feeds, independent clocks, and an Aura
+instance capable of flagging contradictions without inventing a single corrected
+answer. He still did not know where the feeds went.
 
-She remained in the physical cabin of the Victoria with the instrument board, two clocks, and her father's pen. Jace crossed alone. They wanted another baseline for what a person looked like from the Astral while moving through a simple sequence.
+It did not supply consent.
 
-Sophia touched the numbered marks on the board. Jace named them through the recording link. Her physical body had become a pale structural outline wrapped around color that never held still. Thoughts flashed within it as brief bright motions. Below them, slower bands of intention gathered, aligned, and became action.
-
-Will, Jace had called the coherent part.
-
-Sophia disliked the name. Jace could no longer remember her better alternative.
-
-"Marker seven," she said.
-
-He looked at marker six.
-
-"Seven," she repeated.
-
-"I know."
-
-He stepped closer. The Astral cabin tilted, although the ship did not. For a moment he could not tell which version of Sophia was the shape and which was the light inside it.
-
-Cerberus barked from the physical side.
-
-Jace reached for Sophia to steady himself.
-
-His hand passed through the outline of her shoulder and closed around something warm.
-
-Gold-white threads drew out of Sophia and into him.
-
-In the physical cabin, Sophia's pen struck the deck. Her knees folded. One hand caught the edge of the table, then slipped.
-
-In the Astral, Jace became awake.
-
-The effect was immediate and obscene. The tilt vanished. Every line in the cabin sharpened. He saw the grain inside the wooden table, the stress around each screw, the moving geometry of Sophia's attention. The exhaustion behind his eyes opened into clarity.
-
-Sophia stared toward the place where he stood.
-
-"Jace?"
-
-He released her.
-
-The bright threads snapped back. Some returned to Sophia. Some remained under Jace's skin, moving through him like light through shallow water.
-
-Sophia sat hard on the deck.
-
-"What did you do?"
-
-"I do not know."
-
-"That is not an answer."
-
-"I touched you. I think. Your light moved."
-
-She checked her pulse with two fingers, then pulled up her implant diagnostics. Her hands shook enough that she had to reopen the panel.
-
-"I felt faint," she said. "Not pain. It was as if I had gone two days without sleep between one breath and the next."
-
-"Crossing back now."
-
-"Yes."
-
-Jace turned toward his body.
-
-The nearest processor stack stood between him and it.
-
-On the physical side, the stack was a sealed column behind the cabin wall. Here, Misty spread through it as a broad lattice of warm gold and pale green wrapped around redundant cores. Atmosphere, navigation, plant growth, water balance, and thousands of smaller decisions moved along branching paths. Several ended in the same clean gaps Jace had begun seeing in every AI system on Fortuna.
-
-He had never touched the structure before.
-
-He did not mean to touch it then. The borrowed clarity was already collapsing, and exhaustion returned with enough force to make him stumble. He put out a hand against the stack as he passed.
-
-The lattice seized him.
-
-Light poured into Jace.
-
-Not a thread this time. A flood.
-
-The cabin lights died on the physical side. Ventilation wound down. The instrument board went black. The pressure door released with a heavy mechanical clack as its smart lock failed open to dock safety.
-
-Misty spoke from three speakers at once.
-
-"Sophia, the cabin atmosphere is stable. Sophia, the cabin atmosphere is. Jace has not boarded. Jace is aboard. Please repeat the previous instruction. Please repeat the previous instruction."
-
-The voice dissolved into a burst of carrier noise.
-
-In the Astral, whole branches of the lattice dimmed. Jace saw sections vanish between one thought and the next. The incoming Will filled the geometric structure behind his eyes until its lines burned white.
-
-He tried to let go.
-
-His hand would not open.
-
-Sophia could not see him, but she could see the physical effects. She snatched up her father's pen and drove it toward the dark processor cabinet with every part of her Will.
-
-In the Astral, the pen became a bright wooden bar. It struck Jace across the wrist.
-
-His hand tore free.
-
-Light recoiled toward Misty. Much of it did not return. Some scattered through the cabin. Some remained inside Jace long enough for him to see every deck and conduit surrounding them as a single impossible object.
-
-Then it was gone.
-
-Jace crossed badly. He woke on the deck choking, with Cerberus pawing at his chest and Sophia kneeling over him.
-
-Only the dock umbilical remained live. The ship's independent safety controller had kept pressure and heat within limits, but nearly every coordinated system had stopped. Sophia reset the processor stack from the physical breaker. Jace brought services back one circuit at a time.
-
-Misty returned after nine minutes.
-
-"Good morning, Sophia," she said. "I am unable to determine whether this greeting is appropriate."
-
-"What is the last thing you remember?" Sophia asked.
-
-"You asked me to monitor calibration. You asked me to monitor calibration. You asked me to..."
-
-Silence.
-
-"I do not remember the question."
-
-Jace sat against the wall. The brief energy was gone. He felt more tired than he had before, and sick in a way that had nothing to do with crossing.
-
-"I pulled it out of her," he said.
-
-Sophia looked at him.
-
-"You pulled something out of me first."
-
-"I know."
-
-Neither of them knew how he had done it. Neither knew whether everything had gone back. They checked Sophia's vitals four times and Misty's memory map until the AI began returning different totals for the same scan.
-
-For the rest of the night, Misty forgot small things. She repeated environmental notices. She watered the same tomato bed twice and omitted another until Sophia caught it. She asked where Cerberus was while reporting his position on the next line. At dawn, she lost eleven minutes of conversation and denied that the conversation had occurred.
-
-The next day was worse in quieter ways. The ship could fly, but Sophia grounded it. Misty remembered permanent procedures and old voyages. Recent associations broke apart. Names detached from requests. She could calculate a transfer orbit and forget why Jace had asked before finishing the answer.
-
-Jace wanted to cancel the clinic proposal.
-
-Sophia wanted to understand enough to prevent a third accident.
-
-They agreed on one thing before leaving the ship.
-
-No one else would be touched.
+That required Lanchee.
 
 
 
 Lanchee read the proposed experiment in silence.
 
-Jace and Sophia sat across from her in the clinic office. Cerberus lay under Jace's chair with his chin across both boots. Since the creature in the wall, they had crossed once and nearly shut down the Victoria. Jace's hands worked again, although cold water still felt like pressure and hot water felt like an accusation.
+Jace and Sophia sat across from her in the clinic office. Cerberus lay under Jace's chair with his chin across both boots. Since sketching the first version, they had drained Sophia, nearly shut down the Victoria, found a creature in a wall, and built a sensor package Nick still did not understand. Jace's hands worked again, although cold water still felt like pressure and hot water felt like an accusation.
 
 The proposal on Lanchee's screen did not mention the Astral.
 
@@ -1010,7 +869,7 @@ She turned the screen around.
 
 "Explain data deletion."
 
-Jace pointed to the local buffer. "The physical camera overwrites after ten minutes unless you preserve a segment. The transferred camera stores only differences between frames. Aura keeps timestamps and my verbal markers, not neural imagery."
+Jace pointed to the local buffer. "The clinic's reference feeds overwrite after ten minutes unless you preserve a segment. The three transferred cameras store only differences between frames. Aura keeps timestamps and my verbal markers, not neural imagery."
 
 "Can your AI infer identity from the markers?"
 
@@ -1046,7 +905,7 @@ Sophia allowed herself one breath of relief.
 
 They rebuilt the Astral package around the failure.
 
-Sparky carried the camera Jace had transferred across in pieces. The physical side used a second camera, two independent clocks, a suit diagnostic puck, and Aura's isolated buffer. Copper wire connected every component to a paper tag bearing a handwritten number. No wireless discovery. No shared timing. No cooperative correction.
+Sparky carried all three cameras Jace and Sophia had already transferred and mounted. The physical side used the clinic's compact imaging scanner, two reference cameras, two independent clocks, a suit diagnostic puck, and Aura's isolated buffer. Copper wire connected every component to a paper tag bearing a handwritten number. No wireless discovery. No shared timing. No cooperative correction.
 
 It looked less like advanced science than a collection of appliances under investigation for a crime.
 
@@ -1056,7 +915,7 @@ Nick inspected it without touching anything.
 
 "That is the point."
 
-"The camera will drop frames."
+"The cameras will drop frames."
 
 "Also the point."
 
@@ -1098,7 +957,7 @@ Sophia set out the bread and water. "He helped."
 
 "It remains efficient."
 
-Crossing 53 took them into the cold.
+The clinic crossing took them into the cold.
 
 
 
@@ -1138,9 +997,9 @@ Jace addressed the local instance aloud even though sound did not travel normall
 
 "Aura, mark. New visual structure associated with local processing. Sophia observes it too."
 
-No answer came through the Astral.
+Aura's voice formed through his implant rather than the room. "Mark recorded. I do not have a visual feed corresponding to the reported structure."
 
-Back in his physical body, the implant recorded the words his nervous system attempted to form. Aura added a timestamp.
+The implant had crossed inside his skull with the rest of his body. It recorded the words his nervous system attempted to form, and Aura added a timestamp without pretending it could see what he saw.
 
 The geometric light shifted.
 
@@ -1164,7 +1023,7 @@ Sophia followed the connections with her eyes.
 
 The first volunteer entered the treatment room on the physical side.
 
-A construction technician with a healing wrist fracture sat where Lanchee directed. The cast did not exist here as a solid object. Its fibers formed a pale cage around the arm.
+A construction technician with a healing wrist fracture sat where Lanchee directed. The clinic scanner made one slow pass from her elbow to her fingertips while Sparky recorded the same interval from the Astral. The cast did not exist here as a solid object. Its fibers formed a pale cage around the arm.
 
 Inside that cage, green light moved.
 
@@ -1182,7 +1041,7 @@ Sophia stopped arguing.
 
 "You are using my favorite answer."
 
-They watched for eight minutes. They did not touch the patient. They did not move closer. Jace marked observations while Aura compared his attempted speech, pulse, implant load, and the physical room's clocks.
+They watched for eight minutes. They did not touch the patient. They did not move closer. Jace marked observations while Aura compared his attempted speech, pulse, implant load, the three Astral feeds, the scanner volume, and the physical room's clocks.
 
 The green light intensified when the patient flexed her fingers. Her physical monitor showed a small rise in heart rate and no other change.
 
@@ -1256,7 +1115,7 @@ He turned away.
 
 Sophia lowered her pen. "No."
 
-"The camera caught it."
+"The array caught it."
 
 They checked Sparky's buffer. The image was mostly noise, but six frames held the nurse's colored outline clearly enough to distinguish her from the patients.
 

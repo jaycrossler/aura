@@ -6,7 +6,7 @@ name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-08-13
+last_updated: 2026-08-17
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
@@ -340,7 +340,7 @@ Full contracts live in the linked thread file.
 | 22 | X-02a | X | Tick-Maw / med bay — egg planted | thread_X | ok |
 | 23 | X-02b | X | The Sweep — goat, servers, "Invasion Force?" notebook | thread_X | ok |
 | 24 | X-03 | X | **NEW — proposed:** Sophia notices Jace's "two cores" | thread_X | drafted this pass, pending approval |
-| 25 | X-04 | X | *(open slot — referenced by L-04, never drafted)* | thread_X | ❌ missing |
+| 25 | X-04 | X | Interface Lab / Fault Lines — relay, three-camera Sparky, environmental measurements, accidental Will transfer | `draft_ch19_fault_lines` + thread_X | drafted |
 | 26 | X-05a | X | The Numbers Go Wrong — laser ranging derivation | thread_X | ok — see Open Decision #8 |
 | 27 | X-05b | X | The Unstable Site — asteroid interior survey | thread_X | ok |
 | 28 | X-05c | X | "This Changes Everything" — Nick disclosure | thread_X | ok |

@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-13
+last_updated: 2026-08-17
 description: >
   Scene contracts for Thread L — recurring/distributed background beats woven
   through the Fortuna chapters. Migrated out of arc_01_falcon_and_fortuna.md
@@ -103,6 +103,21 @@ Early Fortuna routine:
 This routine should feel light and sustainable at first. Later crossings pull Jace
 away from Nick, work, sleep, and ordinary station life, so the reader knows what he is
 losing before the consequences stack up.
+
+**Responsibility repair (Chapters 18-19):** After Jace's unattended automation
+delays medical, pressure-control, and routine loads, Kim removes his automation and
+route-release permissions. Jace clears the exception queue manually, then completes
+an uneventful delivery shift by verifying the person, receiver, and cost of delay for
+each load. Carlos stops shadowing him after eleven reviewed routes. Kim restores only
+medical and pressure-control release authority. This is regained operational trust,
+not full forgiveness or a return to his former access.
+
+**Must accomplish:**
+1. The repair occurs through ordinary correct work, not another heroic save.
+2. Carlos directs attention and reduces supervision as Jace demonstrates judgment.
+3. Kim restores permissions incrementally and remains the responsible manager.
+4. No Astral anomaly, creature, or AI-processing failure interrupts the Chapter 19
+   shift; {Misty} is explicitly healthy during this interval.
 
 ---
 

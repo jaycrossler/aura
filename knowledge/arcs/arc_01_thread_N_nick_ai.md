@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-21
+last_updated: 2026-08-17
 description: >
   Scene contracts for Thread N — Nick's disclosure and the open-source decision;
   the AI systems thread. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -17,11 +17,39 @@ cross_references:
   - "[[char_jin_luong]]"
   - "[[tech_seek_ai]]"
   - "[[concept_aura_ai_system]]"
+  - "[[draft_ch18_later_became_morning]]"
+  - "[[draft_ch19_fault_lines]]"
+  - "[[draft_ch21_quiet_companion]]"
+---
 # Thread N — Nick / AI
 
 ### Comms Lag & Transmission Texture
 - Communications between Mars/ship and Fortuna operate under shrinking light-speed delay (12 minutes at departure down to 4 minutes near Fortuna arrival).
 - Nick and Jace do not have instantaneous voice/video calls; they exchange compressed telemetry batches, game logs, and asynchronous video clips. Nick's commentary on ship events (including the Learning Mode sewage fumble) arrives in delayed batches.
+
+---
+
+#### N-00b — Apology Without Disclosure
+
+**Summary:** Nick confronts Jace in Chapter 18 after missed meals, cancelled game
+nights, unexplained sensor gaps, and visible exhaustion. Jace protects Sophia's
+secret and refuses to explain. During Chapter 19, he sends an apology that admits
+he disappeared but still withholds every fact that would explain why. Nick correctly
+calls it a bad apology. Jace does not involve him in the relay, camera array,
+Sophia drain, {Misty} reboot, or Ring Three plan.
+
+Chapter 21 is the first functional repair: Jace admits that danger exists and asks
+for help without demanding forgiveness. Nick installs {Aura} under explicit safety
+conditions while retaining the right to tell Lanchee or Kim if the system finds
+medical or station risk.
+
+**Must accomplish:**
+1. Nick's anger reads as worry and violated trust, not jealousy over Sophia.
+2. Jace's Chapter 19 apology is sincere but structurally inadequate because he
+   still excludes Nick from the facts.
+3. Nick does not participate in Chapter 19 experimentation or learn the Astral.
+4. Practical help in Chapter 21 does not equal forgiveness or disclosure.
+5. Preserve X-05c as the later full Astral and discharge disclosure.
 
 ---
 
