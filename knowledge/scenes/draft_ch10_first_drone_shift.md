@@ -8,7 +8,7 @@ scene_contract: A-03 + A-04 setup
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: >
   Jace earns a delivery console, handles one real exception, hears Kim call his
   skill ordinary, receives a sabotage warning, and accepts a survey assignment
@@ -28,9 +28,19 @@ cross_references:
 
 # Chapter 10. Ordinary
 
-> *Most people do not know this, but ninety-five percent of drone operations is watching machines remain fine. The other five percent pays your salary and shortens your life.*
+> *Artemis: The administration is talking about shutting down all joint-government station contracts.*
 >
-> Jace Grant, *Fortuna notes*
+> *Apollo: Typical Red party saber rattling. I didn't love the Blues, but I am starting to see the appeal.*
+>
+> *Artemis: Weren't the Blues in charge when you got in trouble? During battle?*
+>
+> *Apollo: A battle the Reds started before they left office the year before!*
+>
+> *Athena: My policy professor says temporary measures have a way of becoming architecture.*
+>
+> *Apollo: I like your professor.*
+>
+> *Artemis: Of course you do.*
 
 Thing One and Thing Two had passed the point of learning the station's layout, and he felt familiar with at least every major neighborhood and pressure lock and elevator.
 
@@ -89,6 +99,14 @@ The shift began with seventeen green lights.
 They stayed green for three hours.
 
 Jace reviewed routes, maintenance intervals, battery degradation, and the handoff failures he had already learned from the back room. The drones moved food, parts, medicine, samples, tools, and private orders. Most deliveries completed without human input.
+
+The first problem he encountered was pretty easy to fix. Inside the construction zone down on Three, a spiderbot was climbing along an assembly gantry to deliver bolts and flux to a work cabinet. Some moisture had got in its lensed dome when it left vaccuum and the cameras were occluded. It had used stored maps to move and had run into a wall that wasn't on the maps.
+
+Maureen looked, grimaced. "The Chinese team doesn't always share updated maps with us."
+
+"I thought it was a joint station? They have an entire room there that's not on the map."
+
+She shrugged. "I'm sure {Seek} will send over maps once it's finalized. Reroute around it and flag that area as a temporary obstruction."
 
 At 1047, unit D-14 turned yellow.
 
@@ -163,6 +181,8 @@ He walked the long route to the Barn.
 Cerberus kept one shoulder against his calf, sensing his unhappiness.
 
 Nick found them near the noodle bar. The girl Mira had been standing across the hallway, staring at him. She had dissapeared and Jace walked over when Cerberus kept growling. there was a small doll on the ground that looked like a dog, missing a head. Cute, until Jace realized that it was made out of some suishy slime-like material and was covered in thick red liquid. He sniffed it and recoiled at the heavy iron smell. Was that blood?  He threw it in a waste receptagle and washed his hands.
+
+Nick was wearing cobalt blue suspenders, covered in hand-stitched patches. It was bright and as colorful as the man that wore them.
 
 "I heard Kim called you ordinary."
 

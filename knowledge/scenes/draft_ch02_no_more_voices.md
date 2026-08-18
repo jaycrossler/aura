@@ -8,7 +8,7 @@ scene_contract: event_t_forge_no_more_voices
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: "Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
@@ -27,7 +27,21 @@ supersedes:
 
 # Chapter 2. Going a little crazy
 
-> *Most people do not know this, but space is all about logistics and planning. He who controls the printers controls the goods. She who controls the goods controls the workforce. Step three... profit. I probably should have majored in business, not engineering.*
+> *Apollo: Maureen earns twenty Tokens every time I print her a plate that costs one.*
+>
+> *Athena: That is piracy. I should change my major to business.*
+>
+> *Artemis: I thought you were considering animal science.*
+>
+> *Athena: Sophomore advising says I should explore my options.*
+>
+> *Apollo: How many more options can our parents fund?*
+>
+> *Athena: Hey, didn't they have to sell all there stocks to buy a lawyer to try to get you reinstated?*
+>
+> *Artemis: I told them that wouldn't work. The new administration will not be buillied.*
+>
+> *Apollo: Even by people trying to uphold the law, aparently.*
 
 <!-- beat:t_forge_no_more_voices.beat1_forge_and_voices -->
 The machine shop smelled like warm polymer and burnt ambition.

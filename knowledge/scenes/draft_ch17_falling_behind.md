@@ -8,7 +8,7 @@ scene_contract: X-01 rescue, X-01a force reveal, P-pressure escalation
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Kim orders Jace to stay home while Drone Ops repairs his automation failures.
   He discovers Sophia stranded behind Fortuna in the Astral, sends Sparky after
@@ -30,9 +30,20 @@ cross_references:
 
 # Chapter 17. Falling Behind
 
-> *Most people do not know this, but in the Astral, movement works different that we expect, different than seems possible, and different than we planned for. Down is optional. Momentum is onvly sometimes optional.*
+> *Athena: Apollo, you said you would send pictures yesterday.*
 >
-> Jace Grant, *unpublished notes*
+> *Artemis: He is working.*
+>
+> *Athena: You always defend him.*
+>
+> *Artemis: I am documenting his failure.*
+>
+> *Apollo: Still alive. Will call tomorrow.*
+>
+> *Artemis: Metis shifted our comm window again, so might not connect. Try before 0600.*
+>
+> *Athena: Like 6 in the morning? That's when I go to bed.*
+>
 
 Kim's message arrived at 0543. He'd set his HUD to force him awake if she wrote, and his exhausted muscles and bones and heart and brain were not happy about it. It felt like he had the flu.
 
@@ -118,7 +129,7 @@ Siren sneezed in his face.
 
 He left them playing beside the feed sacks and followed the curve of Ring Two toward the *Victoria*.
 
-The station felt different from the day before. Nothing physical had changed. The shops were open. Cargo carts moved. The oak tree spread its leaves beneath a bright simulated sky. Yet conversations dropped when uniforms from different sections passed each other. Public displays showed maps of missing ships. An American security notice advised workers to report unusual Chinese network activity. A Chinese notice warned citizens not to surrender equipment for inspection without a representative from their leasehold.
+The station felt different from the day before. Nothing physical had changed. The shops were open. Cargo carts moved. The oak tree spread its leaves beneath a bright simulated sky. Yet conversations dropped when uniforms from different sections passed each other. Public displays showed maps of missing ships. An American security notice advised station workers to report unusual Chinese network activity. A Chinese station notice warned citizens not to surrender equipment for inspection without a representative from their leasehold. Looking around, Jace just saw a mixed blend of people, walking, going about their days; no security, no fighting, all theater.
 
 Everyone had received the same facts and been given different enemies.
 
@@ -134,7 +145,7 @@ The *Victoria's* outer hatch opened for him.
 
 "It is also early, depending on one's preferred framing. Brandon and Nikos are out at breakfast."
 
-The corridor smelled of bread, herbs, and yesterday's coffee. Jace knocked on Sophia's door.
+The corridor smelled of noodles, herbs, and yesterday's coffee. Jace knocked on Sophia's door.
 
 No answer.
 
@@ -172,19 +183,23 @@ He called into the hallway, "{Misty}, when did she last communicate?"
 
 "No messages since?"
 
-"None."
+"None. Shall I call for a medical alert?"
 
-Jace closed the door. He pulled his own mask over his face and checked the seal. He switched to his crossing jacket, which was simple cloth with plastic buttons, a backup one he'd printed specifically to cross that had extra padding. The small crystal radio he had built waited in the drawer beside her bed. He clipped it to his collar, lay down where the physical bed overlapped the Astral room, and reached sideways.
+"No. Keep privacy mode. I'll talk to you soon."
+
+Jace closed the door. He pulled his own mask over his face and checked the seal. He grabbed and extra crossing jacket, which was simple cloth with plastic buttons, a backup one he'd printed specifically that had extra padding. He lay down where the physical bed overlapped the Astral room, and reached sideways.
 
 The resistance caught every part of him at once.
 
 He pulled.
 
-Warm air became cold, blue, sharp. The physical *Victoria* thinned into layered walls and pale structure. His HUD vanished. The radio remained solid against his chest, wired to a speaker in his ear.
+Warm air became cold, blue, sharp. The physical *Victoria* thinned into layered walls and pale structure. His HUD vanished.
 
 Sophia was not there.
 
 The Astral workbench stood beneath its gear and labels. Pieces and gear waited in separate trays. Three emergency oxygen bottles rested against the wall. Sparky sat beside them with one green light glowing, camera mounted in his chasis.
+
+He grabbed the small crystal radio he had built waited in the drawer beside her bed. He clipped it to his collar, wired it to his ear.
 
 Jace spoke over the radio. "Sophia?"
 
@@ -240,7 +255,7 @@ The second breath was better.
 
 "I do not know. Jace, I am cold. I cannot feel my left hand."
 
-He triggered Sparky and set the little robot to follow. Three thrusters lifted him unevenly from the deck.
+He grabbed the remote controller and triggered Sparky, piloting the robot after him. Three thrusters lifted him unevenly from the deck.
 
 "I am coming down to the launchpad. Keep talking."
 
@@ -252,7 +267,7 @@ He triggered Sparky and set the little robot to follow. Three thrusters lifted h
 
 They had never gone this far through Fortuna.
 
-Jace left the *Victoria*, crossed the transparent corridor of Ring Two, and entered the docking spine. Sparky flew beside him with the oxygen bottle knocking softly against his shell.
+Jace left the *Victoria*, crossed the transparent corridor of Ring Two, and entered the docking spine while peering around at everything he could. Sparky flew beside him with the oxygen bottle knocking softly against his shell.
 
 The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings. He realized he didn't have to walk all the way to a stair, he could just push himself through the floor. But, wary of also falling off, he decided not to experiment too much during an emergency.
 
@@ -276,7 +291,7 @@ Static.
 
 Jace pulled faster.
 
-The shaft stretched through the station toward the asteroid. Physical elevators and cargo cages occupied parts of it, but in the Astral they became overlapping channels. Some were short. Others opened into blue distance and returned beside themselves. Jace followed the simplest path, hand over hand, while Sparky corrected around him in bursts.
+The shaft stretched through the station toward the asteroid. Physical elevators and cargo cages occupied parts of it, but in the Astral they became overlapping channels. Some were short. Others opened into blue distance and returned beside themselves. Jace followed the simplest path, hand over hand, while Sparky corrected around him in bursts; he had the controller clipped to his jacket so it wouldn't fall and he'd push a joystick when he could get a hand free.
 
 Through the structure, Jace began to see very faint lines, like blurs where things were. It was like one of those old photos where you had to cross your eyes just right to see a shape.
 
@@ -324,7 +339,7 @@ The radio carried her breathing and a small sound of effort.
 
 "Then run."
 
-Jace reached the bottom of the central *Fortuna* shaft. There was no gravity (or whatever passed for gravity here), so he moved hand over hand... then tried just stepping 'on' to space which somehow kind of worked. Sparky was in follow mode, thrusters requiring very little thrust, just aim.
+Jace reached the bottom of the central *Fortuna* shaft. There was no gravity (or whatever passed for gravity here), so he moved hand over hand... then tried just stepping 'on' to space which somehow kind of worked. Sparky followe, thrusters requiring very little thrust, just aim.
 
 The launchpad opened beneath Fortuna's central spine like a mechanical flower. Survey vessels, tugs, and cargo cradles look like translucent volumes. Beyond them was open space, blue-black and layered with faint streamers of motion.
 
@@ -350,25 +365,21 @@ Jace unbuttoned his jacket.
 
 The cold struck immediately. It was freezing here, different parts of the station had different temperatures. The launchpad opened onto something worse. Cold gathered where the motion lines separated, as if heat itself needed a path to know where it belonged.
 
-He wrapped his jacket around the oxygen bottle mounted inside sparky and stuffed in what would fit..
-
-"Sparky, deliver to visual target. Human. That way. Go."
-
-Sparky's green light blinked.
+He wrapped his jacket around the oxygen bottle mounted inside sparky and stuffed in what would fit.
 
 "Please do not miss."
 
 The little robot crossed the launchpad boundary, straight through the floor.
 
-For one second, he hovered beside Jace, just on the other side of a thick transparent multi-layerd wall. His trusters fired.
+For one second, he hovered beside Jace, just on the other side of a thick transparent multi-layerd wall. Jace pulled the joystick, trusters fired.
 
 Then space pulled him *long*, he seemed to stretch as he rocketed off.
 
-Sparky became a bright metal thread extending toward Sophia, contracted into a flaming ball, and appeared halfway to her. His thrusters fired at different rates, correcting for a geometry their controller had never modeled. The oxygen bottle swung beneath him. Jace realized that maybe explosive oxygen and thrusters should not be right next to each other and winced. Jace's jacket flapped in a wind that did not exist.
+Sparky became a bright metal thread extending toward Sophia, contracted into a flaming ball, and appeared halfway to her. His thrusters fired at different rates, correcting for a geometry that Jace could barely intuit. The oxygen bottle swung beneath him. Jace realized that maybe explosive oxygen and burning thrusters should not be right next to each other and winced. Jace's jacket flapped in a wind that did not exist.
 
 "Something is coming," Sophia said.
 
-"It is Sparky. Catch him."
+"Its Sparky. Catch him."
 
 "He is moving too fast."
 
@@ -394,19 +405,19 @@ Jace sat down on the edge of the launch cradle because his legs stopped supporti
 
 Her voice remained weak, but it belonged to her again.
 
-She pulled on the jacket. It hung loose over her coat. Sparky hovered beside her, one thruster firing in nervous taps. He had turned on a light, which helped Jace see them.
+She pulled on the jacket. It hung loose over her coat. Sparky hovered beside her, one thruster firing in nervous taps. Jace turned on a light which helped with positioning. He had been worried about transmission distance, but with no interference anywhere nearby, there were no problems.
 
-"Tell him to retrace the route," Jace said. "Return to sender."
+"I'll try to retrace the route," Jace said. "Return to sender."
 
-"That shouldn't work. It makes no sense."
+"Walking shouldn't work. It makes no sense." She sounded terrified.
 
 "Do your best."
 
 Sophia and Sparky ran.
 
-The robot rolled on nothing when his thrusters lost their reference. Sophia followed his green light. Sometimes both moved so slowly that Fortuna seemed to drag away from them. Sometimes their bodies elongated together and the distance collapsed in a single impossible stride.
+The robot rolled on nothing when his thrusters lost their reference. Sophia followed his light. Sometimes both moved so slowly that Fortuna seemed to drag away from them. Sometimes their bodies elongated together and the distance collapsed in a single impossible stride.
 
-Jace guided them by radio.
+Jace guided them by radio; her via voice, sparky via controller.
 
 "Left. Your other left. Towards where we will be."
 
@@ -418,7 +429,7 @@ Jace guided them by radio.
 
 "That is rude."
 
-"I will die politely."
+"Sorry if I am impolite as I die."
 
 "You stopped dying when you got the bottle."
 
@@ -428,15 +439,15 @@ Sophia crossed the last stretch beneath the station.
 
 She did not arrive at the launchpad. She arrived below it, separated from the nearest cradle by thirty meters of open Astral space. Sparky fired all three thrusters and rose. Sophia held his cargo clip.
 
-The robot lifted her a few meter, but didn't have enough thrust to go higher.
+The robot lifted her a few meters, but didn't have enough thrust to go higher. A red light blinked on his chasis. The battery was almost out. Jace swore, they didn't have a charger, and he'd left Sparky on for a long time.
 
 Then both sank back onto the invisible road.
 
-Sparky's light flashed amber.
+Sparky's light went solid red.
 
 "He cannot lift me," Sophia said.
 
-"Let go. I will send him for a rope."
+"Let go. I'll find a rope."
 
 "How long?"
 
@@ -446,15 +457,11 @@ Jace looked behind him. The nearest physical emergency line was visible inside a
 
 "Jace."
 
-"Stay on the line. Sparky can bring the end down, just rest and follow the station."
+"Stay on the line. I'll toss something down. I have more air, I can get food. Just rest and follow the station. We'll solve this."
 
 "Jace, wait. There is something I did not tell you."
 
 He looked at her below the station.
-
-"This is a bad time for secrets."
-
-"I know."
 
 Sophia released Sparky.
 
@@ -472,9 +479,7 @@ Sparky drifted away beneath her, falling off into the distance.
 
 Sophia looked down, closed her fist, and pulled.
 
-The robot rose after her. It's lights flashed in error.
-
-His thrusters were off.
+The robot rose after her. It's light had gone out, but still it moved. The thrusters were off.
 
 Jace forgot to breathe.
 
@@ -542,7 +547,7 @@ They climbed Fortuna's spine slowly, still hovering in the zero gravity.
 
 Inside the station's structure when they crossed to the spinning wheels, Sophia's steps joined the broad movement lines again. The cold eased. Her hands began to hurt as feeling returned.
 
-Jace kept one hand on her arm. Sparky hovered on the other side with the empty bottle clipped beneath him.
+Jace kept one hand on her arm and carried Sparky on the other side with the empty bottle clipped beneath him.
 
 "Tell me what you saw," Jace said.
 
@@ -550,25 +555,25 @@ Sophia stared upward through the shaft.
 
 "I was mapping the doubled corridors and went down to Three and was following where it got colder there. There was movement inside the wall. At first I thought it was a construction drone. Tall, narrow, folded to fit between spaces. Then it stood."
 
-"Drones stand."
+"Like a construction drone?."
 
 "It had too many joints."
 
 "Some drones have many joints."
 
-"It turned before I made a sound and had knives."
+"It turned before I made a sound and had knives mounted to it's arms."
 
 Jace stopped pulling along the rail.
 
-"Did you see a face?"
+"Did you see a controller"
 
-"No. A shape. Two bright points. Red, perhaps. Then I stepped back too quickly and the station was gone."
+"No. A shape. Two bright points. Blinking red, perhaps. Then I stepped back too quickly and the station was gone."
 
-"We do not go back to Three."
+"We should not go back to Three."
 
 "You think it was one of those fighting robots you saw on the *Falcon*? Someone was hiding it here?"
 
-Jace just shrugged, thinking.
+Jace just shrugged, thinking of the hidden Chinese room in the construction zone.
 
 They reached Ring Two. The *Victoria's* Astral hull settled around them, incomplete but stable. The workbench, labels, and half-built instruments looked almost domestic.
 
@@ -628,9 +633,13 @@ Sophia leaned back against the wall, exhausted.
 
 "The crossing is not the magic," she said. "It is only where the magic was easiest to see."
 
-They had never before used the word magic before. Outside the room, Fortuna continued its long fall around the Sun.
+They had never before used the word 'magic' before. Outside the room, Fortuna continued its long fall around the Sun.
 
 Inside, Jace held a cup that had flown.
+
+"You should have told me."
+
+Sophia frowned.
 
 ## Contract coverage
 

@@ -300,7 +300,7 @@ Kim read the medical after action report twice.
 
 "Carlos first. You approve deployment. No AI's to build it, all human created and tested."
 
-"Write it as a proposal. Your permissions stay reduced."
+"Write it as a proposal. Your permissions stay reduced. We need 'forever fixes', not technical debt. Use simulators to test the ideas. The AI can create good simulators, but they don't create good routing exception plans."
 
 "Yes, ma'am."
 
@@ -314,33 +314,7 @@ The station directory accepted the call, estimated a delay, and waited. The conn
 
 DESTINATION DID NOT ACKNOWLEDGE. RETRY SCHEDULED.
 
-He sent Artemis a message anyway.
-
-Art, Fortuna says Metis missed the handshake. Let me know you are all right. Any answer is enough.
-
-He had sent a message to Earth a few hours earlier, and was slowly continuing the conversation. His parents sent a quick reply that everything was great. Over the next few hours, he had a delayed conversation with his younger sister who away from college but still on their group chat, depite the fifty minutes it took a message to make the round trip.
-
-Her hair was tied back, and a library wall filled the frame behind her. Athena was the opposite of their older sister; smart and expressive face, thick arms from being a college wrestler, long hair. Are you safe? Artemis has not answered me either. Mom and dad are worried but pretending not to be, and their son blowing up toilets isn't helping."
-
-"Hey sis, I'm good. It's hard, but I'm surviving. I'm trying Artie too, but nothing in a week or two."
-
-Her next reply caught him off guard, "Also, everyone here knows you are my brother now. We are all team Screwdriver, so that makes me a minor celebrity by association."
-
-His reply was short, "What?"
-
-"Queen Screwdriver? The Fortuna Pig Channel has replayed how you rescued her and her court approximately one billion times. You and Cerberus are famous."
-
-Jace rubbed his eyes. "Please do not let your friends make shirts."
-
-Athena send back a video of her looking offscreen again. "That request arrived several days too late. In other news, the administration cancelled two exchange seminars," Athena said. "One professor says the missing ships prove China is testing a new weapon. Another says the United States invented the disappearances to seize the stations. Neither one has left Earth in twenty years so what do they know. Are you at war with them?"
-
-"Do not get between groups looking for an audience."
-
-"That advice from you feels historically unsupported. Anyway, love you big bro. Say hi to Artie. She said she's comign to visit you soon and will make you pay for the pig butt. So, fair warning."
-
-Jace recorded his reply twice. The first version contained too much. The second contained nothing.
-
-"Thanks sis. I am safe. Work is busy. Cerberus is excellent. If Artemis answers you first, forward it immediately."
+He watched the blank delivery marker beside Artemis's name. She had said the Metis comm window was shifting. She had not answered since.
 
 Cerberus waited at his door when he returned, leaning his whole body against the panel as if physical pressure could make Jace arrive faster.
 

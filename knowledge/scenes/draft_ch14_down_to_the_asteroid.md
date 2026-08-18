@@ -8,7 +8,7 @@ scene_contract: X-00 follow-on + A-05
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: >
   After forty minutes of sleep, Jace submits to a medical check without
   disclosing the crossing, works his first surface shift, tours Factory Four
@@ -31,9 +31,16 @@ cross_references:
 
 # Chapter 14. Down to the Asteroid
 
-> *Most people do not know this, but the human brain can file almost anything under “I was tired.” Walking through walls. Pulling oxygen through solid metal. I wonder how many hallucinations caused by exhaustion over the years were actually real.*
+> *Athena: The university cancelled our Chinese exchange seminar. Half the campus says security. The other half says theater.*
 >
-> Jace Grant, *unpublished notes*
+> *Apollo: Theater.*
+>
+> *Artemis: What's wrong little brother? You seem grumpy today.*
+>
+> *Apollo: I met someone. We're having dinner. If no one ever hears from me again, tell mom and dad I love them.*
+>
+> *Athena: I thought only girls texted things like that.*
+>
 
 At 0530, {Alex} began his morning briefing.
 
@@ -127,7 +134,7 @@ Nick looked at Cerberus. The dog wagged his tail, curled beneath a shelf, instan
 
 Nick looked at Jace. Jace's eyes felt packed with sand.
 
-"Sure," Nick said. "Only the dog had a rough night."
+"Sure," Nick said. "Only the dog had a rough night. Right."
 
 The shuttle left at 0640.
 

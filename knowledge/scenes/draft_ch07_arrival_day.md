@@ -8,7 +8,7 @@ scene_contract: A-00b + A-01
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: >
   Jace arrives at Fortuna, meets a community that already knows him, sees the
   scale and strain of the station, and encounters Helena's absence as a physical
@@ -34,13 +34,15 @@ cross_references:
 
 # Chapter 7. Arrival Day
 
-> *Most people do not know this, but you can be famous on a station you have never visited. All it takes is four months, six pigs, two dogs, and one failure involving sewage. I recommend arriving anonymously.*
+> *Athena: Did you land? Send pig pictures.*
 >
-> Jace Grant, *Fortuna notes*
+> *Apollo: Ships do not land at Fortuna. We park, take the ship apart, and fling it at Fortuna who reverses the process.*
+>
+> *Athena: That sounds boring. Pig pictures please, something from behind the scenes.*
 
-The *Falcon* did not dock at Fortuna Station. She parked a kilometer away and began taking herself apart. Two large spinning disks any closer together would have been a recipe for disaster. They had spun down to zero gravity again.
+They had spun down to zero gravity again after Jace and every bot on the ship strapped everything they could think of down. Thousands of small things still floated everywhere until they could be secured.
 
-Cargo tugs crossed the gap in a steady line. Each tug locked onto one of the ship's thirteen-meter canisters, freed it from the ring, and carried it toward Fortuna's receiving central spire, where the spin could be matched and the canister attached to its new home. Some canisters would return to the *Falcon* after unloading to ship goods back in-system. Others had made their last voyage.
+Cargo tugs crossed the gap in a steady line. Each tug locked onto one of the ship's thirteen-meter canisters, freed it from the ring, and carried it toward the bottom of Fortuna's receiving central spire, where the spin could be matched and the canister attached to its new home. Some canisters would return to the *Falcon* after unloading to ship goods back in-system. Others had made their last voyage.
 
 Lanchee's clinic was one of those.
 
@@ -50,11 +52,11 @@ She floated beside Jace at the observation port while two tugs detached the cani
 
 "My home is moving," she said. "I prefer to supervise."
 
-Her opinion of him seemed to be decreasing every time they interacted. Luckily Fortuna had a second doctor. She'd probably appreciate if he avoided her in the future.
+Her opinion of him seemed to be decreasing every time they interacted. Luckily Fortuna had other doctors. She'd probably appreciate if he avoided her in the future.
 
 Maureen appeared at the passenger lock with a tablet under one arm and Siren floating near by. Jace noticed that Maureen was sneakily feeding her a treat.
 
-"Your repairs held," Maureen told Jace. "All of them. Patrick says 'good job'."
+"Your repairs held," Maureen told Jace. "All of them."
 
 From Maureen, this approached poetry.
 
@@ -66,13 +68,13 @@ From Maureen, this approached poetry.
 
 "Then do better work here."
 
-Jace almost told her about the... things. They were all gone now, but still.
+Jace almost told her about the invisible attack drones. They were all gone now, but still.
 
 She was the one person on this voyage who had watched him make an impossible call under pressure and turn out to be right about it. In a few days she would be gone, and the *Falcon* would not be back for a year. He would still be here. So would whatever had been in that spire.
 
 "Copy that," he said instead.
 
-She turned to the next manifest without offering a hand. Jace understood the gesture anyway. The *Falcon* would return next year. They would meet again, complain about the plumbing, and fondly recollect their adventures.
+She turned to the next manifest without offering a hand. Jace understood the gesture anyway. He might see her over the next week on Fortuna, and the *Falcon* would return next year. Maybe fondly recollect their adventures, maybe just nod in passing.
 
 That was enough.
 
@@ -104,17 +106,7 @@ Siren sat beside Mei. At some point between the *Falcon* and the tug and the ele
 
 The receiving bay was louder than the entire voyage. It was pressurized and the dogs turned their heads at every sound, as if watching a tennis match.
 
-Cargo alarms chimed. Tugs locked against the outer frame. Robots rolled through painted lanes with containers held above them. Five hundred people could fit aboard Fortuna during a busy docking window. It seemed all of them had chosen this one.
-
-Carlos waited beside customs in a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
-
-"You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
-
-He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
-
-"Ahh, the true celebrities. Sorry, my friends, but you are just not as interesting."
-
-"I noticed."
+Cargo alarms chimed. Tugs locked against the outer frame. Robots rolled through painted lanes with containers held above them. Scores of people and robots were unloading and moving things.
 
 Customs had three human officers, all old enough to treat retirement as a suggestion. An American man and Elder Sai checked Jace and Mei off on separate computers. The third officer, a broad Russian named Petroski, looked at each of them and nodded. He did not touch his terminal.
 
@@ -122,17 +114,17 @@ Their arrival had been planned for months. The inspection was a formality, but o
 
 "They have three humans just for a customs station?" Jace asked.
 
-The American looked bored. "International rules. I am a retired doctor of crystallography."
+The American looked bored. "International rules. I'd Dr. Johns... retired doctor of crystallography."
 
 Sai tapped her screen. "Agricultural systems."
 
-Petroski kept his hands behind his back. "Orbital structures. They lost at cards. I'm the only Russian on the station."
+Petroski kept his hands behind his back. "Orbital structures. They are here because they lost at cards. I'm the only Russian on the station and so the only true patriot of the first space empire from Earth."
 
 Jace looked at Petroski. "I thought Russia broke up into eight separate countries."
 
 "Eight *states*," Petroski said.
 
-"Aren't all of them claiming to be fully independent sovereign nations now?" the American asked, obviously needling his friend.
+"Aren't all of them claiming to be fully independent sovereign nations now?" the American Dr. Johns asked, obviously needling his friend.
 
 "Eight rambunctious states... experiencing sibling rivalries."
 
@@ -140,17 +132,25 @@ Jace looked at Petroski. "I thought Russia broke up into eight separate countrie
 
 Petroski replied without missing a beat. "Seven states and one on loan to an old friend of Mother Russia."
 
+The Chinese woman, Sai, asked "Did not America invade Canada the last time your party was in power?"
+
+Johns said "They asked to join!"
+
+Jace, Sai, Petroski, and even Cerberus looked at Dr. Johns with skeptical expressions.
+
+He dithered, "After some heated discussions, of course."
+
 Behind the customs desks, a mural showed an American flag carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat, and red floodlights shone over everything.
 
-The American customs officer straightened. "On behalf of the American Red Party, welcome to Fortuna."
+Johns straightened, clearly antsy to move on. "Anyway. On behalf of the American Red Party, welcome to Fortuna."
 
 The next mural held a large Chinese flag and a similar portrait of a round-faced leader.
 
 Sai finished checking Mei's name. "China welcomes you."
 
-Jace looked from one portrait to the other. "From this angle, I'm not seeing much difference."
+Jace looked from one portrait to the other. He wisely didn't make any comment comparing the two.
 
-Petroski snorted and walked away.
+Petroski just snorted and walked off.
 
 Mei did not smile.
 
@@ -174,25 +174,21 @@ One man kept three meters away and stared in horror as if everyone else had agre
 
 One compact woman wearing a drone-operations blue patch who had been chatting with Maureen took a single look at the dog, the crowd, and Jace. Her face tightened. She turned around and left.
 
-He also noticed a pale woman moving quickly across the far side of the bay. A bright scarf flashed at her throat, all red and green against gray station fabric. She carried no luggage and did not join the crowd. She looked tired, but vibrant.
+Carlos waited beside customs in a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
+
+"You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
+
+He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
+
+"Ahh, the true celebrities. Sorry, my friends, but you are just not as interesting."
+
+"I noticed."
 
 The domes of Mars had crowds, but not like this. Maybe it was the long, isolated trip, or maybe it was that the spin here was barely noticeable. It felt like Mars but more colorful and alive.
 
 Near the cargo lane, two short, heavily muscled Chinese men were laughing while struggling to carry a large container marked 'Ore', big and heavy enough that Jace could have ridden inside. Both wore mining harnesses. One caught Jace looking. The laughter stopped before Jace could look away, their faces going instantly somber. One actually glared at him.
 
-Then Carlos rescued him.
-
-Carlos wore a brown cardigan and a necktie. The tie was real fabric. It hung perfectly straight in one-third gravity.
-
-"You must be Jace and Mei," he said. "I am Carlos. Origin listed me as your sponsor of record. That means I show you where to sleep, where not to eat, and which rules everyone follows despite their absence from the rules."
-
-He offered one hand to Cerberus at nose level, and a matching one to Siren. The dogs both sniffed, then panted with excitement. Carlos nodded as if an inspection had concluded.
-
-"These are the famous ones."
-
-"I've noticed."
-
-"Mei, Elder Sai is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn."
+"Mei, your crew chief is meeting you near the barn. She said she has your room ready. Jace, your room is already booked at the boring inn."
 
 "There's more than one inn?"
 
@@ -200,7 +196,7 @@ He offered one hand to Cerberus at nose level, and a matching one to Siren. The 
 
 "Origin chose it?"
 
-"I chose it. Origin would have assigned you to whichever charged them the slowest."
+"I chose it. Origin would have assigned you to whichever billed them the slowest."
 
 Carlos walked them through locks and through side corridors into Ring Two. Just the novelty of having side passages was glorious.
 
@@ -212,17 +208,19 @@ Carlos looked up. "It's an old agreement that the U.S. signed. All signs on an A
 
 "I thought this was an international station?"
 
-"Technically. But in reality, it's an Origin station. They paid half of the trillion dollars spent building it. America paid a fifth; all of us co-op together to own the rest. We mostly use Tokens, but you can use old dollars if you want."
+"Technically. But in reality, it's an Origin station. They paid half of the trillion dollars spent building it. America also paid a fifth; all of us co-op together to own the rest. We mostly use Tokens, but you can exchange old dollars if you want."
+
+They rode the lift up to ring One, the oldest of the rings.
 
 Shops filled permanent walls between older canisters. Children cut across robot lanes and got scolded by humans and machines at the same time. Emergency masks sat behind clear panels every few meters. Jace noticed most people had one clipped to their belt just like he did, though not everyone.
 
 "How long is each ring?" Jace asked.
 
-"About fifteen minutes on foot, if no one stops you and all the doors are unsealed. Ring Three is only half walkable. Construction crews have the rest blocked off."
+"About fifteen minutes on foot, if no one stops you and all the doors are unsealed. Double that in reality. Ring Three is only half walkable. Construction crews have the rest blocked off."
 
 "The *Falcon* was only one corridor."
 
-"I rode the Dart up when I was a lad, similar design. Here you can get lost without changing decks. Progress."
+"I rode the *Dart* up when I was a lad, similar design. Here you can get lost without changing decks. And the lifts are usually master than stairs, but not always. Progress."
 
 They passed a wall mosaic built from old station plates. Tarnished bronze lettering listed the founding partner countries and companies involved in making the station.
 
@@ -236,7 +234,7 @@ Below the original shares, a newer panel showed the present council. A.I. repres
 
 "How many people on the station?"
 
-"Depends what ships are docked. Miners are constantly coming and going, and people are always heading down to the asteroid. Usually 400, sometimes less, more during a party."
+"Depends what ships are docked. Miners are constantly coming and going, and people are always heading down to the asteroid. Usually five hundred, frequently less, more during a party."
 
 Carlos kept walking.
 
@@ -258,54 +256,31 @@ The Foundry came next. Its main bay could have swallowed the *Falcon's* forge. P
 
 "Does she like people?"
 
-"I've worked closely with her for 15 years. The evidence remains under review."
+"I've worked closely with her for fifteen years. The evidence remains under review. Drone ops is here, we'll come back after the barn."
 
-The bakery shopfront appeared just before the Barn, set into the warm agricultural block. Yeast and browned sugar reached them before the sign did. Behind the glass, three compact robots measured dough, loaded ovens, and carried cooling trays. A broad man with forearms like pressure pipes stood at a wooden table, rolling dough by hand. Rows of iced flowers waited for him to add their final details.
+He turned them into abakery shopfront. Yeast and browned sugar smells reached them before the sign did. Behind the glass, three compact robots measured dough, loaded ovens, and carried cooling trays. A broad man with forearms like pressure pipes stood at a wooden table, rolling dough by hand. Rows of iced flowers waited for him to add their final details.
 
-Carlos stopped.
+The baker saw Carlos through the glass and came out carrying wrapped cookies. He was very tall, taller than Jace, wider through the shoulders, and dusted with flour from chest to elbows. He stood close enough to Carlos that their sleeves touched and straightened the knot of Carlos's tie with one thick finger.
 
-"Two minutes," he said.
-
-The baker saw him through the glass and came out carrying two wrapped cookies. He was taller than Jace, wider through the shoulders, and dusted with flour from chest to elbows. He stood close enough to Carlos that their sleeves touched and straightened the knot of Carlos's tie with one thick finger.
-
-"You skipped breakfast again," he said.
-
-"I am conducting an arrival tour. Jace, Mei, this is my husband, Mateo Alvarez. Mateo, these are the new animal specialists."
-
-"Delivery support," Jace said.
-
-"Today," Carlos said.
+"Mateo, these are the specialists."
 
 Mateo handed Mei a cookie decorated as a white rabbit. Jace received a lopsided brown dog with three heads.
 
-"The robots mix, portion, and watch the ovens," Mateo said, following Jace's look through the window. "They are better at repetition. I roll and decorate. A machine can make ten thousand identical flowers. That is not why anyone buys one."
+"The robots mix, portion, and watch the ovens," Mateo said, following Jace's look through the window. "They are better at repetition. I roll and decorate. A machine can make ten thousand identical flowers. That is not why anyone buys cookies."
 
-Carlos tapped his bracelet against the shop reader.
+At the next table, a woman asked, "Mateo, is that cake ready? Thanks. {Aura}, please send payment."
 
-At the next table, a woman in flour-streaked coveralls touched two fingers to a
-thin display wrapped around her wrist. "{Aura}, tell my sister I found the orange
-icing, but do not send the picture until I fix the ears."
+The bracelet answered in her own voice, pitched slightly lower. "Piad and you asked me to remind you to print forks for the kids. I ordered them and a candlewhich should be here shortly."
 
-The bracelet answered in her own voice, pitched slightly lower. "Drafted. The ears
-remain open to interpretation."
+A short delivery bot rolled up, and opened with a small bag of utensils that the woman took and left with a wave and a delicious-smelling cake.
 
-She snorted and went back to decorating.
+Carlos continued them on, snacking on a cookie of his own and taking the stairs down to Two.
 
-"You do not charge family," Mateo said.
-
-"These are for my tour. Therefore, business expense."
-
-Mateo leaned closer and said something too quiet for Jace to hear. Carlos's expression did not change, but the tips of his ears did. Then Mateo returned to his table and a waiting field of unfinished flowers.
-
-Mei bit into the rabbit. Jace followed. The cookie contained real butter.
-
-For several seconds, neither of them spoke.
-
-"Fortuna has advantages," Carlos said, and resumed walking.
+##
 
 The Barn smelled warm before the doors opened.
 
-Nearly a thousand chickens filled tiered runs beyond the first biosecurity gate. Carlos said they produced enough eggs for the station, with margin for every nearby ship on good weeks. Goats climbed low frames. Sheep occupied a long exercise lane. Rabbits moved through stacked habitats. The *Falcon's* livestock had been precious because there were fifty-four animals aboard. Fortuna held hundreds, each backed by feed plans, breeding records, and redundant air.
+Nearly a thousand chickens filled tiered runs beyond the first biosecurity gate. Carlos said they produced enough eggs for the station, with margin for every nearby ship on good weeks. Goats climbed low frames. Sheep occupied a long exercise lane. Rabbits moved through stacked habitats. The *Falcon's* livestock had been precious because there were fifty-four animals aboard. Those would slowly be joined with Fortunas herds.
 
 Mei stood at the entry gate, her single bag still over one shoulder.
 
@@ -317,6 +292,8 @@ Cerberus lunged forward and touched his nose to hers. They circled each other, t
 
 Cerberus gave one soft whine.
 
+##
+
 Nearby was a cozy door to a living pod, styled and painted with flowers in a window box. Hanging outside on a hook was a jacket.
 
 Green fabric. Worn cuffs. A small flower stitched into the collar. Every hook around it carried daily work gear. No one had touched hers.
@@ -325,7 +302,7 @@ Green fabric. Worn cuffs. A small flower stitched into the collar. Every hook ar
 
 Jace looked at the hook, then at the access panels along the wall. Solid metal. Pressure seals. Cameras. No way out without a record.
 
-He thought about eggs no camera could see.
+He thought about ouches no camera could see and drones that dissapearent through steel.
 
 "Has anyone checked behind the walls?"
 
@@ -341,27 +318,23 @@ Carlos confirmed Jace's morning check-in, then left to head back to work.
 
 The room Carlos had booked contained a raised bed, a desk, a private washstand, and enough floor space for Cerberus to turn around without hitting furniture. Jace checked the daily deduction in his HUD.
 
-"What is the cheapest room you have?" he asked.
+"So, Origin's paying for the room, but nothing else. Any chance you have a smaller room that also includes amenities; at the same price to Origin of course?" he asked.
 
 The innkeeper looked at the balance Jace had tried to close too quickly.
 
-"This is the cheapest room Origin books," he said.
+The innkeeper took back the key. He led Jace to a room at the end of the corridor. It had a floor mattress, a dresser, and about three square feet of floor where a dog potty pad might go. No washroom or laundry or kitchen.
 
-"That was not my question."
-
-The innkeeper took back the key. He led Jace to a room at the end of the corridor. It had a floor mattress, a dresser, and nothing else. The washroom was shared. Cerberus could cross the entire room in two steps.
-
-The rate left Jace enough for two real cafeteria meals each day.
+"Perfect."
 
 ##
 
 The cafeteria occupied the next block. Jace took a bowl of the free 'contractor soup'. It was gray and warm and tasted like water sprinkled with protein powder and sadness.
 
-He had taken three spoonfuls when a shadow crossed the table.
+He had eaten three spoonfuls when a shadow crossed the table.
 
 "Stand up," a familiar voice said. "I need to see this in person."
 
-Nick Lee stood almost five feet tall. He wore viz glasses, keyboard gloves, pearl earrings, and green hair that looked freshly coifed.
+Nick Lee stood almost five feet tall. He wore viz glasses, keyboard gloves, pearl earrings, and green hair that looked freshly coifed. His overalls were styled with a thousand small rhinestones.
 
 Jace stood.
 
@@ -371,9 +344,9 @@ Nick looked up. Then farther up.
 
 "You are... the size of the mech you made me."
 
-"There it is. Now you know why I'm up here. They say low gravity makes you a few inches taller."
+"There it is. Now you know why I'm up here. They say low gravity stretches you a few inches because of the less pressure on your spine."
 
-Nick crouched beside Cerberus and produced a stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
+Nick crouched beside Cerberus and produced a hand-stitched stuffed pig from his bag. It was pink, lopsided, and unmistakably Screwdriver.
 
 Cerberus sniffed and accepted it, ran two circles around the table, and lay down with the pig under his chest, his tail thumping as if they were instant best friends.
 
@@ -385,7 +358,7 @@ Nick slid onto the bench opposite Jace.
 
 "Both, probably. That is why the story works."
 
-Jace looked across the cafeteria. Hundreds of people. Every table carried a conversation, a history, or a silence he had not learned yet.
+Jace looked across the cafeteria. Dozens of people. Every table carried a conversation, a history, or a silence he had not learned yet.
 
 Beyond the doors, Helena's jacket waited on its hook.
 

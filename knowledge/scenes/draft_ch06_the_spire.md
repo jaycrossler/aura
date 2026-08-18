@@ -9,7 +9,7 @@ rewrites: event_t_spire_eggs.md
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: >
   Two days before Fortuna, Jace follows a waking perception bleed into the
   Falcon's central spire. He finds two eggs, kills one hatchling, loses the
@@ -28,9 +28,17 @@ cross_references:
 
 # Chapter 6. The Spire
 
-> *Most people do not know this, but a spin ship's quietest places are the ones nearest its spine, which we call the 'spire'. Less spin. Less gravity. Less noise. I used to think that meant less of everything.*
+> *Artemis: I never thought I'd be related to a celebrity*
 >
-> Jace Grant, *Falcon* transit logs
+> *Apollo: Yeah, they sent me 150 tokens for my time on screen.*
+>
+> *Athena: You had like a bajillion views. Only that?*
+>
+> *Apollo: Technically, Origin owns publicity rights and they own all profits I make. I think they felt sorry for me so they added that to my spending account. Which now has a total of 150 tokens in it. Which I'll use to buy dog food from them.*
+>
+> *Athena: I'm definately switching to major in Corporate Financial AI Oversight.*
+>
+> *Artemis: That's an entire degree program now?*
 
 Two nights after the canister launch, Jace dreamed that the *Falcon* had veins.
 

@@ -8,7 +8,7 @@ scene_contract: T-03a + T-03b + T-03c
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: "Jace repairs the Falcon while suffering an unexplained post-crisis illness, then Alex fines him for the successful but prohibited argon maneuver."
 cross_references:
   - "[[arc_01_thread_T_transit]]"
@@ -22,17 +22,28 @@ cross_references:
 
 # Chapter 4. The Morning After
 
-> *Most people do not know this, but corporate A.I.s are incapable of malice. I want to be clear that this is not a compliment.*
-> - Jace Grant, *Falcon* transit logs
+> *Athena: Mom saw the explosion clip. She was really scared.*
+>
+> *Apollo: It looked much worse on video, I'm sure.*
+>
+> *Artemis: Do you just hate following oreders from AI? That's twice.*
+>
+> *Athena: Dad wants to know why this family cannot get through one birthday without property damage.*
+>
+> *Apollo: Ask Artemis who blew up the barn loft.*
+>
+> *Artemis: Classified.*
 
 <!-- beat:t03_morning_after.beat1_illness_and_repairs -->
 Jace woke feeling like someone had replaced his blood with warm sand.
 
 His arms shook when he pushed himself upright. Nausea rolled through him without committing to a direction. Heat pressed behind both eyes, deeper than the familiar coal from his HUD headaches. When he stood, every joint reported that it had worked the crisis without consulting him. Must be the shock of a gallon of adrenaline wearing off all at once.
 
-Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest, then planted his warm belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of the short fur.
+Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest, then planted his warm belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of short tan fur.
 
-"Ugh. Excellent medical response."
+"Ugh. I'm awake. Yes, breakfast, I'm late. Thanks for your understand."
+
+##
 
 Dr. Lanchee scanned him in the corridor, and she was not gentle about it.
 

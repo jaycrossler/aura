@@ -8,7 +8,7 @@ scene_contract: A-04
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: >
   Jace joins Torres on a three-day survey run, learns the true emptiness of the
   belt, finds an asteroid stripped of metal, and returns to Fortuna with data
@@ -25,9 +25,11 @@ cross_references:
 
 # Chapter 11. The Empty Rocks
 
-> *Most people do not know this, but the asteroid belt is a lie told by diagrams. The rocks in the pictures are neighbors. The rocks in reality live a million kilometers apart and prefer it that way.*
+> *Apollo: Three-day survey run. The relay may be slow.*
 >
-> Jace Grant, *Fortuna notes*
+> *Artemis: Keep the raw assay files, I hear origin likes to skimp on any payouts.*
+>
+> *Athena: You guys are so boring. Aren't there any crazy parties up there or something? Don't either of you have a social life?*
 
 Jace left Cerberus at the Barn at 0540.
 
@@ -145,13 +147,13 @@ They tried it anyway. {SpoX} was right. It took hours, but they only scraped up 
 
 "I have notified {Alex} that Origin industries is the proud new owner of 7200 Tokens worth of nickle particulates. Your accounts have been credited 360 Tokens each."
 
-Torres just grunted. Jace fought to hide his elation. That was food money for a month. 
+Torres just grunted. Jace fought to hide his elation. That was food money for a month. He took a note on his HUD to buy Cerberus an egg as a present.
 
-They went through ten more, following a path {SpoX} laid out from science, heuristics, and prayers. Jace recovered most of the drones. They used each one until it was too damaged to function, its sensors froze, or solar and ultraviolet exposure forced them to replace it.
+They went through ten more asteroids, following a path {SpoX} laid out from science, heuristics, and prayers. Jace recovered most of the drones. They used each one until it was too damaged to function, its sensors froze, or solar and ultraviolet exposure forced them to retire it.
 
 Every target expanded Fortuna's map. Most produced nothing else. Hundreds of scans would eventually build a pattern, and {SpoX} was quietly predicting the best options. No more minerals were recovered.
 
-If only the rocks were as close as in video games, they'd be rich.
+If only the rocks were as close or as metal-packed as in video games, they'd be rich.
 
 ##
 
@@ -203,9 +205,9 @@ Floodlights crossed the asteroid.
 
 The surface carried deep grooves.
 
-They were not impact scars. Long parallel channels wrapped around the body like thread around a spool. Each measured several meters deep. Their walls stayed too clean. Their spacing stayed too regular.
+They were not impact scars. Long parallel channels wrapped around the body like thread around a spool. Each measured several meters deep. Their walls stayed too clean. Their spacing stayed too regular. Like a giant scooping drill had scratched out a channel.
 
-Jace sent his last three bots into the nearest channel.
+Jace sent his last three bots into the nearest crevice.
 
 The plume assay returned no iron.
 
@@ -299,13 +301,13 @@ No answer came.
 
 Jace read it twice. Nothing in it was false. Nothing in it was reassuring either.
 
-He pulled up the ThoughtWalker app. Words were showing with high correlation numbers but "Thief", "Sabotage", and "Anomaly" were at the top.
+The ThoughtWalker app showed words with high correlation numbers but "Espionage", "Sabotage", and "Anomaly" were at the top.
 
 He did not reply.
 
 ##
 
-They returned to Fortuna on the third day. Jace returned to the Barn before he reported to his room.
+They returned to Fortuna on the third day. Jace went to the Barn before he reported to his room.
 
 Cerberus hit him at speed, thirty-five pounds of dog using one-third gravity as a weapon. Jace caught him against the chest while the dog somehow nibbled and licked his nose at the same time. Siren arrived a step later and pressed against his leg.
 
@@ -342,6 +344,6 @@ Across the animal pens, nearly a thousand chickens began screaming at once.
 | Torres becomes physically ill and insists on leaving | done |
 | One bot is lost after an ambiguous visual anomaly | done |
 | {SpoX} produces a contradictory resource classification | done |
-| Artemis becomes unreachable | done |
+| Survey relay cannot reach Artemis | done |
 | Jace recognizes the external station view from a prior dream | done |
 | Return escalates animal sensitivity and station instability | done |

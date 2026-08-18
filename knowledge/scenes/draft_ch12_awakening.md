@@ -112,12 +112,7 @@ Jace lay still until both of them could breathe.
 
 His own cartridge showed fourteen minutes of emergency air. He had used it on the survey mission, come home exhausted, and fallen asleep without refilling it. Cerberus's fuller cartridge showed about one hundred.
 
-Every spacer canister had the same recessed transfer valve on its bottom. Jace
-pulled the short equalization hose from the mask harness, snapped it between the
-two valves, and cracked Cerberus's side first. Gas hissed from the dog's canister
-into his. This was ordinary spacer gear, the kind of maneuver children learned in
-their first pressure drill. It only felt extraordinary because Jace's hands would
-not stop shaking.
+Every spacer canister had the same recessed transfer valve on its bottom. Jace pulled the short equalization hose from the mask harness, snapped it between the two valves, and cracked Cerberus's side first. Gas hissed from the dog's canister into his. This was ordinary spacer gear, the kind of maneuver children learned in their first pressure drill. It only felt extraordinary because Jace's hands would not stop shaking.
 
 He closed both valves at fifty minutes for himself and left the rest for Cerberus. Enough to look for help without stealing the dog's reserve. They were estimates only, a fact that scared him more than he would admit.
 
@@ -141,11 +136,11 @@ Stroke. Radiation damage. Implant failure. Oxygen deprivation. A seizure shared 
 
 None explained the room.
 
-He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away.
+He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away. He could see eveything around him. *Everything.* Ring Two and Three below. People walking. The asteroid. The sun.  Walls were transparent...ish. But also solid. But also he could see the wires and pipes inside them.
 
 Jace stood, holding Cerberus against his chest, and pressed the hatch control.
 
-His hand sank through it.
+His hand sank through it. He could see siwtches, motors, actuators, wires. His fingers were solid. And cold.
 
 He jerked back.
 
@@ -175,7 +170,7 @@ Jace stared at it.
 
 "We walked through a wall."
 
-Cerberus shoved his nose against the mask seal.
+Cerberus shoved his nose against the mask seal. He and Jace were the only real things here. Everything else was spectral, blue, fractal.
 
 Jace adjusted it to improve the airflow. He found that the masks that helped them breathe at night worked very well if you felt the urge to hyperventilate.
 
@@ -233,15 +228,15 @@ Jace crouched in front of it.
 
 The robot continued forward.
 
-His hand passed through the shell. The resistance felt different from the door. Finer. Dense. Complex.
+His hand passed through the shell. The resistance felt different from the door. Finer. Dense. Complex. He could see cables, motors, sensors, lenses. A complex dancing glow where it's processor was. 
 
 The robot rolled through his arm and kept cleaning.
 
-Cerberus turned his head and stared into a wall. Jace followed his gaze and saw only layered cable runs, ducts, and metal that no longer agreed on where it ended.
+Cerberus turned his head and stared into a wall. Jace followed his gaze and saw only layered cable runs, ducts, and metal that no longer agreed on where it ended. People were behind it. Through it, under and above it on other decks and in other rings. 
 
 "Cafeteria. Now."
 
-The food zone looked bright through three bulkheads. Air moved in visible rivers. Heat rose from machines that existed beside Jace but not with him.
+The food zone looked bright through three bulkheads. Air moved in visible rivers. Heat rose from machines that existed beside Jace but not with him. Trees and plants were bright as they passed.
 
 He pushed through the final door.
 
@@ -255,7 +250,7 @@ No response.
 
 Jace stood in front of him.
 
-Jace whispered insistently in the pilot's ear, "Torres!"
+Jace whispered insistently in the pilot's ear, "*Torres*"
 
 The pilot lifted another bite.
 
@@ -265,7 +260,7 @@ At a corner table, a woman strained against empty air.
 
 She did not glow.
 
-She looked solid. Sharp. Present in the same way Jace felt present. A bright scarf hung loose around her neck. Sweat darkened her hairline. Both arms shook as she pulled on something he could not see.
+She looked solid. Sharp. Present in the same way Jace felt present. A bright scarf hung loose around her neck. Sweat darkened her hairline. Both arms shook as she pulled on something he could not see. She looked cold.
 
 Jace recognized the pale woman from the receiving bay.
 

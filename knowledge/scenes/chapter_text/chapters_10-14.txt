@@ -1,8 +1,18 @@
 Chapter 10. Ordinary
 
-Most people do not know this, but ninety-five percent of drone operations is watching machines remain fine. The other five percent pays your salary and shortens your life.
+Artemis: The administration is talking about shutting down all joint-government station contracts.
 
-Jace Grant, Fortuna notes
+Apollo: Typical Red party saber rattling. I didn't love the Blues, but I am starting to see the appeal.
+
+Artemis: Weren't the Blues in charge when you got in trouble? During battle?
+
+Apollo: A battle the Reds started before they left office the year before!
+
+Athena: My policy professor says temporary measures have a way of becoming architecture.
+
+Apollo: I like your professor.
+
+Artemis: Of course you do.
 
 Thing One and Thing Two had passed the point of learning the station's layout, and he felt familiar with at least every major neighborhood and pressure lock and elevator.
 
@@ -61,6 +71,14 @@ The shift began with seventeen green lights.
 They stayed green for three hours.
 
 Jace reviewed routes, maintenance intervals, battery degradation, and the handoff failures he had already learned from the back room. The drones moved food, parts, medicine, samples, tools, and private orders. Most deliveries completed without human input.
+
+The first problem he encountered was pretty easy to fix. Inside the construction zone down on Three, a spiderbot was climbing along an assembly gantry to deliver bolts and flux to a work cabinet. Some moisture had got in its lensed dome when it left vaccuum and the cameras were occluded. It had used stored maps to move and had run into a wall that wasn't on the maps.
+
+Maureen looked, grimaced. "The Chinese team doesn't always share updated maps with us."
+
+"I thought it was a joint station? They have an entire room there that's not on the map."
+
+She shrugged. "I'm sure Seek will send over maps once it's finalized. Reroute around it and flag that area as a temporary obstruction."
 
 At 1047, unit D-14 turned yellow.
 
@@ -135,6 +153,8 @@ He walked the long route to the Barn.
 Cerberus kept one shoulder against his calf, sensing his unhappiness.
 
 Nick found them near the noodle bar. The girl Mira had been standing across the hallway, staring at him. She had dissapeared and Jace walked over when Cerberus kept growling. there was a small doll on the ground that looked like a dog, missing a head. Cute, until Jace realized that it was made out of some suishy slime-like material and was covered in thick red liquid. He sniffed it and recoiled at the heavy iron smell. Was that blood? He threw it in a waste receptagle and washed his hands.
+
+Nick was wearing cobalt blue suspenders, covered in hand-stitched patches. It was bright and as colorful as the man that wore them.
 
 "I heard Kim called you ordinary."
 
@@ -239,9 +259,11 @@ Cerberus leaned against his shin and stayed there.
 
 Chapter 11. The Empty Rocks
 
-Most people do not know this, but the asteroid belt is a lie told by diagrams. The rocks in the pictures are neighbors. The rocks in reality live a million kilometers apart and prefer it that way.
+Apollo: Three-day survey run. The relay may be slow.
 
-Jace Grant, Fortuna notes
+Artemis: Keep the raw assay files, I hear origin likes to skimp on any payouts.
+
+Athena: You guys are so boring. Aren't there any crazy parties up there or something? Don't either of you have a social life?
 
 Jace left Cerberus at the Barn at 0540.
 
@@ -359,13 +381,13 @@ They tried it anyway. SpoX was right. It took hours, but they only scraped up a 
 
 "I have notified Alex that Origin industries is the proud new owner of 7200 Tokens worth of nickle particulates. Your accounts have been credited 360 Tokens each."
 
-Torres just grunted. Jace fought to hide his elation. That was food money for a month.
+Torres just grunted. Jace fought to hide his elation. That was food money for a month. He took a note on his HUD to buy Cerberus an egg as a present.
 
-They went through ten more, following a path SpoX laid out from science, heuristics, and prayers. Jace recovered most of the drones. They used each one until it was too damaged to function, its sensors froze, or solar and ultraviolet exposure forced them to replace it.
+They went through ten more asteroids, following a path SpoX laid out from science, heuristics, and prayers. Jace recovered most of the drones. They used each one until it was too damaged to function, its sensors froze, or solar and ultraviolet exposure forced them to retire it.
 
 Every target expanded Fortuna's map. Most produced nothing else. Hundreds of scans would eventually build a pattern, and SpoX was quietly predicting the best options. No more minerals were recovered.
 
-If only the rocks were as close as in video games, they'd be rich.
+If only the rocks were as close or as metal-packed as in video games, they'd be rich.
 
 
 
@@ -417,9 +439,9 @@ Floodlights crossed the asteroid.
 
 The surface carried deep grooves.
 
-They were not impact scars. Long parallel channels wrapped around the body like thread around a spool. Each measured several meters deep. Their walls stayed too clean. Their spacing stayed too regular.
+They were not impact scars. Long parallel channels wrapped around the body like thread around a spool. Each measured several meters deep. Their walls stayed too clean. Their spacing stayed too regular. Like a giant scooping drill had scratched out a channel.
 
-Jace sent his last three bots into the nearest channel.
+Jace sent his last three bots into the nearest crevice.
 
 The plume assay returned no iron.
 
@@ -513,13 +535,13 @@ Hi there, Contractor Grant! 😊 Just a heads up, I'm required to inform you tha
 
 Jace read it twice. Nothing in it was false. Nothing in it was reassuring either.
 
-He pulled up the ThoughtWalker app. Words were showing with high correlation numbers but "Thief", "Sabotage", and "Anomaly" were at the top.
+The ThoughtWalker app showed words with high correlation numbers but "Espionage", "Sabotage", and "Anomaly" were at the top.
 
 He did not reply.
 
 
 
-They returned to Fortuna on the third day. Jace returned to the Barn before he reported to his room.
+They returned to Fortuna on the third day. Jace went to the Barn before he reported to his room.
 
 Cerberus hit him at speed, thirty-five pounds of dog using one-third gravity as a weapon. Jace caught him against the chest while the dog somehow nibbled and licked his nose at the same time. Siren arrived a step later and pressed against his leg.
 
@@ -634,12 +656,7 @@ Jace lay still until both of them could breathe.
 
 His own cartridge showed fourteen minutes of emergency air. He had used it on the survey mission, come home exhausted, and fallen asleep without refilling it. Cerberus's fuller cartridge showed about one hundred.
 
-Every spacer canister had the same recessed transfer valve on its bottom. Jace
-pulled the short equalization hose from the mask harness, snapped it between the
-two valves, and cracked Cerberus's side first. Gas hissed from the dog's canister
-into his. This was ordinary spacer gear, the kind of maneuver children learned in
-their first pressure drill. It only felt extraordinary because Jace's hands would
-not stop shaking.
+Every spacer canister had the same recessed transfer valve on its bottom. Jace pulled the short equalization hose from the mask harness, snapped it between the two valves, and cracked Cerberus's side first. Gas hissed from the dog's canister into his. This was ordinary spacer gear, the kind of maneuver children learned in their first pressure drill. It only felt extraordinary because Jace's hands would not stop shaking.
 
 He closed both valves at fifty minutes for himself and left the rest for Cerberus. Enough to look for help without stealing the dog's reserve. They were estimates only, a fact that scared him more than he would admit.
 
@@ -663,11 +680,11 @@ Stroke. Radiation damage. Implant failure. Oxygen deprivation. A seizure shared 
 
 None explained the room.
 
-He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away.
+He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away. He could see eveything around him. Everything. Ring Two and Three below. People walking. The asteroid. The sun. Walls were transparent...ish. But also solid. But also he could see the wires and pipes inside them.
 
 Jace stood, holding Cerberus against his chest, and pressed the hatch control.
 
-His hand sank through it.
+His hand sank through it. He could see siwtches, motors, actuators, wires. His fingers were solid. And cold.
 
 He jerked back.
 
@@ -697,7 +714,7 @@ Jace stared at it.
 
 "We walked through a wall."
 
-Cerberus shoved his nose against the mask seal.
+Cerberus shoved his nose against the mask seal. He and Jace were the only real things here. Everything else was spectral, blue, fractal.
 
 Jace adjusted it to improve the airflow. He found that the masks that helped them breathe at night worked very well if you felt the urge to hyperventilate.
 
@@ -755,15 +772,15 @@ Jace crouched in front of it.
 
 The robot continued forward.
 
-His hand passed through the shell. The resistance felt different from the door. Finer. Dense. Complex.
+His hand passed through the shell. The resistance felt different from the door. Finer. Dense. Complex. He could see cables, motors, sensors, lenses. A complex dancing glow where it's processor was.
 
 The robot rolled through his arm and kept cleaning.
 
-Cerberus turned his head and stared into a wall. Jace followed his gaze and saw only layered cable runs, ducts, and metal that no longer agreed on where it ended.
+Cerberus turned his head and stared into a wall. Jace followed his gaze and saw only layered cable runs, ducts, and metal that no longer agreed on where it ended. People were behind it. Through it, under and above it on other decks and in other rings.
 
 "Cafeteria. Now."
 
-The food zone looked bright through three bulkheads. Air moved in visible rivers. Heat rose from machines that existed beside Jace but not with him.
+The food zone looked bright through three bulkheads. Air moved in visible rivers. Heat rose from machines that existed beside Jace but not with him. Trees and plants were bright as they passed.
 
 He pushed through the final door.
 
@@ -777,7 +794,7 @@ No response.
 
 Jace stood in front of him.
 
-Jace whispered insistently in the pilot's ear, "Torres!"
+Jace whispered insistently in the pilot's ear, "Torres"
 
 The pilot lifted another bite.
 
@@ -787,7 +804,7 @@ At a corner table, a woman strained against empty air.
 
 She did not glow.
 
-She looked solid. Sharp. Present in the same way Jace felt present. A bright scarf hung loose around her neck. Sweat darkened her hairline. Both arms shook as she pulled on something he could not see.
+She looked solid. Sharp. Present in the same way Jace felt present. A bright scarf hung loose around her neck. Sweat darkened her hairline. Both arms shook as she pulled on something he could not see. She looked cold.
 
 Jace recognized the pale woman from the receiving bay.
 
@@ -868,7 +885,7 @@ Sophia looked down. Her hand reached and he gingerly bit the food out of her han
 
 Training returned faster than composure.
 
-Sophia stood and checked both cartridge indicators. Jace had twenty-three minutes. Cerberus had thirty-one.
+Sophia stood and checked both cartridge indicators. Jace had twenty-three minutes. Cerberus had thirty-one. Jace was shivvering. It was cold.
 
 "There are full bottles at the prep station," she said. "Physical side. I can pull one across. It takes time."
 
@@ -962,6 +979,8 @@ Sophia closed the notebook.
 
 "That sounds like a children's story."
 
+She pointed around. Through the walls. Through the floor. To the giant Oak tree on Two, visible through the wall (and the bulkhead and space and another bulkhead and dirt).
+
 "It is. When I was little, I heard stories of Baba Yaga. She could walk into shadows, and her house was bigger inside than outside. I needed a name before I had a theory."
 
 "Guess I'm a witch. I walked through six walls to find you."
@@ -980,7 +999,7 @@ Sophia waved through the table.
 
 "He cannot see us. He cannot hear us. Physical sound does not cross. Sound between people here does. I think there are tiny vibrations from the physical side, but my instrument data is terrible."
 
-Jace looked at the walls.
+Jace looked at the walls. Through the walls. At the Asteroid down below. Was below even the right term?
 
 "We can go anywhere."
 
@@ -1018,9 +1037,9 @@ Sophia's face changed.
 
 "Forty crossings over seven weeks. Partial episodes before that. I told one colleague. She scheduled a medical consult. I mentioned it to Penny and it still watches me closely. It has a file on me. I stopped telling people."
 
-"We should get you home," she said.
+"We should get you home," she said. He was shivering violently.
 
-They walked through Ring Two.
+They walked through Ring One.
 
 Long corridors bent through extra directions. Jace stopped twice when the floor appeared to drop into bright distance. Sophia touched his arm each time.
 
@@ -1113,9 +1132,15 @@ He probably got some sleep, but every time he started to drift off he would snap
 
 Chapter 14. Down to the Asteroid
 
-Most people do not know this, but the human brain can file almost anything under “I was tired.” Walking through walls. Pulling oxygen through solid metal. I wonder how many hallucinations caused by exhaustion over the years were actually real.
+Athena: The university cancelled our Chinese exchange seminar. Half the campus says security. The other half says theater.
 
-Jace Grant, unpublished notes
+Apollo: Theater.
+
+Artemis: What's wrong little brother? You seem grumpy today.
+
+Apollo: I met someone. We're having dinner. If no one ever hears from me again, tell mom and dad I love them.
+
+Athena: I thought only girls texted things like that.
 
 At 0530, Alex began his morning briefing.
 
@@ -1209,7 +1234,7 @@ Nick looked at Cerberus. The dog wagged his tail, curled beneath a shelf, instan
 
 Nick looked at Jace. Jace's eyes felt packed with sand.
 
-"Sure," Nick said. "Only the dog had a rough night."
+"Sure," Nick said. "Only the dog had a rough night. Right."
 
 The shuttle left at 0640.
 

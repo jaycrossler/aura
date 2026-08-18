@@ -19,7 +19,7 @@ cross_references:
 description: Cargo-heavy departure, late-transit animal rounds with Mei, real-time
   Artemis birthday call, missing duck, HUD retraining with Nick, and the first recurring
   headache.
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 pov: char_jace_apollo
 scene_contract: event_t01_departure_and_rounds
 schema_version: 2
@@ -31,8 +31,16 @@ supersedes:
 
 # Chapter 1. Departure and Rounds
 
-> *Most people do not know this, but you can hear a spaceship breathe. And swallow. A thousand tons of gurgling water move through the walls to balance every footstep. I spent four months falling asleep inside a very large stomach that was politely pretending not to notice me.*
-> - Jace Grant, *Falcon* transit logs
+> *Apollo: I cannot decide whether scrubbing chicken splatters is worse than the stink-bombs the geese make. They are little balls of fury, and somehow their waste retains that emotion.*
+>
+> *Artemis: What about the puppies? Potty trained yet?*
+>
+> *Athena: You should have brought a cat. Cats would be better on starships.*
+>
+> *Artemis: No. Remember your kitten? It peed everywhere. Cat urine inside a ship would get into the cracks, short something out, and cause a murder.*
+>
+> *Apollo: One cleaning robot got dog poop on its wheel and pressed it into the carpet. Maureen was furious.*
+
 
 <!-- beat:t01_departure_and_rounds.beat1_departure_burn -->
 Mars let go of the *Falcon* the way Mars let go of everything: reluctantly, and with paperwork.
@@ -73,9 +81,13 @@ The captain did not look at him. She watched load figures crawl over a small scr
 
 The passenger column showed zero. An entire Chinese mining crew had withdrawn at the last minute. No settlers had replaced them. The cargo contracts had not withdrawn with the miners, so the *Falcon* had launched heavy and nearly empty, with Maureen paying to keep unused berths cold while her passage revenue sat on Mars.
 
-"I had three days to fill a manifest built for passengers," Maureen said, mostly to the tablet. "Three days, and Origin's launch window doesn't move for anybody's convenience but its own. So I bought what I could get. Feed supplement. Actual soil. Who ships dirt? Me, I guess. God, I miss Patrick." She tapped the column of numbers like she was flicking something off her sleeve. "Instead I'm hauling ballast at the least profitable margin available to me, because Origin would rather I launch a heavy, cheap ship on schedule than launch a light, valuable one two weeks late."
+"They were already aboard," Maureen said. "Spent a full day inspecting the engine spaces and the central spire with their charter engineer. Signed the access log. Asked sensible questions. Then all of them cancelled." She tapped the column of numbers like she was flicking something off her sleeve. 
 
-Origin had hired Jace in seventy-two hours because Mei needed a backup animal tender and Maureen needed another pair of hands. Maureen had accepted him with the warmth normally reserved for a colonoscopy.
+"I had three days to fill a manifest built for passengers, and Origin's launch window doesn't move for anybody's convenience but its own. So I bought what I could get. Feed supplement. Actual soil. Who ships dirt? Me, I guess. God, I miss Patrick. Instead I'm hauling ballast at the least profitable margin available to me, because Origin would rather I launch a heavy, cheap ship on schedule than launch a light, valuable one two weeks late."
+
+Origin had hired Jace in those seventy-two hours because Mei needed a backup animal tender and Maureen needed another pair of hands. Maureen had accepted him with the warmth normally reserved for a colonoscopy.
+
+She had been a Navy chief before she met Patrick while he was working on military ships. She left the service, and together they bought the old frame they rebuilt into the *Falcon*. Jace had known a few Navy people and Maureen had the same compressed annoyed authority: every sentence sounded as if she was expecting an argument.
 
 "Well, I hope I can be of use."
 
@@ -347,6 +359,8 @@ Behind his left eye, the burning coal flared with migraine-inducing pain. OK, no
 | T-01.11 - Mei leads animal care and Jace assists as the one-trip backup | done | must_accomplish | beat2_morning_routine |
 | T-01.12 - Artemis and Jace speak in real time near Metis for the first time in five years | done | must_accomplish | beat3_birthday_and_game |
 | T-01.13 - Maureen charges heavily for coffee, sugar, and fake cream and raises the price after Jace challenges her explanation | done | must_accomplish | beat2_morning_routine |
+| NEW - Chinese mining crew previously boarded and inspected the engine spaces and central spire before cancelling | done | must_accomplish | beat1_departure_burn |
+| NEW - Maureen's former Navy Chief service and shipbuilding history with Patrick are established | done | must_accomplish | beat1_departure_burn |
 | T-02a.1 - Recurring morning headache appears briefly and remains unresolved | done | must_accomplish | beat2_morning_routine |
 | T-02a.2 - Lanchee finds nothing alarming | done | must_accomplish | beat2_morning_routine |
 | T-02a.3 - Jace accepts the hot HUD as the mundane explanation | done | must_accomplish | beat2_morning_routine |
@@ -371,7 +385,7 @@ Behind his left eye, the burning coal flared with migraine-inducing pain. OK, no
 
 | Note | Status | Resolution |
 |---|---|---|
-| Settler count and late cancellations | resolved | No settlers aboard; the entire Chinese mining crew withdrew at the last minute; cargo commitments forced a money-losing departure |
+| Settler count and late cancellations | resolved | No settlers aboard; the entire Chinese mining crew withdrew after a full-day inspection of the engine spaces and central spire; cargo commitments forced a money-losing departure |
 | Patrick secretly queues the washroom fan | resolved | Jace sends Patrick airflow evidence and withholds the dog-waste photograph so Maureen does not learn the cause |
 | Automation-failure motif needs an on-page minor cascade before the plumbing crisis | open | This chapter establishes automation texture but does not contain the required failure cascade |
 | ⚠️ **FLAGGED — headcount discrepancy** | open | Author requested "60 females" aboard; established KB canon (`ship_falcon.md`: 54 breeding stock + Siren; `char_lanchee.md`: "fifty-eight women") totals **58**, not 60. This draft uses 58 to match existing canon. If 60 is wanted, either the breeding-stock manifest needs +2 animals or the human crew count needs revision — author decision needed before this propagates to `ship_falcon.md` / `livestock/falcon_animal_manifest_book1.md`. |

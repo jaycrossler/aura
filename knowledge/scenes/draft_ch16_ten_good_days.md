@@ -8,7 +8,7 @@ scene_contract: X-09d, X-09e setup
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-13
+last_updated: 2026-08-18
 description: >
   Crossings 47 through 51 complete ten days of safe Astral exploration as Jace
   automates his delivery work, builds a small lab, moves Sparky piece by piece,
@@ -30,13 +30,24 @@ cross_references:
 
 # Chapter 16. Ten Good Days
 
-> *Most people do not know this, but the first settlement in another dimension was one folding stool, a cold thermometer, and a paper sign that said LAB. When Cerberus was bored, he chewed the first sign to pulp. Teething puppies are no joke.*
+> *Athena: You haven't been responding, oh infamous brother of mine.*
 >
-> Jace Grant, *unpublished notes*
+> *Artemis: I have some remote access at Fortuna. His Origin work status says active, so probably alive.*
+>
+> *Athena: The Pig Channel posted Cerberus this morning. Definitely alive.*
+>
+> *Apollo: Busy. Good busy. And why does a military civilian have access to Origin systems?*
+>
+> *Artemis: I can.... bsscah... sscchew. Love you.... ccsscchshsc....*
+>
+> *Athena: Is she typing static? Like typing the noises that static makes? This is a digital system, encrypted and redundent and sent through hundreds of relays, checked by AI at every step across at least two planets. There hasn't been static in comms systems for over a hundred years. Didn't she study Project Engineering? Does she not know this?*
+>
+> *Apollo: OK. I'm now officially a fan of your diverse approach to education.*
 
-Jace was falling behind in his day job. On the sixth day, he automated fourteen of his seventeen delivery routes.
 
-He did not bypass any safety rules. He did not falsify a manifest. He took the exception patterns he had been collecting and that Kim had taught him, converted them into local decision trees, and made the drones stop asking humans questions that had only one correct answer. Everything that required him to tap screens in Drone Ops could be done remotely.
+Jace was falling behind in his day job. On the sixth day, he automated fourteen of his seventeen delivery routes. 
+
+He did not bypass any safety rules. He did not falsify a manifest. He took the exception patterns he had been collecting and that Kim had taught him, converted them into local decision trees, and made the drones stop asking humans questions that had only one correct answer. He had {Alex} and {Seek} and even {Penny} help write part of each routing algorithm. Everything that required him to tap screens in Drone Ops could be done remotely.
 
 The morning queue fell from forty-seven items to eleven.
 
@@ -126,7 +137,7 @@ As well as more equipment, the camera was in seven pieces. Sophia went out to do
 
 The lens crossed first. The housing followed. The battery took forty minutes and left Jace sitting on the Astral floor with his back against a wall that was only solid because he expected it to be.
 
-Sophia crouched beside him.
+Sophia crouched beside him. He was just staring off into the distance, watching people walk through the distant parts of the station. People in the other wheels, people in other ships. He really wanted to record this.
 
 "Stop."
 
@@ -190,9 +201,9 @@ It recorded blue noise, three seconds of Sophia's scarf, and a view through the 
 
 They spent an hour making terrible Astral photographs. Jace took notes on paper for how he might try to use different graphics libraries to fix the images, but he couldn't do it from this side.
 
-Cerberus appeared in many of the photos, including two taken before he entered the room.
+Cerberus appeared in many of the photos, including two taken before he entered the room. Each photo captured the subject, the walls, the rings, the stars, the sun.
 
-"These photos will be famous. We need a photographer."
+"These photos will be famous. We need a full-time photographer."
 
 ##
 
@@ -266,7 +277,9 @@ Jace handed him a A.I. core chip stack. It was ancient as well.
 
 "This thing is *old school*. You need it for radiation protection? Magnetic shielding for some asteroid? Newer chips will have like a hundred times more power.
 
-"Yeah, but this one seperates into twenty sub-pieces. And takes one hundredth the power."
+"Yeah, but this one is a hardened processor. Each little chip seperates out so you can add more. And takes a tiny bit of power so you can scale up."
+
+It would be a massive lift to get across. Probaby take 20 full hours of pulling for the processor base, then another twelve for each rice-grain-sized AI chip. But it'd be worth it.
 
 "Why do you care about power? Just use a higher-density battery. OK, OK, I get it. You've got some crazy idea to get rich and want my massive expertise. She's a physicist, so it's got to be some mumbo jumbo thing where electronics creat hum or distortion or something. Got it. You could just tell me, you know."
 
@@ -274,11 +287,19 @@ Nick plugged a cable into the unit.
 
 "OK, I'll strip the current Aura down to its smallest possible build. No language model, no apps. Just sensors and engines and flight models. It's actually quite small this way. Maybe I should make a version packaged like this, for people who want to load it on toys. No offense."
 
+"Thanks man, I owe you."
+
+Nick tilted his head, and pointed to a screen on the wall that was showing a map of the Fortuna asteroid factory complex below.
+
+"I don't understand, though. If you want a custom processor, why don't you just order one printed in our *giant custom processor factory*?"
+
+Jace turned to the asteroid, "Wait. We have what now?"
+
 ##
 
-Crossing 49 began with two radios and Sparky's shell.
+Crossing 49 began with two radios, a game controller, and Sparky's shell.
 
-The radios were relatively easy. He had found an old children's crystal radio kit. An hour gave them a walkie-talkie that ran on existing batteries he'd previously moved over. It looked... very cheap. But it worked and should cover the whole station. Probably.
+The radios were relatively easy. He had found an old children's crystal radio kit. An hour of pulling gave them a walkie-talkie that ran on existing batteries he'd previously moved over. It looked... very cheap. But it worked and should cover the whole station. Probably.
 
 For Sparky, Jace removed the panels and transferred them one at a time. Simple metal crossed in minutes. The wires took longer. The controller took most of the session.
 
@@ -364,11 +385,13 @@ He should have told Kim.
 
 Instead, he made a note to tell her about the routing issues after the crossing.
 
+##
+
 Crossing 50 was Sparky's thruster day.
 
 The first thruster took two hours for the core, two more for the surrounding chasis.
 
-The assemebled unit was smaller than Jace's fist. It contained dense alloys, ceramics, platinum wiring, magnets, and tolerances measured in microns. Every part resisted in a slightly different direction.
+The assemebled engine unit was smaller than Jace's fist. It contained dense alloys, ceramics, platinum wiring, magnets, and tolerances measured in microns. Every part resisted in a slightly different direction.
 
 Jace pulled until his vision narrowed.
 
@@ -386,7 +409,7 @@ When it finally crossed, Jace set it on the table and looked at the other nine s
 
 "Three."
 
-"You are becoming an authoritarian. I thought Germans were fierce taskmasters."
+"You are becoming anti-authoritarian. I thought Germans were fierce taskmasters."
 
 Sophia handed him bread.
 
@@ -468,15 +491,15 @@ Jace sealed his mask.
 
 She watched him for another second, then nodded.
 
-They crossed.
+They crossed, grabbed coats, started pulling. They had large air tanks now of air, and could quickly top of masks when they got low.
 
-The second and third thrusters went faster with both of them pulling, but it was still almost an entire night of grueling work. They pulled just the first small piece of the Aura control chip Nick had made. It was modular, and had over a dozen other layers that stacked on, adding more processing power. The bottom layer was the thickness of an ancient coin, and had enough processing power for voice commands and routing. Jace felt like he was pulling a car through a pool of jello.
+The second and third thrusters went faster with both of them pulling, but it was still almost an entire night of grueling work. 
+
+Last, Jace pulled a radio-control chip printed from a hundred-year-old toy kit. The game controller sent radio waves on a different frequency then their walkie talkies, but with the same principal.
 
 They assembled Sparky on the Astral workbench. Jace connected the power bus, pressed the local wake switch, and closed the shell.
 
-A green light appeared.
-
-Sparky rolled forward.
+A green light appeared. Jace pushed the controller joystick, and Sparky rolled forward.
 
 He turned left. He hovered.
 
@@ -488,7 +511,7 @@ They had built something in another dimension.
 
 For a minute, every problem waited on the physical side.
 
-They crossed back, jubilant and excited and exhausted. He rebooted his HUD like normal. It was just after midnight.
+They crossed back, jubilant and excited and exhausted. He took off his mask, rebooted his HUD like normal. It was just after midnight.
 
 His queue error counter climbed from twelve to "ERROR." 
 
