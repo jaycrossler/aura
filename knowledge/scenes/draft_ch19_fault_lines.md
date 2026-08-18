@@ -41,11 +41,13 @@ cross_references:
 
 # Chapter 19. Fault Lines
 
-> *Most people do not know this, but a fault line is not a crack in the rock. It is two places that used to agree about where they were going.*
+> *A fault line is not a crack in the rock. It is two places that used to agree about where they were going.*
 >
 > Jace Grant, *unpublished notes*
 
-Sophia wrote their priorities on paper and numbered them.
+Sophia wrote their priorities on a whiteboard, numbered them, and mounted it on her bedroom wall sometime in the night, and texted him a photo in the wee hourse of the morning.
+
+When she realized no one could see it from within the Astral, Jace woke early, went to the forge, and brought her a container of childrens magnetic letters he had printed for the station School last week. They were still in the print queue, so marking them as a defective print let him reprint a few sets for free. Sophia replaced words with bright colorful magnets that showed perfectly in the other dimension then crossed over to see her work and to test the other invention he had printed last night.
 
 **1. Communication.**
 
@@ -53,119 +55,41 @@ Sophia wrote their priorities on paper and numbered them.
 
 **3. Physics.**
 
-Jace read the list from the physical side of the *Victoria's* workbench.
+Snacking on a breakfast sandwhich, Jace read the list from the physical side of her room on the *Victoria* while Sophia sat in the astral.
 
-"I would have put physics first."
+He sent, *_Not physics first?_*
 
-"You put a radio first."
+A small piece of paper slowly appeared on the desk in front of him, as if conjured.
 
-"I put a solution first."
+Sophia's writing was neat, flowery. *You put a telegraph first. Are you sure you want that as the first message ever sent? It read as 'Nut physicu fist' by the way."
 
-"A janky solution."
+He increased the speaker volume, and tightened the contact spring.
 
-"That is still a solution."
+He sent *_Better? Mr watson come here i want to see you._*
 
-The solution occupied most of the workbench and looked like a repair shop had attempted to communicate with the dead.
+A tiny piece of ripped-off notepbook paper appearad *LOL*
 
-On the physical side, a local radio receiver accepted a short text message. A tiny speaker read the message aloud so the sender could hear what the machine thought it had received. The same circuit converted the text into Morse code and drove a solenoid against a narrow spring-steel bar clamped to the bench.
+He muttered, "Oh god, none of this will be worth it if we back the slang of the 20s."
+
+The contraption occupied most of the workbench and looked like a repair shop had attempted to communicate with the dead.
+
+On the physical side, a local cheap processor receiver accepted a short text message and converted the text into Morse code and drove a solenoid against a narrow silver bar clamped to the bench.
 
 The bar clicked once for a dot, three times longer for a dash.
 
-In the Astral, a second sensor rested against the bar's visible cross-section. It could not hear the physical speaker or receive the physical radio. It could detect the bar changing shape by a few microns. That sensor rebuilt the Morse, converted it to text, and sent the result over the small crystal radio Jace and Sophia already used inside the Astral.
+In the Astral, a magnet saw if a copper bar lifted. When it moved in the real, it moved in the astral, but was just much harder to detect. It could not hear the physical speaker or receive the physical radio.
+
+That sensor rebuilt the Morse, converted it to text, and sent the result over the small crystal radio Jace and Sophia already used inside the Astral.
 
 Physical radio to moving metal. Moving metal to Astral sensor. Astral sensor to Astral radio.
 
 One direction. Slowly.
 
-Sophia had named it the dimensional telegraph. Jace had named its project folder JANKY RADIO.
+Sophia had named it the dimensional telegraph. Jace had named his design folder 'PROJECT JANKY RADIO'.
 
-"The thing on Three saw you before you saw it," Jace said. "If it is a drone, we need something else to look for it. Something we do not have to stand beside."
+Silver was not magnetic in the Real or the Astral, it actually slightly repelled magnets. But in the Astral, Sophia's testing had showed it repelled a measurable amount.
 
-"If it is a drone."
-
-"The Chinese leasehold has unregistered mining machines. If they found a way to transfer one, that explains why nobody else has a record of it."
-
-"It explains one observation by adding an entire secret research program."
-
-"Yes."
-
-"You say that as if it improves the theory."
-
-"It makes the theory testable. We look for a machine. If we find an animal, I revise."
-
-Sophia tapped priority two with her wooden pen. "First we make sure the machine looking for it can return useful evidence."
-
-The distinction mattered because crossing was not remote viewing.
-
-When Sophia crossed, her body did not remain on the bed in a trance. It did not become an invisible duplicate or project an image somewhere else. Skin, bone, coat, mask, pen, and every atom she managed to carry left physical space. The process took minutes, but the result was complete. The physical room contained no Sophia at all.
-
-Jace had watched it happen. He still sometimes saw a faint blue-green displacement where she had gone, a pressure behind his eyes that suggested a person on the far side. That was perception, not presence. Sophia was entirely in another place.
-
-And from that other place, she could push back.
-
-Sophia checked her mask, coat, mechanical watch, and notebook. "Send the agreed message. Nothing clever."
-
-"The clever message tests more letters."
-
-"The agreed message tests whether it works."
-
-She sat on the floor beside the bench and rested one hand on the transferred radio. Her outline softened. The scarf at her neck faded first, then the sharp edges of her coat. For almost seven minutes she seemed to occupy both views, physical detail thinning while the impossible blue room beneath it grew more certain.
-
-Then the physical Sophia disappeared.
-
-Her empty coat hook showed through the space she had occupied.
-
-{Misty} spoke from the ceiling. "Sophia is no longer present in the physical cabin. Her local radio remains disconnected. The tomato bed nearest her room has changed temperature by one tenth of a degree."
-
-"Thank you."
-
-"I do not know which observation you find useful."
-
-"Neither do I yet."
-
-Jace could almost see Sophia beside the workbench. Not enough to identify her face. A wavering patch of cool color, there when he did not look directly at it and gone when he tried.
-
-He typed the agreed message.
-
-**THE BREAD IS WARM.**
-
-The physical speaker said, "The bread is warm."
-
-The solenoid began tapping.
-
-The sentence took twenty-eight seconds to cross seventeen centimeters.
-
-Nothing happened.
-
-Jace watched the blank place beside the workbench.
-
-A page pushed out of empty air and slid across the physical floor.
-
-**THE DEAD IS WORM.**
-
-Jace stared at it.
-
-The faint blue-green displacement beside the bench folded in a way that might have been Sophia laughing. Jace laughed for both of them. The sound came out too loud. {Misty} lowered the cabin speakers in response, which did not help.
-
-Jace changed the sensor threshold and sent the message again.
-
-**THE BREAD IS WARM.**
-
-Tap. Pause. Tap-tap-tap. Pause.
-
-Thirty-one seconds later, a page pushed out of empty air and dropped onto the physical floor.
-
-**THE BREAD IS WARM. STOP SHOUTING. IT WORKS.**
-
-Jace hit the bench with both palms.
-
-"Yes."
-
-He picked it up.
-
-The paper was cold.
-
-They spent the next hour finding all the ways it did not work. The relay lost spaces after repeated letters. The physical speaker confused *four* with *for*. Vibrations from the ship's water pump produced a five-letter obscenity in the middle of a temperature report. Anything longer than one sentence became an exercise in regretting language.
+They spent a bit finding all the ways it did not work. The relay lost spaces after repeated letters. The physical speaker confused *four* with *for*. Vibrations from the ship's water pump produced a five-letter obscenity in the middle of a temperature report. Anything longer than one sentence became an exercise in regretting language.
 
 But physical text reached the Astral. Astral paper reached physical space.
 
@@ -173,19 +97,43 @@ They had communication in both directions.
 
 It was slow, fragile, and ridiculous.
 
-They were ecstatic.
+##
 
-Sophia returned with the expression of someone who had discovered a new particle using a broken doorbell.
+Sophia had crossed back over, and Jace was checking his queues again, preparing to head to work.
 
-"Priority one," she said, and drew a line through it.
+"You said the drone on Three saw you," Jace said. "We need to watch if it comes near. Something we do not have to stand beside. A security system."
 
-"Basic priority one."
+"If it is a Chinese drone."
+
+"The Chinese leasehold has unregistered mining machines, and they built some hidden room in the construction zone. They're doing something. If they found a way to transfer one, that explains why nobody else has a record of it."
+
+Sophia tapped priority two with her wooden pen. "First we make sure the machine looking for it can return useful evidence. It will help with my papers, with everything."
+
+The distinction mattered because crossing was not remote viewing. Jace could see a little-bit into the astral. Sometimes. And he couldn't control it. Sophia couldn't.
+
+When they crossed, their bodies completely crossed; their bodies did not remain on the bed in a trance. They did not become an invisible duplicate or project an image somewhere else. Skin, bone, coat, mask, pen, and every atom she managed to carry left physical space.
+
+Jace still sometimes saw a faint blue-green displacement where she had gone, a pressure behind his eyes that suggested a person on the far side. That was perception, not presence. Sophia was entirely in another place.
+
+And from that other place, she could send things back.
+
+"You promise not to cross until I get back?"
+
+"Yes, dear. I have so many papers to write. And I do *not* want to go there alone again."
+
+Jace waved, heading to work.
+
+##
+
+When he got back that night, Sophia had put magnetic dashes between the letters for priority one.
+
+"I like how you found a way to draw a line crossing it off. But, it should only be partially crossed off. I think I can make it work much better."
 
 "Do not damage this moment with requirements."
 
 "I am already thinking about the other direction. If the Astral side can drive a physical resonator, or modulate something the physical receiver can see without you moving paper -"
 
-"Later. Camera."
+"Later. Camera next."
 
 Two stripped camera modules already waited in the Astral. Neither recorded the same colors Sophia and Jace saw, and neither agreed about straight lines. Jace had assumed one camera was defective until the second one failed differently.
 
@@ -201,11 +149,9 @@ Jace crossed after it.
 
 Cold settled across his coat. The physical *Victoria* flattened into pale cross-sections around a second room that had weight, depth, and blue-black distance beyond its walls. His body was gone from the Real now too. On the other side, an empty cabin remained under {Misty}'s care.
 
-He mounted all three cameras to Sparky.
+He mounted all three cameras to Sparky's internal battery, so that they should be a ble to rotate and point in any direction. As they could see through his shell (and everything else, actually), Sparky didn't even need to open a panel to help with the picutres, but it did make images sharper.
 
 One faced forward. One looked ninety degrees through what his eyes insisted was up. The third pointed in the unnamed direction both of them could perceive and neither could draw. The bracket for that one looked straight until Jace attached it, then revealed a bend that did not exist from any physical angle.
-
-Sparky resembled a soccer ball being examined for crimes.
 
 They rolled him around Sophia's room. The forward camera showed the workbench. The second showed the same bench from inside its surface. The third showed a pale line that might have been the bench, Sophia, or the idea of distance.
 
