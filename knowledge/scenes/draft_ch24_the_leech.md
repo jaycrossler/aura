@@ -1,14 +1,14 @@
 ---
-id: draft_ch23_the_leech
-name: "Chapter 23. The Leech"
+id: draft_ch24_the_leech
+name: "Chapter 24. The Leech"
 type: chapter_draft
 book: book01
-chapter: Ch23
+chapter: Ch24
 scene_contract: X-02a Tick-Maw intervention + medical AI misclassification
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Jace, Sophia, and Lanchee authorize a dangerous Astral intervention on the
   failing miner after a medical AI mistakes tissue repair for recovery. Their
@@ -26,10 +26,10 @@ cross_references:
   - "[[magic_will_orbs]]"
   - "[[advancement_ledger]]"
   - "[[spec_astral_phenomenology]]"
-  - "[[draft_ch22_no_vampires]]"
+  - "[[draft_ch23_no_vampires]]"
 ---
 
-# Chapter 23. The Leech
+# Chapter 24. The Leech
 
 > *Most people do not know this, but the difference between a parasite and a patient is obvious until both of them are dying and only one can tell you to stop.*
 >

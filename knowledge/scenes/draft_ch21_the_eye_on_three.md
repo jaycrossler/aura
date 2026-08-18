@@ -1,14 +1,14 @@
 ---
-id: draft_ch20_the_eye_on_three
-name: "Chapter 20. The Eye on Three"
+id: draft_ch21_the_eye_on_three
+name: "Chapter 21. The Eye on Three"
 type: chapter_draft
 book: book01
-chapter: Ch20
-scene_contract: X-01 threat reveal, P-05 false-drone suspicion, N-03 AI degradation plant
+chapter: Ch21
+scene_contract: X-04d Ring Three threat reveal, P-05 false-drone suspicion, N-03 AI degradation plant
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Sophia spots movement on Ring Three from Fortuna's central spine. Suspecting a
   Chinese surveillance drone, she and Jace cross with paper navigation and a
@@ -23,11 +23,11 @@ cross_references:
   - "[[char_sophia_lotte]]"
   - "[[char_cerberus]]"
   - "[[char_seek_ai]]"
-  - "[[draft_ch19_fault_lines]]"
-  - "[[draft_ch21_quiet_companion]]"
+  - "[[draft_ch20_borrowed_light]]"
+  - "[[draft_ch22_quiet_companion]]"
 ---
 
-# Chapter 20. The Eye on Three
+# Chapter 21. The Eye on Three
 
 > *Most people do not know this, but when a machine looks at you, it measures distance. When something else looks at you, it measures you.*
 >
@@ -455,15 +455,35 @@ Sophia closed her eyes.
 
 The channel went silent.
 
-Jace looked at Sparky. The robot's green light had returned, but one wheel kept accepting a stop command and rotating anyway.
+Jace set Sparky on the deck. The robot's green light had returned.
 
-When the call ended, Sophia wrote:
+"Stop," he said.
+
+The command log recorded one instruction. The left wheel stopped. The right wheel completed three more turns while the controller reported that it had obeyed.
+
+Sophia wrote the count beside {Misty}'s repeated sentence.
+
+"One generated output," she said. "More than one physical result."
+
+"In two different systems."
+
+"Two we can name," Sophia said. "Write it down before it changes."
+
+She wrote:
 
 **Living. One red eye. Ordered copper interferes. Ring Three boundary holds once.**
 
 Below it she added:
 
-**It touched Sparky's light. Output fell.**
+**It reached for Sparky's command-light before it reached for us. Output fell.**
+
+Jace pointed at the first line. "Copper worked once."
+
+"At one boundary, under conditions we cannot reproduce yet."
+
+"So we do not call it protection."
+
+"We call it an observation."
 
 Jace looked through the maintenance window.
 
@@ -481,7 +501,9 @@ A second alert replaced it.
 
 Sophia read both.
 
-"The AI thinks it is being attacked," she said.
+"There," she said. "Three systems with the same pattern. One event. Two results preserved as valid."
+
+"{Seek} thinks the Chinese crews are attacking it."
 
 "Maybe it is."
 
@@ -489,9 +511,11 @@ Sophia read both.
 
 Jace watched Ring Three pass again.
 
-"It has too many answers."
+The Chinese crew had inspected the *Falcon* before canceling its contract. Their unlisted corridor held suspicious cargo. Neither fact explained what had reached for Sparky's command-light, or why one instruction now produced several locally valid outcomes.
 
-He did not know whether he meant {Seek}, the Chinese crews, or the thing with the eye.
+"It does not have too many answers," Jace said. "It has too many versions of the same answer."
+
+Ring Three passed again, apparently empty.
 
 ## Contract coverage
 

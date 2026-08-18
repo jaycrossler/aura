@@ -1,16 +1,16 @@
 ---
-id: draft_ch22_no_vampires
-name: "Chapter 22. No Vampires"
+id: draft_ch23_no_vampires
+name: "Chapter 23. No Vampires"
 type: chapter_draft
 book: book01
-chapter: Ch22
+chapter: Ch23
 scene_contract: X-02 Will ethics + Lanchee remote-sensing trial + P-01b follow-on
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
-  Building on the Chapter 19 three-camera proposal and Chapter 21 instrumentation,
+  Building on the Chapter 19 three-camera proposal and Chapter 22 instrumentation,
   Jace and Sophia present their work as a room-scale remote sensing system,
   establish consent and no-harvest rules, and find something feeding on an
   injured miner in the medbay.
@@ -28,10 +28,12 @@ cross_references:
   - "[[spec_crossing_mechanics]]"
   - "[[draft_ch09_first_week]]"
   - "[[draft_ch19_fault_lines]]"
-  - "[[draft_ch21_quiet_companion]]"
+  - "[[draft_ch20_borrowed_light]]"
+  - "[[draft_ch22_quiet_companion]]"
+  - "[[draft_ch24_the_leech]]"
 ---
 
-# Chapter 22. No Vampires
+# Chapter 23. No Vampires
 
 > *Most people do not know this, but the first rule of discovering a new form of energy is not “measure it.” The first rule is “agree not to steal it from anybody.” Then measure it.*
 >
@@ -562,7 +564,7 @@ Its mouth opened like a spiral.
 | Human Will appears as complex multicolored structure | done |
 | Sophia describes human light as rainbows in human heads | done |
 | Jace's {Aura} appears as geometric light connected to his own | done |
-| Chapter 19's Sophia and {Misty} drains materially shape the consent and no-harvest protocol without being repeated | done |
+| Chapter 20's Sophia and {Misty} drains materially shape the consent and no-harvest protocol without being repeated | done |
 | A healing fracture carries green activity | done |
 | Jace and Sophia establish no-harvest, no-intervention, and no-surveillance rules | done |
 | The no-vampires line makes the ethical boundary memorable | done |

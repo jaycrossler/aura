@@ -1,14 +1,14 @@
 ---
-id: draft_ch21_quiet_companion
-name: "Chapter 21. Quiet Companion"
+id: draft_ch22_quiet_companion
+name: "Chapter 22. Quiet Companion"
 type: chapter_draft
 book: book01
-chapter: Ch21
-scene_contract: X-01b {Aura} installation, N-01 friendship boundary, L-07 Metis degradation, N-03 AI degradation
+chapter: Ch22
+scene_contract: X-01b {Aura} installation, N-00b friendship boundary, L-07 Metis degradation, N-03 AI degradation
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   After the Ring Three encounter, Jace admits that he needs Nick's help without
   disclosing the Astral. Nick installs a local {Aura} under Lanchee's supervision;
@@ -28,11 +28,11 @@ cross_references:
   - "[[char_sister_artemis]]"
   - "[[ship_victoria]]"
   - "[[scene_notes_ai_interactions]]"
-  - "[[draft_ch20_the_eye_on_three]]"
-  - "[[draft_ch22_no_vampires]]"
+  - "[[draft_ch21_the_eye_on_three]]"
+  - "[[draft_ch23_no_vampires]]"
 ---
 
-# Chapter 21. Quiet Companion
+# Chapter 22. Quiet Companion
 
 > *Most people do not know this, but the best assistant is not the one that speaks first. It is the one that notices the instrument was wrong before you build a life around the answer.*
 >
@@ -340,7 +340,7 @@ She answered before the first tone ended.
 
 | Item | Status |
 |---|---|
-| Chapter 20's escape and Chapter 18's work-repair sequence are not repeated | done |
+| Chapter 21's escape and Chapter 18's work-repair sequence are not repeated | done |
 | Crossing debt carries into the next day as impaired temperature sensation | done |
 | Jace acknowledges that he needs Nick's instrumentation skill | done |
 | Nick helps because the danger is credible while maintaining boundaries and anger | done |

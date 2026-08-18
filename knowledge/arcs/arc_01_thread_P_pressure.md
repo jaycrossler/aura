@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Scene contracts for Thread P — station politics, Helena, Jin, Suzi. Migrated
   out of arc_01_falcon_and_fortuna.md during the thread-split restructure.
@@ -17,6 +17,7 @@ cross_references:
   - "[[char_helena]]"
   - "[[char_mei]]"
   - "[[draft_ch19_fault_lines]]"
+  - "[[draft_ch20_borrowed_light]]"
 ---
 
 # Thread P — Pressure
@@ -87,6 +88,9 @@ Helena vanished. Yáo and another miner carry an untagged, human-sized flexible 
 from an unlisted Ring Three passage. The image suggests a body but does not prove
 one; Suzi requires Jace to document only the camera's automatic privacy suppression
 and missing tags.
+
+This sequence now occurs in Chapter 20, after the Chapter 19 Council movement
+restriction narrows access around Ring Three.
 
 Suzi asks Jace to meet at the Long Burn while she checks old crew rotations. Yáo
 overhears Jace describing disappearing shifts, unlisted passages, system failures,

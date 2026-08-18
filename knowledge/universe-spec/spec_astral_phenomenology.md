@@ -5,7 +5,7 @@ name: The Astral — Physical Properties and Perceptual Experience
 type: foundational_phenomenology
 status: canonical
 canonical: true
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 supersedes: spec_astral_phenomenology (2026-05-31)
 ---
 
@@ -272,7 +272,9 @@ The dist³ layer — Hyperspace — is only accessible beyond gravity wells. A p
 - 2026-05-31: New file. Established canonical phenomenology: extra dimension, gravity, Will pressure, N-1 perception, mind-glows, clockwork dance, astral algae. Separated Astral (dist²) from Hyperspace (dist³).
 - 2026-06-03: Major update. Corrected temperature to **-20°C** near Fortuna (revised from -40 to -60°C). Added crystal tunnel dream explanation (N-1 perception of physical infrastructure). Added wall permeability and Jace's temperature probe discovery. Added open-space exploration. Added asteroid prospecting via N-1 perception (Jace's drone discovery). Added solar thermal gradient table. Added beacon effect. Clarified that terminology is intentionally loose at story start. Added thermal manipulation as early Will skill.
 - 2026-08-13: Canon ruling. The Astral is approximately **-20°C** near Fortuna and remains cold but survivable throughout the solar system. Sophia begins with Never-Never from childhood Baba Yaga stories. Jace proposes Astral after several days because it is shorter and familiar from old books and games.
-- 2026-08-17: Added the Chapter 19 local age and occupancy gradient. Stable older
+- 2026-08-18: Moved the local age and occupancy-gradient discovery to Chapter 20
+  after the Chapter 19/20 split. The phenomenology itself is unchanged.
+- 2026-08-17: Added the local age and occupancy gradient. Stable older
   physical volumes create warmer Astral pockets; trace atmosphere accumulates much
   more slowly than heat, and repeated human occupation can raise local CO2 and
   humidity without making the pocket safely breathable.

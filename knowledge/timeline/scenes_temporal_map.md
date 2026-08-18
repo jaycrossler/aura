@@ -1,5 +1,6 @@
 ---
 
+
 description: "Chronological index mapping all scenes, dates, and character continuity for the book's timeline."
 id: scenes_temporal_map
 name: Master Scenes Temporal Map
@@ -44,6 +45,24 @@ This file maps every scene to its position in time, showing absolute dates, time
 | **Ch05** | scene_08_jace_origin_negotiation | Origin Industries contract; Cerberus secured | ~late 2105-05 → early 2105-06 | initial draft |
 | **Ch05** | scene_09_intel_deal_with_jace | Sylvester recruits Jace; HUD reactivated | Hours-days post-Origin | TBD detail |
 | **Ch06** | scene_10_falcon_departure | Boarding and departure | ~mid 2105 | TBD detail |
+
+### Fortuna Continuity Sequence (Chapters 15-24)
+
+Absolute story dates remain TBD. This table fixes relative order and overnight
+handoffs so future chapter moves do not separate causes from their consequences.
+
+| Chapter | Draft | Relative anchor | Continuity handoff |
+|---|---|---|---|
+| **Ch15** | `draft_ch15_sideways` | First planned joint crossing aboard the *Victoria* | Begins the ten-consecutive-day wonder interval |
+| **Ch16** | `draft_ch16_ten_good_days` | Remaining safe daily crossings | Ends before any Astral fauna appears inside Fortuna |
+| **Ch17** | `draft_ch17_falling_behind` | Immediately after the safe interval | Sophia's separation, rescue, and Ring Three sighting create the next morning's exhaustion |
+| **Ch18** | `draft_ch18_later_became_morning` | 0530 after the Chapter 17 rescue | Jace begins responsibility repair; Sophia and Jace agree to pause for the evening |
+| **Ch19** | `draft_ch19_fault_lines` | Following interface-lab work across more than one day | Relay, three-camera rig, force recording, Sophia drain, work repair, bad apology, Council restriction |
+| **Ch20** | `draft_ch20_borrowed_light` | Starts the next morning at 0430; closes the following morning | Environmental probe, consent rupture, Long Burn fight, {Misty} drain, renewed boundaries |
+| **Ch21** | `draft_ch21_the_eye_on_three` | Evening after Chapter 20's renewed-boundary conversation | Ring Three encounter; one-input/multiple-output anomaly across {Misty}, Sparky, and {Seek} |
+| **Ch22** | `draft_ch22_quiet_companion` | Next day and following morning | Jace rests; Nick installs {Aura} under safety conditions; contradictory-output pattern develops |
+| **Ch23** | `draft_ch23_no_vampires` | Proposal began three days before presentation | Medical observation protocol formalizes consent and no-theft rule |
+| **Ch24** | `draft_ch24_the_leech` | After the Chapter 23 protocol | First parasite/patient intervention; patient stabilizes over two hours |
 
 **Deprecated:**
 - ~~`event_jace_messages_home`~~ — merged into `scene_03_jace_gym_arrival_with_messages`. File should be deleted or repurposed.

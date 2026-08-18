@@ -16,7 +16,7 @@ Jace read the label.
 
 "I have six notebooks of evidence. You have one bad night and a dog. And, the wine is getting old. Past ten years, it's not drinkable."
 
-"Fourty glasses of wine at five glassed per bottle is eight bottles. That's got to cost a fortune."
+"Forty glasses of wine at five glasses per bottle is eight bottles. That has got to cost a fortune."
 
 "I'm German, we are efficient... we drink 4 glasses per bottle. And we have a wine cellar on the Victoria. Brandon is our chemist. He is constantly brewing more. We have a whole room for it. Smells amazing."
 
@@ -46,21 +46,21 @@ Sophia held the expression for three seconds. Then she laughed.
 
 
 
-The Victoria occupied a docking cradle on the outer edge of Ring Two. From the cooridor, you couldn't tell there was a ship behind the door. It and the five doors nearest it looked just like any other inner hatchway, though each had been decorated with a brick wall with a flower pot outside and a little porch, like doors to townhouses back on Earth. Bricks, it turned out, were pretty easy to make when you were mining asteroids all day.
+The Victoria occupied a docking cradle on the outer edge of Ring Two. From the corridor, you could not tell there was a ship behind the door. It and the five doors nearest it looked just like any other inner hatchway, though each had been decorated with a brick wall with a flower pot outside and a little porch, like doors to townhouses back on Earth. Bricks, it turned out, were pretty easy to make when you were mining asteroids all day.
 
-You walk through the outside door, down a short hallway, and then to the Victoria's airlock. Jake guessed that the ship could undock, be tugged down the spine and launched from the shuttle pad, probably within hours if needed. It was double the size of Torres's survey ship, and looked like it could (and had) lasted years in the black.
+You walk through the outside door, down a short hallway, and then to the Victoria's airlock. Jace guessed that the ship could undock, be tugged down the spine, and launched from the shuttle pad, probably within hours if needed. It was double the size of Torres's survey ship and looked like it could (and had) lasted years in the black.
 
 He found it amazing how Fortuna blended all these ways to live in space and made them... convenient.
 
 Inside, it was a thirty-meter long ESA science vessel built for a few scientists, a small laboratory, and no wasted volume. Its hull carried old micrometeor repairs in three different alloys. A blue and gold ESA mission emblem had faded beside the door lock.
 
-The air inside smelled like warm herbs, yeast, and fruit. Muted tans and browns and natural greens blended with pops of color and wood-paneled walls. It was the closest thing to home Jace had smelled since Virginia, and he almost teared up.
+The air inside smelled like warm herbs, yeast, and fruit. Muted tans and browns and natural greens blended with pops of color and wood-paneled walls. It was the closest thing to home Jace had smelled since Virginia, and his eyes almost watered.
 
-Cerberus kept sniffing everything, nose pumping like a bellows. His tail wagged at light speed. AS they enetered, he smelled other subtle scents; lavender and maybe sage. It was such a contrast from the sweat and dust of Toress' ship. The Victoria felt more like an old pub than a spaceship.
+Cerberus kept sniffing everything, nose pumping like a bellows. His tail wagged at light speed. As they entered, he smelled other subtle scents: lavender and maybe sage. It was such a contrast from the sweat and dust of Torres's ship. The Victoria felt more like an old pub than a spaceship.
 
-"Welcome aboard," said a molodic voice from the corridor speakers. "You must be Jace. Sophia mentioned you might stop by."
+"Welcome aboard," said a melodic voice from the corridor speakers. "You must be Jace. Sophia mentioned you might stop by."
 
-"Hi," Jace said, looking around, seeing no other women. He looked at Sophia quizzickly. She just smirked.
+"Hi," Jace said, looking around, seeing no other women. He looked at Sophia quizzically. She just smirked.
 
 "Misty," Sophia said. "She is our fourth crewmate."
 
@@ -244,7 +244,7 @@ Jace stepped back.
 
 "Without hearing it. And you can't make out details on screens." She pointed to the one on the wall which just looked like a gray rectangle, then a hand-carved cuckoo clock. "We can make out analogue clock hands."
 
-"That does not make it any less of a security and ethical quandry."
+"That does not make it any less of a security and ethical quandary."
 
 "No. Ethics remain a problem."
 
@@ -386,7 +386,7 @@ Shadow. Then she crossed it out again and wrote Astral.
 
 "She can file a rebranding request."
 
-They crossed a simple portable butane soldering iron, which used flame instead of a battery. It was very very hard. They then tried the same design disassembled into its casing, tip, handle, butane pack, and switch. The separate parts crossed about the same total as the assembled tool. A container of butane was retatively easy to move. Sophia wrote CONTROLLED MATERIAL SAMPLES across the top of a page and underlined it twice. Jace suggested equal mass and identical containers. She added both to the next-session list.
+They crossed a simple portable butane soldering iron, which used flame instead of a battery. It was very, very hard. They then tried the same design disassembled into its casing, tip, handle, butane pack, and switch. The separate parts crossed about the same total as the assembled tool. A container of butane was relatively easy to move. Sophia wrote CONTROLLED MATERIAL SAMPLES across the top of a page and underlined it twice. Jace suggested equal mass and identical containers. She added both to the next-session list.
 
 They crossed a better thermometer, but still a hundred-year old design. It had no radio, no network, and almost nothing inside it except a sensor and a strip of metal and the simplest processor chip Jace could make. Jace had rebuilt it twice to remove dense alloys. The third version took seven minutes of pulling.
 

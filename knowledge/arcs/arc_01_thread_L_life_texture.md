@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Scene contracts for Thread L — recurring/distributed background beats woven
   through the Fortuna chapters. Migrated out of arc_01_falcon_and_fortuna.md
@@ -117,7 +117,8 @@ not full forgiveness or a return to his former access.
 2. Carlos directs attention and reduces supervision as Jace demonstrates judgment.
 3. Kim restores permissions incrementally and remains the responsible manager.
 4. No Astral anomaly, creature, or AI-processing failure interrupts the Chapter 19
-   shift; {Misty} is explicitly healthy during this interval.
+   shift; {Misty} is explicitly healthy during this interval. Her later drain and
+   reboot occur in Chapter 20, after the responsibility-repair shift is complete.
 
 ---
 

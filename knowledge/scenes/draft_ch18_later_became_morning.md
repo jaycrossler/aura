@@ -4,7 +4,7 @@ name: "Chapter 18. Later Became Morning"
 type: chapter_draft
 book: book01
 chapter: Ch18
-scene_contract: P-pressure escalation, L-03 work accountability, L-07 Metis escalation, N-01 Nick estrangement
+scene_contract: P-pressure escalation, L-03 work accountability, L-07 Metis escalation, N-00b Nick estrangement
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
@@ -113,7 +113,7 @@ Jace replied, "The destination should have been updated."
 
 Carlos typed a quick message, then pulled on his cardigan. "Come on."
 
-Jace carried the case by hand. As they walked, a baker stepped out and handed a croisant to Carlos, smiled and walked back without a word. Huh.
+Jace carried the case by hand. As they walked, a baker stepped out, handed a croissant to Carlos, smiled, and walked back without a word. Huh.
 
 Ring Two looked normal until Jace noticed the subtle differences. Public menu boards no longer showed weekly prices. Some showed *subject to availability*. The bakery had removed coffee from its breakfast bundle. Two market lockers stood open and empty while a woman argued with their inventory agent.
 
@@ -143,6 +143,8 @@ Maureen stepped out of a market office as Jace and Carlos stepped into the eleva
 
 The owner of the *Falcon* carried a tablet and the expression of someone who had found a new category of bills. The screen showed columns of red numbers.
 
+She still carried herself like the Navy chief she had been: every object had a place, every task had an owner, and every owner was probably late.
+
 "Grant," she said in greeting.
 
 "Good morning, Captain. I thought you'd left with the *Falcon*."
@@ -155,13 +157,21 @@ She held up the financial screen. The settlement consortium had financed farms, 
 
 "You always were clever Grant. Maybe too clever." She looked to Carlos and saw his grimace. "Ahh, is the honeymoon over?"
 
-Jace redened. Could this lift not move any faster?
+Jace reddened. Could this lift not move any faster?
 
-"Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely 10 percent of those have signed up for when I return. I need to rethink all my schedules."
+"Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely ten percent of those have signed up for when I return. I need to rethink all my schedules."
+
+"The Chinese mining crew cancelled without ever boarding?"
+
+"They boarded. Spent a full day inspecting my engine and central spire, signed the handover sheets, then cancelled. That is why it surprised me."
 
 "How much are you losing?"
 
 "Enough that Patrick thinks we might be done after I get back. Sell the ship and retire."
+
+"You believe him?"
+
+"I left the Navy as a chief to buy and build the *Falcon* with him. Patrick was working on ships when we met. We have been threatening to sell her ever since."
 
 Carlos pointed at the coffee cup in her hand. "You still found coffee."
 
@@ -325,11 +335,11 @@ Kim read the medical after action report twice.
 
 "What changes in the next version?"
 
-"Medical mismatches page a human immediately. The page stays ahead of routine exceptions. A delayed response escalates to a duty officer or me, then Carlos. If it's not acknowledge within a set time, it goes to you."
+"Medical mismatches page a human immediately. The page stays ahead of routine exceptions. A delayed response escalates to a duty officer or me, then Carlos. If it is not acknowledged within a set time, it goes to you."
 
 "Who reviews the code?"
 
-"Carlos first. You approve deployment. No AI's to build it, all human created and tested."
+"Carlos first. You approve deployment. No AIs build it. Humans create and test everything."
 
 "Write it as a proposal. Your permissions stay reduced. We need 'forever fixes', not technical debt. Use simulators to test the ideas. The AI can create good simulators, but they don't create good routing exception plans."
 

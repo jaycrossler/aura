@@ -85,7 +85,7 @@ related_characters: [char_jace_apollo, char_dog_cerberus, char_kael, char_brando
 related_ships: [ship_victoria]
 related_locations: [location_fortuna_station]
 related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
-last_updated: 2026-08-14
+last_updated: 2026-08-18
 sheets:
   - sheet_sophia_arc01_end
 cross_references:
@@ -94,6 +94,8 @@ cross_references:
   - "[[char_brandon_moreau]]"
   - "[[char_nikos_petrou]]"
   - "[[ship_victoria]]"
+  - "[[draft_ch20_borrowed_light]]"
+  - "[[draft_ch21_the_eye_on_three]]"
 ---
 
 # The Fountain Pen
@@ -142,6 +144,20 @@ possession — and a Force output she didn't know she had.
 - **Arc 1 publications:** Approximately twenty papers that become the foundation of
   humanity's scientific understanding of the Astral.
 
+## Consent and Trust Rupture (Chapters 19-21)
+
+Jace accidentally drains Sophia's Will in Chapter 19. The following morning,
+Sophia names the experience as a bodily violation and rejects the follow-on test
+because her agreement came while she was impaired and Jace was carrying the energy
+he had taken. Jace accepts a rule requiring recovery and renewed consent after any
+unexpected transfer.
+
+After Jace accidentally drains {Misty} in Chapter 20, Sophia orders him off the
+*Victoria*. She does not apologize for protecting herself or her crewmate. She later
+sets explicit no-contact and crossing boundaries before agreeing to the remote Ring
+Three observation in Chapter 21. Her continued scientific work does not erase the
+fear or immediately restore trust.
+
 ## Trauma Aftermath (Arc 1 end)
 
 Sophia has three sealed traumas. She flinches at sudden loud noises and always carries
@@ -174,7 +190,7 @@ three thousand years.
 
 Born in Colmar, Alsace and raised in Strasbourg by diplomat parents, she is the product
 of French expressiveness and German precision in equal measure — warm and spicy with
-friends, cold and aloof with strangers, and always mid-thought. She codes-witches between
+friends, cold and aloof with strangers, and always mid-thought. She code-switches between
 French (for emotion), German (for precision), and English (as neutral ground), with the
 Alsatian "Hopla" appearing at the end of sentences when she is excited or flustered.
 

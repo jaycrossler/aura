@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Scene contracts for Thread N — Nick's disclosure and the open-source decision;
   the AI systems thread. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -19,7 +19,8 @@ cross_references:
   - "[[concept_aura_ai_system]]"
   - "[[draft_ch18_later_became_morning]]"
   - "[[draft_ch19_fault_lines]]"
-  - "[[draft_ch21_quiet_companion]]"
+  - "[[draft_ch20_borrowed_light]]"
+  - "[[draft_ch22_quiet_companion]]"
 ---
 # Thread N — Nick / AI
 
@@ -36,9 +37,10 @@ nights, unexplained sensor gaps, and visible exhaustion. Jace protects Sophia's
 secret and refuses to explain. During Chapter 19, he sends an apology that admits
 he disappeared but still withholds every fact that would explain why. Nick correctly
 calls it a bad apology. Jace does not involve him in the relay, camera array,
-Sophia drain, {Misty} reboot, or Ring Three plan.
+or Sophia drain. Chapter 20 adds the environmental probe, {Misty} reboot, and
+Ring Three plan to the facts Jace withholds.
 
-Chapter 21 is the first functional repair: Jace admits that danger exists and asks
+Chapter 22 is the first functional repair: Jace admits that danger exists and asks
 for help without demanding forgiveness. Nick installs {Aura} under explicit safety
 conditions while retaining the right to tell Lanchee or Kim if the system finds
 medical or station risk.
@@ -47,8 +49,8 @@ medical or station risk.
 1. Nick's anger reads as worry and violated trust, not jealousy over Sophia.
 2. Jace's Chapter 19 apology is sincere but structurally inadequate because he
    still excludes Nick from the facts.
-3. Nick does not participate in Chapter 19 experimentation or learn the Astral.
-4. Practical help in Chapter 21 does not equal forgiveness or disclosure.
+3. Nick does not participate in Chapters 19-20 experimentation or learn the Astral.
+4. Practical help in Chapter 22 does not equal forgiveness or disclosure.
 5. Preserve X-05c as the later full Astral and discharge disclosure.
 
 ---

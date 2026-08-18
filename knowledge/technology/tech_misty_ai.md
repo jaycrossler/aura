@@ -4,11 +4,13 @@ id: tech_misty_ai
 name: "{Misty} — ESA Vessel AI, Mistral Heritage"
 type: technology_specification
 status: canonical
-last_updated: 2026-08-14
+last_updated: 2026-08-18
 era: story present
 cross_references:
   - "[[char_misty_ai]]"
   - "[[ship_victoria]]"
+  - "[[draft_ch20_borrowed_light]]"
+  - "[[draft_ch21_the_eye_on_three]]"
 ---
 
 # {Misty} — ESA Vessel AI
@@ -228,6 +230,24 @@ It showed Sophia the map. Sophia looked at it for a long time without speaking.
 Sophia said she wasn't sure yet. She took a copy of the map and didn't explain why.
 
 {Misty} didn't ask. It kept tracking. The map is now one of the most accurate records of Astral boundary proximity aboard any vessel in Fortuna Station's associated fleet, produced not by sensors designed for the purpose, but by cherry tomatoes.
+
+---
+
+## Astral Processor Incident (Chapters 20-21)
+
+The Astral form of {Misty}'s dedicated processor stack appears as thousands of
+briefly ordered brown-gold bubbles. Jace accidentally contacts that signature and
+draws its Will. The stack goes dark until Sophia performs a physical breaker reset;
+the outage lasts four minutes and seventeen seconds. Because the *Victoria* is
+docked, its umbilical maintains pressure and heat while navigation, ventilation
+coordination, and other stack-managed functions stop.
+
+After reboot, {Misty} passes isolated navigation and environmental checks but does
+not fly. Her residual fault is not ordinary duplicated generation: she records one
+generated sentence while external speech repeats it. The same singular-input,
+plural-output pattern appears the next day in Sparky and {Seek}. Do not treat this
+as proof that {Misty}'s Mistral architecture caused the fault, or that the Ring Three
+organism directly accessed her air-gapped physical stack.
 
 ---
 

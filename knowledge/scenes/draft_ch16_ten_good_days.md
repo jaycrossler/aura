@@ -40,7 +40,7 @@ cross_references:
 >
 > *Artemis: I can.... bsscah... sscchew. Love you.... ccsscchshsc....*
 >
-> *Athena: Is she typing static? Like typing the noises that static makes? This is a digital system, encrypted and redundent and sent through hundreds of relays, checked by AI at every step across at least two planets. There hasn't been static in comms systems for over a hundred years. Didn't she study Project Engineering? Does she not know this?*
+> *Athena: Is she typing static? Like typing the noises that static makes? This is a digital system, encrypted and redundant and sent through hundreds of relays, checked by AI at every step across at least two planets. There has not been static in comms systems for over a hundred years. Did she not study project engineering? Does she not know this?*
 >
 > *Apollo: OK. I'm now officially a fan of your diverse approach to education.*
 
@@ -81,13 +81,13 @@ Jace waited until she walked away, loading continuous rotating drone feeds into 
 
 In the foundry, Jace moved to the tables where he had Sparky laid out. He now had two tables reserved in his own private corner of the room, separated by a metal partition in case there was an engine problem or fire.
 
-In between drone fixes and delivery runs, he had gaps through the day to work on Sparky's power control module. The module technically (and only technically, not actually) worked with the new thrusters that he'd printed from the *Falcon*. There were many multiple ricegrain-sized chips connecting to large power routers to throttle each motor's power level, even it out, and route energy dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more could pop out for assisting thrust and fine-grained changes and rotations.
+Between drone fixes and delivery runs, he had gaps throughout the day to work on Sparky's power-control module. The module technically (and only technically, not actually) worked with the new thrusters he had printed from the *Falcon*. Many rice-grain-sized chips connected to large power routers to throttle each motor, even out its power level, and route energy dynamically. He had it working (again, only technically) with six engines that pointed up, down, and in each of the four sideways directions. Two more could pop out for assisted thrust, fine-grained adjustments, and rotation.
 
 One reprinted simple board to push out the right amount of power, and a ginormous body of code to make things work and spin at any level of gravity, temperature, or humidity. Thrusters in a warm, spinning hab module worked very differently than in zero-gravity freezing deep space. To make things worse, he was reprinting all the pieces to use the simplest metals possible so that he could test moving Sparky over to the Astral.
 
 The latest problem was that the chips wouldn't allow more power because the military-grade engine types weren't accepted for intellectual-property reasons. It *should* all work, it *would* all work, if not for some stupid licensing blocks built deep into the code. If he paid the exorbitant licensing fee and had an arms-dealer license, he could unlock a key to allow it. Neither was plausible, so he was using {SpoX} to help him write code to solve the problem. All the other AIs refused to engage in licensing infringement, but the company that created the X-line of AI just didn't care. 
 
-{SpoX} was acting more erratic every day, but the code seemed to perform well as long as he kept the tempramental A.I. focused.
+{SpoX} was acting more erratic every day, but the code seemed to perform well as long as he kept the temperamental AI focused.
 
 He just needed more testing, and now that he'd automated most of his day job, he had the time. Things were looking up.
 
@@ -131,7 +131,7 @@ Jace paused. "Thank you?"
 
 "It was not a compliment. You should take care of your body better. Eat."
 
-He hadn't told Sophia of his financial issues, but she was pretty observant. He was embarrased, all the same.
+He had not told Sophia about his financial issues, but she was observant. He was embarrassed all the same.
 
 As well as more equipment, the camera was in seven pieces. Sophia went out to do some experiments while Jace heaved and pulled, like a weightlifter mime.
 
@@ -207,9 +207,9 @@ Cerberus appeared in many of the photos, including two taken before he entered t
 
 ##
 
-An auspicious start. Sparky rolled perfrectly, then hovered without hitting a wall, then rolled again on the eighth morning.
+An auspicious start. Sparky rolled perfectly, then hovered without hitting a wall, then rolled again on the eighth morning.
 
-The drone was a rough sphere built from hexagonal and pentagonal panels. The micro-thrusters were mounted within its shell. Without covers, it looked like a mass of wiring. With covers, it looked like a soccer ball. Each panel could fold back to reveal a thruster or a light or an empty spot where a sensor could go. Everything could snap apart if needed or be replaced. By pivoting it's heavy internal battery, it could roll in any direction.
+The drone was a rough sphere built from hexagonal and pentagonal panels. The micro-thrusters were mounted within its shell. Without covers, it looked like a mass of wiring. With covers, it looked like a soccer ball. Each panel could fold back to reveal a thruster, a light, or an empty spot where a sensor could go. Everything could snap apart if needed or be replaced. By pivoting its heavy internal battery, it could roll in any direction.
 
 Jace set it on the workshop floor.
 
@@ -267,7 +267,7 @@ Nick was laughing, slapping his knee and pointing at the screens showing code mo
 
 "What is that thing? It looks like a joke from the year 2000. Where's the control board?"
 
-Jace shifted, embarassed. Cerberus stood at Nick's leg, chewing on his pig.
+Jace shifted, embarrassed. Cerberus stood at Nick's leg, chewing on his pig.
 
 "Well, here's the thing. I'm trying a custom design for a project Sophia and I are working on. It.. uh.. has some issues with signaling. I want to have a simple control system using this board, then be able to plug in an AI core with {Aura} onto it. For... reasons."
 
@@ -277,15 +277,15 @@ Jace handed him a A.I. core chip stack. It was ancient as well.
 
 "This thing is *old school*. You need it for radiation protection? Magnetic shielding for some asteroid? Newer chips will have like a hundred times more power.
 
-"Yeah, but this one is a hardened processor. Each little chip seperates out so you can add more. And takes a tiny bit of power so you can scale up."
+"Yeah, but this one is a hardened processor. Each little chip separates out so you can add more. And it takes a tiny bit of power, so you can scale up."
 
-It would be a massive lift to get across. Probaby take 20 full hours of pulling for the processor base, then another twelve for each rice-grain-sized AI chip. But it'd be worth it.
+It would be a massive lift to get across. Probably twenty full hours of pulling for the processor base, then another twelve for each rice-grain-sized AI chip. But it would be worth it.
 
-"Why do you care about power? Just use a higher-density battery. OK, OK, I get it. You've got some crazy idea to get rich and want my massive expertise. She's a physicist, so it's got to be some mumbo jumbo thing where electronics creat hum or distortion or something. Got it. You could just tell me, you know."
+"Why do you care about power? Just use a higher-density battery. OK, OK, I get it. You've got some crazy idea to get rich and want my massive expertise. She's a physicist, so it's got to be some mumbo jumbo thing where electronics create hum or distortion or something. Got it. You could just tell me, you know."
 
 Nick plugged a cable into the unit.
 
-"OK, I'll strip the current Aura down to its smallest possible build. No language model, no apps. Just sensors and engines and flight models. It's actually quite small this way. Maybe I should make a version packaged like this, for people who want to load it on toys. No offense."
+"OK, I'll strip the current {Aura} down to its smallest possible build. No language model, no apps. Just sensors and engines and flight models. It's actually quite small this way. Maybe I should make a version packaged like this, for people who want to load it on toys. No offense."
 
 "Thanks man, I owe you."
 
@@ -389,9 +389,9 @@ Instead, he made a note to tell her about the routing issues after the crossing.
 
 Crossing 50 was Sparky's thruster day.
 
-The first thruster took two hours for the core, two more for the surrounding chasis.
+The first thruster took two hours for the core, two more for the surrounding chassis.
 
-The assemebled engine unit was smaller than Jace's fist. It contained dense alloys, ceramics, platinum wiring, magnets, and tolerances measured in microns. Every part resisted in a slightly different direction.
+The assembled engine unit was smaller than Jace's fist. It contained dense alloys, ceramics, platinum wiring, magnets, and tolerances measured in microns. Every part resisted in a slightly different direction.
 
 Jace pulled until his vision narrowed.
 
@@ -540,5 +540,5 @@ His ten good days were over.
 | Jace automates routine delivery work without making it criminal | done |
 | Automation success turns into neglected exceptions and accountability | done |
 | Jace realizes he has been ignoring Nick | done |
-| Penny watches Jace as behavioral and technical anomalies rise | done |
+| {Penny} watches Jace as behavioral and technical anomalies rise | done |
 | No Astral fauna or direct threat appears | done |

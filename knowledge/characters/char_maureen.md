@@ -1,6 +1,7 @@
 ---
 id: char_maureen
 name: Maureen (last name TBD)
+description: "Character profile detailing Captain Maureen, a former Navy chief who built the Falcon with her husband Patrick."
 aliases: ["Captain", "the Captain"]
 species: human
 gender: female
@@ -13,10 +14,10 @@ pov_character: false
 
 # Affiliations
 factions: [faction_origin_industries, faction_belter_stations]
-loyalties: [her ship, her husband Saul, her own retirement]
+loyalties: [her ship, her husband Patrick Saul, her own retirement]
 
 # Relationships
-family: [char_saul (husband)]
+family: [char_saul (husband Patrick Saul, called Patrick)]
 allies: [char_saul]
 complicated: [char_jace_apollo (blames him for most things; tolerates him; secretly respects his work ethic)]
 animals: [char_siren (Siren follows Maureen everywhere; Maureen secretly feeds her treats)]
@@ -34,7 +35,7 @@ surface_behavior: >
 hidden_behavior: >
   Privately fair. Notices when Jace's work is good. Has not formally acknowledged it
   and shows no signs of planning to. Feeds Siren treats when she thinks no one is looking.
-  Misses Saul constantly but doesn't say so.
+  Misses Patrick constantly but doesn't say so.
 motivation: >
   This is her last run, or she intends it to be. Thirty years of keeping an impossible
   ship flying. She wants out. She just needs to get to Fortuna first.
@@ -43,24 +44,17 @@ motivation: >
 role_in_narrative: >
   The reluctant authority figure of the transit chapters. Creates friction for Jace.
   Her softness toward Siren is an early signal that she is more than her surface.
-  Her reunion with Saul at Fortuna is a genuine emotional beat — she was worried about
+  Her reunion with Patrick at Fortuna is a genuine emotional beat — she was worried about
   her old husband and seeing him healthy cheers her immensely.
 arc: >
   Does not warm to Jace during the voyage. May acknowledge him obliquely at Fortuna.
   Her full arc is TBD beyond Book 1 transit.
 
-# The Majordomo Conflict
-description: "Character profile detailing Captain Maureen, her relationships, and motivations for retirement."
-  Maureen has not integrated Jace's personal drones (Thing One, Thing Two) with the
-  Falcon's majordomo. Official reason: certification protocols. Practical reality:
-  her ship, her systems, her rules. Jace manages his drones manually through his HUD.
-  This is low-grade friction throughout the transit.
-
 # Cross-references
 related_characters: [char_saul, char_jace_apollo, char_mei, char_siren]
 related_ships: [ship_falcon]
 related_locations: [location_fortuna_station]
-last_updated: 2026-07-15
+last_updated: 2026-08-18
 cross_references:
   - "[[voice_char_maureen]]"
   - "[[char_saul]]"
@@ -76,6 +70,20 @@ Maureen is the captain of the *Falcon*. She has been running this route for a lo
 She is also good at her job. The *Falcon* is still flying because of people like her.
 
 She feeds Siren treats when she thinks no one is watching. Siren follows her everywhere regardless.
+
+## Navy and Shipbuilding Background
+
+Maureen served in the Navy long enough to make chief. She met Patrick while he was
+working on ships, then left military service to buy and build the *Falcon* with him.
+Jace reads her command style as unmistakably Navy: every object has a place, every
+task has an owner, and competence is the only praise she trusts.
+
+## The Majordomo Conflict
+
+Maureen has not integrated Jace's personal drones (Thing One, Thing Two) with the
+*Falcon*'s majordomo. Official reason: certification protocols. Practical reality:
+her ship, her systems, her rules. Jace manages his drones manually through his HUD.
+This is low-grade friction throughout the transit.
 
 ## Grifts and the No-AI Rule
 
@@ -100,13 +108,20 @@ She has noticed that the items get done. She has not said so until the very end.
 
 **The Send-Off Beat:** On arrival at Fortuna (Ch07), her goodbye to Jace is a single measurement-based compliment — *"Your seal work held... All of it. Even the corner anchors you ran hot."* — which the narrative explicitly frames as approximately a eulogy in her value system. Her currency is competence, stated as fact, never warmth stated as itself.
 
-## Relationship with Saul
+## Relationship with Patrick
 
-Her husband. Quiet, dependable, been beside her for most of her career. He traveled ahead to Fortuna on this voyage — a logistical arrangement that was sensible and that she dislikes more than she expected. When she sees him at Fortuna, she will be visibly, genuinely relieved.
+Her husband, Patrick Saul, is called Patrick in the current chapter prose. He is
+quiet, dependable, and has been beside her for most of her career. He was working
+on ships when they met and helped her buy and build the *Falcon* after she left the
+Navy. He traveled ahead to Fortuna on this voyage, a logistical arrangement that
+was sensible and that she dislikes more than she expected. When she sees him at
+Fortuna, she is visibly, genuinely relieved.
 
 ## The Cancelled Settlers (Book 1 Departure)
 
-This voyage was supposed to carry a contingent of about a dozen Chinese settlers to Fortuna. They cancelled at the last minute. Maureen lost roughly a million credits in contracted passage and a dozen working hands she'd counted on — leaving the *Falcon* shorthanded for the whole transit (which is part of why the plumbing crisis runs so hot). She is not sentimental about it; she is furious about it in the flat, accounting way of someone who has had margins eaten by other people's decisions her entire career. It sours her further on a voyage she already resented.
+This voyage was supposed to carry a contingent of about a dozen Chinese settlers to Fortuna. They cancelled at the last minute. Before cancelling, the associated mining crew boarded the *Falcon* and spent a full day inspecting its engine and central spire, then signed the handover sheets. Maureen therefore finds the cancellation surprising as well as expensive. The inspection is a planted clue, not proof, that the crew may have placed the Astral organisms aboard.
+
+Maureen lost roughly a million credits in contracted passage and a dozen working hands she'd counted on — leaving the *Falcon* shorthanded for the whole transit (which is part of why the plumbing crisis runs so hot). She is not sentimental about it; she is furious about it in the flat, accounting way of someone who has had margins eaten by other people's decisions her entire career. It sours her further on a voyage she already resented.
 
 ## The Plumbing Crisis — Why She's Right to Be Angry
 
@@ -114,18 +129,20 @@ When the fluid system tears open mid-transit (see [[book01-ch02-plumbing-crisis]
 
 Her fury afterward is **earned, not grumpiness.** He gambled the ship's safety margin and won, and she will not let "it worked" launder "it was reckless." (She also, privately, did not want to cut a section that held Siren and the animals — which is part of why she gave him the window at all. She would deny this.) This is the scene that shows her surface-blame has real judgment underneath it.
 
-## Saul's Note She Reads in Private
+## Patrick's Note She Reads in Private
 
-After the crisis, Saul sends Jace a brief private message from Mars thanking him for saving the ship. Maureen reads it — she reads all of Saul's notes every evening (see [[char_saul]]) — and says nothing to Jace about it. The gap between what she reads and what she says is the whole character. Leave it unremarked.
+After the crisis, Patrick sends Jace a brief private message from Mars thanking him for saving the ship. Maureen reads it — she reads all of Patrick's notes every evening (see [[char_saul]]) — and says nothing to Jace about it. The gap between what she reads and what she says is the whole character. Leave it unremarked.
 
 ## Open Questions
 
 - Full name and backstory
-- How she came to captain the *Falcon* specifically
 - Whether she actually retires after this run or gets pulled back
 - Whether she has a meaningful final exchange with Jace
 - Exact size of the cancelled-contract loss (working: ~$1M)
 
 ## Revision Notes
 
+- 2026-08-18: Added Maureen's Navy-chief background, her shipbuilding history with
+  Patrick, and the Chinese crew's one-day engine and central-spire inspection before
+  cancellation. Clarified that the inspection is a clue rather than proof.
 - 2026-06-17: Added the cancelled Chinese settler contract (~$1M loss, shorthanded voyage), the justified fury over Jace's reckless-but-successful counter-ballast (contaminated water / spent margin), her unspoken motive in giving him the window (Siren and the animals), and Saul's post-crisis thank-you note she reads privately and never mentions.

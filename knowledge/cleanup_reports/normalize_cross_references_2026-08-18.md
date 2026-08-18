@@ -70,7 +70,8 @@ last_updated: 2026-08-18
 | `"[[concept_aura_ai_system]]"` | `[[concept_aura_ai_system]]` |
 | `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
 | `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
-| `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch22_quiet_companion]]"` | `[[draft_ch22_quiet_companion]]` |
 
 ### `arcs\arc_01_thread_P_pressure.md`
 
@@ -83,6 +84,7 @@ last_updated: 2026-08-18
 | `"[[char_helena]]"` | `[[char_helena]]` |
 | `"[[char_mei]]"` | `[[char_mei]]` |
 | `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
 
 ### `arcs\arc_01_thread_S_swarm.md`
 
@@ -134,10 +136,11 @@ last_updated: 2026-08-18
 | `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
 | `"[[draft_ch17_falling_behind]]"` | `[[draft_ch17_falling_behind]]` |
 | `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
-| `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
-| `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
-| `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
-| `"[[draft_ch23_the_leech]]"` | `[[draft_ch23_the_leech]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
+| `"[[draft_ch22_quiet_companion]]"` | `[[draft_ch22_quiet_companion]]` |
+| `"[[draft_ch23_no_vampires]]"` | `[[draft_ch23_no_vampires]]` |
+| `"[[draft_ch24_the_leech]]"` | `[[draft_ch24_the_leech]]` |
 
 ### `arcs\arc_02_addendum_kael_two_weeks.md`
 
@@ -348,6 +351,8 @@ last_updated: 2026-08-18
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[char_brandon_moreau]]"` | `[[char_brandon_moreau]]` |
 | `"[[char_nikos_petrou]]"` | `[[char_nikos_petrou]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
 
 ### `characters\char_nick_lee.md`
 
@@ -429,6 +434,8 @@ last_updated: 2026-08-18
 | `"[[char_brandon_moreau]]"` | `[[char_brandon_moreau]]` |
 | `"[[char_nikos_petrou]]"` | `[[char_nikos_petrou]]` |
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
 
 ### `characters\char_spox_ai.md`
 
@@ -1388,10 +1395,31 @@ last_updated: 2026-08-18
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[draft_ch18_later_became_morning]]"` | `[[draft_ch18_later_became_morning]]` |
-| `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
-| `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
+| `"[[draft_ch23_no_vampires]]"` | `[[draft_ch23_no_vampires]]` |
 
-### `scenes\draft_ch20_the_eye_on_three.md`
+### `scenes\draft_ch20_borrowed_light.md`
+
+| Before | After |
+|---|---|
+| `"[[arc_01_falcon_and_fortuna]]"` | `[[arc_01_falcon_and_fortuna]]` |
+| `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
+| `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
+| `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
+| `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
+| `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
+| `"[[char_suzi]]"` | `[[char_suzi]]` |
+| `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
+| `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
+| `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
+| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
+| `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
+| `"[[draft_ch23_no_vampires]]"` | `[[draft_ch23_no_vampires]]` |
+
+### `scenes\draft_ch21_the_eye_on_three.md`
 
 | Before | After |
 |---|---|
@@ -1403,10 +1431,10 @@ last_updated: 2026-08-18
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |
 | `"[[char_seek_ai]]"` | `[[char_seek_ai]]` |
-| `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
-| `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch22_quiet_companion]]"` | `[[draft_ch22_quiet_companion]]` |
 
-### `scenes\draft_ch21_quiet_companion.md`
+### `scenes\draft_ch22_quiet_companion.md`
 
 | Before | After |
 |---|---|
@@ -1423,10 +1451,10 @@ last_updated: 2026-08-18
 | `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
 | `"[[scene_notes_ai_interactions]]"` | `[[scene_notes_ai_interactions]]` |
-| `"[[draft_ch20_the_eye_on_three]]"` | `[[draft_ch20_the_eye_on_three]]` |
-| `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
+| `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
+| `"[[draft_ch23_no_vampires]]"` | `[[draft_ch23_no_vampires]]` |
 
-### `scenes\draft_ch22_no_vampires.md`
+### `scenes\draft_ch23_no_vampires.md`
 
 | Before | After |
 |---|---|
@@ -1443,9 +1471,11 @@ last_updated: 2026-08-18
 | `"[[spec_crossing_mechanics]]"` | `[[spec_crossing_mechanics]]` |
 | `"[[draft_ch09_first_week]]"` | `[[draft_ch09_first_week]]` |
 | `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
-| `"[[draft_ch21_quiet_companion]]"` | `[[draft_ch21_quiet_companion]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch22_quiet_companion]]"` | `[[draft_ch22_quiet_companion]]` |
+| `"[[draft_ch24_the_leech]]"` | `[[draft_ch24_the_leech]]` |
 
-### `scenes\draft_ch23_the_leech.md`
+### `scenes\draft_ch24_the_leech.md`
 
 | Before | After |
 |---|---|
@@ -1460,7 +1490,7 @@ last_updated: 2026-08-18
 | `"[[magic_will_orbs]]"` | `[[magic_will_orbs]]` |
 | `"[[advancement_ledger]]"` | `[[advancement_ledger]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
-| `"[[draft_ch22_no_vampires]]"` | `[[draft_ch22_no_vampires]]` |
+| `"[[draft_ch23_no_vampires]]"` | `[[draft_ch23_no_vampires]]` |
 
 ### `scenes\event_t_forge_no_more_voices.md`
 
@@ -1768,6 +1798,8 @@ last_updated: 2026-08-18
 |---|---|
 | `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
+| `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
 
 ### `technology\tech_origin_logistics.md`
 

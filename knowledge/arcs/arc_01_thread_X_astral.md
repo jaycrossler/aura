@@ -7,12 +7,12 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Scene contracts for Thread X, including ten safe daily exploration crossings,
   an Astral workspace aboard the Victoria, the delayed first fauna reveal inside
-  Fortuna, and the Chapter 19 interface-lab sequence that establishes communication,
-  three-camera recording, environmental measurements, and accidental Will transfer.
+  Fortuna, the Chapter 19 interface lab, the Chapter 20 consent and Will-transfer
+  crisis, and the Chapter 21 Ring Three encounter.
 cross_references:
   - "[[arc_01_falcon_and_fortuna]]"
   - "[[char_jace_apollo]]"
@@ -31,10 +31,11 @@ cross_references:
   - "[[draft_ch16_ten_good_days]]"
   - "[[draft_ch17_falling_behind]]"
   - "[[draft_ch19_fault_lines]]"
-  - "[[draft_ch20_the_eye_on_three]]"
-  - "[[draft_ch21_quiet_companion]]"
-  - "[[draft_ch22_no_vampires]]"
-  - "[[draft_ch23_the_leech]]"
+  - "[[draft_ch20_borrowed_light]]"
+  - "[[draft_ch21_the_eye_on_three]]"
+  - "[[draft_ch22_quiet_companion]]"
+  - "[[draft_ch23_no_vampires]]"
+  - "[[draft_ch24_the_leech]]"
 ---
 
 # Thread X — Astral Exploration
@@ -312,7 +313,7 @@ exposition.
 
 ---
 
-#### X-04 — The Interface Lab / Fault Lines
+#### X-04a — The Interface Lab / Fault Lines
 
 **Summary:** After Sophia's near-fatal separation from Fortuna, she and Jace rank
 their immediate engineering needs: communication first, imagery and recording
@@ -336,18 +337,6 @@ and retains the energy; Sophia becomes profoundly exhausted and begins avoiding 
 Their next coordinated push/pull transfers several Sparky components far faster
 than normal.
 
-The following morning, their wired probe measures approximately -20°C in open
-Astral space, warmer temperatures in older attached volumes, and elevated carbon
-dioxide and humidity in the repeatedly occupied Astral room. They infer that heat
-crosses the membrane faster than matter, while gas accumulates very slowly and
-local breathing changes sealed Astral pockets.
-
-That evening, Jace accidentally touches {Misty}'s Astral processor signature and
-draws AI Will. {Misty} reboots with recent-memory gaps and repeated outputs. Sophia
-names the earlier drain as a felt betrayal even though Jace did not intend it. They
-adopt a no-contact boundary and decide to investigate the Ring Three figure using
-Sparky, the relay, cameras, and a tether.
-
 **Must accomplish:**
 1. Rank communication, imagery/recording, and physics in that order.
 2. Establish slow but usable one-way electronic communication from the Real into
@@ -360,13 +349,11 @@ Sparky, the relay, cameras, and a tether.
    patient study.
 6. Render Sophia's working with her canonical green-blue branching signature,
    yellow-white concentration, and ragged gold-white plume.
-7. Move the Sophia and {Misty} drains here from the older No Vampires draft;
-   neither event is intentional, safe, or ethically neutral.
-8. Preserve {Misty}'s normal operation between the two drain events.
-9. Establish approximately -20°C open-space temperature, age-dependent local
-   warming, slow atmospheric bleed, and breathing-driven CO2/humidity accumulation.
-10. End with Sophia's trust damaged, explicit no-touch boundaries, Nick still
-    excluded, and a direct launch into the Ring Three investigation.
+7. Move the Sophia drain here from the older No Vampires draft; the event is
+   accidental, harmful, and ethically consequential rather than advancement.
+8. Preserve {Misty}'s normal operation throughout the Chapter 19 work-repair interval.
+9. End with Sophia's trust damaged, Nick still excluded, and the Council's new
+   movement restriction tightening the station around them.
 
 **Must NOT do:**
 - Treat Jace's temporary energy gain as an advancement or a stable new ability.
@@ -374,6 +361,78 @@ Sparky, the relay, cameras, and a tether.
 - Use `[Skill]` bracket notation in prose.
 - Make Sophia's anger irrational or erase the bodily violation because the drain
   was accidental.
+
+---
+
+#### X-04b — Borrowed Light
+
+**Summary:** The following morning, Jace and Sophia's wired probe measures
+approximately -20°C in open Astral space, warmer temperatures in older attached
+volumes, and elevated carbon dioxide and humidity in their repeatedly occupied
+room. They infer that heat crosses the membrane faster than matter, while gas
+accumulates slowly and local breathing changes sealed Astral pockets.
+
+Sophia names the prior Will drain as a bodily violation. Jace initially relies on
+the consent she gave while both were impaired, then recognizes that the follow-on
+test should never have continued. After Suzi's evidence leads Jace into a losing
+fight with Yáo, Jace and Sophia attempt one passive observation of {Misty}'s
+processor signature under a no-contact rule. Pain makes Jace stumble across their
+marked boundary. He touches the signature and drains {Misty}, who reboots with
+recent-memory gaps and repeated speech. Sophia removes Jace from the *Victoria*
+and later sets explicit limits on contact and future crossings. They plan a remote,
+tethered Ring Three observation and agree to withdraw at the first anomaly.
+
+**Must accomplish:**
+1. Establish the local temperature, age, CO2, and humidity gradient without making
+   any Astral pocket safely breathable.
+2. Treat impaired consent as invalid and let Jace learn that safety requires a
+   fresh agreement after any unexpected transfer.
+3. Preserve the Long Burn fight as political pressure and confirmation bias, not
+   proof that the Chinese crew planted the creature.
+4. Make the {Misty} contact a rule-breaking accident with a clear physical cause,
+   not deliberate experimentation or advancement.
+5. Protect life support through the dock umbilical while {Misty} is offline.
+6. Give {Misty} specific residual symptoms: recent-memory gaps, repeated external
+   outputs, and awareness that she generated the underlying sentence once.
+7. Let Sophia enforce removal and no-contact boundaries without apologizing for
+   protecting herself or {Misty}.
+8. End with a controlled launch into the Ring Three investigation while Nick
+   remains excluded from the facts behind Jace's apology.
+
+**Must NOT do:**
+- Frame Sophia's boundary as punishment or require her to comfort Jace.
+- Turn the temporary borrowed energy into a repeatable capability.
+- Let the environmental measurements prove a complete theory of the Astral.
+- Resolve whether the Chinese inspection of the *Falcon* connects to the creature.
+
+---
+
+#### X-04d — The Eye on Three
+
+**Summary:** Jace and Sophia take Sparky, three cameras, paper navigation,
+independent timers, and a copper tether into Ring Three. The apparent surveillance
+drone proves organic. It reaches toward organized light and command structures,
+pursues them through doubled geometry, and stops once at the rotating-ring-to-spine
+boundary after Sophia uses ordered material and controlled force defensively.
+
+On return, three systems express the same anomaly: {Misty} generates one sentence
+but speaks it twice, Sparky records one stop command but produces several physical
+wheel turns, and {Seek} preserves mutually exclusive security conclusions as valid.
+The chapter records the pattern without explaining it.
+
+**Must accomplish:**
+1. Keep Jace's Chinese-surveillance hypothesis plausible but unproven.
+2. Establish wet tissue, irregular joints, and a living eye before the pursuit.
+3. Show that the creature reaches for Sparky's command-light before attacking bodies.
+4. Use copper successfully once, at one boundary, without declaring a universal rule.
+5. Preserve crossing debt through Jace's numb hands and Sophia's visible tremor.
+6. End on one instruction producing multiple locally valid outcomes across
+   {Misty}, Sparky, and {Seek}; defer the mechanism to later chapters.
+
+**Must NOT do:**
+- Exonerate or convict the Chinese crew.
+- Explain the creature's origin, ecology, or full relationship to AI systems.
+- Treat a single boundary event as reproducible protection.
 
 ---
 
@@ -489,9 +548,9 @@ logs the coordinates and visits it later.
 
 ---
 
-#### X-04c — "The Foundational Recording" (folded into X-04)
+#### X-04c — "The Foundational Recording" (folded into X-04a)
 
-**Status:** The originating recording now occurs during Chapter 19's X-04
+**Status:** The originating recording now occurs during Chapter 19's X-04a
 interface-lab sequence rather than waiting for a separate hundred-node-array scene.
 Jace records Sophia's physical-space force from the Astral with the three-camera
 Sparky rig. The feeds are incomplete and contradictory, but they become the first
@@ -566,6 +625,9 @@ using the camera system and telemetry they designed.
 
 ## Revision Notes (this file)
 
+- 2026-08-18: Split the former X-04 across X-04a (Chapter 19 interface lab),
+  X-04b (Chapter 20 consent and Will-transfer crisis), and X-04d (Chapter 21
+  Ring Three encounter). X-04c remains the recording nested inside X-04a.
 - 2026-08-17: Added X-04 as the Chapter 19 interface-lab contract; folded the
   previously proposed X-04c demonstration into that scene and preserved later
   {Aura} correlation as follow-on rather than a duplicate discovery.

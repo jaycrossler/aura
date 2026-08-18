@@ -1,7 +1,8 @@
 ---
 id: char_saul
-name: Saul (last name TBD)
-aliases: []
+name: Patrick Saul
+aliases: ["Patrick", "Saul"]
+description: "Character profile for Patrick Saul, Maureen's husband, shipbuilding partner, and remote engineer mentor during transit."
 species: human
 gender: male
 pronouns: he/him
@@ -30,27 +31,27 @@ condition: >
   workers. Surgery was successful but recovery takes time. He did not travel to Fortuna.
   He is on Mars, getting better, slowly.
 narrative_importance: >
-  Saul's cancer is not a dramatic plot device — it is texture. People in the future don't
-  auto-heal. Radiation exposure in space is real and cumulative. Saul is what a career
+  Patrick's cancer is not a dramatic plot device — it is texture. People in the future don't
+  auto-heal. Radiation exposure in space is real and cumulative. Patrick is what a career
   in this industry costs, paid quietly over decades.
 
 # Remote Oversight
-description: "Character profile for Saul, Maureen's husband and remote engineer mentor during transit."
-  Saul monitors Jace's maintenance work remotely via the Falcon's ubiquitous camera
+remote_oversight: >
+  Patrick monitors Jace's maintenance work remotely via the Falcon's ubiquitous camera
   system. There is a time lag — minutes to tens of minutes depending on orbital geometry —
   but he checks in regularly. He leaves occasional voice notes or text flags on completed
   tasks. His assessments are brief and positive. He is pleased with the progress.
   He does not over-explain or effusively praise. He just notes: good weld, correct torque,
   nice catch on the baffle.
 effect_on_jace: >
-  Jace didn't know Saul was watching until he found the first voice note. He now
+  Jace didn't know Patrick was watching until he found the first voice note. He now
   occasionally narrates his work slightly more than necessary. He would deny this.
 effect_on_maureen: >
-  She knows Saul is watching. She has not told Jace. She checks his notes every evening.
+  She knows Patrick is watching. She has not told Jace. She checks his notes every evening.
 
 # Personality
 core_traits: [quiet, dependable, patient, skilled, undemanding]
-description: >
+personality_summary: >
   Stays out of everyone's way. Does not volunteer opinions. Is not unfriendly —
   simply focused. The kind of person whose competence you notice after the fact,
   when you realize the thing that was broken no longer is.
@@ -67,36 +68,43 @@ arc: Minor supporting character with thematic weight. Full arc TBD beyond Book 1
 related_characters: [char_maureen, char_jace_apollo]
 related_ships: [ship_falcon]
 related_locations: [location_mars_overview, location_fortuna_station]
-last_updated: 2026-06-17
+last_updated: 2026-08-18
 cross_references:
   - "[[voice_char_saul]]"
   - "[[char_maureen]]"
   - "[[char_jace_apollo]]"
 ---
 
-# Saul
+# Patrick Saul
 
 ## Summary
 
-Saul is Maureen's husband and the *Falcon*'s engineer. He is not aboard for the Book 1 transit — he is on Mars recovering from cancer surgery. Radiation-induced. Occupational. The kind of thing that happens to people who spend careers in space and don't make a fuss about it.
+Patrick Saul is Maureen's husband and the *Falcon*'s engineer. The current chapter
+prose calls him Patrick; the existing `char_saul` ID remains stable for links. He
+was working on ships when he met Maureen and helped her buy and build the *Falcon*
+after she left the Navy as a chief. He is not aboard for the Book 1 transit — he is
+on Mars recovering from cancer surgery. Radiation-induced. Occupational. The kind
+of thing that happens to people who spend careers in space and don't make a fuss about it.
 
 He monitors the ship remotely. The camera system gives him eyes on every compartment, every repair job, every panel Jace pulls. The time lag means his responses arrive minutes after the fact — a voice note on a sealed junction, a flag on a torque value, a single word: *good.* Jace found the first note three weeks in and hasn't mentioned it to anyone.
 
-Saul is what this industry costs. He is also, quietly, one of the most competent people on the ship — even from 200 million kilometers away.
+Patrick is what this industry costs. He is also, quietly, one of the most competent people on the ship — even from 200 million kilometers away.
 
 ## The Thank-You (Post Plumbing-Crisis)
 
-After Jace saves the *Falcon* during the mid-transit plumbing near-disaster (see [[book01-ch02-plumbing-crisis]]), Saul sends a private message from Mars — time-delayed, arriving after the danger has long passed. It is brief, technically specific, and warmer than his usual repair notes: an acknowledgment, engineer to engineer, that Jace kept Saul's ship flying when Saul couldn't be there to do it himself. It is not effusive. From Saul, it is a lot.
+After Jace saves the *Falcon* during the mid-transit plumbing near-disaster (see [[book01-ch02-plumbing-crisis]]), Patrick sends a private message from Mars — time-delayed, arriving after the danger has long passed. It is brief, technically specific, and warmer than his usual repair notes: an acknowledgment, engineer to engineer, that Jace kept Patrick's ship flying when Patrick couldn't be there to do it himself. It is not effusive. From Patrick, it is a lot.
 
 Maureen reads it, as she reads all of his notes (see [[char_maureen]]). She says nothing to Jace. The note costs Saul little to send and means a great deal to a man who measures himself by being needed; that is exactly why it lands.
 
 ## Open Questions
 
-- Full name and Haitian background detail
+- Haitian background detail
 - Whether his cancer becomes a recurring thread or remains background texture
 - His in-person meeting with Jace — when, where, what is said
 - Whether he ever returns to the *Falcon* or retires with Maureen
 
 ## Revision Notes
 
+- 2026-08-18: Reconciled the current chapter name Patrick with the stable
+  `char_saul` ID as Patrick Saul. Added his shipbuilding history with Maureen.
 - 2026-06-17: Added the post-plumbing-crisis private thank-you message to Jace (read by Maureen, unmentioned).

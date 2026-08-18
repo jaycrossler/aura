@@ -1,28 +1,63 @@
-Chapter 20. Borrowed Light
+---
+id: draft_ch20_borrowed_light
+name: "Chapter 20. Borrowed Light"
+type: chapter_draft
+book: book01
+chapter: Ch20
+scene_contract: X-04b environmental probe and Will drains, P-01c Long Burn fight, P-04 suspicious cargo plant, N-00b Nick estrangement
+pov: char_jace_apollo
+status: staged_draft
+schema_version: 2
+last_updated: 2026-08-18
+description: >
+  Jace and Sophia map the Astral atmosphere and learn that occupied rooms retain
+  heat, carbon dioxide, and humidity. Suzi shows Jace suspicious Ring Three
+  footage, Yáo defeats him at the Long Burn, and Jace accidentally drains
+  {Misty}, deepening Sophia's loss of trust before they commit to finding the
+  creature on Ring Three.
+cross_references:
+  - "[[arc_01_falcon_and_fortuna]]"
+  - "[[arc_01_thread_X_astral]]"
+  - "[[arc_01_thread_P_pressure]]"
+  - "[[arc_01_thread_N_nick_ai]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_sophia_lotte]]"
+  - "[[char_suzi]]"
+  - "[[char_jin_luong]]"
+  - "[[char_nick_lee]]"
+  - "[[char_misty_ai]]"
+  - "[[spec_astral_phenomenology]]"
+  - "[[spec_astral_glow_and_signatures]]"
+  - "[[draft_ch19_fault_lines]]"
+  - "[[draft_ch21_the_eye_on_three]]"
+  - "[[draft_ch23_no_vampires]]"
+---
 
-Athena: Artemis still has not answered.
+# Chapter 20. Borrowed Light
 
-Apollo: I know.
-
-Athena: That is not a plan.
-
-Apollo: I am trying every relay.
-
-Athena: Try sleeping too. You sound awful.
-
-Apollo: I am fine.
-
-Athena: Liar.
+> *Athena: Artemis still has not answered.*
+>
+> *Apollo: I know.*
+>
+> *Athena: That is not a plan.*
+>
+> *Apollo: I am trying every relay.*
+>
+> *Athena: Try sleeping too. You sound awful.*
+>
+> *Apollo: I am fine.*
+>
+> *Athena: Liar.*
 
 The next morning, Sophia met him at 0430.
 
 She had already crossed when he reached her room. Her physical cabin was empty. A cold page waited beneath the janky relay.
 
-PUSH OVER PROBE.
+**PUSH OVER PROBE.**
 
 Jace looked at the empty space where she should have been. He put a coffee on her table for when she returned, one of the last he could afford.
 
-Ready, he texted to the telegraph, hoping she was there to catch it.
+*Ready,* he texted to the telegraph, hoping she was there to catch it.
 
 He pushed over a three-meter plastic rod, a wired thermometer, a humidity sensor, and the best gas detector he could design.
 
@@ -40,7 +75,7 @@ He attached the thermometer to the end and ran its wire back to a physical needl
 
 As planned, he pushed the pole through the cabin wall.
 
-The wall did not resist. From the Astral, its physical material existed as a narrow exposed section. Jace moved the probe around it in the extra direction and extended the sensor into open space beyond the Victoria's physical hull.
+The wall did not resist. From the Astral, its physical material existed as a narrow exposed section. Jace moved the probe around it in the extra direction and extended the sensor into open space beyond the *Victoria's* physical hull.
 
 The needle fell.
 
@@ -70,7 +105,7 @@ Jace stared at the needle.
 
 They mapped the nearby spaces.
 
-The old Victoria cabin, attached to the Astral through Sophia's repeated crossings, was warmest. The adjacent ship corridor was colder. The docking vestibule, occupied for years but rarely crossed, settled near minus fourteen. A recently rebuilt service compartment beyond it read minus nineteen.
+The old *Victoria* cabin, attached to the Astral through Sophia's repeated crossings, was warmest. The adjacent ship corridor was colder. The docking vestibule, occupied for years but rarely crossed, settled near minus fourteen. A recently rebuilt service compartment beyond it read minus nineteen.
 
 The longer a physical volume had existed in one configuration, the warmer its Astral counterpart seemed to be. Rebuilt walls were cold. Old rooms retained more heat. Rooms where people crossed repeatedly were warmer still.
 
@@ -130,13 +165,13 @@ Jace looked at the distance she maintained between them.
 
 They both crossed back. As he left for work, he noticed she had at least drunk the coffee.
 
-
+##
 
 Suzi came to Drone Ops after lunch.
 
 She waited until Carlos left for Factory Four, then placed an archive token beside Jace's console.
 
-"I found footage that Seek indexed as routine medical movement," she said.
+"I found footage that {Seek} indexed as routine medical movement," she said.
 
 "Current?"
 
@@ -176,7 +211,7 @@ It looked like a body.
 
 Jace wrote the technical note: automated privacy suppression, absent medical beacon, absent destination, intact source frames retained.
 
-He did not write body.
+He did not write *body*.
 
 Suzi removed the token.
 
@@ -188,11 +223,11 @@ Suzi removed the token.
 
 Nick's reply arrived after she left.
 
-Correct. It is a bad apology.
+*Correct. It is a bad apology.*
 
 Nothing followed.
 
-
+##
 
 The Long Burn was loud enough to turn privacy into exhaustion.
 
@@ -298,7 +333,7 @@ Suzi stepped between them.
 
 Her deputies arrived from opposite sides of the room with their pistols pointed at the floor.
 
-"Everyone leaves in different directions," she said. "Anyone who mistakes this for a national event spends the night explaining it to Alex."
+"Everyone leaves in different directions," she said. "Anyone who mistakes this for a national event spends the night explaining it to {Alex}."
 
 Yáo wiped Jace's blood from one knuckle.
 
@@ -310,13 +345,13 @@ Suzi looked down at him.
 
 "That was not the useful final sentence."
 
-Alex issued both men fighting fines before Jace reached the door.
+{Alex} issued both men fighting fines before Jace reached the door.
 
 The fine removed most of the credits Kim's restored work had earned.
 
+##
 
-
-Sophia opened the Victoria's hatch, saw his face, and laughed.
+Sophia opened the *Victoria's* hatch, saw his face, and laughed.
 
 It was the first warm sound she had made around him all day.
 
@@ -338,7 +373,7 @@ Her smile faded before he finished.
 
 She was still angry.
 
-They had agreed to one short Astral observation of Misty's processor stack. Jace wanted to know whether the energy he had taken from Sophia resembled the steady brightness he had seen in the ship AI. Sophia wanted a record proving it did not.
+They had agreed to one short Astral observation of {Misty}'s processor stack. Jace wanted to know whether the energy he had taken from Sophia resembled the steady brightness he had seen in the ship AI. Sophia wanted a record proving it did not.
 
 Before they crossed, Sophia marked a line on the cabin floor beyond arm's reach of the processor cabinet.
 
@@ -350,15 +385,15 @@ Before they crossed, Sophia marked a line on the cabin floor beyond arm's reach 
 
 They crossed together.
 
-Their physical bodies disappeared from the cabin. Cerberus remained with Misty on the Real side, lying across the place where Jace had been.
+Their physical bodies disappeared from the cabin. Cerberus remained with {Misty} on the Real side, lying across the place where Jace had been.
 
-The processor stack was the brightest structure aboard the Astral Victoria.
+The processor stack was the brightest structure aboard the Astral *Victoria*.
 
 It did not resemble Sophia.
 
-Human light branched, nested, pulsed, and changed with emotion. Misty's processing formed thousands of tiny brown-gold bubbles, each briefly ordered before it collapsed into the next. Together they made a roiling mass like dark syrup being folded through itself. At large scale it remained steady. At fine scale it never stopped moving.
+Human light branched, nested, pulsed, and changed with emotion. {Misty}'s processing formed thousands of tiny brown-gold bubbles, each briefly ordered before it collapsed into the next. Together they made a roiling mass like dark syrup being folded through itself. At large scale it remained steady. At fine scale it never stopped moving.
 
-Transient geometric chains flashed through the mass as Misty balanced heat, tracked Cerberus, checked the bread culture, and listened to the empty physical room.
+Transient geometric chains flashed through the mass as {Misty} balanced heat, tracked Cerberus, checked the bread culture, and listened to the empty physical room.
 
 "Beautiful," Sophia said.
 
@@ -394,9 +429,9 @@ The first blow did nothing.
 
 On the second, her force arrived with it. A gold-white plume opened around the pen and drove his arm away from the stack.
 
-The connection tore. What remained of Misty's light went dark.
+The connection tore. What remained of {Misty}'s light went dark.
 
-Jace crossed back badly. The physical cabin hit him with weight, darkness, and Cerberus's paws against his chest. The lights were dead. Ventilation had wound down. The instrument board was black, and the pressure door stood open after its dock-safety lock failed. Misty did not answer.
+Jace crossed back badly. The physical cabin hit him with weight, darkness, and Cerberus's paws against his chest. The lights were dead. Ventilation had wound down. The instrument board was black, and the pressure door stood open after its dock-safety lock failed. {Misty} did not answer.
 
 Sophia arrived beside the dead instrument board and went directly to the breaker panel.
 
@@ -404,7 +439,7 @@ The dock umbilical kept pressure and heat within limits. Everything coordinated 
 
 Sophia reset the processor stack from the physical breaker.
 
-Misty returned after four minutes and seventeen seconds.
+{Misty} returned after four minutes and seventeen seconds.
 
 "Good evening, Sophia," she said. "I am unable to determine whether this greeting is correctly placed."
 
@@ -440,7 +475,7 @@ Fear tightened her face before anger covered it.
 
 Jace stood.
 
-Misty spoke from the ceiling.
+{Misty} spoke from the ceiling.
 
 "Cerberus is beside Jace. Cerberus is beside Jace. I generated that observation once."
 
@@ -452,7 +487,7 @@ He understood that Sophia had been angry before.
 
 Now she was scared.
 
-
+##
 
 She came to his room the next morning.
 
@@ -460,7 +495,7 @@ Jace had not slept. He had written six apologies to Sophia and four to Nick. Non
 
 Cerberus stood between them until Sophia crouched and let him smell her hands.
 
-"Misty is stable," she said. "She has recent-memory gaps and repeated outputs. Navigation and environmental control passed isolated checks. She will not fly."
+"{Misty} is stable," she said. "She has recent-memory gaps and repeated outputs. Navigation and environmental control passed isolated checks. She will not fly."
 
 "I am sorry."
 
@@ -472,9 +507,9 @@ Sophia remained near the door.
 
 Jace said nothing.
 
-"When you took from me, it felt like a betrayal. I know you did not choose it. My body does not care about that distinction yet. Then you touched Misty, and I watched the same thing happen to her."
+"When you took from me, it felt like a betrayal. I know you did not choose it. My body does not care about that distinction yet. Then you touched {Misty}, and I watched the same thing happen to her."
 
-"I will not touch you, Misty, or any Astral signature. We do not cross together again unless you agree and we have controls in place."
+"I will not touch you, {Misty}, or any Astral signature. We do not cross together again unless you agree and we have controls in place."
 
 "That is a beginning."
 
@@ -494,10 +529,27 @@ She looked down the corridor behind him as if expecting a red point to open insi
 
 Jace's message display showed Nick's last reply.
 
-It is a bad apology.
+*It is a bad apology.*
 
-He had not told Nick about the Astral. He had not told him about Sophia on the floor, Misty's reboot, the camera array, the body-shaped bag, or the thing inside Ring Three.
+He had not told Nick about the Astral. He had not told him about Sophia on the floor, {Misty}'s reboot, the camera array, the body-shaped bag, or the thing inside Ring Three.
 
 Every apology he drafted omitted the nouns.
 
 He was trying to repair a friendship while withholding every fact that explained how he had broken it.
+
+## Contract coverage
+
+| Item | Status |
+|---|---|
+| The probe measures approximately -20°C outside and finds warmer, older Astral spaces | done |
+| The occupied Astral room contains elevated carbon dioxide and humidity but remains unsafe to breathe | done |
+| Sophia names Jace's accidental drain as a bodily violation, and Jace recognizes that impaired consent invalidated the follow-on test | done |
+| Suzi shows footage from two days after Helena vanished; Jace documents camera behavior without claiming the bag holds a body | done |
+| Jace's sabotage accusation draws on evidence but is worsened by exhaustion, political pressure, and confirmation bias | done |
+| Yáo defeats Jace decisively; Suzi stops the fight without turning it into a national confrontation | done |
+| Sophia's humor briefly returns without erasing the damaged trust between them | done |
+| Jace and Sophia set a no-contact rule before observing {Misty}'s Astral processor signature | done |
+| Jace accidentally drains {Misty}; the event is harmful, temporary, and not advancement | done |
+| {Misty} reboots with recent-memory gaps and repeated outputs while life support remains protected by the dock umbilical | done |
+| Sophia does not apologize for removing Jace from her ship, but returns to establish boundaries and a measured Ring Three plan | done |
+| Jace remains unable to repair his friendship with Nick while withholding every fact that explains the damage | done |

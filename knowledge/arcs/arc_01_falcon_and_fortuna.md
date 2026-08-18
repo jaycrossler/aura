@@ -6,7 +6,7 @@ name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
@@ -268,7 +268,7 @@ list as complete.)*
 | Kim's scowl, unexplained | A-03 | Migraines revealed via Astral sight; resolution (her Will manifestation) deferred to a future arc |
 | Torres's dread near the scratched asteroid | A-04 | His death in the swarm battle lands harder for the reader having seen his fear pay off as real instinct |
 | Thread T: Jace won't discuss the discharge | `X-05c`: the bridges confessed to Nick |
-| `X-04c`: Jace records Sophia's manifestations | Far-future: Sophia's foundational papers / human magical theory |
+| `X-04c`: Jace records Sophia's manifestations in Chapter 19 | Far-future: Sophia's foundational papers / human magical theory |
 | Escalating fauna (Tick-Maw → Bloated Maw → Queen) | `S-01`: the swarm — the two curves collide, closing Act 1 |
 | `X-05c`: Nick commits to {Aura} instrumentation | Knowledge-compounding: better measurement → faster theory (and Nick's swarm relay) |
 
@@ -340,7 +340,9 @@ Full contracts live in the linked thread file.
 | 22 | X-02a | X | Tick-Maw / med bay — egg planted | thread_X | ok |
 | 23 | X-02b | X | The Sweep — goat, servers, "Invasion Force?" notebook | thread_X | ok |
 | 24 | X-03 | X | **NEW — proposed:** Sophia notices Jace's "two cores" | thread_X | drafted this pass, pending approval |
-| 25 | X-04 | X | Interface Lab / Fault Lines — relay, three-camera Sparky, environmental measurements, accidental Will transfer | `draft_ch19_fault_lines` + thread_X | drafted |
+| 25 | X-04a | X | Interface Lab / Fault Lines — relay, three-camera Sparky, foundational force recording, accidental Sophia Will transfer | `draft_ch19_fault_lines` + thread_X | drafted |
+| 25b | X-04b | X | Borrowed Light — environmental probe, consent rupture, Long Burn fight, accidental {Misty} drain | `draft_ch20_borrowed_light` + thread_X | drafted |
+| 25c | X-04d | X | The Eye on Three — Ring Three organism, doubled commands, contradictory AI outputs | `draft_ch21_the_eye_on_three` + thread_X | drafted |
 | 26 | X-05a | X | The Numbers Go Wrong — laser ranging derivation | thread_X | ok — see Open Decision #8 |
 | 27 | X-05b | X | The Unstable Site — asteroid interior survey | thread_X | ok |
 | 28 | X-05c | X | "This Changes Everything" — Nick disclosure | thread_X | ok |
