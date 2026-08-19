@@ -359,15 +359,15 @@ It was the first warm sound she had made around him all day.
 
 "The evidence currently supports that conclusion."
 
-"Were you not in the military?"
+"Weren't you in the military?"
 
 Jace touched his split lip and regretted it.
 
-"I was only in two battles. Both times I pushed keys to fly drones on the other side of the world."
+"I was Air Force, and only in two battles. Both times I pushed keys to fly drones on the other side of the world."
 
 "No one punched you through the screen?"
 
-"The military considered that a security feature."
+"The military would considered that a security vulnerability."
 
 Her smile faded before he finished.
 
@@ -387,9 +387,9 @@ They crossed together.
 
 Their physical bodies disappeared from the cabin. Cerberus remained with {Misty} on the Real side, lying across the place where Jace had been.
 
-The processor stack was the brightest structure aboard the Astral *Victoria*.
+Misty's processor stack was the brightest structure aboard the Astral *Victoria*.
 
-It did not resemble Sophia.
+It did not resemble Sophia's thoughts.
 
 Human light branched, nested, pulsed, and changed with emotion. {Misty}'s processing formed thousands of tiny brown-gold bubbles, each briefly ordered before it collapsed into the next. Together they made a roiling mass like dark syrup being folded through itself. At large scale it remained steady. At fine scale it never stopped moving.
 
@@ -397,41 +397,17 @@ Transient geometric chains flashed through the mass as {Misty} balanced heat, tr
 
 "Beautiful," Sophia said.
 
-"Different."
-
-"Both can be true."
-
 Jace leaned forward to inspect a line that ended abruptly near the environmental controller. He kept both feet behind the line.
 
-Pain from Yáo's last strike tightened across his ribs.
-
-His balance broke. He stumbled across the boundary Sophia had marked.
-
-He reached for the nearest solid shape.
-
-His hand struck the stack.
-
-The lattice seized him.
-
-Light poured into Jace.
-
-Not threads. A flood.
+This time, it was Sophia. She reached out a finger to touch the bubbles. As soon as she did, it was like a spark jumped to her. 
 
 Whole regions of the brown-gold mass dimmed. Thousands of bubbles collapsed without reforming. The energy filled Jace until the blocks of his own thought shone white at their edges.
 
-He tried to let go.
+She wrenched her hand away.
 
-His hand would not open.
+The connection tore. Part of {Misty}'s light had gone dark.
 
-Sophia struck his wrist with her father's wooden pen.
-
-The first blow did nothing.
-
-On the second, her force arrived with it. A gold-white plume opened around the pen and drove his arm away from the stack.
-
-The connection tore. What remained of {Misty}'s light went dark.
-
-Jace crossed back badly. The physical cabin hit him with weight, darkness, and Cerberus's paws against his chest. The lights were dead. Ventilation had wound down. The instrument board was black, and the pressure door stood open after its dock-safety lock failed. {Misty} did not answer.
+They crossed back badly. The physical cabin hit him with weight, darkness, and Cerberus's paws against his chest. The lights were dead. Ventilation had wound down. The instrument board was black, and the pressure door stood open after its dock-safety lock failed. {Misty} did not answer.
 
 Sophia arrived beside the dead instrument board and went directly to the breaker panel.
 
@@ -453,21 +429,13 @@ Silence.
 
 "I do not remember the remainder."
 
-Jace sat against the opposite wall.
-
-The borrowed energy inside him had vanished. His ribs hurt. His head hurt. He felt sick.
-
-"I did it again," he said.
-
-Sophia looked at him.
-
 Fear tightened her face before anger covered it.
 
 "Leave."
 
 "I can help check the stack."
 
-"Do not touch her. Do not touch anything. Leave my ship."
+"No, we are playing with fire. We have to stop and think. Leave my ship."
 
 "Sophia—"
 
@@ -507,7 +475,7 @@ Sophia remained near the door.
 
 Jace said nothing.
 
-"When you took from me, it felt like a betrayal. I know you did not choose it. My body does not care about that distinction yet. Then you touched {Misty}, and I watched the same thing happen to her."
+"When you took from me, it felt like a betrayal. I know you did not choose it. My body does not care about that distinction yet. Then I touched {Misty}, and I watched the same thing happen to her."
 
 "I will not touch you, {Misty}, or any Astral signature. We do not cross together again unless you agree and we have controls in place."
 
