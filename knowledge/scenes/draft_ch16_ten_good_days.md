@@ -341,6 +341,8 @@ Across the cabin, Nikos frowned at something on a screen. His signature favored 
 
 "Emotion has a vocabulary," Sophia replied. "The deeper color and shape seem to belong to each person differently. We are seeing process, memory, practiced ability—perhaps intention. Not sentences. We should be very careful about pretending we know more than that."
 
+"I feel like this is a huge invasion of privacy to know how, if not what, people are thinking."
+
 Cerberus snoozed, also with thoughts and lights dancing through his head. Much dimmer, less organized and complex, but constantly moving.
 
 They moved aft to {Misty}'s isolated processor stack. It was brighter than either man and far brighter than the reactor, but brightness was the least human thing about it. Myriad brownish bubbles rolled through a murky gold mass, each briefly precise, each collapsing into the next, like sea foam. Where Brandon's attention had followed branching paths, tiny geometric chains now formed in {Misty}'s core. Where Nikos's problem had resolved in a pearl loosening, one dense knot in the stack relaxed by a fraction.

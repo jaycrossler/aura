@@ -237,7 +237,7 @@ He smiled at her enthusiasm. That beeping might get old quickly. He resolved to 
 
 "The floor feels solid. Or at least, the lower layer which is graphite. The steel above it lets me easily sink a finger through it."
 
-"The floor is solid until it does not. My foot almost fell through once. I don't let myself think that way anymore."
+"The floor is solid until is does not. My foot almost fell through once when I got distracted. I don't let myself think that way anymore."
 
 "I see your friends outside, glowing. But what is over there? Your ship's reactor is bright, and so are the water tanks. But the thing behind the aft lab is brighter than the reactor. Way brighter."
 
