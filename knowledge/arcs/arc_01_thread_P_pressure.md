@@ -115,6 +115,31 @@ both men. Jin is absent.
 
 ---
 
+#### P-04 — The Silver Premium (plant only)
+
+**Summary:** During Chapter 21's bunk scene, Jace overhears Kim's traffic
+complaint mention that "the Chinese office" is paying triple for silver assay
+this quarter. This is a plant, not a payoff — it lands beside Jin's crew's
+unscheduled overnight survey launch and the silver stairway discovery from the
+same chapter, letting the reader connect silver-as-shielding to silver-as-
+mining-priority without a character stating the connection outright.
+
+**Must accomplish:**
+1. Deliver the detail as overheard background dialogue, not a briefing.
+2. Do not have Jace or Sophia draw the silver-shielding/silver-mining
+   connection explicitly in Ch21; let Ch22's survey do that inferential work
+   instead, later and more deliberately.
+3. Leave open whether this is state policy, a single office's initiative, or
+   related to the unlisted room at all — do not resolve it here.
+
+**Must NOT do:**
+- Confirm that the silver premium is driven by knowledge of its
+  Astral-blocking properties. It may simply be a market fact the reader is
+  meant to notice before the characters fully connect it.
+
+
+---
+
 #### P-02 — The Station's Two Faces
 
 **Summary:** Jace begins to understand the gap between Fortuna's public story and

@@ -315,6 +315,14 @@ Jace forgot his headache for several seconds.
 
 "They are expensive," Carlos said. "No air, almost no dust, almost no vibrations. That's where most computer memory chips are made, or the crystal pieces of them are, anyway."
 
+"And the metal side? Everyone keeps telling me the asteroid's basically a vault."
+
+"It is. Silver, gold, whole seams of it, sitting under regolith that's been undisturbed for four billion years. You could walk out an airlock with a survey scanner and a truck and come back with more than most people on Earth see in a lifetime."
+
+"So why isn't everyone rich?"
+
+"Because the day someone actually does that at scale, the market for it collapses in an afternoon and every station loses its export revenue at once. Origin manages the extraction rate on purpose. Slow, boring, profitable. Nobody gets to be a prospector out of a storybook." Carlos shrugged, already moving on. "So it goes into door handles and railing instead of vaults. Cheaper than importing steel that rusts."
+
 A palm-sized service drone crossed the bay, stopped inside an electrostatic cleaning frame, rotated through three fields, and continued only after a particle counter approved it.
 
 "The asteroid is almost two percent gravity," Carlos continued. "Enough for dust to settle. Fortuna makes dust by mining, cutting, printing, walking, and existing. The farm drones never leave this loop. Their bearings are sealed. Their manipulators clean themselves before every contact. One dirty wheel can spoil three months of growth."

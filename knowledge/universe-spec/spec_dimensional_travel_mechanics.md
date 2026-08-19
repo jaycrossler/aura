@@ -547,11 +547,78 @@ Conscious beings emit Will as visible light in the dimensional layers.
 - Black holes: intensely bright in the dimensional layers, with directional streams of
   efflux visible as luminous currents
 
-### The Density Trap
+**⚠️ NEW, UNEXPLAINED — creature aversion:** Chapters 20-21 also establish that
+at least one Astral organism actively avoids crossing a silver boundary, not
+merely failing to see through it. Sophia's working note calls this an
+"unexplained aversion" rather than toxicity, deliberately, per the standing
+rule that in-story materials never get a stated mechanism this early. Copper
+showed a milder version of the same avoidance in Ch21's original draft. Do not
+let any character explain why in Arc 1. Do not generalize this to "all Astral
+fauna" — it is observed in one organism, once, under specific conditions.
 
-Dense elements — lead, tungsten, refined heavy metals — create visual fog and lensing
-distortion in N-1 perception. Useful as shielding against Astral observation; expensive
-to cross.
+**Keep these two phenomena separate.** Perceptual/crossing blocking (below) has
+an author-facing physical rationale and scales predictably with atomic number.
+Creature aversion does not, and should not be explained by the same mechanism
+even though the two co-occur with silver. One is physics. One is biology
+nobody understands yet. Do not let a future chapter quietly merge them into a
+single tidy rule.
+
+### Group 11 and Neighbors — Why Density Trap Scales the Way It Does (author-facing)
+
+This section gives the atomic weight rule a physical mechanism. It is
+author-facing canon for internal consistency and future material questions —
+**not** cleared for in-story explanation during Arc 1. Characters may observe
+and catalogue effects; they should not articulate "electron sea" or "Z-number"
+reasoning until the story's magic-and-physics convergence arc reaches that
+point (Sophia's eventual papers are the natural home for this, later).
+
+In N-1 (Astral) perception, ordinary matter reads as translucent and fractal.
+Copper, silver, and gold are the exception. Each has a single, loosely-held
+electron in its outermost orbital — the same property that makes them
+exceptional conductors of heat and electricity in the Real. That same mobile
+electron disrupts higher-dimensional light paths and physical traversal
+wherever the metal is present as a stationary structure, far more than raw
+density alone would predict:
+
+| Material | Z | Effect on N-1 sight through it | Effect on walking through its location while in the Astral |
+|---|---|---|---|
+| Copper | 29 | Heavy filter — blurs and darkens what's behind it, still resolvable with effort | Thick, viscous resistance; difficult but passable (matches the existing "near the practical ceiling for routine use" language) |
+| Silver | 47 | Near-total block — stops sight at the surface even at ordinary thicknesses (a stair rail, a mirror backing) | Barely passable; extreme effort required, at the edge of what a practitioner can force through |
+| Gold | 79 | Full block — no resolvable signal through it at any practical thickness | Impassable. A gold wall in the Real is a wall in the Astral too, for anyone trying to move through that location. |
+
+**This is a traversal barrier, not an object-crossing cost.** It governs
+whether an Astral traveler can pass through the physical location a stationary
+gold/silver/copper structure occupies. It has no bearing on how expensive it
+is to bring a gold- or silver-bearing *object* across dimensions as cargo — see
+the existing atomic-weight-squared crossing cost rule for that, unchanged, and
+consistent with Jace's HUD Templating precedent in `magic_will_orbs.md`. A
+gold-bearing machine or chip, once successfully brought across at that cost,
+functions completely normally in the Astral afterward. The expense is entirely
+in the crossing; nothing about operating there afterward is impaired.
+
+### Nickel, Palladium, Platinum — Fractal Distortion (new, unused in story so far)
+
+Adjacent to Group 11 on the periodic table, these metals' partially filled
+d-orbitals produce a different effect from the Group 11 metals above: not a
+block, but distortion. In N-1 perception, worked nickel, palladium, or
+platinum bends light paths into hyper-reflective, fractal patterns — optical
+illusions, hall-of-mirrors effects, and potentially navigable "dimensional
+stealth zones" where a traveler's own position becomes hard to fix.
+
+This has not yet appeared in any drafted chapter. Flagging two things for
+awareness, not as instructions:
+
+1. **Psyche Station (16 Psyche, Chinese-anchored via Tianhe Cosmics) is
+   already established as platinum-group-rich** per
+   `locations/non-canonical-ideas/location_psyche_station.md`. That's a clean,
+   pre-existing hook if you want a future arc to use this property somewhere
+   Chinese state interests would plausibly have access to platinum-group
+   ore at scale.
+2. This property has real plot utility (concealment, disorientation, a
+   trap or a sanctuary) and no chapter has claimed it yet — worth deciding
+   deliberately when you do use it, since "stealth zone" is a strong enough
+   idea that it should probably serve a specific scene rather than becoming
+   incidental set dressing.
 
 ---
 

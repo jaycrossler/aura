@@ -4,17 +4,17 @@ name: "Chapter 20. Borrowed Light"
 type: chapter_draft
 book: book01
 chapter: Ch20
-scene_contract: X-04b environmental probe and Will drains, P-01c Long Burn fight, P-04 suspicious cargo plant, N-00b Nick estrangement
+scene_contract: X-04b environmental probe, P-01c Long Burn fight, P-04 suspicious cargo plant, N-00b Nick estrangement
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 description: >
   Jace and Sophia map the Astral atmosphere and learn that occupied rooms retain
   heat, carbon dioxide, and humidity. Suzi shows Jace suspicious Ring Three
-  footage, Yáo defeats him at the Long Burn, and Jace accidentally drains
-  {Misty}, deepening Sophia's loss of trust before they commit to finding the
-  creature on Ring Three.
+  footage, Yáo defeats him at the Long Burn, and that evening a photograph
+  mission to Ring Three ends when the suspected drone reveals itself as an
+  organic creature and attacks Jace.
 cross_references:
   - "[[arc_01_falcon_and_fortuna]]"
   - "[[arc_01_thread_X_astral]]"
@@ -28,6 +28,7 @@ cross_references:
   - "[[char_misty_ai]]"
   - "[[spec_astral_phenomenology]]"
   - "[[spec_astral_glow_and_signatures]]"
+  - "[[spec_dimensional_travel_mechanics]]"
   - "[[draft_ch19_fault_lines]]"
   - "[[draft_ch21_the_eye_on_three]]"
   - "[[draft_ch23_no_vampires]]"
@@ -91,41 +92,7 @@ He extended it through another wall.
 
 Minus twenty point one.
 
-Outside the station, in deep space, the Astral was not vacuum-cold. It was approximately minus twenty degrees.
-
-Jace stared at the needle.
-
-"That is survivable," he said.
-
-"With coats and maybe a ski suit."
-
-"We can work outside."
-
-"After we understand why the room is thirteen degrees warmer. Priority three first."
-
-They mapped the nearby spaces.
-
-The old *Victoria* cabin, attached to the Astral through Sophia's repeated crossings, was warmest. The adjacent ship corridor was colder. The docking vestibule, occupied for years but rarely crossed, settled near minus fourteen. A recently rebuilt service compartment beyond it read minus nineteen.
-
-The longer a physical volume had existed in one configuration, the warmer its Astral counterpart seemed to be. Rebuilt walls were cold. Old rooms retained more heat. Rooms where people crossed repeatedly were warmer still.
-
-The gas detector found the second problem.
-
-Sophia's Astral room held measurable oxygen, water vapor, and far too much carbon dioxide. Not enough oxygen to breathe safely. More than enough carbon dioxide to make removing a mask a bad idea.
-
-The empty neighboring cabin held much less of all three.
-
-The new service compartment held almost none.
-
-"We did this," Jace said.
-
-Sophia watched the humidity reading climb near the workbench.
-
-Every masked hour had released some moisture and waste gas into a room with no ordinary ventilation. Every breath they had taken while adjusting a mask or swapping a line had remained. Gas also seemed to leak from the physical cabin, but at a rate so slow that construction age showed in the result.
-
-Heat crossed the boundary faster. Air crossed slowly. Human occupancy changed both.
-
-"A room that has been attached for years accumulates more," Sophia said. "New construction begins cold and nearly empty."
+"New construction begins cold and nearly empty."
 
 "And our lab is becoming a carbon-dioxide trap."
 
@@ -375,56 +342,57 @@ She was still angry.
 
 They had agreed to something smaller than reconciliation.
 
-Not a shared crossing for another test. Sophia wanted to see the thing on Ring
-Three, or at least get an image of it that wasn't just her own eyes doubting
-themselves.
+Not a shared crossing for another test. Sophia wanted to see the thing on Ring Three, or at least get an image of it that wasn't just her own eyes doubting themselves.
 
 "We are not going down," she said. "We are looking down."
 
-Jace clipped the third camera housing back onto Sparky's frame with tape, since
-the mount had stripped its thread. "Photographs. Not contact."
+Jace clipped the third camera housing back onto Sparky's frame with tape, since the mount had stripped its thread. "Photographs. Not contact."
 
 "If that word finds its way back into a plan, I end the plan."
 
 "Understood."
 
-They crossed together into Ring Two, a level they had both walked before, close
-enough to Fortuna's public sections that neither needed a tether to feel safe
-there. Thirty meters below and a hundred, maybe a hundred fifty around, Ring
-Three turned through its construction gantries. From here it should have been
-nothing but distant motion and worker traffic.
+They crossed together into Ring Two, a level they had both walked before, close enough to Fortuna's public sections that neither needed a tether to feel safe there. Thirty meters below and a hundred, maybe a hundred fifty around, Ring Three turned through its construction gantries. From here it should have been nothing but distant motion and worker traffic.
 
 Sparky's third camera, finally cooperating, agreed with the other two.
 
-Jace angled the feed. Scaffolding. A crane. Two suited figures moving cargo.
-Ordinary.
+Jace angled the feed. Scaffolding. A crane. Two suited figures moving cargo. Ordinary.
 
-Then, near the unlisted room, the one Suzi's footage had already made him
-suspicious of. Movement that wasn't a worker's movement. Too much of it in too
-little space, folding into itself and back out.
+Then, near the unlisted room, the one Suzi's footage had already made him suspicious of, a supply run he hadn't expected. A small unmarked drone, not a Fortuna hull pattern he recognized, was walking a load of flat panels into the room in relayed trips, one at a time, each one wrapped in insulating foil that did nothing to hide what was underneath it in the Astral.
+
+The panels didn't glow the way most cargo did. They didn't glow at all. Wherever one passed, the faint Astral texture of the wall behind it smeared and dimmed, the way a bright window looks when someone draws a heavy curtain across it mid-glance.
+
+"That's not steel," Jace said.
+
+"How do you know that from here?"
+
+"I don't. I know it's not nothing." He watched another panel go in. "Whatever that is, it's heavy enough that Sparky's feed can barely hold a fix on it while it moves."
+
+Sophia made a note without looking away from the window.
+
+"Add it to the list of things we do not understand about that room."
+
+"The list is getting long."
+
+"The list is the job."
+
+Movement pulled his attention off the panels; something in the construction zone shifted in a way that wasn't a worker's rhythm, too much of it in too little space, folding into itself and back out.
 
 "There," Sophia said, quiet.
 
-Jace zoomed in. The image blurred and refused to resolve into anything he could
-name. A shape. A wrongness in how the shape used the space it occupied.
+Jace zoomed in. The image blurred and refused to resolve into anything he could name. A shape. A wrongness in how the shape used the space it occupied.
 
 "Drone," he said, out of habit more than conviction. "Has to be."
 
 The wall between Ring Two and Ring Three tore open eight meters to their left.
 
-Jace had time to think *that is not where the wall is supposed to open* before
-something came out of it.
+Jace had time to think *that is not where the wall is supposed to open* before something came out of it.
 
-It moved faster than anything mechanical had any right to, closing the distance
-before either of them reacted. Not a drone. Wet tissue where he expected housing.
-A limb that bent in three places no drone limb bent. A single eye that was not a
-lens, because a lens does not have a lid.
+It moved faster than anything mechanical had any right to, closing the distance before either of them reacted. Not a drone. Wet tissue where he expected housing. A limb that bent in three places no drone limb bent. A single eye that was not a lens, because a lens does not have a lid.
 
-It caught him across the forearm and the side. Pain arrived a half second behind
-the sight of his own blood in the Astral light.
+It caught him across the forearm and the side. Pain arrived a half second behind the sight of his own blood in the Astral light.
 
-Sophia was already moving, already shouting something he couldn't process over
-the ringing that had started behind his eyes.
+Sophia was already moving, already shouting something he couldn't process over the ringing that had started behind his eyes.
 
 It was not a drone.
 
@@ -442,7 +410,6 @@ It had never been a drone.
 | Yáo defeats Jace decisively; Suzi stops the fight without turning it into a national confrontation | done |
 | Sophia's humor briefly returns without erasing the damaged trust between them | done |
 | Jace and Sophia go to Ring Two to photograph the suspected drone on Ring Three, evidence only | done |
+| NEW — Jace observes an unmarked drone delivering heavy, non-glowing panels into the unlisted room, plants the silver-panel/silver-shielding thread ahead of Ch21's stairway discovery | done |
 | The creature attacks Jace directly, revealing wet tissue, an irregular joint, and a living eye | done |
 | Chapter ends on the reveal, weapon not yet drawn, as a cliffhanger into Ch21 | done |
-| ⚠️ CUT — {Misty} drain and its aftermath (moved to Ch21) | moved, see X-04d |
-| ⚠️ CUT — Sophia's morning boundary-setting speech tied to the old Misty scene | needs new placement, see review-queue note |

@@ -170,6 +170,32 @@ Plain-language description: the soft parts that keep everyone alive and make eng
 
 Aluminum alloys, aluminum-lithium alloys, titanium, stainless steel, nickel alloys, copper alloys, and high-temperature superalloys handle structural frames, pressure vessels, brackets, tanks, fasteners, heat exchangers, motor housings, tool heads, and precision interfaces.
 
+### Precious and Group 11 Metals (Silver, Copper, Gold) — Everyday Engineering Use
+
+Because silver and copper are locally abundant from belt mining (see Psyche
+Station's platinum-group wealth for the upper end of this), they see far more
+routine structural and infrastructure use than their terrestrial cost would
+ever justify. This is purely mundane, non-magical engineering texture — the
+Astral-perception properties of these same metals are documented separately in
+`universe-spec/spec_dimensional_travel_mechanics.md`, and the two should not be
+conflated in-story before the story's convergence point.
+
+Story use:
+
+- Door handles, switch plates, and passageway grab-frames — silver and copper
+  alloys are mildly antimicrobial and continuously bleed off static buildup
+  before it can shock crew or damage delicate avionics.
+- Plumbing, primary electrical wiring, and dedicated grounding grids — copper
+  remains the default for both power routing and charge-venting into storage
+  banks or radiator arrays.
+- Silver sees targeted use wherever contact resistance or corrosion resistance
+  matters more than cost — high-reliability switch contacts, some medical
+  instrument surfaces, specialized seals.
+
+Plain-language description: the metals nobody on Earth would waste on a door
+handle, used exactly that way out here, because the asteroid doesn't care what
+they'd cost shipped up from a gravity well.
+
 Metals solve many problems but create others. They conduct heat too well, expand and contract, gall or seize, corrode in specific chemical environments, and can cold-weld in vacuum if clean metal surfaces press together without proper coatings.
 
 Story use:

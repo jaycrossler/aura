@@ -157,19 +157,16 @@ She held up the financial screen. The settlement consortium had financed farms, 
 
 "You always were clever Grant. Maybe too clever." She looked to Carlos and saw his grimace. "Ahh, is the honeymoon over?"
 
-Jace reddened. Could this lift not move any faster?
+Jace reddened. Could this lift not move any faster? A message on a screen posted the the control just reset itself and the lift was paused for a minute. Terrible timing.
 
-"Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely ten percent of those have signed up for when I return. I need to rethink all my schedules."
+"Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely ten percent of those have signed up for when I return. I need to rethink all my schedules. With all the copper you have in your stores, that might be worth the mass, but probably not. Too bad all the silver's been bought up."
 
-"The Chinese mining crew cancelled without ever boarding?"
-
-"They boarded. Spent a full day inspecting my engine and central spire, signed the handover sheets, then cancelled. That is why it surprised me."
 
 "How much are you losing?"
 
 "Enough that Patrick thinks we might be done after I get back. Sell the ship and retire."
 
-"You believe him?"
+"That bad?"
 
 "I left the Navy as a chief to buy and build the *Falcon* with him. Patrick was working on ships when we met. We have been threatening to sell her ever since."
 

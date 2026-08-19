@@ -41,6 +41,8 @@ No signup. No route permit. No organizer. At 1750, people drifted into Ring Two 
 
 The loop covered Ring Two, the Commons, and the Foundry level. One point four kilometers, or an old-style mile. Jace was the fastest runner by a clear margin. Earth muscles helped a lot, even with the weighted vest.
 
+Every tight corner had a grab rail, and every grab rail had gone smooth and bright in a hand-wide band from years of runners catching themselves on the turn. Jace's palm found the polish without thinking. It never occurred to him until the third night to wonder what metal held a shine like that under constant handling and never seemed to need replacing.
+
 People watched from shopfronts. Children counted laps. A baker handed out water at the Commons. Two women from a fabrication crew matched Jace's pace for half a circuit and asked whether he needed someone to show him the Sky Gardens after hours.
 
 "Carlos already showed me," Jace said.

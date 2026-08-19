@@ -4,20 +4,23 @@ name: "Chapter 22. Quiet Companion"
 type: chapter_draft
 book: book01
 chapter: Ch22
-scene_contract: X-01b {Aura} installation, N-00b friendship boundary, L-07 Metis degradation, N-03 AI degradation
+scene_contract: X-01b {Aura} installation, X-04e silver/copper survey, P-04 unlisted room ambiguity, L-07 Metis degradation (deferred), N-03 AI degradation
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 description: >
-  After the Ring Three encounter, Jace admits that he needs Nick's help without
-  disclosing the Astral. Nick installs a local {Aura} under Lanchee's supervision;
-  the new system links contradictory sensor failures, damaged AI outputs, and a
-  semantically broken message from Artemis at silent Metis.
+  Jace and Sophia extend the silver discovery into a station-wide survey,
+  learning that dense worked metal blocks Astral sight entirely. {Aura} is
+  installed under Lanchee's supervision and immediately surfaces a sensor
+  anomaly connecting {Misty}, Sparky, and {Seek}. Later analysis of the
+  unlisted room's signatures raises new, unproven questions about who is
+  using it and why. Jace quietly places a custom order at the Foundry that he
+  does not explain.
 cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[arc_01_thread_N_nick_ai]]"
-  - "[[arc_01_thread_L_life_texture]]"
+  - "[[arc_01_thread_P_pressure]]"
   - "[[char_jace_apollo]]"
   - "[[char_sophia_lotte]]"
   - "[[char_nick_lee]]"
@@ -25,9 +28,11 @@ cross_references:
   - "[[char_aura_ai]]"
   - "[[char_misty_ai]]"
   - "[[char_seek_ai]]"
-  - "[[char_sister_artemis]]"
+  - "[[char_jin_luong]]"
   - "[[ship_victoria]]"
+  - "[[spec_dimensional_travel_mechanics]]"
   - "[[scene_notes_ai_interactions]]"
+  - "[[draft_ch16_ten_good_days]]"
   - "[[draft_ch21_the_eye_on_three]]"
   - "[[draft_ch23_no_vampires]]"
 ---
@@ -38,7 +43,7 @@ cross_references:
 >
 > Jace Grant, *unpublished notes*
 
-Jace did not cross the next day.
+Jace did not cross for two days.
 
 His hands recovered temperature slowly. Hot water felt sharp. Cold water felt like pressure. Sophia recorded both findings, then refused his suggestion that they repeat the exposure to establish a curve.
 
@@ -52,117 +57,51 @@ His hands recovered temperature slowly. Hot water felt sharp. Cold water felt li
 
 Sophia closed the notebook.
 
-"We need better instruments."
+"Instruments first," she said. "You promised."
 
-"The kind I cannot build without Nick."
+##
 
-"Then you must decide which danger is larger. Telling your friend, or continuing to lie to him badly."
+They spent the second day doing something smaller and stranger than either of them expected: walking the station in the Astral, cataloguing everywhere dense metal interrupted their sight.
 
-"I have not lied."
+It started as a test of the stairway silver, a way to see whether the interference was a property of that one rail or of the metal itself. It became, by midafternoon, something closer to a survey.
 
-She looked at him.
+Copper pipe in the Ring One utility trunk dimmed what lay behind it, the way a hand held close to a light dims a room without blocking it. Jace could still make out shapes through it if he concentrated, blurred and slow to resolve, like reading through frosted glass.
 
-"I have omitted the impossible parts."
+Silver did not dim anything. It simply ended his sight at the surface, the way the deepest ore fog ended it around the richest asteroid seams he'd ever surveyed, except a rail no wider than his thumb produced the same wall that had taken meters of solid rock to produce out on 3 Fortuna.
 
-"That sentence is a lie wearing a technical uniform."
+"Density," Sophia said, when he described it that way. "You already knew heavy elements do this. You are only surprised because you did not expect anything this ordinary to be this heavy."
 
-Jace went to the forge.
+"Silver isn't that heavy."
 
-Nick was in the forge when Jace arrived.
+"It is heavier than copper. And it appears to matter more to whatever we are dealing with than its weight alone explains."
 
-He sat behind the partition with Jace's diagnostics open on three screens. Green hair covered one lens of his cracked overlay glasses. The pearl earring below his left ear pulsed with muted light.
+She wrote *toxic?* next to the entry and then crossed it out and wrote *unexplained aversion* instead.
 
-"Kim restored your shop access," Nick said. "Not your route permissions."
+They found the clearest example at the Gold Horizon Inn, in the narrow hallway mirror outside the shared washroom Jace remembered from his first weeks on Fortuna. From the Real it was ordinary, slightly warped at one corner, the kind of fixture nobody budgets to replace. From the Astral it was a hole. Not a shadow, not a dim patch. His sight simply stopped at the glass and did not resume on the other side, as though the wall behind it had ceased to exist rather than merely gone dark.
 
-"I know."
+"Silver backing," Jace said, running a hand along the frame in the Real afterward. Actual silver, cheap and unglamorous, chosen decades ago because it resisted station humidity better than the alternatives. Nobody had installed it to block anything. It blocked something anyway.
 
-"She asked me to make sure you did not install anything clever while unsupervised."
+Down in the Foundry's older stock room, a decorative copper panel someone had bolted up as a repair years back did the same thing, weaker. He could still see the shape of the wall through it if he stared, the way he could through the utility trunk pipe. Not gone. Just far away.
 
-"That feels targeted."
+"So a determined person could build a room you cannot see into," Sophia said, "using nothing more exotic than dinner service."
 
-Nick did not smile.
+"A determined person with a reason to."
 
-Jace closed the partition door.
+Neither of them said Ring Three out loud. They didn't need to.
 
-"I need your help."
+##
 
-"No."
+Nick met him at the Foundry that evening with a printout he'd made just to have something to hold while he talked.
 
-"You do not know what I am asking."
+"You wanted a local sensor layer. I built you something bigger, because building you something smaller would have taken longer to argue about." He tapped the sheet. "This also means I finally get to ask the question I've been sitting on."
 
-"I know it concerns sensor failures, Sophia, and the hours you keep disappearing. I know you will give me a cover story and ask me to certify it. No."
+"Which is."
 
-Jace had prepared six explanations. All of them failed before he spoke.
+"If you want a custom processor, why do you keep trying to move ancient hardened chips across a wall one at a time instead of ordering something built to spec? You do know we have a chip fab on this rock."
 
-"I am asking you to help me with something I am not ready to explain," he said. "That is unfair. You were right about the instruments, and you were right about me being somewhere else."
+Jace had known, technically, since the night Nick first mentioned it, back when the idea had seemed like a convenience and nothing more.
 
-Nick's keyboard gloves went still.
-
-"Is someone in danger?"
-
-Jace thought of the red eye fixed on him and the fine threads reaching toward Sparky's light.
-
-"Yes."
-
-"Sophia?"
-
-"Potentially. Cerberus. Me. Maybe more people, but I do not know yet."
-
-"Is this military?"
-
-"No."
-
-"Illegal?"
-
-"Not intentionally."
-
-"That is not comforting."
-
-"It is accurate."
-
-Nick removed his glasses and cleaned them on his shirt. Without the overlays, his face looked younger and much more tired.
-
-"What do you need?"
-
-"A local system layer that can compare raw sensor streams before the station services normalize them. It has to run quiet, keep the data local, and tell me when two instruments disagree before one of them gets voted out."
-
-"You want an {Aura}."
-
-"I want you to stick your baby in my brain."
-
-Nick shut his eyes.
-
-"Not imagery that I needed."
-
-"You said they were safe."
-
-"I said the civilian implant is safe. I did not say you deserve one."
-
-"Fair."
-
-Nick put his glasses back on.
-
-"I will help because you said danger and because your failure logs are real. This does not buy forgiveness. It does not make the secret acceptable."
-
-"Understood."
-
-"If the system finds a medical risk, I tell Lanchee. If it finds a station risk, I tell Kim."
-
-"Agreed."
-
-"And if you ask me to lie for you, I stop."
-
-Jace held out his hand.
-
-Nick looked at it.
-
-"This is not a deal between rival corporations."
-
-"I am trying to mark the moment."
-
-"Use your calendar."
-
-He shook Jace's hand anyway.
+"I've been thinking about it," he said, which was true, and left it there.
 
 ##
 
@@ -246,66 +185,6 @@ Jace had not told Nick where the streams went. They spent an hour separating the
 
 When they finished, Lanchee made him walk a straight line, read a paragraph, and identify four smells. Nick verified the rollback package again.
 
-Jace was leaving when {Aura} spoke.
-
-{Aura}: One deferred personal item may be time-sensitive. A message from Artemis Grant contains a grammatically complete sentence with a discontinuity in semantic content. Packet integrity is valid.
-
-Jace stopped in the clinic doorway.
-
-"Show me."
-
-The message was three days old.
-
-*All good here. The lower gardens are finally producing enough herbs for the clinic, and Metis approved the new docking schedule. I wanted to tell you that . Cerberus still tries to sleep under your old workbench. We miss you.*
-
-Jace read it again.
-
-The empty place after *that* was not corrupted. The words simply stepped around something that should have been there.
-
-"Can an AI remove a clause and preserve the signature?" he asked.
-
-Nick came to stand beside him.
-
-"Not without becoming part of the signing chain."
-
-"Could Artemis have deleted it before sending?"
-
-"Yes."
-
-"Would the punctuation survive like that?"
-
-Nick read the sentence.
-
-"Not usually."
-
-Jace felt the implant warming again.
-
-{Aura}: Similar discontinuities appear in two earlier messages. Confidence is insufficient to determine whether they are intentional edits.
-
-For the first time since the red eye opened, Jace wished the problem in front of him was only a monster.
-
-Before Jace left the clinic, Sophia forwarded the duplicate-response record from {Misty}.
-
-{Aura} compared the ship AI's internal log, the cabin microphone, and Sophia's physical timer.
-
-{Aura}: Two audible responses. One internal generation event. The second response has no recorded source.
-
-"Network echo?" Jace asked.
-
-"{Misty} is air-gapped from the station," Nick said. "There is no network path to echo through."
-
-{Aura}: A similar class of disagreement appears in three {Penny} service responses and eleven {Seek} assessments. The systems report one decision. External records contain repeated or mutually exclusive decisions.
-
-Nick looked toward the clinic wall as if it had become transparent.
-
-"Every AI on Fortuna thinks someone is altering its data," he said. "Earth and Mars feeds are dropping packets, so they blame the links. The station systems blame each other."
-
-"And you?"
-
-"I blame evidence after I have it."
-
-It was the correct answer. It did not make Jace feel better.
-
 ##
 
 The next morning, {Aura} did not greet him.
@@ -324,9 +203,11 @@ He opened it.
 
 {Aura}: Two.
 
+{Aura}: I note a related pattern in your household systems. {Misty}'s voice log from the same period contains one generated sentence recorded as spoken twice. Sparky's command log from the same window contains one stop instruction and three physical wheel responses. Neither anomaly matches a known failure mode in either system's documentation.
+
 The quiet room seemed to tilt.
 
-"Which one was correct?"
+"Which position was correct?"
 
 {Aura}: Both data sets were locally consistent.
 
@@ -334,21 +215,56 @@ Jace called Sophia.
 
 She answered before the first tone ended.
 
-"It was not breaking the instruments," he said. "It was giving them two places to be."
+"It was not breaking the instruments," he said. "It was giving them two places to be. {Aura} found the same thing happening to Sparky and {Misty}."
+
+There was a silence on the line that was not confusion.
+
+"Ask it about the unlisted room," Sophia said.
+
+{Aura} had already been listening.
+
+{Aura}: I have limited sensor access to that location. Passive thermal and vibration readings collected from adjacent corridors over the past six weeks show two recurring signatures I cannot classify. The first is intermittent, high-temperature, and consistent with sustained open combustion in a sealed environment, which would violate three station safety codes if confirmed. The second is irregular, low-frequency, and structurally inconsistent with any equipment on the Fortuna inventory list I have access to. I cannot determine whether either signature originates from a person, an animal, or equipment.
+
+"Fire," Jace said slowly, "and something that isn't equipment."
+
+{Aura}: That is one interpretation of incomplete data. I would not present it as a conclusion.
+
+"Understood."
+
+He thought of Jin, and set the thought down deliberately, the way he'd learned to set down a wrench that didn't fit the bolt. Nothing in what {Aura} had found matched anything he knew about Jin's crew, and Jin's crew were the only Chinese personnel he had ever actually met. Whoever was behind that wall, running fire hot enough to trip safety code and keeping something in there that read wrong on every sensor he had, he did not know their faces.
+
+He did not say any of that to Sophia. He wrote it down instead, in the file he was keeping separate from her notebooks, where the things he wasn't ready to claim as fact could sit until they earned the right to move.
+
+##
+
+He placed the order that afternoon, alone, from a public terminal near the Foundry rather than from his own HUD.
+
+The fab's ordering interface asked for a material tier. He scrolled past the recommended options, the ones built around whatever exotic alloy the catalog was pushing that quarter, and selected the cheapest listed substrate instead: base silicon, base copper trace, nothing rare, nothing that would show up as a notable line item on anyone's procurement report.
+
+He filled in a processor footprint that matched, almost exactly, the dimensions of a certain rice-grain-sized chip he had spent twenty hours once pulling across a wall by hand.
+
+He did not write a note in the order comments explaining what it was for.
+
+He submitted it, watched the confirmation screen for a moment longer than it required, and closed the software.
+
+Cerberus lifted his head from the foot of the bunk, decided nothing interesting had happened, and went back to sleep.
 
 ## Contract coverage
 
 | Item | Status |
 |---|---|
-| Chapter 21's escape and Chapter 18's work-repair sequence are not repeated | done |
-| Crossing debt carries into the next day as impaired temperature sensation | done |
-| Jace acknowledges that he needs Nick's instrumentation skill | done |
-| Nick helps because the danger is credible while maintaining boundaries and anger | done |
+| Crossing debt carries into the next days as impaired temperature sensation | done |
+| Jace and Sophia extend the Ch21 silver discovery into a deliberate station-wide survey | done |
+| NEW — Silver fully blocks Astral sight (not just dims it); copper only dims it; established as a density-scaled property, not a new unexplained rule | done |
+| NEW — The Gold Horizon Inn mirror (silver-backed) and a Foundry stock-room panel (copper-backed) demonstrate the difference concretely | done |
+| Jace and Sophia infer, without confirming, that someone could deliberately build an Astral-blind room this way | done |
+| Nick references the Foundry's custom chip fab again, prompting Jace toward ordering rather than hand-pulling components | done |
 | Lanchee supervises backup, consent, installation, and rollback protections | done |
 | Jace selects the female avatar and mostly quiet companion mode | done |
 | The {Aura} instance remains local and asks for content permission | done |
 | Raw sensor feeds remain separate before station normalization | done |
-| Artemis's message contains a validly signed semantic gap and Metis remains unresponsive | done |
-| Athena and the family contact have already been established in Chapter 18 | verified continuity |
-| {Misty}, {Penny}, and {Seek} show related output disagreements without a known cause | done |
-| {Aura} identifies two locally consistent coordinate sets without explaining the Astral | done |
+| {Aura} identifies the two-locally-consistent-coordinate-sets anomaly and independently connects it to {Misty} and Sparky's matching symptoms | done |
+| NEW — {Aura} surfaces two unclassified signatures from the unlisted room (sustained combustion; something structurally inconsistent with equipment), explicitly presented as incomplete data, not conclusions | done |
+| NEW — Jace's suspicion is written to exclude Jin's known crew explicitly, preserving the later reveal that Jin's crew are allies; the unlisted room's occupants remain faceless and unconfirmed | done |
+| NEW — Jace places a custom order at the Foundry for base-material components matching an old chip's footprint, explained to no one, seeding a future reveal | done |
+| ⚠️ DEFERRED — Artemis/Metis semantic-gap message (L-07) is not included this pass; recommend placing it in Ch23 or a dedicated beat so it isn't crowded out by this chapter's new material | deferred |

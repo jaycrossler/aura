@@ -450,6 +450,11 @@ unlisted room or the creature's origin for the foreseeable future.
 7. Close on Jin's crew being unreachable for at least a week, removing the option
    to ask them directly about the unlisted room.
 
+8. Establish silver as a perceptual blocker, not merely a thing the creature
+   avoids physically — Jace's sight stops at the rail's surface entirely, unlike
+   copper's dimming effect. Ground this in the existing Density Trap spec
+   (silver Z=47 vs. copper Z=29) rather than inventing an unrelated mechanism.
+
 **Must NOT do:**
 - Split the {Misty} contact into a separate scene or a second creature encounter.
 - Let Sophia's open question become a confirmed theory in this chapter.
@@ -468,6 +473,35 @@ beats above. Flagging rather than silently discarding: does any of that material
 tracking Jace specifically) get preserved and moved to a later chapter, or is it
 fully retired in favor of the new sequence? Recommend deciding this before the
 full Ch21 prose replacement is finalized.
+
+---
+
+#### X-04e — What the Rail Showed Us
+
+**Summary:** The morning after the Ring Three encounter, Jace and Sophia extend
+the stairway discovery into a deliberate survey of dense metal around the
+station, cataloguing where copper and silver interfere with Astral sight.
+Copper dims; silver blocks entirely. The clearest example is a silver-backed
+mirror at the Gold Horizon Inn, contrasted with a weaker copper panel in the
+Foundry stock room. They infer, without confirming, that a determined party
+could build a room invisible to Astral observation using ordinary materials.
+Neither of them says "Ring Three" aloud, but neither needs to.
+
+**Must accomplish:**
+1. Show the silver/copper difference as a matter of degree on an established
+   spec (density-scaled perception blocking), not a new unexplained rule.
+2. Keep the unlisted-room inference speculative; Jace and Sophia reach it
+   together but do not confirm it with direct evidence in this chapter.
+3. Give Nick a natural reentry point for the custom-chip-fab reminder already
+   planted in Chapter 16, without repeating that scene's beats verbatim.
+
+**Must NOT do:**
+- Explain why silver blocks Astral sight more completely than density alone
+  would predict for the creature-aversion angle (see spec patch) — perceptual
+  blocking and creature aversion are two separate, both-unexplained phenomena
+  and should not be conflated into one tidy mechanism.
+- Name or implicate Jin's crew specifically in the unlisted room's purpose.
+
 
 ---
 

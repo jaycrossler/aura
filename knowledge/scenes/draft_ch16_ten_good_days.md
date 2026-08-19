@@ -211,6 +211,8 @@ An auspicious start. Sparky rolled perfectly, then hovered without hitting a wal
 
 The drone was a rough sphere built from hexagonal and pentagonal panels. The micro-thrusters were mounted within its shell. Without covers, it looked like a mass of wiring. With covers, it looked like a soccer ball. Each panel could fold back to reveal a thruster, a light, or an empty spot where a sensor could go. Everything could snap apart if needed or be replaced. By pivoting its heavy internal battery, it could roll in any direction.
 
+Half the internal contacts were silver, not because Jace had splurged but because the parts library defaulted to it and silver ran a fraction of a Token more than the tin-plated alternative Origin's requisition system also offered. He'd picked it without thinking twice, the way he'd pick aluminum over steel. Out here it wasn't a precious metal. It was just the contact that didn't corrode.
+
 Jace set it on the workshop floor.
 
 "Forward."

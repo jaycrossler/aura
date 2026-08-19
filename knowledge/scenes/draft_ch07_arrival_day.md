@@ -202,6 +202,16 @@ Carlos walked them through locks and through side corridors into Ring Two. Just 
 
 The main corridor was wide enough for three cargo carts to pass. An LED sky covered the ceiling. Slow clouds moved across artificial blue, bright enough to make Jace's body expect sunlight. Every wall had a small panel with a sign in English, Russian, and Chinese.
 
+Jace caught himself staring at the handrail his palm had just closed around. It had the dull, slightly warm shine of tarnished silver, not paint, not plating that would flake.
+
+"Is this rail actually silver?"
+
+"Mm? Sure." Carlos didn't slow down. "Door handles too. Switch plates in the older sections. Cheaper than you'd think, out here. Kills germs, bleeds off static before it fries something expensive. Nobody thinks about it."
+
+"Where I grew up that would be a museum piece."
+
+"Where you grew up, you'd have to dig it out of the ground first." Carlos said it without any particular weight, the way a person mentions weather.
+
 "Why Russian on the signs? There haven't been Russian space investments for years."
 
 Carlos looked up. "It's an old agreement that the U.S. signed. All signs on an American station have to be in English and Russian. The Chinese added to it when they paid for a fifth of Fortuna."

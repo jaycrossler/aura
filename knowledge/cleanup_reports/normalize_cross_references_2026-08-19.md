@@ -1415,6 +1415,7 @@ last_updated: 2026-08-19
 | `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
 | `"[[spec_astral_phenomenology]]"` | `[[spec_astral_phenomenology]]` |
 | `"[[spec_astral_glow_and_signatures]]"` | `[[spec_astral_glow_and_signatures]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 | `"[[draft_ch19_fault_lines]]"` | `[[draft_ch19_fault_lines]]` |
 | `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
 | `"[[draft_ch23_no_vampires]]"` | `[[draft_ch23_no_vampires]]` |
@@ -1430,7 +1431,10 @@ last_updated: 2026-08-19
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[char_cerberus]]"` | `[[char_cerberus]]` |
-| `"[[char_seek_ai]]"` | `[[char_seek_ai]]` |
+| `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
+| `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
+| `"[[char_lanchee]]"` | `[[char_lanchee]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 | `"[[draft_ch20_borrowed_light]]"` | `[[draft_ch20_borrowed_light]]` |
 | `"[[draft_ch22_quiet_companion]]"` | `[[draft_ch22_quiet_companion]]` |
 
@@ -1440,7 +1444,7 @@ last_updated: 2026-08-19
 |---|---|
 | `"[[arc_01_thread_X_astral]]"` | `[[arc_01_thread_X_astral]]` |
 | `"[[arc_01_thread_N_nick_ai]]"` | `[[arc_01_thread_N_nick_ai]]` |
-| `"[[arc_01_thread_L_life_texture]]"` | `[[arc_01_thread_L_life_texture]]` |
+| `"[[arc_01_thread_P_pressure]]"` | `[[arc_01_thread_P_pressure]]` |
 | `"[[char_jace_apollo]]"` | `[[char_jace_apollo]]` |
 | `"[[char_sophia_lotte]]"` | `[[char_sophia_lotte]]` |
 | `"[[char_nick_lee]]"` | `[[char_nick_lee]]` |
@@ -1448,9 +1452,11 @@ last_updated: 2026-08-19
 | `"[[char_aura_ai]]"` | `[[char_aura_ai]]` |
 | `"[[char_misty_ai]]"` | `[[char_misty_ai]]` |
 | `"[[char_seek_ai]]"` | `[[char_seek_ai]]` |
-| `"[[char_sister_artemis]]"` | `[[char_sister_artemis]]` |
+| `"[[char_jin_luong]]"` | `[[char_jin_luong]]` |
 | `"[[ship_victoria]]"` | `[[ship_victoria]]` |
+| `"[[spec_dimensional_travel_mechanics]]"` | `[[spec_dimensional_travel_mechanics]]` |
 | `"[[scene_notes_ai_interactions]]"` | `[[scene_notes_ai_interactions]]` |
+| `"[[draft_ch16_ten_good_days]]"` | `[[draft_ch16_ten_good_days]]` |
 | `"[[draft_ch21_the_eye_on_three]]"` | `[[draft_ch21_the_eye_on_three]]` |
 | `"[[draft_ch23_no_vampires]]"` | `[[draft_ch23_no_vampires]]` |
 
