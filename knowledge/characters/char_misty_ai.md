@@ -41,13 +41,20 @@ analogous to biological thought without looking biologically human.
 
 ## Chapter 20-21 Continuity
 
-Jace accidentally touches and drains {Misty}'s Astral processor signature during a
-no-contact observation. Her dedicated stack goes dark for four minutes and seventeen
-seconds. The *Victoria* remains pressurized and warm through its dock umbilical while
-coordinated ship functions stop. After a physical breaker reset, {Misty} returns with
-recent-memory gaps and repeated external outputs. She can recognize that she generated
-an underlying sentence once even when the ship speaks it more than once.
+Jace and Sophia go to Ring Three (Ch20 close) to photograph a suspected drone,
+which turns out to be an organic creature that attacks Jace. They fight it off
+with Sparky's thrusters and retreat (Ch21 open). Jace, badly injured and
+disoriented, is set down against {Misty}'s processor cabinet by Sophia, who chose
+it only for its warmth and light. He touches her signature and drains it, a
+single continuous accident born of exhaustion and injury, not a deliberate
+no-contact observation gone wrong. Her dedicated stack dims (exact outage
+duration TBD in final prose; the four-minutes-seventeen-seconds figure from the
+prior draft may or may not still apply and should be reconfirmed once Ch21 is
+finalized). The *Victoria* remains pressurized and warm through its dock
+umbilical while coordinated ship functions are affected.
 
-The next day, during the Ring Three investigation, the repetition recurs while
-{Misty}'s internal record remains singular. This parallels Sparky executing multiple
-wheel turns from one stop command and {Seek} retaining incompatible security alerts.
+⚠️ VERIFY: the {Seek} contradictory-alert beat and the "one generated sentence,
+multiple physical outputs" pattern across {Misty}, Sparky, and {Seek} were part of
+the prior Ch21 draft's back half, which is under review pending Jay's decision on
+whether to preserve or retire that material (see review-queue). Do not treat that
+pattern as confirmed for the current chapter until that's resolved.

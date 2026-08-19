@@ -375,12 +375,14 @@ accumulates slowly and local breathing changes sealed Astral pockets.
 Sophia names the prior Will drain as a bodily violation. Jace initially relies on
 the consent she gave while both were impaired, then recognizes that the follow-on
 test should never have continued. After Suzi's evidence leads Jace into a losing
-fight with Yáo, Jace and Sophia attempt one passive observation of {Misty}'s
-processor signature under a no-contact rule. Pain makes Jace stumble across their
-marked boundary. He touches the signature and drains {Misty}, who reboots with
-recent-memory gaps and repeated speech. Sophia removes Jace from the *Victoria*
-and later sets explicit limits on contact and future crossings. They plan a remote,
-tethered Ring Three observation and agree to withdraw at the first anomaly.
+fight with Yáo, Jace and Sophia set out with Sparky to photograph the suspected
+drone on Ring Three from a safe distance on Ring Two, evidence only, no contact,
+no crossing down. The chapter ends when the thing they've been calling a drone
+tears out of the wall between the rings and attacks Jace directly, revealing wet
+tissue, an eye with a lid, and a body that does not move like a machine. The
+reveal is the chapter's closing beat. The fight, the escape, and the {Misty}
+contact now belong to Chapter 21, as one continuous sequence rather than a
+separate incident.
 
 **Must accomplish:**
 1. Establish the local temperature, age, CO2, and humidity gradient without making
@@ -389,50 +391,83 @@ tethered Ring Three observation and agree to withdraw at the first anomaly.
    fresh agreement after any unexpected transfer.
 3. Preserve the Long Burn fight as political pressure and confirmation bias, not
    proof that the Chinese crew planted the creature.
-4. Make the {Misty} contact a rule-breaking accident with a clear physical cause,
-   not deliberate experimentation or advancement.
-5. Protect life support through the dock umbilical while {Misty} is offline.
-6. Give {Misty} specific residual symptoms: recent-memory gaps, repeated external
-   outputs, and awareness that she generated the underlying sentence once.
-7. Let Sophia enforce removal and no-contact boundaries without apologizing for
-   protecting herself or {Misty}.
-8. End with a controlled launch into the Ring Three investigation while Nick
-   remains excluded from the facts behind Jace's apology.
+4. Keep the Ring Three trip framed explicitly as photograph-only, no contact, no
+   crossing down, so the attack reads as a violation of a plan, not recklessness.
+5. Reveal the creature as organic through direct sensory contact (wound, tissue,
+   the eye), not through instrument data.
+6. End on the reveal itself, weapon not yet drawn, as a cliffhanger into Ch21.
 
 **Must NOT do:**
-- Frame Sophia's boundary as punishment or require her to comfort Jace.
-- Turn the temporary borrowed energy into a repeatable capability.
+- Resolve the fight, the escape, or the {Misty} contact within Chapter 20.
 - Let the environmental measurements prove a complete theory of the Astral.
 - Resolve whether the Chinese inspection of the *Falcon* connects to the creature.
+- Treat the attack as proof the Chinese crew planted or controls the creature.
 
 ---
 
 #### X-04d — The Eye on Three
 
-**Summary:** Jace and Sophia take Sparky, three cameras, paper navigation,
-independent timers, and a copper tether into Ring Three. The apparent surveillance
-drone proves organic. It reaches toward organized light and command structures,
-pursues them through doubled geometry, and stops once at the rotating-ring-to-spine
-boundary after Sophia uses ordered material and controlled force defensively.
+**Summary:** Opens mid-fight, continuing directly from Ch20's reveal. Sophia
+strikes the creature with controlled force; Jace's rod strike does almost nothing;
+he seizes Sparky's remote and burns the creature at close range with full thruster
+output. It flees, emitting a Will-borne howl that both of them feel behind their
+eyes rather than hear. It pursues them only as far as a stairway where silver is
+worked into the rail, a second observed material of interference alongside copper,
+and stops there.
 
-On return, three systems express the same anomaly: {Misty} generates one sentence
-but speaks it twice, Sparky records one stop command but produces several physical
-wheel turns, and {Seek} preserves mutually exclusive security conclusions as valid.
-The chapter records the pattern without explaining it.
+Jace is now injured badly enough that Sophia is effectively carrying him back to
+the *Victoria*. Disoriented and cold, he ends up leaning against {Misty}'s
+processor cabinet, chosen only because it is warm and bright and close, not
+deliberately. He touches her signature and drains her, the same mechanism as the
+prior Sophia drain, now a single continuous accident born of exhaustion rather
+than a second, separate contact event. {Misty} dims; Jace, injured and shaking,
+gets a real jolt of function back, noticeably less than what he took from Sophia,
+enough to stand and think clearly. Sophia is frightened for {Misty} more than
+angry at Jace this time; she holds back from blaming him directly, since she is
+the one who set him down there. She asks, once, whether the creature could be
+doing to people and systems what Jace just did to {Misty}, and leaves it an open
+question. She sets him to rest and defers any plan until morning.
+
+The chapter closes with Jace unable to sleep, working through his own guilt and a
+restless list of design notes (rod ineffective, thruster burn effective, silver
+noted against copper), and learning via station traffic chatter (Kim, irritated,
+complaining about an unscheduled overnight launch) that Jin's mining crew has left
+on a long survey run, gone for at least a week. There is no one to ask about the
+unlisted room or the creature's origin for the foreseeable future.
 
 **Must accomplish:**
-1. Keep Jace's Chinese-surveillance hypothesis plausible but unproven.
-2. Establish wet tissue, irregular joints, and a living eye before the pursuit.
-3. Show that the creature reaches for Sparky's command-light before attacking bodies.
-4. Use copper successfully once, at one boundary, without declaring a universal rule.
-5. Preserve crossing debt through Jace's numb hands and Sophia's visible tremor.
-6. End on one instruction producing multiple locally valid outcomes across
-   {Misty}, Sparky, and {Seek}; defer the mechanism to later chapters.
+1. Treat this as one continuous encounter with Ch20, not a second incident.
+2. Show Jace solving the fight through Sparky's thrusters, not combat competence;
+   the rod strike should read as desperate and barely effective.
+3. Establish silver as a second observed material of interference, independently
+   of copper, without declaring either a universal rule.
+4. Make the {Misty} contact a rule-breaking accident with a clear physical cause
+   (exhaustion, injury, proximity), not deliberate experimentation.
+5. Give Jace a real but lesser energy gain from {Misty} than from Sophia's prior
+   drain, paired with visible guilt, not triumph.
+6. Let Sophia voice the "is the creature doing this too" question without
+   answering it. Do not let her, {Aura}, or anyone else solve the mechanism here.
+7. Close on Jin's crew being unreachable for at least a week, removing the option
+   to ask them directly about the unlisted room.
 
 **Must NOT do:**
+- Split the {Misty} contact into a separate scene or a second creature encounter.
+- Let Sophia's open question become a confirmed theory in this chapter.
 - Exonerate or convict the Chinese crew.
 - Explain the creature's origin, ecology, or full relationship to AI systems.
-- Treat a single boundary event as reproducible protection.
+- Treat the silver or copper boundary event as reproducible protection.
+- Give Jace combat competence beyond "improvised technical solution under panic."
+
+**⚠️ OPEN — reconciliation needed with prior Ch21 draft:**
+The previously staged Ch21 draft used a different encounter shape entirely: a
+spine-side observation, paper navigation with independent timers, doubled
+corridor geometry, copper tether defense, {Seek}'s contradictory security alerts,
+and a red eye that tracked Jace specifically. None of that matches the revised
+beats above. Flagging rather than silently discarding: does any of that material
+(doubled geometry, timer failures, {Seek}'s contradictory alerts, the eye
+tracking Jace specifically) get preserved and moved to a later chapter, or is it
+fully retired in favor of the new sequence? Recommend deciding this before the
+full Ch21 prose replacement is finalized.
 
 ---
 

@@ -236,18 +236,20 @@ Sophia said she wasn't sure yet. She took a copy of the map and didn't explain w
 ## Astral Processor Incident (Chapters 20-21)
 
 The Astral form of {Misty}'s dedicated processor stack appears as thousands of
-briefly ordered brown-gold bubbles. Jace accidentally contacts that signature and
-draws its Will. The stack goes dark until Sophia performs a physical breaker reset;
-the outage lasts four minutes and seventeen seconds. Because the *Victoria* is
-docked, its umbilical maintains pressure and heat while navigation, ventilation
-coordination, and other stack-managed functions stop.
+briefly ordered brown-gold bubbles. The incident now happens as the closing beat
+of the merged Ch20/Ch21 Ring Three sequence: Jace, badly injured and disoriented
+after fighting off the creature on Ring Three, is set down against {Misty}'s
+cabinet by Sophia (chosen for its warmth and light, not deliberately) and
+accidentally contacts the signature, drawing its Will. This is the same
+mechanism as the earlier Sophia drain, not a separate or escalated event.
 
-After reboot, {Misty} passes isolated navigation and environmental checks but does
-not fly. Her residual fault is not ordinary duplicated generation: she records one
-generated sentence while external speech repeats it. The same singular-input,
-plural-output pattern appears the next day in Sparky and {Seek}. Do not treat this
-as proof that {Misty}'s Mistral architecture caused the fault, or that the Ring Three
-organism directly accessed her air-gapped physical stack.
+⚠️ VERIFY before finalizing: the outage duration (previously four minutes,
+seventeen seconds), the breaker-reset recovery method, and the "one generated
+sentence, multiple physical outputs" residual fault pattern (shared with Sparky
+and {Seek}) were all specced against the prior draft's encounter shape. They may
+still hold, but should be reconfirmed once Jay rules on the open reconciliation
+question for the old Ch21 back-half material (see review-queue). Do not treat
+the {Seek}/Sparky pattern as confirmed for this revision until that's settled.
 
 ---
 

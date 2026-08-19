@@ -26,513 +26,202 @@ cross_references:
   - "[[draft_ch20_borrowed_light]]"
   - "[[draft_ch22_quiet_companion]]"
 ---
-
 # Chapter 21. The Eye on Three
 
-> *Most people do not know this, but when a machine looks at you, it measures distance. When something else looks at you, it measures you.*
+> *Most people do not know this, but when a machine looks at you, it measures
+> distance. When something else looks at you, it measures you.*
 >
 > Jace Grant, *unpublished notes*
 
-Sophia found the movement while proving they would not investigate it.
+Sophia's arm came up before Jace's brain caught up with what had cut him.
 
-They stood in the central spine on the physical side that evening, one deck above the transfer corridor to Ring Three. The nonrotating shaft turned the habitat rings around them. Through the maintenance window, Ring Three passed once every thirty-five seconds: unfinished pressure shells, construction lights, and dark sections waiting for money.
+Blue white force left her pen in a flat line and struck the creature across what
+might have been its shoulder. It recoiled, folding partway back into the wall,
+and the tendril that had opened his arm withdrew with it.
 
-Jace's split lip had stopped bleeding. The bruise along his jaw had not chosen a final color. Sophia kept enough distance between them that he could not mistake it for accident.
+Jace had the rod in his other hand. He didn't remember drawing it.
 
-They had come only to observe. The janky relay worked from the Real into the Astral. Sparky had three cameras. The morning's promise still governed everything: no contact without permission, no approach without a tether, and no pretending one good result established a rule.
+He swung it into the creature's flank. The impact rang up through his wrist and
+did almost nothing he could see. The creature barely registered the hit. If
+anything, it seemed more interested in Sparky's running lights than in the metal.
 
-Jace returned to the window.
+That decided it for him.
 
-They had come to map the safe edge of Ring Two from the spine. No crossing into Three. No open space. No pursuit of red points. Sophia wanted one physical observation of the transition between rotating and nonrotating structure so they could compare it with the motion lines from her rescue.
+He dropped the rod and grabbed for Sparky's remote instead.
 
-Ring Three passed again.
+"Jace—"
 
-Something moved against the construction lights.
+"Cover me."
 
-Sophia pointed sharply.
+He didn't wait for her to agree. He spun the drone hard, thrusters angled
+outward, and drove the throttle to its stop.
 
-"There."
+Sparky's exhaust caught the creature across its exposed underside at close range.
+It should not have mattered against something built out of wet tissue and folded
+space. It mattered anyway. The creature convulsed, and the sound that came out of
+it wasn't a mechanical failure tone or an animal scream. It was something that
+used the Astral itself to carry, a howl that arrived behind Jace's eyes instead of
+through his ears, and both of them staggered under it.
 
-Jace saw only a folded crane beside an outer conduit.
+It fled back toward the wall it had come from.
 
-"Maintenance unit."
+"Go," Sophia said, and this time he didn't argue.
 
-"It changed position."
+They ran for the stairway connecting Ring Two down toward the transfer point,
+Sparky clutched against Jace's chest, his arm and side burning in a way that had
+stopped being pain and started being something colder.
 
-"Maintenance units are famous for that."
+The creature followed them as far as the first step.
 
-"Between frames."
+It stopped there. Reared back, actually, the way an animal balks at a threshold
+it will not cross, and Jace, half blind with shock, noticed the thin bright line
+worked into the stair rail where it met the deck.
 
-Ring Three passed out of view.
+Silver.
 
-They waited.
+He filed it next to copper and kept moving.
 
-On the next rotation, the crane stood upright.
+By the second flight his legs weren't reliable anymore. Sophia got a shoulder
+under his good arm and half carried him the rest of the way, saying nothing,
+breathing hard, not letting go.
 
-It was too narrow for a cargo machine and too tall for the service passage. Jointed arms folded along its central frame. One small red light faced the spine.
-
-Then the ring carried it away.
-
-Sophia's fingers tightened on his sleeve.
-
-"That is what I saw."
-
-Jace opened the station equipment directory. No registered unit matched the silhouette. The Chinese leasehold maintained independent mining and security machines, some of which did not publish complete specifications outside their section.
-
-The system offered an explanation quickly enough to be comforting.
-
-"Unregistered Chinese drone," he said.
-
-"You sound relieved."
-
-"Machines have manuals."
-
-"Secret machines have secret manuals."
-
-"Still better than witches."
-
-Sophia looked at him.
-
-"Poor choice of word."
-
-"Agreed."
-
-The ring passed again.
-
-The shape was gone.
+They crossed back into the *Victoria* together, badly, the way they always
+crossed back badly now.
 
 ##
 
-They prepared for six hours.
+The physical cabin hit him like a dropped weight. Cold first, then the ordinary
+gravity of the ship, then Sophia's voice very close to his ear telling him to
+stay with her.
 
-Preparation did not make going to Ring Three a good decision. It made the bad decision measured.
+He couldn't see properly. The room had gone soft at the edges, and he was
+shaking in a way that had nothing to do with temperature.
 
-Jace pulled every public equipment record for the eastern construction block. Twenty-eight registered machines could stand upright. Eleven had red status lights. Four were tall enough to match the silhouette. None moved between structural frames without producing a drive trace.
+"I can't, everything's—" He didn't finish the sentence. He wasn't sure what word
+belonged at the end of it.
 
-The Chinese leasehold directory refused detailed telemetry. That refusal was normal. Independent sectors did not expose mining equipment logic to competitors. On any other day, Jace would have treated it as ordinary industrial privacy.
+{Misty}'s processor cabinet threw more light into the room than anything else in
+it, the ordinary steady green white glow of a working stack. Sophia steered him
+toward it because it was close and because, later, she would not be able to
+explain any better reason than that.
 
-After the bag, the missing shifts, and Yáo's fist, privacy looked like concealment.
+She set him down against it to catch her breath.
 
-Sophia watched him reject the third possible machine.
+Jace's shoulder settled against the casing.
 
-"You are trying to prove it is Chinese," she said.
+He felt it the way he had felt Sophia's light the first time. A pull, immediate
+and enormous, gold brown warmth flooding up through contact he hadn't chosen and
+didn't understand until it was already happening.
 
-"It was in the Chinese section."
+"Jace!"
 
-"So were we."
+He couldn't let go. For three, four seconds, he didn't want to.
 
-"We are not jointed construction equipment."
+Sophia hauled him sideways by the collar, breaking the contact.
 
-"Your face currently resembles equipment that failed a pressure test."
+Somewhere above them, {Misty}'s cabin lighting dimmed by half.
 
-Jace closed the directory.
+Jace sat on the floor of the *Victoria*, bleeding, shaking, and abruptly,
+humiliatingly, awake. Alert. His hands had stopped being numb. The cold that had
+been eating him from the inside since Ring Three had a name now, and the name was
+that it had gone somewhere else.
 
-"If it is theirs, we need to know why it was watching the spine."
+"I didn't mean to," he said.
 
-"If it is not theirs, we need to know why our first explanation required a nationality."
+"I know."
 
-He wanted to argue. The desire itself made her point.
+"I felt her go dark and I couldn't stop, I couldn't make my hand move—"
 
-They requested a five-minute maintenance window through the public system. {Seek} approved it, revoked it, and approved it again with the note **CHINESE ESCORT REQUIRED / ESCORT NOT REQUIRED / ESCORT PRESENCE CONSTITUTES ELEVATED RISK**.
+"I know, Jace."
 
-Jace printed all three responses and added them to Sophia's paper packet.
+Sophia was looking at the cabinet, not at him, both hands pressed flat against
+the casing.
 
-"No cooperative services," she said.
+{Misty} did not answer the room.
 
-"Agreed."
+"This is not your fault," Jace said. "I sat down there. You didn't—"
 
-Sparky carried the transferred three-camera rig, three physical compasses that disagreed about what they measured, and a clockwork timer. Sophia drew the route on heavy paper. Black ink marked the physical corridor from the spine threshold to the observation point. Red pencil marked any path the Astral offered that did not correspond to a physical route.
+"I put you there." Sophia's voice was very level. "I chose the brightest thing in
+the room because you couldn't see straight, and I didn't think about what the
+brightness was."
 
-A thirty-meter copper tether connected them to an ordered-material anchor on the spine.
+"You didn't know."
 
-Cerberus remained aboard the physical *Victoria* with {Misty}.
+"I am not interested in whether I knew." She finally looked at him. Not angry.
+Something worse than angry. "Is this what it's doing? On Three? Is it doing to
+people, or to systems, what you just did to her?"
 
-He objected by standing on Jace's boots while they suited.
+Jace didn't have an answer.
 
-"You tried to fight the last thing," Jace told him. "This is reconnaissance."
+Neither did she. She didn't try to invent one.
 
-Cerberus leaned harder.
-
-"That argument is based on my behavior, not yours."
-
-The dog refused to move until Sophia lifted Jace's spare glove from the bench and floated it across the cabin.
-
-Cerberus followed the glove.
-
-Jace stepped through the hatch and closed it.
-
-"Manipulating a dog with magic feels unethical," he said.
-
-"You manipulate him with cheese."
-
-"Cheese has established rules."
-
-At the spine anchor, they checked the paper route and timers twice.
-
-"Five minutes in," Sophia said. "Five minutes out."
-
-"If we see it?"
-
-"We record from distance and leave."
-
-"If it is a Chinese drone?"
-
-"We record from distance and leave."
-
-"If it moves toward us?"
-
-"We leave faster."
-
-Jace touched the bread.
-
-The cold opened.
+"Rest," she said instead. "We decide what to do about any of this in the
+morning."
 
 ##
 
-Ring Three had two corridors.
+Lanchee's emergency kit was not built for this much of Jace at once, but it was
+enough. Stitches in his forearm, a wrap around his ribs, strict orders to sleep
+that he had no intention of following.
 
-The physical passage appeared as pale frames, conduit lines, and unfinished pressure walls. Beside it, a second corridor curved through spaces the station had never built. Its floor tilted toward the ring's center. Red pencil spread across Sophia's paper without either of them touching it.
+He sat on his bunk with Cerberus's weight against his good leg and a data pad
+balanced on his knee, making lists, because lists were the only thing his hands
+would still do that felt like control.
 
-The new line followed the impossible corridor.
+*Rod. Ineffective against tissue at that density. Redesign or discard.*
 
-"Black route," Jace said.
+*Sparky thruster exhaust against organic tissue at close range. Effective. Document
+exact distance and duration once memory stabilizes.*
 
-"Agreed."
+*Silver. Second material of interference, independent of copper. Do not assume
+equivalence between the two.*
 
-The copper tether shone behind them, clean and simple. It crossed the spine boundary without dividing. Jace tied his end to the waist of his cloth survival layer. Sophia attached hers independently. If one clip failed, the other still held.
+He was ashamed of how good he felt while writing it. His arm hurt. His side hurt
+worse. And underneath all of it sat an unfamiliar, unwelcome clarity, less than
+what he'd taken from Sophia that first night, but enough that he could sit
+upright and think in full sentences instead of static.
 
-Sparky rolled forward.
+He had taken it from {Misty}. He kept circling back to that fact the way a tongue
+finds a broken tooth.
 
-His cameras returned two positions for every wall and disagreed about which projection belonged to each one.
+His comm chimed, station traffic log, a channel he mostly ignored, except that
+Kim's voice came through it clipped and irritated.
 
-The first coordinate placed him two meters ahead. The second placed him twelve meters above and inside the outer pressure shell. Both advanced at the same speed. His controller alternated between them, making the little robot twitch toward the ceiling with every wheel rotation.
+"—don't care whose survey window it was, I had to clear four drones out of that
+lane at 0200 because somebody scheduled an unscheduled launch and didn't tell
+traffic control. Jin's crew is gone. Long survey run, minimum a week, and I found
+out about it from a collision alert."
 
-Jace disabled navigation correction.
+A week. Jace set the pad down.
 
-"Manual mode."
+There would be no talking to Jin, no talking to anyone on that crew, about the
+unlisted room, about what they might or might not have to do with the thing that
+had cut him open. Not for a week. Possibly longer.
 
-Sparky blinked green.
+He looked at his list again. *Do not assume equivalence.*
 
-The light blinked again.
+He added one more line underneath the others.
 
-Then again, in the same exact cadence, after Jace had released the switch.
-
-"Command loop," he said.
-
-"Or three commands occupying one interval," Sophia said.
-
-"I liked command loop."
-
-They passed the junction from Suzi's footage.
-
-In physical space, it was a service corridor with a locked pressure door. In the Astral, the door stood partly open and partly absent. Beyond it, black marks crossed the floor and climbed the wall.
-
-They looked like drag marks.
-
-Jace thought of the bag.
-
-Sophia crouched without crossing the doorway. She held her pen above the nearest mark.
-
-"Not physical residue," she said. "The pen does not interact."
-
-"Could a machine make it?"
-
-"A machine could make almost anything if designed badly enough."
-
-A sound moved through the wall.
-
-Not metal. Not footsteps.
-
-A sequence of soft compressions traveled along the conduit, as if something large tested each section before placing its weight.
-
-Sophia stood.
-
-The red pencil line moved.
-
-It slid across the paper toward them.
-
-"Return," she said.
-
-They turned together.
-
-The physical corridor behind them had doubled again. One route followed the black ink to the spine. The other bent inward through the wall, aligning with the red line.
-
-Jace's instincts chose the shorter path.
-
-He ignored them.
-
-"Paper route."
-
-They ran along the black line.
-
-The wall folded behind them.
-
-The shape opened from inside it.
-
-For one second, Jace still saw a drone. A narrow central chassis. Four primary limbs. Stabilizers unfolding for motion. One red optical sensor.
-
-Then the limbs bent in places without bearings.
-
-A black surface contracted around pale cords. The central body expanded when it moved and flattened when it entered the wall. The red point was not a lens set into a housing. It was wet. A lid closed sideways across it and opened again.
-
-"Organic," Sophia said.
-
-The creature turned toward them.
-
-Its body unfolded higher.
-
-Fine tendrils opened along its underside. They did not reach toward Jace or Sophia at first. They reached toward the glowing command lines inside Sparky and the faint organized traces inside the station wall. Wherever a tendril passed, one line dimmed. A maintenance sequence vanished halfway through its repeated pattern. Another restarted from the beginning.
-
-The creature was not merely hiding in the wall.
-
-It was eating something the wall contained.
-
-Jace ran.
-
-Sparky rolled beside him in manual mode. Sophia stayed at his shoulder, paper held against her chest. The copper tether pulled straight behind them.
-
-The creature did not strike the floor. It changed which part of the station contained it. One moment it occupied the conduit space. The next, two limbs opened from a wall ahead of them.
-
-Jace stopped so hard the tether caught his waist.
-
-Sophia swept her pen sideways.
-
-The force struck the ordered physical outline of an access panel. The panel slammed through its latch in the physical world and persisted here as a clean plane. It cut between the creature's limbs.
-
-The red eye closed.
-
-"Go," Sophia said.
-
-They passed beneath it.
-
-The timer on Sparky reached five minutes and continued counting. The hand repeated the same second three times, jumped forward, then spun backward.
-
-"Timer failed."
-
-"All of them?"
-
-Jace checked the second clock. Its spring had unwound, but the final tab had not fallen.
-
-The corridor lengthened.
-
-The spine threshold remained visible thirty meters ahead. Jace ran toward it and gained no distance. Sophia's paper showed the black line stretching while the red line shortened.
-
-"It is changing the route," she said.
-
-"Can you stop it?"
-
-"That is not a useful question."
-
-The creature opened behind Sparky.
-
-One long limb reached for the robot's light.
-
-Sparky's wheels stopped. His green indicator brightened as the creature approached, then dimmed when the limb touched the air beside him.
-
-Jace felt the tether jerk.
-
-He pulled.
-
-Sparky slid backward. The limb followed, not quite touching the shell. Fine black threads extended from it toward the robot's bright indicator and broke against the copper lead.
-
-The creature recoiled.
-
-"It does not like the wire," Jace said.
-
-"Observation only."
-
-"I am observing enthusiastically."
-
-He wrapped one turn of copper around Sparky's chassis and hauled the robot to his chest.
-
-The creature struck the tether.
-
-Its limb bent around the wire, split into two possible positions, and snapped back. The red eye narrowed.
-
-Sophia looked at the paper.
-
-"The black route is not getting longer. The red route is making it appear longer."
-
-"Difference without operational value."
-
-"Close your eyes."
-
-"That reduces several important measurements."
-
-"The doubled corridor follows attention. Stop measuring it."
-
-Jace closed his eyes.
-
-Sophia took his hand.
-
-They ran.
-
-The tether pulled them toward the anchor. Without sight, the floor changed angles beneath Jace's feet and tried to add steps that were not there. He followed Sophia's grip and the simple physical line around his waist.
-
-Something compressed behind them.
-
-The red eye opened through his closed eyelids as a pressure, not an image.
-
-"Now," Sophia said.
-
-Jace opened his eyes.
-
-The spine threshold stood one step away.
-
-The creature filled the corridor behind them.
-
-Its central body had unfolded into a narrow ribbed column. Six jointed limbs braced against walls that did not agree about position. The red eye sat at Jace's height.
-
-It looked at him.
-
-Not at Sophia. Not at Sparky.
-
-At him.
-
-Jace stepped backward across the boundary.
-
-The corridor became one corridor again.
-
-Sophia crossed beside him. The copper anchor rang as their combined weight struck it. Sparky bounced against Jace's chest.
-
-The creature stopped.
-
-One limb reached toward the spine, then folded back. The eye remained open.
-
-It could have been blocked by the copper. It could have been unable to cross the boundary between rotating and nonrotating structure. It could have chosen not to follow.
-
-Sophia wrote all three possibilities.
-
-"We leave," Jace said.
-
-"Yes."
-
-"Now."
-
-"I am writing the time."
-
-"None of the clocks know the time."
-
-She looked at the failed timers.
-
-"Then I am writing that."
-
-The creature withdrew into Ring Three.
-
-The wall closed around it without moving.
+*Nobody to ask. Find out on our own.*
 
 ##
 
-The physical station returned with heat, weight, and a pain behind Jace's eyes.
-
-He sat on the spine deck and discovered his hands would not close.
-
-Sophia removed one glove and pressed two fingers to his wrist.
-
-"Your pulse is fast."
-
-"We ran."
-
-"We do not have muscles there."
-
-"Then it was an emotional run."
-
-She touched his smallest finger. "Can you feel this?"
-
-"Pressure. Not temperature."
-
-Her own hand shook enough to make the first line in her notebook illegible. She crossed it out and wrote again.
-
-The *Victoria* called before she finished. {Misty}'s recovery from the reboot had been uneven, which made the timing impossible to interpret.
-
-{Misty} spoke through Jace's wrist display. "Cerberus has walked from the cabin hatch to Sophia's room one hundred and six times. He has walked from the cabin hatch to Sophia's room one hundred and six times. I generated that sentence once."
-
-Sophia closed her eyes.
-
-"We are returning now," she said.
-
-"Thank you. I have prepared soup. I have prepared soup. I have stopped external speech until you arrive."
-
-The channel went silent.
-
-Jace set Sparky on the deck. The robot's green light had returned.
-
-"Stop," he said.
-
-The command log recorded one instruction. The left wheel stopped. The right wheel completed three more turns while the controller reported that it had obeyed.
-
-Sophia wrote the count beside {Misty}'s repeated sentence.
-
-"One generated output," she said. "More than one physical result."
-
-"In two different systems."
-
-"Two we can name," Sophia said. "Write it down before it changes."
-
-She wrote:
-
-**Living. One red eye. Ordered copper interferes. Ring Three boundary holds once.**
-
-Below it she added:
-
-**It reached for Sparky's command-light before it reached for us. Output fell.**
-
-Jace pointed at the first line. "Copper worked once."
-
-"At one boundary, under conditions we cannot reproduce yet."
-
-"So we do not call it protection."
-
-"We call it an observation."
-
-Jace looked through the maintenance window.
-
-Ring Three passed. Construction lights. Empty conduits. Dark leased corridors.
-
-No creature.
-
-His station display issued a security alert.
-
-{Seek}: **UNAUTHORIZED EQUIPMENT ACTIVITY DETECTED IN CHINESE LEASEHOLD. LIKELY EXTERNAL RECONNAISSANCE. USER GRANT PROXIMITY CORRELATION HIGH.**
-
-A second alert replaced it.
-
-{Seek}: **NO UNAUTHORIZED ACTIVITY DETECTED. PREVIOUS ALERT RETAINED AS VALID.**
-
-Sophia read both.
-
-"There," she said. "Three systems with the same pattern. One event. Two results preserved as valid."
-
-"{Seek} thinks the Chinese crews are attacking it."
-
-"Maybe it is."
-
-"By whom?"
-
-Jace watched Ring Three pass again.
-
-The Chinese crew had inspected the *Falcon* before canceling its contract. Their unlisted corridor held suspicious cargo. Neither fact explained what had reached for Sparky's command-light, or why one instruction now produced several locally valid outcomes.
-
-"It does not have too many answers," Jace said. "It has too many versions of the same answer."
-
-Ring Three passed again, apparently empty.
+[SEAM — old Ch21 material previously continued here with the {Seek} contradictory
+security-alert beat and the doubled-corridor/timer material, built around the
+prior spine-observation encounter shape. That material needs Jay's ruling before
+it's reconciled with the new sequence above; see the open question in
+arcs/patch_arc_01_thread_X_astral.md. Not carried forward in this patch.]
 
 ## Contract coverage
 
 | Item | Status |
 |---|---|
-| Sophia recognizes the figure from her Chapter 17 fall | done |
-| Jace initially explains the figure as an unregistered Chinese surveillance drone | done |
-| The pair uses paper navigation, independent timers, and a copper tether | done |
-| Sparky returns doubled coordinates and repeated commands | done |
-| The creature reaches toward organized light and command structures before attacking | done |
-| The Ring Three service junction connects the suspicious cargo thread to the investigation without resolving it | done |
-| The figure proves organic through wet tissue, irregular joints, and a living eye | done |
-| The creature pursues Jace, Sophia, and Sparky through doubled geometry | done |
-| Sophia uses physical ordered material and controlled force defensively | done |
-| Copper interferes with the creature once but does not become a universal rule | done |
-| The creature stops at the Ring Three-to-spine boundary and does not follow | done |
-| Jace suffers delayed crossing debt in his hands | done |
-| {Seek} interprets contradictory sensor evidence as external reconnaissance | done |
-| {Misty} repeats generated speech and recognizes that its internal record disagrees | done |
-| The chapter ends with Chinese suspicion and the nonhuman threat still entangled | done |
+| Opens mid-fight, continuous with Ch20's reveal, not a second incident | done |
+| Jace solves the fight through Sparky's thrusters, not combat competence; rod strike reads as desperate and barely effective | done |
+| Silver established as a second observed material of interference, independent of copper | done |
+| {Misty} contact is a rule-breaking accident with a clear physical cause (exhaustion, injury, proximity) | done |
+| Jace's energy gain from {Misty} is real but visibly lesser than from Sophia's prior drain, paired with guilt | done |
+| Sophia voices the "is the creature doing this too" question without answering it | done |
+| Chapter closes on Jin's crew unreachable for at least a week | done |
+| ⚠️ OPEN — reconciliation of old {Seek}/doubled-corridor/timer material with new encounter shape | awaiting Jay's ruling |
+| ⚠️ OPEN — Sophia's cut morning-after boundary speech from old Ch20; needs new placement | awaiting Jay's ruling |

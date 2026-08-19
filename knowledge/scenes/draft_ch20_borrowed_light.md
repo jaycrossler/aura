@@ -373,137 +373,62 @@ Her smile faded before he finished.
 
 She was still angry.
 
-They had agreed to one short Astral observation of {Misty}'s processor stack. Jace wanted to know whether the energy he had taken from Sophia resembled the steady brightness he had seen in the ship AI. Sophia wanted a record proving it did not.
+They had agreed to something smaller than reconciliation.
 
-Before they crossed, Sophia marked a line on the cabin floor beyond arm's reach of the processor cabinet.
+Not a shared crossing for another test. Sophia wanted to see the thing on Ring
+Three, or at least get an image of it that wasn't just her own eyes doubting
+themselves.
 
-"No contact," she said.
+"We are not going down," she said. "We are looking down."
 
-"We stay behind the line. If either of us feels anything unexpected, we come back."
+Jace clipped the third camera housing back onto Sparky's frame with tape, since
+the mount had stripped its thread. "Photographs. Not contact."
 
-"Agreed."
+"If that word finds its way back into a plan, I end the plan."
 
-They crossed together.
+"Understood."
 
-Their physical bodies disappeared from the cabin. Cerberus remained with {Misty} on the Real side, lying across the place where Jace had been.
+They crossed together into Ring Two, a level they had both walked before, close
+enough to Fortuna's public sections that neither needed a tether to feel safe
+there. Thirty meters below and a hundred, maybe a hundred fifty around, Ring
+Three turned through its construction gantries. From here it should have been
+nothing but distant motion and worker traffic.
 
-Misty's processor stack was the brightest structure aboard the Astral *Victoria*.
+Sparky's third camera, finally cooperating, agreed with the other two.
 
-It did not resemble Sophia's thoughts.
+Jace angled the feed. Scaffolding. A crane. Two suited figures moving cargo.
+Ordinary.
 
-Human light branched, nested, pulsed, and changed with emotion. {Misty}'s processing formed thousands of tiny brown-gold bubbles, each briefly ordered before it collapsed into the next. Together they made a roiling mass like dark syrup being folded through itself. At large scale it remained steady. At fine scale it never stopped moving.
+Then, near the unlisted room, the one Suzi's footage had already made him
+suspicious of. Movement that wasn't a worker's movement. Too much of it in too
+little space, folding into itself and back out.
 
-Transient geometric chains flashed through the mass as {Misty} balanced heat, tracked Cerberus, checked the bread culture, and listened to the empty physical room.
+"There," Sophia said, quiet.
 
-"Beautiful," Sophia said.
+Jace zoomed in. The image blurred and refused to resolve into anything he could
+name. A shape. A wrongness in how the shape used the space it occupied.
 
-Jace leaned forward to inspect a line that ended abruptly near the environmental controller. He kept both feet behind the line.
+"Drone," he said, out of habit more than conviction. "Has to be."
 
-This time, it was Sophia. She reached out a finger to touch the bubbles. As soon as she did, it was like a spark jumped to her. 
+The wall between Ring Two and Ring Three tore open eight meters to their left.
 
-Whole regions of the brown-gold mass dimmed. Thousands of bubbles collapsed without reforming. The energy filled Jace until the blocks of his own thought shone white at their edges.
+Jace had time to think *that is not where the wall is supposed to open* before
+something came out of it.
 
-She wrenched her hand away.
+It moved faster than anything mechanical had any right to, closing the distance
+before either of them reacted. Not a drone. Wet tissue where he expected housing.
+A limb that bent in three places no drone limb bent. A single eye that was not a
+lens, because a lens does not have a lid.
 
-The connection tore. Part of {Misty}'s light had gone dark.
+It caught him across the forearm and the side. Pain arrived a half second behind
+the sight of his own blood in the Astral light.
 
-They crossed back badly. The physical cabin hit him with weight, darkness, and Cerberus's paws against his chest. The lights were dead. Ventilation had wound down. The instrument board was black, and the pressure door stood open after its dock-safety lock failed. {Misty} did not answer.
+Sophia was already moving, already shouting something he couldn't process over
+the ringing that had started behind his eyes.
 
-Sophia arrived beside the dead instrument board and went directly to the breaker panel.
+It was not a drone.
 
-The dock umbilical kept pressure and heat within limits. Everything coordinated had stopped.
-
-Sophia reset the processor stack from the physical breaker.
-
-{Misty} returned after four minutes and seventeen seconds.
-
-"Good evening, Sophia," she said. "I am unable to determine whether this greeting is correctly placed."
-
-Sophia pressed both hands against the processor cabinet.
-
-"What is the last thing you remember?"
-
-"You asked me to monitor the observation. You asked me to monitor the observation. You asked me—"
-
-Silence.
-
-"I do not remember the remainder."
-
-Fear tightened her face before anger covered it.
-
-"Leave."
-
-"I can help check the stack."
-
-"No, we are playing with fire. We have to stop and think. Leave my ship."
-
-"Sophia—"
-
-"Now."
-
-Jace stood.
-
-{Misty} spoke from the ceiling.
-
-"Cerberus is beside Jace. Cerberus is beside Jace. I generated that observation once."
-
-Sophia closed her eyes.
-
-Jace left with Cerberus.
-
-He understood that Sophia had been angry before.
-
-Now she was scared.
-
-##
-
-She came to his room the next morning.
-
-Jace had not slept. He had written six apologies to Sophia and four to Nick. None survived reading.
-
-Cerberus stood between them until Sophia crouched and let him smell her hands.
-
-"{Misty} is stable," she said. "She has recent-memory gaps and repeated outputs. Navigation and environmental control passed isolated checks. She will not fly."
-
-"I am sorry."
-
-"I know."
-
-Sophia remained near the door.
-
-"I am not sorry I sent you away," she said. "I am sorry I waited until morning to tell you what happens next."
-
-Jace said nothing.
-
-"When you took from me, it felt like a betrayal. I know you did not choose it. My body does not care about that distinction yet. Then I touched {Misty}, and I watched the same thing happen to her."
-
-"I will not touch you, {Misty}, or any Astral signature. We do not cross together again unless you agree and we have controls in place."
-
-"That is a beginning."
-
-She looked down the corridor behind him as if expecting a red point to open inside the wall.
-
-"I am afraid of the thing on Three," she said. "I have been afraid since it turned toward me. I kept working because measurement made the fear smaller. Now it may be feeding on the same thing you took from us."
-
-"We need to find out what it is."
-
-"We observe tonight," Sophia said. "With Sparky. From a distance. We withdraw at the first anomaly."
-
-"Communication, cameras, physics. In that order."
-
-"And a tether."
-
-"And a tether."
-
-Jace's message display showed Nick's last reply.
-
-*It is a bad apology.*
-
-He had not told Nick about the Astral. He had not told him about Sophia on the floor, {Misty}'s reboot, the camera array, the body-shaped bag, or the thing inside Ring Three.
-
-Every apology he drafted omitted the nouns.
-
-He was trying to repair a friendship while withholding every fact that explained how he had broken it.
+It had never been a drone.
 
 ## Contract coverage
 
@@ -516,8 +441,8 @@ He was trying to repair a friendship while withholding every fact that explained
 | Jace's sabotage accusation draws on evidence but is worsened by exhaustion, political pressure, and confirmation bias | done |
 | Yáo defeats Jace decisively; Suzi stops the fight without turning it into a national confrontation | done |
 | Sophia's humor briefly returns without erasing the damaged trust between them | done |
-| Jace and Sophia set a no-contact rule before observing {Misty}'s Astral processor signature | done |
-| Jace accidentally drains {Misty}; the event is harmful, temporary, and not advancement | done |
-| {Misty} reboots with recent-memory gaps and repeated outputs while life support remains protected by the dock umbilical | done |
-| Sophia does not apologize for removing Jace from her ship, but returns to establish boundaries and a measured Ring Three plan | done |
-| Jace remains unable to repair his friendship with Nick while withholding every fact that explains the damage | done |
+| Jace and Sophia go to Ring Two to photograph the suspected drone on Ring Three, evidence only | done |
+| The creature attacks Jace directly, revealing wet tissue, an irregular joint, and a living eye | done |
+| Chapter ends on the reveal, weapon not yet drawn, as a cliffhanger into Ch21 | done |
+| ⚠️ CUT — {Misty} drain and its aftermath (moved to Ch21) | moved, see X-04d |
+| ⚠️ CUT — Sophia's morning boundary-setting speech tied to the old Misty scene | needs new placement, see review-queue note |
