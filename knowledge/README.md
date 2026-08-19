@@ -196,7 +196,7 @@ secret intelligence arrangement.
 - **`build_tree.py` Indexing**: The index script `build_tree.py` runs inside `/knowledge` to compile `_index.md`.
   * It scans all markdown files, synchronizes their `last_updated` date based on the text contents, extracts standard frontmatter metadata, and computes file metrics (lines, xrefs, characters).
   * It validates warning diagnostics: Draft/Staging files, Orphaned files (not linked via any other file's `cross_references`), and progression Sheet Sequence Gaps.
-  * It creates clean per-chapter and five-chapter plain-text listening files in `scenes/chapter_text/`, without frontmatter, Markdown tags, braces, contract coverage, or open notes.
+  * It creates clean per-chapter and five-chapter plain-text listening files in `generated_text/`, without frontmatter, Markdown tags, braces, contract coverage, or open notes.
   * **Rule**: You **must** run `python build_tree.py` inside the `knowledge/` directory after any edits to keep the index and listening files fresh.
 - **Visual Profiles & Image Production**:
   * Visual specifications for characters and locations live in `/visual_profiles/` as `visual_profile_*.md` and follow the guidelines in `/VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md`.

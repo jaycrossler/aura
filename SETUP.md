@@ -12,7 +12,7 @@
    - `python -m tools.storyops.agents`
    - `python -m tools.storyops.publish`
 
-*Note: Whenever you modify or add any canon files under `/knowledge/`, run `python build_tree.py` inside the `knowledge/` directory. It updates `_index.md`, checks for staging warnings, orphaned files, and sequence gaps, and refreshes the plain-text chapter listening files under `scenes/chapter_text/`.*
+*Note: Whenever you modify or add any canon files under `/knowledge/`, run `python build_tree.py` inside the `knowledge/` directory. It updates `_index.md`, checks for staging warnings, orphaned files, and sequence gaps, and refreshes the plain-text chapter listening files under `generated_text/`.*
 
 ## 2) Run on every GitHub repo change (local machine)
 Use `local_runner` from cron / Task Scheduler. It checks remote updates, fast-forwards local branch, and runs observe+lint safely.

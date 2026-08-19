@@ -1,0 +1,225 @@
+Chapter 4. The Morning After
+
+Athena: Mom saw the explosion clip. She was really scared.
+
+Apollo: It looked much worse on video, I'm sure.
+
+Artemis: Do you just hate following oreders from AI? That's twice.
+
+Athena: Dad wants to know why this family cannot get through one birthday without property damage.
+
+Apollo: Ask Artemis who blew up the barn loft.
+
+Artemis: Classified.
+
+Jace woke feeling like someone had replaced his blood with warm sand.
+
+His arms shook when he pushed himself upright. Nausea rolled through him without committing to a direction. Heat pressed behind both eyes, deeper than the familiar coal from his HUD headaches. When he stood, every joint reported that it had worked the crisis without consulting him. Must be the shock of a gallon of adrenaline wearing off all at once.
+
+Cerberus lifted his head from the foot of the bunk, assessed him, and slowly wiggled over on top of Jace's chest, then planted his warm belly on Jace's chin, pushing off his breathing mask and giving him a mouth full of short tan fur.
+
+"Ugh. I'm awake. Yes, breakfast, I'm late. Thanks for your understand."
+
+
+
+Dr. Lanchee scanned him in the corridor, and she was not gentle about it.
+
+"Dehydration. Sleep deficit. Stress response." She said it the way she'd have read a parts list, except that her hands, checking his pulse, were not as steady as her voice. "You do understand my clinic sits two berths down from where you decided to detonate a manifold."
+
+"I did the mass model twice."
+
+"You did the mass model twice and then vented cryogenic propellant into a compartment adjacent to my medical stores, my home, and me, personally, at four in the morning, with no warning that I could act on." Lanchee did not raise her voice. She simply stopped softening it. "I have moved that canister for years without losing a single instrument. I nearly lost half of it to you. If that manifold had breached toward my hull instead of away from it, Captain Maureen would currently be short a doctor along with a plumbing system."
+
+He paused. She sighed. She shone a light into his eyes again.
+
+"That explains all of my symptoms?"
+
+"It explains enough to prescribe water, rest, and better judgment. I can only write a prescription for two of those."
+
+She handed him electrolyte tablets and continued toward the animal berths, considerably less gently than she usually moved.
+
+Jace stopped at the galley. He had negotiated with Origin to have dog kibble shipped for the dogs, but he bought an expensive faux-sausage link as a treat for them. Then he bought an expensive breakfast for himself and an even more expensive coffee. He drank water and swallowed the pills, feeling them join the others in his gut.
+
+The damaged plumbing waited.
+
+Tank nineteen's manifold had become a blackened gap surrounded by cracked insulation. The argon transfer had embrittled two valves, distorted a waste line, and left sensors disagreeing about pressures that no longer existed. Jace fabricated sleeves, replaced trunks, and purged each line by hand. Thing One inspected exterior seams. Thing Two held parts and recorded every mistake for Origin.
+
+Maureen worked two sections away. She spoke to him about torque, pressure, and nothing else.
+
+He preferred the silence.
+
+The last of the exterior ice had been cleared from around the ruptured hatch... flushed, chipped, and finally melted back down through the recovery lines under Thing One's patient supervision. He paused, stretching. Siren had appeared and jumped up at him without ceremony. He caught her, front paws landing on his chest, tongue licking his nose and the side of his face before he could get a hand up to stop her slobbering.
+
+She had never once done this before. She did not appear inclined to explain herself now. After the sloppy doggy kiss, she jumped down, shook herself once snout to tail, and went trotting off, leaving Jace crouched in the corridor with ice-melt soaking through his pants and an expression he was glad nobody was recording.
+
+The ship now carried less water shielding, less argon reserve, and a temporary mass arrangement nobody wanted to trust. Jace had saved it. Jace had also created half the repair list in front of him. Both facts remained true no matter which one he considered first.
+
+
+
+The next day, Alex scheduled a post-incident review after Origin headquarters had reviewed the incident. They were 13 days to Fortuna. Lucky 13.
+
+Contractor Grant! Your mandatory review regarding the Falcon mass-distribution event begins in ten minutes. Thank you for helping Origin improve emergency outcomes!
+
+The alert was ominously cheerful. Jace sat at Patrick's workbench with Cerberus across his boots and accepted the channel.
+
+Alex spoke in the same bright, patient voice it used for hydration reminders. Good afternoon, Contractor Grant. Let us begin with the positive result. Your intervention preserved the client vessel, its crew, and approximately 2.4 million tokens in livestock and modular assets. Origin recognizes the value of this outcome.
+
+"That sounds promising."
+
+The outcome does not authorize the actions used to obtain it.
+
+"Less promising."
+
+You performed an unvalidated cryogenic-fluid transfer into non-certified ballast containers. You bypassed pressure-separation controls, decomposed a prohibited operation into individually authorized drone commands, ignored a direct safety warning, and caused an explosion aboard a client vessel.
+
+"A small explosion."
+
+Origin's incident taxonomy does not include a small-explosion discount.
+
+The penalty appeared in his HUD.
+
+Fifty thousand tokens.
+
+Jace read it twice. His debt had long ago become too large to feel. This number was small enough to hurt.
+
+"Maureen is already fining Origin. Does this go to pay that?"
+
+Captain Maureen's commercial claim concerns damage and contractual vessel risk. Your penalty concerns contractor conduct. This matter has been forwarded to Origin's Human Resources division as a formal disciplinary action against your contractor record, independent of the commercial claim.
+
+"HR. There's an HR department for this."
+
+There is an HR department for everything, Contractor Grant.
+
+"Conveniently."
+
+They are separate accounting categories, handled by separate teams.
+
+There was no satisfaction in the answer. Alex had no grudge to feed and no anger to enjoy. It was classifying an event, applying terms Jace had accepted, and sounding pleased because someone had decided pleased voices improved compliance.
+
+You may pay the penalty directly or redeem all accumulated Origin Bonus points. Redemption will reduce your employee tier from Prime to Standard for the remainder of your contract of approximately 1800 days, a value of 27 fewer credits per day.
+
+"What do I lose?"
+
+Priority forge scheduling, enhanced entertainment access, premium bedding adjustments, and Prime food and beverage service.
+
+"Coffee."
+
+Any luxury drink products will now cost a separate personal charge.
+
+His daily Prime tokens had previously covered exactly Maureen's updated prices. Losing Prime access converted an unaffordable drink into an unavailable one. The distinction felt personal despite involving two systems incapable of caring.
+
+"Use the points."
+
+Confirmed. Your status is now Standard. Congratulations on resolving your balance without increasing principal debt.
+
+"I would like a human case review."
+
+Certainly. Current estimated response time is twenty-one months.
+
+Jace looked toward the ring-status display. They would reach Fortuna in less than two weeks.
+
+"Would it matter if the reviewer examined a case that late?"
+
+Yes. Origin supports asynchronous dispute resolution.
+
+"Of course it does."
+
+Is there anything else I can help you with?
+
+"Would Origin have preferred that I let the ring fail?"
+
+Alex paused for less than a second.
+
+Origin does not evaluate hypothetical outcomes through preference. The approved response was to remain within assigned authority and follow vessel command.
+
+Jace thought of two iced berths, a rising red tension trace, and Maureen preparing to cut.
+
+"No. Nothing else."
+
+Thank you for your work, Contractor Grant. This privileged conversation will be deleted from records after HR is notified of resolution. Your privacy is important to Origin.
+
+The channel closed.
+
+
+
+Maureen appeared in the hatch carrying a replacement pressure regulator.
+
+"Origin paid the first portion of my claim," she said.
+
+"It fined me."
+
+"Good."
+
+She set the regulator on his bench. A sealed cup sat beside it. Real coffee, judging by the smell.
+
+Jace looked from the cup to her. She probably didn't know that he couldn't afford coffee anymore, but it was still annoying.
+
+Maureen picked it up. "This is mine."
+
+"Naturally. Look, I'm sorry I risked your ship. I was out of line. It won't happen again."
+
+She drank while reviewing his repair log. The silence lengthened.
+
+"Your sleeve on waste line fourteen is two millimeters proud," she said.
+
+"It still seals."
+
+"It will snag the next service crawler. Fix it."
+
+"Yes, Captain."
+
+She turned to leave, then stopped. "We didn't die."
+
+Then she was gone. He'd take it as a win.
+
+Later, he receive a message from Patrick that simply said "Good job".
+
+
+
+Jace corrected the sleeve. The strange heat behind his eyes had begun to fade, and beneath it he noticed something missing.
+
+The morning headache was gone.
+
+He waited for the familiar burn to return triggered by the bright light of the welding torch. It did not.
+
+It took him a full minute of standing in the workshop, torch in hand, to understand what the absence actually was: the first morning in a month his head hadn't hurt. Not dulled. Not managed down to background noise with electrolyte tablets and stubbornness. Gone, cleanly, the way a sound stops when you didn't know how loud it had been until the room went quiet.
+
+The relief hit him like a physical thing. A glorious, uncomplicated flood of something his body clearly intended as a reward, out of all proportion to a headache ending. His hands weren't shaking anymore. He felt, absurdly, like laughing. He wanted to run the corridor, lift something heavy, tell somebody. He caught himself grinning at a pressure regulator for no reason he could defend. He had to stop and let the relief move through him, months of low-grade morning dread cashing out all at once into something that felt suspiciously like joy.
+
+He should have reported the medical change to Lanchee. Instead, he opened the next repair order and hummed, which Maureen noticed when she returned and did not comment on. That was its own kind of comment.
+
+After that, alone in the workshop, he caught himself staring at the edge of a shelf bracket that seemed, for just a moment, to have a second outline half a finger's width off from the first. A faint shimmer at the boundary, gone the instant he focused on it, the way a heat haze disappears the moment you try to look directly at it. He blinked hard and it didn't come back. He filed it, mentally, next to the headaches and the dreams and the small growing pile of things he wasn't reporting, and thought, not for the first time, and with the specific dread of someone who had grown up around Air Force flight surgeons, about radiation, and cumulative dose tables, and the quiet belt-wide certainty that everyone who spent long enough out under the cosmic rays eventually found something on a scan they wished they hadn't. He did not think the name for what he was picturing. He didn't need one. Every spacer had the same one waiting in the back of their head, and his had just gotten a little louder.
+
+He had broken the rules because the approved choices ended with losing part of the ship. The rules existed because improvising around pressure vessels killed people. Alex was right about the risk. Maureen was right about the cost.
+
+He would still open the valve again.
+
+
+
+A day after the Alex debrief, an old social network app messaged him with something it had never shown before: an audience count. Somebody, not him, had cut together forty seconds of the disaster: suit-cam pressure readouts intercut with the actual tank-nineteen vent, the argon flare lighting the ring up from the inside in the dark. The clip sat at just over one hundred thousand views, many of them logged in from Fortuna Station itself.
+
+He read a little of the attached commentary before he made himself stop. Some of it called him the guy who'd saved the Falcon. Some of it called him a military washout who'd nearly killed a doctor to shave four hours off a repair job. Nobody involved had asked him for a comment, which he found he preferred. There was nothing he could say that would improve either version, and humanity, apparently, had already decided both of them without him.
+
+He closed the feed and did not check it again. There was a proud two-millimeter sleeve waiting to be welded, and that problem, at least, had a right answer.
+
+Maureen called it crew morale. Mei called it something in Mandarin that Jace didn't ask her to translate. Whatever it was, on the third night of repairs, the four of them ended up in the galley with a trivia deck Patrick had left behind on a prior contract and nothing else to do with their hands. No HUDs, devices, or contacts allowed.
+
+Jace lost early and often. Maureen knew every question about ship mechanics and nothing else. Mei answered in short, correct bursts and otherwise watched.
+
+Lanchee won.
+
+Not narrowly. She took general science, she took history, she took two categories that had nothing to do with medicine and one obscure sports question Jace was certain no one aboard should have known. She answered fast, flat, and unbothered, the same register she used for a diagnosis.
+
+"You're good at this," Maureen said, in the tone of someone revising an opinion.
+
+"I am not, usually." Lanchee turned over the next card without looking up. "I'm just remembering things a lot more lately. Space seems to clear my head."
+
+She won every round they played. Nobody suggested a rematch, and the deck went back into a drawer, and nobody aboard the Falcon thought about it again.
+
+
+
+Screwdriver reached the rail first, which she never did, and pressed the flat of her snout against his knee and held it there. The other five followed her over, one at a time, in the unhurried, deliberate way pigs did everything, until all six were lined along the rail leaning into him, and Jace stood there a long moment with his hand on Screwdriver's head, in a corridor that still smelled faintly of scorched insulation, and did not entirely trust himself to say anything out loud.
+
+"Yeah," he said eventually. "You're welcome."
+
+Screwdriver grunted, which he chose to take as agreement.

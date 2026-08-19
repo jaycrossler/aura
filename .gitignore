@@ -53,6 +53,8 @@ secrets.*
 
 # Knowledge importer staging/temp areas
 knowledge/to_import/
+knowledge/cleanup_reports/
+cleanup_reports/
 
 # Staging folder — never commit merge scratch
 to_merge/
@@ -62,3 +64,4 @@ tmp/
 temp/
 *.tmp
 *.bak
+

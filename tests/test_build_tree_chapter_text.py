@@ -61,7 +61,7 @@ def test_chapter_text_removes_metadata_markdown_tags_and_editorial_sections(tmp_
 
     run_build_tree(knowledge, "--chapter-text-only")
 
-    output = (scenes / "chapter_text" / "chapter_00.txt").read_text(
+    output = (knowledge / "generated_text" / "chapter_00.txt").read_text(
         encoding="utf-8"
     )
     assert output.startswith("Chapter 0. Prologue\n\n")
@@ -81,7 +81,7 @@ def test_chapter_text_chunks_use_five_chapter_number_windows(tmp_path):
         write_chapter(scenes, number, f"Title {number}", f"Body for chapter {number}.")
 
     run_build_tree(knowledge, "--chapter-text-only")
-    output = scenes / "chapter_text"
+    output = knowledge / "generated_text"
 
     assert (output / "chapters_00-04.txt").exists()
     assert (output / "chapters_05-09.txt").exists()
@@ -97,7 +97,7 @@ def test_chapter_text_chunks_use_five_chapter_number_windows(tmp_path):
 def test_generator_removes_only_stale_managed_outputs(tmp_path):
     knowledge, scenes = make_knowledge_tree(tmp_path)
     write_chapter(scenes, 0, "Prologue", "Current chapter body.")
-    output = scenes / "chapter_text"
+    output = knowledge / "generated_text"
     output.mkdir()
     (output / "chapter_99.txt").write_text("stale", encoding="utf-8")
     (output / "chapters_95-99.txt").write_text("stale", encoding="utf-8")
@@ -118,10 +118,11 @@ def test_default_mode_builds_index_and_chapter_text(tmp_path):
 
     assert "Wrote audiobook text for 1 chapter(s) and 1 chunk(s)" in result.stdout
     assert (knowledge / "_index.md").exists()
-    assert (scenes / "chapter_text" / "chapter_00.txt").exists()
+    assert (knowledge / "generated_text" / "chapter_00.txt").exists()
     index = (knowledge / "_index.md").read_text(encoding="utf-8")
-    assert "chapter_text/" in index
+    assert "generated_text/" in index
     assert "chapter_00.txt" in index
+
 
 
 def test_duplicate_chapter_numbers_stop_export(tmp_path):

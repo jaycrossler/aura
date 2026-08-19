@@ -47,7 +47,7 @@ from pathlib import Path
 
 ROOT = Path(".").resolve()  # run from inside knowledge/ (same convention as build_tree.py)
 
-SKIP_DIR_PREFIXES = ("templates", ".git", "review-queue", "to_merge", "cleanup_reports")
+SKIP_DIR_PREFIXES = ("templates", ".git", "review-queue", "to_merge", "cleanup_reports", "generated_text")
 SKIP_FILE_PREFIXES = ("_index", "build_tree", "README")
 
 XREF_LINE_RE = re.compile(r"^\s*cross_references:\s*$")

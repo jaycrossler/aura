@@ -10,7 +10,7 @@ Optional modes:
     python3 build_tree.py --chapter-text-only
     python3 build_tree.py --chunk-size 5
 
-Chapter text exports are written to scenes/chapter_text/:
+Chapter text exports are written to generated_text/:
   - chapter_NN.txt contains one chapter with frontmatter, Markdown, braces,
     contract coverage, and open notes removed.
   - chapters_NN-NN.txt combines consecutive chapter-number windows. The
@@ -42,9 +42,10 @@ import datetime
 from pathlib import Path
 
 ROOT   = Path(".").resolve()          # run from inside knowledge/
-OUTPUT = ROOT.parent / "knowledge/_index.md"
+OUTPUT = ROOT / "_index.md"
 SCENES_ROOT = ROOT / "scenes"
-CHAPTER_TEXT_ROOT = SCENES_ROOT / "chapter_text"
+CHAPTER_TEXT_ROOT = ROOT / "generated_text"
+
 
 # ── Field lists ────────────────────────────────────────────────────────────
 FIELD_ORDER  = ["name", "id", "status", "canonical",
@@ -480,13 +481,16 @@ draft_files:   list[str] = []
 all_md_stems:  set[str] = set()
 non_canonical_stems: set[str] = set()
 
+SKIP_INDEX_DIRS = {"cleanup_reports", "to_merge", "to_import"}
+
 for path in sorted(ROOT.rglob("*")):
-    # Skip the output file itself and hidden dirs
+    # Skip the output file itself, hidden dirs, and temp/staging directories
     if path == OUTPUT:
         continue
     rel = path.relative_to(ROOT)
-    if any(part.startswith(".") for part in rel.parts):
+    if any(part.startswith(".") or part in SKIP_INDEX_DIRS for part in rel.parts):
         continue
+
 
     depth = len(rel.parts) - 1
     entry = path.name + ("/" if path.is_dir() else "")

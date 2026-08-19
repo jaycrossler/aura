@@ -29,11 +29,11 @@ python build_tree.py
 ```
 
 - **Source files.** The exporter reads `scenes/draft_chNN_*.md` files and orders them by chapter number. Duplicate chapter numbers stop the build so that a draft cannot be selected silently.
-- **Individual output.** Each chapter becomes `scenes/chapter_text/chapter_NN.txt`.
+- **Individual output.** Each chapter becomes `generated_text/chapter_NN.txt`.
 - **Combined output.** The default five-chapter windows become `chapters_00-04.txt`, `chapters_05-09.txt`, `chapters_10-14.txt`, and so on. The final window may contain fewer than five drafted chapters.
 - **Text cleanup.** Output keeps chapter titles, epigraphs, narration, and dialogue. It removes YAML frontmatter, Markdown markers, links, curly and square tag braces, contract-coverage tables, and open notes. AI names remain spoken as plain names, such as `Aura` rather than `{Aura}`.
 - **Listening pauses.** Paragraph breaks remain intact. Extra blank lines separate scenes and chapters without adding SSML or generator-specific tags.
-- **Generated files.** Do not hand-edit `chapter_NN.txt` or `chapters_NN-NN.txt`. Edit the source chapter and rerun the exporter. The cleanup pass removes only stale files that match those generated names and preserves other `.txt` files in `chapter_text/`.
+- **Generated files.** Do not hand-edit `chapter_NN.txt` or `chapters_NN-NN.txt`. Edit the source chapter and rerun the exporter. The cleanup pass removes only stale files that match those generated names and preserves other `.txt` files in `generated_text/`.
 
 Use `python build_tree.py --chapter-text-only` to refresh listening files without rebuilding `_index.md`. Use `python build_tree.py --index-only` to rebuild the index without refreshing listening files. `--chunk-size N` changes the combined-file window size.
 
@@ -43,6 +43,18 @@ Use `python build_tree.py --chapter-text-only` to refresh listening files withou
 ## Typographic Conventions
 
 These conventions apply to all prose drafts, scene files, character files, and knowledge base documents. Maintain them consistently.
+
+## Knowledge Base Directory Structure
+
+- `arcs/` — arc definition files (`arc_*.md`)
+- `characters/` — character bibles (`char_*.md`), states (`states/`), and voice profiles (`voice/`)
+- `factions/` — political entities, corporations, factions (`faction_*.md`)
+- `generated_text/` — generated plain-text chapter and multi-chapter listening exports
+- `livestock/` — creatures, mounts, animals (`livestock_*.md`)
+- `locations/` — planets, stations, ships' home ports, named places (`location_*.md`)
+- `magic-systems/` — magic rules, schools, practitioners (`magic_*.md`)
+- `review-queue/` — items flagged for later attention, open questions, session notes
+- `scenes/` — scene drafts (`event_*.md`), choreography (`choreo_event_*.md`), organized by book/chapter
 
 ### AI System Names — Curly Braces
 

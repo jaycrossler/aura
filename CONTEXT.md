@@ -220,7 +220,7 @@ When user signals readiness to commit:
 
 ### 1. Directory Indexing, Validation, and Listening Exports (`build_tree.py`)
 - The script `knowledge/build_tree.py` automatically walks the `knowledge/` tree to build `knowledge/_index.md`.
-- It converts each `knowledge/scenes/draft_chNN_*.md` file into a clean `knowledge/scenes/chapter_text/chapter_NN.txt` listening copy.
+- It converts each `knowledge/scenes/draft_chNN_*.md` file into a clean `knowledge/generated_text/chapter_NN.txt` listening copy.
 - It combines chapter-number windows into five-chapter files named `chapters_00-04.txt`, `chapters_05-09.txt`, `chapters_10-14.txt`, and so on.
 - Listening copies keep titles, epigraphs, narration, and dialogue. They remove frontmatter, Markdown markers, AI-name braces, skill brackets, contract coverage, and open notes. Blank lines provide scene and chapter pauses without generator-specific tags.
 - Generated listening files must not be edited by hand. Edit the source chapter and rerun the script. Use `--chapter-text-only` for listening exports, `--index-only` for the index, or `--chunk-size N` to change the combined-file size.

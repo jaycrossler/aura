@@ -91,10 +91,7 @@
     - voice_char_spox_ai.md - id: voice_char_spox_ai; status: detailed (drafted from tech files and Ch10, Ch16); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {SpoX}, the SpaceX-heritage mining and engineering AI on Fortuna Station, formatted for local TTS audiobook generation.; lines: 123; xrefs: 5; canonical: false; chars: spox_ai, jace_apollo
     - voice_char_suzi.md - id: voice_char_suzi; status: detailed (drafted from char_suzi.md and Ch09, Ch19); updated: 2026-08-18; type: character_voice_profile; description: Vocal and speech-pattern profile for Suzi Gonzales, Fortuna Station chief of security, formatted for local TTS audiobook generation.; lines: 145; xrefs: 6; canonical: false; chars: suzi, helena, jace_apollo, penny_ai
     - voice_char_torres.md - id: voice_char_torres; status: light (confirmed: no first name exists in-story, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Torres, the Fortuna survey pilot, formatted for local TTS audiobook generation. Author confirmed no character in the story knows his first name — this is settled, not a gap.; lines: 52; xrefs: 4; canonical: false; chars: torres, jace_apollo
-- CLAUDE_PROJECT_INSTRUCTIONS.md - lines: 268; xrefs: 0; canonical: false
-- cleanup_reports/
-    - normalize_cross_references_2026-08-18.md - updated: 2026-08-18; lines: 2115; xrefs: 0; canonical: false
-    - normalize_cross_references_2026-08-19.md - updated: 2026-08-19; lines: 2121; xrefs: 0; canonical: false
+- CLAUDE_PROJECT_INSTRUCTIONS.md - lines: 280; xrefs: 0; canonical: false
 - factions/
     - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
     - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: true; updated: 2026-08-13; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 107; xrefs: 9; canonical: true; chars: jace_apollo, major_barnes, petroski
@@ -117,6 +114,37 @@
     - faction_united_states_mars.md - name: The United States of Mars; id: faction_united_states_mars; status: active; canonical: true; updated: 2026-04-28; type: political_state; description: Political profile detailing the United States of Mars as a new American state.; lines: 95; xrefs: 0; canonical: true
     - faction_united_states_military_intelligence.md - name: United States Military and Intelligence (Mars Command); id: faction_united_states_military_intelligence; status: active; updated: 2085-05-12; type: military; description: Faction profile detailing the United States military and intelligence operations on Mars, operating out of Joint Base Terminus under the 56th State framework.; lines: 97; xrefs: 0; canonical: false
     - faction_vetala_residua.md - name: The Vetala Residua; id: faction_vetala_residua; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 81; xrefs: 0; canonical: true
+- generated_text/
+    - chapter_00.txt
+    - chapter_01.txt
+    - chapter_02.txt
+    - chapter_03.txt
+    - chapter_04.txt
+    - chapter_05.txt
+    - chapter_06.txt
+    - chapter_07.txt
+    - chapter_08.txt
+    - chapter_09.txt
+    - chapter_10.txt
+    - chapter_11.txt
+    - chapter_12.txt
+    - chapter_13.txt
+    - chapter_14.txt
+    - chapter_15.txt
+    - chapter_16.txt
+    - chapter_17.txt
+    - chapter_18.txt
+    - chapter_19.txt
+    - chapter_20.txt
+    - chapter_21.txt
+    - chapter_22.txt
+    - chapter_23.txt
+    - chapter_24.txt
+    - chapters_00-04.txt
+    - chapters_05-09.txt
+    - chapters_10-14.txt
+    - chapters_15-19.txt
+    - chapters_20-24.txt
 - livestock/
     - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-26; type: livestock_manifest; description: Manifest detailing livestock pairings and life support allocation for the Falcon voyage.; lines: 135; xrefs: 0; canonical: false
 - locations/
@@ -180,41 +208,6 @@
     - rq_2026-07-15_book1_first_pass.md - id: rq_2026-07-15_book1_first_pass; status: open; updated: 2026-07-15; type: review_queue; description: Book 1 first-pass review queue — updated after author decision round 1.; lines: 40; xrefs: 0; canonical: false
 - scenes/
     - archived/
-    - chapter_text/
-        - ch00_mode1.mp3
-        - ch00_mode2.mp3
-        - ch01_mode1.mp3
-        - ch01_mode2.mp3
-        - chapter_00.txt
-        - chapter_01.txt
-        - chapter_02.txt
-        - chapter_03.txt
-        - chapter_04.txt
-        - chapter_05.txt
-        - chapter_06.txt
-        - chapter_07.txt
-        - chapter_08.txt
-        - chapter_09.txt
-        - chapter_10.txt
-        - chapter_11.txt
-        - chapter_12.txt
-        - chapter_13.txt
-        - chapter_14.txt
-        - chapter_15.txt
-        - chapter_16.txt
-        - chapter_17.txt
-        - chapter_18.txt
-        - chapter_19.txt
-        - chapter_20.txt
-        - chapter_21.txt
-        - chapter_22.txt
-        - chapter_23.txt
-        - chapter_24.txt
-        - chapters_00-04.txt
-        - chapters_05-09.txt
-        - chapters_10-14.txt
-        - chapters_15-19.txt
-        - chapters_20-24.txt
     - draft_ch00_prologue_helena.md - name: Prologue. Helena's Last Day; id: draft_ch00_prologue_helena; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death.; lines: 131; xrefs: 7; canonical: false; chars: helena, suzi, jin_luong, cerberus, dog_siren
     - draft_ch01_departure_and_rounds.md - name: Chapter 1. Departure and Rounds; id: draft_ch01_departure_and_rounds; status: draft_v2; updated: 2026-08-18; type: chapter_draft; description: Cargo-heavy departure, late-transit animal rounds with Mei, real-time; lines: 392; xrefs: 11; canonical: false; chars: jace_apollo, cerberus, maureen, mei, lanchee, nick_lee, saul
     - draft_ch02_no_more_voices.md - name: Chapter 2. Going a little crazy; id: draft_ch02_no_more_voices; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery.; lines: 269; xrefs: 10; canonical: false; chars: jace_apollo, maureen, nick_lee, cerberus, saul
@@ -233,7 +226,7 @@
     - draft_ch15_sideways.md - name: Chapter 15. Sideways; id: draft_ch15_sideways; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 498; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, brandon_moreau, nikos_petrou, cerberus
     - draft_ch16_ten_good_days.md - name: Chapter 16. Ten Good Days; id: draft_ch16_ten_good_days; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 548; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
     - draft_ch17_falling_behind.md - name: Chapter 17. Falling Behind; id: draft_ch17_falling_behind; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 660; xrefs: 11; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, kim
-    - draft_ch18_later_became_morning.md - name: Chapter 18. Later Became Morning; id: draft_ch18_later_became_morning; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 383; xrefs: 12; canonical: false; chars: jace_apollo, kim, carlos, nick_lee, suzi, sister_artemis
+    - draft_ch18_later_became_morning.md - name: Chapter 18. Later Became Morning; id: draft_ch18_later_became_morning; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 380; xrefs: 12; canonical: false; chars: jace_apollo, kim, carlos, nick_lee, suzi, sister_artemis
     - draft_ch19_fault_lines.md - name: Chapter 19. Fault Lines; id: draft_ch19_fault_lines; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 507; xrefs: 21; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, kim, carlos, nick_lee, misty_ai, lanchee
     - draft_ch20_borrowed_light.md - name: Chapter 20. Borrowed Light; id: draft_ch20_borrowed_light; status: staged_draft; updated: 2026-08-19; type: chapter_draft; description: >; lines: 415; xrefs: 16; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, nick_lee, misty_ai
     - draft_ch21_the_eye_on_three.md - name: Chapter 21. The Eye on Three; id: draft_ch21_the_eye_on_three; status: staged_draft; updated: 2026-08-19; type: chapter_draft; description: >; lines: 325; xrefs: 13; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee, misty_ai, lanchee
@@ -329,17 +322,6 @@
     - timeline_disclosure_political_response.md - name: The Disclosure Crisis — Political and Military Response; id: timeline_disclosure_political_response; status: working draft; canonical: true (structure) / partial (specific scene placement); updated: 2026-07-12; type: timeline; description: >; lines: 165; xrefs: 9; canonical: true (structure) / partial (specific scene placement)
     - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
     - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-08-13; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
-- to_merge/
-    - aura_early_material_seeds/
-        - CHANGES.md - updated: 2026-08-19; lines: 38; xrefs: 0; canonical: false
-        - review-queue/
-            - open_questions_material_seeds.md - id: open_questions_material_seeds; status: open; updated: 2026-08-19; type: review_queue; lines: 28; xrefs: 0; canonical: false
-        - scenes/
-            - patch_draft_ch07_arrival_day.md - lines: 36; xrefs: 0; canonical: false
-            - patch_draft_ch09_first_week.md - lines: 28; xrefs: 0; canonical: false
-            - patch_draft_ch14_down_to_the_asteroid.md - lines: 46; xrefs: 0; canonical: false
-            - patch_draft_ch16_ten_good_days.md - lines: 26; xrefs: 0; canonical: false
-            - patch_draft_ch18_later_became_morning.md - lines: 35; xrefs: 0; canonical: false
 - universe-spec/
     - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
     - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
@@ -417,7 +399,6 @@ These files were marked as draft or have non-canonical status and should not be 
 ### Orphaned Files
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
-- `CHANGES`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
 - `_visual_profile_gaps_2026-08-15`
 - `addition_new_doctor_memory_mention`
@@ -429,17 +410,10 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `falcon_animal_manifest_book1`
 - `image_generation_agent_prompt`
 - `metadata_template_guide`
-- `normalize_cross_references_2026-08-18`
-- `normalize_cross_references_2026-08-19`
 - `open_questions_ch20_21_revision`
 - `open_questions_ch20_22_revision_v2`
 - `open_questions_material_seeds`
 - `open_questions_materials_spec_v1`
-- `patch_draft_ch07_arrival_day`
-- `patch_draft_ch09_first_week`
-- `patch_draft_ch14_down_to_the_asteroid`
-- `patch_draft_ch16_ten_good_days`
-- `patch_draft_ch18_later_became_morning`
 - `review_queue`
 - `system_character_sheets_skill_format`
 - `voice_char_jin_luong`

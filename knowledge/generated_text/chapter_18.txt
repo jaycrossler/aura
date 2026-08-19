@@ -1,0 +1,331 @@
+Chapter 18. Later Became Morning
+
+Most people do not know this, but when automation breaks, it does not stop working. It keeps working at full speed in the wrong direction.
+
+Jace Grant, unpublished notes
+
+Jace reported to Drone Ops at 0530 because arriving early felt like the smallest available apology.
+
+He had slept for a few hours, but was exhausted. Worrying about Sophia, worrying about the drone she'd seen on Three, worrying about falling through walls.
+
+Sophia had remained aboard the Victoria under three blankets while Misty warmed the cabin and produced soup she did not ask for. Jace had stayed until Sophia stopped shivering. Then he had collected Cerberus from the Barn, carried Sparky home, and spent the remaining dark hours making lists and worrying that they were being reckless.
+
+Kim sat at the lead console with Carlos behind her. Every automated route Jace had written was disabled. The station map held sixty-three amber markers, each one a delivery that had stopped somewhere between a valid request and an invalid assumption.
+
+Kim did not ask him to sit.
+
+"Yesterday," she said, "you told the queue that any route without a clean confidence score could wait for later. You left them to A.I.s to manage."
+
+"Yes, ma'am."
+
+"Later became my morning."
+
+Carlos looked at the floor.
+
+Kim opened the rollback report. "Fourteen loads arrived late. Hal required human rerouting. Three oxygen transfers missed their preferred windows. One medical case remained in review for two hours because the requesting clinic and destination did not match. No one died. That is the full list of good outcomes."
+
+Jace kept his hands away from the console.
+
+"I treated a successful trial as permission to stop supervising it," he said. "Then I spent my attention somewhere else. The failures are mine."
+
+Kim studied him. The overhead light made the skin beneath her eyes look gray.
+
+"Where was your attention?"
+
+The true answer contained blue cold, a woman running behind a space station, and a cup floating in ordinary air.
+
+"On a private project."
+
+"Was it worth delaying oxygen to people in space suits?"
+
+"No."
+
+That answer hurt because the project had saved Sophia's life. It was too hard to explain that to Kim.
+
+"People have been fighting this battle for decades. The A.I. are so confident that they can run everything. We trust them. Things work. Things stop working. Disaster ensues."
+
+She tapped on a keyboard and removed his automation credential. On his desk, his console collapsed from systems view to a manual operator queue.
+
+"You may enter one route at a time. Carlos reviews each release. You do not write routing code. You do not let A.I. manage your work. You do not use a drone outside an assigned ticket."
+
+"For how long?"
+
+"Until I trust that you see the people behind the fields again."
+
+Jace nodded. "Understood."
+
+"I am not asking for shame, Grant. Shame is expensive and has poor operational value. I am asking for attention."
+
+She pointed to his desk.
+
+"Start with medical and pressure control."
+
+
+
+The thirty-seventh exception was a sealed case of synthetic platelets.
+
+The request came from the Ring One clinic. The destination was an emergency berth in Ring Two. The authorized receiver was an engineering supervisor. Every field contradicted another field, so Jace's model had held the case for clarification.
+
+Carlos read the ticket once.
+
+"Patient moved," he said.
+
+Jace replied, "The destination should have been updated."
+
+"Yes."
+
+"The receiver should have medical authorization."
+
+"Also yes."
+
+"The request is wrong."
+
+Carlos typed a quick message, then pulled on his cardigan. "Come on."
+
+Jace carried the case by hand. As they walked, a baker stepped out, handed a croissant to Carlos, smiled, and walked back without a word. Huh.
+
+Ring Two looked normal until Jace noticed the subtle differences. Public menu boards no longer showed weekly prices. Some showed subject to availability. The bakery had removed coffee from its breakfast bundle. Two market lockers stood open and empty while a woman argued with their inventory agent.
+
+A station news panel played a statement from the American Red administration. The official stood before a red-washed flag and announced that all Chinese-chartered belt cargo would undergo additional security review. Mars had paused three outbound launches while the review terms were negotiated. Earth insurers had suspended new coverage for independent belt traffic.
+
+Below the speech, four ships remained listed as missing.
+
+Odysseus remained dark.
+
+The panel changed to a Fortuna financial notice before Jace could read the details. The first line reported a temporary liquidity adjustment. The second postponed nonessential expansion. The third used the phrase multi-billion-credit operating exposure.
+
+Carlos followed his eyes.
+
+"You didn't know the shipments stopped? Where have you been?"
+
+"Fortuna is losing billions?"
+
+"Fortuna has always lost billions. It was supposed to lose fewer billions after the settlers arrived."
+
+The settlers had not arrived. The Falcon had carried animals, specialists, and empty rooms meant for families who had cancelled. Other ships had all been delayed.
+
+"How long can it continue?"
+
+"That depends on whether you ask accounting, Origin, or the people doing the actual work."
+
+Maureen stepped out of a market office as Jace and Carlos stepped into the elevator to Two.
+
+The owner of the Falcon carried a tablet and the expression of someone who had found a new category of bills. The screen showed columns of red numbers.
+
+She still carried herself like the Navy chief she had been: every object had a place, every task had an owner, and every owner was probably late.
+
+"Grant," she said in greeting.
+
+"Good morning, Captain. I thought you'd left with the Falcon."
+
+She held up the financial screen. The settlement consortium had financed farms, school capacity, water processing, and half of Ring Three against a population that no longer planned to arrive. Debt payments had started on schedule. Residents had not.
+
+"They just issued a flight stop for non-emergencies. I'm all fueled and we're full of Cores and Crystals and Copper and Coal."
+
+"Poetic. Not Cobalt and Cadmium? You'd make more."
+
+"You always were clever Grant. Maybe too clever." She looked to Carlos and saw his grimace. "Ahh, is the honeymoon over?"
+
+Jace reddened. Could this lift not move any faster? A message on a screen posted the the control just reset itself and the lift was paused for a minute. Terrible timing.
+
+"Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely ten percent of those have signed up for when I return. I need to rethink all my schedules. With all the copper you have in your stores, that might be worth the mass, but probably not. Too bad all the silver's been bought up."
+
+"How much are you losing?"
+
+"Enough that Patrick thinks we might be done after I get back. Sell the ship and retire."
+
+"That bad?"
+
+"I left the Navy as a chief to buy and build the Falcon with him. Patrick was working on ships when we met. We have been threatening to sell her ever since."
+
+Carlos pointed at the coffee cup in her hand. "You still found coffee."
+
+The lift finally stopped on Two. As they got off, Jace looked through the market stalls by the elevator toward the Barn. The lights were bright. Children watched goats through the glass. A cleaning robot worked beneath a row of food lockers. Fortuna still looked rich in the specific way a station could look rich while losing billions: everything necessary already existed, and everything necessary needed continuous replacement.
+
+"What happens if the pause becomes a blockade?" he asked.
+
+Maureen's humor disappeared.
+
+"Then it's a good thing we brought more bacon."
+
+Maureen walked briskly off in the other direction, nodding to him dismissively.
+
+A shout carried from the Barn junction.
+
+Suzi stood beside an open egg carrier with one hand on the shoulder of a Chinese boy. He looked twelve, perhaps younger. Eggs had broken across the floor at his feet. Two lumps bulged beneath his jacket.
+
+Suzi wore a compact tranquilizer pistol on her belt.
+
+Jace had never seen it there before.
+
+Two deputies waited behind her with identical pistols and conspicuously empty hands.
+
+A Barn worker pointed at the boy. "Third theft this week."
+
+"First reported theft," Suzi said.
+
+"He had eggs."
+
+The boy stared at the floor. His station shoes were too large and his work patch had been removed from the shoulder.
+
+Suzi crouched until they were at the same height.
+
+"Who are they for?"
+
+He said nothing.
+
+"I am not asking which flag is over your room. I am asking who needs food."
+
+His mouth moved. "My mother."
+
+The Barn worker made a disgusted sound. He had a Korean patch on his breast pocket.
+
+Suzi looked back once. The sound stopped.
+
+"Your mother has ration access," she said.
+
+"Locked. Cargo review."
+
+Suzi's expression did not change. "Give me the two that did not break."
+
+The boy hesitated, then placed them in her palm.
+
+She handed both to the Barn worker. "Alex, Request reimbursement for six damaged eggs, billed to security operations."
+
+A chime beeped from the screen nearby.
+
+"He stole them."
+
+"Yes, thief was stopped. Now, I'm dealing with a hungry child. Those are different tasks."
+
+She stood and directed one deputy toward the Chinese leasehold office.
+
+Jace had been wearing a t-shirt with a US flag on it. They boy saw it and flinched. Not the best timing.
+
+Suzi saw him. "Morning, Grant."
+
+Jace and Carlos nodded, then hurried past the barn to the treatment room. A pressure worker lay beneath a sterile field while a clinic medic repaired a crushed leg. A medic was looking at a tablet showing a bone scan, then scanned Jace's case, opened it, and attached a blood bag to the woman's leg without asking about the delay or even pausing in their discussion with the patient. A nearby construction crew chief had carried the woman over and was the one who had requested the bag to help the medic out.
+
+Delivered after manual verification. Automation failure. No recipient fault.
+
+Carlos watched him add the final sentence.
+
+"Good," he said.
+
+
+
+By lunch, twenty-nine exceptions remained.
+
+Jace ate in the low-g bay because it was close to Drone Ops and because sitting felt dangerous. He had a bowl of noodles in front of him, where he'd bought an extra token's worth of sauce.
+
+Nick sat across the table without asking.
+
+His overlay glasses had eight small cameras around the frame. The pearl earring beneath his left ear pulsed yellow as it negotiated the cafeteria's damaged network.
+
+"You missed game night," Nick said.
+
+"Work problem."
+
+"You cancelled the one before that."
+
+"Also work."
+
+"You have eaten lunch with me twice since your jaunt with Torres. Both times you left before finishing. You have bags under your eyes deep enough to store cargo, and yesterday your location record says you spent four hours in your room while your implant showed no usable sensor data."
+
+Jace put down the fork.
+
+"You are monitoring me?"
+
+"No. Your broken equipment keeps asking me for help. It is difficult to repair a system when the system is unable to be accessed for repair."
+
+"I am handling it."
+
+Nick looked toward the manual queue visible on Jace's wrist.
+
+"Kim removed your permissions."
+
+"That is part of handling it."
+
+"What are you doing with Sophia?"
+
+The question arrived quietly.
+
+Jace's pulse rose. Nick's glasses probably saw it.
+
+"She is running a novel physics project. I am helping with instruments."
+
+"At three in the morning?"
+
+"The equipment schedule is complicated."
+
+"You are a bad liar."
+
+"I don't lie."
+
+Nick leaned back.
+
+"You missed meals, work, and me. Your sensors fail in ways I cannot reproduce. He pointed to a bruise on Jace's arm from touching Sparky's frozen shell. You are telling me none of that connects."
+
+"I am telling you I cannot discuss our work."
+
+"Our work?"
+
+Jace heard the distinction too late.
+
+Nick removed his glasses and rubbed the bridge of his nose. Without the overlays, he looked younger and more tired.
+
+"I thought you came here to rebuild," he said. "You are disappearing instead."
+
+"That is not what is happening."
+
+"Then tell me what is."
+
+Jace thought of Sophia's pen floating between them. He thought of the drone that could cross to the astral and Chinese sabotage. He thought of a secret that belonged partly to someone who had nearly died protecting it.
+
+"I can't."
+
+Nick put his glasses back on.
+
+"Then stop asking me to believe you are fine."
+
+He left and Jace didn't heel like finishing his soup.
+
+
+
+Sophia had agreed they should take the evening off. Jace had some print work to do and ideas to try anyway, and they both needed a break after the near-death disaster.
+
+Jace cleared the last exception at 1938.
+
+Kim read the medical after action report twice.
+
+"What changes in the next version?"
+
+"Medical mismatches page a human immediately. The page stays ahead of routine exceptions. A delayed response escalates to a duty officer or me, then Carlos. If it is not acknowledged within a set time, it goes to you."
+
+"Who reviews the code?"
+
+"Carlos first. You approve deployment. No AIs build it. Humans create and test everything."
+
+"Write it as a proposal. Your permissions stay reduced. We need 'forever fixes', not technical debt. Use simulators to test the ideas. The AI can create good simulators, but they don't create good routing exception plans."
+
+"Yes, ma'am."
+
+It was not forgiveness. It was a path that required work. Jace trusted that more.
+
+Outside Drone Ops, the station had entered artificial night. Half the market signs were dark to save maintenance load. Suzi and one deputy stood near the Barn junction, both still wearing tranquilizer pistols.
+
+Jace tried Metis before he went home.
+
+The station directory accepted the call, estimated a delay, and waited. The connection timer reached six minutes. Then twelve. Then the network returned a neutral gray field.
+
+DESTINATION DID NOT ACKNOWLEDGE. RETRY SCHEDULED.
+
+He watched the blank delivery marker beside Artemis's name. She had said the Metis comm window was shifting. She had not answered since.
+
+Cerberus waited at his door when he returned, leaning his whole body against the panel as if physical pressure could make Jace arrive faster.
+
+Jace sat on the floor and let the dog climb over him.
+
+His work queue was empty. His messages were not.
+
+Metis still had not answered.
