@@ -257,17 +257,17 @@ practitioner in Arc 1.
 
 **Seeding campaign (RULED 2026-07-28):** The Fortuna Queen was not a single
 isolated nest — she had spent months laying eggs and staging colonial fauna
-at multiple belt sites, including near Metis Station, ahead of a
+at multiple belt sites, including near Adama Station, ahead of a
 coordinated multi-site emergence. Jace's first-ever Astral-adjacent
-encounter, en route to Fortuna near Metis (new Thread T scene — see
+encounter, en route to Fortuna near Adama (new Thread T scene — see
 [[arc_01_thread_T_transit]]), was an early, unrecognized brush with this
 seeding activity, not an isolated event. With the Fortuna Queen dead, the
-Metis-site eggs/fauna are leaderless and uncoordinated — a genuine threat,
-but a mop-up rather than a second boss fight. This becomes Arc 2's Metis
-front (Jace and Kael clear it). Metis's own casualties from the
+Adama-site eggs/fauna are leaderless and uncoordinated — a genuine threat,
+but a mop-up rather than a second boss fight. This becomes Arc 2's Adama
+front (Jace and Kael clear it). Adama's own casualties from the
 uncoordinated wave-emergence are significant: enough deaths near Will-active
 survivors to produce a local mass-release manifestation cluster (see
-[[magic_will_orbs]] Mass Release), meaning several Metis survivors
+[[magic_will_orbs]] Mass Release), meaning several Adama survivors
 "level up" from a fight the reader never sees Jace fight — his and Kael's
 arrival is aftermath and mop-up, not a rescue-in-progress.
 

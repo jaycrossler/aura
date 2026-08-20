@@ -27,7 +27,7 @@ This document tracks the progression of that adaptation at belt stations, primar
 
 ## Phase 0: The Blind Spot
 
-The earliest phase of Static effects, coinciding with the first anomalies at Metis and Fortuna.
+The earliest phase of Static effects, coinciding with the first anomalies at Adama and Fortuna.
 
 ### {Aura} Interpretation Error
 Personal AI instances ({Aura} and others) began reporting **Sensor Ghosting** and **Hardware Latency** — terms that already existed in the diagnostic vocabulary but now applied to a fundamentally different cause. An {Aura} instance would report an airlock sealed while the user's eyes saw a shimmering distortion stretching the metal like heated glass. The {Aura} was not wrong that the airlock was sealed by its sensor data. The sensor data was wrong.
@@ -44,7 +44,7 @@ Early operator response was simply to restart affected {Aura} instances or reboo
 
 ## Phase 1: The Mute Protocol
 
-**Developed at Fortuna, approximately Month 7 of the outbreak. Credited to Dr. Eugene Hart (Metis Station) via {Aura} module sync.**
+**Developed at Fortuna, approximately Month 7 of the outbreak. Credited to Dr. Eugene Hart (Adama Station) via {Aura} module sync.**
 
 The breakthrough insight: **don't try to reconcile the anomalous data. Selectively disable the affected sensor input.**
 

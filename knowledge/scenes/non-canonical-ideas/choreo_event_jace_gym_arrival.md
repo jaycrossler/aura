@@ -425,7 +425,7 @@ The scene moves through four distinct spaces.
   - Breakfast/food prices on Mars (sticker shock — this matters later)
   - Mars-born vs Earth-born physical differences (he registered the comment)
   - Existence of intel personnel at the base (Mei, Sylvester glimpsed)
-  - That comms to Artemis at Metis are not just slow but *failing* — first warning sign
+  - That comms to Artemis at Adama are not just slow but *failing* — first warning sign
 - **Knowledge planted (for reader):**
   - Jace is oblivious to female attention in a way that will matter
   - The Artemis comms failure is real, not just imagined

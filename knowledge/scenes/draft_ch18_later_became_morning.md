@@ -4,7 +4,7 @@ name: "Chapter 18. Later Became Morning"
 type: chapter_draft
 book: book01
 chapter: Ch18
-scene_contract: P-pressure escalation, L-03 work accountability, L-07 Metis escalation, N-00b Nick estrangement
+scene_contract: P-pressure escalation, L-03 work accountability, L-07 Adama escalation, N-00b Nick estrangement
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
@@ -13,7 +13,7 @@ description: >
   Jace returns to Drone Ops after Sophia's rescue. Kim places him on reduced
   permissions, the station's financial and supply position deteriorates, Suzi
   confronts the first food theft, and Nick forces Jace to see the cost of his
-  secrecy before Metis fails to answer.
+  secrecy before Adama fails to answer.
 cross_references:
   - "[[arc_01_falcon_and_fortuna]]"
   - "[[arc_01_thread_P_pressure]]"
@@ -160,7 +160,6 @@ She held up the financial screen. The settlement consortium had financed farms, 
 Jace reddened. Could this lift not move any faster? A message on a screen posted the the control just reset itself and the lift was paused for a minute. Terrible timing.
 
 "Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely ten percent of those have signed up for when I return. I need to rethink all my schedules. With all the copper you have in your stores, that might be worth the mass, but probably not. Too bad all the silver's been bought up."
-
 
 "How much are you losing?"
 
@@ -346,13 +345,13 @@ It was not forgiveness. It was a path that required work. Jace trusted that more
 
 Outside Drone Ops, the station had entered artificial night. Half the market signs were dark to save maintenance load. Suzi and one deputy stood near the Barn junction, both still wearing tranquilizer pistols.
 
-Jace tried Metis before he went home.
+Jace tried Adama before he went home.
 
 The station directory accepted the call, estimated a delay, and waited. The connection timer reached six minutes. Then twelve. Then the network returned a neutral gray field.
 
 **DESTINATION DID NOT ACKNOWLEDGE. RETRY SCHEDULED.**
 
-He watched the blank delivery marker beside Artemis's name. She had said the Metis comm window was shifting. She had not answered since.
+He watched the blank delivery marker beside Artemis's name. She had said the Adama comm window was shifting. She had not answered since.
 
 Cerberus waited at his door when he returned, leaning his whole body against the panel as if physical pressure could make Jace arrive faster.
 
@@ -360,7 +359,7 @@ Jace sat on the floor and let the dog climb over him.
 
 His work queue was empty. His messages were not.
 
-Metis still had not answered.
+Adama still had not answered.
 
 ## Contract coverage
 
@@ -375,6 +374,6 @@ Metis still had not answered.
 | Suzi and two deputies visibly carry tranquilizer pistols | done |
 | Suzi catches a Chinese boy stealing eggs and treats the food problem as a supply failure | done |
 | Nick confronts Jace about secrecy, exhaustion, and neglect | done |
-| Metis fails to acknowledge, Artemis does not answer, and Athena appears from college | done |
-| Athena distinguishes Earth family news from the Metis crisis and delights in Jace's Pig Channel fame after the Queen Screwdriver rescue | done |
+| Adama fails to acknowledge, Artemis does not answer, and Athena appears from college | done |
+| Athena distinguishes Earth family news from the Adama crisis and delights in Jace's Pig Channel fame after the Queen Screwdriver rescue | done |
 | Jace's exhaustion worsens without removing his agency | done |

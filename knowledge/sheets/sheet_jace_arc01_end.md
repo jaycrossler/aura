@@ -89,7 +89,7 @@ swarm and expecting to find ruins. She found something else.
 | Equipment bond | Sparky | **Forming** | Astral-capable drone; crosses with Jace now; acts differently in the Astral in ways Jace is documenting |
 | Partnership | Sophia Lotte | **Established** | Defined collaboration: she documents, he builds; she is the more capable practitioner; he is the more capable engineer; they are better together |
 | Partnership | Nick Lee | **Established** | Open-source decision made; {Aura} modifications underway; Jace trusts Nick's judgment completely and gives him access to his session logs |
-| Cautious alliance | Maureen | **Forming** | The Falcon swarm rescue earned something real; she hasn't said so; she will lead the Metis mission |
+| Cautious alliance | Maureen | **Forming** | The Falcon swarm rescue earned something real; she hasn't said so; she will lead the Adama mission |
 
 ---
 

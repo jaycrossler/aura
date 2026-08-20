@@ -35,10 +35,10 @@ Once confirmed, recommend creating a KB entry for whoever occupies the
 unlisted room (a state-linked cadre, a separate crew, etc.) so future chapters
 have a canonical home for this thread instead of an unnamed inference.
 
-## 3. Ch22's deferred Metis/Artemis beat (L-07)
+## 3. Ch22's deferred Adama/Artemis beat (L-07)
 
 The previous Ch22 draft carried a scene where Artemis's semantically incomplete
-message arrives and Metis remains unresponsive. This session's Ch22 rewrite
+message arrives and Adama remains unresponsive. This session's Ch22 rewrite
 does not include it, to keep the chapter from being overloaded with new
 material. Recommend placing it in Chapter 23 or a short standalone beat.
 **Not urgent, but shouldn't be lost.**

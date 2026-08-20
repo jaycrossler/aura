@@ -66,14 +66,14 @@ professionally guarded, both at once.
 ### Verbal Tics and Habits
 - Teases first, means it second — nearly every warm statement arrives wrapped
   in a joke or a tough-love jab
-- Self-censors mid-sentence about Metis's classified work, always pivoting
+- Self-censors mid-sentence about Adama's classified work, always pivoting
   rather than just stopping
 - Uses "little brother" as a direct address at emotionally loaded moments,
   not casually
 
 ### Vocabulary Range
 - **Technical:** Fluent in belt/shipyard terms, though she deliberately keeps
-  Metis specifics vague per operational security
+  Adama specifics vague per operational security
 - **Emotional:** More available than most of the transit-era cast — she'll
   name feelings more directly than Jace will, even if she still wraps them
   in humor first
@@ -96,7 +96,7 @@ books — flag for a future voice-profile expansion if that happens.)
 - *"There he is... Learning Mode himself."*
 - *"We're building things you wouldn't believe. Some of our ships have the
   biggest engines in the belt now — actually, don't worry about that."*
-- *"You couldn't visit anyway — Metis is closed to civilians, it's all
+- *"You couldn't visit anyway — Adama is closed to civilians, it's all
   shipyard and clearances, they don't even let me off-shift without a badge
   check."*
 - *"That's not a distance anymore. That's a coincidence."*

@@ -8,7 +8,7 @@ status: draft
 canonical: true
 era_of_relevance: story present and beyond
 last_updated: 2026-08-13
-related_locations: [location_fortuna_station, location_metis_station, location_asteroid_belt_overview]
+related_locations: [location_fortuna_station, location_adama_station, location_asteroid_belt_overview]
 related_characters: [char_jace_apollo, char_nick_lee, char_suzi, char_mei, char_helena]
 ---
 
@@ -42,7 +42,7 @@ Transient population includes:
 - Ship crews.
 - Visiting specialists.
 - Scientific teams.
-- Metis shipyard liaisons.
+- Adama shipyard liaisons.
 - Mining crews between missions.
 - Corporate auditors.
 - Medical or training visitors.
@@ -495,7 +495,7 @@ SHOULD NOT invent:
 ## Cross-References
 
 - [[location_fortuna_station]]
-- [[location_metis_station]]
+- [[location_adama_station]]
 - [[location_asteroid_belt_overview]]
 - [[char_jace_apollo]]
 - [[char_nick_lee]]

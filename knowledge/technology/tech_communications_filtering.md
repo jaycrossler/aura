@@ -15,7 +15,7 @@ last_updated: 2026-04-30
 
 The communications environment of the inner solar system at story start is not censored by a single authority. It is censored by *many* authorities, with overlapping reach and conflicting motivations, none of whom coordinate fully. The result is an information environment with selective gaps that vary by source, route, recipient, and topic — a patchwork censorship regime that most users navigate without realizing they are navigating it.
 
-The "communications blackout" that becomes a major plot event is the eventual hardening of one specific axis of this regime: the belt-to-Mars-and-Earth pipeline being effectively cut. But filtering exists from the story's first chapter, shaping what Jace can hear from his sister at Metis, what the bar patrons hear about belt anomalies, and what the news feeds quietly omit.
+The "communications blackout" that becomes a major plot event is the eventual hardening of one specific axis of this regime: the belt-to-Mars-and-Earth pipeline being effectively cut. But filtering exists from the story's first chapter, shaping what Jace can hear from his sister at Adama, what the bar patrons hear about belt anomalies, and what the news feeds quietly omit.
 
 This document captures the multi-actor architecture so that "censorship" in the story is felt as the messy, plural, deniable thing it actually is — not as a single villain pulling a single switch.
 
@@ -40,7 +40,7 @@ The Chinese government operates extensive communications infrastructure — rela
 
 **Style:** Algorithmic, fast, comprehensive. The Chinese filter is the most thorough of the major actors. It also extends to *non-Chinese* traffic that happens to route through Chinese-operated infrastructure, which is significant because Chinese infrastructure handles a substantial fraction of solar-system communications.
 
-**Implications for Artemis:** Metis Station has Chinese-operated relays as part of its multi-actor comms architecture. Outgoing messages with health implications (workers behaving strangely, equipment failures, possible disease language) hit the Chinese filter and may be dropped, delayed, or quietly summarized into harmless text.
+**Implications for Artemis:** Adama Station has Chinese-operated relays as part of its multi-actor comms architecture. Outgoing messages with health implications (workers behaving strangely, equipment failures, possible disease language) hit the Chinese filter and may be dropped, delayed, or quietly summarized into harmless text.
 
 ### U.S. State Filtering
 
@@ -90,9 +90,9 @@ In addition to the major actors, every station, settlement, and ship runs its ow
 
 ## How These Combine
 
-A message from Artemis at Metis to Jace on Mars may pass through:
+A message from Artemis at Adama to Jace on Mars may pass through:
 
-1. **Metis Station outbound.** Local filtering. Possibly delayed in the queue.
+1. **Adama Station outbound.** Local filtering. Possibly delayed in the queue.
 2. **A relay operated by Tianhe Cosmics (Chinese-state-affiliated).** Chinese filter applied. Health-language content potentially dropped.
 3. **A second-tier relay (could be American, European, or corporate).** Additional filtering layer.
 4. **Mars inbound infrastructure (American-operated).** American filter applied. Flagged-topic content potentially delayed for review.

@@ -220,7 +220,7 @@ When asked to review a scene or chapter against arc contracts:
 - Never draft a scene without checking the relevant arc file's contracts first
 - Never write an AI system name without curly braces (`{Alex}`, not `Awe`)
 - Do not add `[Skill]` brackets to magic abilities in prose drafts set before Jace
-  establishes the bracket convention in-story (Arc 2, during the Metis teaching scenes).
+  establishes the bracket convention in-story (Arc 2, during the Adama teaching scenes).
   In KB spec files and character sheets, brackets are always permitted.
 - Never edit or create a markdown file in the knowledge base without ensuring it has a descriptive `description` field in its YAML frontmatter.
 - Never edit sheet files (`sheets/`) that are marked as `immutable: true` in their YAML frontmatter.

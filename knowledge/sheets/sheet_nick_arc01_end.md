@@ -130,6 +130,6 @@ presence.
 
 - [ ] [Information Flow] — when does Nick (or Kael, or Jace) recognize this as an Astral skill? What triggers the recognition?
 - [ ] The "what it actually means" weight — when does Nick tell Jace the full scope of what the AI Will generation implies?
-- [ ] Eugene meeting — Arc 2 (Odysseus/Metis); the asymmetry is load-bearing
+- [ ] Eugene meeting — Arc 2 (Odysseus/Adama); the asymmetry is load-bearing
 - [ ] The archive's safety — is it ever endangered? Multiple factions have tried; the swarm changes what's possible
 - [ ] Whether Nick crosses the Astral deliberately in Arc 2 or stays physical-side throughout

@@ -8,7 +8,7 @@ canonical: true
 era: late 21st century / early 22nd century
 last_updated: 2026-06-30
 related_technologies: [tech_everyday_robotics_and_ai, tech_cybernetics, tech_modular_pod_canisters]
-related_locations: [location_fortuna_station, location_metis_station]
+related_locations: [location_fortuna_station, location_adama_station]
 related_characters: [char_jace_apollo]
 ---
 
@@ -482,7 +482,7 @@ Avoid phrases like:
 - See [[tech_cybernetics|Cybernetic Augmentation Systems]] for personal electronics, heat-management constraints, and implant-era hardware assumptions.
 - See [[tech_modular_pod_canisters|Modular Pod / Canister System]] for standardized modules and station construction interfaces.
 - See [[location_fortuna_station|Fortuna Station]] for station-scale industrial context.
-- See [[location_metis_station|Metis Station]] for shipbuilding and exterior construction context.
+- See [[location_adama_station|Adama Station]] for shipbuilding and exterior construction context.
 - See [[tech_aura_ai|{Aura}]] for AI-assisted diagnostics and maintenance support.
 
 ## Revision Notes

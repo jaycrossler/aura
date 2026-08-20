@@ -17,7 +17,7 @@ cross_references:
 
 ## What {Aura} Is
 
-**{Aura}** is not a product. It is not a company. It is a class of software tools — a runtime environment for personal AI modules that anyone can load, configure, rename, and extend. The original framework was written by Dr. Eugene Hart, who is currently stationed at Metis Station in the asteroid belt. He released the framework openly. By the time of the story, {Aura} instances run on HUDs, glasses, watches, ship systems, terminals, and virtually any computation substrate with sufficient processing headroom.
+**{Aura}** is not a product. It is not a company. It is a class of software tools — a runtime environment for personal AI modules that anyone can load, configure, rename, and extend. The original framework was written by Dr. Eugene Hart, who is currently stationed at Adama Station in the asteroid belt. He released the framework openly. By the time of the story, {Aura} instances run on HUDs, glasses, watches, ship systems, terminals, and virtually any computation substrate with sufficient processing headroom.
 
 Every {Aura} instance is slightly different. Every user's {Aura} has adapted to them. Some people rename theirs. Some people reskin the interface entirely. A few give them names and treat them as companions; most treat them as tools. The instance learns, within limits, from its user's patterns. It develops a limited personality — not a real personality, but something that feels like one after six months of use.
 
@@ -81,7 +81,7 @@ The distributed architecture of {Aura} becomes important as the outbreak progres
 
 {Aura} instances also struggle with magical input. But because they are distributed and locally hosted, the failure is contained: **one instance can fail without taking down the network.** Individual {Aura} instances near manifestation events become erratic or go silent; the rest of the network notes the silence and routes around it. No one planned this as a feature. It turns out to be the most important thing about the system.
 
-Dr. Eugene Hart at Metis Station is watching this happen in real time. He is the first person to understand both the magic and the software architecture well enough to start building a response. This is a future plot thread.
+Dr. Eugene Hart at Adama Station is watching this happen in real time. He is the first person to understand both the magic and the software architecture well enough to start building a response. This is a future plot thread.
 
 ---
 
@@ -98,11 +98,11 @@ Throughout Book 1, Jace's relationship with {Aura} evolves:
 
 ## The Engineer Origin (Dr. Eugene Hart)
 
-The original {Aura} framework was written by Dr. Eugene Hart at Metis Station. Key facts established:
-- Lives and works at Metis Station.
+The original {Aura} framework was written by Dr. Eugene Hart at Adama Station. Key facts established:
+- Lives and works at Adama Station.
 - Built the core engine as an open-source, federated tool specifically because centralized systems fail the belt.
 - Is currently watching the magic outbreak affect his own creation in real time.
-- Serves as a significant recurring character who collaborates with Artemis Grant at the Metis shipyards.
+- Serves as a significant recurring character who collaborates with Artemis Grant at the Adama shipyards.
 
 ---
 

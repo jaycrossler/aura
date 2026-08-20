@@ -36,7 +36,7 @@ Treat Chapters 15 through 20 as one revised escalation block:
 1. **15, Sideways:** controlled wonder, repeatable crossing, early material questions.
 2. **16, Ten Good Days:** instrumentation and transfer momentum, followed by neglect costs.
 3. **17, The Eye in the Wall:** empirical anomaly becomes threat; friendship and work costs converge.
-4. **18, Quiet Companion:** escape without victory, responsibility repair, bounded Aura installation, Metis anomaly.
+4. **18, Quiet Companion:** escape without victory, responsibility repair, bounded Aura installation, Adama anomaly.
 5. **19, No Vampires:** human Will and healing become an ethical problem before they become a power system.
 6. **20, The Leech:** the first intervention succeeds but creates a physical wound, an unknown absorption, and the hidden condition for the later two-cores error.
 
@@ -72,7 +72,7 @@ The scene index also points to obsolete filenames and contains gaps in its seque
 | Gap | Risk | Recommended repair |
 |---|---|---|
 | Nick's old X-01b contract says he does not push Jace's cover story | Contradicts the direct confrontation in Chapter 17 and makes Nick less perceptive | Revise X-01b so Nick helps under explicit safety conditions without forgiving Jace or accepting the cover story. Draft Chapter 18 does this. |
-| Metis and Artemis largely disappear after Chapter 5 | Jace's family pressure and the larger AI threat stop scaling while the Astral dominates | Move L-07's semantically incomplete Artemis message into Chapter 18, after Aura can verify that packet integrity is valid. |
+| Adama and Artemis largely disappear after Chapter 5 | Jace's family pressure and the larger AI threat stop scaling while the Astral dominates | Move L-07's semantically incomplete Artemis message into Chapter 18, after Aura can verify that packet integrity is valid. |
 | Jace's automation damages work but no repair beat was scheduled | He appears to evade consequences and Kim becomes a plot obstacle instead of a competent manager | Add an L-04 responsibility beat before the Aura install. Jace owns the failure, works the queue manually, and remains under reduced permissions. |
 | The intact-suit wound in Chapter 9 lacks a scheduled payoff in the current index | A strong medical mystery becomes disposable atmosphere | Use that injured miner as the patient in X-02a. Chapters 19 and 20 do this without adding a new named character. |
 | The Victoria is called safe, but the scope of safety is vague | Later crossings can feel governed by convenience | Add one observed boundary beat during the Chapter 18 escape. State explicitly that one observation is not a universal rule. |
@@ -141,7 +141,7 @@ This progression avoids three weak patterns: a threat followed immediately by an
 - Do not let Aura solve the Astral. It can reconcile clocks, identify contradictory data, and expose patterns.
 - Do not reveal the Tick-Maw deposit in prose before the two-cores error.
 - Do not advance Jace beyond the Arc 1 ledger ceiling during these chapters.
-- Do not solve Helena, declare Jin guilty, reveal Seek's full role, or turn the Metis discontinuities into proof.
+- Do not solve Helena, declare Jin guilty, reveal Seek's full role, or turn the Adama discontinuities into proof.
 - Do not let Sophia's first orb absorption settle whether orbs are souls, batteries, or something else.
 
 ## Scene-folder archive proposal

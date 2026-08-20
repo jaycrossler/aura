@@ -41,7 +41,7 @@ cross_references:
 
 # Chapter 19. Fault Lines
 
-> *Apollo: Artie, Fortuna says Metis missed the handshake. Let me know you are all right. Any answer is enough.*
+> *Apollo: Artie, Fortuna says Adama missed the handshake. Let me know you are all right. Any answer is enough.*
 >
 > *Athena: Are you safe? She hasn't answered me either. Mom and Dad are worried but pretending not to be, and their son blowing up toilets is not helping.*
 >
@@ -250,9 +250,9 @@ The fatigue after each session lasted a little longer than the day before. She w
 
 ##
 
-Sophia remained physical for the next test, earlier in the morning then ever before so they would have time before Jace's shift. Jace crossed alone with Sparky and a stack of numbered paper cards.
+Sophia remained physical for the next test, earlier in the morning then ever before so they would have time before Jace's shift. Jace crossed alone with Sparky and a stack of numbered paper cards. He missed meeting up with Hayes in the morning. The old man had always cheered him up with snacks for Cerberus and stories for jace.
 
-"I want you to observe me using the force," she said before he left.
+"I want you to observe me using the force," she said.
 
 "'The force'? Really?"
 
@@ -372,12 +372,6 @@ Jace sat across from Sophia and talked because doing nothing felt worse. He desc
 
 "I'm fine. It's just sleepiness."
 
-"No."
-
-Sophia looked at him more sharply. Some of her energy had returned.
-
-"Good," she said. "You are capable of saying 'No'. Now I am saying I want one more test. I remain on the Astral side. You remain physical. No contact between us. We move one piece. If either reading changes in the wrong direction, we stop."
-
 Jace should have refused.
 
 Instead he helped her stand. She flinched from his touch.
@@ -468,7 +462,7 @@ When he returned to the *Victoria*, {Misty} reported that Sophia had gone to sle
 
 Jace went home with Cerberus and discovered that the energy he had taken still had not faded.
 
-He slept badly because he was not tired. He got up and ran, for the first time in weeks. He sent prints to the forge of a probe that was next in their experiment plan, and got a jump on some of tomorrow's orders and deliveries.
+He slept badly because he was not tired. He sent prints to the forge of a probe that was next in their experiment plan, and got a jump on some of tomorrow's orders and deliveries. He finished the design for Sparky's modified AI core and sent it to the chip station on the asteroid for printing. He got up and ran, for the first time in weeks.
 
 ##
 

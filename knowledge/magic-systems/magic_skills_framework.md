@@ -312,7 +312,7 @@ space protection.
   is high L3–L4
 - L5+: layered ward systems; nested permissions; pre-Scar station baseline infrastructure
 
-*The Metis Station ward scene is Jace's first lesson in [Ward Setting]. He watches
+*The Adama Station ward scene is Jace's first lesson in [Ward Setting]. He watches
 Kael do it, asks how it works, and her answer — showing him the rune structure — is
 his introduction to [Rune Writing] as the underlying skill.*
 
@@ -618,7 +618,7 @@ The framework does not have a category for what Sol humans actually are.
 ## Sol Humans in the Astral — Visual Reference
 
 When Jace and Kael observe other Sol humans from the Astral (Scene A-19, post-oath
-at Metis), the visual contrast is striking:
+at Adama), the visual contrast is striking:
 
 **Sol humans in physical space, seen from the Astral:**
 The physical body is almost ghostly — translucent, barely there. What blazes is the

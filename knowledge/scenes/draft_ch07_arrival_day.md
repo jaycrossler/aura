@@ -48,6 +48,10 @@ Lanchee's clinic was one of those.
 
 She floated beside Jace at the observation port while two tugs detached the canister that held her examination room, instruments, bed, and every private thing he had never seen. An A.I. from Fortuna named {Penny} had built a plan for four suited crew and a dozen helper drones to weld the new clinic into Fortuna's frame and certify it with three separate air supplies.
 
+"I thought Origin ran {Alex} exclusively?" Jace said.
+
+"The station is international, and they agreed to have {Penny} manage the station, and {Alex} runs Origin parts of it. The Chinese section uses {Seek}." Jace nodded. Lanchee was a wealth of knowledge. When she'd talk to him.
+
 "You are staying with the ship?" Jace asked.
 
 "My home is moving," she said. "I prefer to supervise."
@@ -140,7 +144,7 @@ Jace, Sai, Petroski, and even Cerberus looked at Dr. Johns with skeptical expres
 
 He dithered, "After some heated discussions, of course."
 
-Behind the customs desks, a mural showed an American flag carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat, and red floodlights shone over everything.
+Behind the customs desks, a mural showed an American flag carrying fifty-four stars. Beside it hung a giant red flag bearing an eagle. A framed portrait showed a large, jowled man in a red hat.
 
 Johns straightened, clearly antsy to move on. "Anyway. On behalf of the American Red Party, welcome to Fortuna."
 
@@ -252,7 +256,7 @@ The park occupied a broad section of Ring Two. A real giant tree grew from a dee
 
 No one stood at the table. Everyone who passed looked at it, like a memorial.
 
-The Foundry came next. Its main bay could have swallowed the *Falcon's* forge. Printers, crystal growers, robot cages, and machine tools ran behind transparent safety walls. Jace stopped long enough for Carlos to smile.
+The Foundry came next. Its main bay could have swallowed the *Falcon's* entire forge. Printers, crystal growers, robot cages, and machine tools ran behind transparent safety walls. A few people were working tools or loading and unloading supplies. Jace stopped long enough for Carlos to smile.
 
 "You start with delivery support."
 
@@ -290,7 +294,7 @@ Carlos continued them on, snacking on a cookie of his own and taking the stairs 
 
 The Barn smelled warm before the doors opened.
 
-Nearly a thousand chickens filled tiered runs beyond the first biosecurity gate. Carlos said they produced enough eggs for the station, with margin for every nearby ship on good weeks. Goats climbed low frames. Sheep occupied a long exercise lane. Rabbits moved through stacked habitats. The *Falcon's* livestock had been precious because there were fifty-four animals aboard. Those would slowly be joined with Fortunas herds.
+Hundreds and hundreds of chickens filled tiered runs beyond the first biosecurity gate. Carlos said they produced enough eggs for the station, with margin for every nearby ship on good weeks. Goats climbed low frames. Sheep occupied a long exercise lane. Rabbits moved through stacked habitats. The *Falcon's* livestock had been precious because there were fifty-four breeding animals aboard. Those would slowly be joined with Fortunas herds.
 
 Mei stood at the entry gate, her single bag still over one shoulder.
 

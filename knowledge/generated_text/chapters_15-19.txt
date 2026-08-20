@@ -970,7 +970,7 @@ Artemis: I am documenting his failure.
 
 Apollo: Still alive. Will call tomorrow.
 
-Artemis: Metis shifted our comm window again, so might not connect. Try before 0600.
+Artemis: Adama shifted our comm window again, so might not connect. Try before 0600.
 
 Athena: Like 6 in the morning? That's when I go to bed.
 
@@ -1889,13 +1889,13 @@ It was not forgiveness. It was a path that required work. Jace trusted that more
 
 Outside Drone Ops, the station had entered artificial night. Half the market signs were dark to save maintenance load. Suzi and one deputy stood near the Barn junction, both still wearing tranquilizer pistols.
 
-Jace tried Metis before he went home.
+Jace tried Adama before he went home.
 
 The station directory accepted the call, estimated a delay, and waited. The connection timer reached six minutes. Then twelve. Then the network returned a neutral gray field.
 
 DESTINATION DID NOT ACKNOWLEDGE. RETRY SCHEDULED.
 
-He watched the blank delivery marker beside Artemis's name. She had said the Metis comm window was shifting. She had not answered since.
+He watched the blank delivery marker beside Artemis's name. She had said the Adama comm window was shifting. She had not answered since.
 
 Cerberus waited at his door when he returned, leaning his whole body against the panel as if physical pressure could make Jace arrive faster.
 
@@ -1903,14 +1903,14 @@ Jace sat on the floor and let the dog climb over him.
 
 His work queue was empty. His messages were not.
 
-Metis still had not answered.
+Adama still had not answered.
 
 
 
 
 Chapter 19. Fault Lines
 
-Apollo: Artie, Fortuna says Metis missed the handshake. Let me know you are all right. Any answer is enough.
+Apollo: Artie, Fortuna says Adama missed the handshake. Let me know you are all right. Any answer is enough.
 
 Athena: Are you safe? She hasn't answered me either. Mom and Dad are worried but pretending not to be, and their son blowing up toilets is not helping.
 

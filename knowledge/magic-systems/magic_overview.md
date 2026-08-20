@@ -32,7 +32,7 @@ What it means in practice:
 - Isolated, unmanned environments do not generate manifestations. Populated stations, cities, and ships do.
 - The *type* of manifestation is shaped by the *quality* of the consciousness it accumulates around. A science station studying Jupiter generates different manifestations than a mining operation or a military base.
 
-This is why Metis Station — with its concentrated population of scientists doing intense, focused intellectual work on one of the most complex objects in the solar system — is the first place where the outbreak becomes undeniable. The consciousness there is dense, focused, and pointed at mystery. The magic finds it first.
+This is why Adama Station — with its concentrated population of scientists doing intense, focused intellectual work on one of the most complex objects in the solar system — is the first place where the outbreak becomes undeniable. The consciousness there is dense, focused, and pointed at mystery. The magic finds it first.
 
 ---
 

@@ -4,7 +4,7 @@ name: "Arc 2 — The Woven and the Unbound"
 status: draft
 last_updated: 2026-06-26
 type: arc
-description: "First contact with a galactic scout, dungeon emergence on Earth and Mars, the Metis rescue mission, and the arrest of Jace and Kael by rival outsider powers."
+description: "First contact with a galactic scout, dungeon emergence on Earth and Mars, the Adama rescue mission, and the arrest of Jace and Kael by rival outsider powers."
 books_spanned: [book_02, book_03_opening]
 precedes: arc_03_the_return_and_the_trap
 follows: arc_01_falcon_and_fortuna
@@ -29,7 +29,7 @@ These must be demonstrably true by arc close:
 - [ ] The reader understands what galactic Will-Network civilizations are and why humanity doesn't fit their frameworks
 - [ ] Kael is established as a full character — her conflict between protocol and conscience is resolved in humanity's favor
 - [ ] The Bloom are introduced as a watching presence: alien, non-hostile by nature, but observing the Will expenditure with growing interest
-- [ ] The Metis rescue mission establishes Artemis as a major practitioner and introduces Eugene as a significant recurring character
+- [ ] The Adama rescue mission establishes Artemis as a major practitioner and introduces Eugene as a significant recurring character
 - [ ] Dungeon emergence is established on Earth and Mars as a separate but converging threat (POV characters flagged for later development)
 - [ ] The Earth crisis is resolved publicly — Jace and Kael are celebrated heroes by arc close
 - [ ] {Aura}'s recording infrastructure is established as a running asset — the reader understands it exists and accumulates
@@ -45,8 +45,8 @@ These must be demonstrably true by arc close:
 | 3 | Friction | She cannot communicate, cannot command, cannot classify. Neither can they. Everyone is frustrated. |
 | 4 | Trust (small) | Cerberus and Kai break the ice where language hasn't. A gesture of genuine connection. |
 | 5 | Dread (distant) | Earth and Mars POVs: dungeons are waking. People are dying. It's far away but it's real. |
-| 6 | Partnership | The Metis mission. Kael and Jace in transit together, learning from each other. The speeder drones. |
-| 7 | Grief | Metis Station — what the emergence looks like when it goes wrong for months. Artemis, injured. The dead. |
+| 6 | Partnership | The Adama mission. Kael and Jace in transit together, learning from each other. The speeder drones. |
+| 7 | Grief | Adama Station — what the emergence looks like when it goes wrong for months. Artemis, injured. The dead. |
 | 8 | Hope | The evacuation works. Eugene exists and is insufferable and brilliant. The team grows. |
 | 9 | Celebration (false) | Earth crisis resolved. Public recognition. A moment of genuine triumph before everything changes. |
 | 10 | Celebration | Earth crisis resolved. Public recognition. The team is heroes. Something is watching from the outer system. |
@@ -59,7 +59,7 @@ These must be demonstrably true by arc close:
 Dungeons are reactivating inside existing infrastructure. Five POV characters are introduced across Earth and Mars, interleaved into regular chapters. Four will die. One survives Arc 2. Their experiences are the reader's ground-level view of what the emergence looks like without any of Jace's context or Kael's knowledge.
 
 **Thread B — {Aura}'s Growing Signal**
-Nick Lee's {Aura} modifications are generating measurably more Will. The distributed network is beginning to show behaviors that exceed any individual instance's design. Eugene has been watching this from Metis and has a theoretical framework that nobody at Fortuna has reached. The convergence of Nick's implementation and Eugene's theory is the foundation of humanity's eventual asymmetric advantage.
+Nick Lee's {Aura} modifications are generating measurably more Will. The distributed network is beginning to show behaviors that exceed any individual instance's design. Eugene has been watching this from Adama and has a theoretical framework that nobody at Fortuna has reached. The convergence of Nick's implementation and Eugene's theory is the foundation of humanity's eventual asymmetric advantage.
 
 **Thread C — Kael's Report (and What She Decides Not to Send)**
 Kael's civilization is waiting for a status report that follows standard protocol. She delays it. Then she modifies it. The reader eventually understands she has chosen to misrepresent what she found — buying humanity time before a formal classification response is triggered. This decision costs her everything when the rival scouts arrive and review her transmission logs.
@@ -75,7 +75,7 @@ The Bloom are in the outer system. Their arrival is not coordinated with Kael's 
 |---------|--------|-------|
 | What are the galactic civilizations' actual intentions toward humanity? | Open | Two factions visible; neither is monolithic |
 | Why did Cerberus develop crossing-adjacent Template complexity without a trainer? | Open | Kael notices; doesn't explain; readers register |
-| What is Eugene's full theoretical framework for AI Will? | Partial | Introduced at Metis; not fully revealed until Arc 3 |
+| What is Eugene's full theoretical framework for AI Will? | Partial | Introduced at Adama; not fully revealed until Arc 3 |
 | What did Kael's modified report actually say? | Open | Revealed in Arc 3 interrogation |
 | What are dungeons, really — ancient infrastructure or something stranger? | Open | Earth/Mars POVs begin establishing the question |
 | Can Kael's civilization be persuaded to approach humanity differently? | Open | Kael's arc implies yes; her death prevents it |
@@ -90,10 +90,10 @@ The Bloom are in the outer system. Their arrival is not coordinated with Kael's 
 | {Aura} recording infrastructure | Ongoing from Fortuna | Arc 3/4 — the accumulated corpus from all operations becomes the intelligence base for the escape plan |
 | Kael's modified report | Mid-arc, off-page | Arc 4 interrogation — her captors have read it; reveals what she chose to protect |
 | The UV lamps taken from Fortuna's greenhouse | Bloom ransack scene | Station food supply crisis; establishes Bloom's complete incomprehension of human technology hierarchy |
-| Eugene's "the core does something your modifications don't account for" dismissal of Nick | Metis introduction | Arc 3+ — Eugene is right; the thing the core does becomes critical |
+| Eugene's "the core does something your modifications don't account for" dismissal of Nick | Adama introduction | Arc 3+ — Eugene is right; the thing the core does becomes critical |
 | Kael's Will message launched before the Earth crisis | Late Arc 2 — planted quietly | Arc 3 — when humanity learns it exists, it establishes a hard two-year deadline before a Woven response force arrives |
 | The Bloom's outer-system position during Earth operation | Thread D background | Arc 3 — they are watching; the Will expenditure from the Earth dungeon is the brightest event they have seen; it triggers the trap decision |
-| Artemis as the evacuation anchor | Metis rescue | She becomes the belt's most advanced practitioner; her trajectory is established here |
+| Artemis as the evacuation anchor | Adama rescue | She becomes the belt's most advanced practitioner; her trajectory is established here |
 | Kael drops [Occlusion] for Jace | Scene A-15 | First and possibly only time a Woven scout allows full Template reading by a Sol human; her reasoning is never stated; Arc 3 — when Jace eventually understands what this gesture costs someone of her training, it reframes their entire relationship |
 | Sol human cognitive Template density seen clearly | Scene A-15 | Kael's reading of Sol humans as "unbalanced primitives" is established; Arc 3+ — the same cognitive density becomes the foundation of something she has no category for; her initial diagnosis is accurate and incomplete simultaneously |
 ---
@@ -158,7 +158,7 @@ Each scene must demonstrably accomplish the listed items. Reviewer checks these 
 2. The Engineers explain something mechanical (nuclear reactor, spin gravity, or equivalent); her response reveals the gap between what she expected (ruins) and what she found
 3. Kael doesn't think Jace is anything special - she has her sights set on Jin
 4. Kai's behavior around Sparky is noted — by Kael, who says nothing but visibly recalibrates something in her assessment of the situation
-5. In the background, limited Communications is restored with Earth who is trying to understand what happened.  They tell the station that Metis is under attack.
+5. In the background, limited Communications is restored with Earth who is trying to understand what happened.  They tell the station that Adama is under attack.
 5. Jace gets emotional, and she overhears someone call Jace "Apollo" (his middle name) and mentions that his sister "Artemis" is in danger. She is visibly surprised by that and much more interested in Jace
 ---
 
@@ -169,8 +169,8 @@ Each scene must demonstrably accomplish the listed items. Reviewer checks these 
 1. Jace jury-rigs his existing hydrogen rocket drone into a cart for Astral travel — the engineering process is shown in his register (mundane, iterative, slightly frustrated). He wants to convince Jin to go with him to save his sister.
 2. Kael oversees him working on this in the Astral, and talks to him (with limited {Aura} translations). He offers to let her ride with him to show his idea, he feels he must rescue his sister. He knows it's very dangerous and that he might die.
 3. Kael's reaction to the solution is the scene's emotional payload: she has crossed the Astral thousands of times; nobody has ever crossed *a metal vehicle* and offered her a ride
-4. The practical result — significantly reduced transit time to Metis — is established as a capability that changes what's possible; Jace has converted a walking journey into something a vehicle can do - but it is so dangerous and Kael lists a number of problems that Jace doesn't understand
-5. Kael decides that she must find out more information about these humans and their crazy ideas. She makes a magical pact with Jace - in exchange for him "serving" her for 12 years, she promises to take him to Metis and to save his sister if possible.
+4. The practical result — significantly reduced transit time to Adama — is established as a capability that changes what's possible; Jace has converted a walking journey into something a vehicle can do - but it is so dangerous and Kael lists a number of problems that Jace doesn't understand
+5. Kael decides that she must find out more information about these humans and their crazy ideas. She makes a magical pact with Jace - in exchange for him "serving" her for 12 years, she promises to take him to Adama and to save his sister if possible.
 6. Jace accepts her bargain.  She uses a very complex Will working to bind him to her, and she shows him how to Cede his will to link it to her.
 7. She tells Jace to get food and water, they can leave immediately.  He tells everyone their plans and gets a pack of supplies and breathing gear.
 
@@ -181,16 +181,16 @@ Each scene must demonstrably accomplish the listed items. Reviewer checks these 
 
 ---
 
-### Scene A-06 — Departure for Metis (Jin Stays)
+### Scene A-06 — Departure for Adama (Jin Stays)
 
 **Must accomplish:**
 1. Jin is glad that he can stary on Fortuna to protect it — he is the most effective defender the station has and he knows it
-2. The team composition for the Metis mission is established: Jace, Kael, Kai, Cerberus (Jace is surprised she thinks Cerberus can come, she shows how he is partially Willbonded to Jace)
+2. The team composition for the Adama mission is established: Jace, Kael, Kai, Cerberus (Jace is surprised she thinks Cerberus can come, she shows how he is partially Willbonded to Jace)
 3. The emergency transmission that triggered the mission is replayed and Jace tries to explain how the famous Dr. Hart called for help, and that it listed his sister as one of the wounded
 
 ---
 
-### Scene A-07 — Transit to Metis
+### Scene A-07 — Transit to Adama
 
 **The mechanics (for scene drafters):**
 - Kael travels in Hyperspace on her "hoverboard", which lives permanently there
@@ -221,7 +221,7 @@ Each scene must demonstrably accomplish the listed items. Reviewer checks these 
 
 ---
 
-### Scene A-08 — Metis Station — Arrival
+### Scene A-08 — Adama Station — Arrival
 
 **Must accomplish:**
 1. What the emergence looks like after months without help — the reader needs the full weight of it: the dead, the improvised weapons, the siege psychology
@@ -260,7 +260,7 @@ astral fleet building thread in future books.
 **Situation:** Artemis needs medical evacuation. Kael can carry one person — she
 chooses Artemis. Jace cannot return the same way he came. His options:
 
-1. Wait for the Falcon to navigate to Metis physically (weeks)
+1. Wait for the Falcon to navigate to Adama physically (weeks)
 2. Find another way through Hyperspace on his own
 
 **Must accomplish:**
@@ -366,16 +366,16 @@ is something pre-Scar civilizations did deliberately.
 
 ---
 
-### Scene A-15 — Downtime and The Astral Lesson (Metis Station, post-battle)
+### Scene A-15 — Downtime and The Astral Lesson (Adama Station, post-battle)
 
 **Story context:**
-After the battle at Metis, after Kael has extracted Artemis and Jace has sworn to
+After the battle at Adama, after Kael has extracted Artemis and Jace has sworn to
 support Kael as apprentice. The station is secured.
 The survivors are alive. There is a brief window — days, perhaps — before the next
 crisis. Kael begins teaching.
 
 **The Ward Setting lesson:**
-Kael demonstrates [Ward Setting] by shielding a section of Metis Station against
+Kael demonstrates [Ward Setting] by shielding a section of Adama Station against
 Astral access. She sets the ward keyed to each survivor's Template — establishing
 who can pass through it and who cannot. For Jace this is the first time he sees
 organized dimensional defense: not force, but architecture. The ward is invisible
@@ -390,7 +390,7 @@ Her answer, and the conversation that follows, is his introduction to [Rune Writ
 as the foundational skill beneath [Ward Setting].
 
 **The Template vision lesson:**
-Kael takes Jace into the Astral and has him observe the surviving Metis Station crew
+Kael takes Jace into the Astral and has him observe the surviving Adama Station crew
 in physical space. He sees them as ghostly bodies with blazing cognitive layers:
 rainbow webs around their brains, kaleidoscope patches of color shifting with every
 thought, Will leaking and pooling without direction. Beautiful and chaotic.
@@ -433,7 +433,7 @@ remember clearly enough to know.
 ### Scene A-16 — The Earth Dungeon Crisis and Resolution
 
 **Story context:**
-The dungeon emergence on Earth has escalated beyond containment by local authorities. One of the five POV characters is inside; the others are at various stages of their own encounters. Jace, Kael, Sophia, and the Metis survivors (including Eugene) travel to Earth. This is Kael's first time seeing Earth. This is Jace's first time back in the inner system since Arc 1.
+The dungeon emergence on Earth has escalated beyond containment by local authorities. One of the five POV characters is inside; the others are at various stages of their own encounters. Jace, Kael, Sophia, and the Adama survivors (including Eugene) travel to Earth. This is Kael's first time seeing Earth. This is Jace's first time back in the inner system since Arc 1.
 
 The dungeon crisis is at city scale — not civilization-threatening, but threatening enough to make news. People are dying. The dungeon's behavior is erratic (degraded autonomous mode after 3,000 years plus AI-conceptual absorption) and the local emergency response has no framework for what they are facing.
 
@@ -486,22 +486,22 @@ The dungeon crisis is at city scale — not civilization-threatening, but threat
 - `arc_03_the_return_and_the_trap` — follows; Mars dungeon, public recognition, the Bloom's trap
 - `char_kael` — scout protagonist, Arc 2 ally; her arc continues into Arc 3
 - `char_kai` — Kael's familiar
-- `char_sister_artemis` — Metis rescue; evacuation anchor
-- `char_eugene` — {Aura} core architect; Metis introduction
+- `char_sister_artemis` — Adama rescue; evacuation anchor
+- `char_eugene` — {Aura} core architect; Adama introduction
 - `char_nick_lee` — translation project; Eugene rivalry
-- `char_sophia_lotte` — Metis mission co-lead; Earth crisis documentation
-- `char_jin_long` — Fortuna defender during Metis mission; Arc 3 captive
+- `char_sophia_lotte` — Adama mission co-lead; Earth crisis documentation
+- `char_jin_long` — Fortuna defender during Adama mission; Arc 3 captive
 - `faction_the_bloom` — outer-system watchers in Arc 2; active trap-setters in Arc 3
 - `faction_outsider_scouts` — Kael's civilization and their standard protocols
 - `universe-spec/spec_will_bonded_animals` — Kai/Cerberus dynamic; universal bonding law
 - `magic-systems/magic_skills_framework.md` — [Ward Setting], [Occlusion], [Rune Writing], [Long Stepping]
 - `magic-systems/magic_will_orbs.md` — Will orb mechanics
 - `universe-spec/spec_dungeon_systems` — Earth/Mars emergence context
-- `location_metis_station` — Metis ship-building station
+- `location_adama_station` — Adama ship-building station
 
 ## Revision Notes
 
 - 2026-06-21: Initial draft. Arc structure, beat map, scene contracts, open decisions established from author sessions.
-- 2026-06-23: Patch. Odysseus → Metis rename. Hike mechanics added. Return trip scenes added. Cross-references updated. Canonical distances added.
+- 2026-06-23: Patch. Odysseus → Adama rename. Hike mechanics added. Return trip scenes added. Cross-references updated. Canonical distances added.
 - 2026-06-25: Patch. Scene A-15 added (Ward Setting + Template vision lesson). Foreshadowing ledger updated. Success criteria updated.
 - 2026-06-26: Structural revision. Closing condition moved to celebration (capture/imprisonment moves to Arc 3/4). Arc goals updated. Emotional arc updated (beat 11 removed). Thread D updated (Bloom as watchers not captors). Foreshadowing ledger updated. Scene A-16 Earth dungeon crisis added. Scene numbering: A-15 formerly A-19. Cross-references updated. Precedes updated to arc_03_the_return_and_the_trap.  

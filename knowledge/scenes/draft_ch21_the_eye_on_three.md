@@ -40,11 +40,11 @@ cross_references:
 
 Sophia's arm came up before Jace's brain caught up with what had cut him.
 
-Blue white force left her pen in a flat line and struck the creature across what might have been its shoulder. It recoiled, folding partway back into the wall, and the tendril that had opened his arm withdrew with it.
+Blue white force left her hand in a flat line and *pushed* the creature, flinging into it. It recoiled, folding partway back into the wall, and the tendril that had opened his arm withdrew with it.
 
-Jace had the rod in his other hand. He didn't remember drawing it.
+Jace had the crowbar in his other hand. He didn't remember drawing it from his belt.
 
-He swung it into the creature's flank. The impact rang up through his wrist and did almost nothing he could see. The creature barely registered the hit. If anything, it seemed more interested in Sparky's running lights than in the metal.
+Jace was strong, earth strong. He'd lifted weights and ran and had muscles. He swung it into the creature's flank. The impact rang up through his wrist and did almost nothing he could see. The creature barely registered the hit. If anything, it seemed more interested in Sophia than him.
 
 That decided it for him.
 
@@ -52,43 +52,41 @@ He dropped the rod and grabbed for Sparky's remote instead.
 
 "Jace—"
 
-"Cover me."
+"Push it again."
 
-He didn't wait for her to agree. He spun the drone hard, thrusters angled outward, and drove the throttle to its stop.
+He didn't wait for her to agree. He spun the drone hard, thrusters angled outward, and drove the throttle so Sparky flew directly into it.
 
-Sparky's exhaust caught the creature across its exposed underside at close range. It should not have mattered against something built out of wet tissue and folded space. It mattered anyway. The creature convulsed, and the sound that came out of it wasn't a mechanical failure tone or an animal scream. It was something that used the Astral itself to carry, a howl that arrived behind Jace's eyes instead of through his ears, and both of them staggered under it.
+Sophia *pushed* again and the creature spun.
 
-It fled back toward the wall it had come from.
+Jace timed it perfectly. Sparky's full exhaust caught the creature across its back at close range. It should not have mattered against something built out of metal, but it did seem to matter against the wet tissue and folded space. The creature convulsed, skin bubbling, and the sound that came out of it wasn't a mechanical failure tone or an animal scream. It was something that used the Astral itself to carry, a howl that arrived behind Jace's eyes instead of through his ears, and both of them staggered under it.
+
+It fled back toward the wall it had come from, limbing and flailing tentacles at its writhing skin.
 
 "Go," Sophia said, and this time he didn't argue.
 
 They ran for the stairway connecting Ring Two down toward the transfer point, Sparky clutched against Jace's chest, his arm and side burning in a way that had stopped being pain and started being something colder.
 
-The creature followed them as far as the first step.
+The creature turned, and followed limping after them. They ran up the steps, and it's lower limb (Jace hesitated to call it a leg) got as far as the first step before it jerked back in pain.
 
-It stopped there. Reared back, actually, the way an animal balks at a threshold it will not cross. Jace, half blind with shock, still noticed the thin bright line worked into the stair rail where it met the deck.
+It stopped there. Reared back, actually, the way an animal balks at a threshold it will not cross. Jace, half blind with shock, still noticed the thin solid line worked into the stair and the rail where it met the deck.
 
-He looked at it directly, the way he'd look at any instrument reading, and the wrongness of it caught up with him a beat later. He couldn't see past it. Not the wall behind it, not the conduit space he knew ran under the stairs. The rail simply stopped his sight the way the deepest lensing fog stopped it around the densest ore he'd ever surveyed, except this was a strip of polished metal no wider than his thumb.
+He looked at it directly, the way he'd look at any instrument reading, and the wrongness of it caught up with him a beat later. He couldn't see through it, past the line. Not the wall behind it, not the conduit space he knew ran under the stairs. The rail simply stopped his sight the way the deepest lensing fog stopped it around the densest ore he'd ever surveyed, except this was a strip of polished metal no wider than his thumb.
 
 Silver.
 
-He filed it next to copper and kept moving.
+By the second flight his legs weren't reliable anymore. Sophia got a shoulder under his good arm and half carried him the rest of the way, saying nothing, breathing hard, not letting go. Carrying him and Sparky. Thank god they hadn't brought Cerberus.
 
-By the second flight his legs weren't reliable anymore. Sophia got a shoulder under his good arm and half carried him the rest of the way, saying nothing, breathing hard, not letting go.
-
-They crossed back into the *Victoria* together, badly, the way they always crossed back badly now.
+She got them back into the *Victoria* together, badly. It felt like deja vu.
 
 ##
 
-The physical cabin hit him like a dropped weight. Cold first, then the ordinary gravity of the ship, then Sophia's voice very close to his ear telling him to stay with her.
+He couldn't see properly. The astral room had gone soft at the edges, and he was shaking in a way that had nothing to do with temperature.
 
-He couldn't see properly. The room had gone soft at the edges, and he was shaking in a way that had nothing to do with temperature.
+"I can't see, everything's—" He didn't finish the sentence. He wasn't sure what word belonged at the end of it. He was hyperventalating. He couldn't cross back over.
 
-"I can't, everything's—" He didn't finish the sentence. He wasn't sure what word belonged at the end of it.
+"Not my room. Bad air. Brandon and Nikos are in the galley and kitchen. Lets go to the server room."
 
-{Misty}'s processor cabinet threw more light into the room than anything else in it, the ordinary steady green white glow of a working stack. Sophia steered him toward it because it was close and because, later, she would not be able to explain any better reason than that.
-
-She set him down against it to catch her breath.
+{Misty}'s processor cabinet threw more light than anything else in it, the steady bubbling glow of her AI stack. Sophia steered him toward it because it was close and bright. She set him down against it to catch her breath, turning to look for a medical kit. Could she push him across?
 
 Jace's shoulder settled against the casing.
 
@@ -100,29 +98,35 @@ He couldn't let go. For three, four seconds, he didn't want to.
 
 Sophia hauled him sideways by the collar, breaking the contact.
 
-Somewhere above them, {Misty}'s cabin lighting dimmed by half.
+Somewhere above them, under them, back in the real, they saw {Misty}'s cabin lighting dimmed by half.
+
+In the galley, they could see her crew mates stand up in panick. Running around in alarm.
 
 Jace sat on the floor of the *Victoria*, bleeding, shaking, and abruptly, humiliatingly, awake. Alert. His hands had stopped being numb. The cold that had been eating him from the inside since Ring Three had a name now, and the name was that it had gone somewhere else.
 
 "I didn't mean to," he said.
 
-"I know."
+"I know. Cross back."
 
 "I felt her go dark and I couldn't stop, I couldn't make my hand move—"
 
 "I know, Jace."
 
+They both sat and crossed back over. He had energy again. She was panting with adrenalines.
+
 Sophia was looking at the cabinet, not at him, both hands pressed flat against the casing.
 
-{Misty} did not answer the room.
+{Misty} did not answer the room when Sophia called.  The air was still, and she heard panicked shouting outside.
 
-"This is not your fault," Jace said. "I sat down there. You didn't—"
+"What did I do?" Sophia asked.
 
-"I put you there." Sophia's voice was very level. "I chose the brightest thing in the room because you couldn't see straight, and I didn't think about what the brightness was."
+"This isn't *your* fault," Jace said. "I sat down there. You didn't—"
+
+"I put you there." Sophia's voice was very level.
 
 "You didn't know."
 
-"I am not interested in whether I knew." She finally looked at him. Not angry. Something worse than angry. "Is this what it's doing? On Three? Is it doing to people, or to systems, what you just did to her?"
+"I should have guessed" She finally looked at him. Not angry. Something worse than angry. "Is this what it's doing? On Three? Is it doing to people, or to systems, what you just did to her? To me?"
 
 Jace didn't have an answer.
 
@@ -132,7 +136,7 @@ Neither did she. She didn't try to invent one.
 
 ##
 
-Lanchee's emergency kit was not built for this much of Jace at once, but it was enough. Stitches in his forearm, a wrap around his ribs, strict orders to sleep that he had no intention of following.
+The stations emergency kit was not built for this much of Jace's wounds at once, but it was enough. Stitches in his forearm, a wrap around his ribs, strict orders to sleep that he had no intention of following.
 
 He sat on his bunk with Cerberus's weight against his good leg and his design pad open on his knee, because the pad was the only thing his hands would still do that felt like control.
 
@@ -176,10 +180,6 @@ His comm chimed a second time before he'd finished the thought. Nick, on video, 
 
 "I'm fine."
 
-"You looked bruised yesterday. That was the bar fight, I understood the bar fight. This isn't the bar fight."
-
-Jace considered lying and found he didn't have one left in him.
-
 "Can you come to the forge?"
 
 "It's the middle of the night."
@@ -204,7 +204,7 @@ Nick waited.
 
 "I know it concerns Sophia and the hours you keep disappearing," Nick said. "I know you're going to give me a cover story and ask me to certify it."
 
-"I'm not going to lie to you tonight. I'm going to tell you there's real danger, and ask you to help me without explaining what it is yet. That's still unfair. I know that."
+"I'm not going to lie to you. I'm going to tell you there's real danger, and ask you to help me without explaining what it is yet. That's still unfair. I know that."
 
 Nick was quiet for a moment.
 
@@ -223,6 +223,10 @@ Nick was quiet for a moment.
 "Illegal?"
 
 "Not intentionally."
+
+"The sabotague? Is it the U.S. trying to take stations?"
+
+"Related, but it's not that."
 
 "That is not comforting."
 
@@ -256,7 +260,7 @@ Nick studied him. Whatever he saw, it settled something.
 
 "Agreed."
 
-It wasn't a repair. It was smaller than that, and Jace understood the difference, but it was something real happening between them for the first time in weeks, and he was grateful for it in a way he didn't try to say out loud.
+It wasn't a repair to their friendship. It was smaller than that, and Jace understood the difference, but it was something real happening between them for the first time in weeks, and he was grateful for it in a way he didn't try to say out loud.
 
 ##
 
@@ -276,19 +280,17 @@ Sophia didn't answer right away. She sat on the edge of his bunk, which she had 
 
 "Nick," Jace said.
 
-"I did not say that."
+"I was thinking Brandon and Nikos."
 
-"You were about to."
+"Oh. How about all three?"
 
 She was quiet.
 
-"I have kept this to two people because two people is what I could control," she said. "I do not know that I can control three."
+"I have kept this to two people because two people is what I could control," she said. "I do not know that I can control three more."
 
-"You don't have to control him. I trust him with my life. He's already agreed to help, he just doesn't know what he's helping with yet."
+"You don't have to control them. Nicks's already agreed to help, he just doesn't know what he's helping with yet."
 
-"That is exactly the problem."
-
-"It's also the only way through it. We tell him what he needs to know when he needs to know it. Same as we did with each other."
+"That is exactly the problem. Brandon and Nikos are family."
 
 Sophia looked at her hands for a while.
 
@@ -296,11 +298,13 @@ Sophia looked at her hands for a while.
 
 "I understand."
 
-"Then bring him in. Slowly. Instruments first."
+"Then OK. I'll talk to them. You talk to Nick. Then we all meet up."
 
-It wasn't relief, exactly, that Jace felt. It was closer to the specific weight of a decision finally being made instead of avoided.
+It wasn't relief, exactly, that Jace felt. It was closer to the specific weight of a decision finally being made instead of avoided. They both were smiling.
 
-"Instruments first," he agreed.
+"Thanks. I missed this."
+
+"I missed it, too."
 
 ## Contract coverage
 

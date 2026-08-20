@@ -19,7 +19,7 @@ cross_references:
   - "[[char_nick_lee]]"
   - "[[draft_ch07_artemis_call_canister]]"
   - "[[char_sister_artemis]]"
-  - "[[location_metis_station]]"
+  - "[[location_adama_station]]"
   - "[[tech_modular_pod_canisters]]"
 open_flags: []
 ---
@@ -146,13 +146,13 @@ Two days later, his call window opened without warning and Artemis's face filled
 
 "Jace. *Everyone's* seen it. My boss has seen it. My boss doesn't watch anything and he's seen it." She laughed, and for a second the impression of his sister became the real thing. "How's the dog?"
 
-"Traumatized. How's Metis Station? How's the Space Force?"
+"Traumatized. How's Adama Station? How's the Space Force?"
 
 "Busy. Good busy. I know you Air Force guys didn't get along with the Space Force... ah, crap. Sorry. Ex-Air Force." A beat, a fraction too long. "We're building things you wouldn't believe. Some of our ships are going to revolutionize the belt. Actually, don't worry about that. Point is, work's good."
 
 "It worried me when the American Red Party took over. It worries me more how much they're investing in your weapons station."
 
-"Not everyone's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Metis is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans. But good news, I should be out to visit Fortuna in a couple months for a goodwill conference with the Chinese officials there."
+"Not everyone's little brother worries professionally." She waved it off with a hand he noticed had a fresh scar across two knuckles. "You couldn't visit anyway. Adama is closed to outsiders, it's all shipyard and clearances, they don't even let *me* off station without scans. But good news, I should be out to visit Fortuna in a couple months for a goodwill conference with the Chinese officials there."
 
 "Isn't it a three-week trip when you have to accelerate up then back down?"
 
@@ -193,27 +193,27 @@ He sat for a while in the quiet, in the shush of the water in the walls, rewindi
 ##
 
 <!-- beat:t03d_pig_butt_canister.beat2_the_canister -->
-The canister launch was, officially, the most routine event of the transit: a standard thirteen-meter cargo container, packed and sealed, kicked off the *Falcon*'s spine on a slow transfer trajectory to Metis while the ship itself continued on to Fortuna. It had been packed at the military base on Mars, loaded on the *Falcon*, wrapped and locked shut.
+The canister launch was, officially, the most routine event of the transit: a standard thirteen-meter cargo container, packed and sealed, kicked off the *Falcon*'s spine on a slow transfer trajectory to Adama while the ship itself continued on to Fortuna. It had been packed at the military base on Mars, loaded on the *Falcon*, wrapped and locked shut.
 
-"Ten days, if it just coasts on the velocity it leaves with," Jace said to Nick that evening, half-narrating, half-thinking out loud while he pulled up the transfer plot. "Two weeks if Metis actually wants it slotted into a berth instead of splattered across one. You'd have to burn most of the way there and flip to kill the closing speed, and Maureen doesn't waste reaction mass on somebody's grocery order so they are sending a tug to catch and slow it. Guess they have good tugs."
+"Ten days, if it just coasts on the velocity it leaves with," Jace said to Nick that evening, half-narrating, half-thinking out loud while he pulled up the transfer plot. "Two weeks if Adama actually wants it slotted into a berth instead of splattered across one. You'd have to burn most of the way there and flip to kill the closing speed, and Maureen doesn't waste reaction mass on somebody's grocery order so they are sending a tug to catch and slow it. Guess they have good tugs."
 
 *so it's basically a going-away present that arrives after you're already gone*
 
 He was showing Nick a HUD camera feed of his latest creation.
 
-"Basically." Which was the whole shape of Metis, he was starting to understand. Close enough for an eleven-minute phone call, and still ten days and a dedicated burn away from anyone actually docking there, on top of it being a classified military shipyard. You could talk to the place. You couldn't visit it. The belt made those two things sound like they should be the same and, though they were practically neighbors they were not even close.
+"Basically." Which was the whole shape of Adama, he was starting to understand. Close enough for an eleven-minute phone call, and still ten days and a dedicated burn away from anyone actually docking there, on top of it being a classified military shipyard. You could talk to the place. You couldn't visit it. The belt made those two things sound like they should be the same and, though they were practically neighbors they were not even close.
 
 Delta-v budget for the container: trivial. Maureen's involvement: an auto-signature. It would coast for over a week and arrive with the majesty of all freight, which is to say, nobody would look at it twice.
 
 Jace found this unacceptable. Good engineering should be appreciated.
 
-The idea arrived fully formed while he was reviewing the canister's spec sheet. The standardized berth interface, the blunt rectangular aft face that would be pointed, for the entire transfer, directly along its departure vector. Directly, as it were, at everyone on Metis Station.
+The idea arrived fully formed while he was reviewing the canister's spec sheet. The standardized berth interface, the blunt rectangular aft face that would be pointed, for the entire transfer, directly along its departure vector. Directly, as it were, at everyone on Adama Station.
 
 He modeled it in an evening. He printed it overnight in the good plastic, and it had to be the good plastic; the cheap stock would outgas in vacuum and go brittle and chalky in days under raw UV, and if a thing was worth doing it was worth doing in a material rated for the environment. This was, he told himself, an engineering decision. He ran the numbers on mounting stress during the departure kick, selected bond points on non-structural aft plating, and confirmed with the spec that external aesthetic modifications under two kilograms required no approval he intended to seek.
 
 The circuit printer had one simple job he had to load manually so it wouldn't be noticed: a proximity trigger, so the finishing touch activated only after separation stopped triggering the proximity sensor, outside the ship and Maureen's inspection range.
 
-The canister launched on schedule. It cleared the *Falcon*, oriented itself for the long coast to Metis, and presented its face to the Metis's eventual cameras: a large, anatomically enthusiastic, salmon-pink 3D-printed pig's rear end, mounted dead-center, with a small curly tail that began, at that moment, to slowly rotate.
+The canister launched on schedule. It cleared the *Falcon*, oriented itself for the long coast to Adama, and presented its face to the Adama's eventual cameras: a large, anatomically enthusiastic, salmon-pink 3D-printed pig's rear end, mounted dead-center, with a small curly tail that began, at that moment, to slowly rotate.
 
 For the better part of two weeks, a container of precision shipyard supplies would sail toward a classified Space Force station mooning it the entire way.
 
@@ -221,7 +221,7 @@ Mei watched the departure footage in the galley with no expression at all, for a
 
 He did not tell Artemis. Some gifts were better as surprises.
 
-The *Falcon* continued on toward Fortuna, Metis already falling behind.
+The *Falcon* continued on toward Fortuna, Adama already falling behind.
 
 ---
 
@@ -248,13 +248,13 @@ The *Falcon* continued on toward Fortuna, Metis already falling behind.
 | T-03c.1 — Artemis call: warmth + lag + something unsaid | ✅ |
 | T-03c.2 — "big engines, don't worry" as throwaway | ✅ |
 | T-03c.3 — call too short; loneliness of near-far | ✅ |
-| T-03c.4 — Metis closed, military shipyard, Falcon can't stop there | ✅ |
+| T-03c.4 — Adama closed, military shipyard, Falcon can't stop there | ✅ |
 | T-03c.5 — famous/rude boss (light touch) | ✅ |
 | T-03c.6 — supply container Maureen delivers remotely | ✅ |
 | T-03c.7 — Artemis raises the missing girl | ✅ (adapted — Jace already knows from Nick, so this plays as confirmation/second source rather than fresh news) |
 | T-03d.1 — comedy with real engineering logic | ✅ |
 | T-03d.2 — canister system detail | ✅ |
-| T-03d.3 — Metis a defined travel time from Fortuna's route, and makes ships | ✅ (added explicit "10 days coasting / 2 weeks to actually dock" distinction per this session, causally worked into a Jace/Nick exchange — flagged as new worldbuilding load-bearing for Book 2) |
+| T-03d.3 — Adama a defined travel time from Fortuna's route, and makes ships | ✅ (added explicit "10 days coasting / 2 weeks to actually dock" distinction per this session, causally worked into a Jace/Nick exchange — flagged as new worldbuilding load-bearing for Book 2) |
 | T-03d.4 — jury-rigged prototype module, unapproved | ✅ |
 | T-03d.5 — special plastic vs outgassing/degradation | ✅ |
 
@@ -268,4 +268,4 @@ The *Falcon* continued on toward Fortuna, Metis already falling behind.
 | ⚠️ **TIMING PASS (this session):** all "two weeks" markers in this chapter changed to match the tighter post-crisis countdown | resolved | Ch04 fixes the crisis at 14 days before arrival ("13 days to Fortuna" the next day — the "Lucky 13" line). The Learning Mode incident is now "six days after the crisis" (8 days to arrival); the Aura pitch/Helena-rumor call is "two nights later" (6 days to arrival); the new Artemis call/canister launch is "two days later" (4 days to arrival). This also required moving Ch01's birthday-call countdown from "two weeks" to "seventeen days to Fortuna," to leave room for Ch02's workshop day(s) before the crisis. |
 | Helena disappearance relative to the *Falcon* transit | resolved | Nick says Helena disappeared nearly two months before this call, and the prologue places the *Falcon* weeks away rather than days away. Sophia's revised crossing count no longer supplies an exact duration. |
 | NEW — Artemis Call + Pig-Butt Canister (T-03c/T-03d) folded into the end of this chapter, adapted from the KB's existing `draft_ch07_artemis_call_canister.md` | resolved | Per author's request this session — rather than standing alone as a separate chapter, this closes out Ch05. "Training Mode" nickname updated to "Learning Mode" throughout to match this chapter's established nickname. Artemis's mention of the missing girl rewritten as a second-source confirmation of what Nick already told Jace, rather than a duplicate reveal. |
-| NEW — Metis travel-time economics (10 days coasting vs. 2 weeks to actually dock; military shipyard, closed to civilians, Falcon can't stop) | open | Added causally via a Jace/Nick exchange per author's explicit request, flagged as Book 2-relevant. Confirm this matches whatever Book 2 needs numerically — these are this session's numbers, not pulled from an existing Book 2 outline. |
+| NEW — Adama travel-time economics (10 days coasting vs. 2 weeks to actually dock; military shipyard, closed to civilians, Falcon can't stop) | open | Added causally via a Jace/Nick exchange per author's explicit request, flagged as Book 2-relevant. Confirm this matches whatever Book 2 needs numerically — these are this session's numbers, not pulled from an existing Book 2 outline. |

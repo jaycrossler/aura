@@ -192,7 +192,7 @@ smiling placement.
   young, a blend weighted toward the lower pack usually fixes it faster than
   changing speed.
 - Kokoro will mispronounce the invented proper nouns. Build a lexicon entry set
-  for at least: Cerberus, Fortuna, Metis, Astral, Never-Never, Lóng, Lanchee,
+  for at least: Cerberus, Fortuna, Adama, Astral, Never-Never, Lóng, Lanchee,
   Petroski, Nikos Petrou, Colmar, Trittenheimer.
 
 ### Chatterbox

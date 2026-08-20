@@ -6,14 +6,14 @@ status: canonical
 canonical: true
 last_updated: 2026-06-26
 cross_references:
-  - "[[location_metis_station]]"
+  - "[[location_adama_station]]"
   - "[[location_fortuna_station]]"
   - "[[faction_china_belt_operations]]"
 description: >
   Jupiter L4 observation and science station. Retained as canon but no longer
   Artemis Grant's posting. Site of the early flux anomalies that triggered
   China's withdrawal from outer belt operations. Not the Arc 2 rescue site —
-  that is Metis Station.
+  that is Adama Station.
 ---
 
 # Odysseus Station
@@ -97,22 +97,22 @@ Odysseus Station continues to operate at reduced Chinese staffing. Scientific ou
 continues. The anomaly reports have not been formally reopened. The people who filed
 them have not been formally contradicted, which is its own kind of answer.
 
-Odysseus is not where Artemis Grant works. That is **Metis Station** (~9 Metis,
+Odysseus is not where Artemis Grant works. That is **Adama Station** (~9 Adama,
 inner belt). Do not conflate these locations.
 
 ---
 
 ## Cross-References
 
-- `location_metis_station.md` — Artemis's actual posting; Arc 2 rescue site
+- `location_adama_station.md` — Artemis's actual posting; Arc 2 rescue site
 - `universe-spec/spec_dimensional_travel_mechanics.md` — dimensional layer geometry
 - `universe-spec/cosmology.md` — stellar engine model, Jovian secondary clearing
 
 ## Revision Notes
 
-- 2026-06-26: Removed accent mark from Metis Station references to align spelling.
+- 2026-06-26: Removed accent mark from Adama Station references to align spelling.
 - 2026-06-23: Major update. Artemis Grant and all Arc 2 rescue material moved to
-  new `location_metis_station.md`. Odysseus repositioned as Jupiter L4 science
+  new `location_adama_station.md`. Odysseus repositioned as Jupiter L4 science
   post, retained as the site of China's anomaly-triggered withdrawal. Jovian
   dimensional clearing properties added from cosmology session canon. "Not the
   Arc 2 rescue site" note added to prevent future conflation.

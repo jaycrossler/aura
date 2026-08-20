@@ -409,7 +409,7 @@ Full contracts live in the linked thread file.
    - *(a)* **RESOLVED (2026-07-19):** Kael is present at the swarm battle under occultation through the whole fight per the current Closing Condition and the drafted S-02b. The contradicting scratch notes in Thread S are removed.
    - *(b)* Does light moving slower in the Astral/Hyperspace **replace** X-05a's
      "space compresses, light stays at *c*" derivation, or compound with it? This
-     changes the dist²/dist³ travel-time math used elsewhere (e.g. Metis distances)
+     changes the dist²/dist³ travel-time math used elsewhere (e.g. Adama distances)
      if adopted. Recommend treating X-05a as Jace's early, incomplete hypothesis and
      the rotating-mirror result as Sophia's later correction — but this is a
      universe-spec-level change and needs explicit sign-off before `X-10` is written

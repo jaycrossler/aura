@@ -41,7 +41,7 @@ takes two separate things:
 
    `<laugh>` `<chuckle>` `<sigh>` `<cough>` `<sniffle>` `<groan>` `<yawn>` `<gasp>`
 
-   These go inline, e.g.: `"You couldn't visit anyway <sigh> Metis is closed
+   These go inline, e.g.: `"You couldn't visit anyway <sigh> Adama is closed
    to civilians."` Only use a tag where the character would actually make
    that sound — don't insert one just to mark an emotional beat that has no
    associated vocalization.

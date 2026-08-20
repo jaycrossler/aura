@@ -40,7 +40,7 @@ cross_references:
 >
 > *Apollo: Still alive. Will call tomorrow.*
 >
-> *Artemis: Metis shifted our comm window again, so might not connect. Try before 0600.*
+> *Artemis: Adama shifted our comm window again, so might not connect. Try before 0600.*
 >
 > *Athena: Like 6 in the morning? That's when I go to bed.*
 >
@@ -269,9 +269,9 @@ They had never gone this far through Fortuna.
 
 Jace left the *Victoria*, crossed the transparent corridor of Ring Two, and entered the docking spine while peering around at everything he could. Sparky flew beside him with the oxygen bottle knocking softly against his shell.
 
-The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings. He realized he didn't have to walk all the way to a stair, he could just push himself through the floor. But, wary of also falling off, he decided not to experiment too much during an emergency.
+The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings. He realized he didn't have to walk all the way to a stairs, he could just push himself through the floor, though there was enough silver and copper pipes through the walls to make it non-trivial to climb through. But, wary of *also* falling off, he decided not to experiment too much during an emergency.
 
-At the central hub, spin gravity faded. Gravity was Mars-standard in the real, it was less here with gravity being more something you decided on, not that was decided upon you. Jace caught a guide rail that his hands could feel but his eyes could see through. He pulled himself toward the nonrotating shaft.
+At the central hub, spin gravity faded. Gravity was Mars-standard in the real, it was less here with gravity being more something you decided on, not that was decided upon you. Jace caught a guide rail that his hands could feel and that his eyes couldn't see through. He pulled himself toward the nonrotating shaft.
 
 "Sophia, status."
 
@@ -451,7 +451,7 @@ Sparky's light went solid red.
 
 "How long?"
 
-Jace looked behind him. The nearest physical emergency line was visible inside a sealed locker. Pulling it across would take time he could not count. The Astral lab had copper retrieval wire, but not thirty meters of load-rated rope. Maybe the construction zone?
+Jace looked behind him. The nearest physical emergency line was visible inside a sealed locker. Pulling it across would take time he could not count. The Astral lab had copper wire, but not thirty meters of load-rated rope. Maybe the construction zone?
 
 "I will find one, it might take me a bit."
 
@@ -557,17 +557,13 @@ Sophia stared upward through the shaft.
 
 "Like a construction drone?"
 
-"It had too many joints."
-
-"Some drones have many joints."
-
-"It turned before I made a sound and had knives mounted to its arms."
+"It was in the construction area. It turned before I made a sound and had knives mounted to its arms."
 
 Jace stopped pulling along the rail.
 
 "Did you see a controller?"
 
-"No. A shape. Two bright points. Blinking red, perhaps. Then I stepped back too quickly and the station was gone."
+"No. A shape. A bright light. Blinking red, perhaps. Then I stepped back too quickly and the station was gone."
 
 "We should not go back to Three."
 
@@ -633,7 +629,7 @@ Sophia leaned back against the wall, exhausted.
 
 "The crossing is not the magic," she said. "It is only where the magic was easiest to see."
 
-They had never before used the word 'magic' before. Outside the room, Fortuna continued its long fall around the Sun.
+Despite walking through worlds, they had never before used the word 'magic' before. Outside the room, Fortuna continued its long fall around the Sun.
 
 Inside, Jace held a cup that had flown.
 

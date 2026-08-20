@@ -679,7 +679,7 @@ using the camera system and telemetry they designed.
 > separate (and incompatible, as currently written) explanation for the same
 > category of anomaly, and it would also affect the dist²/dist³ travel-time
 > compression math used for Astral/Hyperspace distances elsewhere (e.g. the
-> Fortuna–Métis distance figures in `location_metis_station.md`).
+> Fortuna–Métis distance figures in `location_adama_station.md`).
 >
 > **Recommendation (not a decision):** treat X-05a as Jace's early, workable-but-
 > incomplete field derivation, and this scene as Sophia's later, more rigorous

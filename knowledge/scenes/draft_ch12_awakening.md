@@ -138,13 +138,13 @@ None explained the room.
 
 He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away. He could see eveything around him. *Everything.* Ring Two and Three below. People walking. The asteroid. The sun.  Walls were transparent...ish. But also solid. But also he could see the wires and pipes inside them.
 
-Jace stood, holding Cerberus against his chest, and pressed the hatch control.
+Jace stood, holding Cerberus against his chest, and pressed the hatch control. It was the only thing in the room that wasn't see-through, like a prefectly black rectangle.
 
-His hand sank through it. He could see siwtches, motors, actuators, wires. His fingers were solid. And cold.
+His hand sank through the outside cover, but couldn't quite move through all of it. Around it, he could see siwtches, motors, actuators, wires. His fingers were solid. And cold.
 
 He jerked back.
 
-The button remained untouched.
+The button remained unpressed.
 
 He tried the manual latch. His fingers entered the metal fascia like it was thick water. He felt resistance, but no edge he could grip.
 
@@ -158,7 +158,7 @@ Cerberus glared through his mask with complete agreement, tail between his legs.
 
 Jace pushed.
 
-The hatch did not open. Its shape *rotated* away from them in a new direction that he had no name for.
+The hatch did not open. Its shapes of the door *rotated* away from them in a new direction that he had no name for.
 
 The corridor beyond tipped into view. A new direction unfolded beside forward, backward, left, right, up, and down. His inner ear rejected it. His stomach followed.
 
@@ -166,7 +166,7 @@ Then Jace fell through the metal.
 
 He struck the corridor floor on one knee, but the impact felt soft as a mattress. Cerberus remained in his arms. The hatch stood behind them without a mark.
 
-Jace stared at it.
+Jace stared at it. It was completely, fractally, transparent and multi-layered. A black ribbon wound around the inside frame, the only part not see-through. 
 
 "We walked through a wall."
 
@@ -202,9 +202,11 @@ Nothing.
 
 Cerberus watched her glowing form and whined.
 
-"They cannot see us."
+"They can't see us."
 
 That conclusion helped less than Jace expected.
+
+They passed the inn's main room. Everything was crystaline with glowing forms behind and above. The only thing not see-through was the mirror on the wall, which reflected the rippling reflection of a scared cold masked man and a squirming masked dog.
 
 They walked toward the clinic.
 
@@ -214,7 +216,7 @@ The clinic door wasn't there. It was a blank wall with a solar system behind it.
 
 Lanchee had moved her canister into Ring One. Jace knew that. His oxygen-starved brain had gone to the place she used to be aboard the *Falcon*, translated onto the station map, and called it a plan.
 
-His air cartridge showed thirty-five minutes.
+His air cartridge estimated thirty-five minutes.
 
 Night workers would be in the cafeteria near the inn. Someone had to be awake there.
 

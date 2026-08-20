@@ -62,7 +62,7 @@ From outside the Scar, surviving galactic civilizations watch their dimensional 
 
 - **Fortuna Station** (3 Fortuna) founded (~2099), enters growth phase. Population reaches ~150 permanent residents.
 - **Sylvia Station** (87 Sylvia) founded (~2100).
-- **Metis Station** (inner belt) grows into the largest belt station.
+- **Adama Station** (inner belt) grows into the largest belt station.
 - **ESA science vessel *Victoria*** assigned to the outer belt; docks regularly at Fortuna Station for the asteroid flux anomaly research programme.
 
 **The Scar Begins Fading — Outer Belt**
@@ -203,7 +203,7 @@ The physical Veil continues drifting. The dimensional Scar fades earliest in the
 
 - Specific dates throughout. Many working dates can shift.
 - The exact relationship between Veil clearance and flux intensity.
-- Whether Artemis at Metis is still reachable by story's midpoint, or fully cut off.
+- Whether Artemis at Adama is still reachable by story's midpoint, or fully cut off.
 - The specific nature of the Book 1 climactic event at Fortuna.
 - Sophia's exact crossing point — confirmed as adjacent to the *Victoria*'s docking berth at Fortuna Station.
 - The identity of the first sleep-crossing survivor.

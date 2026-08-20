@@ -20,7 +20,7 @@ The asteroid belt is humanity's third frontier and, at the story's present, its 
 
 Mars is the jumping-off point. The three Martian cities provide the last large medical, legal, industrial, and logistics base before outbound crews enter the belt. Terminus launches food, livestock products, repair crews, settlers, military cargo, and high-value fabricated components. Pangu provides refined fuels and heavy industrial feedstock. Elysium provides contract law, finance, specialty biotech, insurance, and cross-faction arbitration.
 
-Fortuna Station is the largest and most important human settlement in the belt at story start. Metis Station, located near Fortuna in inner-belt terms, is smaller but strategically critical because it builds and repairs ships. Other stations exist, but Fortuna and Metis carry the story's main industrial and emotional weight.
+Fortuna Station is the largest and most important human settlement in the belt at story start. Adama Station, located near Fortuna in inner-belt terms, is smaller but strategically critical because it builds and repairs ships. Other stations exist, but Fortuna and Adama carry the story's main industrial and emotional weight.
 
 The belt is also the first region of the solar system exposed to the returning resonance flux as the Veil clears. Its isolation forces belters to develop practical answers before Earth or Mars can impose clean doctrine.
 
@@ -28,7 +28,7 @@ The belt is also the first region of the solar system exposed to the returning r
 
 The main belt spans approximately 2.2 to 3.2 AU from the Sun, between Mars and Jupiter. Even in dense orbital neighborhoods, actual distances remain enormous. A station being "near" another belt site usually means it is near in orbital family, delta-v, supply routing, or dimensional travel terms. It does not mean visual proximity.
 
-For story purposes, the inner-belt cluster around 3 Fortuna and 9 Metis is important because it permits a plausible regional economy: Fortuna supplies food, refined materials, and general logistics; Metis supplies ship construction and repair; smaller operator vessels mine, survey, and haul between them.
+For story purposes, the inner-belt cluster around 3 Fortuna and 9 Adama is important because it permits a plausible regional economy: Fortuna supplies food, refined materials, and general logistics; Adama supplies ship construction and repair; smaller operator vessels mine, survey, and haul between them.
 
 ## Mars-to-Belt Logistics
 
@@ -36,8 +36,8 @@ Mars is the gateway to the belt because it has gravity low enough to make launch
 
 Typical conventional travel:
 - Mars to Fortuna: about 4 to 4.5 months by nuclear ferry or slow industrial transport.
-- Mars to Metis: about 4 to 5 months when Metis is in a favorable inner-belt routing window.
-- Fortuna to Metis: weeks to months by conventional transfer, depending on relative positions and trajectory constraints.
+- Mars to Adama: about 4 to 5 months when Adama is in a favorable inner-belt routing window.
+- Fortuna to Adama: weeks to months by conventional transfer, depending on relative positions and trajectory constraints.
 - Fortuna to other inner-belt industrial stations: weeks to months.
 - Inner belt to outer belt stations: months.
 - Belt to Earth: long, expensive, and often politically filtered through Mars.
@@ -54,13 +54,13 @@ Fortuna is sometimes called "the Granary" as an aspirational nickname. This is o
 
 See [[location_fortuna_station]] and [[fortuna_station_population_neighborhoods]].
 
-### Metis Station - 9 Metis
+### Adama Station - 9 Adama
 
-Metis Station is a smaller shipyard station anchored to 9 Metis, a large S-type asteroid in the inner belt. It began as a salvage and repair outpost and matured into the most capable shipyard near Fortuna. It builds, overhauls, and repairs ships that Fortuna needs but cannot efficiently construct inside the rotating habitat rings.
+Adama Station is a smaller shipyard station anchored to 9 Adama, a large S-type asteroid in the inner belt. It began as a salvage and repair outpost and matured into the most capable shipyard near Fortuna. It builds, overhauls, and repairs ships that Fortuna needs but cannot efficiently construct inside the rotating habitat rings.
 
-Metis is run in practice by Dr. Eugene Hart and is home to Artemis Grant. It is smaller, rougher, and more technically idiosyncratic than Fortuna. Its value lies in its shipyard, not its population.
+Adama is run in practice by Dr. Eugene Hart and is home to Artemis Grant. It is smaller, rougher, and more technically idiosyncratic than Fortuna. Its value lies in its shipyard, not its population.
 
-See [[location_metis_station]].
+See [[location_adama_station]].
 
 ### Psyche Station - 16 Psyche
 
@@ -76,7 +76,7 @@ Sylvia is an outer-belt triple-body system with long-term expansion potential. I
 
 ### Odysseus Station - Jupiter Trojan Cluster
 
-Odysseus is administratively tied to belter culture but physically distant. It is not the same location as Metis Station. Do not conflate the two. Odysseus is a far-out scientific and observation post, relevant to early anomaly reports and political retreat decisions.
+Odysseus is administratively tied to belter culture but physically distant. It is not the same location as Adama Station. Do not conflate the two. Odysseus is a far-out scientific and observation post, relevant to early anomaly reports and political retreat decisions.
 
 ## Hub-and-Spoke Model
 
@@ -84,7 +84,7 @@ The "station population" describes permanent residents inside the habitat. The a
 
 Fortuna's broader community includes 20 to 30 associated small ships and platforms. These craft extend its influence across a large region. Many people who identify as part of Fortuna's economy do not sleep in Fortuna's rings.
 
-Metis has fewer people but an outsized strategic role because shipyards are rare, fragile, and hard to duplicate.
+Adama has fewer people but an outsized strategic role because shipyards are rare, fragile, and hard to duplicate.
 
 ## Belt Economy
 
@@ -94,7 +94,7 @@ The belt economy has four visible layers.
 
 2. Conversion. Smelters, refineries, volatiles processors, feedstock plants, and fabrication shops turn raw material into useful industrial goods.
 
-3. Transport. Nuclear ferries, cargo tugs, pressurized transfer pods, repair vessels, and automated containers move people and goods between Mars, Fortuna, Metis, and other hubs.
+3. Transport. Nuclear ferries, cargo tugs, pressurized transfer pods, repair vessels, and automated containers move people and goods between Mars, Fortuna, Adama, and other hubs.
 
 4. Survival services. Medical care, food production, animal care, education, housing, water, air, repair, certification, and emergency response keep the human layer alive.
 
@@ -111,7 +111,7 @@ Belter identity is forming earlier than Earth governments expected. Common trait
 - Animal culture as morale infrastructure, especially at Fortuna.
 - Practical spirituality and improvised rituals around risk, birth, salvage, and death.
 
-Fortuna's children, animals, and growing pod neighborhoods make it feel like a permanent home. Metis's shipyard culture makes it feel like a machine shop that decided to become a town by accident.
+Fortuna's children, animals, and growing pod neighborhoods make it feel like a permanent home. Adama's shipyard culture makes it feel like a machine shop that decided to become a town by accident.
 
 ## The Belt and Returning Magic
 
@@ -129,11 +129,11 @@ The result is a gap between official records and lived reality:
 CAN invent:
 - Small named operators, station bars, repair shops, ship names, cargo schedules, festivals, maintenance rituals, slang, and non-central outposts.
 - Visual details for corridors, docks, surface yards, warehouses, and mining operations.
-- Practical tension between Mars, Fortuna, Metis, and smaller ships.
+- Practical tension between Mars, Fortuna, Adama, and smaller ships.
 
 SHOULD NOT invent:
-- Additional major stations that replace Fortuna or Metis as story anchors.
-- A second Metis location.
+- Additional major stations that replace Fortuna or Adama as story anchors.
+- A second Adama location.
 - Easy rescue timelines that contradict the weeks-to-months conventional travel model.
 - Magic explanations that bypass established returning-flux mechanics.
 
@@ -141,7 +141,7 @@ SHOULD NOT invent:
 
 - [[location_fortuna_station]]
 - [[fortuna_station_population_neighborhoods]]
-- [[location_metis_station]]
+- [[location_adama_station]]
 - [[location_mars_overview]]
 - [[tech_nuclear_ferries]]
 - [[magic_returning_arts]]
@@ -149,5 +149,5 @@ SHOULD NOT invent:
 
 ## Revision Notes
 
-- 2026-06-30: Expanded Mars-to-belt relationship. Clarified Fortuna as largest station and Metis as nearby shipbuilding station. Removed duplicate/conflicting Metis entries by treating Odysseus as the distant Jupiter Trojan post and Metis as the inner-belt shipyard.
+- 2026-06-30: Expanded Mars-to-belt relationship. Clarified Fortuna as largest station and Adama as nearby shipbuilding station. Removed duplicate/conflicting Adama entries by treating Odysseus as the distant Jupiter Trojan post and Adama as the inner-belt shipyard.
 - 2026-04-28: Major update from earlier station set.

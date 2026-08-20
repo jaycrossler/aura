@@ -84,7 +84,7 @@ He photographs them with his HUD camera. He runs searches — "crystalline fract
 
 He does not follow up. He keeps moving. He does not connect this to anything else until much later.
 
-**What this is:** A small manifestation that materialized in the tunnel, interacted with the robot's electronics, and dissipated. The fractal residue is the physical trace. This is the same material found at Metis Station. The information environment prevents any connection from being made.
+**What this is:** A small manifestation that materialized in the tunnel, interacted with the robot's electronics, and dissipated. The fractal residue is the physical trace. This is the same material found at Adama Station. The information environment prevents any connection from being made.
 
 ---
 

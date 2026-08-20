@@ -219,7 +219,7 @@ They explored her ship first. Her room on the *Victoria* looked almost completel
 
 Jace kept one hand on Cerberus's harness as they walked. Sophia asked him to name each observation as they moved. She scribbled furiously in a new notebook, sometimes uttering "Merde" or "Scheisse" when he pointed out something she hadn't realized before.
 
-"Physical metal is visible but not fully solid. Copper feels almost twice as weak as aluminum."
+"Physical metal is visible but not fully solid. Copper feels much harder to see through. It's easier to push my finger through aluminum then copper. The silver on door handles is almost impossible to see through and hard to move my hand through."
 
 "Hmm."
 

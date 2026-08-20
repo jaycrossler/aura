@@ -129,7 +129,7 @@ Behind them both, unbothered, Siren kept pace like she'd been doing it her whole
 <!-- beat:t01_departure_and_rounds.beat2_morning_routine -->
 Near the end of the fourth month, *Falcon's* ring had become his world.
 
-Metis Station lay off their forward quarter, though not along their path. Fortuna was seventeen days ahead, close enough now that ordinary conversation no longer required messages composed for a person who had already gone to bed.
+Adama Station lay off their forward quarter, though not along their path. Fortuna was seventeen days ahead, close enough now that ordinary conversation no longer required messages composed for a person who had already gone to bed.
 
 Jace learned *Falcon's* mornings by smell. Coffee and disinfectant near the galley. Hot polymer near the forge. Warm hay, wet feathers, and the steady evidence of mammalian digestion in the livestock pods. The ballast water followed him behind the walls, compensating for each footstep like a patient accountant.
 
@@ -274,7 +274,7 @@ Cerberus sat outside the module, vibrating with admiration.
 <!-- beat:t01_departure_and_rounds.beat3_birthday_and_game -->
 Artemis called that evening.
 
-Her face appeared above his workbench, live from Metis Station. No send queue. No stale timestamp. For the first time in five years, Jace could see his sister react to him in real time instead of receiving a polished answer to something he had said hours or days before.
+Her face appeared above his workbench, live from Adama Station. No send queue. No stale timestamp. For the first time in five years, Jace could see his sister react to him in real time instead of receiving a polished answer to something he had said hours or days before.
 
 "Happy birthday, little brother." Her crooked smile faltered and returned. "I know what today was supposed to look like. Captain's bars. Mom crying on the comm. All of it. I am sorry it looks like this instead."
 
@@ -357,7 +357,7 @@ Behind his left eye, the burning coal flared with migraine-inducing pain. OK, no
 | T-01.9 - Jace retrains his factory-reset HUD by playing Nick and loses every game | done | must_accomplish | beat3_birthday_and_game |
 | T-01.10 - No settlers travel; the Chinese mining crew withdrew and the cargo-heavy rotation loses money | done | must_accomplish | beat1_departure_burn |
 | T-01.11 - Mei leads animal care and Jace assists as the one-trip backup | done | must_accomplish | beat2_morning_routine |
-| T-01.12 - Artemis and Jace speak in real time near Metis for the first time in five years | done | must_accomplish | beat3_birthday_and_game |
+| T-01.12 - Artemis and Jace speak in real time near Adama for the first time in five years | done | must_accomplish | beat3_birthday_and_game |
 | T-01.13 - Maureen charges heavily for coffee, sugar, and fake cream and raises the price after Jace challenges her explanation | done | must_accomplish | beat2_morning_routine |
 | NEW - Chinese mining crew previously boarded and inspected the engine spaces and central spire before cancelling | done | must_accomplish | beat1_departure_burn |
 | NEW - Maureen's former Navy Chief service and shipbuilding history with Patrick are established | done | must_accomplish | beat1_departure_burn |

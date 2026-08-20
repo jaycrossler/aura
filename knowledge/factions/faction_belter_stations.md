@@ -53,12 +53,12 @@ The most complex orbital environment of the five — navigating the Sylvia syste
 
 See [[location_sylvia_station|Sylvia Station]]
 
-### Metis Station (9 Metis — Jupiter L4, D-type trojan, ~125km)
+### Adama Station (9 Adama — Jupiter L4, D-type trojan, ~125km)
 The farthest permanent human station, in the Jupiter trojan cluster at ~5.2 AU. Multinational consortium. Population approximately 80-150.
 
-Metis is a shipyard station at asteroid 9 Metis. It is highly advanced in magical exposure. The resonance flux front reached it early. Artemis Grant is stationed here. Communications with Metis degraded before other stations and will cut out first.
+Adama is a shipyard station at asteroid 9 Adama. It is highly advanced in magical exposure. The resonance flux front reached it early. Artemis Grant is stationed here. Communications with Adama degraded before other stations and will cut out first.
 
-See [[location_metis_station|Metis Station]]
+See [[location_adama_station|Adama Station]]
 
 ## Inter-Station Relations
 

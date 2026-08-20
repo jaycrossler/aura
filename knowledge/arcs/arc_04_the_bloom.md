@@ -67,7 +67,7 @@ At arc close, a Titan-Forge arrival signature is detected in the outer system. T
 During the months of transit, Sol continues. Sophia is the primary point of contact for Earth and Mars institutions. Nick is running the {Aura} distributed network. Fortuna is rebuilding from the Bloom ransack. The Kael Will message is in transit toward the Woven; ~year one of two. Nobody knows where Jace is except in outline.
 
 **Thread B — Eugene's Framework Advances**
-Eugene is at Metis. He has comms access to Fortuna when the relay is working. He is watching the data from Jace's pre-departure {Aura} syncs remotely, via the Metis-Fortuna relay. His theoretical framework is advancing. He is also, separately, working on `WHAT IS A SHIP FOR (REVISED)`. These two projects are converging in ways he has not stated aloud.
+Eugene is at Adama. He has comms access to Fortuna when the relay is working. He is watching the data from Jace's pre-departure {Aura} syncs remotely, via the Adama-Fortuna relay. His theoretical framework is advancing. He is also, separately, working on `WHAT IS A SHIP FOR (REVISED)`. These two projects are converging in ways he has not stated aloud.
 
 **Thread C — The Dungeon Seed Consumption**
 The Bloom consume the dungeon seed's stored Will during the transit. From their perspective this is resource gathering — the Will is unowned, therefore available. From Kael's perspective (observed from imprisonment), this is desecration. The process takes time. Its completion is a story beat in itself.

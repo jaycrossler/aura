@@ -42,7 +42,7 @@ local_authority: Station Commander (TBD)
 contested_by: [none at story start — this will change]
 
 # Connections
-travel_connections: [nuclear ferry from Mars (~4.5 months), inter-belt transits to Metis/Juno/Psyche/Sylvia (weeks to months)]
+travel_connections: [nuclear ferry from Mars (~4.5 months), inter-belt transits to Adama/Juno/Psyche/Sylvia (weeks to months)]
 strategic_significance: largest inner-belt station; food, smelting, manufacturing, mining coordination, comms relay before blackout
 
 # Cross-references
@@ -50,7 +50,7 @@ notable_inhabitants: [char_jace_apollo, char_nick_lee, char_mei, char_suzi, char
 associated_vessels_docked: [ship_victoria, ship_falcon]
 related_factions: [faction_belter_stations, faction_megacorps, faction_american_red_party, faction_china_belt_operations]
 related_ships: [ship_falcon, ship_victoria]
-related_locations: [fortuna_station_population_neighborhoods, location_metis_station, location_asteroid_belt_overview]
+related_locations: [fortuna_station_population_neighborhoods, location_adama_station, location_asteroid_belt_overview]
 related_events: [event_jace_arrives_fortuna, event_communications_blackout, event_first_magical_incident_fortuna, event_helena_disappearance, event_china_belt_withdrawal]
 ---
 
@@ -248,7 +248,7 @@ Surface and spine-adjacent warehouses contain:
 - Mining robot parts.
 - Emergency shelter kits.
 - Expansion Ring modules.
-- Ship repair components bound for Metis.
+- Ship repair components bound for Adama.
 
 Warehouses are dim, cold, and huge. Humans visit in pressure suits, low-pressure work gear, or sealed carts. Robots do most inventory movement.
 
@@ -452,14 +452,14 @@ SHOULD NOT invent:
 - Population above the established order of magnitude without explicit author approval.
 - Real windows dominating ring corridors.
 - Single-point life-support failures where triple redundancy should apply.
-- Easy conventional rescue from Mars or Metis during urgent events.
+- Easy conventional rescue from Mars or Adama during urgent events.
 - Clean corporate perfection. Fortuna is competent, but it is patched, busy, and stretched.
 
 ## Cross-References
 
 - [[fortuna_station_population_neighborhoods]]
 - [[location_asteroid_belt_overview]]
-- [[location_metis_station]]
+- [[location_adama_station]]
 - [[ship_falcon]]
 - [[ship_victoria]]
 - [[char_jace_apollo]]

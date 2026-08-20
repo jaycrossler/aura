@@ -4,7 +4,7 @@ name: "Chapter 22. Quiet Companion"
 type: chapter_draft
 book: book01
 chapter: Ch22
-scene_contract: X-01b {Aura} installation, X-04e silver/copper survey, P-04 unlisted room ambiguity, L-07 Metis degradation (deferred), N-03 AI degradation
+scene_contract: X-01b {Aura} installation, X-04e silver/copper survey, P-04 unlisted room ambiguity, L-07 Adama degradation (deferred), N-03 AI degradation
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
@@ -267,4 +267,4 @@ Cerberus lifted his head from the foot of the bunk, decided nothing interesting 
 | NEW — {Aura} surfaces two unclassified signatures from the unlisted room (sustained combustion; something structurally inconsistent with equipment), explicitly presented as incomplete data, not conclusions | done |
 | NEW — Jace's suspicion is written to exclude Jin's known crew explicitly, preserving the later reveal that Jin's crew are allies; the unlisted room's occupants remain faceless and unconfirmed | done |
 | NEW — Jace places a custom order at the Foundry for base-material components matching an old chip's footprint, explained to no one, seeding a future reveal | done |
-| ⚠️ DEFERRED — Artemis/Metis semantic-gap message (L-07) is not included this pass; recommend placing it in Ch23 or a dedicated beat so it isn't crowded out by this chapter's new material | deferred |
+| ⚠️ DEFERRED — Artemis/Adama semantic-gap message (L-07) is not included this pass; recommend placing it in Ch23 or a dedicated beat so it isn't crowded out by this chapter's new material | deferred |

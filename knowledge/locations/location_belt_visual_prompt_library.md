@@ -1,5 +1,5 @@
 ---
-description: "Reusable image prompts and descriptive vignettes for Fortuna Station, Metis Station, and inner-belt industrial life."
+description: "Reusable image prompts and descriptive vignettes for Fortuna Station, Adama Station, and inner-belt industrial life."
 id: location_belt_visual_prompt_library
 name: Belt Visual Prompt Library
 type: visual_prompt_library
@@ -7,7 +7,7 @@ parent_location: location_asteroid_belt_overview
 status: draft
 canonical: true
 last_updated: 2026-06-30
-related_locations: [location_fortuna_station, fortuna_station_population_neighborhoods, location_metis_station, location_asteroid_belt_overview]
+related_locations: [location_fortuna_station, fortuna_station_population_neighborhoods, location_adama_station, location_asteroid_belt_overview]
 ---
 
 # Belt Visual Prompt Library
@@ -120,31 +120,31 @@ An asteroid-surface airlock entrance with electrostatic dust screens, suit racks
 
 A low-g exterior yard with ore bins, carbonaceous material hoppers, volatile tanks, and sealed transfer lines. Mining robots deliver canisters while cargo crawlers move slowly between beacons. The black sky and hard sunlight emphasize the vacuum. The visual focus is scale, stored material, and industrial discipline.
 
-## Metis Station Prompts
+## Adama Station Prompts
 
-### 23. Metis Shipyard Surface
+### 23. Adama Shipyard Surface
 
-A low-gravity shipyard on the surface of asteroid 9 Metis, with two partially completed spacecraft hulls held in giant anchored cradles. The asteroid surface is dark, dusty, and uneven. Vacuum-rated gantries, robotic welders, pressure test rigs, tether rails, tool lockers, and work lights surround the hulls. Suit crews move slowly on tethers while large construction robots handle heavy components. The scene should look like a real shipyard adapted to vacuum, not a sleek space fantasy dock.
+A low-gravity shipyard on the surface of asteroid 9 Adama, with two partially completed spacecraft hulls held in giant anchored cradles. The asteroid surface is dark, dusty, and uneven. Vacuum-rated gantries, robotic welders, pressure test rigs, tether rails, tool lockers, and work lights surround the hulls. Suit crews move slowly on tethers while large construction robots handle heavy components. The scene should look like a real shipyard adapted to vacuum, not a sleek space fantasy dock.
 
 ### 24. The Rock Corridor
 
-A pressurized tunnel inside Metis Station, about 3 meters wide with rough rock behind reinforced panels, exposed but orderly conduits, scuffed floor plates, and pressure doors with hand-marked maintenance notes. Workers in heavy coveralls and emergency breathers pass a cargo robot carrying hull brackets. Lighting is practical and slightly harsh. The space feels like a mine, machine shop, and submarine combined.
+A pressurized tunnel inside Adama Station, about 3 meters wide with rough rock behind reinforced panels, exposed but orderly conduits, scuffed floor plates, and pressure doors with hand-marked maintenance notes. Workers in heavy coveralls and emergency breathers pass a cargo robot carrying hull brackets. Lighting is practical and slightly harsh. The space feels like a mine, machine shop, and submarine combined.
 
 ### 25. The Throat Docking Corridor
 
-The main docking corridor at Metis Station during a Fortuna supply arrival. Cargo pallets, sealed food crates, oxygen bottles, ship parts, and personal duffels crowd the walls. A pressure door cycles in the distance. Crew members check manifests while robots move crates. The corridor is functional, crowded, and slightly dirty, with no attempt at civic beauty.
+The main docking corridor at Adama Station during a Fortuna supply arrival. Cargo pallets, sealed food crates, oxygen bottles, ship parts, and personal duffels crowd the walls. A pressure door cycles in the distance. Crew members check manifests while robots move crates. The corridor is functional, crowded, and slightly dirty, with no attempt at civic beauty.
 
 ### 26. Ship Design Room
 
-A cramped ship design room inside Metis Station, with rugged screens, physical printouts, hull diagrams, spare parts, mugs, cable trays, and a large table covered in system schematics. Artemis Grant and other engineers could plausibly work here. The room is practical, slightly chaotic, and deeply competent.
+A cramped ship design room inside Adama Station, with rugged screens, physical printouts, hull diagrams, spare parts, mugs, cable trays, and a large table covered in system schematics. Artemis Grant and other engineers could plausibly work here. The room is practical, slightly chaotic, and deeply competent.
 
 ### 27. Pressure Test Bay
 
-A Metis pressure test bay with a ship module sealed behind thick protective doors. Engineers watch readouts from a hardened control booth. The bay is scarred from past tests, with warning stripes, bolted floor plates, hoses, pressure gauges, and emergency shutters. Robots stand clear during the test window. The scene should feel dangerous and routine at the same time.
+A Adama pressure test bay with a ship module sealed behind thick protective doors. Engineers watch readouts from a hardened control booth. The bay is scarred from past tests, with warning stripes, bolted floor plates, hoses, pressure gauges, and emergency shutters. Robots stand clear during the test window. The scene should feel dangerous and routine at the same time.
 
 ### 28. Siege Tunnel
 
-A Metis tunnel converted into an improvised defensive position. Tool carts, pressure panels, cargo crates, welding screens, and emergency lights create barricades. The lighting is low and harsh. Workers look exhausted but disciplined. The scene feels like a shipyard under siege using its own infrastructure as defense.
+A Adama tunnel converted into an improvised defensive position. Tool carts, pressure panels, cargo crates, welding screens, and emergency lights create barricades. The lighting is low and harsh. Workers look exhausted but disciplined. The scene feels like a shipyard under siege using its own infrastructure as defense.
 
 ## Negative Prompt Guidance
 

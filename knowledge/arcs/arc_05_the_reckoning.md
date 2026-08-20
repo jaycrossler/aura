@@ -129,7 +129,7 @@ the joke it initially appeared to be.
 
 His response to the revelation was to spend eleven months answering his own question.
 
-The Metis shipyard, which was already the most technically capable facility in
+The Adama shipyard, which was already the most technically capable facility in
 the outer inner belt, has undergone a transformation that the belt's engineering
 community is still processing. Eugene began by Templating the yard's infrastructure
 — first individual components, then structural assemblies, then the fabrication
@@ -141,7 +141,7 @@ The first technomagic ship — a working vessel with an integrated Astral drive
 system, Templated structural components, and a Will-capacitance hull designed
 to use crossing mechanics for propulsion rather than chemical or nuclear thrust —
 is not finished. It is approximately 60% complete. It is also approximately eight
-times larger than anything the Metis yards previously attempted, and it has a
+times larger than anything the Adama yards previously attempted, and it has a
 waiting list of organizations trying to commission the next one.
 
 Eugene has not named the ship. He refers to it as "the project." The yard crew
@@ -675,7 +675,7 @@ He does not revisit it until the next arc.
 - `faction_galactic_species_index` — all external factions referenced here
 - `faction_outsider_scouts` — Kael's sibling faction specifics (TBD)
 - `faction_titan_forge` — Long-Settled Account; dungeon debt
-- `location_metis_station` — Eugene's yards; *Overkill* construction
+- `location_adama_station` — Eugene's yards; *Overkill* construction
 - `magic-systems/advancement_ledger.md` — Arc 4–5 advancement events (Jace's captivity development)
 - `SERIES_BIBLE.md` — no easy immortality; no stupid institutions; physician disruption thread
 

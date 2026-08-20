@@ -69,7 +69,7 @@ A media-literate user in 2105 has to actively triangulate across these layers. M
 
 Each {Aura} is shaped by its user's history. Two Auras asked the same question will return subtly different answers, weighted toward each user's interests, expertise, and (worryingly, increasingly) their existing beliefs. Echo chambers in 2105 are softer and more pervasive than in 2025 — they are not platform-specific; they are personal, mediated by the AI you have spent years shaping.
 
-This is one of the major intellectual themes the story can engage. Jace's {Aura} tells him certain things; Mei's {Aura} tells her different things; Artemis's {Aura} at Metis has been telling her things she has not been ready to believe. None of these Auras are lying. They are reflecting what they think their user wants and can absorb.
+This is one of the major intellectual themes the story can engage. Jace's {Aura} tells him certain things; Mei's {Aura} tells her different things; Artemis's {Aura} at Adama has been telling her things she has not been ready to believe. None of these Auras are lying. They are reflecting what they think their user wants and can absorb.
 
 ## What Users Do With All This
 

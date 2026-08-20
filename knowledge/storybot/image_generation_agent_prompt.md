@@ -436,7 +436,7 @@ When the work queue is large, process in this priority order:
    Start with: cryptid species (Dipper, Tick-Maw, Queen, Scar Wolf),
    then Bloom, then galactic species.
 
-5. **Location concepts/maps** — Fortuna Station first, then Metis, then ships.
+5. **Location concepts/maps** — Fortuna Station first, then Adama, then ships.
 
 6. **Faction sigils/concepts** — House of Hermes, Titan-Forge, the Bloom,
    Ra faction, Indra faction.

@@ -27,7 +27,7 @@ canonical: false
 
 ## Overview
 
-Jace has approximately six days (less than he thought — the message was three weeks old) to assemble the items on Artemis's list, get them to the Rat, and have them loaded onto an unmanned supply ship to Metis Station. He does this while also working his regular gig jobs, because he cannot afford not to. He is exhausted, broke, running on {Aura}-assisted logistics coordination, and increasingly aware that whatever is happening at Odysseus is worse than a supply problem.
+Jace has approximately six days (less than he thought — the message was three weeks old) to assemble the items on Artemis's list, get them to the Rat, and have them loaded onto an unmanned supply ship to Adama Station. He does this while also working his regular gig jobs, because he cannot afford not to. He is exhausted, broke, running on {Aura}-assisted logistics coordination, and increasingly aware that whatever is happening at Odysseus is worse than a supply problem.
 
 This is the most active and outwardly directed week of his hard months — and the week he is most ashamed of, because part of it involves theft.
 
@@ -102,7 +102,7 @@ He knows about Jace before Jace introduces himself:
 > Rat: "I know what's valuable out there. She knows what's valuable out there. You asked about the wrong thing first."
 
 **The Rat's offer:**
-He can get Jace a 2x2x2 meter slot on the next unmanned supply ship to Metis. The ship leaves in eight days from the Mars launch facility. The slot has to be loaded and sealed in six days. He takes twenty percent of declared cargo value, or a flat fee — Jace can choose. Given the coffee, the flat fee is better. The Rat names a number that is uncomfortable but survivable on Jace's current cash.
+He can get Jace a 2x2x2 meter slot on the next unmanned supply ship to Adama. The ship leaves in eight days from the Mars launch facility. The slot has to be loaded and sealed in six days. He takes twenty percent of declared cargo value, or a flat fee — Jace can choose. Given the coffee, the flat fee is better. The Rat names a number that is uncomfortable but survivable on Jace's current cash.
 
 **The Rat's character in this meeting:**
 He is the "heart of gold, pocket of more gold" version: he genuinely wants to help Jace get this to Artemis. He also is going to make his twenty percent. Both are real. Neither cancels the other. When Jace expresses concern about the warehouse item, the Rat doesn't lecture him about it — he gives Jace the layout, gives him the window, and says:

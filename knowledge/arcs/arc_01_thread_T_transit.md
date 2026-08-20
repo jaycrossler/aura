@@ -188,15 +188,15 @@ fights the hatchling Dippers — killing one (second Will orb, unregistered),
 losing one through the bulkhead. {Alex} fines him; Lanchee's diagnostic
 intuition beat seeds early manifestations. He tells no one and patrols daily.
 
-#### T-02c — Something at the Edge (Metis-route encounter)
+#### T-02c — Something at the Edge (Adama-route encounter)
 
 **Summary:** During the Falcon's transit, on a routine EVA or sensor check
-near the Metis-adjacent leg of the route, Jace catches a glimpse of
+near the Adama-adjacent leg of the route, Jace catches a glimpse of
 something wrong — motion, a texture in the dark that isn't debris, gone
 before instruments confirm it. He logs it as sensor ghosting or
 micrometeorite dust and moves on. In hindsight (post-S-01), this was an
 early, unrecognized brush with the Queen's seeding campaign — an outrider
-or transport-phase colonial fauna near Metis, not Fortuna.
+or transport-phase colonial fauna near Adama, not Fortuna.
 
 **Must accomplish:**
 1. Genuinely ambiguous in the moment — Jace has no framework yet; this

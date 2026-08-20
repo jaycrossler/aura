@@ -52,7 +52,7 @@ compresses at approximately **distance-squared** relative to physical space.
   the outer asteroid belt, ~3–4 AU)
 - Temperature near Fortuna: approximately **-20°C** — cold but survivable, not vacuum
 - Contains fauna, dimensional algae, and Scar-blighted terrain in varying degrees
-- Fortuna → Metis: ~80 million km physical; **~9,000 km Astral**
+- Fortuna → Adama: ~80 million km physical; **~9,000 km Astral**
 
 ### Hyperspace (dist³ layer — 5th dimension)
 
@@ -64,13 +64,13 @@ asteroid belt and beyond). Distance compresses at **distance-cubed**.
   anchor disappears. Practitioners describe it as stepping off a cliff into open sea.
 - Dramatically more dangerous than the Astral: worse fauna, more extreme geometry,
   higher atomic tension over distance
-- Fortuna → Metis: ~80 million km physical; **~450 km Hyperspace**
+- Fortuna → Adama: ~80 million km physical; **~450 km Hyperspace**
 
 **Distance table:**
 
 | Journey                         | Physical       | Astral (dist²) | Hyperspace (dist³) |
 |---------------------------------|----------------|----------------|--------------------|
-| Fortuna → Metis                 | ~80 million km | ~9,000 km      | ~450 km            |
+| Fortuna → Adama                 | ~80 million km | ~9,000 km      | ~450 km            |
 | Sun → outer planets             | ~30–50 AU      | ~1 month foot  | — (gravity well)   |
 | Solar system → Proxima Centauri | 4.2 ly         | —              | ~1 week foot       |
 | Solar system → Scar boundary    | ~800+ ly       | —              | ~1 month foot      |
@@ -779,7 +779,7 @@ biological beings. Military forces moving 100 light-years would require approxim
 
 ---
 
-**Kael and Jace to Metis:** Kael provides movement force for two people while managing
+**Kael and Jace to Adama:** Kael provides movement force for two people while managing
 her own atomic tension. Jace experiences atomic tension without the Will capacity to
 manage it. Two days of this is genuinely brutal for both.
 

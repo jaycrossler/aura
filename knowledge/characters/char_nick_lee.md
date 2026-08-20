@@ -85,7 +85,7 @@ When Jace arrives at Fortuna (Ch07), they meet in person for the first time in t
 {Aura} is not a single AI. It is a curated stack of approximately 150 interlocking
 components Nick has assembled, tuned, and maintained over years. He built on top of
 an anonymous codebase not knowing its author is Eugene — a large, belligerent scientist
-at Metis Station who built the core engine as an open-source tool and is vaguely aware
+at Adama Station who built the core engine as an open-source tool and is vaguely aware
 that "someone-like-Nick" has been doing useful wiring work with it.
 
 When they eventually meet, the recognition will be asymmetrical in every possible way.

@@ -157,7 +157,7 @@ Sophia stared at Jace.
 
 "You said twenty."
 
-"My hypothesis was that together should divide the effort. Not that much."
+"My hypothesis was that together should divide the effort. But not by that much."
 
 Jace took the bottle and inspected the regulator.
 
@@ -263,7 +263,7 @@ At the inn, Jace's room appeared through three walls at once.
 
 "What if we can't get back?" he asked.
 
-"You can. Bodies remember."
+"I did. You can. Bodies remember."
 
 "That sounds spiritual."
 
@@ -315,7 +315,7 @@ Cerberus lay in his arms. Both masks remained sealed. The room clock read 0238. 
 
 Jace removed the mask and stared at the ceiling.
 
-"Thanks," he said and waved at the air. He felt foolish.
+"Thanks," he said and waved at the empty air where she had been... or where he had come from? He felt foolish.
 
 Solid. Flat. Ordinary.
 

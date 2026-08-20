@@ -81,7 +81,7 @@ secret intelligence arrangement.
 - [[location_mars_livestock_farm|Mars Livestock Farm — Terminus Underground, Level 2–3]]
 - [[location_mars_overview|Mars (Inhabited World Overview)]]
 - [[location_mars_us_afspace_force_base|U.S. Air Force / Space Force Joint Base (Terminus)]]
-- [[location_odysseus_station|Metis Station]]
+- [[location_odysseus_station|Adama Station]]
 - [[location_pangu|Pangu]]
 - [[location_psyche_station|Psyche Station]]
 - [[location_sylvia_station|Sylvia Station]]

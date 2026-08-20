@@ -202,7 +202,7 @@ His HUD flared hot behind his left eye. Blue targeting brackets appeared on bare
 
 Something moved beyond the next frame. Something robotic.
 
-It was taller than the cavity allowed. Black joints folded the wrong way. Two red lights opened above hooked appendages, and a sharp, ridged shape pulled itself soundlessly out of the ice toward him, faster than anything that size should have been able to move in that little space. Even in his space suit, the hair on the back of his neck stood straight up.
+It was taller than the cavity allowed. Black joints folded the wrong way. Two red lights opened above hooked appendages like camera indicators, and a sharp, ridged shape pulled itself soundlessly out of the ice toward him, faster than anything that size should have been able to move in that little space. Even in his space suit, the hair on the back of his neck stood straight up.
 
 Jace didn't think. The torch was already lit, already in his hand, still trailing a curl of vaporized ice from the ragged hatch edge he'd been cutting a second earlier. He swept the burning plasma through the shape the way you'd swing a bar at something in the dark. Not aimed, just swiped, just fast.
 

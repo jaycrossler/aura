@@ -17,13 +17,13 @@ This section organizes the universe's unresolved details, narrative forks, and d
 
 - **S-01 Swarm Contract Verification:** The Arc 1 climax scene contract in [[arc_01_thread_S_swarm]] still carries a "full stage text not fully retrieved — verify" flag. Book 1 cannot be drafted to its ending on an unverified contract. Reassemble the full 4-stage contract against pre-restructure sources.
 - **Kim's Will-Spear Emergence (seeding):** Kim's decisive power moment in S-01 is currently unseeded (L-08 is only a proposed slot). Unseeded, it reads as chosen-one/deus ex machina. Formalize L-08 (mid-arc migraine beat, framed mundanely) and promote the S-01 author-note candidates (Kim, Mira's summons) to contract items or cut them.
-- **Open Decision #8b — Astral Light-Speed Physics:** Blocks X-10 and underpins Metis travel-time math in Arc 2. Recommended framing: X-05a = Jace's early incomplete hypothesis; rotating-mirror result = Sophia's later correction. Universe-spec-level; needs explicit author sign-off.
+- **Open Decision #8b — Astral Light-Speed Physics:** Blocks X-10 and underpins Adama travel-time math in Arc 2. Recommended framing: X-05a = Jace's early incomplete hypothesis; rotating-mirror result = Sophia's later correction. Universe-spec-level; needs explicit author sign-off.
 - **Military Reinforcement Timing at S-01:** Deliberately TBD per [[timeline_disclosure_political_response]], but load-bearing for Arc 1's close and Arc 2's opening politics. Suggested: they arrive **too late** — political chaos cost time Fortuna knows it paid for; accelerates Belter identity without rewriting the drafted fight.
 - **Mei/Sylvester Retcon Matching Pass:** Jace no longer knows Mei is a U.S. asset at departure (ruled 07-19); [[char_mei]] and [[char_mr_sylvester]] plus draft_ch01/ch02 have not been synced. Touches already-drafted early chapters.
 - **Station Governance Conflict (Commander vs. Council):** [[location_fortuna_station]] frontmatter says `local_authority: Station Commander (TBD)`; canonical [[tech_fortuna_ai_systems]] establishes no single commander — a Human/AI Council (51/49). ⚠️ CONFLICT, not just an open question. Suggested resolution: no commander; an Origin-appointed **Station Director** chairs the human bloc (gives Suzi a superior and the anomaly-suppression a face). Awaiting ruling; then fix the location frontmatter.
 
 ### Medium Priority (Arc 2 — The Woven & Dungeon Emergence)
-*These questions affect the Woven first contact, early dungeons on Earth/Mars, and the Metis Station rescue.*
+*These questions affect the Woven first contact, early dungeons on Earth/Mars, and the Adama Station rescue.*
 
 - **Dungeon Systems & Guardians (from [spec_dungeon_systems.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_dungeon_systems.md)):** Which specific dungeon types are active in the solar system beyond the ~3,200 YA candidate-testing outposts?
 - **Will-Bonded Animals (from [spec_will_bonded_animals.md](file:///D:/Projects/aura/knowledge/universe-spec/spec_will_bonded_animals.md)):** Will Cerberus's bond formalize in Arc 3? Does Kai bond with anyone while Kael is held?
@@ -48,7 +48,7 @@ This section organizes the universe's unresolved details, narrative forks, and d
 - **`char_major_barnes.md`** — referenced in the discharge reframe; no file.
 - **American Red party faction file** — canonized 2026-07-21; no file.
 - **`magic_will_orbs.md`** — flagged in [[magic_breach_crossers_transient]] propagation checklist; still missing. Canonical term is **Will orb** (author ruling 2026-07-28; "skill orb" deprecated).
-- **Metis Mop-Up Front (Arc 2) — needs a scene contract.** Jace + Kael clear the leaderless Metis-site fauna; several Metis survivors have already manifested via mass-release from wave casualties before Jace/Kael arrive. Not yet drafted as a scene; flagged for Arc 2 session.
+- **Adama Mop-Up Front (Arc 2) — needs a scene contract.** Jace + Kael clear the leaderless Adama-site fauna; several Adama survivors have already manifested via mass-release from wave casualties before Jace/Kael arrive. Not yet drafted as a scene; flagged for Arc 2 session.
 
 *(Removed: senior animal handler stub — flavor trivia, not load-bearing.)*
 
@@ -75,7 +75,7 @@ This checklist tracks logical and narrative tests from the story arc documents t
 - [ ] **Galactic Context:** Help the reader understand what galactic Will-Network civilizations are and why humanity doesn't fit their frameworks.
 - [ ] **Kael's Character:** Establish Kael's conflict between protocol and conscience, resolving it in humanity's favor at the cost of her life.
 - [ ] **The Bloom:** Introduce the Bloom as a second outsider faction (alien, non-hostile, incomprehensible).
-- [ ] **Metis Rescue:** Draft the Metis rescue mission to establish Artemis as a major practitioner and introduce Dr. Eugene Hart.
+- [ ] **Adama Rescue:** Draft the Adama rescue mission to establish Artemis as a major practitioner and introduce Dr. Eugene Hart.
 - [ ] **Dungeon Emergence:** Establish dungeon emergence on Earth and Mars as a separate but converging threat (introducing five POV characters, only one of whom survives).
 - [ ] **Jace's Imprisonment:** Conclude Arc 2 with Jace's imprisonment by the Bloom, creating stakes about being absorbed into a hierarchy.
 - [ ] **Aura HUD Recording:** Establish `{Aura}`'s recording of the Bloom transit as a future asset for Arc 3.
@@ -84,7 +84,7 @@ This checklist tracks logical and narrative tests from the story arc documents t
 
 ## 4. Resolved Issues
 
-- **Queen Mechanics Overhaul (2026-07-28):** Queen ruled as a dual-existence entity (Astral + physical simultaneously); shield passes unrefined wood/stone/bone, blocks all refined/composite materials AND physical-realm damage. Sophia's father (French craftsman) and wood pen backstory added. Mass Will release ("puddle") mechanic added for large-creature deaths. Queen's seeding campaign extended to Metis, setting up Arc 2's mop-up front. New Thread T scene (T-02c) added for Jace's early, unrecognized Metis-route sighting.
+- **Queen Mechanics Overhaul (2026-07-28):** Queen ruled as a dual-existence entity (Astral + physical simultaneously); shield passes unrefined wood/stone/bone, blocks all refined/composite materials AND physical-realm damage. Sophia's father (French craftsman) and wood pen backstory added. Mass Will release ("puddle") mechanic added for large-creature deaths. Queen's seeding campaign extended to Adama, setting up Arc 2's mop-up front. New Thread T scene (T-02c) added for Jace's early, unrecognized Adama-route sighting.
 - **Priority List Audit (2026-07-28):** Demoted Workshop Automation Cascade and Epigraph Audit to drafting-time notes; removed animal-handler stub; elevated S-01 verification, Kim seeding, Open Decision #8b, military timing, Mei retcon pass; converted Station Commander question into a flagged governance conflict.
 - **Transit Pacing Bridge (2026-07-28):** Added the Spire chapter ([[event_t_spire_eggs]]) — hatchling fight, second Will orb, waking perception bleed, Lanchee manifestation seed. Ruled: the plumbing-crisis Dipper crossed to **nest**; eggs hatch on approach; still a single self-terminating incursion. Canonical term "Will orb" affirmed.
 - **Cerberus's Will-Glow & Canine Astral Perception (2026-07-27):** Defined Cerberus's glow as Warm Amber/Bronze (mirroring Jace's base color family in an organic, non-geometric form). Documented canine Astral perception operating as an aura-scent and thermal gradient rather than human visual geometries.
@@ -103,7 +103,7 @@ This checklist tracks logical and narrative tests from the story arc documents t
 - **A-02/L-01 Evening Run Consolidation (2026-07-19):** Merged duplicate scene contracts for Jace's evening run into a single canonical L-01 contract.
 - **Disentangling Jace's Mars Backstory:** Handled by removing the old control configuration files (`story-structure.yaml`, `scene-registry.yaml`, etc.) to deconflict the old story chapters.
 - **U.S. Intelligence & Military Apparatus:** Resolved by drafting [faction_united_states_military_intelligence.md](file:///d:/Projects/aura/knowledge/factions/faction_united_states_military_intelligence.md) outlining Martian bases, doctrine, and intelligence assets.
-- **Artemis Stationing (Métis vs. Odysseus Inconsistency):** Resolved by globally shifting all Artemis/smuggling target locations to Metis Station, standardizing the "Metis" spelling without accents, and reserving Odysseus Station exclusively for the Jupiter L4 Trojan asteroid science outpost.
+- **Artemis Stationing (Métis vs. Odysseus Inconsistency):** Resolved by globally shifting all Artemis/smuggling target locations to Adama Station, standardizing the "Adama" spelling without accents, and reserving Odysseus Station exclusively for the Jupiter L4 Trojan asteroid science outpost.
 - **AI Curly Braces Violations:** Systematically ran global script formatting to ensure in-universe AI names (`{Aura}`, `{Alex}`, `{Penny}`, `{Gem}`, `{Chorus}`, `{Seek}`, `{Misty}`, `{SpoX}`) are enclosed in curly braces `{}` in all prose blocks.
 
 ---

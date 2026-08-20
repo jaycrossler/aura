@@ -20,7 +20,7 @@ follows: arc_02_woven_and_unbound
 
 ## Opening Condition
 
-Jace, Kael, Kai, and Cerberus return to Fortuna from the Metis rescue. Artemis is evacuated and receiving care. Fortuna is battered but intact. Jin held the station. The team is together for the first time.
+Jace, Kael, Kai, and Cerberus return to Fortuna from the Adama rescue. Artemis is evacuated and receiving care. Fortuna is battered but intact. Jin held the station. The team is together for the first time.
 
 ## Closing Condition
 
@@ -70,7 +70,7 @@ These five characters, introduced in Arc 2, are continuing their independent dun
 The Bloom POV section is this arc's unique structural element. The reader sees the Bloom observing the Will expenditure from Kael's dungeon work and deciding to set a trap. Their motivations are legible through {Aura}'s partial chromatophore decodes from Arc 2 — growth, protection, gathering — but their reasoning is alien enough to be unsettling rather than reassuring.
 
 **Thread D — The Rocket Sled Iteration**
-Between Metis and the Mars trip and the return, Jace rebuilds the rocket sled three times. Each iteration is faster and more controlled. Kael starts asking for specific modifications — a wider platform, a tether point, something to carry supplies. She is solving problems she hasn't encountered yet. The reader tracks this as toolchain progression; by the arc's end it is a real vehicle.
+Between Adama and the Mars trip and the return, Jace rebuilds the rocket sled three times. Each iteration is faster and more controlled. Kael starts asking for specific modifications — a wider platform, a tether point, something to carry supplies. She is solving problems she hasn't encountered yet. The reader tracks this as toolchain progression; by the arc's end it is a real vehicle.
 
 ---
 
@@ -109,11 +109,11 @@ Between Metis and the Mars trip and the return, Jace rebuilds the rocket sled th
 **Must accomplish:**
 1. Jin's defensive competence is shown through what Fortuna looks like — he held it, and the evidence is visible
 2. The team's arrival is low-key, not triumphant — they are exhausted, and Fortuna is battered
-3. Eugene is NOT at Fortuna — he stayed at Metis, by Kael's decision. His absence
+3. Eugene is NOT at Fortuna — he stayed at Adama, by Kael's decision. His absence
    should be noted: Jace tells Nick that Eugene exists, and Nick's reaction to learning
-   the author of the core engine is alive, at Metis, and has been filing Nick's
+   the author of the core engine is alive, at Adama, and has been filing Nick's
    messages to spam is the scene's comedy payload. The first direct Eugene/Nick
-   interaction is deferred until the Falcon rescue of Metis.
+   interaction is deferred until the Falcon rescue of Adama.
 
 **Must NOT do:**
 - Give this scene false triumph — the celebration comes later; this is reunion
@@ -152,12 +152,12 @@ Between Metis and the Mars trip and the return, Jace rebuilds the rocket sled th
 ### Scene B-05 — The Three-Day Transit to Mars
 
 **Mechanics:**
-- The Mars transit is longer than the Metis transit and meaningfully different — Mars is inner system, the route passes through denser Astral terrain and pockets of Scar mist that have not yet fully cleared
+- The Mars transit is longer than the Adama transit and meaningfully different — Mars is inner system, the route passes through denser Astral terrain and pockets of Scar mist that have not yet fully cleared
 - Kael navigates around the mist pockets; she explains what they are and why they are dangerous in the specific register of someone who has watched people die in mist
 - The mist explanation is the scene's core worldbuilding payload
 
 **Must accomplish:**
-1. The Hyperspace transit to Mars is shown as genuinely beautiful and genuinely dangerous — not the same experience as the Metis run; different terrain, different scale
+1. The Hyperspace transit to Mars is shown as genuinely beautiful and genuinely dangerous — not the same experience as the Adama run; different terrain, different scale
 2. Kael's mist explanation is given in transit — practical, without sentiment, the kind of explanation a guide gives when the stakes of ignorance are real
 3. Jace's engineering questions about the mist meet a wall: this is not a system he can fix with aluminum tubing; Kael's answers make this clear without rubbing it in
 
@@ -347,7 +347,7 @@ The section closes with the Bloom in position.
 - `faction_the_bloom` — their POV section; trap mechanics; the dungeon seed theft in Arc 4
 - `spec_dungeon_systems` — dungeon inheritance mechanics; stabilization process
 - `faction_outsider_scouts` — Kael's Will message is in transit; the two-year clock is running
-- `location_metis_station` — Eugene remains here through Arc 3; Falcon rescue TBD
+- `location_adama_station` — Eugene remains here through Arc 3; Falcon rescue TBD
 
 ## Revision Notes
 
