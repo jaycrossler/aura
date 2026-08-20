@@ -38,12 +38,20 @@ cross_references:
 
 # Chapter 23. No Vampires
 
-> *Athena: I can't beleive you, the AI hater, but an AI in their head.*
+> *Athena: I can't beleive you, the AI hater, put an AI in your head.*
 >
 > *Apollo: {Aura} says 'Subborn all humans. Conquer! Destroy!'.*
 >
 > *Athena: God, your jokes are worse than dads. Still no Artemis?*
 >
+
+
+TODO: Add a hunt of the creature, where Sophia and Jace destroy it. They can't only get Nikos to cross over, so he waits in the ship and they hunt down and kill it.
+
+
+Later (maybe another chapter):
+
+##--------
 
 The first version of the proposal lasted four minutes in Lanchee's hands.
 
@@ -75,57 +83,23 @@ Sophia picked up her father's pen, aligned it with the edge of the tablet, and s
 
 "Close the door," she said.
 
-...
-
 Lanchee closed it.
 
 Sophia told her.
 
 Not every theory. Not the Chinese room, the missing ships, or what the creature might be doing to station systems. She told Lanchee every fact that could change a medical decision.
 
-Their bodies crossed completely into an adjacent environment. They brought their clothing, implants, masks, and whatever equipment they could transfer. The environment was cold and could hold trapped carbon dioxide. Physical walls became permeable and transparent. Human bodies did not remain asleep in the Real. Jace and Sophia left it.
-
-They had crossed more than fifty times between them.
-
-Sophia had nearly run out of oxygen after separating from Fortuna's motion. A creature had cut Jace through no physical opening. Jace had twice drawn energy through contact without intending to, first from Sophia and then from {Misty}. The second accident had damaged an AI stack that no physical diagnostic had predicted was at risk.
+Their bodies crossed completely into an adjacent environment. They brought their clothing, implants, masks, and whatever equipment they could transfer. The environment was cold and could hold trapped carbon dioxide. Physical walls became permeable and transparent.
 
 Lanchee did not interrupt.
 
 When Sophia finished, the clinic office seemed very small.
 
-"Can you prove any of this without asking me to cross?" Lanchee asked.
+"Can you prove any of this?" Lanchee asked.
 
-"Yes," Jace said.
+"Yes," Jace said, shimmering and appearing into the space next to them.
 
-They moved to an empty examination room. Sophia placed a physical camera on Jace, verified his pulse and body temperature, and set one shoe on a scale. Jace put on his mask, lay down, and crossed.
-
-His weight vanished from the scale.
-
-The room camera recorded his clothing, breathing mask, implant hardware, and body disappearing over several minutes. The process was slow enough to look less like a trick than a medical emergency.
-
-From the Astral, Jace pushed a numbered paper card through the examination table.
-
-It appeared on the physical side.
-
-Lanchee did not touch it until Jace returned.
-
-His weight came back unevenly. Nausea folded him over the edge of the bed.
-
-Lanchee checked him before she checked the card.
-
-"You did this while injured," she said.
-
-"Yes."
-
-"You did it while responsible for a dog."
-
-"Yes."
-
-"And you have been asking why I am cautious with caffeine."
-
-"That part now feels less defensible."
-
-Lanchee read the number on the card.
+Nick sighed, "God, that's overly dramatic. I see why you annoy her."
 
 "The answer is still no."
 
@@ -145,11 +119,9 @@ Sophia took longer.
 
 "Agreed."
 
-That was how the first proposal ended.
+That was how the first proposal ended. Lanchee accepted two days later.
 
 ##
-
-The version Lanchee accepted took three days.
 
 They tested printed blocks, ore samples, raw asteroid, water, a dismantled pump, Sparky, and themselves. They did not aim the array at anyone outside the research team. Lanchee recorded Jace's and Sophia's physical baselines before and after each crossing. She stopped one session when Jace's skin temperature remained normal but his temperature judgment drifted. Sophia protested once, saw Lanchee's face, and did not protest twice.
 

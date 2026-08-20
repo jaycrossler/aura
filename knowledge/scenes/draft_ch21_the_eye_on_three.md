@@ -56,7 +56,7 @@ He dropped the crowbar and grabbed for Sparky's remote instead.
 
 He didn't wait for her to agree. He spun the drone hard, thrusters angled outward, and drove the throttle so Sparky flew directly into it.
 
-Sophia *pushed* again and the creature spun.
+Sophia *pushed* again and the creature spun around, flailing.
 
 Jace timed it perfectly. Sparky's full exhaust caught the creature across its back at close range. It should not have mattered against something built out of metal, but it did seem to matter against the wet tissue and folded space. The creature convulsed, skin bubbling, and the sound that came out of it wasn't a mechanical failure tone or an animal scream. It was something that used the Astral itself to carry, a howl that arrived behind Jace's eyes instead of through his ears, and both of them staggered under it.
 
@@ -66,11 +66,11 @@ It fled toward the wall it had come from, limping on too many limbs and flailing
 
 They ran for the stairway connecting Ring Two down toward the transfer point, Sparky clutched against Jace's chest, his arm and side burning in a way that had stopped being pain and started being something colder.
 
-The creature turned and limped after them. They ran up the steps, and its lowest limb, Jace hesitated to call it a leg, reached the first step before jerking back in pain.
+The thing turned and limped after them. They ran up the steps, and its lowest limb, Jace hesitated to call it a leg, reached the first step before jerking back in pain. It looked very bad, and Jace thought that one more could hit from Sparky's blasters might end it.
 
-It stopped there. Reared back, actually, the way an animal balks at a threshold it will not cross. Jace, half blind with shock, still noticed the thin solid line worked into the stair and the rail where it met the deck.
+The creature stopped there. Reared back, actually, the way an animal balks at a threshold it will not cross. Jace, half blind with shock, still noticed the thin solid line worked into the stair and the rail where it met the deck.
 
-He looked at it directly, the way he'd look at any instrument reading, and the wrongness of it caught up with him a beat later. He couldn't see through it, past the line. Not the wall behind it, not the conduit space he knew ran under the stairs. The rail simply stopped his sight the way the deepest lensing fog stopped it around the densest ore he'd ever surveyed, except this was a strip of polished metal no wider than his palm.
+He looked at it directly, the way he'd look at any instrument reading, and the wrongness of it caught up with him a beat later. He couldn't see through it, past the line. The rail simply stopped his sight the way the deepest lensing fog stopped it around the densest ore he'd ever surveyed, except this was a strip of polished metal no wider than his palm.
 
 Silver. The kind rimming every passage and doorway to reduce static and bacterial buildup.
 

@@ -199,7 +199,7 @@ Brandon's face became almost as enraged at Nikos. They truly were a matched pair
 
 "Because each has one free electron! They are in the same column of the periodic table, of course! Why did no one test this?"
 
-Jace sighed, standing. He needed to regain control of this meeting. "OK, OK, this just shows how much we need your help. Sophia and I have been discussing things and we would like to propose a shared list of experiments, a list of equipment to move, and tests to run. Tonight, we want to demonstrate a few things and our first priority needs to be to deal with the creature we saw on Three. We need rules, plans, and to formalize the next step of our activities. This is Sophia's project, but we all need to become the team to bring this to the rest of the station, then to the world. For example, tonight, we will cross over torches for defense and wears armor."
+Jace sighed, standing. He needed to regain control of this meeting. "OK, OK, this just shows how much we need your help. Sophia and I have been discussing things and we would like to propose a shared list of experiments, a list of equipment to move, and tests to run. Tonight, we want to demonstrate a few things and our first priority needs to be to deal with the creature we wounded on Three. We need rules, plans, and to formalize the next step of our activities. This is Sophia's project, but we all need to become the team to bring this to the rest of the station, then to the world. For example, tonight, we will cross over torches for defense and wears armor."
 
 He held up a butane powered cutting torch, and some ceramic-plated armored extreme sport vests that he had printed.
 
