@@ -35,13 +35,11 @@ cross_references:
 
 # Chapter 23. Fire in the Walls
 
-> *Athena: I cannot believe you, the AI hater, put an AI in your head.*
+> *Athena: I cannot believe you, the AI hater, put an AI in your brain.*
 >
 > *Apollo: {Aura} says, "Stubborn humans. Conquer. Destroy."*
 >
 > *Athena: Your jokes are worse than Dad's. Still nothing from Artemis?*
->
-> *Apollo: Nothing that makes sense.*
 
 By the following evening, the torches and armor were waiting in the Astral *Victoria*.
 
@@ -51,9 +49,9 @@ He lasted forty-three minutes before opening one eye.
 
 "I am not there," he said.
 
-"You are not supposed to talk," Sophia said.
+"You are not supposed to talk," Sophia said, "Relax."
 
-"I have been not talking for three quarters of an hour. I am now reporting a failed experiment."
+"I have been not talking for an hour. I am now reporting a failed experiment."
 
 "You are halfway across," Jace said.
 
@@ -61,11 +59,11 @@ He lasted forty-three minutes before opening one eye.
 
 Nikos closed his eye again.
 
-They sat in the *Victoria's* observation room, suited and arranged in a circle around a square of bread on the floor. Jace held Nikos's left wrist. Sophia held his right. All three wore light pressure suits stripped of everything they could safely leave behind. Nikos had surrendered his tablet, belt hardware, watch, suit radio, and six sensor patches after Sophia explained how every additional circuit slowed the crossing.
+They sat in the *Victoria's* observation room, suited and arranged in a circle on the floor. Jace held Nikos's left wrist. Sophia held his right. All three wore light pressure suits stripped of everything they could safely leave behind. Nikos had surrendered his tablet, belt hardware, watch, suit radio, and six sensor patches after Sophia explained how every additional circuit slowed the crossing.
 
-Brandon watched from behind the open hatch with a physical camera on each wall and the expression of a man supervising surgery performed by people who had learned anatomy that morning.
+Brandon watched from behind the open hatch with a physical camera on each wall and the expression of a man supervising surgery performed by people who had learned anatomy from social networking.
 
-Nick sat beside him, typing into one glove.
+Nick sat beside him, narrating into the {Aura} on his wristcomp.
 
 "His mass has dropped by eleven percent," Brandon said.
 
@@ -73,7 +71,7 @@ Nick sat beside him, typing into one glove.
 
 "I calibrated that scale."
 
-"Then you calibrated it to hide interesting data."
+"Then you calibrated it poorly, it should send updates faster."
 
 Nikos opened his eye again.
 

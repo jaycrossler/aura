@@ -186,23 +186,25 @@ Nikos raised both hands. "Of course it is real. I mean it may not be a separate 
 
 Sophia and Jace looked at each other. It hadn't been obvious to them. Nick fell abruptly when Sophia stopped focusing, falling to the couch below him.
 
-Nick finally said, "I thought she was the physicist?"
+Nick finally said, "Why does it matter? I thought she was the physicist?"
 
-Nikos turned, furious. "She is a physicist. I am an astrophysicist. It is very different. Are you merely a repairman, or are you an AI computational engineer?"
+Nikos turned, furious. "She is a physicist. I am an astrophysicist. It is very different. Are you merely a repairman, or are you an AI computational engineer?  It matters because if you merely *step further out* in four dimensional space, you don't have to invent whole new physics for *an entire new dimension*. You're just changing one thing, everything else is the same. You still breathe, you still live, there is still energy and mass."
 
 Now, it was Jace and Nick's turn to look at each other.
 
-Sophia broke the tension. "Okay. I acknowledge your point. Can we measure the difference?"
+Sophia broke the tension. "Okay. I acknowledge your point, I will fix the paper. Is there a way to measure the difference?"
 
-Brandon interjected. "And here. You show that copper and silver interfere with the visual effect. What about gold?"
+Brandon interjected, before Nikos could answer. "And here. You show that copper and silver interfere with the visual effect. What about gold?"
 
-"Why gold?"
+"Um, why gold?"
 
 Brandon looked almost as offended as Nikos. They truly were a matched pair.
 
 "Because copper, silver, and gold share the same outer-electron pattern and occupy the same column of the periodic table. Why did no one test all three?"
 
-Jace stood. "This shows why we need your help. Sophia and I want a shared experiment list, an equipment plan, and rules for what happens next. Our first priority is the creature we wounded on Three. Tonight we start moving torches and armor. Tomorrow, after everyone understands the risks, we decide who crosses and who stays here to monitor."
+Jace stood. He might not be the best Air Force offier in history, but he had sat thorough hundres of hours on how to run meetings and deal with opinionated scientists.
+
+He intentionally made his tone respectful and complimentary. "Okay, okay. Thank you. This shows why we need your help. Sophia and I think we should have a shared experiment list to capture your ideas, an equipment plan, and rules for what happens next. Our first priority is the creature we wounded on Three. Tonight we start moving torches and armor. Tomorrow, after everyone understands the risks, we decide who crosses and who stays here to monitor."
 
 He held up a butane-and-oxygen cutting torch and one of the ceramic-plated extreme-sport vests he had printed.
 
@@ -210,17 +212,19 @@ Nick raised his hand. "You want us to *go there*? First, what the hell? Second, 
 
 He turned, and Brandon and Nikos just blinked.
 
-Sophia stood. "We start with a demonstration. I will cross because Jace is injured and pretending otherwise. He can show you how we move equipment. We have a repeatable process, not an optimized one, and you may be able to improve it. We do not attempt to move another person tonight. Yes, Nikos. Step sideways. Gott, I understand."
+Sophia stood. "We start with a demonstration. I will cross because Jace is injured and pretending otherwise. He can show you how we move equipment. We have a repeatable process, not an optimized one, and you may be able to improve it. We do not attempt to move another person tonight. Yes, Nikos. 'Step sideways'. Gott, I understand. Now, watch."
 
-Sophia sat back, became comfortable, and closed her eyes. Color gathered around her slowly. Nick stopped talking. Nikos stopped pacing. Brandon took a long drink of wine.
+Sophia sat back onto the couch, became comfortable, and closed her eyes. Color gathered around her slowly. Nick stopped talking. Nikos stopped pacing. Brandon took a long drink of wine. They waited an uncomfortable amount.
 
-Twenty-seven minutes later, Sophia disappeared.
+Eleven minutes later, Sophia disappeared.
 
 Thirty seconds after that, a small piece of paper appeared in front of Brandon's face with the word **Boo!** written on it.
 
-Jace grinned. And then there were five.
+Jace grinned. Everyone stared. Then began talking at once, speaking over each other. 
 
-Cerberus barked at the excitement. Six. Then there were six.
+And then *there were five*.
+
+Cerberus barked at the excitement. Six. Then there were *six*.
 
 ## Contract coverage
 
