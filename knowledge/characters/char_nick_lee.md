@@ -30,7 +30,7 @@ appearance_summary: >
   always styled and tinted green ("the green of a chemistry accident" at Arc 1 start).
   Thick overlay glasses (always broken/replaced next day). Two pearl-style earrings
   containing {Aura} instances. Keyboard gloves on his hands at all times.
-last_updated: 2026-08-15
+last_updated: 2026-08-20
 cross_references:
   - "[[char_jace_apollo]]"
   - "[[char_aura_ai]]"
@@ -112,13 +112,16 @@ HUD into infrared while opening an email folder. Jace's eight ocular and brow ca
 can triangulate full three-dimensional feeds, but doing so during civilian retraining
 triggers migraines.
 
-## The 90-Second Crossing
+## The First Crossing
 
-Nick went into the Astral once, for ninety seconds, and vomited up noodles on the way
-out. His assessment: "That's not like in the games." The specific wrongness was the 4D
-view — the sense he could fall through the walls, that nothing was shaped right. He
-does not want to repeat this. When the memory comes up, he makes the joke and changes
-the subject.
+In Chapter 23, Jace and Sophia pull Nick into the Astral after a prolonged assisted
+crossing. Nick leaves his overlay glasses, keyboard gloves, and pearl {Aura} earrings
+in the Real to reduce the transfer burden. He remains aboard the Astral *Victoria*
+with Cerberus for nineteen minutes while Jace, Sophia, and Nikos hunt the wounded
+Ring Three creature. He vomits twice and concludes, "That's not like anything in the
+games." The specific wrongness is the 4D view: the sense that he could fall through
+walls and that nothing has one stable shape. He refuses another crossing and redirects
+that fear into building physical-side instruments that make another crossing unnecessary.
 
 ## Open Questions
 
@@ -147,9 +150,13 @@ the subject.
   screens, constant air-typing). The chair (ergonomic, massager, fridge, noodle holder).
   Noodles (ramen, rotates types, preorders, Chinatown walk daily). Korean accent (deliberate
   performance, drops with trusted people). Bay Bridge monitor background (father's photos,
-  pre-flooding). 90-second crossing aftermath (noodle vomit, "not like in the games", 4D
-  wrongness). Belt-adapted movement (20 years in low gravity).
+  pre-flooding). Chapter 23 crossing aftermath (nineteen minutes, vomiting twice,
+  "not like anything in the games," 4D wrongness). Belt-adapted movement (20 years
+  in low gravity).
 - 2026-07-14: Reworked transit companions: updated Jace friendship origin, added 10× vision belief, added drone-testbed HUD pairing note.
 - 2026-08-13: Established that Nick has no implant, uses overlay glasses, and rejects
   the cost and month-long blind recovery. Added Jace's early command-sensation explanation.
 - 2026-08-12: Updated with Prologue-Ch07 details (hair tint green confirmed, hand-sewn pig gift for Cerberus, Ch05 pitch dialogue anchors).
+- 2026-08-20: Moved Nick's first and only planned Astral crossing from the later
+  swarm to Chapter 23. He remains aboard the *Victoria* with Cerberus while the hunt
+  team leaves and then commits to physical-side instrumentation.

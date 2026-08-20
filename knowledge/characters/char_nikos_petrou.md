@@ -11,7 +11,7 @@ occupation: astrophysicist and sensor-instrument specialist
 affiliation: European Space Agency
 ship: ship_victoria
 first_appearance: Chapter 15 - Jace's first visit to the Victoria
-last_updated: 2026-08-14
+last_updated: 2026-08-20
 description: >
   Greek astrophysicist aboard the Victoria. Maintains the vessel's flux arrays and
   long-baseline instruments. Brandon Moreau's partner and Sophia Lotte's longtime
@@ -46,5 +46,9 @@ her fatigue and changed routines are obvious.
 
 ## Knowledge Boundary
 
-At Chapter 15, Nikos does not know about the Astral. He knows that the *Victoria's*
-flux instruments recorded a real anomaly and that Sophia's private work relates to it.
+At Chapter 15, Nikos does not know about the Astral. In Chapter 22, Sophia discloses
+the project and he proposes that the Astral may represent movement along a fourth
+spatial axis rather than a separate universe. In Chapter 23, Jace and Sophia pull him
+across. His spatial interpretation of the creature's movement becomes essential to
+the hunt, but he does not acquire sudden combat competence. He supports the later
+distance model through the *Victoria's* astrophysical data.

@@ -1,14 +1,49 @@
-Chapter 23. Fire in the Walls
+---
+id: draft_ch23_fire_in_the_walls
+name: "Chapter 23. Fire in the Walls"
+type: chapter_draft
+book: book01
+chapter: Ch23
+scene_contract: X-04f Ring Three hunt + N-01 Nick crossing + Will-orb force advancement
+pov: char_jace_apollo
+status: staged_draft
+schema_version: 2
+last_updated: 2026-08-20
+description: >
+  Jace and Sophia pull Nikos and Nick into the Astral while Brandon monitors the
+  experiment from the physical Victoria. Nick remains aboard with Cerberus while
+  Jace, Sophia, and Nikos hunt the wounded Ring Three creature. Self-oxidizing
+  butane torches and Nikos's spatial observations let them kill it after a hard
+  fight. Sophia absorbs the Will sphere it leaves, unknowingly strengthening her
+  force ability, before Brandon notices that the recorded sky is wrong.
+cross_references:
+  - "[[arc_01_thread_X_astral]]"
+  - "[[arc_01_thread_N_nick_ai]]"
+  - "[[char_jace_apollo]]"
+  - "[[char_sophia_lotte]]"
+  - "[[char_nick_lee]]"
+  - "[[char_nikos_petrou]]"
+  - "[[char_brandon_moreau]]"
+  - "[[char_cerberus]]"
+  - "[[char_misty_ai]]"
+  - "[[ship_victoria]]"
+  - "[[magic_will_orbs]]"
+  - "[[spec_crossing_mechanics]]"
+  - "[[draft_ch22_quiet_companion]]"
+  - "[[draft_ch24_wrong_stars]]"
+---
 
-Athena: I cannot believe you, the AI hater, put an AI in your head.
+# Chapter 23. Fire in the Walls
 
-Apollo: Aura says, "Stubborn humans. Conquer. Destroy."
+> *Athena: I cannot believe you, the AI hater, put an AI in your head.*
+>
+> *Apollo: {Aura} says, "Stubborn humans. Conquer. Destroy."*
+>
+> *Athena: Your jokes are worse than Dad's. Still nothing from Artemis?*
+>
+> *Apollo: Nothing that makes sense.*
 
-Athena: Your jokes are worse than Dad's. Still nothing from Artemis?
-
-Apollo: Nothing that makes sense.
-
-By the following evening, the torches and armor were waiting in the Astral Victoria.
+By the following evening, the torches and armor were waiting in the Astral *Victoria*.
 
 The first person Jace and Sophia tried to pull across was Nikos.
 
@@ -26,7 +61,7 @@ He lasted forty-three minutes before opening one eye.
 
 Nikos closed his eye again.
 
-They sat in the Victoria's observation room, suited and arranged in a circle around a square of bread on the floor. Jace held Nikos's left wrist. Sophia held his right. All three wore light pressure suits stripped of everything they could safely leave behind. Nikos had surrendered his tablet, belt hardware, watch, suit radio, and six sensor patches after Sophia explained how every additional circuit slowed the crossing.
+They sat in the *Victoria's* observation room, suited and arranged in a circle around a square of bread on the floor. Jace held Nikos's left wrist. Sophia held his right. All three wore light pressure suits stripped of everything they could safely leave behind. Nikos had surrendered his tablet, belt hardware, watch, suit radio, and six sensor patches after Sophia explained how every additional circuit slowed the crossing.
 
 Brandon watched from behind the open hatch with a physical camera on each wall and the expression of a man supervising surgery performed by people who had learned anatomy that morning.
 
@@ -60,7 +95,7 @@ Nikos's hand became solid in Jace's grip.
 
 The physical cameras saw him disappear.
 
-In the Astral Victoria, Nikos opened both eyes and screamed once.
+In the Astral *Victoria*, Nikos opened both eyes and screamed once.
 
 He stopped himself quickly, but not quickly enough to preserve his dignity.
 
@@ -84,7 +119,7 @@ Nikos looked down at him.
 
 "Do not tell him that," Jace said. "He has worked hard on his reputation."
 
-They left Nikos aboard the Astral Victoria, then returned to the Real with Cerberus before attempting Nick. Their own return took less time because both knew which direction to want. Cerberus followed without help, stepping between layers as easily as he crossed a doorway.
+They left Nikos aboard the Astral *Victoria*, then returned to the Real with Cerberus before attempting Nick. Their own return took less time because both knew which direction to want. Cerberus followed without help, stepping between layers as easily as he crossed a doorway.
 
 Nick had watched both transitions without making a joke. When Jace and Sophia became fully physical again, Nick removed his pearl earrings and set them in a padded case. Then he took off his overlay glasses.
 
@@ -136,7 +171,7 @@ He vomited into the bag Jace had brought for exactly that purpose.
 
 "That is a complete scientific statement," Nikos said.
 
-Nick sat against the Victoria's inner hull with Cerberus pressed along one leg. He kept one hand in the dog's harness and his eyes on the deck.
+Nick sat against the *Victoria's* inner hull with Cerberus pressed along one leg. He kept one hand in the dog's harness and his eyes on the deck.
 
 "I am staying here."
 
@@ -186,7 +221,7 @@ Nick had closed his eyes. Cerberus remained against him, alert and unhappy.
 
 Jace, Sophia, and Nikos left the ship.
 
-
+##
 
 The creature had left a trail.
 
@@ -248,7 +283,7 @@ It screamed inside Jace's skull.
 
 His vision broke into three valid images. In one, the creature climbed the truss. In another, it lunged at Nikos. In the third, it had disappeared.
 
-Aura did not choose.
+{Aura} did not choose.
 
 Three outlines remained in Jace's display, each labeled with its source.
 
@@ -350,7 +385,7 @@ Jace retrieved Sparky and every memory card.
 
 They left the creature's absence beside the silver room.
 
-
+##
 
 Nick had been in the Astral for nineteen minutes.
 
@@ -370,11 +405,11 @@ Nick became physical, rolled to one side, and vomited again.
 
 "That," he said when he could speak, "is not like anything in the games."
 
-Brandon checked him while Jace and Sophia went back for Nikos. Misty recorded each transition, power fluctuation, scale change, and physical symptom.
+Brandon checked him while Jace and Sophia went back for Nikos. {Misty} recorded each transition, power fluctuation, scale change, and physical symptom.
 
 No one crossed again that night.
 
-They watched the three camera feeds in the Victoria's galley instead. Aura preserved each view separately. Nikos stopped the recording twice to explain where the creature had moved around a direction rather than through a wall. Sophia remained wrapped in a blanket, unusually warm, her father's pen balanced across both hands.
+They watched the three camera feeds in the *Victoria's* galley instead. {Aura} preserved each view separately. Nikos stopped the recording twice to explain where the creature had moved around a direction rather than through a wall. Sophia remained wrapped in a blanket, unusually warm, her father's pen balanced across both hands.
 
 Brandon ignored the fight.
 
@@ -393,3 +428,19 @@ Brandon brought up Fortuna's physical navigation model and laid it beside the re
 The stars did not match.
 
 "Then either every camera turned without recording it," Brandon said, "or the sky is wrong."
+
+## Contract coverage
+
+| Item | Status |
+|---|---|
+| Jace and Sophia require sustained contact and substantial time to pull Nikos and Nick across | done |
+| Brandon remains physical-side with {Misty}, cameras, scales, and an emergency return protocol | done |
+| Nick leaves his electronics behind, reacts badly to the 4D view, and remains aboard the Astral Victoria with Cerberus | done |
+| The hunt team consists of Jace, Sophia, and Nikos | done |
+| Each butane cutting torch carries its own oxygen cartridge because Astral air cannot support reliable combustion | done |
+| Nikos contributes astrophysical and spatial insight rather than sudden combat skill | done |
+| The wounded Ring Three creature remains dangerous and requires combined fire, force, drone thrust, and the silver boundary to kill | done |
+| The creature leaves a Will sphere | done |
+| Sophia touches the sphere, feels new energy, and unknowingly strengthens her force ability | done |
+| Nick's first crossing remains brief, frightening, and strategically useful | done |
+| Brandon identifies the wrong Astral sky as the next problem | done |

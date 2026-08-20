@@ -6,7 +6,7 @@ name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
@@ -245,7 +245,7 @@ list as complete.)*
 | Healing green light at a broken arm | X-02 | Passive Template healing response; humans are doing magic they don't know |
 | "We are not going to be vampires" — the self-imposed rule | X-02 | First ethical framework they invent; predates all external guidance |
 | Tick-Maws target AI Will (server specimens) | X-02b | Nick's {Aura} modifications make instances brighter — Astral fauna threat scales with open-source release |
-| Sophia's force application improves after Tick-Maw orb absorption | X-02a / X-02b | Orb absorption as skill currency — Kael's explanation in Arc 2 |
+| Sophia's force application improves after the Ring Three predator sphere | X-04f / Ch23 | Orb absorption as skill currency; she experiences warmth and excess output without understanding the level change |
 | Sophia writes two words in notebook, does not show Jace | X-02b | "Invasion Force?" — carries forward; Kael will eventually understand what she saw |
 | **NEW — Jace's "two cores"; Sophia's mistaken explanation** | X-03 (proposed) | S-02b egg removal; Arc 2 Kael assessment gives the real explanation, in front of Sophia — first fracture |
 | Space-not-time compression (lidar derivation) | X-05a | Telescope implication — late series. **Possibly superseded, not confirmed — see Open Decision #8.** |
@@ -253,7 +253,7 @@ list as complete.)*
 | Nick's large-lettered AI Will note | X-05c | The open-source decision; the full AI Will discovery arc (Arc 2+) |
 | Jin's crew armed and isolated | P-thread | S-01 reveal: they were clearing nests; the isolation was protective, not hostile |
 | Sophia's freeze when the Queen arrives | S-01 | She stays anyway; the freeze makes the final positioning more meaningful |
-| Nick's ninety-second relay | S-01 | [Information Flow] — he was more useful inside the Astral for those ninety seconds |
+| Nick's nineteen-minute crossing | X-04f / Ch23 | [Information Flow] seed; he remains aboard the Astral *Victoria* and then designs physical-side tools to avoid another crossing |
 | Sophia's "seventeen notebooks" named in the kill | S-02 | The whole scientific documentation arc paying off in a single exchange |
 | Jin's "You killed a very large spider" | S-02 | The beginning of the Jin/Sophia relationship; pays off in Arc 2 patrol scenes |
 | Kael in the room the whole time | S-02b | She is mentioned three times and no one reacts |
@@ -343,9 +343,11 @@ Full contracts live in the linked thread file.
 | 25 | X-04a | X | Interface Lab / Fault Lines — relay, three-camera Sparky, foundational force recording, accidental Sophia Will transfer | `draft_ch19_fault_lines` + thread_X | drafted |
 | 25b | X-04b | X | Borrowed Light — environmental probe, consent rupture, Long Burn fight, silver-panel evidence, creature reveal | `draft_ch20_borrowed_light` + thread_X | drafted |
 | 25c | X-04d | X | The Eye on Three — Ring Three fight, silver threshold, accidental {Misty} drain, bounded request for Nick's help | `draft_ch21_the_eye_on_three` + thread_X | drafted |
-| 25d | X-04e / X-01b / N-03 / L-07 | X/N/L | Quiet Companion — recovery, *Victoria* boundaries, metal survey, {Aura} install, contradictory outputs, Adama semantic gap | `draft_ch22_quiet_companion` + thread_X + thread_N + thread_L | drafted |
-| 25e | X-02 | X | No Vampires — Lanchee disclosure, controlled medical observation, human Will, privacy and no-harvest protocol, parasite reveal | `draft_ch23_no_vampires` + thread_X | drafted |
-| 26 | X-05a | X | The Numbers Go Wrong — laser ranging derivation | thread_X | ok — see Open Decision #8 |
+| 25d | X-01b / X-04f / N-00b | X/N | Quiet Companion — {Misty} recovery, {Aura} install, expanded-team disclosure, hunt preparation | `draft_ch22_quiet_companion` + thread_X + thread_N | drafted |
+| 25e | X-04f / N-01 | X/N | Fire in the Walls — Nikos and Nick cross; hunt team kills the wounded Ring Three creature; Sophia absorbs its sphere | `draft_ch23_fire_in_the_walls` + thread_X + thread_N | drafted |
+| 25f | X-05a / X-04g | X/N | Wrong Stars — square-distance measurements, bounded Sparky {Aura-S} installation, scanner-model requirement | `draft_ch24_wrong_stars` + thread_X | drafted |
+| 25g | X-02 / X-02a | X | No Vampires — full Lanchee disclosure, controlled scans, human Will, first tick removal, no-harvest protocol | `draft_ch25_no_vampires` + thread_X | drafted |
+| 25h | X-02b / N-03 | X/N | The Sweep — goat and personal-{Aura} ticks removed; {Seek} identified as the unresolved high-risk match | `draft_ch26_the_sweep` + thread_X + thread_N | drafted |
 | 27 | X-05b | X | The Unstable Site — asteroid interior survey | thread_X | ok |
 | 28 | X-05c | X | "This Changes Everything" — Nick disclosure | thread_X | ok |
 | 29 | X-06 | X | LOX eyebrow incident | thread_X | ⚠️ ID inferred, not confirmed |
@@ -368,7 +370,7 @@ Full contracts live in the linked thread file.
 | — | L-08 | L | *(open slot — candidate for Kim's migraine reveal)* | thread_L | proposed, not drafted |
 | — | L-09 | L | "Log this, don't index it" | thread_L | ok |
 | — | L-10 | L | *Victoria* POV (Sophia's ship) | thread_L | ok |
-| 34 | N-01 | N | Nick's crossing / disclosure | thread_N | ok |
+| 34 | N-01 | N | Nick's former swarm crossing slot is retired; first crossing now occurs in Chapter 23 | thread_N | superseded |
 | 35 | N-02 | N | Nick builds / talks the AIs down | thread_N | ok |
 | 36 | N-03 | N | {Seek} degradation | thread_N | ok |
 | 37 | N-04 | N | Bloated Maw / Jin's fire wall | thread_N | ok |
@@ -409,8 +411,9 @@ Full contracts live in the linked thread file.
    of Jace, in front of Sophia — first real fracture in the partnership.
 8. **NEW — Kael's presence during the battle, AND the light-speed physics, both need a decision:**
    - *(a)* **RESOLVED (2026-07-19):** Kael is present at the swarm battle under occultation through the whole fight per the current Closing Condition and the drafted S-02b. The contradicting scratch notes in Thread S are removed.
-   - *(b)* Does light moving slower in the Astral/Hyperspace **replace** X-05a's
-     "space compresses, light stays at *c*" derivation, or compound with it? This
+   - *(b)* Chapter 24 now establishes a preliminary distance-squared model but does
+     not prove that light remains at *c*. Does a later slower-light result replace
+     that working interpretation or compound with it? This
      changes the dist²/dist³ travel-time math used elsewhere (e.g. Adama distances)
      if adopted. Recommend treating X-05a as Jace's early, incomplete hypothesis and
      the rotating-mirror result as Sophia's later correction — but this is a

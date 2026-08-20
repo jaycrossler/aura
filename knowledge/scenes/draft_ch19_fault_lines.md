@@ -8,7 +8,7 @@ scene_contract: X-04a interface lab, X-03b force recording, L-03 responsibility 
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-18
+last_updated: 2026-08-20
 description: >
   Jace and Sophia establish a crude one-way relay into the Astral, build a
   three-camera Sparky rig, and record Sophia's physical-space force from the
@@ -36,7 +36,7 @@ cross_references:
   - "[[draft_ch18_later_became_morning]]"
   - "[[draft_ch20_borrowed_light]]"
   - "[[draft_ch21_the_eye_on_three]]"
-  - "[[draft_ch23_no_vampires]]"
+  - "[[draft_ch25_no_vampires]]"
 ---
 
 # Chapter 19. Fault Lines

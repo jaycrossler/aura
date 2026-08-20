@@ -6,7 +6,7 @@ subtype: will_mechanics
 status: canonical
 canonical: true
 description: "Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression."
-last_updated: 2026-06-26
+last_updated: 2026-08-20
 cross_references:
   - "[[magic_will_and_templates]]"
   - "[[magic_skills_framework]]"
@@ -115,6 +115,15 @@ valve. Contact was sufficient. The Will absorbed on touch. His Template, under s
 from a headache-inducing HUD implant containing gold and platinum, directed the entire
 absorbed reserve toward Templating the implant. He was unconscious of the process. The
 next morning, the headache was gone.
+
+**The Sophia/Ring Three incident:** In Chapter 23, the wounded Ring Three predator
+dies while Sophia is sustaining a difficult force pin. Its orb moves into contact
+with her hand. She absorbs it without understanding what it is. Because force
+application is the active and stressed pattern at contact, her Template invests the
+incoming Will there, advancing `[Force Application]` from L1 to L2. Sophia experiences
+warmth and unexpectedly greater output but has no level or skill framework. After the
+team establishes its no-harvest protocol, she deliberately leaves the smaller Tick-Maw
+orbs in Chapters 25-26 to dissipate.
 
 ---
 

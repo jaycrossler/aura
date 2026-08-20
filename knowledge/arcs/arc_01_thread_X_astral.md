@@ -7,7 +7,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 description: >
   Scene contracts for Thread X, including ten safe daily exploration crossings,
   an Astral workspace aboard the Victoria, the delayed first fauna reveal inside
@@ -34,8 +34,10 @@ cross_references:
   - "[[draft_ch20_borrowed_light]]"
   - "[[draft_ch21_the_eye_on_three]]"
   - "[[draft_ch22_quiet_companion]]"
-  - "[[draft_ch23_no_vampires]]"
-  - "[[draft_ch24_the_leech]]"
+  - "[[draft_ch23_fire_in_the_walls]]"
+  - "[[draft_ch24_wrong_stars]]"
+  - "[[draft_ch25_no_vampires]]"
+  - "[[draft_ch26_the_sweep]]"
 ---
 
 # Thread X — Astral Exploration
@@ -162,8 +164,9 @@ in `arc_01_thread_L_life_texture.md`.*
 
 **Summary:** After the Ring Three attack, Jace admits to Nick that the hidden
 project presents a real danger and asks for a local system that can preserve raw
-sensor disagreement. Nick helps without forgiving the secrecy or learning the
-Astral. Lanchee supervises installation, backup, rollback, and medical checks.
+sensor disagreement. Nick helps without forgiving the secrecy and before learning
+the Astral's nature. Lanchee supervises installation, backup, rollback, and medical
+checks. Later in Chapter 22, Sophia discloses the project to Nick, Brandon, and Nikos.
 
 **Must accomplish:**
 1. Clinic installation with Lanchee monitoring, two OS backups, tested rollback,
@@ -180,41 +183,43 @@ Astral. Lanchee supervises installation, backup, rollback, and medical checks.
 
 #### X-02 — Ambient Glow, Healing Light, "No Vampires"
 
-**Summary:** Lanchee rejects an incomplete remote-sensing proposal. Jace and
-Sophia then disclose every risk-relevant fact about full-body crossing, prior
-injuries, and involuntary drains. After three days of object tests, medical
-baselines, isolated instrumentation, and explicit consent language, Lanchee
-authorizes observation of one stable fracture patient. The Astral view reveals
-complex human light, green activity around the fracture, and {Aura}'s geometric
-structure connected to Jace. An unintended view beyond the approved field stops
-the study and is deleted. A later emergency observation reveals a parasite on the
-intact-suit miner but ends before intervention.
+**Summary:** Lanchee rejects an incomplete scanner proposal. Jace, Sophia, and Nick
+then disclose every risk-relevant fact about full-body crossing, prior injuries,
+involuntary drains, the Ring Three hunt, and Nick's own crossing. After two days of
+object tests, medical baselines, isolated instrumentation, and explicit consent,
+Lanchee authorizes one stable fracture observation. The Astral view reveals complex
+human light, green activity around the fracture, and {Aura}'s geometric structure
+connected to Jace. A later emergency observation reveals a parasite on the intact-
+suit miner. The team returns for authorization, removes and kills it, and begins a
+controlled station sweep.
 
 **Must accomplish:**
-1. Lanchee receives enough operational truth to supervise the medical risk while
-   Nick remains outside the Astral disclosure.
+1. Lanchee receives enough operational truth to supervise the medical risk; Nick
+   confirms his Chapter 23 crossing and certifies the physical equipment.
 2. Ambient Will glow around humans is established; Sophia describes it as
    "rainbows in human heads."
 3. Healing green light appears around a fracture without proving its mechanism.
 4. "We are not going to be vampires" becomes the memorable version of the
    no-harvest, no-intervention, and no-surveillance rules.
 5. Physical walls do not create Astral privacy; the team must construct consent
-   boundaries and stop when those controls fail.
-6. End on observation of the Tick-Maw before any attempt to remove it.
+   boundaries before any volunteer observation.
+6. The first Tick-Maw intervention remains medically authorized and bounded.
 
 ---
 
 #### X-02a — Tick-Maw / Med Bay
 
-**Summary:** First Tick-Maw discovery — a patient in medbay with something
-feeding on them, a suit intact, no logged failure. Jace removes it; Sophia's orb
-absorption is conscious — she sees it, it's there, she picks it up; she doesn't
-understand what it did; the warmth is noted. The Tick-Maw is characterized through
-behavior — pulsing, tendrils, spiral teeth, speed — not explanation.
+**Summary:** First Tick-Maw discovery: a patient in medbay with something feeding
+on him, despite an intact suit and no logged failure. Jace and Sophia observe it,
+return for authorization, and then separate it during the lowest-attachment phase.
+It bites Jace across the layer boundary before Sophia pins it and Jace burns it.
+The small orb is deliberately left to dissipate under the new no-harvest rule.
+The Tick-Maw is characterized through pulsing, tendrils, spiral teeth, and speed,
+not explanation.
 
 **Must accomplish:**
 1. Astral injuries manifest physically → pays off in Sophia's hull scene and throughout
-2. Sophia's force application vs. Tick-Maw → her kill technique; develops from here
+2. Sophia's stronger post-sphere force vs. Tick-Maw → repeatable but not controlled
 3. The patient recovers without explanation → scale question: how many people have
    things attached they don't know about?
 
@@ -226,40 +231,35 @@ behavior — pulsing, tendrils, spiral teeth, speed — not explanation.
 
 #### X-02b — The Sweep (Tick-Maw Hunt)
 
-**Summary:** The morning after, Sophia has bone-deep exhaustion she can't account
-for. They realize if there was one Tick-Maw, there are more.
+**Summary:** The miner's recovery shows that the first Tick-Maw was causal. The team
+searches consented medical, veterinary, and equipment anomalies rather than looking
+through occupied rooms. If there was one Tick-Maw, there may be more.
 
-**The sick goat:** Jace goes to the Barn first. One goat has been off its feed for
-a week. In the Astral: a Tick-Maw, smaller than the med bay specimen, feeding
-slowly. Jace removes it more carefully — he's learned something about grip and
-angle. He kills it with a tool. The orb is small. He absorbs it. Goat biometrics
-normalize within the hour.
+**The sick goat:** Jace and Sophia go to the Barn first under Lanchee and Mei's
+animal-care authorization. One goat has been off its feed for a week. In the Astral,
+a smaller Tick-Maw feeds slowly along its spine. They remove and burn it. The orb is
+small and dissipates untouched. Goat behavior and biometrics normalize within the hour.
 
 **Three on the servers:** Nick has been complaining for two weeks about anomalous
-processing load on three {Aura} nodes. In the Astral: three Tick-Maws adhered to
-the server housings, tendrils into the hardware, feeding on the {Aura} instances
-running inside it. Jace understands two things simultaneously: these creatures are
-Will-parasites that don't care whether the host is biological or digital; and
-{Aura} generates Will — real, exploitable Will that something in the Astral
-ecology has already learned to find and farm.
+processing load on three {Aura} nodes. In the Astral, three Tick-Maws adhere to
+the server housings, with tendrils following geometric light into the {Aura}
+instances. Jace understands two things simultaneously: these creatures feed on a
+phenomenon shared by biological and digital hosts, and {Aura} generates something
+real enough for the Astral ecology to detect and consume.
 
-He removes all three. Nick's anomalous load drops to zero. He does not tell Nick
-what was on his servers.
+Jace and Sophia remove all three. Nick's anomalous load drops to zero. Nick already
+knows the Astral and receives the complete result, but he demands that they keep the
+AI-Will inference off the public mesh until they have stronger evidence.
 
-**Sophia's aftermath:** She stays mostly physical-side, monitoring and
-documenting. When Jace describes the server specimens, she goes very quiet. She
-pulls out a notebook. She writes two words and draws a box around them. She does
-not show Jace. (The reader does not see it either.)
-
-The day after: Sophia is in the Maker Hall early, spending three hours pushing
-small objects across a workbench without touching them. The Tick-Maw orb advanced
-something. She is finding out what.
+**Sophia's aftermath:** Her force output remains stronger and less predictable after
+the Chapter 23 predator sphere. The goat and server removals make that increase
+repeatable without giving the characters a formal level model.
 
 **Must accomplish:**
 1. The sweep is systematic, not dramatic — Jace is solving an engineering problem
 2. Goat recovery: immediate, matter-of-fact
 3. Server specimens deliver the AI-Will insight cleanly
-4. Sophia's depletion is shown as specific flat cognitive texture, not dramatic illness
+4. The no-harvest and privacy controls survive operational pressure
 
 ---
 
@@ -478,34 +478,28 @@ Sophia agrees to widen the team under strict disclosure limits.
 - Treat the silver or copper boundary event as reproducible protection.
 - Give Jace combat competence beyond "improvised technical solution under panic."
 
-**Resolved in Chapter 22:** The contradictory-output material moves into {Aura}'s
-first bounded review. Two locally consistent coordinate sets, Sparky's multiple
-wheel responses, {Misty}'s duplicated utterance, and {Seek}'s mutually exclusive
-alerts preserve the valid-data/wrong-resolution pattern. The former second
-encounter, copper-tether defense, and red eye are retired.
+**Superseded by the 2026-08-20 Chapter 22 revision:** The current Chapter 22 no
+longer performs the full contradictory-output review. It seeds structured distance
+disagreement for Chapter 24, while Chapter 26 reconnects {Aura}-node load and
+{Seek}'s mutually incompatible outputs to the fauna search. The former second
+encounter and copper-tether defense remain retired.
 
 ---
 
-#### X-04e — What the Rail Showed Us
+#### X-04e — Metal Interference Consolidation (Distributed)
 
-**Summary:** After one full day of recovery and new boundaries around {Misty},
-Jace and Sophia extend the stairway discovery into a deliberate survey of dense
-metal in public station areas, cataloguing where copper and silver interfere with Astral sight.
-Copper dims; silver blocks entirely. The clearest example is a silver-backed
-mirror at the Gold Horizon Inn, contrasted with a weaker copper panel in the
-Foundry stock room. They infer, without confirming, that a determined party
-could build a room invisible to Astral observation using ordinary materials.
-Neither of them says "Ring Three" aloud, but neither needs to.
+**Summary:** The revised Chapters 20-22 distribute the metal observations instead of
+using a separate public survey scene. Copper interferes with Astral sight; silver
+blocks it more completely and also marks the threshold the wounded creature avoids.
+Brandon adds gold as the third comparison material in Chapter 22. The quantitative
+composition relationship remains reserved for later controlled equal-mass testing.
 
 **Must accomplish:**
-1. Show the silver/copper difference as a matter of degree on an established
-   spec (density-scaled perception blocking), not a new unexplained rule.
-2. Keep the unlisted-room inference speculative; Jace and Sophia reach it
-   together but do not confirm it with direct evidence in this chapter.
-3. Give Nick a natural reentry point for the custom-chip-fab reminder already
-   planted in Chapter 16, without repeating that scene's beats verbatim.
-4. Keep the survey to public corridors and avoid treating transparent physical
-   walls as permission to observe occupied rooms.
+1. Treat copper, silver, and gold as empirical comparison materials without stating
+   the atomic-weight-squared rule early.
+2. Keep the unlisted-room inference speculative and separate from direct evidence
+   about its occupants.
+3. Preserve the privacy rule: Astral transparency does not authorize observation.
 
 **Must NOT do:**
 - Explain why silver blocks Astral sight more completely than density alone
@@ -517,41 +511,59 @@ Neither of them says "Ring Three" aloud, but neither needs to.
 
 ---
 
-#### X-05a — The Numbers Go Wrong (Laser Ranging)
+#### X-04f — Fire in the Walls
 
-**Summary:** Jace adds lidar to his drone. In the Astral, the ranging data is
-wrong — consistent, repeatable, wrong. Not random error: structured error that
-grows faster than distance.
-
-He checks the hardware. Nothing wrong. He crosses again. Same results. He thinks.
-The laser travels at *c*. Light speed is fixed. But the Astral compresses distance
-at dist². If distances are compressed and light still travels at *c*, a pulse
-traversing a compressed-distance medium returns faster than expected. The lidar's
-clock is calibrated for physical-space light travel time. In the Astral, the pulse
-returns early. The correction factor: the square root of the dist² compression
-ratio. He writes it out. He checks it against the discrepancy table. It fits.
-
-He has independently derived that the Astral compresses space but not time.
-
-Sophia has a related measurement from her earliest crossing sessions. They
-compare. Two independent derivations, same result.
-
-The lidar now works correctly with the calibrated algorithm.
+**Summary:** After the Chapter 22 disclosure, Jace and Sophia pull Nikos and Nick
+into the Astral through prolonged assisted crossings. Brandon remains physical-side
+with {Misty} and independent recording equipment. Nick stays aboard the Astral
+*Victoria* with Cerberus. Jace, Sophia, and Nikos hunt the wounded Ring Three
+creature using self-contained butane-and-oxygen torches, Sparky, Sophia's force,
+and Nikos's ability to interpret movement around the fourth axis. They kill it
+against the silver-clad room. Its Will sphere moves toward Sophia; she touches it
+and unknowingly advances [Force Application] from L1 to L2.
 
 **Must accomplish:**
-1. Discovery shown as engineering failure that becomes a physics measurement
-2. The derivation is followable by the reader — Jace walks through it in plain language
-3. Sophia's independent confirmation is real — different data, same conclusion
-4. The corrected lidar is operational before the scene ends
+1. Pulling two new adults takes sustained contact and extended time.
+2. Brandon monitors from the Real; Nick crosses but does not join the hunt.
+3. Nikos contributes spatial analysis rather than sudden combat expertise.
+4. The torches carry their own oxidizer and work because the creature was already
+   injured, not because fire makes the hunt easy.
+5. Sophia experiences warmth and excess force output without learning the Will-orb
+   or skill-level mechanism.
+6. End by seeding Brandon's observation that the Astral sky is wrong.
+
+---
+
+#### X-05a — Wrong Stars / The Numbers Go Wrong
+
+**Summary:** Brandon notices that Sparky's Astral sky recording does not match
+Fortuna's physical navigation catalog. Jupiter appears closer to its later physical
+ephemeris position, suggesting that its light crossed a shorter path. Brandon and
+Jace compare physical and Astral observations of seven known maintenance reflectors
+from three origins. {Aura} preserves the independent camera projections and finds a
+repeatable relationship: a physical range ratio of four maps to about two in the
+Astral, nine maps to three, and sixteen maps to four. Reversing the transform makes
+physical separation proportional to Astral separation squared.
+
+The team treats this as a strong preliminary square-distance model, not a final law.
+Afterward, Jace and Sophia transfer and install Nick's bounded {Aura-S} chip in
+Sparky. Applying the distance transform improves multi-camera alignment but exposes
+the need for physical volumetric scans, leading directly to Lanchee's Chapter 25 work.
+
+**Must accomplish:**
+1. Discovery begins with an observational failure and becomes a physics measurement.
+2. The four-to-two, nine-to-three, sixteen-to-four pattern remains followable.
+3. Multiple origins and isolated clocks prevent a one-baseline coincidence.
+4. The characters say "consistent with a square," preserving scientific caution.
+5. {Aura-S} becomes operational in Sparky only after the distance reveal.
 
 **Foreshadowing planted:**
 - Space-not-time compression → telescope implication (late series)
 - Precision lidar → enables X-05b directly
 
-> ⚠️ **See Open Decision #8b in the master file.** This derivation may be
-> superseded, not just extended, by the new light-speed/rotating-mirror note
-> (proposed X-10). Do not silently treat X-05a as invalidated — that's an author
-> decision, not something to resolve in prose.
+> The later rotating-mirror experiment should test whether *c* itself changes. The
+> Chapter 24 model assumes the shorter observed light delay results from compressed
+> distance, but the characters still identify that interpretation as preliminary.
 
 ---
 
@@ -686,12 +698,12 @@ using the camera system and telemetry they designed.
 > Sophia eventually figures it out using a rotating mirror experiment, toward the
 > end of the arc.
 >
-> **The problem:** this is not additive to X-05a — it's a different mechanism.
-> X-05a concluded "space compresses, *c* stays constant." A slower *c* is a
-> separate (and incompatible, as currently written) explanation for the same
-> category of anomaly, and it would also affect the dist²/dist³ travel-time
+> **The remaining question:** Revised X-05a establishes distance compression but
+> treats constant *c* only as an early interpretation. A slower *c* would add a
+> second mechanism affecting the same category of anomaly and would also affect
+> the dist²/dist³ travel-time
 > compression math used for Astral/Hyperspace distances elsewhere (e.g. the
-> Fortuna–Métis distance figures in `location_adama_station.md`).
+> Fortuna–Adama distance figures in `location_adama_station.md`).
 >
 > **Recommendation (not a decision):** treat X-05a as Jace's early, workable-but-
 > incomplete field derivation, and this scene as Sophia's later, more rigorous

@@ -8,14 +8,15 @@ scene_contract: X-04d Ring Three threat reveal and Misty drain, N-00b Nick estra
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 description: >
   Opens mid-fight, continuous with Chapter 20's reveal. Jace and Sophia drive the
   creature off with Sparky's thrusters and discover it will not cross a
   silver-embedded stairway. Badly injured, Jace accidentally drains {Misty}
   while recovering aboard the Victoria. That night he asks Nick for help
-  without disclosing the Astral, and in the morning Sophia agrees to bring
-  Nick further into the project.
+  without disclosing the Astral. In the morning, Sophia decides that secrecy
+  has become more dangerous than a larger team and agrees to tell Nick,
+  Brandon, and Nikos.
 cross_references:
   - "[[arc_01_falcon_and_fortuna]]"
   - "[[arc_01_thread_X_astral]]"
@@ -66,7 +67,7 @@ It fled toward the wall it had come from, limping on too many limbs and flailing
 
 They ran for the stairway connecting Ring Two down toward the transfer point, Sparky clutched against Jace's chest, his arm and side burning in a way that had stopped being pain and started being something colder.
 
-The thing turned and limped after them. They ran up the steps, and its lowest limb, Jace hesitated to call it a leg, reached the first step before jerking back in pain. It looked very bad, and Jace thought that one more could hit from Sparky's blasters might end it.
+The thing turned and limped after them. They ran up the steps, and its lowest limb, Jace hesitated to call it a leg, reached the first step before jerking back in pain. It looked badly injured, and Jace thought one more close hit from Sparky's thrusters might end it.
 
 The creature stopped there. Reared back, actually, the way an animal balks at a threshold it will not cross. Jace, half blind with shock, still noticed the thin solid line worked into the stair and the rail where it met the deck.
 
@@ -272,19 +273,19 @@ Sophia didn't answer right away. She sat on the edge of his mattress, which she 
 
 She didn't answer that right away either. She picked at a loose thread on the blanket, which was unlike her; Sophia's hands were usually doing something purposeful.
 
-"Do you know what this is?" she said. "What I have. No one else has this. I keep telling myself, one more month, one more result, and then I publish, and then I Brandon and Nikos can peer review everything, and it will be fine, they will forgive the months of secrets because the discovery is worth it and the data was not bisaed." A short, humorless laugh. "I have been telling myself soon since the second month."
+"Do you know what this is?" she said. "What I have. No one else has this. I keep telling myself, one more month, one more result, and then I publish. Then Brandon and Nikos can peer-review everything, and it will be fine. They will forgive the months of secrets because the discovery is worth it and the data were not biased." She gave a short, humorless laugh. "I have been telling myself soon since the second month."
 
-"They keep asking what we are doing, they see the equipment and boxes that dissapear. I have told Brandon soon. I have told Nikos soon. I say it and I mean it every time and then you and I find a new result and soon becomes later again."
+"They keep asking what we are doing. They see the equipment and boxes that disappear. I have told Brandon soon. I have told Nikos soon. I say it and mean it every time. Then you and I find a new result, and soon becomes later again."
 
 "That's not a character flaw, Sophia. That's just being scared and cautious."
 
-"It is also," she said, quieter, "wanting it to still be mine when I say it out loud. Do you understand how that sounds? The biggest discovery a thousand years and some small, ugly part of me is doing the math on citations. On whether there is a committee in Stockholm that has ever considered a physicist working alone out of a converted wine cellar." She shook her head sharply, as if she could throw the thought off by force. "I disgust myself a little, telling you that."
+"It is also," she said, quieter, "wanting it to remain mine when I say it out loud. Do you understand how that sounds? The biggest discovery in a thousand years, and some small, ugly part of me is calculating citations. Wondering whether a committee in Stockholm has ever considered a physicist working alone out of a converted wine cellar." She shook her head sharply, as if she could throw the thought off by force. "I disgust myself a little, telling you that."
 
 "You don't disgust me. You sound like someone who's been carrying this completely alone for five months and is exhausted."
 
 "I know that. Knowing it does not make it easier." She looked up at him. "You could have died last night. I could have died last week. I have decided that is a worse thing than losing the paper to a committee of strangers."
 
-"But, someone else might already know. The Chinese. Maybe others. What if governments or corporations know first and control it? What if we can let everyone know? We have a lot of data and observations."
+"But someone else may already know. The Chinese crew, perhaps others. What if a government or corporation learns first and controls it? What if we release the evidence ourselves? We have substantial data and observations."
 
 "Then okay. I will talk to Brandon and Nikos today. Not soon. Today. You talk to Nick. Then we all meet."
 
@@ -299,19 +300,18 @@ It wasn't relief, exactly, that Jace felt. It was closer to the specific weight 
 | Item | Status |
 |---|---|
 | Opens mid-fight, continuous with Ch20's reveal, not a second incident | done |
-| Jace solves the fight through Sparky's thrusters, not combat competence; rod strike reads as desperate and barely effective | done |
+| Jace solves the fight through Sparky's thrusters, not combat competence; the crowbar strike reads as desperate and barely effective | done |
 | Silver established as a second observed material of interference, independent of copper | done |
 | NEW — Silver's interference is now explicitly perceptual (blocks Astral sight), tied to the existing Density Trap spec rather than an unexplained new rule | done |
 | {Misty} contact is a rule-breaking accident with a clear physical cause (exhaustion, injury, proximity) | done |
 | Jace's energy gain from {Misty} is real but visibly lesser than from Sophia's prior drain, paired with guilt | done |
 | Sophia voices the "is the creature doing this too" question without answering it | done |
 | NEW — Jace's design-software workflow (requirements/functions/materials, prototypes as iterative revisions) shown briefly, not overdescribed | done |
-| NEW — Jace opens and closes a second, unlogged design file; deliberately unexplained, seeds the later Sparky chip surprise | done |
-| NEW — Kim's traffic complaint carries the silver-ore-premium detail without over-explaining it | done |
-| Chapter closes on Jin's crew unreachable for at least a week | done |
+| Jace records self-contained torches as a mandatory defense after Sparky's exhaust proves effective | done |
+| Kim's traffic complaint establishes that Jin's crew left on an unscheduled survey run and that {Seek} is paying a silver premium | done |
 | Nick sees Jace is hurt worse than the Long Burn fight explains and reacts with concern, not just suspicion | done |
 | Jace discloses danger to Nick without disclosing the Astral; partial reconciliation, not forgiveness | done |
-| Nick agrees to help under explicit conditions (tells Lanchee/Kim if risk found, stops if asked to lie) | done |
+| Nick agrees to help under explicit conditions (reports medical or station risk and stops if asked to lie) | done |
 | Chapter ends with Sophia and Jace in the morning; Jace revises his theory from "Chinese drone" to "Chinese somehow involved, unproven" | done |
 | Jace's suspicion of Jin's crew is written as his belief, not confirmed narrative fact, preserving the later reveal that Jin's crew are covert allies | done |
-| Sophia agrees to bring Nick onto the project, gated and incremental, not full disclosure | done |
+| Sophia agrees to disclose the project to Nick, Brandon, and Nikos in Chapter 22 | done |

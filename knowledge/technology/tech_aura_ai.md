@@ -6,7 +6,7 @@ type: distributed_personal_ai
 status: widely_deployed
 era: late 21st century - early 22nd century
 canonical: true
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 cross_references:
   - "[[char_aura_ai]]"
 ---
@@ -101,6 +101,23 @@ glows - his fractal biological light and his {Aura}'s steady crystalline geometr
 joined. Sophia documents this before Jace knows to look for it.
 
 **{Aura} appearance in the Astral:** AI systems appear in the Astral as structured, regular, geometric light patterns — less fractal than biological minds, more crystalline. The light is steady rather than pulsing. Brightness varies with processing intensity and self-modeling depth. Biological and AI glows are clearly distinguishable to any Astral observer — recognizably different kinds of consciousness, not different magnitudes of the same thing.
+
+### Sparky's Bounded Instance ({Aura-S})
+
+In Chapter 24, Nick prepares a deliberately reduced {Aura} stack for the custom
+chip Jace ordered for Astral Sparky. It includes sensor correlation, local navigation,
+memory integrity, and a small language interface. It excludes personality training,
+purchasing, messaging, station credentials, and public-mesh access. Jace and Sophia
+transfer the chip only after the first square-distance measurements, then Jace seats
+it in Sparky's existing hardened socket.
+
+{Aura-S} preserves the drone's three incompatible camera projections rather than
+selecting a consensus view. Applying the preliminary distance transform improves
+alignment, while physical scanner volumes from Lanchee's clinic supply reference
+boundaries for biological observations. In Chapter 26, this modeling also helps
+correlate unexplained physical processing load with Astral ticks attached to three
+personal {Aura} nodes. That finding establishes a feedable phenomenon shared by
+humans, animals, and AIs without yet proving the full AI-Will scaling mechanism.
 
 ## Voice and Personality (Generic)
 

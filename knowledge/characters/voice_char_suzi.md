@@ -3,7 +3,7 @@ id: voice_char_suzi
 character_ref: char_suzi
 type: character_voice_profile
 status: detailed (drafted from char_suzi.md and Ch09, Ch19)
-last_updated: 2026-08-18
+last_updated: 2026-08-20
 description: "Vocal and speech-pattern profile for Suzi Gonzales, Fortuna Station chief of security, formatted for local TTS audiobook generation."
 storybot_extrapolation_allowed: true
 cross_references:
@@ -105,7 +105,7 @@ Not a POV character in Ch00-20.
 `char_suzi.md` describes her manner but the retrieved chapter text did not
 surface direct quoted lines for her. **No dialogue anchors are listed here
 rather than inventing them.** Populate this section from `draft_ch09_first_week.md`
-and `draft_ch23_no_vampires.md` on the next pass.
+and `draft_ch25_no_vampires.md` on the next pass.
 
 ## Speech-Affecting Conditions
 None established.

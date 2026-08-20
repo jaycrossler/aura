@@ -7,7 +7,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-07-28
+last_updated: 2026-08-20
 description: >
   Scene contracts for Thread S — the swarm attack and Arc 1's closing beats.
   Migrated out of arc_01_falcon_and_fortuna.md during the thread-split restructure.
@@ -44,8 +44,9 @@ cross_references:
   months of quiet nest-clearing (P-04) pays off here
 - Sophia freezes when the Queen arrives — she stays anyway; the freeze makes the
   final positioning more meaningful
-- Nick crosses once, briefly, badly, and usefully — a ninety-second relay;
-  [Information Flow] pays off here
+- Nick remains physical-side during the swarm and coordinates the {Aura} network;
+  the [Information Flow] pattern first exposed by his Chapter 23 crossing pays off
+  through an unusually accurate relay assembled from contradictory station data
 - Sophia kills the Scavenging Queen using knowledge (the seventeen notebooks), not power
 - Jace absorbs the Queen's orb after Sophia's kill — combined with months of
   deliberate Transfer practice since the plumbing crisis, this brings him to

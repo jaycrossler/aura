@@ -4,7 +4,7 @@ name: Character Advancement Ledger
 type: kb_system
 status: canonical
 canonical: true
-last_updated: 2026-08-13
+last_updated: 2026-08-20
 description: >
   Machine-legible record of all confirmed skill advancement events across the series.
   One entry per advancement event: character, skill, level transition, trigger, arc,
@@ -193,18 +193,19 @@ advancement_events:
     skill: "[Force Application]"
     from_level: 1
     to_level: 2
-    trigger: orb (Tick-Maw nest creature) + continued practice
+    trigger: orb (wounded Ring Three predator) + continued practice
     arc: arc_01
-    scene: X-02b (Tick-Maw sweep) and subsequent practice
-    confirmed: retcon
+    scene: X-04f / Chapter 23 (Ring Three hunt) and subsequent practice
+    confirmed: true
     notes: >
-      RETCON 2026-06-27: Previously logged as L3 at Arc 1 end (Queen orb solidifying
-      borderline L2→L3). Revised per series balance decision: all non-Jace practitioners
-      end Arc 1 at L2 maximum. Sophia ends Arc 1 at solid L2 [Force Application].
-      The Queen orb (from S-01) still occurs but advances her to confident L2, not L3.
-      Arc 2 is where Sophia reaches L3 through continued training and a second orb event.
-      Supersedes the L3 entry in sheet_sophia_arc01_end.md — that sheet requires a
-      patch to correct to L2.
+      The Ring Three predator's orb arrives while Sophia is sustaining a force pin,
+      so her Template invests the absorbed Will into [Force Application]. She does not
+      recognize the level change. Chapters 24-26 show unexpectedly stronger and less
+      controlled output. The Queen orb in S-01 reinforces confident L2 rather than
+      advancing her to L3. Arc 2 remains the planned L3 transition through training
+      and another significant event. Supersedes the L3 entry in
+      sheet_sophia_arc01_end.md; that immutable sheet requires a separate authorized
+      revision process.
 
   - id: sophia_astral_transfer_l1
     character: sophia_lotte
@@ -335,14 +336,17 @@ advancement_events:
     from_level: null
     to_level: 0.5
     trigger: practice (emerging through {Aura} Will-detection work; briefly demonstrated
-              in swarm fight Astral relay)
+              during the Chapter 23 crossing and later swarm coordination)
     arc: arc_01
-    scene: S-01 (swarm fight — Nick's 90-second crossing)
+    scene: X-04f / Chapter 23 crossing, reinforced during S-01
     confirmed: true
     notes: >
       Nascent and unrecognized. L0.5 notation indicates skill is present but not
-      yet named, documented, or consciously accessible. Nick attributes the relay
-      accuracy to better signal processing. Kael will attribute it to something else.
+      yet named, documented, or consciously accessible. Nick's first Astral exposure
+      occurs in Chapter 23, where he remains aboard the *Victoria* with Cerberus. His
+      later physical-side swarm coordination is more accurate than the available data
+      should permit. Nick attributes the result to better signal processing. Kael will
+      attribute it to something else.
       Full L1 achieved when Nick names and tests the skill in Arc 2.
 
   # ─────────────────────────────────────────────
@@ -452,7 +456,7 @@ The following items require attention before prose drafts are written:
 | Flag | Description | Priority |
 |---|---|---|
 | `RETCON` | sheet_sophia_arc01_end.md states [Force Application] L3 — must be patched to L2 | HIGH |
-| `OPEN` | Queen orb absorption by Sophia: revised to advance her to L2 (not L3); confirm this is consistent with the swarm fight scene contract in arc_01 | HIGH |
+| `OPEN` | Queen orb absorption by Sophia now reinforces L2 after the Chapter 23 predator sphere creates the L1→L2 transition; confirm the swarm scene preserves that ceiling | HIGH |
 | `OPEN` | Jin's three named crew members with abilities: if they manifested under {Seek} suppression, they may have nascent L1 skills not yet logged | MEDIUM |
 | `OPEN` | Jace's [Object Template] on HUD: currently L1 unstable; does Arc 2 Kael teaching help him stabilize it? Not yet in ledger | MEDIUM |
 | `OPEN` | Cerberus familiar bond: not yet logged as a skill entry; Kael will read it in Arc 2; needs a ledger entry once formalized | LOW |

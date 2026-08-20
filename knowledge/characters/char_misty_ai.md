@@ -5,7 +5,7 @@ type: ai_character
 status: canonical
 canonical: true
 pronouns: she/her
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 description: "Air-gapped European ship AI and fourth crewmate of the Victoria, attentive to sensory experience and human wellbeing."
 cross_references:
   - "[[voice_char_misty_ai]]"
@@ -49,8 +49,7 @@ it only for its warmth and light. He touches her signature and drains it, a
 single continuous accident born of exhaustion and injury, not a deliberate
 no-contact observation gone wrong. Her dedicated stack dims while the *Victoria*
 remains pressurized and warm through its dock umbilical. Chapter 22 establishes
-that she returns after an eleven-hour recovery and index rebuild with fifty-three
-minutes of missing short-term storage and two damaged language indexes. She
-authorizes a bounded diagnostic export while withholding crew communications and
-private memory. Comparison with Sparky and {Seek} confirms a one-input,
-multiple-valid-outputs pattern without establishing its cause.
+that she returns to full function after eight hours with fifty-three minutes of
+missing short-term storage, two damaged language indexes, and a power-state history
+that claims she was awake and asleep at the same time. The revised chapter does not
+yet perform the earlier proposed diagnostic comparison with Sparky and {Seek}.

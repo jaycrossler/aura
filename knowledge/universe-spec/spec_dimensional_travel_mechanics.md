@@ -4,7 +4,7 @@ name: Dimensional Travel — Complete Mechanics Reference
 type: foundational_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-07-14
+last_updated: 2026-08-20
 supersedes: >
   Partial content in spec_crossing_mechanics, spec_astral_phenomenology,
   magic_never_never, legacy_lexicon_and_rulebook_reconciliation
@@ -74,6 +74,16 @@ asteroid belt and beyond). Distance compresses at **distance-cubed**.
 | Sun → outer planets             | ~30–50 AU      | ~1 month foot  | — (gravity well)   |
 | Solar system → Proxima Centauri | 4.2 ly         | —              | ~1 week foot       |
 | Solar system → Scar boundary    | ~800+ ly       | —              | ~1 month foot      |
+
+**Book 1 empirical discovery:** Chapter 24 establishes the characters' first
+preliminary distance-squared model. Brandon notices that Sparky's Astral sky does not
+match Fortuna's physical navigation catalog. He and Jace compare seven known station
+reflectors from three origins. Physical range ratios of 4, 9, and 16 map to Astral
+ratios near 2, 3, and 4. {Aura} reports that the inverse relationship is consistent
+with physical separation scaling as Astral separation squared. The team treats this
+as a strong working model, not a completed law. The shorter apparent light delay does
+not yet prove that *c* remains unchanged; the later rotating-mirror experiment retains
+that question.
 
 ---
 

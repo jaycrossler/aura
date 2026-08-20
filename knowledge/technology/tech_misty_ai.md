@@ -4,7 +4,7 @@ id: tech_misty_ai
 name: "{Misty} — ESA Vessel AI, Mistral Heritage"
 type: technology_specification
 status: canonical
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 era: story present
 cross_references:
   - "[[char_misty_ai]]"
@@ -243,13 +243,11 @@ cabinet by Sophia (chosen for its warmth and light, not deliberately) and
 accidentally contacts the signature, drawing its Will. This is the same
 mechanism as the earlier Sophia drain, not a separate or escalated event.
 
-Chapter 22 resolves the recovery and diagnostic details. {Misty} returns after
-an eleven-hour rebuild with fifty-three minutes absent from short-term storage
-and two damaged language indexes. She authorizes export of power-state,
-command-timing, speech-generation, and index diagnostics while retaining crew
-communications and private memory. {Aura} then compares her duplicate logged
-utterance with Sparky's contradictory wheel responses and {Seek}'s mutually
-exclusive alerts. The shared pattern is confirmed; its cause is not.
+Chapter 22 resolves the immediate recovery details. {Misty} returns to full
+function after eight hours with fifty-three minutes absent from short-term storage,
+two damaged language indexes, and a contradictory power-state history. The revised
+chapter no longer performs the earlier proposed {Aura} comparison with Sparky and
+{Seek}; later chapters preserve those systems as separate evidence streams.
 
 ---
 

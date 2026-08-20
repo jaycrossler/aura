@@ -3,7 +3,7 @@ id: voice_char_nick_lee
 character_ref: char_nick_lee
 type: character_voice_profile
 status: detailed (consolidated from char_nick_lee.md + Ch01-07 dialogue)
-last_updated: 2026-08-12
+last_updated: 2026-08-20
 description: "Vocal and speech pattern profile for Nick Lee, formatted for Orpheus TTS audiobook generation. Consolidates the voice notes already embedded in char_nick_lee.md into a dedicated, generator-ready file, and adds new dialogue anchors from Ch05-07."
 storybot_extrapolation_allowed: true
 cross_references:
@@ -67,7 +67,7 @@ than performed.
 - Gamer shorthand, fewer complete sentences, more callback humor
 - Accent fully dropped
 
-**The 90-second Astral crossing memory:**
+**The Chapter 23 Astral crossing memory:**
 - Makes the games joke, then visibly/audibly changes the subject — a
   performance note: the joke should land a beat too fast, like it's
   covering something, and then the topic should not return
@@ -139,7 +139,7 @@ Not a POV character in Ch00-07 — no internal monologue sample available yet.
 |---|---|
 | `default` / fast-friendly | No inline tags needed for most lines |
 | genuine delight / "THERE it is" | `<laugh>` acceptable immediately before or replacing part of the line — e.g., `<laugh> THERE it is.` |
-| the 90-second-crossing deflection | `<chuckle>` on the games joke itself, then a hard cut — no tag on the subject change; the silence/topic-drop should do the work |
+| the Chapter 23 crossing deflection | `<chuckle>` on the games joke itself, then a hard cut — no tag on the subject change; the silence/topic-drop should do the work |
 | technical mode | No inline tags — the flattened, sped-up delivery is achieved through pacing/register selection, not a vocal tag |
 | relaying the rumor (Ch05) | No inline tags — this should read hurried and slightly uncertain, not tagged with a sigh or gasp, since he's explicitly passing along secondhand information he hasn't emotionally processed |
 

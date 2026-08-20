@@ -61,9 +61,11 @@ handoffs so future chapter moves do not separate causes from their consequences.
 | **Ch19** | `draft_ch19_fault_lines` | Following interface-lab work across more than one day | Relay, three-camera rig, force recording, Sophia drain, work repair, bad apology, Council restriction |
 | **Ch20** | `draft_ch20_borrowed_light` | Starts the next morning at 0430 and ends during the Ring Three observation | Environmental probe, consent rupture, Long Burn fight, silver-panel evidence, creature reveal |
 | **Ch21** | `draft_ch21_the_eye_on_three` | Opens during the Chapter 20 attack and ends the following morning | Ring Three fight, silver threshold, accidental {Misty} drain, bounded request for Nick's help |
-| **Ch22** | `draft_ch22_quiet_companion` | Next day through the following morning | Recovery, *Victoria* boundaries, public metal survey, supervised {Aura} installation, contradictory-output and Adama semantic-gap findings |
-| **Ch23** | `draft_ch23_no_vampires` | Proposal and controls develop across three days after Chapter 22 | Lanchee receives risk-relevant disclosure; medical observation formalizes consent, privacy, and no-harvest rules |
-| **Ch24** | `draft_ch24_the_leech` | After the Chapter 23 protocol | First parasite/patient intervention; patient stabilizes over two hours |
+| **Ch22** | `draft_ch22_quiet_companion` | The day after Chapter 21 through the next team meeting | {Misty} recovery, supervised {Aura} installation, progressive data access, Sophia's disclosure to Brandon and Nikos, hunt preparation |
+| **Ch23** | `draft_ch23_fire_in_the_walls` | The following evening, after a day spent staging armor and torches | Nikos and Nick assisted crossings, Ring Three hunt, creature death, Sophia's sphere absorption, wrong-sky hook |
+| **Ch24** | `draft_ch24_wrong_stars` | During the forty-eight-hour post-hunt recovery window | Brandon and Jace derive a preliminary square-distance model; Jace and Sophia install Sparky's bounded {Aura-S} chip; Lanchee rejects the incomplete scanner request |
+| **Ch25** | `draft_ch25_no_vampires` | Two days of controlled scanner work after Chapter 24 | Full medical disclosure, object and volunteer scans, human Will, no-vampires protocol, first tick removal |
+| **Ch26** | `draft_ch26_the_sweep` | The following day | Controlled station sweep begins; goat and three {Aura}-node ticks removed; {Seek} becomes the unresolved high-risk target |
 
 **Deprecated:**
 - ~~`event_jace_messages_home`~~ — merged into `scene_03_jace_gym_arrival_with_messages`. File should be deleted or repurposed.

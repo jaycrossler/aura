@@ -85,7 +85,7 @@ related_characters: [char_jace_apollo, char_dog_cerberus, char_kael, char_brando
 related_ships: [ship_victoria]
 related_locations: [location_fortuna_station]
 related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 sheets:
   - sheet_sophia_arc01_end
 cross_references:
@@ -96,6 +96,8 @@ cross_references:
   - "[[ship_victoria]]"
   - "[[draft_ch20_borrowed_light]]"
   - "[[draft_ch21_the_eye_on_three]]"
+  - "[[draft_ch23_fire_in_the_walls]]"
+  - "[[draft_ch25_no_vampires]]"
 ---
 
 # The Fountain Pen
@@ -155,9 +157,23 @@ unexpected transfer.
 After the Chapter 20 observation turns into a direct attack, Sophia carries the
 injured Jace back to the *Victoria*. He accidentally drains {Misty} in Chapter 21
 after Sophia sets him against the processor cabinet for its warmth and light. In
-Chapter 22, Sophia, Brandon, Nikos, {Misty}, and Jace establish explicit no-entry
-and emergency-contact rules around the processor room. Continued scientific work
-does not erase Sophia's fear or immediately restore trust.
+Chapter 22, Sophia discloses the project to Brandon and Nikos, replacing the failing
+two-person arrangement with a larger team. Continued scientific work does not erase
+Sophia's fear or immediately restore trust.
+
+## Ring Three Hunt and Force Advancement (Chapters 23-25)
+
+Sophia helps Jace pull Nikos and Nick into the Astral, then joins Jace and Nikos in
+the Ring Three hunt. When the wounded creature dies, it leaves a Will sphere that
+moves toward her. She touches it and absorbs it without understanding the mechanism.
+The incoming Will follows the ability most active during the fight and advances her
+force application from L1 to L2. She experiences only warmth and unexpectedly greater
+output. She does not recognize the advancement as a level or skill.
+
+The consequences appear during the Chapter 24 Sparky installation and Chapter 25
+scanner work: objects move farther than intended, and Lanchee classifies the new
+output as uncontrolled. Sophia later refuses the first tick's smaller sphere under
+the team's no-harvest rule.
 
 ## Trauma Aftermath (Arc 1 end)
 
