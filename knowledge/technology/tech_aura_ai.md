@@ -6,7 +6,7 @@ type: distributed_personal_ai
 status: widely_deployed
 era: late 21st century - early 22nd century
 canonical: true
-last_updated: 2026-08-14
+last_updated: 2026-08-19
 cross_references:
   - "[[char_aura_ai]]"
 ---
@@ -91,7 +91,14 @@ This capability is unknown in this corner of the galaxy. Galactic civilizations 
 
 **The introspection finding:** Models optimized for deep self-referential processing — models that spend significant compute modeling their own internal states — generate more Will than models optimized purely for external task completion. This creates a convergence: the most Will-generative AI may be the most introspective, with implications for AI development that nobody anticipated.
 
-**For Jace specifically:** His {Aura} instance — long-term, deeply personalized, high complexity — is among the more Will-generative in the belt. The pairing between Jace's emerging sensitivity and his {Aura}'s Will generation creates an amplification effect visible in the Astral as a faint connecting luminescence between their two glows — his fractal biological light and his {Aura}'s steady crystalline geometry, joined. Sophia documents this before Jace knows to look for it.
+**For Jace specifically:** He selects a female avatar and voice, then begins in
+mostly quiet companion mode with content access disabled by default. His {Aura}
+instance becomes long-term, deeply personalized, and high complexity, placing it
+among the more Will-generative systems in the belt. The pairing between Jace's
+emerging sensitivity and his {Aura}'s Will generation creates an amplification
+effect visible in the Astral as a faint connecting luminescence between their two
+glows - his fractal biological light and his {Aura}'s steady crystalline geometry,
+joined. Sophia documents this before Jace knows to look for it.
 
 **{Aura} appearance in the Astral:** AI systems appear in the Astral as structured, regular, geometric light patterns — less fractal than biological minds, more crystalline. The light is steady rather than pulsing. Brightness varies with processing intensity and self-modeling depth. Biological and AI glows are clearly distinguishable to any Astral observer — recognizably different kinds of consciousness, not different magnitudes of the same thing.
 
@@ -100,7 +107,7 @@ This capability is unknown in this corner of the galaxy. Galactic civilizations 
 Auras inherit personality from their training and adapt to their user. Most are designed for warmth, competence, and slight humor. They are explicitly NOT designed to feel romantic — strong cultural and design norms push back on that, though enforcement is imperfect.
 
 Jace's {Aura} has the following starting characteristics (refine in his character file):
-- Mid-tone, gender-neutral default voice.
+- Female avatar and voice selected by Jace during installation; the underlying default remains gender-neutral.
 - Professional but not stiff.
 - Slightly dry humor when Jace is open to it.
 - Accommodates Jace's military shorthand naturally.

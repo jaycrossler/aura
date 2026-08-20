@@ -173,7 +173,7 @@ Jace watched the pen.
 
 "Wood?"
 
-"My father made it. The metal pen insert comes out and I leave it here and put it back in when I arrive. Wood crosses easily. Metals are harder. This took an hour for the inside.  I tried a small computer tablet, but couldn't get it across."
+"My father made it. The metal pen insert comes out, and I leave it here and put it back in when I arrive. Wood crosses easily. Metals are harder. This took an hour for the inside. I tried a small computer tablet, but couldn't get it across."
 
 "My HUD came with me. But it's not working, keeps crashing."
 
@@ -271,7 +271,7 @@ At the inn, Jace's room appeared through three walls at once.
 
 "That sounds more reassuring."
 
-"Hold Cerberus. Think about your bunk. The blanket weight. Recycler noise. Something boring and physical. Then decide you are there.  Let it take time."
+"Hold Cerberus. Think about your bunk. The blanket weight. Recycler noise. Something boring and physical. Then decide you are there. Let it take time."
 
 Jace picked up the dog, both happy at the warmth.
 

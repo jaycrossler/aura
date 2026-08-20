@@ -4,13 +4,13 @@ Athena: Artemis still has not answered.
 
 Apollo: I know.
 
-Athena: That is not a plan.
+Athena: You are like right next to her. Can't you just radio her?
 
-Apollo: I am trying every relay.
+Apollo: Didn't you take astronomy? We're 30 million miles away this week. I can't just radio her. I'm trying every message route though.
 
-Athena: Try sleeping too. You sound awful.
+Athena: Try sleeping too. I saw you on the Pig cam yesterday. You look awful.
 
-Apollo: I am fine.
+Apollo: I'm fine.
 
 Athena: Liar.
 
@@ -62,11 +62,11 @@ Minus twenty point one.
 
 "We add circulation and chemical scrubbers."
 
-"In both places."
+"In both places. We shouldn't stay here if we don't have to. Maybe that's adding to headaches."
 
-She wrote the readings without looking at him.
+She wrote the readings without looking at him, added tasks to their TO-DO queue.
 
-Jace waited until she finished.
+Jace waited until she finished, then steeled himself and finally asked her.
 
 "Are you angry because I kept working?"
 
@@ -142,65 +142,55 @@ It looked like a body.
 
 Jace wrote the technical note: automated privacy suppression, absent medical beacon, absent destination, intact source frames retained.
 
-He did not write body.
+He did not write body. He was stressed and angry.
 
-Suzi removed the token.
-
-"Stop by the Long Burn after shift," she said. "I want to check the passage against the old crew rotations, and the bar has fewer cooperative ears than my office."
-
-"That sentence does not make me trust the bar."
-
-"Good."
+Suzi removed the token and left in a hurry.
 
 Nick's reply arrived after she left.
 
-Correct. It is a bad apology.
+Correct. It was a bad apology.
 
 Nothing followed.
 
 
 
-The Long Burn was loud enough to turn privacy into exhaustion.
+The Long Burn was loud enough to turn privacy into exhaustion. Jace had stopped by his room to feed Cerberus, then saw Suzi sharing a beer with Hayes. The old man waved and tossed Cerberus a small piece of something. Cerberus yipped and jumped a meter into the air to catch it. Everyone nearby applauded. The dog took his prize to the corner, plainly proud of himself.
 
-The market had stopped serving full dinners after eighteen hundred, so the bar sold stew beside the beer. Every table was occupied. One screen showed the American Red administration blaming Chinese sabotage for the missing ships. Another showed a Chinese official blaming an American blockade for the supply failures. The captions disagreed about which government had moved armed ships first.
+The market had stopped serving full dinners due to some supply issues, so the bar sold stew beside the beer. Every table was occupied. One screen showed the American Red administration blaming Chinese sabotage for the missing ships. Another showed a Chinese official blaming an American blockade for the supply failures. The captions disagreed about which government had moved armed ships first.
 
-Suzi sat at a side table with an old station roster open on paper. She did not show Jace the footage again.
+Jace sat next to Suzi as Hayes got up, complaining about an old man needing to head to bed.
 
-"Three members of Jin's crew were off shift that night," she said. "Yáo was not one of them."
+Jace's mood had not improved. He had spent all day wrestling with whether to tell Suzi about the drones. Sophia seeing one had been too much. If someone was keeping one on the station, it was dangerous.
 
-"He left an assigned post?"
+"Isn't that the guy from the video?" Jace had seen him around, of course, just as he had seen Jin and the rest of the mining crew. They walked around the station, usually wearing silver-headed mining axes despite the ban on weapons inside.
 
-"For forty-one minutes. The log calls it equipment retrieval."
-
-"From an unlisted corridor with no tagged equipment."
-
-"Those are facts. Keep them separate from the story in your head."
+Suzi sighed, "Keep your voice down, please. We're not in a privacy zone."
 
 Jace looked across the bar.
 
 Yáo stood near the counter with two miners. Broad shoulders, scarred hands, quiet posture. He wore no belt axe inside the bar. The absence made him look prepared rather than harmless.
 
-"They have been disappearing from shifts," Jace said. "They move untagged cargo. They work in the same section where systems keep failing."
+"I checked a few more feeds. Did you know they've been bringing multiple untagged cases into the station through construction entrances?" Jace said. "Usually soon after ships go missing."
 
 "Lower your voice."
 
-"At what point does a pattern become sabotage?"
+"At what point does a pattern become sabotage? My sister is on Adama station."
 
 Yáo turned.
 
-Suzi closed the roster.
+Suzi closed the tablet she was looking at and sighed.
 
 "Usually after evidence," she said.
 
 Yáo came to the table.
 
-"What sabotage?" he asked.
+"What sabotage?" he asked with a thick accent.
 
 Jace should have let Suzi answer.
 
-He had not slept. Sophia would not stand near him. Nick had confirmed the apology was worthless. Public screens had spent two days supplying a nationality for every failure.
+He had not slept. Sophia would barely talk to him. Nick wouldn't acknowledge him. Public screens had spent two days supplying a nationality for every failure.
 
-"Your crews leave assigned work," Jace said. "You use unlisted passages and move unmanifested loads. Systems fail after you are there."
+Jace said, "Asteroid minerals are going missing. You're moving unmanifested loads. Systems fail after you are there."
 
 He did not mention the shape inside the bag.
 
@@ -210,27 +200,23 @@ Yáo looked at Suzi.
 
 "I asked for a camera assessment."
 
-"American drone man assesses Chinese corridors."
+"American drone man watches Chinese workers and messes up their oxygen supply."
 
-"The camera was already there," Jace said.
+"My automation delayed everyone. I apologized for that."
 
-"Your drones delayed our oxygen."
+"Not to me."
 
-"My automation delayed everyone."
-
-"Three of ours."
-
-"And eleven outside your section. I repaired it. What are you repairing in those tunnels?"
+"Do you deserve an apology?"
 
 Yáo hit him.
 
-The first punch split Jace's lip and removed the table from his plan.
+The first punch split Jace's lip and surprised him so much he froze.
 
-He stood because training had put standing between surprise and thought. He blocked the next strike with both forearms, stepped inside Yáo's reach, and drove a shoulder forward.
+He blocked the next strike with both forearms, remembering football training as a kid. He stepped inside Yáo's reach, and drove a shoulder forward.
 
 Mars-standard gravity made the movement look better than it was.
 
-Both men crossed two meters. Yáo turned in the air, landed on one foot, and used Jace's sleeve to continue the rotation. Jace struck the floor on his back.
+They both went flying. Yáo turned gracefully in the air, landed on one foot, and used Jace's sleeve to continue the rotation. Jace struck the floor on his back.
 
 The room flashed white.
 
@@ -238,23 +224,19 @@ He rolled. Yáo's boot missed his ribs and caught his hip.
 
 Jace got one hand around Yáo's wrist. Yáo broke the grip without hurrying and hit him twice in the body. The second strike emptied Jace's lungs.
 
-Jace threw one punch. It caught Yáo high on the cheek.
-
-Yáo's head moved six centimeters.
-
-That was the complete effect.
+Jace threw one punch. It caught Yáo high on the cheek, little more than a slap.
 
 Yáo hooked Jace's ankle, turned his shoulder, and put him down again. Jace tried to rise. A knee settled between his shoulder blades.
 
-He had lost.
+He had lost. The room went silent.
 
-Cerberus came out from beneath the table snarling.
+Cerberus came charging out from the corner, snarling.
 
 "Stay," Jace gasped.
 
-The dog stopped, every line of him aimed at Yáo.
+The dog stopped, every line of him aimed at Yáo, growling.
 
-Suzi seized the back of Yáo's collar and pressed a tranquilizer pistol beneath his arm where nobody else could see it.
+Suzi seized the back of Yáo's collar.
 
 "Off."
 
@@ -264,7 +246,7 @@ Suzi stepped between them.
 
 Her deputies arrived from opposite sides of the room with their pistols pointed at the floor.
 
-"Everyone leaves in different directions," she said. "Anyone who mistakes this for a national event spends the night explaining it to Alex."
+"Everyone leaves in different directions," she said. "Anyone who mistakes this for a national event spends the night explaining it to Alex and Penny."
 
 Yáo wiped Jace's blood from one knuckle.
 
@@ -274,71 +256,59 @@ Yáo wiped Jace's blood from one knuckle.
 
 Suzi looked down at him.
 
-"That was not the useful final sentence."
+"I don't think I need any more of your help."
 
 Alex issued both men fighting fines before Jace reached the door.
 
-The fine removed most of the credits Kim's restored work had earned.
+As he left towards Two, he had 8 tokens left in his account.
 
 
 
 Sophia opened the Victoria's hatch, saw his face, and laughed.
 
-It was the first warm sound she had made around him all day.
+It was the first warm sound she had made around him in days.
 
-"You lost a fistfight."
+"I lost a fistfight."
 
-"The evidence currently supports that conclusion."
-
-"Weren't you in the military?"
+"The evidence currently supports that conclusion. Weren't you in the military?"
 
 Jace touched his split lip and regretted it.
 
-"I was Air Force, and only in two battles. Both times I pushed keys to fly drones on the other side of the world."
+"I was Air Force. I pushed keys to fly drones on the other side of the world."
 
 "No one punched you through the screen?"
 
-"The military would considered that a security vulnerability."
+"The military would consider that a security vulnerability."
 
 Her smile faded before he finished.
 
-She was still angry.
+She was still angry, but he could see it warring with pity.
 
-They had agreed to something smaller than reconciliation.
+"Should we still go?"
 
-Not a shared crossing for another test. Sophia wanted to see the thing on Ring Three, or at least get an image of it that wasn't just her own eyes doubting themselves.
+He nodded. "It's not as bad as it looks."
 
-"We are not going down," she said. "We are looking down."
+Earlier, they had agreed to see the thing on Ring Three, or at least get an image that was not only her own eyes doubting themselves. Something he could take to Suzi.
 
-Jace clipped the third camera housing back onto Sparky's frame with tape, since the mount had stripped its thread. "Photographs. Not contact."
+"We are not going into the construction area," she said. "We are just looking."
 
-"If that word finds its way back into a plan, I end the plan."
+Jace clipped the third camera housing back onto Sparky's frame with tape because the mount had stripped its threads. "Recordings. Not contact."
 
-"Understood."
+He still picked up a large steel crowbar that he'd previously moved over and hooked it to his belt.
 
-They crossed together into Ring Two, a level they had both walked before, close enough to Fortuna's public sections that neither needed a tether to feel safe there. Thirty meters below and a hundred, maybe a hundred fifty around, Ring Three turned through its construction gantries. From here it should have been nothing but distant motion and worker traffic.
+They left for Ring Two. From the vestibule, he could barely see up into the bar on One, where people still congregated. Thirty meters below and a hundred, perhaps a hundred fifty around the curve, the walkable area of Ring Three ended in construction gantries. From here, it should have been nothing but distant motion and worker traffic. The blocked bands of copper and silver showed black, while everything else formed blue-tinted fractals.
 
-Sparky's third camera, finally cooperating, agreed with the other two.
+Between pipes and wires, they could see the level on Three taking form. Jace rebooted and resynched Sparky's third camera, which finally agreed with the other two.
 
-Jace angled the feed. Scaffolding. A crane. Two suited figures moving cargo. Ordinary.
+They took the stairs down to Three and Jace angled the feed. Scaffolding. A crane. Two suited figures moving cargo. Ordinary.
 
-Then, near the unlisted room, the one Suzi's footage had already made him suspicious of, a supply run he hadn't expected. A small unmarked drone, not a Fortuna hull pattern he recognized, was walking a load of flat panels into the room in relayed trips, one at a time, each one wrapped in insulating foil that did nothing to hide what was underneath it in the Astral.
+Then he saw a supply run near the back of the airless construction space, close to the passage that had drawn Suzi's suspicion. It was not on the map. A small unmarked drone, unlike any Fortuna hull pattern he recognized, carried a load of flat panels toward the room. Insulating foil covered each one but did nothing to hide the material beneath it in the Astral.
 
 The panels didn't glow the way most cargo did. They didn't glow at all. Wherever one passed, the faint Astral texture of the wall behind it smeared and dimmed, the way a bright window looks when someone draws a heavy curtain across it mid-glance.
 
-"That's not steel," Jace said.
+"That's not steel," Jace said. "That's silver."
 
-"How do you know that from here?"
-
-"I don't. I know it's not nothing." He watched another panel go in. "Whatever that is, it's heavy enough that Sparky's feed can barely hold a fix on it while it moves."
-
-Sophia made a note without looking away from the window.
-
-"Add it to the list of things we do not understand about that room."
-
-"The list is getting long."
-
-"The list is the job."
+"Are they panelling the entire room in silver? I can't see anything inside it."
 
 Movement pulled his attention off the panels; something in the construction zone shifted in a way that wasn't a worker's rhythm, too much of it in too little space, folding into itself and back out.
 
@@ -346,15 +316,15 @@ Movement pulled his attention off the panels; something in the construction zone
 
 Jace zoomed in. The image blurred and refused to resolve into anything he could name. A shape. A wrongness in how the shape used the space it occupied.
 
-"Drone," he said, out of habit more than conviction. "Has to be."
+"Drone," he said, out of habit more than conviction. "Has to be. I'm zooming Sparky in on it."
 
-The wall between Ring Two and Ring Three tore open eight meters to their left.
+The wall tore open eight meters to their left.
 
 Jace had time to think that is not where the wall is supposed to open before something came out of it.
 
-It moved faster than anything mechanical had any right to, closing the distance before either of them reacted. Not a drone. Wet tissue where he expected housing. A limb that bent in three places no drone limb bent. A single eye that was not a lens, because a lens does not have a lid.
+It moved faster than anything mechanical had any right to, closing the distance before either of them reacted. He finally saw it in the bright astral light. Not a robot. Rounded textured tissue where he expected housing. Sharp arms, too many of them. A limb that bent in three places no metal limb could emulate. An eye that was not a lens, because a lens does not have multiple lids or ooze pus.
 
-It caught him across the forearm and the side. Pain arrived a half second behind the sight of his own blood in the Astral light.
+It caught him across the forearm and side. Pain arrived half a second behind the sight of his own blood in the Astral light. For the second time in two hours, he was knocked to the ground.
 
 Sophia was already moving, already shouting something he couldn't process over the ringing that had started behind his eyes.
 

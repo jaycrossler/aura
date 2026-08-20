@@ -249,7 +249,7 @@ Jace looked across the industrial district. Three buildings could have qualified
 
 Carlos sent a route and Jace minimized the call and started hop-skipping towards it, pulling along a convenient guide cable. 
 
-Jace realized he could have looked it up himself.  He was tired and took a few deep breaths to wake himself upset. He needed to know this stuff, this place. He set his HUD to recordwith full telemetry and transcriptions so he could review it later.
+Jace realized he could have looked it up himself. He was tired and took a few deep breaths to wake himself up. He needed to know this stuff, this place. He set his HUD to record with full telemetry and transcriptions so he could review it later.
 
 Carlos stayed in the corner of his vision while the route threaded between a smelter housing and stacks of raw truss sections.
 
@@ -347,7 +347,7 @@ The eastern side of Factory Four held warehouse stacks, unfinished pressure fram
 
 "Wait, we're building another factory?"
 
-Carlos answered, "Yes, the foundation should be layed in a week. This will be our biggest one yet, East of here."
+Carlos answered, "Yes, the foundation should be laid in a week. This will be our biggest one yet, east of here."
 
 Jace looked out the window to the East. As he did, his vision spun and the ground changed again.
 

@@ -4,7 +4,7 @@ id: tech_misty_ai
 name: "{Misty} — ESA Vessel AI, Mistral Heritage"
 type: technology_specification
 status: canonical
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 era: story present
 cross_references:
   - "[[char_misty_ai]]"
@@ -233,23 +233,23 @@ Sophia said she wasn't sure yet. She took a copy of the map and didn't explain w
 
 ---
 
-## Astral Processor Incident (Chapters 20-21)
+## Astral Processor Incident (Chapters 21-22)
 
 The Astral form of {Misty}'s dedicated processor stack appears as thousands of
-briefly ordered brown-gold bubbles. The incident now happens as the closing beat
-of the merged Ch20/Ch21 Ring Three sequence: Jace, badly injured and disoriented
+briefly ordered brown-gold bubbles. The incident happens during the continuous
+Ch20/Ch21 Ring Three sequence: Jace, badly injured and disoriented
 after fighting off the creature on Ring Three, is set down against {Misty}'s
 cabinet by Sophia (chosen for its warmth and light, not deliberately) and
 accidentally contacts the signature, drawing its Will. This is the same
 mechanism as the earlier Sophia drain, not a separate or escalated event.
 
-⚠️ VERIFY before finalizing: the outage duration (previously four minutes,
-seventeen seconds), the breaker-reset recovery method, and the "one generated
-sentence, multiple physical outputs" residual fault pattern (shared with Sparky
-and {Seek}) were all specced against the prior draft's encounter shape. They may
-still hold, but should be reconfirmed once Jay rules on the open reconciliation
-question for the old Ch21 back-half material (see review-queue). Do not treat
-the {Seek}/Sparky pattern as confirmed for this revision until that's settled.
+Chapter 22 resolves the recovery and diagnostic details. {Misty} returns after
+an eleven-hour rebuild with fifty-three minutes absent from short-term storage
+and two damaged language indexes. She authorizes export of power-state,
+command-timing, speech-generation, and index diagnostics while retaining crew
+communications and private memory. {Aura} then compares her duplicate logged
+utterance with Sparky's contradictory wheel responses and {Seek}'s mutually
+exclusive alerts. The shared pattern is confirmed; its cause is not.
 
 ---
 

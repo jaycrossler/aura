@@ -203,7 +203,7 @@ Sophia wrote both risks beneath Lanchee's authorization. They signed again, this
 
 ##
 
-They changed the instrumentation before crossing 55.
+They changed the instrumentation before crossing again.
 
 Jace fixed the physical medical clock to an isolated light that flashed once per second. Sparky carried its Astral camera and a paper wheel marked with sixty black lines. Sophia would rotate the wheel one mark for each physical flash that {Aura} reported through Jace's implant.
 
@@ -642,5 +642,4 @@ Below that, he wrote the next requirement.
 | Lanchee imposes consequences and continued medical oversight | done |
 | The medical system's repair-is-recovery error extends the valid-data, wrong-conclusion AI pattern | done |
 | The ending motivates the station sweep | done |
-
 

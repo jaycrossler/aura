@@ -136,11 +136,11 @@ Stroke. Radiation damage. Implant failure. Oxygen deprivation. A seizure shared 
 
 None explained the room.
 
-He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away. He could see eveything around him. *Everything.* Ring Two and Three below. People walking. The asteroid. The sun.  Walls were transparent...ish. But also solid. But also he could see the wires and pipes inside them.
+He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away. He could see everything around him. *Everything.* Rings Two and Three below. People walking. The asteroid. The sun. Walls were transparent...ish. But also solid. But also he could see the wires and pipes inside them.
 
-Jace stood, holding Cerberus against his chest, and pressed the hatch control. It was the only thing in the room that wasn't see-through, like a prefectly black rectangle.
+Jace stood, holding Cerberus against his chest, and pressed the hatch control. It was the only thing in the room that was not see-through, like a perfectly black rectangle.
 
-His hand sank through the outside cover, but couldn't quite move through all of it. Around it, he could see siwtches, motors, actuators, wires. His fingers were solid. And cold.
+His hand sank through the outside cover but could not quite move through all of it. Around his fingers, he could see switches, motors, actuators, and wires. His fingers were solid. And cold.
 
 He jerked back.
 
@@ -158,7 +158,7 @@ Cerberus glared through his mask with complete agreement, tail between his legs.
 
 Jace pushed.
 
-The hatch did not open. Its shapes of the door *rotated* away from them in a new direction that he had no name for.
+The hatch did not open. The door's layered shapes *rotated* away from them in a new direction that he had no name for.
 
 The corridor beyond tipped into view. A new direction unfolded beside forward, backward, left, right, up, and down. His inner ear rejected it. His stomach followed.
 
@@ -206,7 +206,7 @@ Cerberus watched her glowing form and whined.
 
 That conclusion helped less than Jace expected.
 
-They passed the inn's main room. Everything was crystaline with glowing forms behind and above. The only thing not see-through was the mirror on the wall, which reflected the rippling reflection of a scared cold masked man and a squirming masked dog.
+They passed the inn's main room. Everything was crystalline, with glowing forms behind and above. The only thing not see-through was the mirror on the wall, which reflected the rippling image of a scared, cold, masked man and a squirming masked dog.
 
 They walked toward the clinic.
 

@@ -262,9 +262,9 @@ Nick plugged a cable into the unit.
 
 Nick tilted his head, and pointed to a screen on the wall that was showing a map of the Fortuna asteroid factory complex below.
 
-"I don't understand, though. If you want a custom processor, why don't you just order one printed in our giant custom processor factory?"
+"I don't understand, though. If you want a custom processor, why don't you just order one printed in our giant custom processor factory? The square-kilometer building right there generates AI chips for the entire solar system."
 
-Jace turned to the asteroid, "Wait. We have what now?"
+Jace turned toward the asteroid on the screen, with its blinking factory lights and army of support drones working the surface. "Wait. We have what now?"
 
 
 
@@ -272,7 +272,7 @@ Crossing 49 began with two radios, a game controller, and Sparky's shell.
 
 The radios were relatively easy. He had found an old children's crystal radio kit. An hour of pulling gave them a walkie-talkie that ran on existing batteries he'd previously moved over. It looked... very cheap. But it worked and should cover the whole station. Probably.
 
-For Sparky, Jace removed the panels and transferred them one at a time. Simple metal crossed in minutes. The wires took longer. The controller took most of the session.
+For Sparky, Jace removed the panels and transferred them one at a time. Simpler metals crossed in minutes. The wires took longer. The controller took most of the session. He didn't even try to move the mini AI stack, even after one attempt he knew it would take days of pulling.
 
 Sophia laid the parts in exact rows on the Astral workbench as they came across. She had her radio in her ear, and would periodically leave for measurements or experiments.
 
@@ -334,7 +334,7 @@ Brandon smiled. A small blush of orange joy moved through his branching mental l
 
 On day nine, Jace had a nice long breakfast with Hayes. He was relaxed, jaunty. There was no need to hurry, and Hayes was regaling him with a tale of how Ring Two had almost fallen off the station when they'd attached it, how they'd all briefly lost air. It sounded terrifying, but Hayes laughed and made it sound like a grand adventure.
 
-He had a coffee, using Tokens from the survey trip. His automations meant he could come in late.
+He had a coffee, using Tokens from the survey trip payout. His automations meant he could come in late.
 
 His HUD pinged that one delivery drone entered safe mode at the construction junction on Three.
 
@@ -350,7 +350,7 @@ The queue remained green.
 
 Penny sent a cheerful note.
 
-Hi, Contractor Grant! Your automated routing changes have produced several novel access patterns. I have added them to your existing Pattern of Interest file so we can learn together. No action is required. Have a productive shift. As an Origin employee on the station, I am required to alert you of this observation!
+Hi, Contractor Grant! Your automated routing changes have produced several novel access patterns. I have added them to your existing Pattern of Interest file so we can learn together. No action is required. Have a productive shift. As an Origin employee on the station, I am required to alert you and Alex of this observation!
 
 Jace closed it.
 
@@ -464,7 +464,7 @@ Jace sealed his mask.
 
 She watched him for another second, then nodded.
 
-They crossed, grabbed coats, started pulling. They had large air tanks now of air, and could quickly top of masks when they got low.
+They crossed, grabbed coats, started pulling. They had large air tanks now of air, and could quickly top off masks when they got low.
 
 The second and third thrusters went faster with both of them pulling, but it was still almost an entire night of grueling work.
 

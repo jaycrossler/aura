@@ -6,7 +6,7 @@ name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
@@ -341,8 +341,10 @@ Full contracts live in the linked thread file.
 | 23 | X-02b | X | The Sweep — goat, servers, "Invasion Force?" notebook | thread_X | ok |
 | 24 | X-03 | X | **NEW — proposed:** Sophia notices Jace's "two cores" | thread_X | drafted this pass, pending approval |
 | 25 | X-04a | X | Interface Lab / Fault Lines — relay, three-camera Sparky, foundational force recording, accidental Sophia Will transfer | `draft_ch19_fault_lines` + thread_X | drafted |
-| 25b | X-04b | X | Borrowed Light — environmental probe, consent rupture, Long Burn fight, accidental {Misty} drain | `draft_ch20_borrowed_light` + thread_X | drafted |
-| 25c | X-04d | X | The Eye on Three — Ring Three organism, doubled commands, contradictory AI outputs | `draft_ch21_the_eye_on_three` + thread_X | drafted |
+| 25b | X-04b | X | Borrowed Light — environmental probe, consent rupture, Long Burn fight, silver-panel evidence, creature reveal | `draft_ch20_borrowed_light` + thread_X | drafted |
+| 25c | X-04d | X | The Eye on Three — Ring Three fight, silver threshold, accidental {Misty} drain, bounded request for Nick's help | `draft_ch21_the_eye_on_three` + thread_X | drafted |
+| 25d | X-04e / X-01b / N-03 / L-07 | X/N/L | Quiet Companion — recovery, *Victoria* boundaries, metal survey, {Aura} install, contradictory outputs, Adama semantic gap | `draft_ch22_quiet_companion` + thread_X + thread_N + thread_L | drafted |
+| 25e | X-02 | X | No Vampires — Lanchee disclosure, controlled medical observation, human Will, privacy and no-harvest protocol, parasite reveal | `draft_ch23_no_vampires` + thread_X | drafted |
 | 26 | X-05a | X | The Numbers Go Wrong — laser ranging derivation | thread_X | ok — see Open Decision #8 |
 | 27 | X-05b | X | The Unstable Site — asteroid interior survey | thread_X | ok |
 | 28 | X-05c | X | "This Changes Everything" — Nick disclosure | thread_X | ok |

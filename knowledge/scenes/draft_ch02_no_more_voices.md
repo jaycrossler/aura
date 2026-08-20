@@ -39,9 +39,9 @@ supersedes:
 >
 > *Athena: Hey, didn't they have to sell all there stocks to buy a lawyer to try to get you reinstated?*
 >
-> *Artemis: I told them that wouldn't work. The new administration will not be buillied.*
+> *Artemis: I told them that wouldn't work. The new administration will not be bullied.*
 >
-> *Apollo: Even by people trying to uphold the law, aparently.*
+> *Apollo: Even by people trying to uphold the law, apparently.*
 
 <!-- beat:t_forge_no_more_voices.beat1_forge_and_voices -->
 The machine shop smelled like warm polymer and burnt ambition.

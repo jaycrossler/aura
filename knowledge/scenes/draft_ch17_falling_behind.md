@@ -269,9 +269,9 @@ They had never gone this far through Fortuna.
 
 Jace left the *Victoria*, crossed the transparent corridor of Ring Two, and entered the docking spine while peering around at everything he could. Sparky flew beside him with the oxygen bottle knocking softly against his shell.
 
-The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings. He realized he didn't have to walk all the way to a stairs, he could just push himself through the floor, though there was enough silver and copper pipes through the walls to make it non-trivial to climb through. But, wary of *also* falling off, he decided not to experiment too much during an emergency.
+The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings. He realized he did not have to walk to a stairway; he could push himself through the floor. Enough silver and copper piping crossed the walls to make the route difficult, and he was wary of *also* falling off, so he decided not to experiment during an emergency.
 
-At the central hub, spin gravity faded. Gravity was Mars-standard in the real, it was less here with gravity being more something you decided on, not that was decided upon you. Jace caught a guide rail that his hands could feel and that his eyes couldn't see through. He pulled himself toward the nonrotating shaft.
+At the central hub, spin gravity faded. Gravity was Mars-standard in the Real. Here it felt more like a direction someone chose than a force imposed on them. Jace caught a guide rail that his hands could feel and that his eyes could not see through. He pulled himself toward the nonrotating shaft.
 
 "Sophia, status."
 
@@ -629,7 +629,7 @@ Sophia leaned back against the wall, exhausted.
 
 "The crossing is not the magic," she said. "It is only where the magic was easiest to see."
 
-Despite walking through worlds, they had never before used the word 'magic' before. Outside the room, Fortuna continued its long fall around the Sun.
+Despite walking through worlds, they had never used the word *magic* before. Outside the room, Fortuna continued its long fall around the Sun.
 
 Inside, Jace held a cup that had flown.
 

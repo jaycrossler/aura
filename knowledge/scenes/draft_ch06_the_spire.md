@@ -36,7 +36,7 @@ cross_references:
 >
 > *Apollo: Technically, Origin owns publicity rights and they own all profits I make. I think they felt sorry for me so they added that to my spending account. Which now has a total of 150 tokens in it. Which I'll use to buy dog food from them.*
 >
-> *Athena: I'm definately switching to major in Corporate Financial AI Oversight.*
+> *Athena: I'm definitely switching to a major in Corporate Financial AI Oversight.*
 >
 > *Artemis: That's an entire degree program now?*
 

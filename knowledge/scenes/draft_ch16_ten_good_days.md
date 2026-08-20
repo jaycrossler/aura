@@ -293,9 +293,9 @@ Nick plugged a cable into the unit.
 
 Nick tilted his head, and pointed to a screen on the wall that was showing a map of the Fortuna asteroid factory complex below.
 
-"I don't understand, though. If you want a custom processor, why don't you just order one printed in our *giant custom processor factory*? Like the square kilometer massive building right there that generates AI chips for the entire solar system?"
+"I don't understand, though. If you want a custom processor, why don't you just order one printed in our *giant custom processor factory*? The square-kilometer building right there generates AI chips for the entire solar system."
 
-Jace turned to the asteroid on screen with the blinking factory lights and army of support drones working its surface, "Wait. We have what now?"
+Jace turned toward the asteroid on the screen, with its blinking factory lights and army of support drones working the surface. "Wait. We have what now?"
 
 ##
 

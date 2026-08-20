@@ -186,7 +186,7 @@ They explored her ship first. Her room on the Victoria looked almost completely 
 
 Jace kept one hand on Cerberus's harness as they walked. Sophia asked him to name each observation as they moved. She scribbled furiously in a new notebook, sometimes uttering "Merde" or "Scheisse" when he pointed out something she hadn't realized before.
 
-"Physical metal is visible but not fully solid. Copper feels almost twice as weak as aluminum."
+"Physical metal is visible but not fully solid. Copper feels much harder to see through. It's easier to push my finger through aluminum than copper. The silver on door handles is almost impossible to see through and hard to move my hand through."
 
 "Hmm."
 
@@ -715,9 +715,9 @@ Nick plugged a cable into the unit.
 
 Nick tilted his head, and pointed to a screen on the wall that was showing a map of the Fortuna asteroid factory complex below.
 
-"I don't understand, though. If you want a custom processor, why don't you just order one printed in our giant custom processor factory?"
+"I don't understand, though. If you want a custom processor, why don't you just order one printed in our giant custom processor factory? The square-kilometer building right there generates AI chips for the entire solar system."
 
-Jace turned to the asteroid, "Wait. We have what now?"
+Jace turned toward the asteroid on the screen, with its blinking factory lights and army of support drones working the surface. "Wait. We have what now?"
 
 
 
@@ -725,7 +725,7 @@ Crossing 49 began with two radios, a game controller, and Sparky's shell.
 
 The radios were relatively easy. He had found an old children's crystal radio kit. An hour of pulling gave them a walkie-talkie that ran on existing batteries he'd previously moved over. It looked... very cheap. But it worked and should cover the whole station. Probably.
 
-For Sparky, Jace removed the panels and transferred them one at a time. Simple metal crossed in minutes. The wires took longer. The controller took most of the session.
+For Sparky, Jace removed the panels and transferred them one at a time. Simpler metals crossed in minutes. The wires took longer. The controller took most of the session. He didn't even try to move the mini AI stack, even after one attempt he knew it would take days of pulling.
 
 Sophia laid the parts in exact rows on the Astral workbench as they came across. She had her radio in her ear, and would periodically leave for measurements or experiments.
 
@@ -787,7 +787,7 @@ Brandon smiled. A small blush of orange joy moved through his branching mental l
 
 On day nine, Jace had a nice long breakfast with Hayes. He was relaxed, jaunty. There was no need to hurry, and Hayes was regaling him with a tale of how Ring Two had almost fallen off the station when they'd attached it, how they'd all briefly lost air. It sounded terrifying, but Hayes laughed and made it sound like a grand adventure.
 
-He had a coffee, using Tokens from the survey trip. His automations meant he could come in late.
+He had a coffee, using Tokens from the survey trip payout. His automations meant he could come in late.
 
 His HUD pinged that one delivery drone entered safe mode at the construction junction on Three.
 
@@ -803,7 +803,7 @@ The queue remained green.
 
 Penny sent a cheerful note.
 
-Hi, Contractor Grant! Your automated routing changes have produced several novel access patterns. I have added them to your existing Pattern of Interest file so we can learn together. No action is required. Have a productive shift. As an Origin employee on the station, I am required to alert you of this observation!
+Hi, Contractor Grant! Your automated routing changes have produced several novel access patterns. I have added them to your existing Pattern of Interest file so we can learn together. No action is required. Have a productive shift. As an Origin employee on the station, I am required to alert you and Alex of this observation!
 
 Jace closed it.
 
@@ -917,7 +917,7 @@ Jace sealed his mask.
 
 She watched him for another second, then nodded.
 
-They crossed, grabbed coats, started pulling. They had large air tanks now of air, and could quickly top of masks when they got low.
+They crossed, grabbed coats, started pulling. They had large air tanks now of air, and could quickly top off masks when they got low.
 
 The second and third thrusters went faster with both of them pulling, but it was still almost an entire night of grueling work.
 
@@ -1198,9 +1198,9 @@ They had never gone this far through Fortuna.
 
 Jace left the Victoria, crossed the transparent corridor of Ring Two, and entered the docking spine while peering around at everything he could. Sparky flew beside him with the oxygen bottle knocking softly against his shell.
 
-The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings. He realized he didn't have to walk all the way to a stair, he could just push himself through the floor. But, wary of also falling off, he decided not to experiment too much during an emergency.
+The familiar station became an immense crystal mechanism around them. Pressure walls nested inside support ribs. Cables descended in luminous bundles. Heat loops glowed faintly through decks that were not entirely solid. Living people burned as distant points inside the rotating rings. He realized he did not have to walk to a stairway; he could push himself through the floor. Enough silver and copper piping crossed the walls to make the route difficult, and he was wary of also falling off, so he decided not to experiment during an emergency.
 
-At the central hub, spin gravity faded. Gravity was Mars-standard in the real, it was less here with gravity being more something you decided on, not that was decided upon you. Jace caught a guide rail that his hands could feel but his eyes could see through. He pulled himself toward the nonrotating shaft.
+At the central hub, spin gravity faded. Gravity was Mars-standard in the Real. Here it felt more like a direction someone chose than a force imposed on them. Jace caught a guide rail that his hands could feel and that his eyes could not see through. He pulled himself toward the nonrotating shaft.
 
 "Sophia, status."
 
@@ -1380,7 +1380,7 @@ Sparky's light went solid red.
 
 "How long?"
 
-Jace looked behind him. The nearest physical emergency line was visible inside a sealed locker. Pulling it across would take time he could not count. The Astral lab had copper retrieval wire, but not thirty meters of load-rated rope. Maybe the construction zone?
+Jace looked behind him. The nearest physical emergency line was visible inside a sealed locker. Pulling it across would take time he could not count. The Astral lab had copper wire, but not thirty meters of load-rated rope. Maybe the construction zone?
 
 "I will find one, it might take me a bit."
 
@@ -1486,17 +1486,13 @@ Sophia stared upward through the shaft.
 
 "Like a construction drone?"
 
-"It had too many joints."
-
-"Some drones have many joints."
-
-"It turned before I made a sound and had knives mounted to its arms."
+"It was in the construction area. It turned before I made a sound and had knives mounted to its arms."
 
 Jace stopped pulling along the rail.
 
 "Did you see a controller?"
 
-"No. A shape. Two bright points. Blinking red, perhaps. Then I stepped back too quickly and the station was gone."
+"No. A shape. A bright light. Blinking red, perhaps. Then I stepped back too quickly and the station was gone."
 
 "We should not go back to Three."
 
@@ -1562,7 +1558,7 @@ Sophia leaned back against the wall, exhausted.
 
 "The crossing is not the magic," she said. "It is only where the magic was easiest to see."
 
-They had never before used the word 'magic' before. Outside the room, Fortuna continued its long fall around the Sun.
+Despite walking through worlds, they had never used the word magic before. Outside the room, Fortuna continued its long fall around the Sun.
 
 Inside, Jace held a cup that had flown.
 
@@ -2118,9 +2114,9 @@ The fatigue after each session lasted a little longer than the day before. She w
 
 
 
-Sophia remained physical for the next test, earlier in the morning then ever before so they would have time before Jace's shift. Jace crossed alone with Sparky and a stack of numbered paper cards.
+Sophia remained physical for the next test, earlier in the morning than ever before so they would have time before Jace's shift. Jace crossed alone with Sparky and a stack of numbered paper cards. He missed his usual breakfast with Hayes. The old man always cheered him up with snacks for Cerberus and stories for Jace.
 
-"I want you to observe me using the force," she said before he left.
+"I want you to observe me using the force," she said.
 
 "'The force'? Really?"
 
@@ -2240,12 +2236,6 @@ Jace sat across from Sophia and talked because doing nothing felt worse. He desc
 
 "I'm fine. It's just sleepiness."
 
-"No."
-
-Sophia looked at him more sharply. Some of her energy had returned.
-
-"Good," she said. "You are capable of saying 'No'. Now I am saying I want one more test. I remain on the Astral side. You remain physical. No contact between us. We move one piece. If either reading changes in the wrong direction, we stop."
-
 Jace should have refused.
 
 Instead he helped her stand. She flinched from his touch.
@@ -2336,7 +2326,7 @@ When he returned to the Victoria, Misty reported that Sophia had gone to sleep e
 
 Jace went home with Cerberus and discovered that the energy he had taken still had not faded.
 
-He slept badly because he was not tired. He got up and ran, for the first time in weeks. He sent prints to the forge of a probe that was next in their experiment plan, and got a jump on some of tomorrow's orders and deliveries.
+He slept badly because he was not tired. He sent the forge plans for the next probe in their experiment queue and got a jump on some of tomorrow's orders and deliveries. He got up and ran for the first time in weeks.
 
 
 

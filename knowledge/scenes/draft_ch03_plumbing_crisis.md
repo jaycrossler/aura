@@ -112,9 +112,9 @@ Jace heard something else: Patrick's notes on valve lag, the pump curves, the de
 
 Should. The same uncertainty, paid for with the lives of the pigs and ducks and Siren.
 
-"We should try it!" he called at her retreating back.  She ignored him. He could hear her trying to call Patrick, but the time delay meant an hour before they'd get a response.  Not enough time.
+"We should try it!" he called at her retreating back. She ignored him. He could hear her trying to call Patrick, but the time delay meant an hour before they would get a response. Not enough time.
 
-"Then it's my call," Jace said, and loaded the blueprints onto the nearest screen.  Mei just looked at him, half in hope, half in fear.
+"Then it is my call," Jace said, and loaded the blueprints onto the nearest screen. Mei looked at him, half in hope and half in fear.
 
 Jace routed Thing One out through the forward service lock and onto the hull itself, walking it hand-over-hand along the exterior grab rail to the manual valve panel bolted outside ring segment eleven. A panel built for exactly this, a human in a suit or a drone, standing in vacuum, opening physical valves that no software command from inside the ship was permitted to touch remotely. He put Thing Two on the interior tank manifold on the opposite side, watching pressure. Origin owned both drones. Their firmware rejected his first valve sequence as a combined operation. He resent it as two separate commands, an exterior inspection task for Thing One's hands on the physical panel, a maintenance task for Thing Two's readout. Each permitted alone, and only dangerous once he ran them at the same time, which was the entire idea.
 

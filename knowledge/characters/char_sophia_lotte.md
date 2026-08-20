@@ -85,7 +85,7 @@ related_characters: [char_jace_apollo, char_dog_cerberus, char_kael, char_brando
 related_ships: [ship_victoria]
 related_locations: [location_fortuna_station]
 related_specs: [spec_crossing_mechanics, spec_astral_phenomenology, spec_astral_glow_and_signatures]
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 sheets:
   - sheet_sophia_arc01_end
 cross_references:
@@ -152,11 +152,12 @@ because her agreement came while she was impaired and Jace was carrying the ener
 he had taken. Jace accepts a rule requiring recovery and renewed consent after any
 unexpected transfer.
 
-After Jace accidentally drains {Misty} in Chapter 20, Sophia orders him off the
-*Victoria*. She does not apologize for protecting herself or her crewmate. She later
-sets explicit no-contact and crossing boundaries before agreeing to the remote Ring
-Three observation in Chapter 21. Her continued scientific work does not erase the
-fear or immediately restore trust.
+After the Chapter 20 observation turns into a direct attack, Sophia carries the
+injured Jace back to the *Victoria*. He accidentally drains {Misty} in Chapter 21
+after Sophia sets him against the processor cabinet for its warmth and light. In
+Chapter 22, Sophia, Brandon, Nikos, {Misty}, and Jace establish explicit no-entry
+and emergency-contact rules around the processor room. Continued scientific work
+does not erase Sophia's fear or immediately restore trust.
 
 ## Trauma Aftermath (Arc 1 end)
 

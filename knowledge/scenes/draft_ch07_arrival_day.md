@@ -50,7 +50,7 @@ She floated beside Jace at the observation port while two tugs detached the cani
 
 "I thought Origin ran {Alex} exclusively?" Jace said.
 
-"The station is international, and they agreed to have {Penny} manage the station, and {Alex} runs Origin parts of it. The Chinese section uses {Seek}." Jace nodded. Lanchee was a wealth of knowledge. When she'd talk to him.
+"The station is international. They agreed to have {Penny} manage it, while {Alex} runs the Origin sections. The Chinese section uses {Seek}." Jace nodded. Lanchee was a wealth of knowledge when she chose to talk to him.
 
 "You are staying with the ship?" Jace asked.
 
@@ -272,7 +272,7 @@ The Foundry came next. Its main bay could have swallowed the *Falcon's* entire f
 
 "I've worked closely with her for fifteen years. The evidence remains under review. Drone ops is here, we'll come back after the barn."
 
-He turned them into abakery shopfront. Yeast and browned sugar smells reached them before the sign did. Behind the glass, three compact robots measured dough, loaded ovens, and carried cooling trays. A broad man with forearms like pressure pipes stood at a wooden table, rolling dough by hand. Rows of iced flowers waited for him to add their final details.
+He turned them toward a bakery shopfront. Yeast and browned sugar smells reached them before the sign did. Behind the glass, three compact robots measured dough, loaded ovens, and carried cooling trays. A broad man with forearms like pressure pipes stood at a wooden table, rolling dough by hand. Rows of iced flowers waited for him to add their final details.
 
 The baker saw Carlos through the glass and came out carrying wrapped cookies. He was very tall, taller than Jace, wider through the shoulders, and dusted with flour from chest to elbows. He stood close enough to Carlos that their sleeves touched and straightened the knot of Carlos's tie with one thick finger.
 
@@ -284,7 +284,7 @@ Mateo handed Mei a cookie decorated as a white rabbit. Jace received a lopsided 
 
 At the next table, a woman asked, "Mateo, is that cake ready? Thanks. {Aura}, please send payment."
 
-The bracelet answered in her own voice, pitched slightly lower. "Piad and you asked me to remind you to print forks for the kids. I ordered them and a candlewhich should be here shortly."
+The bracelet answered in her own voice, pitched slightly lower. "You and Pia asked me to remind you to print forks for the kids. I ordered them, and a carrier should be here shortly."
 
 A short delivery bot rolled up, and opened with a small bag of utensils that the woman took and left with a wave and a delicious-smelling cake.
 
@@ -316,7 +316,7 @@ Green fabric. Worn cuffs. A small flower stitched into the collar. Every hook ar
 
 Jace looked at the hook, then at the access panels along the wall. Solid metal. Pressure seals. Cameras. No way out without a record.
 
-He thought about ouches no camera could see and drones that dissapearent through steel.
+He thought about wounds no camera could see and drones that disappeared through steel.
 
 "Has anyone checked behind the walls?"
 

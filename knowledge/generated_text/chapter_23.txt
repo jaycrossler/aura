@@ -1,135 +1,122 @@
 Chapter 23. No Vampires
 
-Most people do not know this, but the first rule of discovering a new form of energy is not “measure it.” The first rule is “agree not to steal it from anybody.” Then measure it.
+Apollo: Artemis sent a complete packet that answers none of the questions.
 
-Jace Grant, unpublished notes
+Athena: That is worse than no packet.
 
-The first version of the proposal began in Sophia's room three days before they
-were ready to show it to anyone.
+Apollo: Aura says no data is missing.
 
-Three cameras on Sparky could capture incompatible projections of the same Astral
-subject. An MRI or computed-tomography scan could provide a physical model for
-comparison. An Aura model might eventually learn the transformation between
-them. The first experiments had supplied the idea, two accidental drains, and
-several reasons not to place the equipment near another person.
+Athena: Then maybe somebody decided which meaning we were allowed to get.
 
-Nick had supplied isolated sensor feeds, independent clocks, and an Aura
-instance capable of flagging contradictions without inventing a single corrected
-answer. He still did not know where the feeds went.
+The first version of the proposal lasted four minutes in Lanchee's hands.
 
-It did not supply consent.
+Sophia had called their device a remote sensing array. Three transferred cameras on Sparky captured incompatible projections of the same subject. A physical MRI or computed-tomography scan supplied a comparison model. Jace's local Aura instance aligned timestamps without correcting disagreements. The method could operate from a nearby room and appeared to show internal structure that conventional instruments missed.
 
-That required Lanchee.
+The proposal did not say where the cameras went.
 
+It did not say Jace and Sophia went with them.
 
+Lanchee reached the phrase comparable to an MRI in the next room, but showing substantially more, placed the tablet on her desk, and looked at both of them.
 
-Lanchee read the proposed experiment in silence.
-
-Jace and Sophia sat across from her in the clinic office. Cerberus lay under Jace's chair with his chin across both boots. Since sketching the first version, they had drained Sophia, nearly shut down the Victoria, found a creature in a wall, and built a sensor package Nick still did not understand. Jace's hands worked again, although cold water still felt like pressure and hot water felt like an accusation.
-
-The proposal on Lanchee's screen did not mention the Astral.
-
-Sophia had called the device a remote sensing array. The comparison section described magnetic resonance imaging, ground-penetrating radar, ultrasound, and lidar, then admitted that the new method behaved like none of them. It could operate from a nearby room. It appeared to show internal structure through walls. Its output contained more information than the physical sensors sent into it.
-
-They had tested it on printed blocks, ore samples, sections of asteroid, Sparky, and themselves. The results were repeatable enough to be interesting and contradictory enough to be dangerous.
-
-Now Sophia wanted to aim it at known injuries.
-
-"If the correlation holds," she said, "the method may identify structural changes that existing medical imaging misses. I intend to publish the instrumentation, error model, and privacy limits as a paper after independent review."
-
-Lanchee reached the final page.
-
-"No," she said.
+"No."
 
 Sophia leaned forward. "Which provision concerns you?"
 
-"The phrase like an MRI in the next room, but showing substantially more. It promises a comparison your mechanism does not support. You list six things you wish to measure and no physical process connecting them. You request patients but say the test will not interact with them. You request medical trends but cannot tell me what variable you expect to change."
+"The one where you ask me for patients while concealing the mechanism, the location, and the injuries you have already received."
 
-"We are characterizing an observation method," Sophia said.
+"The mechanism is unknown," Sophia said.
 
-"For what observation?"
+"The location is not."
 
-Sophia's fingers tightened around her father's pen.
+Lanchee turned to Jace.
 
-Jace answered first.
+"You said an animal cut you in an experimental environment. You also arrived with temperature sensation so impaired that you could not distinguish ice water from tap water. Now you want volunteers. If I cannot understand the risk, neither can they."
 
-"We found a sensor environment we do not understand. It may reveal structure that ordinary cameras miss. It may also create false positives. We want to find out which before we point it at anything dangerous."
+Jace looked at Sophia.
 
-"Where is this environment?"
+Sophia picked up her father's pen, aligned it with the edge of the tablet, and set it down again.
 
-"Adjacent to the station."
+"Close the door," she said.
 
-Lanchee looked at him.
+Lanchee closed it.
 
-"That is an evasive answer."
+Sophia told her.
+
+Not every theory. Not the Chinese room, the missing ships, or what the creature might be doing to station systems. She told Lanchee every fact that could change a medical decision.
+
+Their bodies crossed completely into an adjacent environment. They brought their clothing, implants, masks, and whatever equipment they could transfer. The environment was cold and could hold trapped carbon dioxide. Physical walls became permeable and transparent. Human bodies did not remain asleep in the Real. Jace and Sophia left it.
+
+They had crossed more than fifty times between them.
+
+Sophia had nearly run out of oxygen after separating from Fortuna's motion. A creature had cut Jace through no physical opening. Jace had twice drawn energy through contact without intending to, first from Sophia and then from Misty. The second accident had damaged an AI stack that no physical diagnostic had predicted was at risk.
+
+Lanchee did not interrupt.
+
+When Sophia finished, the clinic office seemed very small.
+
+"Can you prove any of this without asking me to cross?" Lanchee asked.
+
+"Yes," Jace said.
+
+They moved to an empty examination room. Sophia placed a physical camera on Jace, verified his pulse and body temperature, and set one shoe on a scale. Jace put on his mask, lay down, and crossed.
+
+His weight vanished from the scale.
+
+The room camera recorded his clothing, breathing mask, implant hardware, and body disappearing over several minutes. The process was slow enough to look less like a trick than a medical emergency.
+
+From the Astral, Jace pushed a numbered paper card through the examination table.
+
+It appeared on the physical side.
+
+Lanchee did not touch it until Jace returned.
+
+His weight came back unevenly. Nausea folded him over the edge of the bed.
+
+Lanchee checked him before she checked the card.
+
+"You did this while injured," she said.
 
 "Yes."
 
-"Is the experiment dangerous to the volunteers?"
+"You did it while responsible for a dog."
 
-"We do not think so."
+"Yes."
 
-"That is not sufficient."
+"And you have been asking why I am cautious with caffeine."
 
-"They will not cross the boundary or touch the equipment. Sophia and I take all exposure. If either of us shows a medical change, we stop. If a volunteer shows any change outside normal treatment, we stop and give you the complete data."
+"That part now feels less defensible."
 
-"You will give me the complete data in every case."
+Lanchee read the number on the card.
 
-Jace glanced at Sophia.
+"The answer is still no."
 
-She nodded.
+Sophia's expression tightened.
 
-"Every case," he said.
+"To patients," Lanchee said. "For now. You will give me your complete exposure history, medical telemetry, and every physical symptom. You will demonstrate the array on printed objects, rock, equipment, and yourselves. We will write a consent form that says what the method can expose, not what you hope it resembles. Then I will decide whether observation alone presents an acceptable risk."
 
-Lanchee added conditions. No patient names in their records. No continuous image storage. No procedure during acute care. A clinic observer would remain in the room. Any unexplained physical effect ended the study. She would choose the volunteers and describe the test to them as experimental sensor calibration.
+Jace nodded.
 
-"That description is incomplete," she said, "but it is not false. If I learn that you concealed a risk, there will not be a second experiment."
+"Doctor," Sophia said, "disclosure beyond this room could end our employment, expose the station to an unknown threat, and place the method under national control before we understand it."
+
+"Medical confidentiality covers your health and this proposed study. It does not cover a station hazard you conceal from me. If I find one, I report it."
 
 "Agreed," Jace said.
 
-"There may not be a first. I have not said yes."
-
-She turned the screen around.
-
-"Explain data deletion."
-
-Jace pointed to the local buffer. "The clinic's reference feeds overwrite after ten minutes unless you preserve a segment. The three transferred cameras store only differences between frames. Aura keeps timestamps and my verbal markers, not neural imagery."
-
-"Can your AI infer identity from the markers?"
-
-"Not if we remove time, room, and treatment type."
-
-"Then remove them before analysis."
-
-Sophia frowned. "Treatment type is a useful variable."
-
-"It is also enough to identify a patient when my clinic has only one fracture. You may retain injury class after I approve the category."
-
-Sophia considered that, then drew a line through a field on the form.
+Sophia took longer.
 
 "Agreed."
 
-Lanchee looked at Jace. "Useful data is not automatically data you have a right to keep."
-
-He thought of walking through Fortuna while every private room had been reduced to a visible plane.
-
-"Understood."
-
-She called up the volunteer list.
-
-"One patient has a healing wrist fracture. The other is recovering from a pressure bruise. Both are stable. Ten minutes each. You remain in the empty examination room."
-
-Sophia allowed herself one breath of relief.
-
-"Thank you, Doctor."
-
-"Do not thank me until I see your equipment."
+That was how the first proposal ended.
 
 
 
-They rebuilt the Astral package around the failure.
+The version Lanchee accepted took three days.
 
-Sparky carried all three cameras Jace and Sophia had already transferred and mounted. The physical side used the clinic's compact imaging scanner, two reference cameras, two independent clocks, a suit diagnostic puck, and Aura's isolated buffer. Copper wire connected every component to a paper tag bearing a handwritten number. No wireless discovery. No shared timing. No cooperative correction.
+They tested printed blocks, ore samples, raw asteroid, water, a dismantled pump, Sparky, and themselves. They did not aim the array at anyone outside the research team. Lanchee recorded Jace's and Sophia's physical baselines before and after each crossing. She stopped one session when Jace's skin temperature remained normal but his temperature judgment drifted. Sophia protested once, saw Lanchee's face, and did not protest twice.
+
+Nick rebuilt the physical instrument package around disagreement rather than accuracy.
+
+The clinic scanner, two reference cameras, a suit diagnostic puck, and two isolated clocks each kept their own record. Copper wire connected every component to a paper tag bearing a handwritten number. No wireless discovery. No shared timing. No cooperative correction.
 
 It looked less like advanced science than a collection of appliances under investigation for a crime.
 
@@ -137,63 +124,83 @@ Nick inspected it without touching anything.
 
 "The clocks will drift," he said.
 
-"That is the point."
+"That is the point," Jace said.
 
 "The cameras will drop frames."
 
 "Also the point."
 
-"The physical package cannot see wherever you are going."
+Nick looked through the examination-room window at Lanchee and Sophia revising the volunteer form.
 
-"It can see what my body does while I am there."
-
-Nick looked at the sealed door to the Victoria cabin where Sophia waited.
-
-"You are still not telling me."
-
-"No."
-
-"But you told the doctor there was a boundary."
+"She knows what the boundary is."
 
 "Yes."
 
-"Progress," Nick said without warmth. "Small, irritating progress."
+"I still do not."
 
-He checked Aura's permissions. The local instance could timestamp Jace's reported observations, compare them with his implant and suit telemetry, and flag contradictions. It could not transmit raw content, query station systems, or change medical settings.
+"No."
 
-"Your skull temperature rises when it processes," Nick said. "If it reaches the yellow line, you stop."
+Nick's jaw tightened.
+
+"Then I am certifying the physical equipment, not your experiment. If Aura finds a medical risk, Lanchee gets it. If it finds a station risk, Kim gets it."
+
+"Same agreement."
+
+"I am reminding you because you collect dangerous facts faster than obligations."
+
+Nick checked Aura's permissions. The local instance could timestamp Jace's verbal markers, compare them with his implant and suit telemetry, and flag contradictions. It could not transmit raw content, query station systems, identify a patient, or change medical settings.
+
+"Your skull temperature rises when it processes," Nick said. "Yellow line, you stop."
 
 "Lanchee already said that."
 
 "Now two people are correct."
 
-He left before the crossing.
+He left before the volunteer arrived.
 
-Jace watched the door close.
+The accepted consent form described an experimental observation method operating from an adjacent nonphysical environment. It stated that the method might reveal internal structure through clothing and walls, that its biological meaning remained unknown, and that no researcher would touch or alter the volunteer. It also stated that the field of view might exceed the target area. Any image outside the approved region would be deleted, and the session would stop.
 
-Sophia set out the bread and water. "He helped."
+The volunteer read that paragraph twice.
 
-"He is still angry."
+"You can see through the wall?" she asked.
 
-"Both can be true."
+"Potentially," Sophia said. "That is why the room beyond it is empty and the corridor is screened."
 
-"You enjoy that answer too much."
+"Can I see where you go?"
 
-"It remains efficient."
+"No."
 
-The clinic crossing took them into the cold.
+"Can you see me?"
+
+"Yes, but we do not yet understand what the colors and structures mean. That is the purpose of the comparison."
+
+The woman held up her cast. "And you are not going to fix anything."
+
+"Observation only," Jace said. "If we see something unexpected, we return before doing anything else."
+
+She signed.
+
+Lanchee signed beneath her. Jace and Sophia signed last.
 
 
+
+Cerberus stayed with Lanchee on the physical side.
+
+Jace had not found evidence that crossing harmed him. He had also stopped treating an absence of evidence as permission to add the dog to every experiment.
+
+Sophia set out bread and water in the empty examination room. Sparky waited beside the transfer point with three cameras, each aimed along a different projection.
+
+The cold opened around them.
 
 The clinic did not resemble the clinic.
 
-Its physical walls had flattened into overlapping planes. Cabinets became pale frames with no depth. Metal instruments persisted as faint edges. Wood, paper, and some plastics stood out with more certainty. The folded privacy screen looked stronger than the wall supporting it.
+Physical walls flattened into overlapping planes. Cabinets became pale frames with no depth. Metal instruments persisted as edges and interruptions. Wood, paper, and ordered cloth held stronger shapes.
 
 Beyond the examination room, people burned.
 
-Jace had seen human light through Fortuna before, but distance and fear had reduced it to color. Here, within a few meters, every person contained motion too dense for sight.
+Jace had seen human light across Fortuna before, but distance and fear had reduced it to color. Here, within a few meters, every person contained motion too dense for sight.
 
-One patient shone blue-white at the center and green along the limbs. Gold threads moved through both colors. Darker shapes formed and dissolved with each breath. The light did not stop at the skin. It folded inward through patterns that seemed larger than the body holding them.
+One patient shone blue-white at the center and green along the limbs. Gold threads moved through both colors. Darker structures formed and dissolved with each breath. The light did not stop at the skin. It folded inward through patterns that seemed larger than the body holding them.
 
 Sophia stared.
 
@@ -203,11 +210,13 @@ Sophia stared.
 
 "My scientific description will require several more notebooks."
 
-Cerberus glowed beside them, simpler and warmer, his attention a bright direction that followed every movement in the ward. Jace looked down at his own hands. Color moved beneath them in branching streams.
+Through the physical wall behind them, Cerberus glowed beside Lanchee's chair. His structure was simpler and warmer than the humans around him. His attention formed a bright direction pointed at the place where Jace had vanished.
+
+Jace looked down at his own hands. Color moved beneath them in branching streams.
 
 A geometric shape rested behind his eyes.
 
-It was not a face. It had no human color. Fine geometric lines opened and closed in repeating layers, each joined to Jace's glow by hundreds of hair-thin connections.
+It was not a face. It had no human color. Fine lines opened and closed in repeating layers, each joined to Jace's glow by hundreds of hair-thin connections.
 
 Sophia stepped closer.
 
@@ -217,21 +226,21 @@ Sophia stepped closer.
 
 "I can see a structure that was not there before. It is very orderly."
 
-Jace addressed the local instance aloud even though sound did not travel normally here.
+Jace addressed the local instance aloud, although sound did not travel normally in the Astral.
 
 "Aura, mark. New visual structure associated with local processing. Sophia observes it too."
 
-Aura's voice formed through his implant rather than the room. "Mark recorded. I do not have a visual feed corresponding to the reported structure."
+Aura's response formed through his implant rather than the room.
 
-The implant had crossed inside his skull with the rest of his body. It recorded the words his nervous system attempted to form, and Aura added a timestamp without pretending it could see what he saw.
+Aura: Mark recorded. I do not have a visual feed corresponding to the reported structure.
 
-The geometric light shifted.
+The geometric light shifted when the system answered.
 
-Sophia followed the connections with her eyes.
+Sophia followed its connections with her eyes.
 
-"It is using your structure," she said. "Not consuming it. The lines brighten when you pay attention to it, then settle."
+"It uses your structure," she said. "I do not think it is consuming it. The lines brighten when you attend to the system, then settle."
 
-"Unspent capacity," Jace said.
+"Unspent capacity."
 
 "Do not name it after one observation."
 
@@ -247,17 +256,19 @@ Sophia followed the connections with her eyes.
 
 The first volunteer entered the treatment room on the physical side.
 
-A construction technician with a healing wrist fracture sat where Lanchee directed. The clinic scanner made one slow pass from her elbow to her fingertips while Sparky recorded the same interval from the Astral. The cast did not exist here as a solid object. Its fibers formed a pale cage around the arm.
+The construction technician sat where Lanchee directed and rested her healing wrist inside the clinic scanner. Its arm made one slow pass from elbow to fingertips while Sparky recorded the same interval from the Astral.
+
+The cast did not exist there as a solid object. Its ordered fibers formed a pale cage around the arm.
 
 Inside that cage, green light moved.
 
 It gathered at the fracture in slow waves, flowed through the break, and returned along the arm. Each pass left the damaged area a little more ordered.
 
-Sophia stopped arguing.
+Sophia stopped arguing about names.
 
 "It follows blood flow," Jace said.
 
-"Not exactly. Some crosses against it."
+"Not exactly. Some of it crosses against the flow."
 
 "Nerve paths?"
 
@@ -265,29 +276,25 @@ Sophia stopped arguing.
 
 "You are using my favorite answer."
 
-They watched for eight minutes. They did not touch the patient. They did not move closer. Jace marked observations while Aura compared his attempted speech, pulse, implant load, the three Astral feeds, the scanner volume, and the physical room's clocks.
+They watched from the marked distance. They did not touch the volunteer or move closer. Jace spoke observations while Aura compared his attempted speech, pulse, implant load, three Astral feeds, scanner volume, and independent physical clocks.
 
-The green light intensified when the patient flexed her fingers. Her physical monitor showed a small rise in heart rate and no other change.
+The green activity intensified when the technician flexed her fingers. Her physical monitor showed a small rise in heart rate and no other change.
 
-When she left, Sophia wrote for three full minutes.
+Jace looked past the fracture at the light held within the rest of her body. Some patterns remained bound close. Others gathered and loosened with attention, pain, and breath.
 
-"If Will can be directed toward damage," she said, "then it may be possible to increase healing."
+"If that can be directed toward damage," he said, "it might be possible to increase healing."
 
-"Or decrease it."
+"Or disrupt it," Sophia said.
 
-"Yes."
-
-"And if the light is a reserve, it might be transferable."
+"And if some of it is reserve, it may be transferable."
 
 Sophia's pen stopped.
 
-Jace looked through the flattened wall at the people in the clinic. Some were brighter than others. A child in the corridor carried a warm yellow corona. An exhausted nurse had almost none beyond the light bound close to her body.
+Both of them remembered her collapsing in the physical cabin.
 
-The discovery changed shape.
+Both remembered Misty's lights going dark.
 
-It was no longer about seeing.
-
-It was about access.
+The discovery changed shape. It was no longer only about seeing. It was about access.
 
 "No taking it," Jace said.
 
@@ -298,18 +305,6 @@ It was about access.
 "Agreed."
 
 "No changing anything inside someone without informed consent and medical supervision."
-
-"Yes."
-
-"No recording people through walls. No identifying observations unless they consented."
-
-Sophia looked toward the volunteer who had already left.
-
-"Our view exceeded what she understood."
-
-"Then we delete the images and keep only the measurements Lanchee approved."
-
-"And tell her the method revealed more than expected."
 
 "Yes."
 
@@ -329,123 +324,89 @@ Sophia read it.
 
 She left it on the page.
 
-A nurse crossed the corridor outside the physical room.
+A nurse crossed the screened corridor outside the physical room.
 
-In the Astral, the wall did not hide her. Her light entered before her body reached the doorway and remained after she passed. A sharp violet knot flared near her chest when she paused beside the isolation ward. Gold threads tightened around it. Jace could not hear her or see her expression, but he could see that something in the room had changed her.
+The screen's ordered fibers blocked most of Jace's view, but not all of it. A shoulder and the edge of a human glow entered beside the screen before the nurse's physical body reached the doorway. Six frames registered a violet knot near her chest and a tightening of gold threads around it.
 
-He turned away.
+Jace looked away.
 
-"That was not part of the study," he said.
+"Stop," he said.
 
-Sophia lowered her pen. "No."
+Aura placed the session marker. Sophia turned Sparky toward the approved chair. They checked the buffer without replaying the content.
 
-"The array caught it."
+"Delete the six frames," Sophia said.
 
-They checked Sparky's buffer. The image was mostly noise, but six frames held the nurse's colored outline clearly enough to distinguish her from the patients.
+Aura: The frames overlap two approved-subject frames by 0.4 seconds. Delete the full interval?
 
-"Delete those frames," Sophia said.
+Sophia looked toward the fracture patient.
 
-Jace marked them. Aura confirmed the deletion against both local checksums. No image remained, but the act did not restore the privacy they had already crossed.
+"Full interval."
+
+Aura deleted it from both camera buffers and verified the local checksums.
 
 "Walls create consent boundaries in the physical world," Sophia said. "Here they do not."
 
-"Then we have to create them ourselves."
+"Then we create them ourselves."
 
-They repositioned behind the folded privacy screen. The screen's ordered fibers blocked part of their view more effectively than the metal wall. Jace noted the effect, then stopped.
-
-"We cannot turn privacy into another materials test while someone is using it."
-
-Sophia closed that page of the notebook.
-
-For the remaining observation period, they faced only the marked chair. When clinic staff moved outside the approved area, Jace closed his eyes. It felt absurd to use eyelids in a place where his body did not work normally. It also worked.
-
-The fracture patient's remaining data showed the green activity repeating at a slower rate as she rested. Aura found a matching reduction in heart rate, but no causal direction. Sophia dictated three possible explanations and rejected all three as premature.
-
-"We have proven almost nothing," she said.
-
-"We proved there is something worth being careful about."
-
-"That is not nothing."
+They ended the session rather than redesigning it around a volunteer.
 
 
 
-The second volunteer never arrived.
+Warmth, weight, and nausea returned together.
 
-Lanchee entered the physical examination room and ended the session. Her voice reached Jace only as a distant pressure through his body.
+Jace opened his eyes on the examination-room floor. Cerberus pulled against Lanchee's grip until she released him, then licked Jace's face with enough force to interfere with the medical check.
 
-Aura converted the implant signal into a marker: MEDICAL INTERRUPTION. RETURN REQUESTED.
+"He stayed," Lanchee said.
 
-Jace and Sophia crossed back.
+"He is a professional."
 
-Warmth, weight, and nausea struck together. Jace opened his eyes on the cabin floor. Cerberus licked his face until he pushed the dog away.
+"He complained for eleven consecutive minutes."
 
-Before Lanchee spoke, the first volunteer asked to see them.
+"A vocal professional."
 
-The construction technician stood in the doorway with her cast held against her chest. Lanchee had told her that the method revealed more biological detail than the consent form described and that the unapproved images had been deleted.
+Before they reviewed the fracture data, Jace and Sophia told the volunteer about the six unintended frames and their deletion. They explained that the method had shown colored activity around the fracture, but that they did not know whether it represented healing, response to pain, or something else.
 
-"Did you see something wrong with my arm?" she asked.
+"Was I in danger?" she asked.
 
-Sophia answered. "We observed activity concentrated around the fracture. We do not know what it is or whether it changes healing. Your physical measurements remained normal."
+"We observed no physical change beyond the heart-rate increase in your normal range," Lanchee said. "That is not the same as proving the method safe."
 
-"Activity like radiation?"
-
-"No evidence of radiation. The closest honest answer is that we do not have a category for it."
-
-The woman looked from Sophia to Jace.
-
-"Was I in danger?"
-
-"We saw no sign of danger," Jace said. "We also saw more of you than we had permission to see. The camera frames are gone. The remaining record says only adult volunteer, healing fracture, no physical change."
+The technician looked at Sophia.
 
 "Can it see through clothes?"
 
-"It can see through walls," Jace said.
-
-Sophia glanced at him, but did not soften the answer.
-
-The technician absorbed that.
+"Yes," Sophia said. "And through walls."
 
 "That seems like something people should know."
 
-"Yes," Sophia said.
+"Yes."
 
 "Are you going to tell them?"
 
-Jace thought of Nick outside the hatch and Suzi's cameras across Fortuna. A public warning without a repeatable demonstration would sound like paranoia. Silence would protect their work by leaving everyone else ignorant of a privacy risk.
+Jace thought of Suzi's cameras, the hidden room on Three, and every private cabin they had learned not to look into.
 
-"We need evidence that can survive someone else testing it," he said. "Until then, the method does not leave our control, and we do not point it at anyone who has not agreed."
+"We need evidence that another team can test," he said. "Until then, the method stays under these controls. We will tell the medical and station authorities what it can expose before we publish how to reproduce it."
 
-"That was not my question."
-
-"No," Jace said. "It was not."
-
-Sophia closed her notebook.
-
-"If the result repeats, we tell the medical and station authorities what the method can expose before we publish how to reproduce it."
-
-The technician looked at Lanchee.
+The volunteer looked at Lanchee.
 
 "You believe them?"
 
-"I believe they encountered something their form did not describe," Lanchee said. "I believe they deleted your images. I have not decided what the observation means."
+"I believe the method exposed more than a physical wall should permit," Lanchee said. "I believe they stopped and deleted the unapproved interval. I have not decided what the green activity means."
 
-That answer seemed to satisfy her more than reassurance would have.
+That answer appeared to satisfy her more than reassurance would have.
 
-"Keep the anonymous measurements," she said. "If you learn whether the green thing helps the bone, Doctor Lanchee can tell me."
+"Keep the anonymous fracture measurements," she said. "If you learn whether the green helps the bone, Doctor Lanchee can tell me."
 
-Sophia wrote the added consent in front of her and gave her a copy.
+Sophia recorded the added consent and gave her a copy.
 
-Only after the volunteer left did Lanchee turn to the interruption.
+Only after the volunteer left did Lanchee cancel the second planned observation.
 
-She pointed through the hatch toward the medical bay.
+"A patient was transferred from the Chinese medical section," she said. "He has been unstable for twelve days. The attending system classifies the trend as recovery, but he continues to weaken."
 
-"One of the Chinese miners was transferred here from their medical section," she said. "He has been unstable for twelve days. The attending system classifies the trend as recovery, but the man continues to weaken."
+"Why bring him here now?" Sophia asked.
 
-"Why bring him now?" Sophia asked.
+"The transfer summary contains the same pattern you described: individually valid sensors producing a conclusion the patient's condition does not support."
 
-"Because the transfer summary mentions the same sensor disagreement you described."
-
-Jace sat up.
+Jace sat straighter.
 
 "What injury?"
 
@@ -453,9 +414,9 @@ Jace sat up.
 
 The cafeteria returned to him. A Filipino miner leaning over his noodles. Massive wound. Suit intact. Somehow no pressure loss.
 
-"No breach," Jace said.
+"No suit breach," Jace said.
 
-Lanchee's eyes narrowed. "How do you know that?"
+Lanchee's eyes narrowed. "How do you know?"
 
 "I heard about it during my first week."
 
@@ -463,41 +424,33 @@ Lanchee's eyes narrowed. "How do you know that?"
 
 Sophia opened her notebook.
 
-"Has his implant load changed?"
+"Implant load?"
 
 "Intermittent spikes. No process claims them."
 
-"Where is he?" Jace asked.
+"Is he conscious?" Jace asked.
 
-"Isolation room two. You are not entering it."
+"Not reliably. His medical directive authorizes experimental observation when standard diagnostics fail. It does not authorize intervention."
 
-"Understood."
+Lanchee pointed toward isolation room two.
 
-Lanchee studied both of them.
+"Can your method observe him without entering that room?"
 
-"Can your observation method see through a wall?"
-
-Jace thought of the human light spread through the clinic. He thought of the creature folding around Fortuna's cables.
+Jace thought of the human light spread through the clinic.
 
 "Yes."
 
-"Can the patient be harmed by it?"
+"Can observation harm him?"
 
-"Not by looking."
+"We have found no effect from looking."
 
-"That answer contains more confidence than your proposal."
+"Better answer. Five minutes. No contact. No intervention. You return and report before you act on anything you see."
 
-"We have one additional observation."
-
-Lanchee's mouth tightened.
-
-"Five minutes. No intervention. If you see anything, you return and tell me before you act."
-
-Sophia answered before Jace could.
+Sophia answered first.
 
 "Agreed."
 
-They crossed again from the empty room.
+They moved the privacy screen to block the corridor, cleared every room outside the authorized field, and crossed from the empty examination room.
 
 The miner's light was easy to find.
 
@@ -507,7 +460,7 @@ Instead it clung close to his body, thin and gray at the edges.
 
 Something broad and amber lay across his back.
 
-Its flattened body covered the wound from shoulder to ribs. Tendrils passed through the man's neck and spine. With each pulse, color moved out of him and into the thing.
+Its flattened body covered the old wound from shoulder to ribs. Tendrils passed through the man's neck and spine. With each pulse, color moved out of him and into the thing.
 
 Sophia caught Jace's arm before he stepped forward.
 

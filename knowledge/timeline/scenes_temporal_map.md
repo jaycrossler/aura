@@ -1,6 +1,7 @@
 ---
 
 
+
 description: "Chronological index mapping all scenes, dates, and character continuity for the book's timeline."
 id: scenes_temporal_map
 name: Master Scenes Temporal Map
@@ -58,10 +59,10 @@ handoffs so future chapter moves do not separate causes from their consequences.
 | **Ch17** | `draft_ch17_falling_behind` | Immediately after the safe interval | Sophia's separation, rescue, and Ring Three sighting create the next morning's exhaustion |
 | **Ch18** | `draft_ch18_later_became_morning` | 0530 after the Chapter 17 rescue | Jace begins responsibility repair; Sophia and Jace agree to pause for the evening |
 | **Ch19** | `draft_ch19_fault_lines` | Following interface-lab work across more than one day | Relay, three-camera rig, force recording, Sophia drain, work repair, bad apology, Council restriction |
-| **Ch20** | `draft_ch20_borrowed_light` | Starts the next morning at 0430; closes the following morning | Environmental probe, consent rupture, Long Burn fight, {Misty} drain, renewed boundaries |
-| **Ch21** | `draft_ch21_the_eye_on_three` | Evening after Chapter 20's renewed-boundary conversation | Ring Three encounter; one-input/multiple-output anomaly across {Misty}, Sparky, and {Seek} |
-| **Ch22** | `draft_ch22_quiet_companion` | Next day and following morning | Jace rests; Nick installs {Aura} under safety conditions; contradictory-output pattern develops |
-| **Ch23** | `draft_ch23_no_vampires` | Proposal began three days before presentation | Medical observation protocol formalizes consent and no-theft rule |
+| **Ch20** | `draft_ch20_borrowed_light` | Starts the next morning at 0430 and ends during the Ring Three observation | Environmental probe, consent rupture, Long Burn fight, silver-panel evidence, creature reveal |
+| **Ch21** | `draft_ch21_the_eye_on_three` | Opens during the Chapter 20 attack and ends the following morning | Ring Three fight, silver threshold, accidental {Misty} drain, bounded request for Nick's help |
+| **Ch22** | `draft_ch22_quiet_companion` | Next day through the following morning | Recovery, *Victoria* boundaries, public metal survey, supervised {Aura} installation, contradictory-output and Adama semantic-gap findings |
+| **Ch23** | `draft_ch23_no_vampires` | Proposal and controls develop across three days after Chapter 22 | Lanchee receives risk-relevant disclosure; medical observation formalizes consent, privacy, and no-harvest rules |
 | **Ch24** | `draft_ch24_the_leech` | After the Chapter 23 protocol | First parasite/patient intervention; patient stabilizes over two hours |
 
 **Deprecated:**

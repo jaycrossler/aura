@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 description: >
   Scene contracts for Thread N — Nick's disclosure and the open-source decision;
   the AI systems thread. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -37,13 +37,15 @@ nights, unexplained sensor gaps, and visible exhaustion. Jace protects Sophia's
 secret and refuses to explain. During Chapter 19, he sends an apology that admits
 he disappeared but still withholds every fact that would explain why. Nick correctly
 calls it a bad apology. Jace does not involve him in the relay, camera array,
-or Sophia drain. Chapter 20 adds the environmental probe, {Misty} reboot, and
-Ring Three plan to the facts Jace withholds.
+or Sophia drain. Chapters 20-21 add the environmental probe, Ring Three attack,
+and {Misty} drain to the facts Jace withholds.
 
 Chapter 22 is the first functional repair: Jace admits that danger exists and asks
 for help without demanding forgiveness. Nick installs {Aura} under explicit safety
 conditions while retaining the right to tell Lanchee or Kim if the system finds
-medical or station risk.
+medical or station risk. Chapter 23 keeps the arrangement bounded: Nick certifies
+physical instrumentation while Lanchee, not Nick, receives the risk-relevant
+medical disclosure needed to supervise volunteers.
 
 **Must accomplish:**
 1. Nick's anger reads as worry and violated trust, not jealousy over Sophia.

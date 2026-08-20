@@ -26,19 +26,19 @@ Print, run, deliver, and repeat. Thing One was outside the station most days, as
 
 Chinatown was colorful, though very private. All the walls in that part of Two had screens, all of them running Seek who ruled his flock of humans with an iron fist.
 
-Most of the animal pods that the Falcon had delivered were anchored on One, so he'd stop by and visit and help feed them. They loved seeing him and Cerberus, and would crowd forward any time he entered the pods. The pigs were down in the main Barn on Two. The different neighborhoods were his favorite part of Fortuna. One was older, more refined. Fewer pods and more permanent housing that had sprung up over the decades. More stones cut into paths, more greenery artfully placed around doors and seals. Bots were everywhere, cleaning filters, tending grass, polishing and cleaning and carrying things for the retirees and more distinguished station residents. The school was up on One close to his inn and the forge and Drone Ops, and he smiled at the gaggle of kids and teens everytime he saw them.
+Most of the animal pods that the Falcon had delivered were anchored on One, so he would stop by to visit and help feed them. They loved seeing him and Cerberus and crowded forward whenever he entered the pods. The pigs were down in the main Barn on Two. The different neighborhoods were his favorite part of Fortuna. One was older and more refined. Fewer pods and more permanent homes had sprung up over the decades. More stones were cut into paths, with greenery artfully placed around doors and seals. Bots were everywhere, cleaning filters, tending grass, polishing surfaces, and carrying things for the retirees and more distinguished station residents. The school was up on One, close to his inn, the forge, and Drone Ops, and he smiled at the gaggle of kids and teens every time he saw them.
 
-Two had the Barn, the Farm, Chinatown, and fifty other pods and rooms and stores. Most of the Chinese citizens lifed in Chinatown, everyone else was scattered all over the station. It felt newer. More restraunts, more nightlife, more of a younger vibe. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, plugged in with two other doctors and a handful of nurses supporting all the small wounds and scratches and accidents that mining and construction crews accumulated.
+Two had the Barn, the Farm, Chinatown, and fifty other pods, rooms, and stores. Most of the Chinese citizens lived in Chinatown; everyone else was scattered across the station. It felt newer. More restaurants, more nightlife, more of a younger energy. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, connected with two other doctors and a handful of nurses who treated the small wounds, scratches, and accidents that mining and construction crews accumulated.
 
-Three was less crowded. More maintenance rooms, more smaller workshops, more storage. Lots of space for future residents. People there were minimized until all safety checks were tripple-complete, and that would take a few more months of construction. Jace had heard that the new US government had ordered large expansion of the station, though all the gossip was that not enough residents were moving out to the belt.
+Three was less crowded. More maintenance rooms, smaller workshops, and storage. Lots of space for future residents. The population there was kept low until every safety check was triple-complete, and that would take a few more months of construction. Jace had heard that the new US government had ordered a large expansion of the station, though all the gossip said too few residents were moving out to the belt.
 
-His count was that Fortuna station could probably fit another two hundred people comfortably with the current resources, so it seemed a poor use of all those construction crews to keep expanding until people were secured, rather than building factories. No ships full of colonists were en route, though a few were apparently being discussed from Earth and Mars. The rumros of problems at Odysseus and other ship problems were souring things, and the administartion was not helping by accusing everyone of sabotage. But of course he was biased against the new government party so kept his opinions to himself.
+His count was that Fortuna Station could probably fit another two hundred people comfortably with its current resources, so expanding before settlers were secured seemed a poor use of the construction crews. No ships full of colonists were en route, though officials on Earth and Mars were apparently discussing a few. The rumors about Odysseus and the other missing ships were souring things, and the administration was not helping by accusing everyone of sabotage. Of course, he was biased against the new government party, so he kept his opinions to himself.
 
 Kim gave Jace a console after his thousandth successful package delivery.
 
-Not a fleet console. Delivery had one hundred and forty-three active units, and his permissions covered seventeen that were on the station. Kim and Carlos and others would handle all the outsides drones and the ones down on the asteroid surface.
+Not a fleet console. Delivery had one hundred and forty-three active units, and his permissions covered seventeen that were on the station. Kim, Carlos, and the others would handle all the outside drones and the ones down on the asteroid's surface.
 
-"You touch these," she said, marking a blue group. "You observe the rest. If a red alert appears outside your group, you notify the assigned operator. You do not help, esepcially on the asteroid."
+"You touch these," she said, marking a blue group. "You observe the rest. If a red alert appears outside your group, you notify the assigned operator. You do not help, especially on the asteroid."
 
 "What if the operator asks for help?"
 
@@ -72,7 +72,7 @@ They stayed green for three hours.
 
 Jace reviewed routes, maintenance intervals, battery degradation, and the handoff failures he had already learned from the back room. The drones moved food, parts, medicine, samples, tools, and private orders. Most deliveries completed without human input.
 
-The first problem he encountered was pretty easy to fix. Inside the construction zone down on Three, a spiderbot was climbing along an assembly gantry to deliver bolts and flux to a work cabinet. Some moisture had got in its lensed dome when it left vaccuum and the cameras were occluded. It had used stored maps to move and had run into a wall that wasn't on the maps.
+The first problem he encountered was easy to fix. Inside the construction zone down on Three, a spiderbot was climbing along an assembly gantry to deliver bolts and flux to a work cabinet. Some moisture had gotten into its lensed dome when it left vacuum, and the cameras were occluded. It had used stored maps to move and had run into a wall that was not on the maps.
 
 Maureen looked, grimaced. "The Chinese team doesn't always share updated maps with us."
 
@@ -152,7 +152,7 @@ He walked the long route to the Barn.
 
 Cerberus kept one shoulder against his calf, sensing his unhappiness.
 
-Nick found them near the noodle bar. The girl Mira had been standing across the hallway, staring at him. She had dissapeared and Jace walked over when Cerberus kept growling. there was a small doll on the ground that looked like a dog, missing a head. Cute, until Jace realized that it was made out of some suishy slime-like material and was covered in thick red liquid. He sniffed it and recoiled at the heavy iron smell. Was that blood? He threw it in a waste receptagle and washed his hands.
+Nick found them near the noodle bar. The girl Mira had been standing across the hallway, staring at him. She had disappeared, and Jace walked over when Cerberus kept growling. There was a small doll on the ground that looked like a dog missing its head. Cute, until Jace realized that it was made from some squishy, slime-like material and covered in thick red liquid. He sniffed it and recoiled at the heavy iron smell. Was that blood? He threw it into a waste receptacle and washed his hands.
 
 Nick was wearing cobalt blue suspenders, covered in hand-stitched patches. It was bright and as colorful as the man that wore them.
 
@@ -377,9 +377,9 @@ SpoX interrupted before the scans finished. "Thin nickel-rich surface over carbo
 
 Jace looked at Torres. Torres looked disconcerted by SpoX's reply. Maybe an AI could go a little stir-crazy too.
 
-They tried it anyway. SpoX was right. It took hours, but they only scraped up a small amount of nickel ore using two drones who carried the rocks to a small smelter founted to the back of the shuttle. SpoX was quiet until the end, and seemed to inject sullen emotion into it's voice.
+They tried it anyway. SpoX was right. It took hours, but they scraped up only a small amount of nickel ore using two drones that carried the rocks to a small smelter mounted on the back of the shuttle. SpoX was quiet until the end and seemed to inject sullen emotion into its voice.
 
-"I have notified Alex that Origin industries is the proud new owner of 7200 Tokens worth of nickle particulates. Your accounts have been credited 360 Tokens each."
+"I have notified Alex that Origin Industries is the proud new owner of 7,200 Tokens worth of nickel particulates. Your accounts have been credited 360 Tokens each."
 
 Torres just grunted. Jace fought to hide his elation. That was food money for a month. He took a note on his HUD to buy Cerberus an egg as a present.
 
@@ -680,15 +680,15 @@ Stroke. Radiation damage. Implant failure. Oxygen deprivation. A seizure shared 
 
 None explained the room.
 
-He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away. He could see eveything around him. Everything. Ring Two and Three below. People walking. The asteroid. The sun. Walls were transparent...ish. But also solid. But also he could see the wires and pipes inside them.
+He needed a doctor. Maybe he could get to Lanchee. Her clinic should be only minutes away. He could see everything around him. Everything. Rings Two and Three below. People walking. The asteroid. The sun. Walls were transparent...ish. But also solid. But also he could see the wires and pipes inside them.
 
-Jace stood, holding Cerberus against his chest, and pressed the hatch control.
+Jace stood, holding Cerberus against his chest, and pressed the hatch control. It was the only thing in the room that was not see-through, like a perfectly black rectangle.
 
-His hand sank through it. He could see siwtches, motors, actuators, wires. His fingers were solid. And cold.
+His hand sank through the outside cover but could not quite move through all of it. Around his fingers, he could see switches, motors, actuators, and wires. His fingers were solid. And cold.
 
 He jerked back.
 
-The button remained untouched.
+The button remained unpressed.
 
 He tried the manual latch. His fingers entered the metal fascia like it was thick water. He felt resistance, but no edge he could grip.
 
@@ -702,7 +702,7 @@ Cerberus glared through his mask with complete agreement, tail between his legs.
 
 Jace pushed.
 
-The hatch did not open. Its shape rotated away from them in a new direction that he had no name for.
+The hatch did not open. The door's layered shapes rotated away from them in a new direction that he had no name for.
 
 The corridor beyond tipped into view. A new direction unfolded beside forward, backward, left, right, up, and down. His inner ear rejected it. His stomach followed.
 
@@ -710,7 +710,7 @@ Then Jace fell through the metal.
 
 He struck the corridor floor on one knee, but the impact felt soft as a mattress. Cerberus remained in his arms. The hatch stood behind them without a mark.
 
-Jace stared at it.
+Jace stared at it. It was completely, fractally, transparent and multi-layered. A black ribbon wound around the inside frame, the only part not see-through.
 
 "We walked through a wall."
 
@@ -746,9 +746,11 @@ Nothing.
 
 Cerberus watched her glowing form and whined.
 
-"They cannot see us."
+"They can't see us."
 
 That conclusion helped less than Jace expected.
+
+They passed the inn's main room. Everything was crystalline, with glowing forms behind and above. The only thing not see-through was the mirror on the wall, which reflected the rippling image of a scared, cold, masked man and a squirming masked dog.
 
 They walked toward the clinic.
 
@@ -758,7 +760,7 @@ The clinic door wasn't there. It was a blank wall with a solar system behind it.
 
 Lanchee had moved her canister into Ring One. Jace knew that. His oxygen-starved brain had gone to the place she used to be aboard the Falcon, translated onto the station map, and called it a plan.
 
-His air cartridge showed thirty-five minutes.
+His air cartridge estimated thirty-five minutes.
 
 Night workers would be in the cafeteria near the inn. Someone had to be awake there.
 
@@ -949,7 +951,7 @@ Sophia stared at Jace.
 
 "You said twenty."
 
-"My hypothesis was that together should divide the effort. Not that much."
+"My hypothesis was that together should divide the effort. But not by that much."
 
 Jace took the bottle and inspected the regulator.
 
@@ -965,7 +967,7 @@ Jace watched the pen.
 
 "Wood?"
 
-"My father made it. The metal pen insert comes out and I leave it here and put it back in when I arrive. Wood crosses easily. Metals are harder. This took an hour for the inside. I tried a small computer tablet, but couldn't get it across."
+"My father made it. The metal pen insert comes out, and I leave it here and put it back in when I arrive. Wood crosses easily. Metals are harder. This took an hour for the inside. I tried a small computer tablet, but couldn't get it across."
 
 "My HUD came with me. But it's not working, keeps crashing."
 
@@ -1055,7 +1057,7 @@ At the inn, Jace's room appeared through three walls at once.
 
 "What if we can't get back?" he asked.
 
-"You can. Bodies remember."
+"I did. You can. Bodies remember."
 
 "That sounds spiritual."
 
@@ -1107,7 +1109,7 @@ Cerberus lay in his arms. Both masks remained sealed. The room clock read 0238. 
 
 Jace removed the mask and stared at the ceiling.
 
-"Thanks," he said and waved at the air. He felt foolish.
+"Thanks," he said and waved at the empty air where she had been... or where he had come from? He felt foolish.
 
 Solid. Flat. Ordinary.
 
@@ -1349,7 +1351,7 @@ Jace looked across the industrial district. Three buildings could have qualified
 
 Carlos sent a route and Jace minimized the call and started hop-skipping towards it, pulling along a convenient guide cable.
 
-Jace realized he could have looked it up himself. He was tired and took a few deep breaths to wake himself upset. He needed to know this stuff, this place. He set his HUD to recordwith full telemetry and transcriptions so he could review it later.
+Jace realized he could have looked it up himself. He was tired and took a few deep breaths to wake himself up. He needed to know this stuff, this place. He set his HUD to record with full telemetry and transcriptions so he could review it later.
 
 Carlos stayed in the corner of his vision while the route threaded between a smelter housing and stacks of raw truss sections.
 
@@ -1447,7 +1449,7 @@ The eastern side of Factory Four held warehouse stacks, unfinished pressure fram
 
 "Wait, we're building another factory?"
 
-Carlos answered, "Yes, the foundation should be layed in a week. This will be our biggest one yet, East of here."
+Carlos answered, "Yes, the foundation should be laid in a week. This will be our biggest one yet, east of here."
 
 Jace looked out the window to the East. As he did, his vision spun and the ground changed again.
 

@@ -143,9 +143,9 @@ The third target offered nine minutes of hope, then revealed a seam of nickel.
 
 Jace looked at Torres. Torres looked disconcerted by {SpoX}'s reply. Maybe an AI could go a little stir-crazy too.
 
-They tried it anyway. {SpoX} was right. It took hours, but they only scraped up a small amount of nickel ore using two drones who carried the rocks to a small smelter founted to the back of the shuttle. {SpoX} was quiet until the end, and seemed to inject sullen emotion into it's voice.
+They tried it anyway. {SpoX} was right. It took hours, but they scraped up only a small amount of nickel ore using two drones that carried the rocks to a small smelter mounted on the back of the shuttle. {SpoX} was quiet until the end and seemed to inject sullen emotion into its voice.
 
-"I have notified {Alex} that Origin industries is the proud new owner of 7200 Tokens worth of nickle particulates. Your accounts have been credited 360 Tokens each."
+"I have notified {Alex} that Origin Industries is the proud new owner of 7,200 Tokens worth of nickel particulates. Your accounts have been credited 360 Tokens each."
 
 Torres just grunted. Jace fought to hide his elation. That was food money for a month. He took a note on his HUD to buy Cerberus an egg as a present.
 

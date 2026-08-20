@@ -7,7 +7,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 description: >
   Scene contracts for Thread X, including ten safe daily exploration crossings,
   an Astral workspace aboard the Victoria, the delayed first fauna reveal inside
@@ -160,32 +160,47 @@ Chapter 17 after they move through the attached station access into Fortuna.
 *Renamed this pass — was mislabeled `L-01`, colliding with the Evening Run scene
 in `arc_01_thread_L_life_texture.md`.*
 
-**Summary:** Jace decides he needs better tools to figure out what is in the
-Astral and gets Nick to help him install one.
+**Summary:** After the Ring Three attack, Jace admits to Nick that the hidden
+project presents a real danger and asks for a local system that can preserve raw
+sensor disagreement. Nick helps without forgiving the secrecy or learning the
+Astral. Lanchee supervises installation, backup, rollback, and medical checks.
 
 **Must accomplish:**
-1. {Aura} install scene: clinic, Lanchee monitoring, OS backup beforehand, avatar
-   choice (Male/Female/Generic) — Jace picks Female, {Aura} reviews his last two
-   weeks of HUD logs and recommends "mostly quiet companion mode," Jace agrees,
-   ends with him configuring settings before sleep, excited, impressed with Nick
-2. {Penny}/{Alex} snark beat: something like "Oh, another one. These mini-AI are
-   very annoying" — needs a drafted line, not yet canon
-3. Jace asks whether loading {Aura} would let him open the radio software and deeper HUD settings (motivation: HUD errors out in the Astral — plant established in X-00a).
-4. Nick asks why; Jace's cover: "Sophia's running some new physics experiments. I'm helping." Nick doesn't push — he files it away (pays off later).
+1. Clinic installation with Lanchee monitoring, two OS backups, tested rollback,
+   per-permission consent, and post-install neurological checks.
+2. Jace selects the female avatar and accepts "mostly quiet companion mode."
+3. Content begins disabled. {Aura} asks separately before reading each bounded
+   diagnostic set.
+4. Nick retains the right to tell Lanchee about medical risk or Kim about station
+   risk and stops if Jace asks him to lie.
+5. Raw camera, suit, HUD, and Sparky feeds remain separate before station
+   normalization so contradictory valid outputs are not voted away.
 
 ---
 
 #### X-02 — Ambient Glow, Healing Light, "No Vampires"
 
-*(Full contract text not fully retrieved this pass — verify against source.)*
+**Summary:** Lanchee rejects an incomplete remote-sensing proposal. Jace and
+Sophia then disclose every risk-relevant fact about full-body crossing, prior
+injuries, and involuntary drains. After three days of object tests, medical
+baselines, isolated instrumentation, and explicit consent language, Lanchee
+authorizes observation of one stable fracture patient. The Astral view reveals
+complex human light, green activity around the fracture, and {Aura}'s geometric
+structure connected to Jace. An unintended view beyond the approved field stops
+the study and is deleted. A later emergency observation reveals a parasite on the
+intact-suit miner but ends before intervention.
 
-**Known elements:**
-1. Ambient Will glow around all humans in the Astral established ("unspent Will")
-2. Healing green light at a broken arm — passive Template healing response;
-   humans doing magic they don't know
-3. "We are not going to be vampires" — the self-imposed rule; first ethical
-   framework they invent, predates all external guidance
-4. Sophia describes Templates as "rainbows in human heads"
+**Must accomplish:**
+1. Lanchee receives enough operational truth to supervise the medical risk while
+   Nick remains outside the Astral disclosure.
+2. Ambient Will glow around humans is established; Sophia describes it as
+   "rainbows in human heads."
+3. Healing green light appears around a fracture without proving its mechanism.
+4. "We are not going to be vampires" becomes the memorable version of the
+   no-harvest, no-intervention, and no-surveillance rules.
+5. Physical walls do not create Astral privacy; the team must construct consent
+   boundaries and stop when those controls fail.
+6. End on observation of the Tick-Maw before any attempt to remove it.
 
 ---
 
@@ -408,7 +423,7 @@ separate incident.
 #### X-04d — The Eye on Three
 
 **Summary:** Opens mid-fight, continuing directly from Ch20's reveal. Sophia
-strikes the creature with controlled force; Jace's rod strike does almost nothing;
+strikes the creature with controlled force; Jace's crowbar strike does almost nothing;
 he seizes Sparky's remote and burns the creature at close range with full thruster
 output. It flees, emitting a Will-borne howl that both of them feel behind their
 eyes rather than hear. It pursues them only as far as a stairway where silver is
@@ -428,17 +443,17 @@ the one who set him down there. She asks, once, whether the creature could be
 doing to people and systems what Jace just did to {Misty}, and leaves it an open
 question. She sets him to rest and defers any plan until morning.
 
-The chapter closes with Jace unable to sleep, working through his own guilt and a
-restless list of design notes (rod ineffective, thruster burn effective, silver
-noted against copper), and learning via station traffic chatter (Kim, irritated,
-complaining about an unscheduled overnight launch) that Jin's mining crew has left
-on a long survey run, gone for at least a week. There is no one to ask about the
-unlisted room or the creature's origin for the foreseeable future.
+Unable to sleep, Jace works through his guilt in a list of design notes (crowbar
+ineffective, thruster burn effective, silver noted against copper). Station
+traffic chatter reveals that Jin's mining crew has left on an unlogged survey run
+for at least a week, removing the option to ask them about the room. Jace then asks
+Nick for bounded help without explaining the Astral. The following morning,
+Sophia agrees to widen the team under strict disclosure limits.
 
 **Must accomplish:**
 1. Treat this as one continuous encounter with Ch20, not a second incident.
 2. Show Jace solving the fight through Sparky's thrusters, not combat competence;
-   the rod strike should read as desperate and barely effective.
+   the crowbar strike should read as desperate and barely effective.
 3. Establish silver as a second observed material of interference, independently
    of copper, without declaring either a universal rule.
 4. Make the {Misty} contact a rule-breaking accident with a clear physical cause
@@ -447,8 +462,8 @@ unlisted room or the creature's origin for the foreseeable future.
    drain, paired with visible guilt, not triumph.
 6. Let Sophia voice the "is the creature doing this too" question without
    answering it. Do not let her, {Aura}, or anyone else solve the mechanism here.
-7. Close on Jin's crew being unreachable for at least a week, removing the option
-   to ask them directly about the unlisted room.
+7. Establish that Jin's crew will be unreachable for at least a week, removing the
+   option to ask them directly about the unlisted room.
 
 8. Establish silver as a perceptual blocker, not merely a thing the creature
    avoids physically — Jace's sight stops at the rail's surface entirely, unlike
@@ -463,24 +478,19 @@ unlisted room or the creature's origin for the foreseeable future.
 - Treat the silver or copper boundary event as reproducible protection.
 - Give Jace combat competence beyond "improvised technical solution under panic."
 
-**⚠️ OPEN — reconciliation needed with prior Ch21 draft:**
-The previously staged Ch21 draft used a different encounter shape entirely: a
-spine-side observation, paper navigation with independent timers, doubled
-corridor geometry, copper tether defense, {Seek}'s contradictory security alerts,
-and a red eye that tracked Jace specifically. None of that matches the revised
-beats above. Flagging rather than silently discarding: does any of that material
-(doubled geometry, timer failures, {Seek}'s contradictory alerts, the eye
-tracking Jace specifically) get preserved and moved to a later chapter, or is it
-fully retired in favor of the new sequence? Recommend deciding this before the
-full Ch21 prose replacement is finalized.
+**Resolved in Chapter 22:** The contradictory-output material moves into {Aura}'s
+first bounded review. Two locally consistent coordinate sets, Sparky's multiple
+wheel responses, {Misty}'s duplicated utterance, and {Seek}'s mutually exclusive
+alerts preserve the valid-data/wrong-resolution pattern. The former second
+encounter, copper-tether defense, and red eye are retired.
 
 ---
 
 #### X-04e — What the Rail Showed Us
 
-**Summary:** The morning after the Ring Three encounter, Jace and Sophia extend
-the stairway discovery into a deliberate survey of dense metal around the
-station, cataloguing where copper and silver interfere with Astral sight.
+**Summary:** After one full day of recovery and new boundaries around {Misty},
+Jace and Sophia extend the stairway discovery into a deliberate survey of dense
+metal in public station areas, cataloguing where copper and silver interfere with Astral sight.
 Copper dims; silver blocks entirely. The clearest example is a silver-backed
 mirror at the Gold Horizon Inn, contrasted with a weaker copper panel in the
 Foundry stock room. They infer, without confirming, that a determined party
@@ -494,6 +504,8 @@ Neither of them says "Ring Three" aloud, but neither needs to.
    together but do not confirm it with direct evidence in this chapter.
 3. Give Nick a natural reentry point for the custom-chip-fab reminder already
    planted in Chapter 16, without repeating that scene's beats verbatim.
+4. Keep the survey to public corridors and avoid treating transparent physical
+   walls as permission to observe occupied rooms.
 
 **Must NOT do:**
 - Explain why silver blocks Astral sight more completely than density alone

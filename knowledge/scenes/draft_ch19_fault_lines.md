@@ -250,7 +250,7 @@ The fatigue after each session lasted a little longer than the day before. She w
 
 ##
 
-Sophia remained physical for the next test, earlier in the morning then ever before so they would have time before Jace's shift. Jace crossed alone with Sparky and a stack of numbered paper cards. He missed meeting up with Hayes in the morning. The old man had always cheered him up with snacks for Cerberus and stories for jace.
+Sophia remained physical for the next test, earlier in the morning than ever before so they would have time before Jace's shift. Jace crossed alone with Sparky and a stack of numbered paper cards. He missed his usual breakfast with Hayes. The old man always cheered him up with snacks for Cerberus and stories for Jace.
 
 "I want you to observe me using the force," she said.
 
@@ -462,7 +462,7 @@ When he returned to the *Victoria*, {Misty} reported that Sophia had gone to sle
 
 Jace went home with Cerberus and discovered that the energy he had taken still had not faded.
 
-He slept badly because he was not tired. He sent prints to the forge of a probe that was next in their experiment plan, and got a jump on some of tomorrow's orders and deliveries. He finished the design for Sparky's modified AI core and sent it to the chip station on the asteroid for printing. He got up and ran, for the first time in weeks.
+He slept badly because he was not tired. He sent the forge plans for the next probe in their experiment queue and got a jump on some of tomorrow's orders and deliveries. He got up and ran for the first time in weeks.
 
 ##
 

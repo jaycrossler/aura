@@ -40,15 +40,15 @@ cross_references:
 
 Sophia's arm came up before Jace's brain caught up with what had cut him.
 
-Blue white force left her hand in a flat line and *pushed* the creature, flinging into it. It recoiled, folding partway back into the wall, and the tendril that had opened his arm withdrew with it.
+Blue-white force left her hand in a flat line and *pushed* the creature, flinging it backward. It recoiled, folding partway into the wall, and the tendril that had opened his arm withdrew with it.
 
 Jace had the crowbar in his other hand. He didn't remember drawing it from his belt.
 
-Jace was strong, earth strong. He'd lifted weights and ran and had muscles. He swung it into the creature's flank. The impact rang up through his wrist and did almost nothing he could see. The creature barely registered the hit. If anything, it seemed more interested in Sophia than him.
+Jace was strong, Earth strong. He had lifted weights, run, and built muscle. He swung the crowbar into the creature's flank. The impact rang through his wrist and did almost nothing he could see. The creature barely registered the hit. If anything, it seemed more interested in Sophia than in him.
 
 That decided it for him.
 
-He dropped the rod and grabbed for Sparky's remote instead.
+He dropped the crowbar and grabbed for Sparky's remote instead.
 
 "Jace—"
 
@@ -60,13 +60,13 @@ Sophia *pushed* again and the creature spun.
 
 Jace timed it perfectly. Sparky's full exhaust caught the creature across its back at close range. It should not have mattered against something built out of metal, but it did seem to matter against the wet tissue and folded space. The creature convulsed, skin bubbling, and the sound that came out of it wasn't a mechanical failure tone or an animal scream. It was something that used the Astral itself to carry, a howl that arrived behind Jace's eyes instead of through his ears, and both of them staggered under it.
 
-It fled back toward the wall it had come from, limbing and flailing tentacles at its writhing skin.
+It fled toward the wall it had come from, limping on too many limbs and flailing tendrils around its writhing body.
 
 "Go," Sophia said, and this time he didn't argue.
 
 They ran for the stairway connecting Ring Two down toward the transfer point, Sparky clutched against Jace's chest, his arm and side burning in a way that had stopped being pain and started being something colder.
 
-The creature turned, and followed limping after them. They ran up the steps, and it's lower limb (Jace hesitated to call it a leg) got as far as the first step before it jerked back in pain.
+The creature turned and limped after them. They ran up the steps, and its lowest limb - Jace hesitated to call it a leg - reached the first step before jerking back in pain.
 
 It stopped there. Reared back, actually, the way an animal balks at a threshold it will not cross. Jace, half blind with shock, still noticed the thin solid line worked into the stair and the rail where it met the deck.
 
@@ -76,21 +76,21 @@ Silver.
 
 By the second flight his legs weren't reliable anymore. Sophia got a shoulder under his good arm and half carried him the rest of the way, saying nothing, breathing hard, not letting go. Carrying him and Sparky. Thank god they hadn't brought Cerberus.
 
-She got them back into the *Victoria* together, badly. It felt like deja vu.
+She got them back into the *Victoria* together, badly. It felt like déjà vu.
 
 ##
 
 He couldn't see properly. The astral room had gone soft at the edges, and he was shaking in a way that had nothing to do with temperature.
 
-"I can't see, everything's—" He didn't finish the sentence. He wasn't sure what word belonged at the end of it. He was hyperventalating. He couldn't cross back over.
+"I can't see. Everything's..." He did not finish the sentence. He was not sure what word belonged at the end of it. He was hyperventilating. He could not cross back over.
 
-"Not my room. Bad air. Brandon and Nikos are in the galley and kitchen. Lets go to the server room."
+"Not my room. Bad air. Brandon and Nikos are in the galley and kitchen. Let's go to the server room."
 
 {Misty}'s processor cabinet threw more light than anything else in it, the steady bubbling glow of her AI stack. Sophia steered him toward it because it was close and bright. She set him down against it to catch her breath, turning to look for a medical kit. Could she push him across?
 
 Jace's shoulder settled against the casing.
 
-He felt it the way he had felt Sophia's light the first time. A pull, immediate and enormous, gold brown warmth flooding up through contact he hadn't chosen and didn't understand until it was already happening.
+He felt it the way he had felt Sophia's light the first time. A pull, immediate and enormous, gold-brown warmth flooding through contact he had not chosen and did not understand until it was already happening.
 
 "Jace!"
 
@@ -100,7 +100,7 @@ Sophia hauled him sideways by the collar, breaking the contact.
 
 Somewhere above them, under them, back in the real, they saw {Misty}'s cabin lighting dimmed by half.
 
-In the galley, they could see her crew mates stand up in panick. Running around in alarm.
+In the galley, they saw her crewmates stand and run toward the dimmed lights.
 
 Jace sat on the floor of the *Victoria*, bleeding, shaking, and abruptly, humiliatingly, awake. Alert. His hands had stopped being numb. The cold that had been eating him from the inside since Ring Three had a name now, and the name was that it had gone somewhere else.
 
@@ -112,11 +112,11 @@ Jace sat on the floor of the *Victoria*, bleeding, shaking, and abruptly, humili
 
 "I know, Jace."
 
-They both sat and crossed back over. He had energy again. She was panting with adrenalines.
+They both sat and crossed back over. He had energy again. She was shaking with adrenaline.
 
 Sophia was looking at the cabinet, not at him, both hands pressed flat against the casing.
 
-{Misty} did not answer the room when Sophia called.  The air was still, and she heard panicked shouting outside.
+{Misty} did not answer the room when Sophia called. The air was still, and they heard panicked shouting outside.
 
 "What did I do?" Sophia asked.
 
@@ -126,7 +126,7 @@ Sophia was looking at the cabinet, not at him, both hands pressed flat against t
 
 "You didn't know."
 
-"I should have guessed" She finally looked at him. Not angry. Something worse than angry. "Is this what it's doing? On Three? Is it doing to people, or to systems, what you just did to her? To me?"
+"I should have guessed." She finally looked at him. Not angry. Something worse than angry. "Is this what it's doing? On Three? Is it doing to people, or to systems, what you just did to her? To me?"
 
 Jace didn't have an answer.
 
@@ -136,13 +136,13 @@ Neither did she. She didn't try to invent one.
 
 ##
 
-The stations emergency kit was not built for this much of Jace's wounds at once, but it was enough. Stitches in his forearm, a wrap around his ribs, strict orders to sleep that he had no intention of following.
+The station's emergency kit was not built for this many of Jace's wounds at once, but it was enough. Stitches in his forearm, a wrap around his ribs, and strict orders to sleep that he had no intention of following.
 
 He sat on his bunk with Cerberus's weight against his good leg and his design pad open on his knee, because the pad was the only thing his hands would still do that felt like control.
 
 He worked the way he always worked when his hands were the only steady part of him: through the tracking software, requirements against functions against materials, prototypes filed as revisions rather than starting fresh each time. It was slower than sketching. It was also the only method that had ever let him find the same mistake twice before it cost him something.
 
-*Rod. Ineffective against tissue at that density. Redesign or discard.*
+*Crowbar. Ineffective against tissue at that density. Redesign or discard.*
 
 *Sparky thruster exhaust against organic tissue at close range. Effective. Document exact distance and duration once memory stabilizes.*
 
@@ -224,7 +224,7 @@ Nick was quiet for a moment.
 
 "Not intentionally."
 
-"The sabotague? Is it the U.S. trying to take stations?"
+"The sabotage? Is it the U.S. trying to take stations?"
 
 "Related, but it's not that."
 
@@ -288,7 +288,7 @@ She was quiet.
 
 "I have kept this to two people because two people is what I could control," she said. "I do not know that I can control three more."
 
-"You don't have to control them. Nicks's already agreed to help, he just doesn't know what he's helping with yet."
+"You don't have to control them. Nick's already agreed to help; he just doesn't know what he's helping with yet."
 
 "That is exactly the problem. Brandon and Nikos are family."
 
