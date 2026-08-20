@@ -196,6 +196,8 @@ She looked at the dog. Then at the intake grille.
 
 "Naturally."
 
+"Suit up. Evacuation drill and suit training next."
+
 Kim left.
 
 Carlos leaned around the doorframe after she was gone. "She likes you."

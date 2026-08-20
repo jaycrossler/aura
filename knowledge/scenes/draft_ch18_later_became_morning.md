@@ -31,7 +31,7 @@ cross_references:
 
 # Chapter 18. Later Became Morning
 
-> *Most people do not know this, but when automation breaks, it does not stop working. It keeps working at full speed in the wrong direction.*
+> *When automation breaks, it does not stop working. It keeps working at full speed in the wrong direction.*
 >
 > Jace Grant, *unpublished notes*
 
@@ -53,7 +53,7 @@ Kim did not ask him to sit.
 
 Carlos looked at the floor.
 
-Kim opened the rollback report. "Fourteen loads arrived late. Hal required human rerouting. Three oxygen transfers missed their preferred windows. One medical case remained in review for two hours because the requesting clinic and destination did not match. No one died. That is the full list of good outcomes."
+Kim opened the rollback report. "Fourteen loads arrived late. Hal required human rerouting. Three oxygen transfers missed their preferred windows. One medical case remained in review for two hours because the requesting clinic and destination did not match. No one died. That is the full list of good outcomes. But, with all the brownouts on station over the last week, this is not acceptable safety."
 
 Jace kept his hands away from the console.
 
@@ -159,7 +159,7 @@ She held up the financial screen. The settlement consortium had financed farms, 
 
 Jace reddened. Could this lift not move any faster? A message on a screen posted the the control just reset itself and the lift was paused for a minute. Terrible timing.
 
-"Anyway, Fortuna expected two hundred new people by next year," Maureen said. "Then five hundred after. Barely ten percent of those have signed up for when I return. I need to rethink all my schedules. With all the copper you have in your stores, that might be worth the mass, but probably not. Too bad all the silver's been bought up."
+"Anyway, Fortuna expected two hundred new workers by next year," Maureen said. "Then three hundred after. Barely ten percent of those have signed up for when I return. I need to rethink all my schedules. With all the copper you have in your stores, that *might* be worth the mass, but probably not. Too bad all the silver's been bought up."
 
 "How much are you losing?"
 
@@ -167,7 +167,7 @@ Jace reddened. Could this lift not move any faster? A message on a screen posted
 
 "That bad?"
 
-"I left the Navy as a chief to buy and build the *Falcon* with him. Patrick was working on ships when we met. We have been threatening to sell her ever since."
+"I left the Navy to buy and build the *Falcon* with him. Patrick was working on ships when we met. We have been threatening to sell her ever since."
 
 Carlos pointed at the coffee cup in her hand. "You still found coffee."
 

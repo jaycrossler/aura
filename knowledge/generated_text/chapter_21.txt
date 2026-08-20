@@ -1,6 +1,6 @@
 Chapter 21. The Eye on Three
 
-Most people do not know this, but when a machine looks at you, it measures distance. When something else looks at you, it measures you.
+When a machine looks at you, it measures distance. When a predator looks at you, it measures you.
 
 Jace Grant, unpublished notes
 
@@ -32,17 +32,17 @@ It fled toward the wall it had come from, limping on too many limbs and flailing
 
 They ran for the stairway connecting Ring Two down toward the transfer point, Sparky clutched against Jace's chest, his arm and side burning in a way that had stopped being pain and started being something colder.
 
-The creature turned and limped after them. They ran up the steps, and its lowest limb - Jace hesitated to call it a leg - reached the first step before jerking back in pain.
+The creature turned and limped after them. They ran up the steps, and its lowest limb, Jace hesitated to call it a leg, reached the first step before jerking back in pain.
 
 It stopped there. Reared back, actually, the way an animal balks at a threshold it will not cross. Jace, half blind with shock, still noticed the thin solid line worked into the stair and the rail where it met the deck.
 
-He looked at it directly, the way he'd look at any instrument reading, and the wrongness of it caught up with him a beat later. He couldn't see through it, past the line. Not the wall behind it, not the conduit space he knew ran under the stairs. The rail simply stopped his sight the way the deepest lensing fog stopped it around the densest ore he'd ever surveyed, except this was a strip of polished metal no wider than his thumb.
+He looked at it directly, the way he'd look at any instrument reading, and the wrongness of it caught up with him a beat later. He couldn't see through it, past the line. Not the wall behind it, not the conduit space he knew ran under the stairs. The rail simply stopped his sight the way the deepest lensing fog stopped it around the densest ore he'd ever surveyed, except this was a strip of polished metal no wider than his palm.
 
-Silver.
+Silver. The kind rimming every passage and doorway to reduce static and bacterial buildup.
 
-Something else nagged at him even through the pain. The gap. He'd clocked it without registering it during the fight: the unlisted room didn't share a wall with anything pressurized. It sat inside its own short stretch of vacuum, reachable only by the tether line Sparky had watched someone cross earlier. No shared air with the rest of Ring Three. No shared air with anything.
+Something else nagged at him even through the pain. The gap. He'd clocked it without registering it during the fight: the unlisted room didn't share a wall with anything pressurized. It sat inside its own short stretch of vacuum, reachable only by the tether line Sparky had watched someone cross earlier. No shared air with the rest of Ring Three. No shared air with anything. It had large air tanks mounted outside the room, so it was obviously pressurized inside.
 
-That wasn't paranoia. That was a fire code decision. Whatever burned in there, whoever was breathing in there, somebody had gone to real trouble to make sure it couldn't spread if it went wrong. He filed it next to the silver. Both felt like the same kind of carefulness, applied by someone who understood exactly what they were protecting the rest of the station from.
+That wasn't paranoia. That was a fire code decision. Whatever was in there, whoever was breathing in there, somebody had gone to real trouble to make sure it couldn't spread if it went wrong. He filed it next to the silver. Both felt like the same kind of carefulness, applied by someone who understood exactly what they were protecting the rest of the station from. His mind spun afterwards, too much thinking.
 
 By the second flight his legs weren't reliable anymore. Sophia got a shoulder under his good arm and half carried him the rest of the way, saying nothing, breathing hard, not letting go. Carrying him and Sparky. Thank god they hadn't brought Cerberus.
 
@@ -56,7 +56,7 @@ He couldn't see properly. The astral room had gone soft at the edges, and he was
 
 "Not my room. Bad air. Brandon and Nikos are in the galley and kitchen. Let's go to the server room."
 
-Misty's processor cabinet threw more light than anything else in it, the steady bubbling glow of her AI stack. Sophia steered him toward it because it was close and bright. She set him down against it to catch her breath, turning to look for a medical kit. Could she push him across?
+Misty's processor cabinet threw more light than anything else in it, the steady bubbling glow of her AI stack shining bright in the Astral. Sophia steered him toward it because it was close and visible and comforting. She set him down against it to catch her breath, turning to look for a medical kit. Could she push him across?
 
 Jace's shoulder settled against the casing.
 
@@ -68,11 +68,11 @@ He couldn't let go. For three, four seconds, he didn't want to.
 
 Sophia hauled him sideways by the collar, breaking the contact.
 
-Somewhere above them, under them, back in the real, they saw Misty's cabin lighting dimmed by half.
+Somewhere above them, under them, back in the real, they saw the Victoria's cabin lighting dimmed by half.
 
-In the galley, they saw her crewmates stand and run toward the dimmed lights.
+In the galley, they saw her crewmates stand and hurry toward the dimmed lights.
 
-Jace sat on the floor of the Victoria, bleeding, shaking, and abruptly, humiliatingly, awake. Alert. His hands had stopped being numb. The cold that had been eating him from the inside since Ring Three had a name now, and the name was that it had gone somewhere else.
+Jace sat on the floor of the Victoria, bleeding, shaking, and abruptly, humiliatingly, awake. Alert. His hands had stopped being numb. The cold that had been eating him from the inside since Ring Three was suddenly bearable.
 
 "I didn't mean to," he said.
 
@@ -82,11 +82,11 @@ Jace sat on the floor of the Victoria, bleeding, shaking, and abruptly, humiliat
 
 "I know, Jace."
 
-They both sat and crossed back over. He had energy again. She was shaking with adrenaline.
+They both sat and crossed back over to the Real. He had energy again. She was shaking with adrenaline.
 
 Sophia was looking at the cabinet, not at him, both hands pressed flat against the casing.
 
-Misty did not answer the room when Sophia called. The air was still, and they heard panicked shouting outside.
+Misty did not answer the room when Sophia called. The air was still, and they heard panicked shouting outside, Brandon asking if Sophia was alright and to put on a mask for safety, just in case the air stopped. To leave the ship until it could be checked for safety.
 
 "What did I do?" Sophia asked.
 
@@ -98,71 +98,57 @@ Misty did not answer the room when Sophia called. The air was still, and they he
 
 "I should have guessed." She finally looked at him. Not angry. Something worse than angry. "Is this what it's doing? On Three? Is it doing to people, or to systems, what you just did to her? To me?"
 
-Jace didn't have an answer.
-
-Neither did she. She didn't try to invent one.
-
-"Rest," she said instead. "We decide what to do about any of this in the morning."
-
 
 
 The station's emergency kit was not built for this many of Jace's wounds at once, but it was enough. Stitches in his forearm, a wrap around his ribs, and strict orders to sleep that he had no intention of following.
 
 He sat on his bunk with Cerberus's weight against his good leg and his design pad open on his knee, because the pad was the only thing his hands would still do that felt like control.
 
-He worked the way he always worked when his hands were the only steady part of him: through the tracking software, requirements against functions against materials, prototypes filed as revisions rather than starting fresh each time. It was slower than sketching. It was also the only method that had ever let him find the same mistake twice before it cost him something.
+He worked the way he always worked when his hands were the only steady part of him: through the tracking software, requirements against functions against materials, prototypes filed as revisions rather than starting fresh each time. It was slower than sketching. It was also the only method that had ever let him find the same mistake twice before it cost him something. Just like being back in his Engineering program.
 
 Crowbar. Ineffective against tissue at that density. Redesign or discard.
 
-Sparky thruster exhaust against organic tissue at close range. Effective. Document exact distance and duration once memory stabilizes.
+Sparky thruster exhaust against organic tissue at close range. Effective. Document exact distance and duration once memory stabilizes. Mandatory personal torches for protection.
 
-Silver. Blocks direct sight the way heavy ore fog does, at a fraction of the thickness. Second material of interference, independent of copper. Do not assume equivalence between the two.
+Silver. Blocks direct sight, at a fraction of the thickness. Creature seems to avoid it.
 
 He was ashamed of how good he felt while writing it. His arm hurt. His side hurt worse. And underneath all of it sat an unfamiliar, unwelcome clarity, less than what he'd taken from Sophia that first night, but enough that he could sit upright and think in full sentences instead of static.
 
 He had taken it from Misty. He kept circling back to that fact the way a tongue finds a broken tooth.
 
-His comm chimed, station traffic log, a channel he mostly ignored, except that Kim's voice came through it clipped and irritated.
+He was halfway listening to the station traffic channel, just in case there was a creature sighting. His attention focused when Kim's voice came through it clipped and irritated.
 
 "—don't care whose survey window it was, I had to clear four drones out of that lane at 0200 because somebody scheduled an unscheduled launch and didn't tell traffic control. Jin's crew is gone. Long survey run, minimum a week, and I found out about it from a collision alert."
 
 A second voice, further from the mic, added something about manifest priorities. Kim cut back in.
 
-"I don't care if the Chinese office is paying triple for silver assay this quarter, somebody still has to file a flight plan."
+"I don't care if Seek is paying triple for silver assay this quarter, they still have to file a flight plan."
 
 A week. Jace set the pad down.
 
-He kept coming back to Jin's crew and hated that he did. Yáo. The tether line. The silver going into a room with its own private vacuum gap and, apparently, its own careful atmosphere. None of it was proof. All of it pointed the same direction, and Jin himself hadn't denied anything, not really, just told him to go home and put ice on it. That wasn't a denial. Jace noticed that it wasn't a denial.
+He kept coming back to Jin's crew and hated that he did. Yáo. The tether line. The silver going into a room with its own private vacuum gap and, apparently, its own careful atmosphere. None of it was proof. All of it pointed the same direction, and Jin himself hadn't denied anything, not really, just told him to go home and put ice on it.
 
-There would be no talking to Jin, no talking to anyone on that crew, about the unlisted room, about what they might or might not have to do with the thing that had cut him open. Not for a week. Possibly longer. And now there was this: silver again, showing up in a traffic complaint the way it had shown up on a stair rail an hour earlier, like the same word said twice by two people who didn't know they were talking to each other.
-
-He looked at his list again. Do not assume equivalence.
+There would be no talking to Jin, no talking to anyone on that crew, about the unlisted room, about what they might or might not have to do with the thing that had cut him open. Not for a week. Possibly longer.
 
 He added one more line underneath the others.
 
-Nobody to ask. Find out on our own.
-
-Then, before he closed the file, he opened a second, smaller one he didn't add to his running notes. He looked at it for a while. He typed three lines into it, none of which he read back, and closed the software without saving them anywhere Sophia's notebooks would see.
+Need more of everything. Information. Planning. Protection. People.
 
 
 
-His comm chimed a second time before he'd finished the thought. Nick, on video, not text.
+Information. Planning. Something clicked in his head, something he had been avoiding. Maybe a way to fix a few things all in one fell swoop.
 
-"You look wrong," Nick said, without hello.
+He saw that Nick was online, awake, status showing that he was playing a game.
 
-"I'm fine."
+Can you come to the forge?
 
-"Can you come to the forge?"
-
-"It's the middle of the night."
-
-"I know."
+it's the middle of the night
 
 Nick came anyway.
 
 He sat behind the partition with his overlay glasses pushed up into his hair, which meant he'd left in a hurry. He looked at the wrap around Jace's ribs and the fresh stitches visible past his rolled sleeve, and whatever he'd planned to say first, he didn't say it.
 
-"That's not a bar fight," he said instead.
+"That's not from a bar fight," he said instead.
 
 "No."
 
@@ -172,7 +158,7 @@ He sat behind the partition with his overlay glasses pushed up into his hair, wh
 
 Nick waited.
 
-"I need your help," Jace said. "I know I don't get to ask that. I've missed meals, cancelled game nights, sent you an apology you correctly called bad. I'm not going to fix any of that tonight."
+"I need your help," Jace said. "I know I don't get to ask that. I've missed meals, cancelled game nights, sent you terrible apologies. I'm not going to fix any of that tonight."
 
 "I know it concerns Sophia and the hours you keep disappearing," Nick said. "I know you're going to give me a cover story and ask me to certify it."
 
@@ -198,11 +184,11 @@ Nick was quiet for a moment.
 
 "The sabotage? Is it the U.S. trying to take stations?"
 
-"Related, but it's not that."
+"Related to it, but it's not that."
 
-"That is not comforting."
+"That is... not comforting."
 
-"It's accurate."
+"We are trying to find out more and think we have an important lead."
 
 Nick looked at him for a long moment, the particular look he got when he was recalculating something instead of judging it.
 
@@ -216,19 +202,13 @@ Jace managed something close to a laugh. "I want you to stick your baby in my br
 
 Nick closed his eyes briefly. "That is not imagery I needed tonight."
 
-"You offered it weeks ago."
-
-"I offered it as a joke about processing power. You're asking under different circumstances."
-
-"I know."
-
 Nick studied him. Whatever he saw, it settled something.
 
 "I'll help. Because you said danger, and because that wrap job is real. This doesn't fix anything between us. It doesn't buy forgiveness."
 
 "I'm not asking it to."
 
-"If it finds a medical risk, I tell Lanchee. If it finds a station risk, I tell Kim. If you ask me to lie for you, I stop."
+"If it finds a medical risk, I tell the docs. If it finds a station risk, I tell Suzi. If you ask me to lie for you, I stop."
 
 "Agreed."
 
@@ -244,9 +224,9 @@ She looked at the stitches, the wrap, the general wreckage of him, and didn't co
 
 "I know. I was there."
 
-"I mean I was wrong about what it means. I kept thinking surveillance, something built and operated. It's not that. But I don't think they're clean either." He told her about the tether line, the commute that wasn't a delivery, the room's own private vacuum gap. "I don't know what they are to this. But I don't believe they're not involved."
+"I mean I was wrong about what it means. I kept thinking surveillance, something built and operated. It's not that. But I don't think they're not involved." He told her about the tether line, the room's own private vacuum gap.
 
-Sophia didn't answer right away. She sat on the edge of his bunk, which she had never done before.
+Sophia didn't answer right away. She sat on the edge of his mattress, which she had never done before. Cerberus blinked and put his chin on her leg.
 
 "We cannot keep doing this with two people," she said finally. "You could have died last night. I could have died watching you almost die. We need more hands, more eyes, someone who can build things faster than we can build them ourselves."
 
@@ -258,31 +238,19 @@ Sophia didn't answer right away. She sat on the edge of his bunk, which she had 
 
 She didn't answer that right away either. She picked at a loose thread on the blanket, which was unlike her; Sophia's hands were usually doing something purposeful.
 
-"Do you know what this is?" she said. "What I have. Forty crossings. Notes no one else has. I keep telling myself, one more month, one more result, and then I publish, and then I tell Brandon and Nikos everything, and it will be fine, they will forgive the five months of secrets because the discovery is worth it." A short, humorless laugh. "I have been telling myself soon since the second month. I have told Brandon soon. I have told Nikos soon. I say it and I mean it every time and then a new result comes in and soon becomes later again."
+"Do you know what this is?" she said. "What I have. No one else has this. I keep telling myself, one more month, one more result, and then I publish, and then I Brandon and Nikos can peer review everything, and it will be fine, they will forgive the months of secrets because the discovery is worth it and the data was not bisaed." A short, humorless laugh. "I have been telling myself soon since the second month."
 
-"That's not a character flaw, Sophia. That's just being scared."
+"They keep asking what we are doing, they see the equipment and boxes that dissapear. I have told Brandon soon. I have told Nikos soon. I say it and I mean it every time and then you and I find a new result and soon becomes later again."
 
-"It is also," she said, quieter, "wanting it to still be mine when I say it out loud. Do you understand how that sounds? The biggest discovery in three thousand years and some small, ugly part of me is doing the math on citations. On which university offers what. On whether there is a committee in Stockholm that has ever considered a physicist working alone out of a converted wine cellar." She shook her head sharply, as if she could throw the thought off by force. "I disgust myself a little, telling you that."
+"That's not a character flaw, Sophia. That's just being scared and cautious."
+
+"It is also," she said, quieter, "wanting it to still be mine when I say it out loud. Do you understand how that sounds? The biggest discovery a thousand years and some small, ugly part of me is doing the math on citations. On whether there is a committee in Stockholm that has ever considered a physicist working alone out of a converted wine cellar." She shook her head sharply, as if she could throw the thought off by force. "I disgust myself a little, telling you that."
 
 "You don't disgust me. You sound like someone who's been carrying this completely alone for five months and is exhausted."
 
-"Five months," she repeated, like the number itself hurt somewhere. "It feels like longer. It feels like it has always been like this."
+"I know that. Knowing it does not make it easier." She looked up at him. "You could have died last night. I could have died last week. I have decided that is a worse thing than losing the paper to a committee of strangers."
 
-"They'd forgive the five months. You know that. You just told me they've been giving you room on purpose because they love you and they're worried."
-
-"I know that. Knowing it does not make the door easier to open." She looked up at him. "You could have died last night. I have decided that is a worse thing than losing the paper to a committee of strangers."
-
-"Nick," Jace said again. "And Brandon and Nikos. All three."
-
-"That is exactly the problem. Brandon and Nikos are family. If this goes wrong for them, it goes wrong for people I love, not people I am managing."
-
-"It's also the only way through it. We tell them what they need to know when they need to know it. Same as we did with each other."
-
-Sophia looked at her hands for a while.
-
-"If Nick tells one person," she said, "one person, Origin, Kim, anyone, this ends. I need to hear you say you understand what that costs if it goes wrong."
-
-"I understand."
+"But, someone else might already know. The Chinese. Maybe others. What if governments or corporations know first and control it? What if we can let everyone know? We have a lot of data and observations."
 
 "Then okay. I will talk to Brandon and Nikos today. Not soon. Today. You talk to Nick. Then we all meet."
 

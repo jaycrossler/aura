@@ -82,7 +82,7 @@ The ship now carried less water shielding, less argon reserve, and a temporary m
 <!-- beat:t03_morning_after.beat2_alex_debrief -->
 The next day, {Alex} scheduled a post-incident review after Origin headquarters had reviewed the incident. They were 13 days to Fortuna. Lucky 13.
 
-*Contractor Grant! Your mandatory review regarding the Falcon mass-distribution event begins in ten minutes. Thank you for helping Origin improve emergency outcomes!*
+*Contractor Grant! Your mandatory review regarding the *Falcon* mass-distribution event begins in ten minutes. Thank you for helping Origin improve emergency outcomes!*
 
 The alert was ominously cheerful. Jace sat at Patrick's workbench with Cerberus across his boots and accepted the channel.
 

@@ -48,7 +48,7 @@ Every morning he'd eat a bowl of soup with Hayes, who would feed biscuit pieces 
 
 The inn kept a giant bag of dog food in a special drawer for Cerberus. They'd needed to lock it when the precocious puppy had found a way to open the door when no one was looking, and was discovered a meter off the ground, head in a bag of food and legs scrambling in the low gravity.
 
-Then it was to the forge, where Jace would pick up orders, print some that required human intervention, or move others to the packaging station. He had found an old broken robotic arm unit in storage and set it up to hang from the ceiling. It could move packages from many of the print beds to the next station, and Jace kep it's status constantly in his HUD. Nick had reflashed it's programming and Jace had repaired a crack in the power board, and it performed admirably.
+Then it was to the forge, where Jace would pick up orders, print some that required human intervention, or move others to the packaging station. He had found an old broken robotic arm unit in storage and set it up to hang from the ceiling. It could move packages from many of the print beds to the next station, and Jace kep it's status constantly in his HUD. Nick had reflashed it's programming and Jace had repaired a crack in the power board, and it performed admirably. Automate all the things.
 
 Print, run, deliver, and repeat. Thing One was outside the station most days, as the construction crews on Three would sometimes order tools or food or extra oxygen bottles. Think One would pass packages through an airlock. Jace was getting pretty comfortable in the maneuver, and had downloaded a new HUD app to help him automate it. Constant improvements. With the robots handling those tasks, he found himself running and delivering more packages himself, which let him meet people all over the station. 
 
@@ -56,9 +56,9 @@ Chinatown was colorful, though very private. All the walls in that part of Two h
 
 Most of the animal pods that the *Falcon* had delivered were anchored on One, so he would stop by to visit and help feed them. They loved seeing him and Cerberus and crowded forward whenever he entered the pods. The pigs were down in the main Barn on Two. The different neighborhoods were his favorite part of Fortuna. One was older and more refined. Fewer pods and more permanent homes had sprung up over the decades. More stones were cut into paths, with greenery artfully placed around doors and seals. Bots were everywhere, cleaning filters, tending grass, polishing surfaces, and carrying things for the retirees and more distinguished station residents. The school was up on One, close to his inn, the forge, and Drone Ops, and he smiled at the gaggle of kids and teens every time he saw them.
 
-Two had the Barn, the Farm, Chinatown, and fifty other pods, rooms, and stores. Most of the Chinese citizens lived in Chinatown; everyone else was scattered across the station. It felt newer. More restaurants, more nightlife, more of a younger energy. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, connected with two other doctors and a handful of nurses who treated the small wounds, scratches, and accidents that mining and construction crews accumulated.
+Two had the Barn, the Farm, Chinatown, and a hundred other pods, rooms, and stores. Most of the Chinese citizens lived in Chinatown; everyone else was scattered across the station. It felt newer. More restaurants, more nightlife, more of a younger energy. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, connected with two other doctors and a handful of nurses who treated the small wounds, scratches, and accidents that mining and construction crews accumulated.
 
-Three was less crowded. More maintenance rooms, smaller workshops, and storage. Lots of space for future residents. The population there was kept low until every safety check was triple-complete, and that would take a few more months of construction. Jace had heard that the new US government had ordered a large expansion of the station, though all the gossip said too few residents were moving out to the belt.
+Three was less crowded. More maintenance rooms, smaller workshops, and storage. Lots of space for future residents. The population there was kept low until every safety check was triple-complete, and that would take a few more months of construction. Jace had heard that the new US government had ordered a large expansion of the station, though all the gossip said too few residents were moving out to the belt to take advantage of it.
 
 His count was that Fortuna Station could probably fit another two hundred people comfortably with its current resources, so expanding before settlers were secured seemed a poor use of the construction crews. No ships full of colonists were en route, though officials on Earth and Mars were apparently discussing a few. The rumors about Odysseus and the other missing ships were souring things, and the administration was not helping by accusing everyone of sabotage. Of course, he was biased against the new government party, so he kept his opinions to himself.
 
@@ -162,7 +162,7 @@ Kim spoke quietly to Carlos.
 
 Carlos said something Jace could not hear.
 
-"The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job. Not now."
+"The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job. Not now. Schedule him for more training."
 
 Jace left quickly with Cerberus. His massive debt looked larger than ever.
 
@@ -210,7 +210,7 @@ Jace ate.
 
 Nick's hands stopped moving. The change drew more attention than any warning tone.
 
-"There is something else. Talk around the station about the Chinese mining contract on the Falcon ending abruptly. Odysseus, Helena, the *Falcon* leak. Now there are three missing vessels out near Saturn."
+"There is something else. Talk around the station about the Chinese mining contract on the *Falcon* ending abruptly. Odysseus, Helena, the *Falcon* leak. Now there are three missing vessels out near Saturn."
 
 "Suzi says she can't audit any of the systems in Chinatown, that {Seek} keeps blocking their requests for video surveilance."
 

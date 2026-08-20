@@ -20,7 +20,7 @@ Every morning he'd eat a bowl of soup with Hayes, who would feed biscuit pieces 
 
 The inn kept a giant bag of dog food in a special drawer for Cerberus. They'd needed to lock it when the precocious puppy had found a way to open the door when no one was looking, and was discovered a meter off the ground, head in a bag of food and legs scrambling in the low gravity.
 
-Then it was to the forge, where Jace would pick up orders, print some that required human intervention, or move others to the packaging station. He had found an old broken robotic arm unit in storage and set it up to hang from the ceiling. It could move packages from many of the print beds to the next station, and Jace kep it's status constantly in his HUD. Nick had reflashed it's programming and Jace had repaired a crack in the power board, and it performed admirably.
+Then it was to the forge, where Jace would pick up orders, print some that required human intervention, or move others to the packaging station. He had found an old broken robotic arm unit in storage and set it up to hang from the ceiling. It could move packages from many of the print beds to the next station, and Jace kep it's status constantly in his HUD. Nick had reflashed it's programming and Jace had repaired a crack in the power board, and it performed admirably. Automate all the things.
 
 Print, run, deliver, and repeat. Thing One was outside the station most days, as the construction crews on Three would sometimes order tools or food or extra oxygen bottles. Think One would pass packages through an airlock. Jace was getting pretty comfortable in the maneuver, and had downloaded a new HUD app to help him automate it. Constant improvements. With the robots handling those tasks, he found himself running and delivering more packages himself, which let him meet people all over the station.
 
@@ -28,9 +28,9 @@ Chinatown was colorful, though very private. All the walls in that part of Two h
 
 Most of the animal pods that the Falcon had delivered were anchored on One, so he would stop by to visit and help feed them. They loved seeing him and Cerberus and crowded forward whenever he entered the pods. The pigs were down in the main Barn on Two. The different neighborhoods were his favorite part of Fortuna. One was older and more refined. Fewer pods and more permanent homes had sprung up over the decades. More stones were cut into paths, with greenery artfully placed around doors and seals. Bots were everywhere, cleaning filters, tending grass, polishing surfaces, and carrying things for the retirees and more distinguished station residents. The school was up on One, close to his inn, the forge, and Drone Ops, and he smiled at the gaggle of kids and teens every time he saw them.
 
-Two had the Barn, the Farm, Chinatown, and fifty other pods, rooms, and stores. Most of the Chinese citizens lived in Chinatown; everyone else was scattered across the station. It felt newer. More restaurants, more nightlife, more of a younger energy. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, connected with two other doctors and a handful of nurses who treated the small wounds, scratches, and accidents that mining and construction crews accumulated.
+Two had the Barn, the Farm, Chinatown, and a hundred other pods, rooms, and stores. Most of the Chinese citizens lived in Chinatown; everyone else was scattered across the station. It felt newer. More restaurants, more nightlife, more of a younger energy. The other inn was here, and there always seemed to be some drama or a small party happening or being planned. Lanchee had her clinic here, connected with two other doctors and a handful of nurses who treated the small wounds, scratches, and accidents that mining and construction crews accumulated.
 
-Three was less crowded. More maintenance rooms, smaller workshops, and storage. Lots of space for future residents. The population there was kept low until every safety check was triple-complete, and that would take a few more months of construction. Jace had heard that the new US government had ordered a large expansion of the station, though all the gossip said too few residents were moving out to the belt.
+Three was less crowded. More maintenance rooms, smaller workshops, and storage. Lots of space for future residents. The population there was kept low until every safety check was triple-complete, and that would take a few more months of construction. Jace had heard that the new US government had ordered a large expansion of the station, though all the gossip said too few residents were moving out to the belt to take advantage of it.
 
 His count was that Fortuna Station could probably fit another two hundred people comfortably with its current resources, so expanding before settlers were secured seemed a poor use of the construction crews. No ships full of colonists were en route, though officials on Earth and Mars were apparently discussing a few. The rumors about Odysseus and the other missing ships were souring things, and the administration was not helping by accusing everyone of sabotage. Of course, he was biased against the new government party, so he kept his opinions to himself.
 
@@ -134,7 +134,7 @@ Kim spoke quietly to Carlos.
 
 Carlos said something Jace could not hear.
 
-"The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job. Not now."
+"The publicity oversold him," Kim continued. "He is not the crisis footage. He is an ordinary junior delivery hire with military hardware. That may be useful after he learns the job. Not now. Schedule him for more training."
 
 Jace left quickly with Cerberus. His massive debt looked larger than ever.
 
@@ -570,7 +570,7 @@ Across the animal pens, nearly a thousand chickens began screaming at once.
 
 Chapter 12. The Other Side
 
-Most people do not know this, but the third human to cross between dimensions in three thousand years was carried most of the way by a dog.
+Most people do not know this, but the third human to cross between dimensions was saved by a dog.
 
 Jace Grant, unpublished notes
 
@@ -933,7 +933,7 @@ For three minutes, Jace and Sophia pulled.
 
 Nothing about it was fast. The bottle came through a fraction at a time. First the regulator, then the neck, then the metal cylinder. Jace's arms began shaking even though his hands held nothing. His cartridge counted down through twenty-one minutes, then twenty, then nineteen. He was starting to panic, knowing that the dials were never exact.
 
-At three minutes, the bottle tore free.
+After four minutes of pulling, the bottle tore free.
 
 Sophia caught it against her chest and fell backward into Jace. All three of them hit the floor in a slow tangle of limbs, masks, and indignant dog.
 
@@ -1017,7 +1017,7 @@ Jace looked at the walls. Through the walls. At the Asteroid down below. Was bel
 
 Cerberus leaned against Sophia's shin.
 
-She put one hand on his back. The dog remained a dog in every direction. His inner light changed all at once when she touched him, a single warm shift rather than the layered movement of human thought.
+She put one hand on his back. The dog remained a dog in every direction. His tail accelerated left to right.
 
 "He pulled my mask through," Jace said. "Before he pulled his own."
 
@@ -1037,7 +1037,7 @@ Sophia's face changed.
 
 "How long?"
 
-"Forty crossings over seven weeks. Partial episodes before that. I told one colleague. She scheduled a medical consult. I mentioned it to Penny and it still watches me closely. It has a file on me. I stopped telling people."
+"Forty crossings over seven weeks. Partial episodes before that. I told one colleague. She scheduled a medical consult. I mentioned it to Penny and it still watches me closely. It has a file on me. I stopped telling people. I really want to tell my crew mates... but I'm waiting until I can prove it."
 
 "We should get you home," she said. He was shivering violently.
 
@@ -1134,7 +1134,7 @@ He probably got some sleep, but every time he started to drift off he would snap
 
 Chapter 14. Down to the Asteroid
 
-Athena: The university cancelled our Chinese exchange seminar. Half the campus says security. The other half says theater.
+Athena: The university cancelled our Chinese exchange program. Half the campus says security. The other half says theater.
 
 Apollo: Theater.
 

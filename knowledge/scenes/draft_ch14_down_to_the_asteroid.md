@@ -31,7 +31,7 @@ cross_references:
 
 # Chapter 14. Down to the Asteroid
 
-> *Athena: The university cancelled our Chinese exchange seminar. Half the campus says security. The other half says theater.*
+> *Athena: The university cancelled our Chinese exchange program. Half the campus says security. The other half says theater.*
 >
 > *Apollo: Theater.*
 >

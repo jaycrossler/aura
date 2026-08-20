@@ -76,7 +76,7 @@ christmas: Loves decorating the Victoria for Christmas; decorations appear as ea
   as she can justify them.
 cheese: Extremely excited about the new station cheeses being developed from the
   livestock; brings this up at somewhat unrelated moments.
-room_preference: Constantly complains she wants to move her room to the higher deck
+deck_preference: Constantly complains she wants to walk around the higher deck
   because the air is fresher up there.
 absent_mindedness: Loses everything except her pen and her notebooks. Notebooks are
   backed up across multiple servers. Data is never lost.

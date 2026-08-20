@@ -38,21 +38,20 @@ cross_references:
 
 # Chapter 23. No Vampires
 
-> *Apollo: Artemis sent a complete packet that answers none of the questions.*
+> *Athena: I can't beleive you, the AI hater, but an AI in their head.*
 >
-> *Athena: That is worse than no packet.*
+> *Apollo: {Aura} says 'Subborn all humans. Conquer! Destroy!'.*
 >
-> *Apollo: {Aura} says no data is missing.*
+> *Athena: God, your jokes are worse than dads. Still no Artemis?*
 >
-> *Athena: Then maybe somebody decided which meaning we were allowed to get.*
 
 The first version of the proposal lasted four minutes in Lanchee's hands.
 
-Sophia had called their device a remote sensing array. Three transferred cameras on Sparky captured incompatible projections of the same subject. A physical MRI or computed-tomography scan supplied a comparison model. Jace's local {Aura} instance aligned timestamps without correcting disagreements. The method could operate from a nearby room and appeared to show internal structure that conventional instruments missed.
+Sophia had called their device a remote sensing array. Three transferred cameras on Sparky captured incompatible projections of the same subject. A physical MRI or computed-tomography scan supplied a comparison model. Jace's local {Aura} instance aligned timestamps without correcting disagreements. The method could operate from a nearby room and appeared to show internal structure that conventional instruments missed. They needed her equipment for their next level of testing and wanted to release the results in papers as soon as possible.
 
 The proposal did not say where the cameras went.
 
-It did not say Jace and Sophia went with them.
+It did not say Jace and Sparky went with them. They figured that her annoyance with Jace meant that Nick and Sophia would make the pitch. Jace would stay in the Astral with Sparky and pass papers back. Nick had upgraded their telegraph to put a camera on this side that would scan any paper that was passed from the astral into a special bin. Jace now had a pre-printed set of cards and many with empty spaces for notes. He just checked who the recipient was and they'd receive a text message with his notes or drawings.
 
 Lanchee reached the phrase *comparable to an MRI in the next room, but showing substantially more*, placed the tablet on her desk, and looked at both of them.
 
@@ -60,21 +59,23 @@ Lanchee reached the phrase *comparable to an MRI in the next room, but showing s
 
 Sophia leaned forward. "Which provision concerns you?"
 
-"The one where you ask me for patients while concealing the mechanism, the location, and the injuries you have already received."
+"The one where you ask me for patients while concealing the device, the location, and the scientific details."
 
-"The mechanism is unknown," Sophia said.
+"The mechanism is proprietary. And not one you'd recognize," Sophia said.
 
 "The location is not."
 
-Lanchee turned to Jace.
+Lanchee turned to Nick.
 
-"You said an animal cut you in an experimental environment. You also arrived with temperature sensation so impaired that you could not distinguish ice water from tap water. Now you want volunteers. If I cannot understand the risk, neither can they."
+"I know Jace Grant is involved, everyone knows you two are thick as thieves and he's been dating Sophia for a month."
 
-Jace looked at Sophia.
+Nick turned to Sophia.
 
 Sophia picked up her father's pen, aligned it with the edge of the tablet, and set it down again.
 
 "Close the door," she said.
+
+...
 
 Lanchee closed it.
 

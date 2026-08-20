@@ -12,8 +12,6 @@ cross_references:
   - "[[ship_victoria]]"
   - "[[char_misty_ai]]"
   - "[[storybot_orpheus_voice_tag_reference]]"
-open_flags:
-  - "Naming and accent conflict, surfaced not resolved. char_sophia_lotte.md and visual_profile_sophia_lotte.md both specify a strong German accent with French cultural heritage. The Ch13 prose describes her first line as delivered with 'a slight French accent with something else in it' and her first words are French ('Mon Dieu'). These are different casting instructions. A director needs one ruling: German-primary with French colour, or French-primary with German precision. This profile documents both and defaults to nothing."
 ---
 
 # Character Voice Profile — Dr. Sophia Lotte
