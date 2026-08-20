@@ -1,15 +1,17 @@
 # Directory Tree
 
 - arcs/
-    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-08-20; type: arc; description: >; lines: 443; xrefs: 32; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong, kim, torres, carlos
+    - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-08-20; type: arc; description: >; lines: 446; xrefs: 32; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong, kim, torres, carlos
     - arc_01_thread_A_arrival.md - name: Arc 1 — Thread A: Arrival; id: arc_01_thread_A_arrival; status: draft; canonical: true; updated: 2026-07-15; type: arc_thread; description: >; lines: 231; xrefs: 8; canonical: true; chars: jace_apollo, carlos, kim, torres, mira, hayes
+    - arc_01_thread_K_kael_covert_arrival.md - name: Arc 1 — Thread K: Kael's Covert Arrival; id: arc_01_thread_K_kael_covert_arrival; status: draft; canonical: true; updated: 2026-08-20; type: arc_thread; description: >; lines: 214; xrefs: 10; canonical: true; chars: kael, kai, erin, jace_apollo, nick_lee, suzi
     - arc_01_thread_L_life_texture.md - name: Arc 1 — Thread L: Life Texture; id: arc_01_thread_L_life_texture; status: draft; canonical: true; updated: 2026-08-18; type: arc_thread; description: >; lines: 246; xrefs: 6; canonical: true; chars: jace_apollo, sophia_lotte, mei, mira, kim
     - arc_01_thread_N_nick_ai.md - name: Arc 1 — Thread N: Nick / AI; id: arc_01_thread_N_nick_ai; status: draft; canonical: true; updated: 2026-08-20; type: arc_thread; description: >; lines: 177; xrefs: 10; canonical: true; chars: jace_apollo, nick_lee, jin_luong
     - arc_01_thread_P_pressure.md - name: Arc 1 — Thread P: Pressure; id: arc_01_thread_P_pressure; status: draft; canonical: true; updated: 2026-08-18; type: arc_thread; description: >; lines: 310; xrefs: 8; canonical: true; chars: jace_apollo, suzi, jin_luong, helena, mei
     - arc_01_thread_S_swarm.md - name: Arc 1 — Thread S: Swarm and Closing; id: arc_01_thread_S_swarm; status: draft; canonical: true; updated: 2026-08-20; type: arc_thread; description: >; lines: 264; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, jin_luong, nick_lee, suzi, kael, torres, kim, carlos, mira
     - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 256; xrefs: 8; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
+    - arc_01_thread_V_vehicles_and_platinum_survey.md - name: Arc 1 — Thread V: Vehicles and the Platinum Survey; id: arc_01_thread_V_vehicles_and_platinum_survey; status: draft — scaffold only, not yet broken into individual scene contracts; canonical: true; updated: 2026-08-20; type: arc_thread; description: >; lines: 144; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, brandon_moreau, nick_lee
     - arc_01_thread_X_astral.md - name: Arc 1 — Thread X: Astral Exploration; id: arc_01_thread_X_astral; status: draft; canonical: true; updated: 2026-08-20; type: arc_thread; description: >; lines: 743; xrefs: 24; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
-    - arc_02_addendum_kael_two_weeks.md - name: Arc 2 Addendum — The Two Weeks; id: arc_02_addendum_kael_two_weeks; status: pre-draft; canonical: false; updated: 2026-07-12; type: scene_notes; description: >; lines: 108; xrefs: 5; canonical: false; chars: erin, kael, nick_lee
+    - arc_02_addendum_kael_two_weeks_SUPERSEDED_NOTICE.md - id: notice_arc_02_addendum_kael_two_weeks_superseded; status: action-needed; updated: 2026-08-20; type: review_queue_log; lines: 29; xrefs: 0; canonical: false
     - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Adama rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
     - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
     - arc_04_the_bloom.md - name: Arc 4 — The Bloom; id: arc_04_the_bloom; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 320; xrefs: 0; canonical: false; open_decisions: 5
@@ -31,7 +33,7 @@
     - char_hayes.md - name: Hayes; id: char_hayes; status: alive (medbay — unconscious, then recovering; permanently left-handed); updated: 2026-06-28; type: character; description: >; lines: 217; xrefs: 6; canonical: false; open_decisions: 3; chars: jace_apollo, cerberus, lanchee
     - char_helena.md - name: Helena [surname TBD]; id: char_helena; status: deceased, then resurrected (disappeared; body never recovered; resurrection is a later reveal — TRUE CAUSE OF DEATH AND RESURRECTION MECHANISM ARE GM/REVEAL-LATER); updated: 2026-07-02; description: Character profile detailing Helena's disappearance and magical crossing into the Astral plane.; lines: 189; xrefs: 3; canonical: false
     - char_jace_apollo.md - name: Jace Apollo Grant; id: char_jace_apollo; status: alive; lines: 11; xrefs: 1; canonical: false
-    - char_jin_luong.md - name: Jin Lóng; id: char_jin_luong; status: alive; updated: 2026-06-30; description: >; lines: 293; xrefs: 0; canonical: false
+    - char_jin_luong.md - name: Jin Lóng; id: char_jin_luong; status: alive; updated: 2026-08-20; description: >; lines: 276; xrefs: 4; canonical: false; chars: yao
     - char_kael.md - name: Kael; id: char_kael; status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system; updated: 2026-06-26; description: Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice.; lines: 324; xrefs: 2; canonical: false; chars: kai
     - char_kai.md - name: Kai; id: char_kai; status: alive; updated: 2026-06-26; description: Character profile for Kai, a Crystal Dragon familiar Will-bonded to Kael, who scales in size and capability across dimensional layers and serves as Kael's mount in the Astral and Hyperspace.; lines: 184; xrefs: 2; canonical: false; chars: kael
     - char_kim.md - name: Kim Jones-Hyatt; id: char_kim; status: alive; canonical: true; updated: 2026-08-15; type: character; description: >; lines: 140; xrefs: 10; canonical: true; chars: jace_apollo, carlos, maureen
@@ -53,6 +55,7 @@
     - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-08-20; description: Character profile detailing Dr. Sophia Lotte, an ESA physicist who pioneered human Astral crossing.; lines: 365; xrefs: 9; canonical: false; chars: brandon_moreau, nikos_petrou
     - char_spox_ai.md - name: {SpoX}; id: char_spox_ai; status: canonical; canonical: true; updated: 2026-08-14; type: ai_character; description: Mining and survey AI defined by accurate physics, hostile brevity, and contempt for unmodeled judgment.; lines: 33; xrefs: 4; canonical: true; chars: jace_apollo
     - char_suzi.md - name: Suzi Gonzales; id: char_suzi; status: alive; updated: 2026-07-27; description: Character profile for Suzi, Fortuna Station chief of security and investigative ally.; lines: 127; xrefs: 0; canonical: false
+    - char_yao.md - name: Yáo; id: char_yao; status: deceased; canonical: true; updated: 2026-08-20; type: character; description: >; lines: 84; xrefs: 4; canonical: true; chars: jin_luong, mira
     - non-canonical-ideas/
         - char_jelly_grant.md - name: Jelly; id: char_jelly_grant; status: alive (off-page, on Earth); canonical: false; updated: 2026-05-02; description: Character profile for Jelly Grant, a dog representing home and enduring family connection.; lines: 77; xrefs: 0; canonical: false
         - char_jinx_grant.md - name: Jinx; id: char_jinx_grant; status: alive (off-page, on Earth); canonical: false; updated: 2026-05-02; description: Character profile for Jinx, the primary family horse and symbol of home on a Virginia farm.; lines: 86; xrefs: 0; canonical: false
@@ -174,7 +177,7 @@
         - location_psyche_station.md - name: Psyche Station; id: location_psyche_station; status: active, economically significant; canonical: false; updated: 2026-06-17; type: station; description: Description of the economically vital station anchored to the metallic asteroid 16 Psyche.; lines: 73; xrefs: 0; canonical: false
         - location_sylvia_station.md - name: Sylvia Station; id: location_sylvia_station; status: active; canonical: false; updated: 2026-04-28; type: station; description: Detailed location profile for Sylvia Station, including its three-body asteroid system and potential story sites.; lines: 73; xrefs: 0; canonical: false
 - magic-systems/
-    - advancement_ledger.md - name: Character Advancement Ledger; id: advancement_ledger; status: canonical; canonical: true; updated: 2026-08-20; type: kb_system; description: >; lines: 469; xrefs: 8; canonical: true
+    - advancement_ledger.md - name: Character Advancement Ledger; id: advancement_ledger; status: canonical; canonical: true; updated: 2026-08-20; type: kb_system; description: >; lines: 496; xrefs: 8; canonical: true
     - magic_astral_transfer_skill.md - name: [Astral Transfer] — Skill Specification; id: magic_astral_transfer_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 235; xrefs: 5; canonical: true; chars: jace_apollo
     - magic_breach_crossers_transient.md - name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger); id: magic_breach_crossers_transient; status: working draft — extends canonical crossing/fauna specs; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology); updated: 2026-07-28; type: magic_system; description: Taxonomy and mechanics for astral organisms crossing into physical reality during magical breaches.; lines: 129; xrefs: 5; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
     - magic_cryptid_species_reference.md - name: Belt Cryptid Species — Will Profile and Orb Reference; id: magic_cryptid_species_reference; status: canonical; canonical: true; updated: 2026-07-28; type: magic_system; description: >; lines: 356; xrefs: 5; canonical: true
@@ -200,6 +203,9 @@
 - README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-07-21; type: readme; description: >; lines: 214; xrefs: 5; canonical: false
 - review-queue/
     - 2026-07-19_delivery_reframe.md - id: rq_2026-07-19_delivery_reframe; status: open; updated: 2026-07-19; type: review_queue_log; description: >; lines: 46; xrefs: 7; canonical: false; chars: jace_apollo, maureen
+    - 2026-08-20_immutable_sheet_corrections_pending.md - id: rq_2026-08-20_immutable_sheet_corrections_pending; status: open; updated: 2026-08-20; type: review_queue_log; lines: 69; xrefs: 0; canonical: false
+    - 2026-08-20_jin_asteroid_ruling.md - id: rq_2026-08-20_jin_asteroid_ruling; status: resolved; updated: 2026-08-20; type: review_queue_log; lines: 93; xrefs: 0; canonical: false
+    - 2026-08-20_seek_ai_reframe.md - id: rq_2026-08-20_seek_ai_reframe; status: open; updated: 2026-08-20; type: review_queue_log; lines: 47; xrefs: 0; canonical: false
     - open_question_nick_crossing_resequence_v1.md - name: Open Question - Immutable Nick Sheet After Chapter 23 Resequence; id: open_question_nick_crossing_resequence_v1; status: open; updated: 2026-08-20; type: review_queue; description: >; lines: 42; xrefs: 5; canonical: false; chars: nick_lee
     - open_questions_ch20_21_revision.md - id: open_questions_ch20_21_revision; status: open; updated: 2026-08-19; type: review_queue; lines: 57; xrefs: 0; canonical: false
     - open_questions_ch20_22_revision_v2.md - id: open_questions_ch20_22_revision_v2; status: open; updated: 2026-08-19; type: review_queue; lines: 64; xrefs: 0; canonical: false
@@ -339,6 +345,7 @@
     - legacy_lexicon_and_rulebook_reconciliation.md - name: Legacy Lexicon & Physics-Rulebook Reconciliation; id: spec_legacy_lexicon_reconciliation; status: reconciliation (folds the retired "Physics and Metaphysics Rulebook" project bible); canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision; updated: 2026-06-24; type: foundational_reference; description: Reconciles old physics rulebook terminology and mechanics with current universe canon specifications.; lines: 75; xrefs: 6; canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision
     - physics-and-magic-interaction.md - id: spec_physics_magic_interaction; status: foundational; canonical: true; updated: 2026-07-14; description: Defines hard rules for how magic interacts with established physical laws and reality.; lines: 182; xrefs: 2; canonical: true
     - spec_astral_glow_and_signatures.md - name: Astral Glow, Thought Signatures, and Working Detection; id: spec_astral_glow_and_signatures; status: canonical; canonical: true; updated: 2026-07-04; type: universe_spec; description: >; lines: 408; xrefs: 7; canonical: true; chars: sophia_lotte, jace_apollo, kael
+    - spec_astral_lightspeed_addendum.md - name: Astral Light-Speed Addendum — dist² Motion and Decoherence; id: spec_astral_lightspeed_addendum; status: author-ruled — pending merge; canonical: true; updated: 2026-08-20; type: universe_spec; description: >; lines: 82; xrefs: 5; canonical: true
     - spec_astral_phenomenology.md - name: The Astral — Physical Properties and Perceptual Experience; id: spec_astral_phenomenology; status: canonical; canonical: true; updated: 2026-08-18; type: foundational_phenomenology; description: Technical specification detailing the physical properties and perception of the Astral dimension.; lines: 280; xrefs: 0; canonical: true
     - spec_audiobook_narration_style.md - name: Audiobook Narration Prose Style; id: spec_audiobook_narration_style; status: canonical; updated: 2026-08-13; type: prose_style; description: >; lines: 26; xrefs: 0; canonical: false
     - spec_belt_transport_and_economy.md - name: Frontier Belt Transport System and Economy; id: spec_belt_transport_and_economy; canonical: true; updated: 2026-06-16; type: universe_spec; description: Details the modular transport system and economy of the asteroid belt.; lines: 239; xrefs: 1; canonical: true
@@ -377,6 +384,7 @@ These files were marked as draft or have non-canonical status and should not be 
 - `MASTER-SYNOPSIS.md`
 - `arcs\arc_01_falcon_and_fortuna.md`
 - `arcs\arc_01_thread_A_arrival.md`
+- `arcs\arc_01_thread_K_kael_covert_arrival.md`
 - `arcs\arc_01_thread_L_life_texture.md`
 - `arcs\arc_01_thread_N_nick_ai.md`
 - `arcs\arc_01_thread_P_pressure.md`
@@ -405,9 +413,12 @@ These files were marked as draft or have non-canonical status and should not be 
 ### Orphaned Files
 These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
 
+- `2026-08-20_immutable_sheet_corrections_pending`
+- `2026-08-20_seek_ai_reframe`
 - `CLAUDE_PROJECT_INSTRUCTIONS`
 - `_visual_profile_gaps_2026-08-15`
 - `addition_new_doctor_memory_mention`
+- `arc_02_addendum_kael_two_weeks_SUPERSEDED_NOTICE`
 - `book01-opening-notes`
 - `draft_ch06_the_spire`
 - `draft_ch08_settling_in`
@@ -425,7 +436,6 @@ These files are not referenced by any other file's `cross_references`. They may 
 - `open_questions_materials_spec_v1`
 - `review_queue`
 - `system_character_sheets_skill_format`
-- `voice_char_jin_luong`
 - `voice_char_lanchee`
 - `voice_char_mei`
 - `voice_char_sister_artemis`

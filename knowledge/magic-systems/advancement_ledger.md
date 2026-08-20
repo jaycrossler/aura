@@ -271,6 +271,33 @@ advancement_events:
       strengthened Jin's passive Mental Fortification. Kael will note this as
       anomalously thick for a practitioner who never trained it.
 
+  - id: proj_shi_gang_nascent_skill
+    character: shi_gang
+    skill: "[unknown — TBD]"
+    from_level: null
+    to_level: 0.5
+    trigger: exposure (extended asteroid-side Astral fauna combat alongside Jin)
+    arc: arc_01
+    scene: TBD
+    confirmed: false
+    notes: >
+      Placeholder pending author decision. With Jin's fire origin now confirmed
+      as an asteroid Tick-Maw encounter followed by an extended, multi-site
+      hunting campaign, Shi Gang's exposure level is comparable to Jin's own
+      early manifestation window. Whether this produces a nascent skill, and
+      which one, is an open author call.
+
+  - id: proj_li_hao_nascent_skill
+    character: li_hao
+    skill: "[unknown — TBD]"
+    from_level: null
+    to_level: 0.5
+    trigger: exposure (extended asteroid-side Astral fauna combat alongside Jin)
+    arc: arc_01
+    scene: TBD
+    confirmed: false
+    notes: >
+      Same reasoning as proj_shi_gang_nascent_skill. Open author call.
   - id: jin_fire_shaping_l1
     character: jin_luong
     skill: "[Fire Shaping]"
@@ -457,7 +484,7 @@ The following items require attention before prose drafts are written:
 |---|---|---|
 | `RETCON` | sheet_sophia_arc01_end.md states [Force Application] L3 — must be patched to L2 | HIGH |
 | `OPEN` | Queen orb absorption by Sophia now reinforces L2 after the Chapter 23 predator sphere creates the L1→L2 transition; confirm the swarm scene preserves that ceiling | HIGH |
-| `OPEN` | Jin's three named crew members with abilities: if they manifested under {Seek} suppression, they may have nascent L1 skills not yet logged | MEDIUM |
+| `OPEN` | Jin's crew (Shi Gang, Li Hao) have been fighting Astral fauna on asteroid claims alongside Jin for an extended period — a much stronger manifestation trigger than passive {Seek} suppression pressure. Do either have nascent abilities of their own, and what are they? Yáo's status is the same open question (see char_yao.md), moot for prose purposes since he dies in Arc 1, but still worth settling for the advancement record. | MEDIUM |
 | `OPEN` | Jace's [Object Template] on HUD: currently L1 unstable; does Arc 2 Kael teaching help him stabilize it? Not yet in ledger | MEDIUM |
 | `OPEN` | Cerberus familiar bond: not yet logged as a skill entry; Kael will read it in Arc 2; needs a ledger entry once formalized | LOW |
 

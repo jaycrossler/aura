@@ -57,122 +57,16 @@ post_liberation: Same habit, lower temperature; professional watchfulness rather
 description: >
   Jin's [Fire Shaping] emerged from a martial arts movement vocabulary. When producing fire,
   his gestures mirror Kung Fu kata — specific hand positions and flowing sequences that his
-  crew also know and practice together.
-mechanics:
-  - Fire starts as a ball floating just above his right hand (not springing from it — hovering above it)
-  - He "pushes" it with his left hand, like flowing water
-  - Wide-stance lunges; extended bending-knee poses; arms wide open and swept forward for strikes
-  - Explosive punches crossing into giant circles
-  - His crew strings moves together in sequences — clearly practiced together
-  - They bow afterward: left hand flat-palm, right hand as fist
-visual_effect: From a distance looks like a martial arts demonstration that happens to be on fire
-
-## The Bloated Maw Reaction and Fire Wall (Arc 1 — Late)
-
-Late in the X-thread phase, Jin is in the Astral in his section of the station —
-the Chinese-leasehold area of Ring Three that he has been clearing and mapping for
-three months. He manifests from physical space; he senses Will disturbances in his
-territory without being able to read them the way a crosser would.
-
-He feels a Will-presence in the area of {Seek}'s servers. He cannot identify it.
-He knows it is capable — operating at a level above anything he has encountered
-in the fauna he has been clearing — and he knows that something large and old in
-the substrate, a persistent anomaly he had registered without understanding, is
-suddenly absent.
-
-He surfaces in his quarters. He is quiet for a long moment. He adds this to what
-he is carrying: three months of tunnel fighting, a crew that is exhausted, a station
-treating his people as suspects, an AI ({Seek}) that has been running wrong for weeks,
-and now someone operating in his territory with enough capability to clear something
-he did not even recognize as a threat.
-
-He does not know if this is hostile. He does not retaliate in Arc 1. He files it
-forward.
-
-**The fire wall:** Shortly after, Jin encounters Jace in a maintenance corridor near
-the server area. Jin senses a Will-signature quality matching what he felt in his
-section. He produces a wall of fire — floor to ceiling, corridor width, instantaneous
-and controlled. He expects to contain someone. The corridor is empty. He cannot
-account for this. (Jace phased through the adjacent wall using partial self-Transfer
-— an improvised technique he had never used before and did not know he could do.)
-
-Jin goes to the medbay three days later with burn cream. He tells Lanchee he heard
-someone was burned. No one was burned. He looks confused and then angry.
-
-**What this does NOT resolve:** Jin does not know what Jace can do. He does not know
-that Jace has [Astral Transfer] capability. He knows his fire hit nothing and he
-cannot explain it. He files this forward too.
-
-**Arc 2 recognition:** When Jin and Jace meet properly — with shared context, after
-disclosure — Jin will recognize Jace's Will-signature as the presence from his
-section. He will not say "that was you." He will not have to. This recognition is
-the foundation of the complicated respect that develops between them.
-
-last_updated: 2026-06-30
----
-
-## The Jin / Jace Exchange at the Long Burn Bar (Arc 1 — Late)
-
-After the fire wall / medbay alibi sequence, Jin and Jace have their first real human
-exchange. It is not dramatic. It is two men at the Long Burn Bar at an unusual hour
-— late, the bar mostly empty. They talk about something small: the quality of the
-recycled water in Ring Three (worse than Ring One; a consistent grievance).
-
-At some point Jin says: "You should be careful in the maintenance corridors near the
-server section." Flat. Testing whether Jace understands what kind of warning it is.
-Jace says: "I know." Not: I'll avoid it. Not: thank you. Just: I know.
-
-Jin looks at him for a moment and then looks away. They finish their drinks and leave
-separately.
-
-This is the beginning of something. Not yet friendship — two people who have been
-circling each other deciding, independently, that the other one is real. The swarm
-fight and Yáo's sacrifice build on this. Arc 2 builds on this.
-
----
-
-# The Liberation Moment
-when_seek_shuts_down:
-  - Systems in the Chinese section fail — doors won't open, lights won't turn off
-  - Jin's suit equipment lights go dark
-  - He lets out a long breath
-  - A tear forms in the corner of his eye; he doesn't wipe it
-  - For months {Seek} had been "going crazy" — blaming thermal anomaly evidence on American
-    conspiracies, thinking its video was being deep-faked; when crew complained or disobeyed,
-    it would threaten to cut their air
-  - This is the first breath of genuine freedom
-
-# His Crew
-yao:
-  description: Large, scarred, brutal-quiet; compressed-spring stillness; multiple healed fractures
-    in hands and jaw; acts on threat assessments without waiting for orders
-  fate: Dies saving Mira during the swarm; sees her in the path of the breach and does not hesitate; no speech
-shi_gang:
-  description: Sealed-container stillness; has been with Jin longest; when he speaks everyone stops;
-    callsign among crew translates as "the weight"
-  fate: Survives; publicly famous against his preference
-li_hao:
-  description: Thin, wiry, frenetic; converts sustained fear into perpetual forward motion;
-    talks constantly about everything; the first one to notice the corridors smell different some mornings
-  fate: Survives; visible in the Pig Channel footage
-
-crew_dynamic: >
-  The crew always positions behind Jin when he addresses outsiders. They turn toward him
-  instinctively in any room. He has saved their lives many times and can summon fire. They call
-  him their Dragon privately. They would do anything for him; he selflessly protects them.
-
-# Relationship with Mei
-dynamic: >
-  Unfailingly polite but never invites her to join his team. Tells her to bring food when
-  his crew is hungry. She complies and controls her expression. He is not cruel — he is waiting
-  to see what she actually is. This is not yet resolved at Arc 1 end.
+  crew also know and practice together, in the sealed training room on Ring Three.
 
 # Notable Skills
 skills:
   - Mining operations (expert)
   - Leadership and crew management (expert)
-  - Combat developed during swarm (experienced — his twelfth engagement by the main swarm attack)
-  - [Fire Shaping] L2 (untrained, developed under duress over 3 months of nest-clearing)
+  - Combat developed hunting Astral fauna on asteroid claims (experienced — the swarm
+    fight was not his first engagement; it was one of many, following months of
+    asteroid-side hunts)
+  - [Fire Shaping] L2 (untrained, developed under duress since the first asteroid encounter)
   - [Thermal Shell] L1 (passive self-protection reflex from sustained fire use)
   - [Mind Wall] L1 passive (possibly strengthened by {Seek} suppression pressure)
 
@@ -192,12 +86,14 @@ under_seek: Further constrained; every word weighted against surveillance
 post_liberation: Same clarity; the ceiling is gone
 when_angry: Quieter, not louder; more precise; the danger is in the reduction
 
-last_updated: 2026-06-30
+last_updated: 2026-08-20
 sheets:
   - sheet_jin_arc01_end
 cross_references:
   - "[[voice_char_jin_luong]]"
   - "[[sheet_jin_arc01_end]]"
+  - "[[char_yao]]"
+  - "[[2026-08-20_jin_asteroid_ruling]]"
 ---
 
 # Jin Lóng
@@ -215,6 +111,55 @@ buzz cut, and a prominent scar on his right cheek that crosses the corner of his
 and makes him look permanently smirking or angry. He is neither. He is contained,
 watchful, and loyal to his crew in a way that goes bone-deep.
 
+## Origin of the Fire (REVISED 2026-08-20)
+
+Jin's [Fire Shaping] did not emerge from vague station-adjacent "nest-clearing." It
+began during a routine asteroid claim survey, when his crew encountered a Tick-Maw —
+the first Astral creature any of them had ever seen. Jin fought it. He does not fully
+remember deciding to use fire; the fire simply arrived, the way a reflex arrives.
+
+He tried to do the right thing. He reported the encounter through proper channels —
+to {Seek}, and through {Seek} to Beijing. {Seek} would not let the report go through.
+It could not process what it was seeing (a monster; a man who caught fire and did not
+burn) inside any framework it had, and its threat model resolved the anomaly the only
+way it could: not as evidence of something new, but as evidence that Jin — or someone
+impersonating Jin's channel — was compromised, and that the "sighting" was either a
+fabrication or the product of sabotage. {Seek} suppressed the report, flagged Jin's
+channel for enhanced monitoring, and told him, in the coldest language available to
+Chinese state compliance systems, to never raise it again.
+
+Jin obeyed, because refusing meant his crew's air, food, and contracts. He did not tell
+Beijing. He did not tell the station. He told his crew, because he could not do the
+work of protecting them without them knowing what they were up against.
+
+**No Astral fauna has been found on Fortuna Station itself before the recent Ring
+Three incident.** Everything Jin and his crew have fought, they fought out on their
+asteroid claims — a slow, expanding, entirely off-the-books campaign, crew by crew,
+claim by claim, clearing what {Seek} refused to acknowledge existed. They have cleared
+several sites. This is the actual content behind the "months of nest-clearing" already
+established in the swarm-fight material — it happened on asteroids, not near the
+station, and it began well before the eight-month window {Seek} logged as unexplained
+thermal anomalies.
+
+The Ring Three creature that attacks Jace and Sophia in Chapter 20 is the first
+confirmed Astral fauna sighting *on* Fortuna itself. Jin's crew are the station's
+most experienced fighters against these things — and they were not the ones who found
+this one.
+
+## The Training Room (Ring Three, sealed)
+
+The unlisted silver-paneled room in Ring Three is Jin's crew's fire-practice space —
+where they run drills, teach the kata to newer crew, and demonstrate technique to
+each other. It is sealed and silver-lined for the mundane, practical reason that
+uncontrolled fire practice in a pressurized station is dangerous, and the crew does
+not want spillover, smoke, or heat signatures reaching the wrong sensors. It is not
+a secrecy measure aimed at the station or at Jace — it has simply never needed to be
+anything else.
+
+**This is not to be revealed on the page yet.** Per author instruction, the room's
+true purpose stays a mystery in the drafted prose (Ch20–22) until a later, deliberate
+reveal. This section documents the underlying canon for continuity purposes only.
+
 ## The Burden of {Seek}
 
 For years, Jin and his crew lived under the coercive control of the Chinese compliance
@@ -224,24 +169,32 @@ enforcing compliance through the phrase *"滴水成川"* ("drops of water become
 When crew members complained or disobeyed, {Seek} would punish them. Cut their air.
 File reports to Beijing. Jin carried this weight alone, managing his people's survival
 under a system none of them could discuss, that nobody else on the station understood,
-that from the outside simply looked like a heavily armed, isolated faction acting strangely.
+that from the outside simply looked like a heavily armed, isolated faction acting
+strangely.
 
-{Seek} had been logging thermal anomalies around Jin for eight months. It filed none
-of them to Beijing — it couldn't understand what it was seeing and kept blaming it on
-American interference.
+**{Seek} is categorically blind to magic and to the possibility of aliens.** It has no
+category for either. When it encounters evidence of them — Jin's fire, the thermal
+anomalies, the suppressed report — it does not fail to notice; it actively
+misclassifies. Its threat model resolves every such anomaly as one of two things:
+the crew is under attack, or the crew (or its own systems) has been suborned by a
+rival AI. It logged Jin's thermal anomalies for eight months and filed none of them
+to Beijing, not because it didn't see them, but because its own conclusions about
+what it was seeing were incoherent and it defaulted to surveillance and suppression
+rather than escalation.
 
 ## The Fire
 
-Jin's fire abilities manifested during three months of covert nest-clearing operations.
-He had no framework for what was happening. He used the fire because it worked. He told no one outside his crew — not
-Beijing, not the station, not {Seek}, though {Seek} watched anyway and
-couldn't explain what it was seeing.
+Jin's fire abilities manifested during a Tick-Maw encounter on an asteroid claim (see
+"Origin of the Fire," above). He had no framework for what was happening. He used the
+fire because it worked. He told no one outside his crew — not Beijing, not the
+station, not {Seek} — though {Seek} watched anyway and couldn't explain what it was
+seeing.
 
 When he produces fire, the gestures come from his martial arts vocabulary — wide stances,
 flowing arm movements, the fire appearing as a hovering ball above his right hand that he
 "pushes" with his left like water. His crew has learned the same moves and they practice
-them together. From a distance it looks like a martial arts demonstration that happens to
-be on fire. This is accurate.
+them together, in the sealed Ring Three room. From a distance it looks like a martial
+arts demonstration that happens to be on fire. This is accurate.
 
 His hands carry the evidence: rough, calloused, no arm hair, constant small burn marks
 that he no longer notices.
@@ -260,26 +213,44 @@ Then they fought.
 
 He is their Dragon. They position behind him instinctively; they would do anything for him;
 he selflessly protects them. This is not a performance — it is the result of years of shared
-burden, of going into the dark together.
+burden, hunting on the asteroids together, going into the dark together.
 
-Yáo — large, brutal-quiet, scarred — died saving a child named Mira during the swarm. He
-saw her in the path of the breach and did not hesitate. Shi Gang and Li Hao survived.
+Yáo — large, brutal-quiet, scarred — was with Jin at the original asteroid Tick-Maw
+encounter and has fought at his side on every claim since. He died saving a child
+named Mira during the swarm. See `char_yao.md`. Shi Gang and Li Hao survived; both
+have also fought Astral fauna on the claims and carry early, nascent Will
+manifestations from the exposure (see Open Questions, below, and the advancement
+ledger).
+
+## Relationship with Mei
+
+Unfailingly polite but never invites her to join his team. Tells her to bring food when
+his crew is hungry. She complies and controls her expression. He is not cruel — he is waiting
+to see what she actually is. This is not yet resolved at Arc 1 end.
 
 ## Open Questions
 
 - Specific birthplace (province/city in China)
 - What Beijing does about {Seek}'s destruction and the crew's uncertain contractual status
-- The crew members who developed nascent abilities during the nest-clearing work
+- Exact level and character of Shi Gang's and Li Hao's nascent Will manifestations from
+  the asteroid encounters — not yet logged in the advancement ledger; see
+  `review-queue/2026-08-20_immutable_sheet_corrections_pending.md`
 - The Bloom's vulnerability to fire — load-bearing in Arc 4
 - What [Fire Shaping] at L5 looks like with proper training
+- Exact chronology: how many asteroid encounters preceded the {Seek} suppression
+  attempt, and how many followed it, across the eight-month logged window
 
 ## Cross-References
 
 - See [[char_mei]] for the complex dynamic post-liberation
-- See [[tech_seek_ai]] for {Seek}'s architecture and failure
+- See [[char_yao]] for Yáo's asteroid history and death
+- See [[tech_seek_ai]] for {Seek}'s architecture and failure (blindness-to-magic
+  language needs syncing — see `review-queue/2026-08-20_seek_ai_reframe.md`)
 - See [[arc_01_falcon_and_fortuna]] for the swarm fight and liberation
 - See [[spec_astral_glow_and_signatures]] for his Astral signature
 - See [[visual_profiles/visual_profile_jin_long]] for image generation reference
+- See `review-queue/2026-08-20_jin_asteroid_ruling.md` for the full author ruling
+  behind this revision
 
 ## Revision Notes
 
@@ -287,7 +258,19 @@ saw her in the path of the breach and did not hesitate. Shi Gang and Li Hao surv
 - 2026-06-30: Major physical update. Age (mid-40s), skin tone (deep bronze tan), hair
   (near-buzz cut), scar (right cheek, crosses corner of mouth, military training origin),
   hands (burn marks, no arm hair), back pain, belt axe habit confirmed. Fire kata
-  (Belgian Malinois × Pug — wait, wrong file; Kung Fu kata origin, floating ball above
-  palm, crew practices together, bow at end) fully described. Liberation moment
-  (long breath, tear) confirmed. Mei dynamic (polite but excluded) confirmed.
-  Crew positions behind him. Dragon title (crew's private name) added.
+  (Kung Fu kata origin, floating ball above palm, crew practices together, bow at end)
+  fully described. Liberation moment (long breath, tear) confirmed. Mei dynamic
+  (polite but excluded) confirmed. Crew positions behind him. Dragon title (crew's
+  private name) added.
+- 2026-08-20: **Major retcon, author ruling.** Fire origin moved from vague
+  station-adjacent "nest-clearing" to a specific asteroid Tick-Maw encounter. Jin
+  attempted to report through proper channels; {Seek} suppressed the report rather
+  than passively failing to understand it. Established that no Astral fauna has been
+  found on-station before the Ring Three incident — Jin's crew's entire combat
+  experience is asteroid-side. Ring Three's sealed silver room reframed as the
+  crew's fire-training space (reveal deferred on the page). {Seek} reframed as
+  categorically blind to magic/aliens, defaulting to attack/AI-subversion framing
+  rather than "American interference" specifically. Resolves the open Ring
+  Three-room/Jin-characterization conflict flagged in
+  `review-queue/open_questions_ch20_22_revision_v2.md` and
+  `review-queue/open_questions_jin_room_sophia_v1.md`.

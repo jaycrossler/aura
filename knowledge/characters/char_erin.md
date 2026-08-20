@@ -11,7 +11,7 @@ cross_references:
   - "[[char_carlos]]"
   - "[[location_fortuna_station]]"
   - "[[arc_01_falcon_and_fortuna]]"
-  - "[[arc_02_addendum_kael_two_weeks]]"
+  - "[[arc_01_thread_K_kael_covert_arrival]]"
 ---
 
 # Erin

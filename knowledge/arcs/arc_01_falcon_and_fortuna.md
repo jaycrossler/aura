@@ -411,14 +411,17 @@ Full contracts live in the linked thread file.
    of Jace, in front of Sophia — first real fracture in the partnership.
 8. **NEW — Kael's presence during the battle, AND the light-speed physics, both need a decision:**
    - *(a)* **RESOLVED (2026-07-19):** Kael is present at the swarm battle under occultation through the whole fight per the current Closing Condition and the drafted S-02b. The contradicting scratch notes in Thread S are removed.
-   - *(b)* Chapter 24 now establishes a preliminary distance-squared model but does
-     not prove that light remains at *c*. Does a later slower-light result replace
-     that working interpretation or compound with it? This
-     changes the dist²/dist³ travel-time math used elsewhere (e.g. Adama distances)
-     if adopted. Recommend treating X-05a as Jace's early, incomplete hypothesis and
-     the rotating-mirror result as Sophia's later correction — but this is a
-     universe-spec-level change and needs explicit sign-off before `X-10` is written
-     as more than a placeholder.
+   - *(b)* **RESOLVED (2026-08-20):** Light speed is NOT constant in the Astral.
+     The later rotating-mirror experiment (X-10) will establish that everything —
+     photons, electrons, matter, people — moves at dist² until it decoheres or
+     resets. This COMPOUNDS with Chapter 24's preliminary square-distance model
+     rather than replacing it: X-05a's finding was correct as far as it went, and
+     the rotating-mirror result deepens the physical explanation rather than
+     correcting an error. The existing dist²/dist³ travel-time math used elsewhere
+     (Adama distances, etc.) is confirmed unchanged — no downstream math needs
+     revision. See `universe-spec/spec_astral_lightspeed_addendum.md` (pending
+     merge into `spec_dimensional_travel_mechanics.md`) for the full physics
+     ruling. `X-10` can now be written as more than a placeholder.
 
 ---
 
