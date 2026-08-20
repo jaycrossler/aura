@@ -233,8 +233,9 @@ American interference.
 ## The Fire
 
 Jin's fire abilities manifested during three months of covert nest-clearing operations.
-He had no framework for what was happening. He used the fire because it worked. He told
-no one. {Seek} watched and couldn't explain what it was seeing.
+He had no framework for what was happening. He used the fire because it worked. He told no one outside his crew — not
+Beijing, not the station, not {Seek}, though {Seek} watched anyway and
+couldn't explain what it was seeing.
 
 When he produces fire, the gestures come from his martial arts vocabulary — wide stances,
 flowing arm movements, the fire appearing as a hovering ball above his right hand that he

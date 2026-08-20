@@ -206,7 +206,7 @@ aware something has changed about Sophia and give her space. They have not deman
 an explanation. This arrangement is approaching its natural limit at arc close.
 
 The ship's interior is lived-in after four years of shared service and Sophia's
-seventeen months of increasingly solitary obsessive work. Notebooks are stacked by date in a sequence only Sophia can navigate.
+five months of increasingly solitary obsessive work. Notebooks are stacked by date in a sequence only Sophia can navigate.
 Equipment labeled in three languages. A coffee machine that still works — Sophia
 started handing Jace a cup when he arrived, without comment, because she noticed
 the Token constraint and the coffee machine was there.
@@ -232,12 +232,33 @@ Sophia's position on disclosure: not yet. Just a few more experiments. The paper
 needs the hydrogen transfer data. Peer review will be brutal and she needs everything
 airtight. This is a real argument. She is right about peer review.
 
-She is also someone who has been carrying this alone for more than a year and has
-built a relationship to secrecy that functions as comfort as much as strategy. The
-notebooks are hers. The moment she discloses, she begins the long process of having
-it taken from her. She knows this. She does not name it as a reason. It is a reason.
+She is also someone who has been carrying this alone for five increasingly
+intense months and has built a relationship to secrecy that functions as
+comfort as much as strategy. The notebooks are hers. The moment she discloses,
+she begins the long process of having it taken from her. She knows this. She
+does not name it as a reason. It is a reason.
 
-Jace sees the second part. He cannot say it to her in a way she can hear.
+There is a sharper, more specific edge to it than simple caution: she knows
+exactly what this discovery is. The first deliberate human crossing into a
+dimensional layer physics didn't know existed, in three thousand years. She
+does the career math anyway, against her own judgment, and hates herself a
+little every time she catches herself doing it — citations, tenure,
+whichever university would offer what, whether a committee in Stockholm has
+ever had reason to consider a physicist working alone out of a converted
+wine cellar on a science vessel. She is not a person who wants to be famous.
+She is a person to whom this happened, who has caught herself wanting to be
+famous anyway, and finds the wanting a little disgusting and can't fully
+put it down.
+
+She has told Brandon and Nikos "soon" more times than she can now comfortably
+count, starting around the second month. She means it every time. A new
+result arrives, and soon becomes later again. This is the specific, repeating
+shape of her guilt — not one big lie, a long accumulation of small true
+promises she keeps not quite keeping.
+
+Jace sees all of this. He cannot say it to her in a way she can hear until
+Chapter 21, after the Ring Three injury forces the question past the point
+where "soon" is still an option.
 
 ### What Sophia Sees (Jace's Decline)
 Sophia has been watching Jace's Template change for weeks by the arc's midpoint.
@@ -260,7 +281,7 @@ not wait. There is no longer anything to wait for — the Pig Channel footage al
 reached Earth; disclosure was involuntary. Her papers are the explanatory framework
 that should have preceded the footage and will now follow it.
 
-She posts them without drama. She has been ready for seventeen months. The act itself
+She posts them without drama. She has been ready for five months. The act itself
 takes less than two minutes.
 
 

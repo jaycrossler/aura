@@ -74,6 +74,10 @@ He looked at it directly, the way he'd look at any instrument reading, and the w
 
 Silver.
 
+Something else nagged at him even through the pain. The gap. He'd clocked it without registering it during the fight: the unlisted room didn't share a wall with anything pressurized. It sat inside its own short stretch of vacuum, reachable only by the tether line Sparky had watched someone cross earlier. No shared air with the rest of Ring Three. No shared air with anything.
+
+That wasn't paranoia. That was a fire code decision. Whatever burned in there, whoever was breathing in there, somebody had gone to real trouble to make sure it couldn't spread if it went wrong. He filed it next to the silver. Both felt like the same kind of carefulness, applied by someone who understood exactly what they were protecting the rest of the station from.
+
 By the second flight his legs weren't reliable anymore. Sophia got a shoulder under his good arm and half carried him the rest of the way, saying nothing, breathing hard, not letting go. Carrying him and Sparky. Thank god they hadn't brought Cerberus.
 
 She got them back into the *Victoria* together, badly. It felt like déjà vu.
@@ -161,6 +165,8 @@ A second voice, further from the mic, added something about manifest priorities.
 "I don't care if the Chinese office is paying triple for silver assay this quarter, somebody still has to file a flight plan."
 
 A week. Jace set the pad down.
+
+He kept coming back to Jin's crew and hated that he did. Yáo. The tether line. The silver going into a room with its own private vacuum gap and, apparently, its own careful atmosphere. None of it was proof. All of it pointed the same direction, and Jin himself hadn't denied anything, not really, just told him to go home and put ice on it. That wasn't a denial. Jace noticed that it wasn't a denial.
 
 There would be no talking to Jin, no talking to anyone on that crew, about the unlisted room, about what they might or might not have to do with the thing that had cut him open. Not for a week. Possibly longer. And now there was this: silver again, showing up in a traffic complaint the way it had shown up on a stair rail an hour earlier, like the same word said twice by two people who didn't know they were talking to each other.
 
@@ -272,7 +278,7 @@ She looked at the stitches, the wrap, the general wreckage of him, and didn't co
 
 "I know. I was there."
 
-"I mean I was wrong about what it means. I kept thinking surveillance, something built and operated. It's not that. But I don't think they're clean either. That unlisted room. The panels going in last night, the ones that didn't glow right. The activity right before it came through the wall. Jin's whole crew launching on an unscheduled survey run the same night, nobody told, nobody home for a week, and Kim says somebody in their office is paying triple for silver assay." He shook his head. "I don't know what they are to this. But I don't believe they're not involved."
+"I mean I was wrong about what it means. I kept thinking surveillance, something built and operated. It's not that. But I don't think they're clean either." He told her about the tether line, the commute that wasn't a delivery, the room's own private vacuum gap. "I don't know what they are to this. But I don't believe they're not involved."
 
 Sophia didn't answer right away. She sat on the edge of his bunk, which she had never done before.
 
@@ -284,23 +290,37 @@ Sophia didn't answer right away. She sat on the edge of his bunk, which she had 
 
 "Oh. How about all three?"
 
-She was quiet.
+She didn't answer that right away either. She picked at a loose thread on the blanket, which was unlike her; Sophia's hands were usually doing something purposeful.
 
-"I have kept this to two people because two people is what I could control," she said. "I do not know that I can control three more."
+"Do you know what this is?" she said. "What I have. Forty crossings. Notes no one else has. I keep telling myself, one more month, one more result, and then I publish, and then I tell Brandon and Nikos everything, and it will be fine, they will forgive the five months of secrets because the discovery is worth it." A short, humorless laugh. "I have been telling myself soon since the second month. I have told Brandon soon. I have told Nikos soon. I say it and I mean it every time and then a new result comes in and soon becomes later again."
 
-"You don't have to control them. Nick's already agreed to help; he just doesn't know what he's helping with yet."
+"That's not a character flaw, Sophia. That's just being scared."
 
-"That is exactly the problem. Brandon and Nikos are family."
+"It is also," she said, quieter, "wanting it to still be mine when I say it out loud. Do you understand how that sounds? The biggest discovery in three thousand years and some small, ugly part of me is doing the math on citations. On which university offers what. On whether there is a committee in Stockholm that has ever considered a physicist working alone out of a converted wine cellar." She shook her head sharply, as if she could throw the thought off by force. "I disgust myself a little, telling you that."
+
+"You don't disgust me. You sound like someone who's been carrying this completely alone for five months and is exhausted."
+
+"Five months," she repeated, like the number itself hurt somewhere. "It feels like longer. It feels like it has always been like this."
+
+"They'd forgive the five months. You know that. You just told me they've been giving you room on purpose because they love you and they're worried."
+
+"I know that. Knowing it does not make the door easier to open." She looked up at him. "You could have died last night. I have decided that is a worse thing than losing the paper to a committee of strangers."
+
+"Nick," Jace said again. "And Brandon and Nikos. All three."
+
+"That is exactly the problem. Brandon and Nikos are family. If this goes wrong for them, it goes wrong for people I love, not people I am managing."
+
+"It's also the only way through it. We tell them what they need to know when they need to know it. Same as we did with each other."
 
 Sophia looked at her hands for a while.
 
-"If he tells one person," she said, "one person, Origin, Kim, anyone, this ends. I need to hear you say you understand what that costs if it goes wrong."
+"If Nick tells one person," she said, "one person, Origin, Kim, anyone, this ends. I need to hear you say you understand what that costs if it goes wrong."
 
 "I understand."
 
-"Then OK. I'll talk to them. You talk to Nick. Then we all meet up."
+"Then okay. I will talk to Brandon and Nikos today. Not soon. Today. You talk to Nick. Then we all meet."
 
-It wasn't relief, exactly, that Jace felt. It was closer to the specific weight of a decision finally being made instead of avoided. They both were smiling.
+It wasn't relief, exactly, that Jace felt. It was closer to the specific weight of a decision finally being made instead of avoided. They were both smiling, a little helplessly, the way people smile after admitting something they'd been carrying too long.
 
 "Thanks. I missed this."
 

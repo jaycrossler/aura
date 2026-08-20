@@ -1,11 +1,12 @@
 ---
+
 description: "Timeline detailing events during the Falcon transit, covering plot crises and character arcs."
 id: timeline_book01_incursions
 name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helena)
 type: timeline
 status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md
 canonical: working
-last_updated: 2026-07-15
+last_updated: 2026-08-19
 note: >
   Focused event placements for the four plot threads added 2026-06-17. Kept as a
   separate sub-timeline so it can be reviewed before being merged into the master
@@ -19,6 +20,21 @@ All anchored to the ~4-month Mars→Fortuna *Falcon* transit. Exact chapter numb
 ## Pre-transit (Mars departure)
 
 - **The Chinese settler contract collapses.** A dozen Chinese settlers booked aboard the *Falcon* cancel at the last minute. Maureen loses ~$1M and a dozen working hands for the voyage. Fortuna leadership is rattled — last-minute cancellations threaten the settler-and-investor wave the station is staking its future on. (Plot 3)
+
+  ⚠️ **Session note (2026-08-19), not yet surfaced to readers:** this
+  cancellation lands in the same rough window as `outbreak_timeline.md`
+  Phase 0's first anomalies at Adama Station (~5-6 months before Jace's
+  arrival) — and, per this session, roughly the same window Sophia's first
+  accidental crossing occurs. The intended read, eventually: the Chinese
+  settlers' cancellation wasn't really about Odysseus withdrawal logistics
+  alone. Something registered as a threat signal around this time, belt-wide,
+  that nobody involved fully understood, and multiple stations independently
+  pulled back in response. Fortuna reads it as ordinary corporate skittishness.
+  It is not, yet, meant to be presented to the reader as anything more than
+  that — this is dramatic irony for a later payoff, not a reveal to make now.
+  Do not have any character voice this connection in Ch20-22 or nearby
+  chapters. Flagging here so the synchronized timing is deliberate and
+  traceable rather than an accident three writers rediscover independently.
 - Consequence: **Mei is now the only Chinese national aboard.** Her plan to blend into the settler cohort is gone; she boards conspicuously alone, posing as a free Chinese citizen migrating to the belt — a cover that gets stranger by the day. She did **not** know of the withdrawal in advance. (Plot 3 / Mei arc)
 
 ## Mid-transit — The Plumbing Crisis (Ch. 2)

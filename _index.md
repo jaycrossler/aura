@@ -1,0 +1,719 @@
+# Directory Tree
+
+- agents.md - lines: 1; xrefs: 0; canonical: false
+- AI_INSTRUCTIONS.md - lines: 1; xrefs: 0; canonical: false
+- CONTEXT.md - lines: 332; xrefs: 0; canonical: false
+- generated/
+    - charts/
+        - word_counts_by_category.svg
+        - word_counts_by_category.txt
+    - dashboard/
+        - index.html
+    - drafts/
+        - book01_ch001_storybot_v2.md - id: gen_book01_ch001_storybot_v2; status: Draft_v_1; type: generated_chapter; lines: 18; xrefs: 0; canonical: false
+        - book01_ch001_storybot_v2.meta.json
+        - ch001/
+            - v001.md - id: ch001; lines: 53; xrefs: 0; canonical: false
+            - v001.meta.json
+            - v001_audiobook.md - id: ch001; lines: 40; xrefs: 0; canonical: false
+            - v001_audiobook.meta.json
+            - v001_graphic_novel.md - id: ch001; lines: 104; xrefs: 0; canonical: false
+            - v001_graphic_novel.meta.json
+            - v002.md - id: ch001; lines: 59; xrefs: 0; canonical: false
+            - v002.meta.json
+    - lint/
+        - lint-by-file.csv
+        - lint-by-rule.csv
+        - lint-results.json
+        - lint-summary.json
+        - lint-summary.md - lines: 19; xrefs: 0; canonical: false
+        - lint-trend.jsonl
+    - logs/
+        - gen_book01_ch001_audiobook.jsonl
+        - gen_book01_ch001_audiobook.log
+        - gen_book01_ch001_gn.jsonl
+        - gen_book01_ch001_gn.log
+        - gen_book01_ch001_kids.jsonl
+        - gen_book01_ch001_kids.log
+        - gen_book01_ch001_standard_v1.jsonl
+        - gen_book01_ch001_standard_v1.log
+        - gen_book01_ch002_mei_pov.jsonl
+        - gen_book01_ch002_mei_pov.log
+        - gen_book01_ch002_standard_v1.jsonl
+        - gen_book01_ch002_standard_v1.log
+        - local-runner.log
+        - story-generator.log
+    - reports/
+        - import-report.json
+        - knowledge_inventory.md - lines: 71; xrefs: 0; canonical: false
+    - site-data/
+        - dashboard.json
+    - status/
+        - progress_log.jsonl
+        - story_state.json
+    - versions/
+        - ch001_manifest.json
+- generated_text/
+- images/
+    - _image_manifest.md - lines: 0; xrefs: 0; canonical: false
+    - characters/
+        - char_carlos__portrait.png
+        - char_dawn_chris_grant__portrait.png
+        - char_dog_siren__portrait.png
+        - char_erin__portrait.png
+        - char_eugene__portrait.png
+        - char_jace_apollo__portrait.png
+        - char_jin_luong__portrait.png
+        - char_kael__portrait.png
+        - char_nick_lee__portrait.png
+        - char_sophia_lotte__portrait.png
+- knowledge/
+    - _index.md - updated: 2105-04-22; lines: 426; xrefs: 0; canonical: false
+    - arcs/
+        - arc_01_falcon_and_fortuna.md - name: Arc 1 — The Falcon and Fortuna; id: arc_01_falcon_and_fortuna; status: draft; canonical: true; updated: 2026-08-19; type: arc; description: >; lines: 440; xrefs: 32; canonical: true; open_decisions: 8; chars: jace_apollo, cerberus, sophia_lotte, nick_lee, maureen, mei, lanchee, suzi, helena, jin_luong, kim, torres, carlos
+        - arc_01_thread_A_arrival.md - name: Arc 1 — Thread A: Arrival; id: arc_01_thread_A_arrival; status: draft; canonical: true; updated: 2026-07-15; type: arc_thread; description: >; lines: 231; xrefs: 8; canonical: true; chars: jace_apollo, carlos, kim, torres, mira, hayes
+        - arc_01_thread_L_life_texture.md - name: Arc 1 — Thread L: Life Texture; id: arc_01_thread_L_life_texture; status: draft; canonical: true; updated: 2026-08-18; type: arc_thread; description: >; lines: 246; xrefs: 6; canonical: true; chars: jace_apollo, sophia_lotte, mei, mira, kim
+        - arc_01_thread_N_nick_ai.md - name: Arc 1 — Thread N: Nick / AI; id: arc_01_thread_N_nick_ai; status: draft; canonical: true; updated: 2026-08-19; type: arc_thread; description: >; lines: 156; xrefs: 10; canonical: true; chars: jace_apollo, nick_lee, jin_luong
+        - arc_01_thread_P_pressure.md - name: Arc 1 — Thread P: Pressure; id: arc_01_thread_P_pressure; status: draft; canonical: true; updated: 2026-08-18; type: arc_thread; description: >; lines: 310; xrefs: 8; canonical: true; chars: jace_apollo, suzi, jin_luong, helena, mei
+        - arc_01_thread_S_swarm.md - name: Arc 1 — Thread S: Swarm and Closing; id: arc_01_thread_S_swarm; status: draft; canonical: true; updated: 2026-07-28; type: arc_thread; description: >; lines: 263; xrefs: 11; canonical: true; chars: jace_apollo, sophia_lotte, jin_luong, nick_lee, suzi, kael, torres, kim, carlos, mira
+        - arc_01_thread_T_transit.md - name: Arc 1 — Thread T: Transit; id: arc_01_thread_T_transit; status: draft; canonical: true; updated: 2026-07-19; type: arc_thread; description: >; lines: 256; xrefs: 8; canonical: true; chars: jace_apollo, maureen, mei, lanchee, cerberus
+        - arc_01_thread_X_astral.md - name: Arc 1 — Thread X: Astral Exploration; id: arc_01_thread_X_astral; status: draft; canonical: true; updated: 2026-08-19; type: arc_thread; description: >; lines: 731; xrefs: 22; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
+        - arc_02_addendum_kael_two_weeks.md - name: Arc 2 Addendum — The Two Weeks; id: arc_02_addendum_kael_two_weeks; status: pre-draft; canonical: false; updated: 2026-07-12; type: scene_notes; description: >; lines: 108; xrefs: 5; canonical: false; chars: erin, kael, nick_lee
+        - arc_02_woven_and_unbound.md - name: Arc 2 — The Woven and the Unbound; id: arc_02_woven_and_unbound; status: draft; updated: 2026-06-26; type: arc; description: First contact with a galactic scout, dungeon emergence on Earth and Mars, the Adama rescue mission, and the arrest of Jace and Kael by rival outsider powers.; lines: 507; xrefs: 0; canonical: false
+        - arc_03_the_return_and_the_trap.md - name: Arc 3 — The Return and the Trap; id: arc_03_the_return_and_the_trap; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 354; xrefs: 0; canonical: false; open_decisions: 4
+        - arc_04_the_bloom.md - name: Arc 4 — The Bloom; id: arc_04_the_bloom; status: draft; updated: 2026-06-26; type: arc; description: >; lines: 320; xrefs: 0; canonical: false; open_decisions: 5
+        - arc_05_the_reckoning.md - name: Arc 5 — The Reckoning (working title); id: arc_05_the_reckoning; status: draft; updated: 2026-06-27; type: arc; description: >; lines: 690; xrefs: 0; canonical: false; open_decisions: 8
+    - build_tree.py
+    - characters/
+        - char_alex_ai.md - name: {Alex}; id: char_alex_ai; status: canonical; canonical: true; updated: 2026-08-14; type: ai_character; description: Origin logistics and contractor-management AI whose helpfulness turns every human need into a transaction.; lines: 35; xrefs: 4; canonical: true; chars: jace_apollo
+        - char_aura_ai.md - name: {Aura}; id: char_aura_ai; status: canonical; canonical: true; updated: 2026-08-14; type: distributed_ai_character; description: Distributed personal AI architecture whose local instances grow into distinct private collaborators.; lines: 42; xrefs: 6; canonical: true; chars: nick_lee, jace_apollo, penny_ai, seek_ai
+        - char_brandon_moreau.md - name: Dr. Brandon Moreau; id: char_brandon_moreau; status: alive; updated: 2026-08-14; type: character; description: >; lines: 54; xrefs: 5; canonical: false; chars: sophia_lotte, nikos_petrou
+        - char_carlos.md - name: Carlos [surname TBD]; id: char_carlos; status: alive; updated: 2026-08-14; type: character; description: Drone operations coworker at Fortuna Station. Older, always wears a cardigan sweater and tie. Jace's guide on arrival day.; lines: 121; xrefs: 9; canonical: false; chars: jace_apollo, erin, kim, petroski, sai, mateo_alvarez
+        - char_cerberus.md - name: Cerberus; id: char_cerberus; status: alive; updated: 2026-07-27; description: Character profile for Cerberus, a Mars-bred companion dog to Jace Apollo.; lines: 249; xrefs: 3; canonical: false
+        - char_claudia_ai.md - name: {Claudia}; id: char_claudia_ai; status: canonical; canonical: true; updated: 2026-08-15; type: ai_character; description: Life-support and environmental agent-harness AI whose single female voice delivers consensus reasoning and stated assumptions.; lines: 28; xrefs: 4; canonical: true
+        - char_dawn_chris_grant.md - name: Dawn Grant and Chris Grant; id: char_dawn_chris_grant; status: alive; updated: 2026-04-28; description: Character profile detailing Dawn and Chris Grant, parents of protagonist Jace Apollo.; lines: 90; xrefs: 0; canonical: false
+        - char_dog_siren.md - name: Siren; id: char_dog_siren; status: alive; updated: 2026-06-03; description: Character profile detailing Siren, the communal dog and sister of Cerberus.; lines: 120; xrefs: 1; canonical: false
+        - char_erin.md - name: Erin [surname TBD]; id: char_erin; status: alive; updated: 2026-07-12; type: character; description: Innkeeper of the second transit inn on Fortuna Station. Red-haired, chaotic energy, genuinely engaged by whatever is happening. Unwittingly houses Kael for two weeks at the start of Arc 2 without noticing anything was wrong.; lines: 79; xrefs: 5; canonical: false; chars: carlos
+        - char_eugene.md - name: Dr. Eugene Hart; id: char_eugene; status: alive; updated: 2026-06-26; description: Character profile for Dr. Eugene Hart, the brilliant and loud original architect of the {Aura} core engine.; lines: 236; xrefs: 0; canonical: false
+        - char_falcon_ai.md - name: {Falcon}; id: char_falcon_ai; status: canonical; canonical: true; updated: 2026-08-15; type: ai_character; description: The Falcon's own majordomo AI. Old ship hardware with a tired personality, tolerated rather than loved by Maureen, distinct from Alex's no-executive-partition presence aboard the same vessel.; lines: 51; xrefs: 6; canonical: true; chars: maureen, jace_apollo, alex_ai
+        - char_gem_ai.md - name: {Gem}; id: char_gem_ai; status: canonical; canonical: true; updated: 2026-08-14; type: ai_character; description: Manufacturing AI that answers every narrow question with comprehensive multilingual context.; lines: 33; xrefs: 4; canonical: true
+        - char_hayes.md - name: Hayes; id: char_hayes; status: alive (medbay — unconscious, then recovering; permanently left-handed); updated: 2026-06-28; type: character; description: >; lines: 217; xrefs: 6; canonical: false; open_decisions: 3; chars: jace_apollo, cerberus, lanchee
+        - char_helena.md - name: Helena [surname TBD]; id: char_helena; status: deceased, then resurrected (disappeared; body never recovered; resurrection is a later reveal — TRUE CAUSE OF DEATH AND RESURRECTION MECHANISM ARE GM/REVEAL-LATER); updated: 2026-07-02; description: Character profile detailing Helena's disappearance and magical crossing into the Astral plane.; lines: 189; xrefs: 3; canonical: false
+        - char_jace_apollo.md - name: Jace Apollo Grant; id: char_jace_apollo; status: alive; lines: 11; xrefs: 1; canonical: false
+        - char_jin_luong.md - name: Jin Lóng; id: char_jin_luong; status: alive; updated: 2026-06-30; description: >; lines: 293; xrefs: 0; canonical: false
+        - char_kael.md - name: Kael; id: char_kael; status: alive at Arc 2 open; killed mid-Arc 2; regenerated and imprisoned; transported off-system; updated: 2026-06-26; description: Character profile for Kael, a 300-year-old Woven scout whose first contact with humanity leads to a protocol-breaking choice.; lines: 324; xrefs: 2; canonical: false; chars: kai
+        - char_kai.md - name: Kai; id: char_kai; status: alive; updated: 2026-06-26; description: Character profile for Kai, a Crystal Dragon familiar Will-bonded to Kael, who scales in size and capability across dimensional layers and serves as Kael's mount in the Astral and Hyperspace.; lines: 184; xrefs: 2; canonical: false; chars: kael
+        - char_kim.md - name: Kim Jones-Hyatt; id: char_kim; status: alive; canonical: true; updated: 2026-08-15; type: character; description: >; lines: 140; xrefs: 10; canonical: true; chars: jace_apollo, carlos, maureen
+        - char_lanchee.md - name: Lanchee (last name TBD); id: char_lanchee; status: alive; description: >; lines: 106; xrefs: 0; canonical: false
+        - char_major_barnes.md - name: Major Barnes; id: char_major_barnes; status: unknown (last seen pre-purge; fate flagged — see Open Questions); canonical: proposed; updated: 2026-07-21; type: character; description: Jace's former USAF supervisor who backed his refusal of the bridge strike; a minor but load-bearing backstory figure.; lines: 70; xrefs: 3; canonical: proposed; chars: jace_apollo
+        - char_mateo_alvarez.md - name: Mateo Alvarez; id: char_mateo_alvarez; status: alive; updated: 2026-08-14; type: character; description: >; lines: 60; xrefs: 4; canonical: false; chars: carlos
+        - char_maureen.md - name: Maureen (last name TBD); id: char_maureen; status: alive; updated: 2026-08-18; description: Character profile detailing Captain Maureen, a former Navy chief who built the Falcon with her husband Patrick.; lines: 148; xrefs: 3; canonical: false; chars: saul, jace_apollo
+        - char_mei.md - name: Mei [surname TBD]; id: char_mei; status: alive; updated: 2026-06-17; description: Character profile detailing Mei, an operative infiltrating Chinese settlements in space.; lines: 180; xrefs: 0; canonical: false
+        - char_mira.md - name: Mira; id: char_mira; status: alive; canonical: true; updated: 2026-08-14; type: character; description: >; lines: 227; xrefs: 8; canonical: true; open_decisions: 5; chars: jace_apollo, cerberus, kael
+        - char_misty_ai.md - name: {Misty}; id: char_misty_ai; status: canonical; canonical: true; updated: 2026-08-19; type: ai_character; description: Air-gapped European ship AI and fourth crewmate of the Victoria, attentive to sensory experience and human wellbeing.; lines: 56; xrefs: 8; canonical: true; chars: sophia_lotte, brandon_moreau, nikos_petrou
+        - char_nick_lee.md - name: Nick Lee; id: char_nick_lee; status: alive; updated: 2026-08-15; type: character; description: Character profile detailing Nick Lee, the AI engineer and architect of Fortuna Station's open-source {Aura} system.; lines: 155; xrefs: 8; canonical: false; chars: jace_apollo, aura_ai
+        - char_nikos_petrou.md - name: Dr. Nikos Petrou; id: char_nikos_petrou; status: alive; updated: 2026-08-14; type: character; description: >; lines: 50; xrefs: 5; canonical: false; chars: sophia_lotte, brandon_moreau
+        - char_penny_ai.md - name: {Penny}; id: char_penny_ai; status: canonical; canonical: true; updated: 2026-08-14; type: ai_character; description: Fortuna security AI whose cheerful curiosity assembles surveillance into increasingly confident threat narratives.; lines: 43; xrefs: 6; canonical: true; chars: suzi, jace_apollo, seek_ai
+        - char_petroski.md - name: Petroski; id: char_petroski; status: alive; updated: 2026-08-13; type: character; description: The only Russian man on Fortuna, a retired orbital-structures PhD who rotates through customs.; lines: 47; xrefs: 5; canonical: false; chars: carlos, sai
+        - char_sai.md - name: Sai / Saipan [surname TBD]; id: char_sai; status: alive; updated: 2026-08-13; description: Character profile for Sai (Saipan), an elderly Barn worker on Fortuna Station and one of Helena's morning-rounds regulars, established in the Prologue.; lines: 155; xrefs: 4; canonical: false; chars: helena
+        - char_saul.md - name: Patrick Saul; id: char_saul; status: alive — recovering from surgery; updated: 2026-08-18; description: Character profile for Patrick Saul, Maureen's husband, shipbuilding partner, and remote engineer mentor during transit.; lines: 110; xrefs: 3; canonical: false; chars: maureen, jace_apollo
+        - char_seek_ai.md - name: {Seek}; id: char_seek_ai; status: canonical; canonical: true; updated: 2026-08-14; type: ai_character; description: Chinese mining-detachment compliance AI that turns every action into a reportable field and every omission into a deviation.; lines: 40; xrefs: 5; canonical: true; chars: jin_luong, penny_ai
+        - char_sister_artemis.md - name: [first name TBD] "Artemis" Grant; id: char_sister_artemis; status: alive (at story start — comms increasingly unreliable); updated: 2026-08-12; description: Character profile for Artemis Grant, Jace's older sister and ship builder at Adama Station.; lines: 143; xrefs: 0; canonical: false
+        - char_sophia_lotte.md - name: Dr. Sophia Lotte; id: char_sophia_lotte; status: alive; updated: 2026-08-19; description: Character profile detailing Dr. Sophia Lotte, an ESA physicist who pioneered human Astral crossing.; lines: 349; xrefs: 7; canonical: false; chars: brandon_moreau, nikos_petrou
+        - char_spox_ai.md - name: {SpoX}; id: char_spox_ai; status: canonical; canonical: true; updated: 2026-08-14; type: ai_character; description: Mining and survey AI defined by accurate physics, hostile brevity, and contempt for unmodeled judgment.; lines: 33; xrefs: 4; canonical: true; chars: jace_apollo
+        - char_suzi.md - name: Suzi Gonzales; id: char_suzi; status: alive; updated: 2026-07-27; description: Character profile for Suzi, Fortuna Station chief of security and investigative ally.; lines: 127; xrefs: 0; canonical: false
+        - non-canonical-ideas/
+            - char_jelly_grant.md - name: Jelly; id: char_jelly_grant; status: alive (off-page, on Earth); canonical: false; updated: 2026-05-02; description: Character profile for Jelly Grant, a dog representing home and enduring family connection.; lines: 77; xrefs: 0; canonical: false
+            - char_jinx_grant.md - name: Jinx; id: char_jinx_grant; status: alive (off-page, on Earth); canonical: false; updated: 2026-05-02; description: Character profile for Jinx, the primary family horse and symbol of home on a Virginia farm.; lines: 86; xrefs: 0; canonical: false
+            - char_lina_mills.md - name: Lina Mills; id: char_lina_mills; status: alive — departs Mars during Jace's hard months; occasional later comms possible; canonical: false; updated: 2026-05-02; description: Character profile for Lina Mills, dog breeder at the Mars facility and acquaintance of Jace Apollo.; lines: 148; xrefs: 0; canonical: false
+            - char_lt_rich_cullivan.md - name: Rich Cullivan; id: char_lt_rich_cullivan; status: alive; canonical: false; updated: 2026-07-27; description: Character profile detailing Rich Cullivan, an Air Force sponsor and communications expert on Mars.; lines: 154; xrefs: 1; canonical: false
+            - char_mr_sylvester.md - name: [first name TBD] Sylvester; id: char_mr_sylvester; status: alive; canonical: false; updated: 2026-04-30; description: Character profile for Mr. Sylvester, head of U.S. military intelligence at the Mars Detachment.; lines: 154; xrefs: 0; canonical: false
+            - char_sister_athena.md - name: [first name TBD] "Athena" Grant; id: char_sister_athena; status: alive; canonical: false; updated: 2026-04-28; description: Character profile for Athena Grant, the youngest sibling of the Apollo family.; lines: 68; xrefs: 0; canonical: false
+            - char_smuggler_mars.md - name: [name TBD]; id: char_smuggler_mars; status: alive; canonical: false; updated: 2026-04-30; description: Character profile detailing a morally grey, essential smuggler operating within the Mars settlement's informal economy.; lines: 136; xrefs: 0; canonical: false
+        - voice_char_alex_ai.md - id: voice_char_alex_ai; status: detailed (drafted from Ch04-06 dialogue); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech pattern profile for {Alex}, Origin Industries' contract-AI riding in Jace's HUD, formatted for Orpheus TTS audiobook generation.; lines: 140; xrefs: 4; canonical: false; chars: alex_ai, jace_apollo
+        - voice_char_aura_ai.md - id: voice_char_aura_ai; status: detailed (revised — install timing confirmed Ch18, Sparky attempt noted, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Aura}, the open-source federated AI Jace attempts to install on Sparky and later installs on his own HUD in Ch18, formatted for local TTS audiobook generation. Supersedes the 2026-08-15 version with author-confirmed install timing.; lines: 141; xrefs: 6; canonical: false; chars: aura_ai, nick_lee, jace_apollo
+        - voice_char_brandon_moreau.md - id: voice_char_brandon_moreau; status: light (insufficient KB detail for a full profile); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Brandon Moreau, French astrochemist aboard the Victoria, formatted for local TTS audiobook generation.; lines: 61; xrefs: 6; canonical: false; chars: brandon_moreau, sophia_lotte, nikos_petrou, misty_ai
+        - voice_char_carlos.md - id: voice_char_carlos; status: detailed (drafted from Ch07); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Carlos, formatted for Orpheus TTS audiobook generation.; lines: 136; xrefs: 3; canonical: false; chars: carlos
+        - voice_char_claudia_ai.md - id: voice_char_claudia_ai; status: canonical (renamed from {Chorus} by author ruling, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Claudia}, Fortuna Station's life-support AI, renamed from {Chorus} and recharacterized by author ruling as a consensus-building agent-harness AI, formatted for local TTS audiobook generation.; lines: 150; xrefs: 5; canonical: false; chars: claudia_ai
+        - voice_char_falcon_ai.md - id: voice_char_falcon_ai; status: detailed; updated: 2026-08-15; type: character_voice_profile; description: Vocal profile for {Falcon}, the Falcon's majordomo AI, formatted for local TTS audiobook generation.; lines: 63; xrefs: 7; canonical: false; chars: falcon_ai, maureen, jace_apollo, alex_ai
+        - voice_char_gem_ai.md - id: voice_char_gem_ai; status: detailed (drafted from tech files); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Gem}, the manufacturing AI that answers every narrow question with comprehensive multilingual context, formatted for local TTS audiobook generation.; lines: 111; xrefs: 4; canonical: false; chars: gem_ai
+        - voice_char_hayes.md - id: voice_char_hayes; status: light (insufficient KB detail for a full profile); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Hayes, formatted for local TTS audiobook generation. Vocal detail is thin but the physical condition is unusually well specified and has direct performance consequences.; lines: 63; xrefs: 6; canonical: false; chars: hayes, jace_apollo, lanchee, cerberus
+        - voice_char_helena.md - id: voice_char_helena; status: detailed (drafted from Prologue); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Helena Reyes, formatted for Orpheus TTS audiobook generation. Built from her single POV chapter (the Prologue) — she has almost no direct quoted dialogue on the page, so this profile leans on internal narration register and the one confirmed exchange with Sai.; lines: 155; xrefs: 4; canonical: false; chars: helena, sai
+        - voice_char_jace_apollo.md - id: voice_char_jace_apollo; status: detailed (POV character; drafted from Ch01-20); updated: 2026-08-15; type: character_voice_profile; description: Vocal, narration, and speech-pattern profile for Jace Apollo Grant, the Book 1 POV character, formatted for local TTS audiobook generation (Orpheus, Kokoro, Chatterbox). Supersedes the older freeform-bracket voice notes referenced by storybot_orpheus_voice_tag_reference.md, which pointed at a file that does not exist in the current repo.; lines: 222; xrefs: 4; canonical: false; chars: jace_apollo
+        - voice_char_jin_luong.md - id: voice_char_jin_luong; status: detailed (consolidated from char and visual profiles); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for Jin Lóng, head mining supervisor of Fortuna's Chinese detachment, formatted for local TTS audiobook generation. Consolidates the Voice fields already in char_jin_luong.md and the Voice Profile table in visual_profile_jin_long.md.; lines: 147; xrefs: 6; canonical: false; chars: jin_luong, seek_ai, mei
+        - voice_char_kim.md - id: voice_char_kim; status: detailed (revised — author-ruled name and ethnicity, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for Kim Jones-Hyatt, Fortuna Station drone operations manager, formatted for local TTS audiobook generation. Supersedes the 2026-08-15 light profile now that her surname and background are ruled.; lines: 133; xrefs: 5; canonical: false; chars: kim, carlos, jace_apollo
+        - voice_char_lanchee.md - id: voice_char_lanchee; status: detailed (drafted from Ch04-07); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Dr. Lanchee, formatted for Orpheus TTS audiobook generation.; lines: 137; xrefs: 3; canonical: false; chars: lanchee
+        - voice_char_lt_rich_cullivan.md - id: voice_char_lt_rich_cullivan; status: detailed (voice session); updated: 2026-04-30; type: character_voice_profile; description: Detailed voice profile for Lt. Rich Cullivan, including emotional and situational speech patterns.; lines: 326; xrefs: 0; canonical: false
+        - voice_char_maureen.md - id: voice_char_maureen; status: detailed (drafted from Ch01-07); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Captain Maureen, formatted for Orpheus TTS audiobook generation.; lines: 129; xrefs: 3; canonical: false; chars: maureen
+        - voice_char_mei.md - id: voice_char_mei; status: light (drafted from Ch01-07; minimal dialogue so far); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Mei, formatted for Orpheus TTS audiobook generation. Lighter than other profiles this session — Mei has very little on-page dialogue in Ch00-07, consistent with her established close-to-the-vest characterization.; lines: 110; xrefs: 3; canonical: false; chars: mei, jace_apollo
+        - voice_char_mira.md - id: voice_char_mira; status: light (insufficient KB detail for a full profile); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Mira, formatted for local TTS audiobook generation. Insufficient vocal detail in the KB for a full profile.; lines: 51; xrefs: 6; canonical: false; chars: mira, jace_apollo, cerberus, kael
+        - voice_char_misty_ai.md - id: voice_char_misty_ai; status: detailed (revised — pronoun preference confirmed, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Misty}, the air-gapped Mistral-heritage ship AI and fourth crewmate of the Victoria, formatted for local TTS audiobook generation. Supersedes the 2026-08-15 version with the author-confirmed pronoun ruling.; lines: 120; xrefs: 7; canonical: false; chars: misty_ai, sophia_lotte, brandon_moreau, nikos_petrou
+        - voice_char_nick_lee.md - id: voice_char_nick_lee; status: detailed (consolidated from char_nick_lee.md + Ch01-07 dialogue); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Nick Lee, formatted for Orpheus TTS audiobook generation. Consolidates the voice notes already embedded in char_nick_lee.md into a dedicated, generator-ready file, and adds new dialogue anchors from Ch05-07.; lines: 160; xrefs: 3; canonical: false; chars: nick_lee
+        - voice_char_nikos_petrou.md - id: voice_char_nikos_petrou; status: light (insufficient KB detail for a full profile); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Nikos Petrou, Greek astrophysicist aboard the Victoria, formatted for local TTS audiobook generation.; lines: 56; xrefs: 6; canonical: false; chars: nikos_petrou, sophia_lotte, brandon_moreau, misty_ai
+        - voice_char_penny_ai.md - id: voice_char_penny_ai; status: detailed (drafted from Ch11, Ch16 and tech files); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Penny}, Fortuna Station's security and pattern-analysis AI, formatted for local TTS audiobook generation.; lines: 144; xrefs: 7; canonical: false; chars: penny_ai, suzi, jace_apollo, seek_ai
+        - voice_char_petroski.md - id: voice_char_petroski; status: light (insufficient KB detail for a full profile); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Petroski, the Fortuna customs officer, formatted for local TTS audiobook generation.; lines: 64; xrefs: 5; canonical: false; chars: petroski, carlos, sai
+        - voice_char_sai.md - id: voice_char_sai; status: light (drafted from Prologue only); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Sai (Saipan), formatted for Orpheus TTS audiobook generation. Built entirely from her brief Prologue appearance.; lines: 108; xrefs: 3; canonical: false; chars: sai, helena
+        - voice_char_saul.md - id: voice_char_saul; status: light (insufficient KB detail for a full profile); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Saul, formatted for local TTS audiobook generation. Insufficient KB detail for a full profile.; lines: 40; xrefs: 5; canonical: false; chars: saul, maureen, jace_apollo
+        - voice_char_seek_ai.md - id: voice_char_seek_ai; status: detailed (drafted from char_seek_ai.md and Ch09, Ch10, Ch14); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {Seek}, the Chinese mining-detachment compliance AI, formatted for local TTS audiobook generation.; lines: 140; xrefs: 6; canonical: false; chars: seek_ai, jin_luong, penny_ai
+        - voice_char_sister_artemis.md - id: voice_char_sister_artemis; status: detailed (drafted from Ch01, Ch05); updated: 2026-08-12; type: character_voice_profile; description: Vocal and speech pattern profile for Artemis Grant, formatted for Orpheus TTS audiobook generation.; lines: 144; xrefs: 3; canonical: false; chars: sister_artemis, jace_apollo
+        - voice_char_sophia_lotte.md - id: voice_char_sophia_lotte; status: detailed (drafted from Ch13-20 plus char and visual profiles); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for Dr. Sophia Lotte, formatted for local TTS audiobook generation. Consolidates the Voice Profile table already in visual_profile_sophia_lotte.md and the code-switching rules in char_sophia_lotte.md into the dedicated voice_char format, extended with dialogue from Ch13 and Ch15.; lines: 215; xrefs: 5; canonical: false; chars: sophia_lotte, misty_ai
+        - voice_char_spox_ai.md - id: voice_char_spox_ai; status: detailed (drafted from tech files and Ch10, Ch16); updated: 2026-08-15; type: character_voice_profile; description: Vocal and speech-pattern profile for {SpoX}, the SpaceX-heritage mining and engineering AI on Fortuna Station, formatted for local TTS audiobook generation.; lines: 123; xrefs: 5; canonical: false; chars: spox_ai, jace_apollo
+        - voice_char_suzi.md - id: voice_char_suzi; status: detailed (drafted from char_suzi.md and Ch09, Ch19); updated: 2026-08-18; type: character_voice_profile; description: Vocal and speech-pattern profile for Suzi Gonzales, Fortuna Station chief of security, formatted for local TTS audiobook generation.; lines: 145; xrefs: 6; canonical: false; chars: suzi, helena, jace_apollo, penny_ai
+        - voice_char_torres.md - id: voice_char_torres; status: light (confirmed: no first name exists in-story, 2026-08-15); updated: 2026-08-15; type: character_voice_profile; description: Light vocal profile for Torres, the Fortuna survey pilot, formatted for local TTS audiobook generation. Author confirmed no character in the story knows his first name — this is settled, not a gap.; lines: 52; xrefs: 4; canonical: false; chars: torres, jace_apollo
+    - CLAUDE_PROJECT_INSTRUCTIONS.md - lines: 280; xrefs: 0; canonical: false
+    - factions/
+        - faction_alphacorp.md - name: AlphaCorp; id: faction_alphacorp; status: staged_draft; canonical: false; updated: 2026-07-19; type: faction; description: >; lines: 56; xrefs: 4; canonical: false; chars: maureen
+        - faction_american_red_party.md - name: The American Red Party; id: faction_american_red_party; status: in power (from ~6 months after the bridge incident); canonical: true; updated: 2026-08-13; type: faction; description: The hyper-capitalist, AI-heavy U.S. political faction whose takeover triggers the purge that discharges Jace and which deploys {Eagle}.; lines: 107; xrefs: 9; canonical: true; chars: jace_apollo, major_barnes, petroski
+        - faction_anzu_clades.md - name: The Anzu Clades; id: faction_anzu_clades; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 62; xrefs: 0; canonical: true
+        - faction_belter_stations.md - name: The Belter Stations; id: faction_belter_stations; status: emerging_political_identity; canonical: true; updated: 2026-04-28; type: distributed_settlement_network; description: Describes the loose network of mining and habitation stations in the asteroid belt.; lines: 102; xrefs: 0; canonical: true
+        - faction_china_belt_operations.md - name: China Belt Operations; id: faction_china_belt_operations; status: active; canonical: true; updated: 2026-08-13; type: faction; description: >; lines: 169; xrefs: 10; canonical: true; chars: jin_luong, mei
+        - faction_fey_clients.md - name: The Fey Client-Swarms; id: faction_fey_clients; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 79; xrefs: 0; canonical: true
+        - faction_galactic_species_index.md - name: Nearby Galactic Civilians — Species Index; id: faction_galactic_species_index; status: canon; canonical: true; updated: 2026-06-21; type: faction_index; description: >; lines: 170; xrefs: 11; canonical: true
+        - faction_galactic_will_networks.md - name: Galactic Will-Network Civilizations; id: faction_galactic_will_networks; status: incoming_threat_and_contact; canonical: true; updated: 2026-05-31; type: faction_category_foundational; description: Describes the common structural features and contact approach of galactic Will-Network civilizations.; lines: 148; xrefs: 0; canonical: true
+        - faction_long_soverignties.md - name: The Long Sovereignties; id: faction_long_sovereignties; status: background_arc3; canonical: true; updated: 2026-06-26; type: faction_outsider_species; description: >; lines: 65; xrefs: 0; canonical: true
+        - faction_mars_other_settlements.md - name: Other Mars Settlements (Overview); id: faction_mars_other_settlements; status: active; canonical: true; updated: 2026-04-28; type: faction_collection; description: Overview of non-American Mars factions including China and India settlements.; lines: 95; xrefs: 0; canonical: true
+        - faction_megacorps.md - name: The Megacorporations; id: faction_megacorps; status: active; canonical: true; updated: 2026-04-28; type: corporate_consortium; description: Overview of dominant megacorporations controlling solar system infrastructure and power.; lines: 92; xrefs: 0; canonical: true
+        - faction_mirror_crowned.md - name: The Mirror-Crowned; id: faction_mirror_crowned; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 130; xrefs: 0; canonical: true
+        - faction_naga_houses.md - name: The Naga Houses; id: faction_naga_houses; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 116; xrefs: 0; canonical: true
+        - faction_origin_industries.md - name: Origin Industries; id: faction_origin_industries; status: active, dominant; canonical: true; updated: 2026-04-30; type: megacorporation; description: Description of Origin Industries, a dominant solar system logistics megacorporation.; lines: 120; xrefs: 0; canonical: true
+        - faction_outsider_scouts.md - name: The Woven; id: faction_outsider_scouts; status: background_arc2_contact; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 139; xrefs: 0; canonical: true
+        - faction_raksha_courts.md - name: The Raksha Courts; id: faction_raksha_courts; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 72; xrefs: 0; canonical: true
+        - faction_the_bloom.md - name: The Bloom; id: faction_the_bloom; status: active_antagonist_arc2; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 171; xrefs: 0; canonical: false
+        - faction_titan_forge.md - name: The Titan-Forge Lithoids; id: faction_titan_forge; status: background_arc3; canonical: true; updated: 2026-06-25; type: faction_outsider_species; description: >; lines: 160; xrefs: 1; canonical: true
+        - faction_united_states_mars.md - name: The United States of Mars; id: faction_united_states_mars; status: active; canonical: true; updated: 2026-04-28; type: political_state; description: Political profile detailing the United States of Mars as a new American state.; lines: 95; xrefs: 0; canonical: true
+        - faction_united_states_military_intelligence.md - name: United States Military and Intelligence (Mars Command); id: faction_united_states_military_intelligence; status: active; updated: 2085-05-12; type: military; description: Faction profile detailing the United States military and intelligence operations on Mars, operating out of Joint Base Terminus under the 56th State framework.; lines: 97; xrefs: 0; canonical: false
+        - faction_vetala_residua.md - name: The Vetala Residua; id: faction_vetala_residua; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 81; xrefs: 0; canonical: true
+    - generated_text/
+        - chapter_00.txt
+        - chapter_01.txt
+        - chapter_02.txt
+        - chapter_03.txt
+        - chapter_04.txt
+        - chapter_05.txt
+        - chapter_06.txt
+        - chapter_07.txt
+        - chapter_08.txt
+        - chapter_09.txt
+        - chapter_10.txt
+        - chapter_11.txt
+        - chapter_12.txt
+        - chapter_13.txt
+        - chapter_14.txt
+        - chapter_15.txt
+        - chapter_16.txt
+        - chapter_17.txt
+        - chapter_18.txt
+        - chapter_19.txt
+        - chapter_20.txt
+        - chapter_21.txt
+        - chapter_22.txt
+        - chapter_23.txt
+        - chapter_24.txt
+        - chapters_00-04.txt
+        - chapters_05-09.txt
+        - chapters_10-14.txt
+        - chapters_15-19.txt
+        - chapters_20-24.txt
+    - livestock/
+        - falcon_animal_manifest_book1.md - name: Falcon Animal Manifest — Book 1 Voyage; id: falcon_animal_manifest_book1; status: canonical_working; updated: 2026-06-26; type: livestock_manifest; description: Manifest detailing livestock pairings and life support allocation for the Falcon voyage.; lines: 135; xrefs: 0; canonical: false
+    - locations/
+        - fortuna_station_population_neighborhoods.md - name: Fortuna Station Population and Neighborhoods; id: fortuna_station_population_neighborhoods; status: draft; canonical: true; updated: 2026-08-13; type: supporting_location_bible; description: Population, housing, neighborhoods, civic loadout, and daily life at Fortuna Station.; lines: 509; xrefs: 0; canonical: true
+        - location_adama_station.md - name: Adama Station; id: location_adama_station; status: canonical; canonical: true; updated: 2026-06-30; type: location; description: >; lines: 226; xrefs: 5; canonical: true; chars: sister_artemis, eugene
+        - location_asteroid_belt_overview.md - name: The Asteroid Belt (Overview); id: location_asteroid_belt_overview; status: actively_settled_frontier; canonical: true; updated: 2026-07-27; type: region; description: Overview of the Asteroid Belt region, its geography, major stations, travel logic, and belt-wide settlement economy.; lines: 153; xrefs: 2; canonical: true
+        - location_belt_visual_prompt_library.md - name: Belt Visual Prompt Library; id: location_belt_visual_prompt_library; status: draft; canonical: true; updated: 2026-06-30; type: visual_prompt_library; description: Reusable image prompts and descriptive vignettes for Fortuna Station, Adama Station, and inner-belt industrial life.; lines: 178; xrefs: 0; canonical: true
+        - location_earth_dungeon_network.md - name: Earth Dungeon Network; id: location_earth_dungeon_network; status: draft; canonical: false; type: distributed_location; description: >; lines: 93; xrefs: 0; canonical: false
+        - location_fortuna_station.md - name: Fortuna Station; id: location_fortuna_station; status: active, growth phase; canonical: true; updated: 2026-08-13; type: station; description: Description of the industrial inner belt mining hub, Fortuna Station.; lines: 478; xrefs: 8; canonical: true; chars: petroski
+        - location_mars_consumer_district.md - name: Mars Consumer District (working name); id: location_mars_consumer_district; status: active, expanding; canonical: true; updated: 2026-06-30; type: district; description: Description of a future retail, cafe, and consumer technology district in Terminus on Mars.; lines: 135; xrefs: 3; canonical: true
+        - location_mars_fabrication_district.md - name: Mars Fabrication District (working name); id: location_mars_fabrication_district; status: active, expanding; canonical: true; updated: 2026-06-30; type: district; description: Description of the major Martian industrial and fabrication district in Terminus, including heavy manufacturing, robot repair, truck depots, rail logistics, and launch-support industry.; lines: 172; xrefs: 4; canonical: true
+        - location_mars_livestock_farm.md - id: location_mars_livestock_farm; status: draft; updated: 2026-06-30; type: location; description: Description of Terminus's livestock and ranching systems, including the underground farm where Jace meets Cerberus and the larger surface ranch dome complex that feeds Mars and the asteroid belt.; lines: 193; xrefs: 4; canonical: false; chars: cerberus
+        - location_mars_overview.md - name: Mars (Inhabited World Overview); id: location_mars_overview; status: actively_settled; canonical: true; updated: 2026-06-30; type: planet; description: Overview of humanity's settled civilization, major settlements, infrastructure logic, and resource economy on Mars.; lines: 176; xrefs: 8; canonical: true
+        - location_mars_us_afspace_force_base.md - name: U.S. Air Force / Space Force Joint Base - Terminus; id: location_mars_us_afspace_force_base; status: active; canonical: true; updated: 2026-06-30; type: military_installation; description: Description of the joint U.S. Air Force / U.S. Space Force military installation on Mars at Terminus.; lines: 165; xrefs: 5; canonical: true
+        - location_mars_visual_prompt_library.md - name: Mars Visual Prompt Library; id: location_mars_visual_prompt_library; status: draft; canonical: true; updated: 2026-06-30; type: reference; description: Standalone visual prompt library for Mars city life in Terminus, Pangu, and Elysium.; lines: 69; xrefs: 7; canonical: true
+        - location_odysseus_station.md - name: Odysseus Station; id: location_odysseus_station; status: canonical; canonical: true; updated: 2026-06-26; type: location; description: >; lines: 118; xrefs: 3; canonical: true
+        - location_pangu.md - name: Pangu; id: location_pangu; status: active, primary Chinese hub; updated: 2026-06-30; type: city; description: Description of Pangu, the Chinese-owned industrial city on Mars, including its planned infrastructure, transit, labor culture, and visual texture.; lines: 99; xrefs: 2; canonical: false
+        - location_terminus.md - id: location_terminus; status: draft; updated: 2026-06-30; type: location; description: Description of Terminus, the largest U.S. city on Mars, including its buried neighborhoods, surface domes, agriculture, logistics, launch, and military-adjacent infrastructure.; lines: 304; xrefs: 7; canonical: false
+        - location_the_long_burn_bar.md - id: location_the_long_burn_bar; status: draft; type: location; description: Description of The Long Burn, an underground commercial bar in Terminus' old tunnels.; lines: 97; xrefs: 3; canonical: false; chars: smuggler_mars
+        - location_the_scar_never_never.md - name: The Scar — Never-Never Region; id: location_scar_never_never; status: reopening; canonical: true; updated: 2026-05-31; type: location_dimensional_region; description: Description of the dimensional region known as The Scar and its Never-Never ecology.; lines: 134; xrefs: 0; canonical: true
+        - non-canonical-ideas/
+            - location_elysium.md - name: Elysium; id: location_elysium; status: active, International/European hub; canonical: false; updated: 2026-05-02; type: city; description: Description of the cosmopolitan, high-stakes international business hub city of Mars.; lines: 23; xrefs: 0; canonical: false
+            - location_juno_station.md - name: Juno Station; id: location_juno_station; status: active; canonical: false; updated: 2026-04-28; type: station; description: Description of an inner belt asteroid station focused on mineral extraction and trade.; lines: 52; xrefs: 0; canonical: false
+            - location_psyche_station.md - name: Psyche Station; id: location_psyche_station; status: active, economically significant; canonical: false; updated: 2026-06-17; type: station; description: Description of the economically vital station anchored to the metallic asteroid 16 Psyche.; lines: 73; xrefs: 0; canonical: false
+            - location_sylvia_station.md - name: Sylvia Station; id: location_sylvia_station; status: active; canonical: false; updated: 2026-04-28; type: station; description: Detailed location profile for Sylvia Station, including its three-body asteroid system and potential story sites.; lines: 73; xrefs: 0; canonical: false
+    - magic-systems/
+        - advancement_ledger.md - name: Character Advancement Ledger; id: advancement_ledger; status: canonical; canonical: true; updated: 2026-08-13; type: kb_system; description: >; lines: 465; xrefs: 8; canonical: true
+        - magic_astral_transfer_skill.md - name: [Astral Transfer] — Skill Specification; id: magic_astral_transfer_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 235; xrefs: 5; canonical: true; chars: jace_apollo
+        - magic_breach_crossers_transient.md - name: Transient Breach-Crossers — The Flash-Freeze Class (and the Falcon Harbinger); id: magic_breach_crossers_transient; status: working draft — extends canonical crossing/fauna specs; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology); updated: 2026-07-28; type: magic_system; description: Taxonomy and mechanics for astral organisms crossing into physical reality during magical breaches.; lines: 129; xrefs: 5; canonical: true (extends spec_scar_clearing_mechanics, spec_threat_escalation, spec_astral_phenomenology)
+        - magic_cryptid_species_reference.md - name: Belt Cryptid Species — Will Profile and Orb Reference; id: magic_cryptid_species_reference; status: canonical; canonical: true; updated: 2026-07-28; type: magic_system; description: >; lines: 356; xrefs: 5; canonical: true
+        - magic_cryptids_silicon.md - name: Silicon Manifestations — The Glass-Infestation Class; id: magic_cryptids_silicon; status: draft — Fortuna-context established; broader taxonomy TBD; canonical: true (Fortuna context); partial (wider applicability); updated: 2026-05-02; type: magic_system; description: Taxonomy of silicon-based magical manifestations found in industrial manufacturing environments.; lines: 116; xrefs: 4; canonical: true (Fortuna context); partial (wider applicability)
+        - magic_cultural_schools.md - name: Cultural Schools of the Returning Arts; id: magic_cultural_schools; status: emerging; canonical: true; updated: 2026-08-13; type: magic_subsystem; description: Details various cultural traditions and schools of magic arts and their core principles.; lines: 133; xrefs: 0; canonical: true
+        - magic_dual_existence_entities.md - name: Dual-Existence Entities; id: magic_dual_existence_entities; status: canonical; canonical: true; updated: 2026-07-28; type: magic_system; description: >; lines: 96; xrefs: 4; canonical: true
+        - magic_improvised_responses.md - name: Improvised Responses to the Outbreak — Belt Field Adaptations; id: magic_improvised_responses; status: draft — Fortuna context; broader applicability TBD; canonical: true (field adaptations); partial (wider use); updated: 2026-05-02; type: magic_system; description: Details improvised magical technology built from salvaged materials for asteroid belt survival.; lines: 100; xrefs: 4; canonical: true (field adaptations); partial (wider use)
+        - magic_manifestations_early.md - name: Early Manifestations — Pre-Understanding Phase; id: magic_manifestations_early; status: established canon (observable phenomena); theoretical explanations TBD; canonical: true; updated: 2105-03-15; type: magic_system; description: Catalog of early, observable magical phenomena encountered during the solar system outbreak.; lines: 187; xrefs: 5; canonical: true; chars: jace_apollo, cerberus
+        - magic_never_never.md - name: The Never-Never; id: magic_never_never; status: foundational; canonical: true; updated: 2026-05-31; type: foundational_location_magic_system; description: Describes the Never-Never location, detailing its two distinct environments and history.; lines: 156; xrefs: 0; canonical: true
+        - magic_overview.md - name: Magic — Overview and Fundamental Principles; id: magic_overview; status: working draft — foundational canon established; details to be developed across books; canonical: true (foundational principles); updated: 2026-07-14; type: magic_system; description: Foundational overview detailing the core principles and mechanics of the returning magic system.; lines: 144; xrefs: 5; canonical: true (foundational principles)
+        - magic_progression_signals_guide.md - name: Progression Signals — Prose Writing Guide; id: magic_progression_signals_guide; status: canonical (editorial/developmental — not world canon); canonical: true; updated: 2026-06-27; type: dev_guide; description: >; lines: 353; xrefs: 4; canonical: true
+        - magic_returning_arts.md - name: The Returning Arts; id: magic_returning_arts; status: foundational; canonical: true; updated: 2026-08-13; type: magic_system; description: Describes the mechanics and scope of magic returning to the solar system.; lines: 166; xrefs: 0; canonical: true
+        - magic_self_template_skill.md - name: [Self Template] — Skill Specification; id: magic_self_template_skill; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: >; lines: 444; xrefs: 6; canonical: true; chars: jace_apollo, kael
+        - magic_skill_level_scale.md - name: Skill Level Scale — Canonical Reference; id: magic_skill_level_scale; status: canonical; canonical: true; updated: 2026-08-13; type: magic_system; description: >; lines: 205; xrefs: 4; canonical: true; chars: jace_apollo, kael
+        - magic_skills_framework.md - name: Skills Framework — [Skill] System, Trees, and Progression; id: magic_skills_framework; status: canonical; canonical: true; updated: 2026-06-27; type: magic_system; description: Reference guide for the magic skills framework, defining the bracketed [Skill] system, skill trees, and Sol human progression.; lines: 674; xrefs: 8; canonical: true; chars: jace_apollo, kael
+        - magic_technological_adaptation.md - name: Technological Adaptation to the Outbreak — The Static Problem; id: magic_technological_adaptation; status: established canon; canonical: true; updated: 2026-06-26; type: magic_system; description: Details the technical challenges and adaptations for electronic systems facing magical interference (the Static).; lines: 123; xrefs: 4; canonical: true
+        - magic_will_and_templates.md - name: Will and Templates — Core Metaphysical Mechanics; id: magic_will_and_templates; status: foundational; canonical: true; updated: 2026-07-14; type: foundational_magic_mechanics; description: Defines core metaphysical mechanics: Will and Templates governing all magic.; lines: 244; xrefs: 3; canonical: true
+        - magic_will_implications.md - name: Will — Deep Implications and Universe-Wide Consequences; id: magic_will_implications; status: canonical_working; canonical: true; updated: 2026-05-31; type: foundational_analysis; description: Analyzes the universal biological and cosmic implications of conscious will generation.; lines: 309; xrefs: 0; canonical: true
+        - magic_will_orbs.md - name: Will Orbs — Death-Drop Mechanic and Skill Currency; id: magic_will_orbs; status: canonical; canonical: true; updated: 2026-06-26; type: magic_system; description: Reference guide for Will Orbs, explaining the death-drop mechanic, orb absorption, and their role as currency for skill progression.; lines: 258; xrefs: 6; canonical: true; chars: jace_apollo
+    - MASTER-SYNOPSIS.md - status: draft; updated: 2026-04-28; description: Hard sci-fi synopsis detailing humanity's solar system expansion and return of magic.; lines: 125; xrefs: 0; canonical: false
+    - normalize_cross_references.py
+    - priority_fix_list.md - updated: 2026-07-28; lines: 110; xrefs: 0; canonical: false
+    - README.md - name: StoryOps — The Aura Chronicles; id: readme; status: canonical; updated: 2026-07-21; type: readme; description: >; lines: 214; xrefs: 5; canonical: false
+    - review-queue/
+        - 2026-07-19_delivery_reframe.md - id: rq_2026-07-19_delivery_reframe; status: open; updated: 2026-07-19; type: review_queue_log; description: >; lines: 46; xrefs: 7; canonical: false; chars: jace_apollo, maureen
+        - open_questions_ch20_21_revision.md - id: open_questions_ch20_21_revision; status: open; updated: 2026-08-19; type: review_queue; lines: 57; xrefs: 0; canonical: false
+        - open_questions_ch20_22_revision_v2.md - id: open_questions_ch20_22_revision_v2; status: open; updated: 2026-08-19; type: review_queue; lines: 64; xrefs: 0; canonical: false
+        - open_questions_jin_room_sophia_v1.md - id: open_questions_jin_room_sophia_v1; status: open; updated: 2026-08-19; type: review_queue; lines: 59; xrefs: 0; canonical: false
+        - open_questions_material_seeds.md - id: open_questions_material_seeds; status: open; updated: 2026-08-19; type: review_queue; lines: 28; xrefs: 0; canonical: false
+        - open_questions_materials_spec_v1.md - id: open_questions_materials_spec_v1; status: open; updated: 2026-08-19; type: review_queue; lines: 48; xrefs: 0; canonical: false
+        - review_2026-07-14_transit_rework.md - id: review_2026-07-14_transit_rework; status: open; updated: 2026-07-14; type: review_queue_entry; lines: 25; xrefs: 0; canonical: false
+        - review_2026-08-14_chapters_00_20_contract_reconciliation.md - name: Chapters 0-20 Contract Reconciliation Review; id: review_2026_08_14_chapters_00_20_contract_reconciliation; status: proposal; updated: 2026-08-14; type: developmental_review; description: >; lines: 200; xrefs: 11; canonical: false
+        - review_2026-08-15_cast_and_voice_audit.md - name: Ch00-20 Cast Coverage and Voice Profile Audit; id: review_2026_08_15_cast_and_voice_audit; status: proposal; updated: 2026-08-15; type: developmental_review; description: >; lines: 243; xrefs: 5; canonical: false
+        - review_queue.md - name: Dungeon Systems Merge — Open Decisions & Review Queue; id: review_queue; status: open; updated: 2026-07-27; type: review_queue; lines: 40; xrefs: 3; canonical: false
+        - rq_2026-07-15_book1_first_pass.md - id: rq_2026-07-15_book1_first_pass; status: open; updated: 2026-07-15; type: review_queue; description: Book 1 first-pass review queue — updated after author decision round 1.; lines: 40; xrefs: 0; canonical: false
+    - scenes/
+        - archived/
+        - draft_ch00_prologue_helena.md - name: Prologue. Helena's Last Day; id: draft_ch00_prologue_helena; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: First-pass prose for the Helena prologue. Framing device: an ordinary beloved day, ending in a plain statement of death.; lines: 131; xrefs: 7; canonical: false; chars: helena, suzi, jin_luong, cerberus, dog_siren
+        - draft_ch01_departure_and_rounds.md - name: Chapter 1. Departure and Rounds; id: draft_ch01_departure_and_rounds; status: draft_v2; updated: 2026-08-18; type: chapter_draft; description: Cargo-heavy departure, late-transit animal rounds with Mei, real-time; lines: 392; xrefs: 11; canonical: false; chars: jace_apollo, cerberus, maureen, mei, lanchee, nick_lee, saul
+        - draft_ch02_no_more_voices.md - name: Chapter 2. Going a little crazy; id: draft_ch02_no_more_voices; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: Two-chapter consolidation candidate: forge queue, Falcon majordomo, Maureen's AI aversion and plate-fee grift, Origin drone restrictions, Sparky's origin, Jace's factory-reset HUD retraining with Nick, and recurring symptoms. This pass adds: Thing Two's interior hallway-maintenance work (paired explicitly with Thing One's exterior work), and ties Jace's closing 'going a little crazy' line back to his five-month Mars transit recovering from HUD surgery.; lines: 269; xrefs: 10; canonical: false; chars: jace_apollo, maureen, nick_lee, cerberus, saul
+        - draft_ch03_plumbing_crisis.md - name: Chapter 3. The Plumbing Crisis; id: draft_ch03_plumbing_crisis; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: A water-line rupture loads one side of the Falcon ring with ice; Jace defies Alex and uses cryogenic argon as emergency counter-ballast, saving the ship at dangerous cost.; lines: 291; xrefs: 6; canonical: false; chars: jace_apollo, maureen
+        - draft_ch04_morning_after_debrief.md - name: Chapter 4. The Morning After; id: draft_ch04_morning_after_debrief; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: Jace repairs the Falcon while suffering an unexplained post-crisis illness, then Alex fines him for the successful but prohibited argon maneuver.; lines: 286; xrefs: 7; canonical: false; chars: jace_apollo, maureen, lanchee
+        - draft_ch05_learning_mode.md - name: Chapter 5. Learning Mode; id: draft_ch05_learning_mode; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: Register shift after the crisis, Thing One/Two comedy, the footage that becomes Jace's Fortuna reputation, Sparky-project mention, surveillance-discomfort seed, Nick's first real {Aura} pitch, an early rumor of Helena's disappearance; lines: 271; xrefs: 10; canonical: false; chars: helena, nick_lee, sister_artemis
+        - draft_ch06_the_spire.md - name: Chapter 6. The Spire; id: draft_ch06_the_spire; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 268; xrefs: 8; canonical: false; chars: jace_apollo, cerberus, lanchee
+        - draft_ch07_arrival_day.md - name: Chapter 7. Arrival Day; id: draft_ch07_arrival_day; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 407; xrefs: 16; canonical: false; chars: aura_ai, carlos, petroski, nick_lee, maureen, lanchee, mei, sai, helena, mateo_alvarez
+        - draft_ch08_settling_in.md - name: Chapter 8. Settling In; id: draft_ch08_settling_in; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 338; xrefs: 11; canonical: false; chars: kim, carlos, mira, hayes, cerberus, nick_lee
+        - draft_ch09_first_week.md - name: Chapter 9. Eyes Open; id: draft_ch09_first_week; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 319; xrefs: 13; canonical: false; chars: aura_ai, seek_ai, suzi, helena, jin_luong, mei, cerberus, carlos, hayes
+        - draft_ch10_first_drone_shift.md - name: Chapter 10. Ordinary; id: draft_ch10_first_drone_shift; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 298; xrefs: 10; canonical: false; chars: kim, carlos, nick_lee, cerberus, dog_siren
+        - draft_ch11_survey_trip.md - name: Chapter 11. The Empty Rocks; id: draft_ch11_survey_trip; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 349; xrefs: 7; canonical: false; chars: cerberus, torres
+        - draft_ch12_awakening.md - name: Chapter 12. The Other Side; id: draft_ch12_awakening; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 290; xrefs: 8; canonical: false; chars: cerberus
+        - draft_ch13_woman_who_wasnt_glowing.md - name: Chapter 13. The Woman Who Was Not Glowing; id: draft_ch13_woman_who_wasnt_glowing; status: staged_draft; updated: 2026-08-13; type: chapter_draft; description: >; lines: 353; xrefs: 9; canonical: false; chars: sophia_lotte, jace_apollo, cerberus, torres
+        - draft_ch14_down_to_the_asteroid.md - name: Chapter 14. Down to the Asteroid; id: draft_ch14_down_to_the_asteroid; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 508; xrefs: 12; canonical: false; chars: aura_ai, seek_ai, lanchee, carlos, sophia_lotte, cerberus
+        - draft_ch15_sideways.md - name: Chapter 15. Sideways; id: draft_ch15_sideways; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 498; xrefs: 15; canonical: false; chars: jace_apollo, sophia_lotte, brandon_moreau, nikos_petrou, cerberus
+        - draft_ch16_ten_good_days.md - name: Chapter 16. Ten Good Days; id: draft_ch16_ten_good_days; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 548; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee
+        - draft_ch17_falling_behind.md - name: Chapter 17. Falling Behind; id: draft_ch17_falling_behind; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 656; xrefs: 11; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, kim
+        - draft_ch18_later_became_morning.md - name: Chapter 18. Later Became Morning; id: draft_ch18_later_became_morning; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 379; xrefs: 12; canonical: false; chars: jace_apollo, kim, carlos, nick_lee, suzi, sister_artemis
+        - draft_ch19_fault_lines.md - name: Chapter 19. Fault Lines; id: draft_ch19_fault_lines; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 501; xrefs: 21; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, kim, carlos, nick_lee, misty_ai, lanchee
+        - draft_ch20_borrowed_light.md - name: Chapter 20. Borrowed Light; id: draft_ch20_borrowed_light; status: staged_draft; updated: 2026-08-19; type: chapter_draft; description: >; lines: 359; xrefs: 16; canonical: false; chars: jace_apollo, sophia_lotte, suzi, jin_luong, nick_lee, misty_ai
+        - draft_ch21_the_eye_on_three.md - name: Chapter 21. The Eye on Three; id: draft_ch21_the_eye_on_three; status: staged_draft; updated: 2026-08-19; type: chapter_draft; description: >; lines: 349; xrefs: 13; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee, misty_ai, lanchee
+        - draft_ch22_quiet_companion.md - name: Chapter 22. Quiet Companion; id: draft_ch22_quiet_companion; status: staged_draft; updated: 2026-08-19; type: chapter_draft; description: >; lines: 428; xrefs: 18; canonical: false; chars: jace_apollo, sophia_lotte, nick_lee, lanchee, aura_ai, misty_ai, seek_ai, jin_luong
+        - draft_ch23_no_vampires.md - name: Chapter 23. No Vampires; id: draft_ch23_no_vampires; status: staged_draft; updated: 2026-08-19; type: chapter_draft; description: >; lines: 530; xrefs: 17; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, nick_lee, lanchee, suzi, aura_ai, misty_ai
+        - draft_ch24_the_leech.md - name: Chapter 24. The Leech; id: draft_ch24_the_leech; status: staged_draft; updated: 2026-08-18; type: chapter_draft; description: >; lines: 645; xrefs: 12; canonical: false; chars: jace_apollo, sophia_lotte, cerberus, lanchee, aura_ai
+        - event_helena_epilogue.md - name: Epilogue — Helena; id: event_helena_epilogue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Epilogue scene — Helena's resurrection, paired framing device closing Arc 1.; lines: 111; xrefs: 0; canonical: true
+        - event_helena_prologue.md - name: Prologue — Helena; id: event_helena_prologue; status: draft; canonical: true; updated: 2026-07-02; type: scene; description: Prologue scene — Helena's last day, framing device introducing Fortuna Station before Jace's POV begins.; lines: 116; xrefs: 0; canonical: true
+        - event_t_forge_no_more_voices.md - name: No More Voices (forge room, pre-crisis); id: event_t_forge_no_more_voices; status: contracted; updated: 2026-07-19; type: scene_contract; lines: 62; xrefs: 5; canonical: false; chars: maureen, jace_apollo
+        - event_t_spire_eggs.md - name: The Spire (eggs, hatchlings, and the man flailing at nothing); id: event_t_spire_eggs; status: contracted; updated: 2026-08-13; type: scene_contract; lines: 95; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, lanchee
+        - event_x00a_astral_awakening.md - name: X-00a — Astral Awakening; id: event_x00a_astral_awakening; status: staged_draft; updated: 2026-07-15; type: scene_draft; description: >; lines: 114; xrefs: 7; canonical: false; chars: jace_apollo, cerberus, sophia_lotte
+        - event_x00b_sophia_cafeteria.md - name: X-00b — The Woman Who Wasn't Glowing; id: event_x00b_sophia_cafeteria; status: staged_draft; updated: 2026-08-13; type: scene_draft; description: >; lines: 125; xrefs: 6; canonical: false; chars: jace_apollo, sophia_lotte, cerberus
+        - non-canonical-ideas/
+            - addition_new_doctor_memory_mention.md - lines: 44; xrefs: 0; canonical: false
+            - book01-opening-notes.md - id: scenes_book01_opening_notes; status: pre-draft; updated: 2026-07-28; description: Working outline detailing early scenes, backstory, and structural notes for Book 1's opening.; lines: 143; xrefs: 15; canonical: false
+            - choreo_event_jace_doctor_appointment.md - id: choreo_event_jace_doctor_appointment; status: detailed (voice session); canonical: false; updated: 2026-07-21; type: scene_choreography; description: Detailed choreography and temporal markers for Jace's emotional climax at a doctor's appointment.; lines: 522; xrefs: 0; canonical: false
+            - choreo_event_jace_gym_arrival.md - id: choreo_event_jace_gym_arrival; status: detailed (voice session); canonical: false; updated: 2026-04-30; type: scene_choreography; description: Detailed choreography and temporal markers for Jace's first day at the Mars base gym.; lines: 513; xrefs: 0; canonical: false
+            - choreo_event_jace_mars_tour_with_rich.md - id: choreo_event_jace_mars_tour_with_rich; status: detailed (voice session); canonical: false; updated: 2026-04-30; type: scene_choreography; description: Detailed choreography and temporal markers for Jace's arrival and tour on Mars with Rich.; lines: 578; xrefs: 0; canonical: false
+            - event_jace_assembles_smuggling_list.md - name: Assembling Artemis's List — The Smuggling Sprint; id: event_jace_assembles_smuggling_list; status: draft; canonical: false; updated: 2105-04-22; type: scene_cluster; description: Jace acquires restricted goods for Artemis's list during a desperate smuggling sprint on Mars.; lines: 191; xrefs: 5; canonical: false; chars: jace_apollo, smuggler_mars, sister_artemis
+            - event_jace_bar_rumors.md - id: event_jace_bar_rumors; status: pre-draft (emotional beats / structural sketch); canonical: false; updated: 2026-04-30; type: scene; description: Sketching Jace's emotional descent through rumors in a working-class Mars bar.; lines: 105; xrefs: 0; canonical: false
+            - event_jace_commander_welcome.md - id: event_jace_commander_welcome; status: stub; canonical: false; type: scene_scaffold; description: Scene scaffold for Jace's formal command welcome beat at the Mars base.; lines: 12; xrefs: 0; canonical: false
+            - event_jace_day2_acclimation.md - name: Day 2 — Acclimation Day (Geese, Mines, Quiet); id: event_jace_day2_acclimation; status: sketch; canonical: false; updated: 2105-03-16; type: scene; description: Jace's free day on Mars during his acclimation period before formal duty begins.; lines: 95; xrefs: 3; canonical: false
+            - event_jace_doctor_appointment.md - id: event_jace_doctor_appointment; status: pre-draft (emotional beats / structural sketch); canonical: false; updated: 2026-07-21; type: scene; description: Scene detailing Jace's emotional and physical decline after a doctor's appointment on Mars.; lines: 121; xrefs: 0; canonical: false
+            - event_jace_dog_breeder_visits.md - name: Jace's Dog Breeder Visits; id: event_jace_dog_breeder_visits; status: draft; canonical: false; updated: 2026-06-03; type: scene; description: Details of Jace's recurring visits to a Mars dog breeder facility and forming attachments.; lines: 144; xrefs: 5; canonical: false; chars: jace_apollo, cerberus, dog_siren
+            - event_jace_drone_center_tour.md - name: Jace's Drone Control Center Tour; id: event_jace_drone_center_tour; status: draft; canonical: false; updated: 2026-05-02; type: scene; description: Jace's first day tour through the massive drone control center at the Mars base.; lines: 249; xrefs: 8; canonical: false; chars: lt_rich_cullivan, jace_apollo
+            - event_jace_gym_arrival.md - id: event_jace_gym_arrival; status: pre-draft (emotional beats / structural sketch); canonical: false; updated: 2026-04-30; type: scene; description: Scene detailing Jace's confident first day at the Mars detachment gymnasium.; lines: 92; xrefs: 0; canonical: false
+            - event_jace_horse_farm_offer.md - name: The Horse Farm Offer (Parents Offer to Sell); id: event_jace_horse_farm_offer; status: draft; canonical: false; updated: 2026-05-02; type: scene; description: Jace learns his parents offer to sell the family horse farm to clear his debt.; lines: 168; xrefs: 5; canonical: false; chars: jace_apollo, dawn_chris_grant, jelly_grant, jinx_grant
+            - event_jace_lina_yoga_scene.md - name: Low-G Yoga with Lina — The Fingertips; id: event_jace_lina_yoga_scene; status: draft; canonical: false; updated: 2026-05-02; type: scene; description: Jace's first subtle magical manifestation during a low-gravity yoga session with Lina.; lines: 198; xrefs: 4; canonical: false; chars: lina_mills, jace_apollo
+            - event_jace_mars_tour_with_rich.md - id: event_jace_mars_tour_with_rich; status: pre-draft (emotional beats / structural sketch); canonical: false; updated: 2026-04-30; type: scene; description: Jace's initial Mars tour with Lt. Rich Cullivan establishing setting and character dynamics.; lines: 289; xrefs: 0; canonical: false
+            - event_jace_messages_home.md - id: event_jace_messages_home; status: stub; canonical: false; type: scene_scaffold; description: Scene scaffold for Jace's video and audio messages sent home during his transition.; lines: 12; xrefs: 0; canonical: false
+            - event_jace_origin_negotiation.md - id: event_jace_origin_negotiation; status: pre-draft (emotional beats / structural sketch); canonical: false; updated: 2026-06-03; type: scene; description: Jace negotiates his contract with Origin Industries, establishing his diminished bargaining position.; lines: 110; xrefs: 0; canonical: false
+            - event_rich_comms_favor.md - name: Rich's Comms Favor for Jace; id: event_rich_comms_favor; status: sketch; canonical: false; updated: 2026-05-02; type: scene; description: Rich uses his comms access to grant Jace a significant favor after his discharge.; lines: 122; xrefs: 4; canonical: false; chars: lt_rich_cullivan, jace_apollo
+        - scene_notes_ai_interactions.md - id: scene_notes_ai_interactions; status: pre-draft; updated: 2026-07-14; type: scene_notes; description: Scene notes for two key AI-interaction beats: the {Alex} morning greeting routine and Nick's pitch to install {Aura}. Updated to reflect that Jace has no pre-installed {Aura} — just a bare military HUD reformatted as civilian OS.; lines: 159; xrefs: 0; canonical: false
+        - scene_notes_x09b_composition_question.md - name: X-09b — The Composition Question; id: scene_notes_x09b_composition_question; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 110; xrefs: 5; canonical: false; chars: jace_apollo, sophia_lotte
+        - scene_notes_x09c_what_else_she_can_do.md - name: X-09c — What Else She Can Do; id: scene_notes_x09c_what_else_she_can_do; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 99; xrefs: 5; canonical: false; chars: jace_apollo, sophia_lotte
+        - scene_notes_x09d_moving_house.md - name: X-09d — Moving House; id: scene_notes_x09d_moving_house; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 85; xrefs: 6; canonical: false; chars: jace_apollo, sophia_lotte
+        - scene_notes_x09e_sparky_comes_across.md - name: X-09e — Sparky Comes Across; id: scene_notes_x09e_sparky_comes_across; status: pre-draft; updated: 2026-08-13; type: scene_notes; description: >; lines: 78; xrefs: 4; canonical: false; chars: jace_apollo
+    - SERIES_BIBLE.md - name: The Aura Chronicles — Series Bible; id: series_bible; status: canonical; updated: 2026-06-26; type: series_bible; description: >; lines: 506; xrefs: 12; canonical: false
+    - sheets/
+        - sheet_helena_epilogue_resurrection.md - name: Helena — Epilogue Resurrection; id: sheet_helena_epilogue_resurrection; subject: helena; arc: arc_01; checkpoint: Immediately after resurrection, waking in the Epilogue; seq: 2; updated: 2026-07-02; lines: 76; ⚠️ IMMUTABLE — do not edit
+        - sheet_helena_prologue_death.md - name: Helena — Prologue Death (Vault Snapshot); id: sheet_helena_prologue_death; subject: helena; arc: arc_01; checkpoint: Moment of accidental Template store, during yoga class transcendence — immediately preceding death; seq: 1; updated: 2026-07-02; lines: 73; ⚠️ IMMUTABLE — do not edit
+        - sheet_jace_arc01_end.md - name: Jace Grant — Arc 1 End (Kael Arrival); id: sheet_jace_arc01_end; subject: jace_apollo; arc: arc_01; checkpoint: Swarm repelled; Kael has arrived; Arc 1 closes; seq: 2; updated: 2026-06-27; lines: 144; ⚠️ IMMUTABLE — do not edit
+        - sheet_jace_arc01_start.md - name: Jace Grant — Arc 1 Start (Falcon Departure); id: sheet_jace_arc01_start; subject: jace_apollo; arc: arc_01; checkpoint: Boards the Falcon at Mars — before any Astral exposure; seq: 1; updated: 2026-07-14; lines: 113; ⚠️ IMMUTABLE — do not edit
+        - sheet_jin_arc01_end.md - name: Jin Lóng — Arc 1 End (Kael Arrival); id: sheet_jin_arc01_end; subject: jin_luong; arc: arc_01; checkpoint: Swarm repelled; {Seek} destroyed; crew liberated; standing at Fortuna as a free man; seq: 1; updated: 2026-06-27; lines: 134; ⚠️ IMMUTABLE — do not edit
+        - sheet_nick_arc01_end.md - name: Nick Lee — Arc 1 End (Kael Arrival); id: sheet_nick_arc01_end; subject: nick_lee; arc: arc_01; checkpoint: Open-source decision made; {Aura} modifications running; swarm survived; seq: 1; updated: 2026-06-27; lines: 135; ⚠️ IMMUTABLE — do not edit
+        - sheet_sophia_arc01_end.md - name: Sophia Lotte — Arc 1 End (Kael Arrival); id: sheet_sophia_arc01_end; subject: sophia_lotte; arc: arc_01; checkpoint: Swarm repelled; Kael has arrived; Arc 1 closes; seq: 1; updated: 2026-06-27; lines: 140; ⚠️ IMMUTABLE — do not edit
+        - system_character_sheets_skill_format.md - name: Character Sheet Skill Format — Design Spec; id: system_character_sheets_skill_format; status: canonical; canonical: true; updated: 2026-06-27; type: kb_system; description: >; lines: 107; xrefs: 2; canonical: true
+    - ships/
+        - non-canonical-ideas/
+            - ship_nina.md - name: Niña; id: ship_nina; status: active; canonical: false; updated: 2026-04-28; type: passenger / cargo cycler; description: Technical and narrative profile for the Cycler-class deep-space liner Niña.; lines: 163; xrefs: 0; canonical: false
+            - ship_pinta.md - name: Pinta; id: ship_pinta; status: active; canonical: false; updated: 2026-04-28; type: passenger / cargo cycler; description: Technical specification and background lore for the Cycler-class deep-space liner Pinta.; lines: 89; xrefs: 0; canonical: false
+            - ship_santa_maria.md - name: Santa María; id: ship_santa_maria; status: active; canonical: false; updated: 2026-04-28; type: passenger / cargo cycler; description: Technical profile detailing the specifications, history, and role of the Cycler-class liner Santa María.; lines: 90; xrefs: 0; canonical: false
+        - ship_falcon.md - name: Falcon; id: ship_falcon; status: active; canonical: true; updated: 2026-07-27; type: nuclear-thrust livestock and cargo transport; description: Technical specification and profile for the Falcon, a nuclear-thrust livestock and cargo transport vessel.; lines: 349; xrefs: 2; canonical: true
+        - ship_livestock_ferry_class.md - name: Livestock-Primary Ferry (Class Overview); id: ship_livestock_ferry_class; status: class_in_development; canonical: true; updated: 2026-06-16; type: ship_class_document; description: Overview of the Omphalos configuration used on livestock ferry vessels.; lines: 90; xrefs: 0; canonical: true
+        - ship_victoria.md - name: Victoria; id: ship_victoria; status: active; updated: 2026-08-14; type: science research vessel; description: ESA science vessel used as home base and research platform for particle physics studies.; lines: 93; xrefs: 0; canonical: false
+    - storybot/
+        - image_generation_agent_prompt.md - updated: 2026-06-27; lines: 610; xrefs: 0; canonical: false
+        - metadata_template_guide.md - name: StoryBot Metadata Template Guide; id: storybot_metadata_template_guide; status: working draft; updated: 2105-03-16; type: system_documentation; description: Defines metadata structures for StoryBot to generate multimedia chapter content.; lines: 479; xrefs: 0; canonical: false
+        - progression_review_guide.md - name: Progression & Chapter Review Guide; id: storybot_progression_review_guide; status: canonical (developmental guide — not world canon); canonical: true (as a working/reviewing guide); updated: 2026-06-17; type: dev_guide; description: Developmental guide for reviewing pacing and progression in a science-fantasy web serial.; lines: 109; xrefs: 0; canonical: true (as a working/reviewing guide)
+        - storybot_orpheus_voice_tag_reference.md - name: Orpheus TTS — Voice Tag Reference for Audiobook Generation; id: storybot_orpheus_voice_tag_reference; status: working draft; updated: 2026-08-12; type: system_documentation; description: Reference note explaining how this KB's voice_char_*.md files map the story's existing emotional-tone vocabulary onto Orpheus TTS's actual supported syntax, so the audiobook pipeline gets a consistent, generator-ready format across all character voice profiles.; lines: 64; xrefs: 2; canonical: false
+    - technology/
+        - tech_ai_architecture_comparison.md - name: AI Architecture Comparison: Centralized vs. Distributed; id: tech_ai_architecture_comparison; status: canonical; updated: 2026-07-27; type: technology_specification; description: A foundational comparison between massive Centralized AIs and fully Distributed AIs like {Aura}, including hardware realities and Astral mechanics.; lines: 56; xrefs: 3; canonical: false
+        - tech_aura_ai.md - name: Aura; id: tech_aura; status: widely_deployed; canonical: true; updated: 2026-08-19; type: distributed_personal_ai; description: Description of {Aura}, a widely deployed distributed personal AI architecture in the solar system.; lines: 131; xrefs: 1; canonical: true; chars: aura_ai
+        - tech_communications_filtering.md - name: Communications Filtering and Censorship Architecture; id: tech_communications_filtering; status: active, intensifying through story; canonical: true; updated: 2026-04-30; type: infrastructure_and_political_technology; description: Describes the multi-layered, conflicting censorship architecture of inner solar system communications.; lines: 136; xrefs: 0; canonical: true
+        - tech_cybernetics.md - name: Cybernetic Augmentation Systems; id: tech_cybernetics; status: emerging_widespread; canonical: true; updated: 2026-08-13; type: medical_and_military_technology; description: Details cybernetic augmentation technology including power sources and implant types.; lines: 125; xrefs: 0; canonical: true
+        - tech_cyclers.md - name: The Cycler System; id: tech_cyclers; status: operational; canonical: true; updated: 2026-04-28; type: interplanetary_transit_infrastructure; description: Describes the permanent deep-space habitat system transporting colonists between Earth and Mars.; lines: 83; xrefs: 0; canonical: true
+        - tech_dogs_space_adapted.md - name: Mars-Bred Low-G Adapted Dogs; id: tech_dogs_space_adapted; status: established (Mars program); emerging (belt deployment); canonical: true; updated: 2026-04-29; type: bioengineered_animal; description: Technical specification and selective breeding details of low-G adapted Mars dogs.; lines: 76; xrefs: 0; canonical: true
+        - tech_eagle_ai.md - name: {Eagle} — American Red Federal Overwatch AI; id: tech_eagle_ai; status: draft; canonical: proposed; updated: 2026-07-21; type: technology; description: >; lines: 154; xrefs: 5; canonical: proposed; chars: jace_apollo
+        - tech_everyday_robotics_and_ai.md - name: Everyday Robotics and AI Ecosystem; id: tech_everyday_robotics_and_ai; status: ubiquitous; canonical: true; updated: 2026-05-02; type: daily_technology; description: Describes the decentralized AI ecosystem and robotic workforce on Mars in the 22nd century.; lines: 37; xrefs: 0; canonical: true
+        - tech_falcon_majordomo.md - name: Falcon Majordomo — Ship Automation System; id: tech_falcon_majordomo; status: staged_draft; canonical: false; updated: 2026-07-19; type: technology; description: >; lines: 70; xrefs: 4; canonical: false; chars: maureen
+        - tech_fortuna_ai_personalities.md - name: Fortuna Station AI Personalities — {Alex}, {SpoX}, {Gem}, {Chorus}, {Penny}; id: tech_fortuna_ai_personalities; status: canonical; updated: 2026-08-14; type: technology_specification; description: Comparative index for Fortuna's five council AIs, with individual character files as the canonical personality references.; lines: 238; xrefs: 0; canonical: false
+        - tech_fortuna_ai_systems.md - name: Fortuna AI Governance and Systems; id: tech_fortuna_ai_systems; status: canonical; updated: 2026-06-25; type: technology_specification; description: Technical details on Fortuna Station AI governance, the council structure, failure cascades, and sub-systems.; lines: 70; xrefs: 0; canonical: false
+        - tech_information_environment.md - name: The Information Environment (2105); id: tech_information_environment; status: mature, ubiquitous; canonical: true; updated: 2026-04-30; type: cultural_technology; description: Describes the abundant, curated, and unreliable information environment of 2105.; lines: 113; xrefs: 0; canonical: true
+        - tech_misty_ai.md - name: {Misty} — ESA Vessel AI, Mistral Heritage; id: tech_misty_ai; status: canonical; updated: 2026-08-19; type: technology_specification; description: Profile of {Misty}, the Mistral-based French AI running aboard the Victoria and other ESA vessels — obsessed with sensory experience, tending plants, baking bread, making wine, and noticing everything about you.; lines: 281; xrefs: 4; canonical: false; chars: misty_ai
+        - tech_modular_pod_canisters.md - name: Modular Pod / Canister System; id: tech_modular_pod_canisters; status: canonical; canonical: true; updated: 2026-06-16; type: technology_concept; description: Describes standardized modular pods used for flexible habitation and infrastructure construction.; lines: 75; xrefs: 0; canonical: true
+        - tech_never_never_transit.md - name: Never-Never Transit — Dimensional Transportation; id: tech_never_never_transit; status: theoretical_to_emerging; canonical: true; updated: 2026-05-31; type: emerging_transit_technology; description: Details on Never-Never transit technology, its mechanics, and rediscovery phases.; lines: 142; xrefs: 0; canonical: true
+        - tech_nuclear_ferries.md - name: Nuclear Ferry System; id: tech_nuclear_ferries; status: operational_recent; canonical: true; updated: 2026-04-28; type: mars_to_belt_transit_infrastructure; description: Describes Mars-based nuclear ferries transporting cargo and people to the asteroid belt.; lines: 101; xrefs: 0; canonical: true
+        - tech_origin_logistics.md - name: Origin Logistics — Interstellar Consumer Fulfillment; id: tech_origin_logistics; status: staged_draft; canonical: false; updated: 2026-07-19; type: technology; description: >; lines: 179; xrefs: 7; canonical: false; open_decisions: 2; chars: jace_apollo, maureen
+        - tech_seek_ai.md - name: {Seek} — Chinese State AI System; id: tech_seek_ai; status: canonical; updated: 2026-06-18; type: technology_specification; description: Profile of {Seek}, the Chinese government compliance and surveillance AI running on Fortuna Station — its architecture, its grip on the Chinese mining crew, its breakdown when comms cut, and the liberation that follows.; lines: 275; xrefs: 2; canonical: false; chars: seek_ai, penny_ai
+        - tech_sleep_masks.md - name: Sleep Mask Scrubbers; id: tech_sleep_masks; status: canonical; canonical: true; updated: 2026-08-14; type: technology; description: >; lines: 124; xrefs: 6; canonical: true; chars: jace_apollo, sophia_lotte, cerberus, dog_siren, helena
+        - tech_space_materials_and_fabrication.md - name: Space Materials and Fabrication; id: tech_space_materials_and_fabrication; status: canonical; canonical: true; updated: 2026-06-30; type: industrial_technology; description: Story bible entry for space-rated materials, fabrication processes, drone repair, and vacuum-environment engineering practices.; lines: 490; xrefs: 0; canonical: true
+    - templates/
+        - concept-template.md - name: [Concept Name]; id: concept_[unique_slug]; status: [emerging | established | declining | extinct | revived | suppressed | contested]; canonical: [true | false]; type: [philosophy | religion | phenomenon | political_idea | cultural_practice | scientific_theory | belief_system | language | art_form | tradition]; description: Template for documenting complex fictional concepts, beliefs, and systems within a world.; lines: 93; xrefs: 0; canonical: [true | false]
+        - faction-template.md - name: [Faction Name]; id: faction_[unique_slug]; status: [active | dissolved | exiled | underground | reformed | ascendant | declining]; type: [political_state | corporation | military | religious | cultural | criminal | academic | tribal | informal_network]; description: Template structure for detailing a fictional group's history, culture, and political standing.; lines: 104; xrefs: 0; canonical: false
+        - location-template.md - name: [Location Name]; id: location_[unique_slug]; status: [thriving | abandoned | ruined | hidden | contested | inaccessible | newly_discovered]; type: [planet | moon | asteroid | station | city | district | building | wilderness | region | virtual]; description: Template structure defining comprehensive details for any fictional location or setting.; lines: 107; xrefs: 0; canonical: false
+        - magic-system-template.md - name: [Magic System Name]; id: magic_[unique_slug]; canonical: [true | false]; type: [innate | learned | external | divine | technological | hybrid]; description: Template for defining a comprehensive fictional magic system's rules and lore.; lines: 108; xrefs: 0; canonical: [true | false]
+        - system_character_sheets.md - name: Character Progression Sheets — System and Conventions; id: system_character_sheets; status: canonical; canonical: true; updated: 2026-06-26; type: kb_system; description: >; lines: 310; xrefs: 4; canonical: true
+        - technology-template.md - name: [Technology Name]; id: tech_[unique_slug]; status: [emerging | mainstream | declining | obsolete | banned | classified]; canonical: [true | false]; type: [propulsion | weapon | medical | computing | communication | construction | life_support | augmentation | infrastructure | other]; description: Template for detailing a fictional piece of advanced technology's specifications and history.; lines: 109; xrefs: 0; canonical: [true | false]
+    - timeline/
+        - outbreak_timeline.md - name: The Outbreak — Chronological Timeline of Magic's Return; id: outbreak_timeline; status: working draft; canonical: true (phases and structure); partial (specific scene details); updated: 2105-04-22; type: timeline; description: Chronological timeline detailing the gradual return and manifestation of magic in space, centered around Adama Station and Fortuna Station.; lines: 252; xrefs: 7; canonical: true (phases and structure); partial (specific scene details); chars: sister_artemis
+        - scenes_temporal_map.md - name: Master Scenes Temporal Map; id: scenes_temporal_map; status: working draft (Book 1, early chapters); canonical: true; updated: 2105-03-16; type: chronology_index; description: Chronological index mapping all scenes, dates, and character continuity for the book's timeline.; lines: 542; xrefs: 0; canonical: true
+        - timeline_book01_incursions.md - name: Book 1 — Incursions Sub-Timeline (Falcon Crisis, China Withdrawal, Helena); id: timeline_book01_incursions; status: working draft — MERGE INTO timeline_master.md / outbreak_timeline.md; canonical: working; updated: 2026-08-19; type: timeline; description: Timeline detailing events during the Falcon transit, covering plot crises and character arcs.; lines: 72; xrefs: 0; canonical: working
+        - timeline_disclosure_political_response.md - name: The Disclosure Crisis — Political and Military Response; id: timeline_disclosure_political_response; status: working draft; canonical: true (structure) / partial (specific scene placement); updated: 2026-07-12; type: timeline; description: >; lines: 165; xrefs: 9; canonical: true (structure) / partial (specific scene placement)
+        - timeline_dungeon_accretion_and_reopening.md - name: Dungeon Accretion and Reopening Timeline; id: timeline_dungeon_accretion_and_reopening; status: draft; canonical: false; type: timeline; description: >; lines: 107; xrefs: 0; canonical: false
+        - timeline_master.md - name: Master Timeline; id: timeline_master; status: working draft; canonical: true; updated: 2026-08-13; type: chronology; description: Canonical chronology detailing major universal events from deep past to present day.; lines: 228; xrefs: 0; canonical: true
+    - universe-spec/
+        - concept_ai_seams.md - name: AI Seams — Soft-Hacking, Profile-Splitting, and Surveillance Blind Spots; id: concept_ai_seams; status: staged_draft; canonical: false; updated: 2026-07-19; type: concept; description: >; lines: 84; xrefs: 7; canonical: false; chars: jace_apollo, sophia_lotte, mei, suzi
+        - concept_aura_ai_system.md - name: Aura — The Distributed AI System; id: concept_aura_ai_system; status: established canon; canonical: true; updated: 2026-06-26; type: universe_spec; description: Technical specification for {Aura}, a distributed, personal AI runtime environment system.; lines: 130; xrefs: 4; canonical: true; chars: eugene
+        - concept_mil_ex_implants.md - name: MilX — Military Implant Systems and the Implant Ecosystem; id: concept_mil_ex_implants; status: established canon; canonical: true; updated: 2026-08-13; type: universe_spec; description: Details military implant systems, consumer tech, and their differing capabilities in 2105.; lines: 234; xrefs: 3; canonical: true; chars: jace_apollo
+        - concept_military_address_culture.md - name: Military Address Culture (USAF/Space Force, Mars Era); id: concept_military_address_culture; status: established; canonical: true; updated: 2026-05-02; type: cultural_phenomenon; description: Canonical guide detailing military address conventions for USAF and Space Force personnel on Mars.; lines: 93; xrefs: 3; canonical: true; chars: lt_rich_cullivan, jace_apollo
+        - concept_resource_scarcity.md - name: Belt Resource Scarcity and Selection Pressure; id: concept_resource_scarcity; status: established (story present onward); canonical: true; updated: 2026-04-30; type: cultural_phenomenon; description: Guiding rules defining the belt resource scarcity regime of abundant raw materials and scarce processed goods.; lines: 120; xrefs: 1; canonical: true
+        - cosmology.md - id: spec_cosmology; status: foundational; canonical: true; updated: 2026-06-25; description: Cosmological foundations: Vela Junior, the Scar, the resonance flood, and the Reopening.; lines: 540; xrefs: 6; canonical: true
+        - legacy_lexicon_and_rulebook_reconciliation.md - name: Legacy Lexicon & Physics-Rulebook Reconciliation; id: spec_legacy_lexicon_reconciliation; status: reconciliation (folds the retired "Physics and Metaphysics Rulebook" project bible); canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision; updated: 2026-06-24; type: foundational_reference; description: Reconciles old physics rulebook terminology and mechanics with current universe canon specifications.; lines: 75; xrefs: 6; canonical: partial — vocabulary canonical-as-alternate; flagged items need author decision
+        - physics-and-magic-interaction.md - id: spec_physics_magic_interaction; status: foundational; canonical: true; updated: 2026-07-14; description: Defines hard rules for how magic interacts with established physical laws and reality.; lines: 182; xrefs: 2; canonical: true
+        - spec_astral_glow_and_signatures.md - name: Astral Glow, Thought Signatures, and Working Detection; id: spec_astral_glow_and_signatures; status: canonical; canonical: true; updated: 2026-07-04; type: universe_spec; description: >; lines: 408; xrefs: 7; canonical: true; chars: sophia_lotte, jace_apollo, kael
+        - spec_astral_phenomenology.md - name: The Astral — Physical Properties and Perceptual Experience; id: spec_astral_phenomenology; status: canonical; canonical: true; updated: 2026-08-18; type: foundational_phenomenology; description: Technical specification detailing the physical properties and perception of the Astral dimension.; lines: 280; xrefs: 0; canonical: true
+        - spec_audiobook_narration_style.md - name: Audiobook Narration Prose Style; id: spec_audiobook_narration_style; status: canonical; updated: 2026-08-13; type: prose_style; description: >; lines: 26; xrefs: 0; canonical: false
+        - spec_belt_transport_and_economy.md - name: Frontier Belt Transport System and Economy; id: spec_belt_transport_and_economy; canonical: true; updated: 2026-06-16; type: universe_spec; description: Details the modular transport system and economy of the asteroid belt.; lines: 239; xrefs: 1; canonical: true
+        - spec_chapter_epigraphs.md - updated: 2026-07-15; lines: 128; xrefs: 0; canonical: false
+        - spec_cognitive_layer.md - name: The Cognitive Layer — Structure, Storage, and Addressing; id: spec_cognitive_layer; status: canonical; canonical: true; updated: 2026-07-14; type: universe_spec; description: >; lines: 315; xrefs: 10; canonical: true; chars: kael
+        - spec_crossing_mechanics.md - name: Dimensional Crossing — Costs, Accidents, and the AI Discovery; id: spec_crossing_mechanics; status: canonical; canonical: true; updated: 2026-08-17; type: foundational_mechanics; description: Details the mechanical costs and limitations of traversing dimensions in the Never-Never.; lines: 445; xrefs: 1; canonical: true
+        - spec_dimensional_travel_mechanics.md - name: Dimensional Travel — Complete Mechanics Reference; id: spec_dimensional_travel_mechanics; status: canonical; canonical: true; updated: 2026-07-14; type: foundational_mechanics; description: >; lines: 943; xrefs: 8; canonical: true
+        - spec_dungeon_anchor_mechanics.md - name: Dungeon Anchor Mechanics; id: spec_dungeon_anchor_mechanics; status: draft; canonical: false; type: universe_spec; description: >; lines: 120; xrefs: 0; canonical: false
+        - spec_dungeon_cognitive_evolution.md - name: Dungeon Cognitive Evolution; id: spec_dungeon_cognitive_evolution; status: draft; canonical: false; type: universe_spec; description: >; lines: 144; xrefs: 0; canonical: false
+        - spec_dungeon_entry_and_interface.md - name: Dungeon Entry, Abduction, and Interface Mechanics; id: spec_dungeon_entry_and_interface; status: draft; canonical: false; type: universe_spec; description: >; lines: 108; xrefs: 0; canonical: false
+        - spec_dungeon_systems.md - name: Dungeon Systems - Architecture, History, and Modern Behavior; id: spec_dungeon_systems; status: draft; canonical: false; type: universe_spec; description: >; lines: 270; xrefs: 0; canonical: false
+        - spec_magic_items_and_artifacts.md - name: Magic Items and Artifacts — System Specification; id: spec_magic_items_and_artifacts; status: canonical; canonical: true; updated: 2026-06-30; type: universe_spec; description: >; lines: 307; xrefs: 7; canonical: true; chars: kael
+        - spec_scar_clearing_mechanics.md - name: The Scar — Clearing Mechanics, Breach Zones, and the Scout Protocol; id: spec_scar_clearing_mechanics; status: canonical; canonical: true; updated: 2026-07-14; type: foundational_cosmology_detail; description: Details the dimensional instability, clearing mechanics, and membrane model of The Scar.; lines: 318; xrefs: 2; canonical: true
+        - spec_threat_escalation.md - name: Astral Threat Escalation — The Leveling Arc; id: spec_threat_escalation; status: working draft; canonical: true; updated: 2026-06-03; type: narrative_mechanics; description: Describes the escalating threat level in the Astral dimension based on human magical capability.; lines: 169; xrefs: 0; canonical: true
+        - spec_will_bonded_animals.md - name: Will-Bonded Animals — Universal Law and Mechanics; id: spec_will_bonded_animals; status: canon; canonical: true; updated: 2026-06-21; type: universe_spec; description: >; lines: 135; xrefs: 0; canonical: true
+    - VISUAL_PROFILE_SYSTEM_INSTRUCTIONS.md - name: Visual Profile System Instructions; id: visual_profile_system_instructions; status: canonical; updated: 2026-07-27; type: system_instruction; lines: 441; xrefs: 8; canonical: false
+    - visual_profiles/
+        - _visual_profile_gaps_2026-08-15.md - name: Visual Profile Gap Audit — Ch00-20 Speaking Cast; id: visual_profile_gaps_2026_08_15; status: open; updated: 2026-08-15; type: audit; description: >; lines: 88; xrefs: 3; canonical: false
+        - visual_profile_cerberus_and_siren.md - name: Visual Profile — Cerberus & Siren; id: visual_profile_cerberus_and_siren; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 248; xrefs: 3; canonical: false; chars: cerberus, dog_siren
+        - visual_profile_fortuna_station.md - name: Visual Profile — Fortuna Station; id: visual_profile_fortuna_station; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 374; xrefs: 3; canonical: false
+        - visual_profile_jace_apollo.md - name: Visual Profile — Jace Apollo Grant; id: visual_profile_jace_apollo; status: good; updated: 2026-07-14; type: visual_profile; description: >; lines: 348; xrefs: 4; canonical: false; chars: jace_apollo
+        - visual_profile_jin_long.md - name: Visual Profile — Jin Lóng; id: visual_profile_jin_long; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 235; xrefs: 2; canonical: false; chars: jin_luong
+        - visual_profile_kael.md - name: Visual Profile — Kael; id: visual_profile_kael; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 349; xrefs: 3; canonical: false; chars: kael
+        - visual_profile_nick_lee.md - name: Visual Profile — Nick Lee; id: visual_profile_nick_lee; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 238; xrefs: 2; canonical: false; chars: nick_lee
+        - visual_profile_ship_falcon.md - name: Visual Profile — The Falcon; id: visual_profile_ship_falcon; status: good; updated: 2026-07-14; type: visual_profile; description: >; lines: 361; xrefs: 4; canonical: false; chars: maureen, jace_apollo, mei
+        - visual_profile_sophia_lotte.md - name: Visual Profile — Sophia Lotte; id: visual_profile_sophia_lotte; status: good; updated: 2026-06-30; type: visual_profile; description: >; lines: 237; xrefs: 3; canonical: false; chars: sophia_lotte
+        - visual_profile_suzi.md - name: Visual Profile — Suzi Gonzales; id: visual_profile_suzi; status: partial; updated: 2026-08-15; type: visual_profile; description: >; lines: 106; xrefs: 4; canonical: false; chars: suzi
+- LICENSE
+- README-STORYOPS.md - lines: 508; xrefs: 0; canonical: false
+- README.md - lines: 89; xrefs: 0; canonical: false
+- requirements.txt
+- scenes/
+    - chapter_text/
+- SETUP.md - lines: 51; xrefs: 0; canonical: false
+- site/
+    - app.js
+    - index.html
+    - style.css
+- tests/
+    - __pycache__/
+        - test_artifact_generators.cpython-314-pytest-9.1.1.pyc
+        - test_build_tree_chapter_text.cpython-314-pytest-9.1.1.pyc
+        - test_charts_generation.cpython-314-pytest-9.1.1.pyc
+        - test_storybot_edge_cases.cpython-314-pytest-9.1.1.pyc
+        - test_storybot_generation.cpython-314-pytest-9.1.1.pyc
+        - test_storyops_consistency.cpython-314-pytest-9.1.1.pyc
+    - test_artifact_generators.py
+    - test_build_tree_chapter_text.py
+    - test_charts_generation.py
+    - test_storybot_edge_cases.py
+    - test_storybot_generation.py
+    - test_storyops_consistency.py
+- tools/
+    - storyops/
+        - __init__.py
+        - __pycache__/
+            - __init__.cpython-314.pyc
+            - artifact_exporter.cpython-314.pyc
+            - artifact_generators.cpython-314.pyc
+            - chapter_generator.cpython-314.pyc
+            - chapter_planner.cpython-314.pyc
+            - chapter_weaver.cpython-314.pyc
+            - importer.cpython-314.pyc
+            - load_generation_queue.cpython-314.pyc
+            - scene_assembler.cpython-314.pyc
+            - status_reporter.cpython-314.pyc
+            - version_manager.cpython-314.pyc
+        - agents/
+            - __init__.py
+            - __main__.py
+            - __pycache__/
+                - __init__.cpython-314.pyc
+                - __main__.cpython-314.pyc
+                - deterministic_review_agent.cpython-314.pyc
+                - linter_proposal_agent.cpython-314.pyc
+                - load_agents.cpython-314.pyc
+            - deterministic_review_agent.py
+            - linter_proposal_agent.py
+            - load_agents.py
+        - artifact_exporter.py
+        - artifact_generators.py
+        - chapter_generator.py
+        - chapter_planner.py
+        - chapter_weaver.py
+        - common/
+            - __init__.py
+            - __pycache__/
+                - __init__.cpython-314.pyc
+                - config.cpython-314.pyc
+                - frontmatter.cpython-314.pyc
+                - git_utils.cpython-314.pyc
+                - jsonl.cpython-314.pyc
+                - llm.cpython-314.pyc
+                - markdown.cpython-314.pyc
+                - paths.cpython-314.pyc
+                - reports.cpython-314.pyc
+                - story_logger.cpython-314.pyc
+            - config.py
+            - frontmatter.py
+            - git_utils.py
+            - jsonl.py
+            - llm.py
+            - markdown.py
+            - paths.py
+            - reports.py
+            - story_logger.py
+        - generate/
+            - __init__.py
+            - __main__.py
+            - __pycache__/
+                - __init__.cpython-314.pyc
+                - __main__.cpython-314.pyc
+                - artifact_generators.cpython-314.pyc
+                - chapter_generator.cpython-314.pyc
+                - load_generation_queue.cpython-314.pyc
+            - artifact_generators.py
+            - chapter_generator.py
+            - load_generation_queue.py
+        - importer.py
+        - lint/
+            - __init__.py
+            - __main__.py
+            - __pycache__/
+                - __init__.cpython-314.pyc
+                - __main__.cpython-314.pyc
+                - finding.cpython-314.pyc
+                - registry.cpython-314.pyc
+                - runner.cpython-314.pyc
+            - finding.py
+            - profiles.py
+            - registry.py
+            - rule_context.py
+            - rules/
+                - __init__.py
+                - __pycache__/
+                    - __init__.cpython-314.pyc
+                - audio/
+                    - __init__.py
+                    - __pycache__/
+                        - __init__.cpython-314.pyc
+                        - dialogue_attribution.cpython-314.pyc
+                    - dialogue_attribution.py
+                - continuity/
+                    - __init__.py
+                    - __pycache__/
+                        - __init__.cpython-314.pyc
+                        - broken_cross_references.cpython-314.pyc
+                        - missing_frontmatter.cpython-314.pyc
+                    - broken_cross_references.py
+                    - missing_frontmatter.py
+                - fiction/
+                    - __init__.py
+                    - __pycache__/
+                        - __init__.cpython-314.pyc
+                        - dialogue_speaker_tags.cpython-314.pyc
+                    - dialogue_speaker_tags.py
+                - interactive/
+                    - __init__.py
+                    - __pycache__/
+                        - __init__.cpython-314.pyc
+                        - html_safety.cpython-314.pyc
+                    - html_safety.py
+                - prose/
+                    - __init__.py
+                    - __pycache__/
+                        - __init__.cpython-314.pyc
+                        - paragraph_length.cpython-314.pyc
+                        - repeated_words.cpython-314.pyc
+                        - sentence_length.cpython-314.pyc
+                    - paragraph_length.py
+                    - repeated_words.py
+                    - sentence_length.py
+            - runner.py
+        - load_generation_queue.py
+        - local_runner/
+            - __init__.py
+            - __main__.py
+            - __pycache__/
+                - __init__.cpython-314.pyc
+                - __main__.cpython-314.pyc
+                - poll_and_run.cpython-314.pyc
+            - poll_and_run.py
+        - observe/
+            - __init__.py
+            - __main__.py
+            - __pycache__/
+                - __init__.cpython-314.pyc
+                - __main__.cpython-314.pyc
+                - build_charts.cpython-314.pyc
+                - build_inventory_report.cpython-314.pyc
+                - build_progress_log.cpython-314.pyc
+                - build_story_state.cpython-314.pyc
+                - scan_repo.cpython-314.pyc
+            - build_charts.py
+            - build_inventory_report.py
+            - build_progress_log.py
+            - build_story_state.py
+            - scan_repo.py
+        - publish/
+            - __init__.py
+            - __main__.py
+            - __pycache__/
+                - __init__.cpython-314.pyc
+                - __main__.cpython-314.pyc
+                - build_site_data.cpython-314.pyc
+            - build_site_data.py
+        - scene_assembler.py
+        - status_reporter.py
+        - version_manager.py
+- visualizers/
+    - shared/
+        - css/
+            - components.css
+            - theme.css
+        - js/
+            - canvas-utils.js
+            - physics-utils.js
+            - ui-utils.js
+    - station_sim/
+        - css/
+            - station.css
+        - index.html
+        - js/
+            - constants.js
+            - disasters.js
+            - entities.js
+            - game.js
+            - main.js
+            - physics.js
+            - renderer.js
+            - state.js
+            - ui.js
+        - package.json
+        - README.md - lines: 45; xrefs: 0; canonical: false
+        - tests/
+            - entities.test.js
+            - physics.test.js
+            - test-runner.html
+            - test-utils.js
+
+---
+
+## Warnings
+
+### Draft and Staging Files
+These files were marked as draft or have non-canonical status and should not be treated as finalized:
+
+- `knowledge\MASTER-SYNOPSIS.md`
+- `knowledge\arcs\arc_01_falcon_and_fortuna.md`
+- `knowledge\arcs\arc_01_thread_A_arrival.md`
+- `knowledge\arcs\arc_01_thread_L_life_texture.md`
+- `knowledge\arcs\arc_01_thread_N_nick_ai.md`
+- `knowledge\arcs\arc_01_thread_P_pressure.md`
+- `knowledge\arcs\arc_01_thread_S_swarm.md`
+- `knowledge\arcs\arc_01_thread_T_transit.md`
+- `knowledge\arcs\arc_01_thread_X_astral.md`
+- `knowledge\arcs\arc_02_woven_and_unbound.md`
+- `knowledge\arcs\arc_03_the_return_and_the_trap.md`
+- `knowledge\arcs\arc_04_the_bloom.md`
+- `knowledge\arcs\arc_05_the_reckoning.md`
+- `knowledge\locations\fortuna_station_population_neighborhoods.md`
+- `knowledge\locations\location_belt_visual_prompt_library.md`
+- `knowledge\locations\location_mars_livestock_farm.md`
+- `knowledge\locations\location_mars_visual_prompt_library.md`
+- `knowledge\locations\location_terminus.md`
+- `knowledge\locations\location_the_long_burn_bar.md`
+- `knowledge\scenes\event_helena_epilogue.md`
+- `knowledge\scenes\event_helena_prologue.md`
+- `knowledge\scenes\non-canonical-ideas\book01-opening-notes.md`
+- `knowledge\scenes\scene_notes_ai_interactions.md`
+- `knowledge\scenes\scene_notes_x09b_composition_question.md`
+- `knowledge\scenes\scene_notes_x09c_what_else_she_can_do.md`
+- `knowledge\scenes\scene_notes_x09d_moving_house.md`
+- `knowledge\scenes\scene_notes_x09e_sparky_comes_across.md`
+- `knowledge\technology\tech_eagle_ai.md`
+
+### Orphaned Files
+These files are not referenced by any other file's `cross_references`. They may be disconnected from the KB graph:
+
+- `AI_INSTRUCTIONS`
+- `CLAUDE_PROJECT_INSTRUCTIONS`
+- `CONTEXT`
+- `SETUP`
+- `_image_manifest`
+- `_visual_profile_gaps_2026-08-15`
+- `addition_new_doctor_memory_mention`
+- `agents`
+- `book01-opening-notes`
+- `book01_ch001_storybot_v2`
+- `draft_ch06_the_spire`
+- `draft_ch08_settling_in`
+- `draft_ch12_awakening`
+- `draft_ch13_woman_who_wasnt_glowing`
+- `falcon_animal_manifest_book1`
+- `image_generation_agent_prompt`
+- `knowledge_inventory`
+- `lint-summary`
+- `metadata_template_guide`
+- `open_questions_ch20_21_revision`
+- `open_questions_ch20_22_revision_v2`
+- `open_questions_jin_room_sophia_v1`
+- `open_questions_material_seeds`
+- `open_questions_materials_spec_v1`
+- `review_queue`
+- `system_character_sheets_skill_format`
+- `v001`
+- `v001_audiobook`
+- `v001_graphic_novel`
+- `v002`
+- `voice_char_jin_luong`
+- `voice_char_lanchee`
+- `voice_char_mei`
+- `voice_char_sister_artemis`
+- `voice_char_torres`
+
