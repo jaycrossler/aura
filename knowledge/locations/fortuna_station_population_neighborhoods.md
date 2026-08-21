@@ -65,7 +65,49 @@ Fortuna is overwhelmingly working-age, with a small but visible child population
 
 Children total: about 43.
 
-Children matter socially because they prove the station is becoming a home rather than a work camp. Every school performance, animal birth, and youth certification feels larger than it would on Earth.
+## Culture, Style, and Earth-Facing Channels
+
+Fortuna's population is drawn from far more of Earth than the station's
+American/Chinese political framing suggests. Origin's contract labor pipeline
+and the Chinese leasehold cover the loudest political axis on the customs
+murals, but the actual workforce includes significant Indian, Arab,
+Sub-Saharan African, and Latin American representation — engineers,
+medics, agricultural specialists, and skilled trades recruited through
+sub-contracts, exchange programs, and the belt's chronic shortage of
+qualified hands. Chinatown is the most visible single-heritage district, but
+it is not the only one; smaller, less formalized clusters of shared language,
+food, and worship exist throughout Ring Two and the Inter-Ring City without
+their own named neighborhood.
+
+Personal style runs more expressive than a "hard frontier" stereotype would
+suggest. Tattoos are common and rarely hidden — sleeve work, script, family
+names, mission patches from prior postings. Bold color shows up in coveralls
+customized past their factory gray, in wraps and jewelry worn under or over
+work gear, in makeup worn for a shift the same as for a night out, because
+the distinction between the two matters less when everyone already knows
+everyone. Fortuna reads less like a uniform colony and more like a small,
+opinionated city that happens to be inside a rotating can.
+
+### Earth-Facing Channels
+
+A meaningful minority of residents run some kind of channel back to Earth —
+daily-life vlogs, technical explainers, cooking streams from the Barn or a
+personal plot, the pig-and-goat livestream that became genuinely famous
+station-wide (see the Barn's animal-culture entry). Bandwidth is expensive and
+comms lag makes anything live impossible past low Mars orbit, so most content
+is recorded, batched, and uploaded on the ferry schedule or during scheduled
+high-bandwidth windows. A working channel is a real, if unreliable, income
+supplement — station gossip tracks who's "monetizing" and who's doing it for
+free, and resentment of successful channels is a minor but real undercurrent
+in Ring Two social life.
+
+CAN invent: specific channel names, follower counts, minor influencer
+personalities, and the content of any individual channel.
+
+SHOULD NOT invent: a channel replacing or contradicting the established Pig
+Channel's canonical role in the swarm-battle broadcast, or channel income at a
+scale that meaningfully changes the station's financial pressure without
+explicit author approval.
 
 ## Employment and Labor Structure
 

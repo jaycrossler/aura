@@ -483,6 +483,12 @@ Apollo: Aura says uncertainty is not ignorance.
 
 Athena: Your AI has learned to enable you.
 
+Jace hadn't seen Hayes at the table in three mornings.
+
+He'd told himself it was nothing — Hayes disappeared for a day here and there, visited an old crew friend on Ring One, slept off a Long Burn night. But three mornings was new, and Cerberus had started sitting in front of the empty chair anyway, out of habit or something less explainable, and Jace had started noticing that he noticed.
+
+He put it aside. There was a station to search.
+
 They did not search every room.
 
 Jace suggested it first. Sophia refused before he finished the sentence. Lanchee refused again after he revised it. Nick added a third refusal in writing and attached a station privacy ordinance that did not contemplate adjacent dimensions but applied well enough to make the point.
@@ -498,6 +504,10 @@ Lanchee supplied de-identified medical trends whose patients had authorized rese
 The goat came first.
 
 
+
+The Barn's outer ring held the personal plots — a meter of dirt per household who wanted one, chicken-wire dividers, hand-lettered name tags gone soft with humidity. Fatima Otieno's coriander had bolted early and gone to seed again. Diego Reyes-Almeida grew chili peppers nobody else could eat and sold the survivors at the Forge Market for absurd prices. Someone's marigolds had colonized two plots over without anyone objecting. Jace had never planted anything. Cerberus had opinions about the fence line and expressed them regularly.
+
+Mei was already at the goat enclosure when they arrived, sleeves pushed up, a thin gold hoop through one nostril catching the grow-lights.
 
 She had stopped eating six days earlier.
 
@@ -577,7 +587,7 @@ The three personal Aura nodes occupied a maintenance rack in Ring One.
 
 Their owners had reported sluggish responses, excess heat, and battery loss. Each node passed hardware diagnostics. Each software stack reported normal workload. Nick had replaced batteries, cooling strips, and two interface boards without changing the pattern.
 
-"They are not large systems," Nick said. "One runs a shop schedule and translation model. One handles a family archive. One belongs to a retired surveyor who mostly asks it to identify birds in old Earth videos."
+"They are not large systems," Nick said. "One runs a shop schedule and translation model — Priya's, for the dumpling counter, so don't let it go down before lunch. One handles a family archive for the Nunez-Oyelaran household, three generations of video nobody's watched since the move. One belongs to a retired surveyor who mostly asks it to identify birds in old Earth videos."
 
 "What do they share?" Sophia asked.
 
@@ -723,6 +733,50 @@ Seek's processing load exceeded the three personal nodes by several orders of ma
 
 No one answered.
 
+
+
+Jace checked in on Hayes between the rack and the next lead, mostly to prove himself wrong.
+
+Erin hadn't seen him. Neither had the noodle counter, the Barn, or Ring One's biscuit vendor, who knew Hayes by his order and hadn't filled it in four days. Jace's stomach did something unpleasant.
+
+He knocked. No answer. He knocked harder.
+
+Sophia found him still standing at the door, hand flat against it like he could feel through the metal.
+
+"Cross with me," he said. "Now."
+
+They didn't wait for authorization.
+
+Hayes lay on his bunk, one arm thrown off the edge, unmoving. His color was bad. His breathing was shallow and too even, the rhythm of a body running on the smallest possible program.
+
+Sophia checked him the way they'd checked every other lead that day — for the dark folded shape, the pulsing tendrils.
+
+Nothing.
+
+"No tick," she said. "Nothing feeding."
+
+That was worse, somehow. A tick was a problem they understood.
+
+Jace crossed fully and found the wrongness without needing Sparky's cameras to confirm it. Hayes's left arm didn't read right in the Astral — the light of him should have run down to the fingers in one continuous line, and instead it folded back on itself partway down, doubled and knotted, like something had briefly existed in a space where inside and outside meant something different and then snapped back wrong.
+
+He hadn't been attacked.
+
+He'd done this to himself. Alone. However he'd been trying to do it.
+
+"He needs Lanchee," Jace said. "Now. Whatever this is, it isn't a bite."
+
+They got him out through the service corridor rather than wait for an escort, Sophia clearing the path, Jace carrying more of Hayes's weight than he expected an old man to have. Cerberus paced beside them the whole way, not barking, just present.
+
+Lanchee met them at the clinic door already reading vitals off Jace's shared feed.
+
+"Traumatic injury," she said, ten minutes later, quiet and precise, the way she got when she was choosing not to say the other words available to her. "Left arm. I don't have a mechanism. I have a shape that shouldn't exist outside a compound fracture and no fracture."
+
+"He's not going to lose it?" Jace asked.
+
+"He already has, functionally. Whether it stays attached is a different question." She looked at Jace for a beat too long. "Whatever the two of you have been doing. This is not new to me anymore, is it."
+
+Jace didn't answer, which was an answer.
+
 The server location sat inside the Chinese Ring Three leasehold, near the unlisted silver-clad room. Jin's crew remained away on its unscheduled survey run. Physical access required an escort or written approval.
 
 Astral access would violate every rule they had written.
@@ -750,3 +804,9 @@ That was not the same as Nick being wrong.
 On the clinic map, three cleared marks glowed green: the miner, the goat, and the maintenance rack.
 
 Ring Three remained amber.
+
+"That's four systems this week," Jace said. "Seek's sync, the reflector clocks, Misty's load spikes, and now this. It's not four problems. It's getting to be a pattern and nobody with the access to look is looking."
+
+"Then we get someone with access to look," Sophia said.
+
+Nick didn't answer. He was already drafting the request for a third inspection, and from the set of his jaw, he didn't expect it to be granted any faster than the first two.

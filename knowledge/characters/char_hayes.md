@@ -3,9 +3,9 @@ id: char_hayes
 name: Hayes
 aliases: ["the old man", "the man at the table"]
 type: character
-status: alive (medbay — unconscious, then recovering; permanently left-handed)
+status: alive (medbay — unconscious, then recovering; permanently left-handed); present and active at the swarm battle (S-01)
 first_appearance: A-01 — Jace's first morning at Erin's inn
-last_updated: 2026-06-28
+last_updated: 2026-08-21
 description: >
   Retired Fortuna Station construction worker. Ethnically indeterminate, expressive
   voice that can imitate machines and people with unnerving accuracy. Feeds Cerberus
@@ -115,8 +115,11 @@ do when an old man starts saying he sees things.
 
 ### The Wrongness — Medbay Beat
 
-Approximately at the X-04/X-05 junction of the arc, Hayes does not appear at his
-table. Cerberus sits down in front of his empty chair and looks at Jace.
+During Chapter 26 (the tick sweep), Hayes does not appear at his table for
+three mornings running. Cerberus sits down in front of his empty chair and
+looks at Jace. The team finds him mid-sweep, checking his room on the
+assumption a tick has gotten to him — it hasn't. What they find is worse:
+he did this to himself, alone, still trying.
 
 {Alex} reports that Hayes is in the medical bay. This information is delivered
 cheerfully and accompanied by an offer to purchase a premium care-package for
@@ -155,6 +158,22 @@ corner of a biscuit with his remaining hand. He doesn't say anything for a while
 He eventually says that he misses Josephine.
 
 He does not say anything about his arm. Jace does not ask.
+
+### The Swarm (S-01) — Not Deferred to Arc 2
+
+**Author ruling, 2026-08-21:** Hayes's ability is no longer held back for a
+Kael assessment in Arc 2. Whatever he was privately attempting in his pod
+becomes relevant during the swarm battle itself — he has a real part to play
+in S-01, not just a recovery-arc cameo. The specific mechanic is still open
+(see Open Decisions below), but the *placement* is now settled: this is an
+Arc 1 payoff, on-page, during the climax.
+
+This raises the stakes of his injury retroactively — he isn't just an old man
+who hurt himself; he's someone who kept trying, in secret, and the thing he
+was reaching for turns out to matter when it counts. Recommend drafting his
+specific S-01 contribution alongside Kim's proposed migraine/Will-spear beat
+and Mira's summoning beat — see the new candidate line added to
+`arc_01_thread_S_swarm.md`.
 
 ---
 
@@ -200,15 +219,18 @@ blundering in ways that are also punishments.
 
 ## Open Decisions
 
-- What specific Will ability was Hayes manifesting? (Candidates: a form of [Force
-  Application] at the most basic level; involuntary Transfer; something more personal
-  and unnamed — author's call)
+- What specific Will ability was Hayes manifesting, and how does it manifest at
+  S-01? (Candidates: a form of [Force Application] at the most basic level;
+  involuntary Transfer; something more personal and unnamed — author's call.
+  **No longer deferred to Arc 2 — needed for the S-01 draft.**)
+- Is Hayes still one-armed and recovering during S-01, or fully healed by then?
+  Affects how his battle contribution reads (a wounded man finally succeeding
+  vs. a recovered man finally trying again).
 - Did Hayes know what Sophia was doing? (Likely not, but possible — he is very
   observant and has been on the station long enough to have noticed her deterioration
   the year prior)
-- Does Hayes appear in Arc 2? (His recovery, the quiet return, the left-hand
-  adjustment — worth considering as a brief texture beat when Kael arrives and begins
-  assessing who on the station has Will)
+- Does Hayes appear in Arc 2? (Now more likely, given his S-01 role — worth
+  revisiting once his battle contribution is drafted.)
 
 ## Revision Notes
 

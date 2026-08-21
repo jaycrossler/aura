@@ -1,13 +1,14 @@
 ---
 
 
+
 id: arc_01_thread_S_swarm
 name: "Arc 1 — Thread S: Swarm and Closing"
 type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
   Scene contracts for Thread S — the swarm attack and Arc 1's closing beats.
   Migrated out of arc_01_falcon_and_fortuna.md during the thread-split restructure.
@@ -67,6 +68,14 @@ cross_references:
 - Kim is attacked in Drone Ops; her migraine suddenly stops when she "ingests a
   Will spear" and she can slice things apart at a distance — rips a group of
   cryptids to shreds, saving Carlos and herself
+- **NEW (2026-08-21) — Hayes.** His unnamed, self-taught Will ability — the one
+  that put him in the medbay during Ch26 — activates during the swarm fight.
+  Author-confirmed this is no longer deferred to Arc 2; it needs a real
+  contribution here. Mechanic and exact moment still open — candidate for the
+  same "quiet character gets one real moment" pattern as Kim's beat, but should
+  land differently in tone given Hayes's age, his injury, and his relationship
+  to Jace (see `char_hayes.md` for the full setup). Needs formalizing into a
+  contract item alongside Kim and Mira's beats.
 
 ---
 

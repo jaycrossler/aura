@@ -1615,6 +1615,14 @@ That answer hurt because the project had saved Sophia's life. It was too hard to
 
 "People have been fighting this battle for decades. The A.I. are so confident that they can run everything. We trust them. Things work. Things stop working. Disaster ensues."
 
+"I understand Human-In-Command," Jace said. "I signed the same training module you did."
+
+"You signed it. You did not do it." Kim did not raise her voice, which was worse than if she had. "Human-In-Command does not mean a person's name is attached to the model when it launches. It means you read the logs. Every shift, not the ones that flag themselves. You review the exceptions the system already resolved on its own, not only the ones it couldn't. You spot-check units that have been running clean for months, because clean for months is exactly when a person stops looking. The moment it stops feeling like work is the moment you have handed the command back to the machine without telling anyone."
+
+"I was watching for problems."
+
+"You were watching for alerts. An alert is the system telling you it already failed to prevent something. Command means you are still looking when there is nothing yet to see." She let that sit. "Complacency does not announce itself, Grant. It feels exactly like confidence, right up until the oxygen case sits in a queue for two hours."
+
 She tapped on a keyboard and removed his automation credential. On his desk, his console collapsed from systems view to a manual operator queue.
 
 "You may enter one route at a time. Carlos reviews each release. You do not write routing code. You do not let A.I. manage your work. You do not use a drone outside an assigned ticket."

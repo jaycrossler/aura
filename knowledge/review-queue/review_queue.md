@@ -3,11 +3,12 @@ id: review_queue
 name: "Dungeon Systems Merge — Open Decisions & Review Queue"
 type: review_queue
 status: open
-last_updated: 2026-07-27
+last_updated: 2026-08-21
 cross_references:
   - "[[rq_2026-07-15_book1_first_pass]]"
   - "[[review_2026-07-14_transit_rework]]"
   - "[[2026-07-19_delivery_reframe]]"
+  - "[[rq_2026-08-21_chapter24_review]]"
 ---
 
 # Dungeon Systems Merge — Open Decisions & Review Queue

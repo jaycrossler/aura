@@ -404,9 +404,15 @@ Full contracts live in the linked thread file.
 4. **Tick-Maw egg / Aldrich Horror system:** AH 0–5 progression tracked in prose
    texture, never named. Drops to 0 when Kael silently removes it during the
    planning session. Jace never learns about it in Arc 1.
-5. **Hayes's specific ability:** What was he trying to do alone in his pod? Not
-   required for Arc 1 — establish in Arc 2 when Kael assesses who on the station
-   has Will.
+5. **Hayes's specific ability — RESOLVED placement, mechanic still open
+   (2026-08-21):** What was he trying to do alone in his pod? **No longer
+   deferred to Arc 2** — author has ruled Hayes plays an active part in the
+   swarm battle (S-01), so his ability needs to be named and drafted as part
+   of that scene, not held for a later Kael assessment. The medbay discovery
+   itself has also moved: it now happens during Ch26's tick sweep (team finds
+   him while checking a false tick-lead) rather than the earlier "X-04/X-05
+   junction" placeholder. See `char_hayes.md` and the new candidate line in
+   `arc_01_thread_S_swarm.md`.
 6. **Mira's warm sphere:** Does it do anything during the swarm? Author's call.
 7. **Sophia learns about the Bloated Maw:** During Kael's Arc 2 Template assessment
    of Jace, in front of Sophia — first real fracture in the partnership.
@@ -423,6 +429,13 @@ Full contracts live in the linked thread file.
      revision. See `universe-spec/spec_astral_lightspeed_addendum.md` (pending
      merge into `spec_dimensional_travel_mechanics.md`) for the full physics
      ruling. `X-10` can now be written as more than a placeholder.
+9. **RESOLVED (2026-08-21):** Chapter 27 opens Thread V with V-01 ("The
+   Rocket"). X-05b ("The Unstable Site") is deferred and folds in later —
+   placement TBD, but confirmed to land after V-01 rather than before it. The
+   Scene Index Seq 27 entry should be updated from `X-05b` to `V-01`, and
+   `X-05b` moved to an open later slot (Ch28 candidate, or folded into a later
+   V-thread chapter using the same lidar-drone skill — author's call on the
+   exact mechanism when that chapter is drafted).
 
 ---
 

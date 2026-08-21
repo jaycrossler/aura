@@ -309,6 +309,22 @@ Examples:
 
 Sky Gardens are psychologically essential. They are humid, bright, and alive. The ceiling LEDs mimic sky, but the plants are real. People come for dates, therapy walks, school lessons, memorials, and arguments that need privacy without leaving public space.
 
+### Personal Garden Plots
+
+Both Barns maintain an outer ring of small personal plots — roughly a meter of
+growing space per household that requests one, divided by chicken-wire and
+hand-lettered name tags. Waitlists exist but turn over quickly; a plot is
+inherited, abandoned, or fought over more often than formally reassigned.
+Residents grow herbs, favorite vegetables, cut flowers, or whatever reminds
+them of home more than the Mess does. Some plots are meticulous. Some are one
+half-dead basil plant and a lot of good intentions. A handful of growers sell
+excess at the Forge Market — this is technically against station food-safety
+policy and universally ignored below a certain volume.
+
+The plots matter more than their square footage suggests: on a station where
+almost nothing is truly owned outright, a plot is one of the few things a
+resident can point to and say *mine*.
+
 ### The Tank
 
 The Tank is a recreation pool, therapy pool, and emergency water asset. It is one of the station's luxuries and one of its reserves. Public messaging emphasizes wellness. Engineers know exactly how much emergency water it represents.
