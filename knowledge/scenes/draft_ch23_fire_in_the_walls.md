@@ -41,7 +41,9 @@ cross_references:
 >
 > *Athena: Your jokes are worse than Dad's. Still nothing from Artemis?*
 
-By the following morning, the torches and armor were waiting in the Astral *Victoria*.
+By the following evening, the torches and armor were waiting in the Astral *Victoria*.
+
+They ate a quick dinner, Cerberus overjoyed at having all of his favorite humans in the same room.
 
 The first person Jace and Sophia tried to pull across was Nikos.
 
@@ -361,31 +363,25 @@ Nick became physical, rolled to one side, and vomited again. Cerberus jumped bac
 
 Brandon checked him while Jace and Sophia pushed Nikos across. Nick's {Aura} system on this side recorded each transition, power fluctuation, scale change, and physical symptom. Jace's {Aura} was recording from there, and they'd sync all the data together to see what they could learn.
 
-No one crossed again that night.
+##
 
+It was late, but everyone wanted to watch the camera feeds. Nick had regained his composure, and had pulled out a large table that he'd brought with. It unfolded into screens and keyboards and joysticks. He helped the two {Aura}'s sync and pulled in the various camera feeds from sparky's data spike and locally.
 
+Nikos was really getting into the retelling. He stopped the recording twice to explain where the creature had moved around a direction rather than through a wall. Sophia remained wrapped in a blanket, unusually warm, playing with her father's pen in both hands.
 
+Brandon ignored the fight. He was upset that Nikos and Sophia and.. well everyone were in danger. He was mad at Jace at how strong the creature had been, how much danger they all had been in.
 
+Nikos was pointing, "This. This is what I mean. The stars are wrong. Look at Delta Cephei. Polaris. Just look!"
 
-They watched the three camera feeds in the *Victoria's* galley instead. {Aura} preserved each view separately. Nikos stopped the recording twice to explain where the creature had moved around a direction rather than through a wall. Sophia remained wrapped in a blanket, unusually warm, her father's pen balanced across both hands.
+They all looked at him, then the screen. They had all spent years in space and were familiar, but the starts were there.
 
-Brandon ignored the fight.
-
-He rewound six seconds of footage captured while Sparky faced away from Ring Three. The camera had looked out through Fortuna's incomplete outer structure and into the Astral sky.
-
-He enlarged the frame.
-
-"Where was the camera pointing?" he asked.
-
-Jace checked the orientation log.
-
-"Outward. About twenty degrees above the ring plane."
-
-Brandon brought up Fortuna's physical navigation model and laid it beside the recording.
+"{Aura} can you pull up the same star scape from outside Fortuna? Then overlay them."
 
 The stars did not match.
 
-"Then either every camera turned without recording it," Brandon said, "or the sky is wrong."
+"Look, see? Half the stars are off by centimeters! Which means light years as they are so far away. Is this a million years in the past? No, Polaris would be way over here. And these clouds? Look towards the inner system, it's like clouds of gas covering everywhere."
+
+"Space is broken."
 
 ## Contract coverage
 
