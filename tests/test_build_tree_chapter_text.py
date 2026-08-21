@@ -140,3 +140,68 @@ def test_duplicate_chapter_numbers_stop_export(tmp_path):
 
     assert result.returncode != 0
     assert "Duplicate chapter 1" in result.stderr
+
+
+def test_epub_export_generates_valid_zip_and_structures(tmp_path):
+    import zipfile
+
+    knowledge, scenes = make_knowledge_tree(tmp_path)
+    # Add dummy cover image to test cover packaging
+    images = tmp_path / "images"
+    images.mkdir()
+    (images / "cover1.jpeg").write_bytes(b"\xff\xd8\xff\xe0test_jpeg_bytes")
+
+    write_chapter(
+        scenes,
+        0,
+        "Prologue",
+        "Prologue body mentions {Aura} and [[char_helena|Helena]].",
+    )
+
+    result = run_build_tree(knowledge)
+
+    assert "Wrote compiled EPUB e-books to" in result.stdout
+    clean_epub = knowledge / "generated_text" / "book.epub"
+    draft_epub = knowledge / "generated_text" / "book_draft.epub"
+    assert clean_epub.exists()
+    assert draft_epub.exists()
+
+    with zipfile.ZipFile(clean_epub, "r") as zf:
+        namelist = zf.namelist()
+        assert namelist[0] == "mimetype"
+        assert zf.read("mimetype") == b"application/epub+zip"
+        assert zf.getinfo("mimetype").compress_type == zipfile.ZIP_STORED
+
+        assert "META-INF/container.xml" in namelist
+        assert "OEBPS/content.opf" in namelist
+        assert "OEBPS/nav.xhtml" in namelist
+        assert "OEBPS/toc.ncx" in namelist
+        assert "OEBPS/style.css" in namelist
+        assert "OEBPS/cover.jpeg" in namelist
+        assert "OEBPS/cover.xhtml" in namelist
+        assert "OEBPS/chapter_00.xhtml" in namelist
+
+        ch0_clean = zf.read("OEBPS/chapter_00.xhtml").decode("utf-8")
+        assert "Aura" in ch0_clean
+        assert "{Aura}" not in ch0_clean
+        assert "Helena" in ch0_clean
+        assert "[[char_helena|Helena]]" not in ch0_clean
+
+    with zipfile.ZipFile(draft_epub, "r") as zf:
+        ch0_draft = zf.read("OEBPS/chapter_00.xhtml").decode("utf-8")
+        assert "{Aura}" in ch0_draft
+        assert "[[char_helena|Helena]]" in ch0_draft
+
+
+def test_epub_only_flag_generates_epub_without_txt_or_index(tmp_path):
+    knowledge, scenes = make_knowledge_tree(tmp_path)
+    write_chapter(scenes, 0, "Prologue", "Prologue text.")
+
+    run_build_tree(knowledge, "--epub-only")
+
+    assert (knowledge / "generated_text" / "book.epub").exists()
+    assert (knowledge / "generated_text" / "book_draft.epub").exists()
+    assert not (knowledge / "generated_text" / "chapter_00.txt").exists()
+    assert not (knowledge / "_index.md").exists()
+
+

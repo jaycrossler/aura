@@ -123,6 +123,8 @@
     - faction_united_states_military_intelligence.md - name: United States Military and Intelligence (Mars Command); id: faction_united_states_military_intelligence; status: active; updated: 2085-05-12; type: military; description: Faction profile detailing the United States military and intelligence operations on Mars, operating out of Joint Base Terminus under the 56th State framework.; lines: 97; xrefs: 0; canonical: false
     - faction_vetala_residua.md - name: The Vetala Residua; id: faction_vetala_residua; status: background_arc3; canonical: true; updated: 2026-06-21; type: faction_outsider_species; description: >; lines: 81; xrefs: 0; canonical: true
 - generated_text/
+    - book.epub
+    - book_draft.epub
     - chapter_00.txt
     - chapter_01.txt
     - chapter_02.txt
