@@ -8,7 +8,7 @@ scene_contract: X-02 Will ethics + Lanchee scanner trial + X-02a first Tick-Maw 
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
   Jace and Sophia disclose the Astral's medical risks to Lanchee and build a
   controlled scanner protocol around Sparky's new local {Aura} instance. The
@@ -77,7 +77,7 @@ Lanchee interrupted only once.
 
 Nick turned the folded glasses over in his hands.
 
-"I crossed once," he said. "They pulled me. I stayed aboard the ship. I was there nineteen minutes and vomited twice. The visual structure was disorienting enough that I would classify another crossing as a medical risk."
+"I crossed once," he said. "They pulled me. I stayed aboard the ship. I was there less than an hour and vomited twice. The visual structure was disorienting enough that I would classify another crossing as a medical risk."
 
 Lanchee studied him.
 

@@ -2,9 +2,9 @@
 id: voice_char_brandon_moreau
 character_ref: char_brandon_moreau
 type: character_voice_profile
-status: light (insufficient KB detail for a full profile)
-last_updated: 2026-08-15
-description: "Light vocal profile for Brandon Moreau, French astrochemist aboard the Victoria, formatted for local TTS audiobook generation."
+status: developing (Chapter 23-24 dialogue anchors added)
+last_updated: 2026-08-21
+description: "Developing vocal profile for Brandon Moreau, the warm and experimentally enthusiastic French astrochemist aboard the Victoria."
 storybot_extrapolation_allowed: true
 cross_references:
   - "[[char_brandon_moreau]]"
@@ -14,7 +14,6 @@ cross_references:
   - "[[ship_victoria]]"
   - "[[storybot_orpheus_voice_tag_reference]]"
 open_flags:
-  - "No dialogue anchors retrieved. He is referenced in Ch15 but does not clearly speak on the page in the retrieved text. Confirm whether he has lines before casting."
   - "No age or physical vocal description established."
 ---
 
@@ -47,6 +46,17 @@ institution. The important note is the unspoken one: he is worried about Sophia
 and has chosen not to press. Any scene with her should carry that restraint
 underneath an ordinary register.
 
+## Chapter 23-24 dialogue anchors
+
+- Brandon grows animated when an observation becomes measurable. He moves quickly
+  from surprise to experimental design.
+- His humor is dry and brief: *"That does not make the experiment worse."*
+- Chemistry makes him openly enthusiastic. During the survey-rocket launch he
+  delights in hydrogen and oxygen becoming water, heat, and thrust, then immediately
+  returns to measurement discipline: *"I am excited, not careless."*
+- His technical curiosity should sound warm rather than clinical. He enjoys sharing
+  why a reaction is beautiful without delivering a lecture.
+
 ## Local TTS Engine Notes
 
 - **Kokoro:** no French male pack ships in the standard voice set. Either use an
@@ -58,4 +68,5 @@ underneath an ordinary register.
 
 ## Revision Notes
 
+- 2026-08-21: Added dialogue and performance anchors from Chapters 23-24.
 - 2026-08-15: Initial light profile, created during the Ch00-20 cast and voice audit. Deliberately not padded. See the open flags for what an author pass needs to supply.

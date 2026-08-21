@@ -7,7 +7,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
   Scene contracts for Thread X, including ten safe daily exploration crossings,
   an Astral workspace aboard the Victoria, the delayed first fauna reveal inside
@@ -514,9 +514,9 @@ composition relationship remains reserved for later controlled equal-mass testin
 #### X-04f — Fire in the Walls
 
 **Summary:** After the Chapter 22 disclosure, Jace and Sophia pull Nikos and Nick
-into the Astral through prolonged assisted crossings. Brandon remains physical-side
-with {Misty} and independent recording equipment. Nick stays aboard the Astral
-*Victoria* with Cerberus. Jace, Sophia, and Nikos hunt the wounded Ring Three
+into the Astral through prolonged assisted crossings. Brandon records the first
+transition from the Real, then crosses and helps Sophia pull Nick from the Astral
+side. Nick stays aboard the Astral *Victoria* with Cerberus. Jace, Sophia, and Nikos hunt the wounded Ring Three
 creature using self-contained butane-and-oxygen torches, Sparky, Sophia's force,
 and Nikos's ability to interpret movement around the fourth axis. They kill it
 against the silver-clad room. Its Will sphere moves toward Sophia; she touches it
@@ -524,26 +524,42 @@ and unknowingly advances [Force Application] from L1 to L2.
 
 **Must accomplish:**
 1. Pulling two new adults takes sustained contact and extended time.
-2. Brandon monitors from the Real; Nick crosses but does not join the hunt.
+2. Brandon records the initial crossing from the Real, then joins the others aboard
+   the Astral *Victoria*; Nick crosses but does not join the hunt.
 3. Nikos contributes spatial analysis rather than sudden combat expertise.
 4. The torches carry their own oxidizer and work because the creature was already
    injured, not because fire makes the hunt easy.
 5. Sophia experiences warmth and excess force output without learning the Will-orb
    or skill-level mechanism.
-6. End by seeding Brandon's observation that the Astral sky is wrong.
+6. End with Nikos identifying that the Astral sky is wrong.
 
 ---
 
 #### X-05a — Wrong Stars / The Numbers Go Wrong
 
-**Summary:** Brandon notices that Sparky's Astral sky recording does not match
+**Summary:** Nikos notices that Sparky's Astral sky recording does not match
 Fortuna's physical navigation catalog. Jupiter appears closer to its later physical
-ephemeris position, suggesting that its light crossed a shorter path. Brandon and
-Jace compare physical and Astral observations of seven known maintenance reflectors
-from three origins. {Aura} preserves the independent camera projections and finds a
-repeatable relationship: a physical range ratio of four maps to about two in the
-Astral, nine maps to three, and sixteen maps to four. Reversing the transform makes
-physical separation proportional to Astral separation squared.
+ephemeris position, suggesting that its light crossed a shorter path. Brandon
+requisitions two matched hydrogen-oxygen survey rockets because the same request
+from Jace would draw attention. The team transfers one rocket and launches it in the
+Astral at the same time Sophia launches its physical twin. From the Astral, Brandon
+records both rockets side by side. The crossed rocket accelerates much faster, burns
+far beyond the physical rocket, and explodes. The result is striking but not a clean
+distance reference because crossing may have changed the rocket.
+
+Brandon and Jace compare physical and Astral observations of seven known maintenance
+reflectors from multiple origins. {Aura} preserves the independent camera
+projections and finds a repeatable relationship: a physical range ratio of four maps
+to about two in the Astral, nine maps to three, and sixteen maps to four. Reversing
+the transform makes physical separation proportional to Astral separation squared.
+
+During setup, the team installs Nick's three-rod checked upgrade to the one-way
+Astral telegraph, a room scrubber with an oxygen reservoir, and a cold-tolerant
+potted plant. Brandon and Jace begin preparing many more inspected survey rockets.
+Jace feels ashamed when his first reaction is dread at repeatedly carrying Brandon
+and Nikos across. Nick later sketches a sixteen-rod successor that can send one byte
+per stroke and eventually carry low-rate audio, texts, radio traffic, maps, and
+telemetry from the Real into the Astral.
 
 The team treats this as a strong preliminary square-distance model, not a final law.
 Afterward, Jace and Sophia transfer and install Nick's bounded {Aura-S} chip in
@@ -553,9 +569,17 @@ the need for physical volumetric scans, leading directly to Lanchee's Chapter 25
 **Must accomplish:**
 1. Discovery begins with an observational failure and becomes a physics measurement.
 2. The four-to-two, nine-to-three, sixteen-to-four pattern remains followable.
-3. Multiple origins and isolated clocks prevent a one-baseline coincidence.
+3. Multiple origins, the seven fixed reflectors, and isolated clocks prevent a one-baseline coincidence.
 4. The characters say "consistent with a square," preserving scientific caution.
 5. {Aura-S} becomes operational in Sparky only after the distance reveal.
+6. Brandon's excitement centers on real hydrogen-oxygen combustion chemistry, not
+   an invented explanation of Astral physics.
+7. The paired launch establishes a propulsion anomaly without using the crossed
+   rocket as the primary proof of the distance law.
+8. The three-rod telegraph improves reliability but remains electronic only from
+   the Real into the Astral; paper remains the return path.
+9. The scrubber, oxygen reserve, plant, rocket queue, and planned sixteen-rod link
+   make Sophia's room visibly develop into an Astral field station.
 
 **Foreshadowing planted:**
 - Space-not-time compression → telescope implication (late series)

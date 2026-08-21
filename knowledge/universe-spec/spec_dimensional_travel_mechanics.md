@@ -4,7 +4,7 @@ name: Dimensional Travel — Complete Mechanics Reference
 type: foundational_mechanics
 status: canonical
 canonical: true
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 supersedes: >
   Partial content in spec_crossing_mechanics, spec_astral_phenomenology,
   magic_never_never, legacy_lexicon_and_rulebook_reconciliation
@@ -76,14 +76,20 @@ asteroid belt and beyond). Distance compresses at **distance-cubed**.
 | Solar system → Scar boundary    | ~800+ ly       | —              | ~1 month foot      |
 
 **Book 1 empirical discovery:** Chapter 24 establishes the characters' first
-preliminary distance-squared model. Brandon notices that Sparky's Astral sky does not
-match Fortuna's physical navigation catalog. He and Jace compare seven known station
-reflectors from three origins. Physical range ratios of 4, 9, and 16 map to Astral
-ratios near 2, 3, and 4. {Aura} reports that the inverse relationship is consistent
-with physical separation scaling as Astral separation squared. The team treats this
-as a strong working model, not a completed law. The shorter apparent light delay does
-not yet prove that *c* remains unchanged; the later rotating-mirror experiment retains
-that question.
+preliminary distance-squared model. Nikos notices that Sparky's Astral sky does not
+match Fortuna's physical navigation catalog. Brandon and Jace compare seven known
+station reflectors from multiple origins. Physical range ratios of 4, 9, and 16 map
+to Astral ratios near 2, 3, and 4. {Aura} reports that the inverse relationship is
+consistent with physical separation scaling as Astral separation squared.
+
+A paired launch places one matched hydrogen-oxygen survey rocket in each layer. Seen
+together from the Astral, the crossed rocket accelerates farther and burns longer
+before it explodes, while the physical rocket's projected burn ends normally. The
+paired launch reveals a propulsion anomaly but does not establish the distance law
+because crossing may have changed the rocket. The team treats the reflector result
+as a strong working model, not a completed law. The shorter apparent light delay
+does not yet prove that *c* remains unchanged; the later rotating-mirror experiment
+retains that question.
 
 ---
 

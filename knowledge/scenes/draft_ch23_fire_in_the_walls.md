@@ -8,14 +8,13 @@ scene_contract: X-04f Ring Three hunt + N-01 Nick crossing + Will-orb force adva
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
-  Jace and Sophia pull Nikos and Nick into the Astral while Brandon monitors the
-  experiment from the physical Victoria. Nick remains aboard with Cerberus while
-  Jace, Sophia, and Nikos hunt the wounded Ring Three creature. Self-oxidizing
-  butane torches and Nikos's spatial observations let them kill it after a hard
-  fight. Sophia absorbs the Will sphere it leaves, unknowingly strengthening her
-  force ability, before Brandon notices that the recorded sky is wrong.
+  Jace and Sophia pull Nikos, Brandon, and Nick into the Astral after Brandon
+  records the initial crossing from the physical Victoria. Nick remains aboard
+  with Cerberus while Jace, Sophia, and Nikos hunt the wounded Ring Three creature.
+  They kill it with butane torches, and Sophia absorbs its Will sphere before
+  Nikos notices that the recorded sky is wrong.
 cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[arc_01_thread_N_nick_ai]]"
@@ -69,7 +68,7 @@ Nick sat beside him, narrating into the {Aura} on his wristcomp.
 
 "His mass has dropped by eleven percent," Brandon said.
 
-"Twelve," Nick said. "The floor scale averages too aggressively."
+"Twenty," Nick said. "The floor scale averages too aggressively."
 
 "I calibrated that scale."
 
@@ -115,7 +114,7 @@ Nikos stared at him.
 
 Sophia 'appeared' on the couch, collapsing from her four-dimensional shape into a solid outline, like the revese of openning a very decorative package. 
 
-"That is the single weirdest things I've ever seen," Brandon said.
+"That is the single weirdest things I've ever seen," Nikos said.
 
 "It gets weirder."
 
@@ -143,9 +142,9 @@ He looked like a whole different person. Anxious.
 
 Nick closed his eyes.
 
-The second crossing took longer. Jace was still sore and a bit tired from moving Brandon.
+The second crossing took longer. Jace was still sore and a bit tired from moving Nikos.
 
-Nick fought it without moving. Jace felt him reject each moment of overlap, not from lack of ability but from a mind trained to distrust systems that would not expose their controls. Jace could faintly see the astral outline of Sophia and Brandon, both trying to pull from the other side.
+Nick fought it without moving. Jace felt him reject each moment of overlap, not from lack of ability but from a mind trained to distrust systems that would not expose their controls. Jace could faintly see the astral outline of Sophia and Nikos, both trying to pull from the other side.
 
 Finally Jace said, "Stop trying to understand it. Just breathe and let us take you there."
 
@@ -153,13 +152,13 @@ Jace found the pulse. Sophia caught it. Together they pulled.
 
 Nick arrived on the Astral couch curled around his stomach.
 
-He looked once at the open structure of the room, once through the wall at Brandon's layered glow, and once at his own hands.
+He looked once at the open structure of the room, once through the wall at Brandon's layered glow back in the Real, and once at his own hands.
 
 "No," he said, beginning to heave.
 
 Jace grabbed a bag from a table of supplies they had set up in the astral. Nick vommited in to it.
 
-Sophia and Brandon patted him on the back, helped him clean his face and put his breathing mask on.
+Sophia and Nikos patted him on the back, helped him clean his face and put his breathing mask on.
 
 "How do you dispose of trash in the Astral?," Nikos asked.
 
@@ -365,15 +364,15 @@ Brandon checked him while Jace and Sophia pushed Nikos across. Nick's {Aura} sys
 
 ##
 
-It was late, but everyone wanted to watch the camera feeds. Nick had regained his composure, and had pulled out a large table that he'd brought with. It unfolded into screens and keyboards and joysticks. He helped the two {Aura}'s sync and pulled in the various camera feeds from sparky's data spike and locally.
+It was late, but everyone wanted to watch the camera feeds. Nick had regained his composure, and had pulled out a large tablet that he'd brought with. It unfolded into screens and keyboards and joysticks. He was like a maestro, finally playing the instrument he excelled at. He helped the two {Aura}'s sync and pulled in the various camera feeds from sparky's data spike and the ones Brandon had set up locally.
 
 Nikos was really getting into the retelling. He stopped the recording twice to explain where the creature had moved around a direction rather than through a wall. Sophia remained wrapped in a blanket, unusually warm, playing with her father's pen in both hands.
 
-Brandon ignored the fight. He was upset that Nikos and Sophia and.. well everyone were in danger. He was mad at Jace at how strong the creature had been, how much danger they all had been in.
+Brandon ignored the fight. He was upset that Nikos and Sophia and... well *everyone* were in danger. He was mad at Jace at how strong the creature had been, how much danger they all had been in. He was mad that aliens were invading. He was mad that science was broken.
 
 Nikos was pointing, "This. This is what I mean. The stars are wrong. Look at Delta Cephei. Polaris. Just look!"
 
-They all looked at him, then the screen. They had all spent years in space and were familiar, but the starts were there.
+They all looked at him, then the screen. They had all spent years in space and were familiar, but the stars were there.
 
 "{Aura} can you pull up the same star scape from outside Fortuna? Then overlay them."
 
@@ -388,7 +387,7 @@ The stars did not match.
 | Item | Status |
 |---|---|
 | Jace and Sophia require sustained contact and substantial time to pull Nikos and Nick across | done |
-| Brandon remains physical-side with {Misty}, cameras, scales, and an emergency return protocol | done |
+| Brandon records the initial transition from the Real, then crosses and helps Sophia pull Nick from the Astral side | done |
 | Nick leaves his electronics behind, reacts badly to the 4D view, and remains aboard the Astral Victoria with Cerberus | done |
 | The hunt team consists of Jace, Sophia, and Nikos | done |
 | Each butane cutting torch carries its own oxygen cartridge because Astral air cannot support reliable combustion | done |
@@ -397,4 +396,4 @@ The stars did not match.
 | The creature leaves a Will sphere | done |
 | Sophia touches the sphere, feels new energy, and unknowingly strengthens her force ability | done |
 | Nick's first crossing remains brief, frightening, and strategically useful | done |
-| Brandon identifies the wrong Astral sky as the next problem | done |
+| Nikos identifies the wrong Astral sky as the next problem | done |

@@ -4,7 +4,7 @@ name: "Open Question - Immutable Nick Sheet After Chapter 23 Resequence"
 type: review_queue
 status: open
 created: 2026-08-20
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
   Records immutable-sheet conflicts created when Nick's first Astral crossing moved
   from the swarm to Chapter 23, so later sheet maintenance can reconcile the snapshot
@@ -21,7 +21,7 @@ cross_references:
 
 The 2026-08-20 chapter sequence moves Nick's first assisted Astral crossing from
 the later swarm to Chapter 23. Jace and Sophia pull him across, and he remains aboard
-the Astral *Victoria* with Cerberus for nineteen minutes while the hunt team leaves.
+the Astral *Victoria* with Cerberus for less than an hour while the hunt team leaves.
 He vomits twice and refuses another crossing unless no physical-side solution exists.
 
 The following immutable snapshot still records the superseded sequence and must not
@@ -32,7 +32,7 @@ be edited during ordinary knowledge-bank maintenance:
 
 Recommended resolution during the next authorized sheet-regeneration pass:
 
-1. Replace the ninety-second swarm crossing with the nineteen-minute Chapter 23
+1. Replace the ninety-second swarm crossing with the under-an-hour Chapter 23
    crossing aboard the *Victoria*.
 2. Keep Nick's later swarm contribution physical-side, coordinating the station's
    {Aura} network and producing an unusually accurate relay from contradictory data.

@@ -9,6 +9,7 @@ canonical: true
 last_updated: 2026-08-20
 cross_references:
   - "[[char_aura_ai]]"
+  - "[[tech_astral_telegraph]]"
 ---
 
 # {Aura}
@@ -119,6 +120,15 @@ correlate unexplained physical processing load with Astral ticks attached to thr
 personal {Aura} nodes. That finding establishes a feedable phenomenon shared by
 humans, animals, and AIs without yet proving the full AI-Will scaling mechanism.
 
+### {Aura} and the Astral Telegraph
+
+Physical-side {Aura} instances can route selected messages, maps, and telemetry into
+the later sixteen-rod Astral telegraph. The mechanical array moves one byte per
+stroke across eight data rods and uses the other rods for framing, checks, and
+redundancy. This link lets {Aura} support Astral teams without implying that network
+radio crosses the boundary. Electronic traffic remains Real-to-Astral until a
+separate return mechanism is developed.
+
 ## Voice and Personality (Generic)
 
 Auras inherit personality from their training and adapt to their user. Most are designed for warmth, competence, and slight humor. They are explicitly NOT designed to feel romantic — strong cultural and design norms push back on that, though enforcement is imperfect.
@@ -146,3 +156,4 @@ Jace's {Aura} has the following starting characteristics (refine in his characte
 - See [[spec_crossing_mechanics|Crossing Mechanics]] for the AI Will discovery arc (5 stages, 2104–2120).
 - See [[spec_astral_phenomenology|Astral phenomena]] for how AI systems appear in the Astral.
 - See [[magic_will_implications|Will Implications]] for the AI Will question in the broader context.
+- See [[tech_astral_telegraph|Astral Telegraph]] for the staged one-way data link.

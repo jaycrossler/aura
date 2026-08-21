@@ -6,7 +6,7 @@ name: "Arc 1 — The Falcon and Fortuna"
 type: arc
 status: draft
 canonical: true
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
   Jace Grant's transit from Mars to Fortuna Station aboard the Falcon, his arrival into
   a station already under Astral pressure, the discovery of the Never-Never, first crossings
@@ -50,6 +50,7 @@ cross_references:
   - "[[location_fortuna_station]]"
   - "[[spec_astral_phenomenology]]"
   - "[[spec_crossing_mechanics]]"
+  - "[[tech_astral_telegraph]]"
   - "[[magic_breach_crossers_transient]]"
   - "[[magic_astral_transfer_skill]]"
   - "[[spec_threat_escalation]]"
@@ -253,7 +254,7 @@ list as complete.)*
 | Nick's large-lettered AI Will note | X-05c | The open-source decision; the full AI Will discovery arc (Arc 2+) |
 | Jin's crew armed and isolated | P-thread | S-01 reveal: they were clearing nests; the isolation was protective, not hostile |
 | Sophia's freeze when the Queen arrives | S-01 | She stays anyway; the freeze makes the final positioning more meaningful |
-| Nick's nineteen-minute crossing | X-04f / Ch23 | [Information Flow] seed; he remains aboard the Astral *Victoria* and then designs physical-side tools to avoid another crossing |
+| Nick's under-an-hour crossing | X-04f / Ch23 | [Information Flow] seed; he remains aboard the Astral *Victoria* and then designs physical-side tools to avoid another crossing |
 | Sophia's "seventeen notebooks" named in the kill | S-02 | The whole scientific documentation arc paying off in a single exchange |
 | Jin's "You killed a very large spider" | S-02 | The beginning of the Jin/Sophia relationship; pays off in Arc 2 patrol scenes |
 | Kael in the room the whole time | S-02b | She is mentioned three times and no one reacts |
@@ -344,8 +345,8 @@ Full contracts live in the linked thread file.
 | 25b | X-04b | X | Borrowed Light — environmental probe, consent rupture, Long Burn fight, silver-panel evidence, creature reveal | `draft_ch20_borrowed_light` + thread_X | drafted |
 | 25c | X-04d | X | The Eye on Three — Ring Three fight, silver threshold, accidental {Misty} drain, bounded request for Nick's help | `draft_ch21_the_eye_on_three` + thread_X | drafted |
 | 25d | X-01b / X-04f / N-00b | X/N | Quiet Companion — {Misty} recovery, {Aura} install, expanded-team disclosure, hunt preparation | `draft_ch22_quiet_companion` + thread_X + thread_N | drafted |
-| 25e | X-04f / N-01 | X/N | Fire in the Walls — Nikos and Nick cross; hunt team kills the wounded Ring Three creature; Sophia absorbs its sphere | `draft_ch23_fire_in_the_walls` + thread_X + thread_N | drafted |
-| 25f | X-05a / X-04g | X/N | Wrong Stars — square-distance measurements, bounded Sparky {Aura-S} installation, scanner-model requirement | `draft_ch24_wrong_stars` + thread_X | drafted |
+| 25e | X-04f / N-01 | X/N | Fire in the Walls — Nikos, Brandon, and Nick cross; hunt team kills the wounded Ring Three creature; Sophia absorbs its sphere | `draft_ch23_fire_in_the_walls` + thread_X + thread_N | drafted |
+| 25f | X-05a / X-04g | X/N | Wrong Stars — three-rod telegraph and field-station expansion, paired physical/Astral rocket test, reflector square-distance measurements, sixteen-rod link design, bounded Sparky {Aura-S} installation, scanner-model requirement | `draft_ch24_wrong_stars` + thread_X | drafted |
 | 25g | X-02 / X-02a | X | No Vampires — full Lanchee disclosure, controlled scans, human Will, first tick removal, no-harvest protocol | `draft_ch25_no_vampires` + thread_X | drafted |
 | 25h | X-02b / N-03 | X/N | The Sweep — goat and personal-{Aura} ticks removed; {Seek} identified as the unresolved high-risk match | `draft_ch26_the_sweep` + thread_X + thread_N | drafted |
 | 27 | X-05b | X | The Unstable Site — asteroid interior survey | thread_X | ok |

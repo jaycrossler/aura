@@ -698,9 +698,9 @@ Jace held his breath. Could Aura help him in the Astral? Could it work there? Ni
 
 "Please call her Sophia. The drone is named Sparky. I would like to put an Aura unit on him as soon as I get the chip from the Foundry."
 
-Aura: Subvocalization may improve privacy when you address me. The Astral records also contain structured distance discrepancies. If you permit it, I can propose experiments and prepare equipment recommendations for your approval.
+Aura: Subvocalization may improve privacy when you address me, I'll set up practice times for you. The Astral records of your recorded videos from Sparky indicate the cameras are misaligned, I've prepared a graphic to fix that. If you permit it, I can propose experiments and prepare equipment recommendations, then help remind you when is best to print or acquire them.
 
-Jace groaned. Aura was as bad as Sophia in giving him more work to do.
+Jace groaned. Aura was as bad as Sophia and Kim in giving him more work to do.
 
 Aura: You also have unread messages. The chip ordered for Sparky is complete. Alex marked the design as obsolete and held it for quality review. Shall I prepare a confirmation that the order is intentional?
 
@@ -722,23 +722,27 @@ Nikos raised both hands. "Of course it is real. I mean it may not be a separate 
 
 Sophia and Jace looked at each other. It hadn't been obvious to them. Nick fell abruptly when Sophia stopped focusing, falling to the couch below him.
 
-Nick finally said, "I thought she was the physicist?"
+Nick finally said, "Why does it matter? I thought she was the physicist?"
 
-Nikos turned, furious. "She is a physicist. I am an astrophysicist. It is very different. Are you merely a repairman, or are you an AI computational engineer?"
+Nikos turned, furious. "She is a physicist. I am an astrophysicist. It is very different. Are you merely a repairman, or are you an AI computational engineer? It matters because if you merely step further out in four dimensional space, you don't have to invent whole new physics for an entire new dimension. You're just changing one thing, everything else is the same. You still breathe, you still live, there is still energy and mass."
 
 Now, it was Jace and Nick's turn to look at each other.
 
-Sophia broke the tension. "Okay. I acknowledge your point. Can we measure the difference?"
+Aura: This is a useful interpretation. I will update my internal models as well
 
-Brandon interjected. "And here. You show that copper and silver interfere with the visual effect. What about gold?"
+Sophia broke the tension. "Okay. I acknowledge your point, I will fix the paper. Is there a way to measure the difference?"
 
-"Why gold?"
+Brandon interjected, before Nikos could answer. "And here. You show that copper and silver interfere with the visual effect. What about gold?"
+
+"Um, why gold?"
 
 Brandon looked almost as offended as Nikos. They truly were a matched pair.
 
 "Because copper, silver, and gold share the same outer-electron pattern and occupy the same column of the periodic table. Why did no one test all three?"
 
-Jace stood. "This shows why we need your help. Sophia and I want a shared experiment list, an equipment plan, and rules for what happens next. Our first priority is the creature we wounded on Three. Tonight we start moving torches and armor. Tomorrow, after everyone understands the risks, we decide who crosses and who stays here to monitor."
+Jace stood. He might not be the best Air Force officer in history, but he had sat through hundreds of hours of meetings and knew how to deal with opinionated scientists.
+
+He intentionally made his tone respectful and complimentary. "Okay, okay. Thank you. This shows why we need your help. Sophia and I think we should have a shared experiment list to capture your ideas, an equipment plan, and rules for what happens next. My Aura is coordinating that, but Sophia is the primary investigator for this project so she approves everything. Our first priority is the creature we wounded on Three. Tonight we start moving torches and armor. Tomorrow, after everyone understands the risks, we decide who crosses and who stays here to monitor."
 
 He held up a butane-and-oxygen cutting torch and one of the ceramic-plated extreme-sport vests he had printed.
 
@@ -746,15 +750,21 @@ Nick raised his hand. "You want us to go there? First, what the hell? Second, th
 
 He turned, and Brandon and Nikos just blinked.
 
-Sophia stood. "We start with a demonstration. I will cross because Jace is injured and pretending otherwise. He can show you how we move equipment. We have a repeatable process, not an optimized one, and you may be able to improve it. We do not attempt to move another person tonight. Yes, Nikos. Step sideways. Gott, I understand."
+Aura sent to the ship screen: I have worked with Nick for years and he will most likely respond best to a demonstration.
 
-Sophia sat back, became comfortable, and closed her eyes. Color gathered around her slowly. Nick stopped talking. Nikos stopped pacing. Brandon took a long drink of wine.
+Sophia stood, nodding. She had taken to Jace's Aura very well, treating it just like she treated Misty.
 
-Twenty-seven minutes later, Sophia disappeared.
+"I will cross because Jace is injured and pretending otherwise. He can show you how we move equipment. We have a repeatable process, not an optimized one, and you may be able to improve it. We do not attempt to move anyone tonight. Yes, Nikos. 'Step sideways'. Gott, I understand. Now, watch."
+
+Sophia sat back onto the couch, became comfortable, and closed her eyes. Color gathered around her slowly. Nick stopped talking. Nikos stopped pacing. Brandon took a long drink of wine. They waited an uncomfortable amount.
+
+Eleven minutes later, Sophia disappeared.
 
 Thirty seconds after that, a small piece of paper appeared in front of Brandon's face with the word Boo! written on it.
 
-Jace grinned. And then there were five.
+Jace grinned. Everyone stared. Then began talking at once, speaking over each other.
+
+And then there were five.
 
 Cerberus barked at the excitement. Six. Then there were six.
 
@@ -763,15 +773,15 @@ Cerberus barked at the excitement. Six. Then there were six.
 
 Chapter 23. Fire in the Walls
 
-Athena: I cannot believe you, the AI hater, put an AI in your head.
+Athena: I cannot believe you, the AI hater, put an AI in your brain.
 
 Apollo: Aura says, "Stubborn humans. Conquer. Destroy."
 
 Athena: Your jokes are worse than Dad's. Still nothing from Artemis?
 
-Apollo: Nothing that makes sense.
-
 By the following evening, the torches and armor were waiting in the Astral Victoria.
+
+They ate a quick dinner, Cerberus overjoyed at having all of his favorite humans in the same room.
 
 The first person Jace and Sophia tried to pull across was Nikos.
 
@@ -779,29 +789,29 @@ He lasted forty-three minutes before opening one eye.
 
 "I am not there," he said.
 
-"You are not supposed to talk," Sophia said.
+"You are not supposed to talk," Sophia said, "Relax."
 
-"I have been not talking for three quarters of an hour. I am now reporting a failed experiment."
+"I have been not talking for an hour. I am now reporting a failed experiment."
 
-"You are halfway across," Jace said.
+"You are halfway across," she said.
 
 "That is worse."
 
 Nikos closed his eye again.
 
-They sat in the Victoria's observation room, suited and arranged in a circle around a square of bread on the floor. Jace held Nikos's left wrist. Sophia held his right. All three wore light pressure suits stripped of everything they could safely leave behind. Nikos had surrendered his tablet, belt hardware, watch, suit radio, and six sensor patches after Sophia explained how every additional circuit slowed the crossing.
+They sat in the Victoria's main room in a circle on the floor. Sophia held both of his wrists. They three wore light pressure suits stripped of everything they could safely leave behind. Nikos had surrendered his tablet, belt hardware, watch, earring computer, and six sensor patches after Sophia explained how every additional circuit slowed the crossing.
 
-Brandon watched from behind the open hatch with a physical camera on each wall and the expression of a man supervising surgery performed by people who had learned anatomy that morning.
+Brandon watched with a physical camera mounted on each wall and the expression of a man supervising surgery performed by people who had learned anatomy from social networking.
 
-Nick sat beside him, typing into one glove.
+Nick sat beside him, narrating into the Aura on his wristcomp.
 
 "His mass has dropped by eleven percent," Brandon said.
 
-"Twelve," Nick said. "The floor scale averages too aggressively."
+"Twenty," Nick said. "The floor scale averages too aggressively."
 
 "I calibrated that scale."
 
-"Then you calibrated it to hide interesting data."
+"Then you calibrated it poorly, it should send updates faster."
 
 Nikos opened his eye again.
 
@@ -811,9 +821,15 @@ Sophia squeezed his wrist.
 
 "Quiet."
 
-Jace felt Nikos as resistance rather than weight. Pulling himself across had become familiar, like finding a handhold in darkness. Pulling another person felt like trying to explain that handhold to every cell in a body that did not believe him.
+Jace was in the Astral, being the only one here he was talking with Aura, trying to come up with formulas for how they could better estimate the time to move mass.
 
-He found the steady pattern inside Nikos and pushed sideways against it. Sophia pulled from somewhere Jace could not sense. For a few seconds, all three aligned.
+"It feels like Nikos is more... resistance rather than weight. Different than pushing things across."
+
+Aura: I'll add a hypothesis to the log that conscious beings behave differently than base matter.
+
+Pulling himself across had become familiar, like finding a handhold in darkness. Pulling another person felt he had to individually lift every cell in Nikos' body. Like lifting sand. He needed to somehow use his thoughts to get the sand to understand it needed to stick together.
+
+Sophia found the steady pattern inside Nikos and pushed sideways against it. Jace strained and pulled, gently and insistently. Like he was pulling Nikos' entire form, not just body parts. For a few seconds, all three aligned.
 
 The observation room lost depth.
 
@@ -821,107 +837,95 @@ Cold replaced warmth.
 
 Nikos's hand became solid in Jace's grip.
 
-The physical cameras saw him disappear.
+The physical cameras saw him disappear, and Sparky's cameras in the astral saw his shape solidify. They were mounted as close to the same place and distance as the cameras in the Real so that they could build a model from the two different visual frames of reference.
 
-In the Astral Victoria, Nikos opened both eyes and screamed once.
+In the Astral Victoria, Nikos opened both eyes and screamed.
 
-He stopped himself quickly, but not quickly enough to preserve his dignity.
+He stopped himself quickly, but not quickly enough to preserve his dignity. Jace pretented to ignore it. Nikos adjusted his breathing mask around his beard, trying to stop the urge to hyperventalate.
 
-"That," he said, breathing hard, "is not halfway into anything."
+"That," he said, standing up and breathing hard, "is much more uncomfortable than you said."
 
-The observation room occupied more directions than it had in the Real. Its cabinets opened inward and sideways at the same time. The table showed every surface without turning. Brandon remained visible through the wall as overlapping color and structure, standing beside the place where Nikos's body no longer existed.
+The observation room occupied more directions than it had in the Real. Its cabinets opened inward and sideways at the same time. The table showed every surface without turning. Brandon remained visible as overlapping color and structure, standing beside the place where Nikos's body no longer existed.
 
 Nikos stared at him.
 
 "He looks like a star collapsed into a nervous system."
 
-"That description improves with time," Sophia said.
+Sophia 'appeared' on the couch, collapsing from her four-dimensional shape into a solid outline, like the revese of openning a very decorative package.
 
-"No, it does not."
+"That is the single weirdest things I've ever seen," Nikos said.
 
-Cerberus stepped through beside Jace, shook himself, and sniffed Nikos's knee.
+"It gets weirder."
+
+Cerberus stepped through, curled on the couch. He stood, shook himself, and sniffed Nikos's knee.
 
 Nikos looked down at him.
 
 "The dog is normal."
 
-"Do not tell him that," Jace said. "He has worked hard on his reputation."
+Cerberus jumped up and Nikos caught him. Cerberus licked his face rubbing the side of his muzzle on his beard and mask.
 
-They left Nikos aboard the Astral Victoria, then returned to the Real with Cerberus before attempting Nick. Their own return took less time because both knew which direction to want. Cerberus followed without help, stepping between layers as easily as he crossed a doorway.
+He coughed, "OK, normal for a dog."
 
-Nick had watched both transitions without making a joke. When Jace and Sophia became fully physical again, Nick removed his pearl earrings and set them in a padded case. Then he took off his overlay glasses.
+They left Nikos aboard the Astral Victoria with Sophia, then Jace returned to the Real.
 
-Jace had never seen him without either.
+Nick had watched both transitions without making a joke. When Jace became fully physical again, Nick removed his pearl earrings and set them in a padded case. Then he took off his overlay glasses. He had already changed into sweatpants and a shirt.
 
-"The earrings stay," Nick said. "The glasses stay. The gloves stay. I am not adding six hours because you want a technician on the wrong side of reality."
+He looked like a whole different person. Anxious.
+
+"I still keep thinking this is an eleborate prank. I'm still mad at you, you know."
 
 "You can stop," Jace said.
 
-"I know. That is the only reason I have not."
-
-Nick wore a simple mask, thermal layers, and almost nothing electronic. Jace and Sophia took his wrists. Cerberus settled against Nick's knee, ready to cross beside him.
-
-Nick looked at Cerberus.
-
-"If I vomit, I am blaming the dog."
-
-Cerberus sneezed.
-
-"Witnessed," Jace said.
+"I know. That is the only reason I haven't."
 
 Nick closed his eyes.
 
-The second crossing took longer.
+The second crossing took longer. Jace was still sore and a bit tired from moving Nikos.
 
-Nick fought it without moving. Jace felt him reject each moment of overlap, not from lack of ability but from a mind trained to distrust systems that would not expose their controls. Sophia whispered instructions in German, then French, then English. None helped.
+Nick fought it without moving. Jace felt him reject each moment of overlap, not from lack of ability but from a mind trained to distrust systems that would not expose their controls. Jace could faintly see the astral outline of Sophia and Nikos, both trying to pull from the other side.
 
-Finally Jace said, "Stop trying to understand the interface."
-
-"There is always an interface."
-
-"This one is a tooth nerve."
-
-Nick opened one eye.
-
-"I hate that this makes sense."
-
-He closed it again.
+Finally Jace said, "Stop trying to understand it. Just breathe and let us take you there."
 
 Jace found the pulse. Sophia caught it. Together they pulled.
 
-Nick arrived on the Astral deck curled around his stomach.
+Nick arrived on the Astral couch curled around his stomach.
 
-He looked once at the open structure of the room, once through the wall at Brandon's layered glow, and once at his own hands.
+He looked once at the open structure of the room, once through the wall at Brandon's layered glow back in the Real, and once at his own hands.
 
-"No," he said.
+"No," he said, beginning to heave.
 
-He vomited into the bag Jace had brought for exactly that purpose.
+Jace grabbed a bag from a table of supplies they had set up in the astral. Nick vommited in to it.
 
-"That is a complete scientific statement," Nikos said.
+Sophia and Nikos patted him on the back, helped him clean his face and put his breathing mask on.
 
-Nick sat against the Victoria's inner hull with Cerberus pressed along one leg. He kept one hand in the dog's harness and his eyes on the deck.
+"How do you dispose of trash in the Astral?," Nikos asked.
 
-"I am staying here."
+Jace put gloves on, walked to the next room to the hull of the Victoria's, stuck his arm holding the bag through it, then let it go. It fell off into the void, slowly dwindling. Jace rubbed at his cold hands, turned and smiled.
 
-"That was the plan," Jace said.
+Everyone stared at him.
 
-"It is now a law."
+Nikos said, "You're right. It got weirder."
 
-Sophia placed two paper cards beside him. The first carried their planned route. The second listed abort conditions. If the hunt team did not return within fifteen minutes, Nick would push the red card through the observation-room wall. Brandon would receive it in the physical tray and begin the return protocol. If Nick needed to leave sooner, Cerberus knew the way back to the crossing point, and Sophia had promised to return for him immediately.
+Nikos, armed and armored, had a notebook and was sketching and furiously writing notes in it. Grinning madly.
 
-Nick read the cards without lifting them.
+Nick sat on the couch with Cerberus pressed along one leg. He kept one hand in the dog's harness and his eyes on the deck. Which was hard because he could see through the deck into the station, see people in the distance that he'd known for years, see inside them, see inside everything. Everywhere. All at once.
 
-"You built an emergency system out of stationery."
+He closed his eyes, which only partially helped. "I am staying here."
 
-"It works on both sides," Jace said.
+Sophia turned to Jace, "Shall we still do this with just the three of us?"
 
-"That does not make it less stationery."
+Jace finished putting on the armor and checking his butane torch, grabbed Sparky's remote and tested him. All lights green.
 
-Nikos checked the three torches staged beside Sparky.
+Sophia gave him a radio and placed two paper cards beside him. The first carried their planned route. The second Nick could write on and wrip pieces off to practice pushing from the Astral back to the Real. Nick took the first and ignored the second.
 
-The team had spent most of the previous day moving them across one component at a time. They looked like cutting torches but carried separate butane and oxygen cartridges. Ambient gas in the Astral could not be trusted to support combustion. Jace had printed most of each body from aluminum and ceramic, then accepted the hours required to pull the valves and igniters through.
+"Call me if you need me to come. Otherwise, I don't think my brain can do much other than try to watch you from here. And maybe puke again."
 
-Nikos opened one fuel valve. Sophia sparked the igniter.
+Jace said, "Aura wishes you luck. She asks if you can think of how to let her send analogue radio so she can talk on the radios to everyone. I guess the radios in my head are blocked from accessing the frequency we are using."
+
+Nick smirked, realizing that Jace was giving him busy work to distract him, "I'll work on it."
+
+Sophia sparked the igniter on her fuel valve.
 
 A narrow blue flame appeared.
 
@@ -931,29 +935,19 @@ It leaned toward a direction that did not exist in the physical room.
 
 "Useful things can be unpleasant," Sophia said.
 
-"That is what Brandon says about your wine."
+"That is what Brandon says about the time you made wine."
 
 She handed him the torch.
 
-Jace took Sparky's remote. The drone still had no intelligence of its own on this side. Its three cameras recorded incompatible slices of the same volume, and its wheels sometimes chose different versions of the floor. Jace kept the thrust low and guided it by hand.
+Jace took Sparky's remote. The drone still had no intelligence of its own on this side. Jace kept the thrust low and guided it by hand.
 
-He looked at Nick.
-
-Nick had closed his eyes. Cerberus remained against him, alert and unhappy.
-
-"Bring back every memory card," Nick said. "I did not come here for you to lose the data."
-
-"Not us?"
-
-"The data is more obedient."
-
-Jace, Sophia, and Nikos left the ship.
+"Lets go hunt a snark."
 
 
 
 The creature had left a trail.
 
-Its burnt tissue appeared as dark curls inside the walls between Ring Two and Ring Three. Some marks followed surfaces. Others crossed empty projections where no physical corridor existed. Sparky saw the trail in fragments. Jace saw it as a wound in the station's pale structure.
+In the astral, its burnt tissue appeared as dark curls inside the walls near the main stairway to Ring Three. Some marks followed surfaces. Others crossed empty projections where no physical corridor existed. Sparky recorded the trail in fragments. Jace saw it as a wound in the station's pale structure.
 
 Nikos saw more.
 
@@ -965,7 +959,7 @@ Nikos saw more.
 
 Nikos used his torch to point without touching. Three patches of burnt tissue appeared separated in Jace's view. Nikos shifted two steps sideways and all three joined into a single curve.
 
-"It moved around the wall," he said. "Around a direction we usually cannot use."
+"It moved around the wall," he said. "Around a direction we cannot use."
 
 "Stepping sideways," Sophia said.
 
@@ -973,15 +967,17 @@ Nikos gave her a sharp look.
 
 "Now you say it as if it was always obvious."
 
-They followed the curve.
+They followed the curve, stepping through walls and around copper and silver pipes and patches. While they could go through those metals, it was uncomfortable and slow.
 
-The trail descended into Ring Three and ended near the vacuum gap around the unlisted room. Its silver skin remained a clean absence. Nothing beyond it resolved, not even the structural glow of the station.
+The trail descended into Ring Three and ended near the vacuum gap around the unlisted room. The room's silver skin remained a clean absence. Nothing beyond it resolved, not even the structural glow of the station. They moved slowly, lights off.
 
-The creature lay folded between that blind surface and the outer truss.
+Sophia saw it first. The creature lay folded between that blind surface and the outer truss, like it wanted to get in but couldn't.
 
 At first Jace mistook it for wreckage. Sparky's exhaust had opened a blackened trench across its back. Several limbs ended in hardened stumps. Its hide moved wetly around the damage, trying to close.
 
-Nikos whispered, "That is alive?"
+Nikos whispered into the radio, "That is alive?"
+
+Jace went to shush him.
 
 The red eye opened.
 
@@ -989,15 +985,17 @@ The creature unfolded.
 
 Sophia struck first.
 
-Her force caught the injured side and drove it toward the silver wall. The creature twisted around the push. Half of it moved one way, half another. It slipped past the impact and came at them across two surfaces at once.
+Her push caught the injured side and drove it toward the silver wall. The creature twisted around the push. Half of it moved one way, half another. It slipped past the impact and came at them across two surfaces at once. But, one of it's limbs hit the silver wall behind it and it jerked back in pain.
 
-Jace fired his torch.
+Jace stepped towards it and fired his torch, already set for maximum range of about a meter.
 
 The flame caught one forelimb. Tissue bubbled and pulled away so quickly that the creature struck itself against the truss.
 
-"Fire works," he said.
+"What's happening?" Nick asked over the radio, hearing the squeals and their grunts.
 
-"Do more of it," Nikos said.
+"Fire works," Jace said.
+
+"Do more of it," Nikos said, tension in his voice.
 
 All three torches opened.
 
@@ -1005,35 +1003,19 @@ The creature folded behind a conduit. Jace's flame passed through the place wher
 
 The creature appeared there.
 
-Nikos burned it across the mouth.
+Nikos burned it across what would normally be called a mouth, but was nothing like one on earth-evolved creatures.
 
 It screamed inside Jace's skull.
 
 His vision broke into three valid images. In one, the creature climbed the truss. In another, it lunged at Nikos. In the third, it had disappeared.
 
-Aura did not choose.
+Aura highlighted one that was somehow where all three overlapped.
 
-Three outlines remained in Jace's display, each labeled with its source.
-
-"Nikos, down."
+"Nikos, get down."
 
 Nikos dropped.
 
-Jace burned the second outline. The torch met resistance. Black fluid flashed into vapor, and the other two images collapsed into the one thrashing above Nikos.
-
-Sophia pushed again.
-
-The creature struck the silver-clad room.
-
-Every limb recoiled at once.
-
-It twisted away from the wall with enough force to tear one burned leg free. The loose limb dissolved before it reached the deck. The creature came back toward Sophia, faster now, trapped between fire and something it feared more.
-
-Jace drove Sparky beneath it and fired the remaining thruster.
-
-The exhaust lifted the creature. Sophia caught it in the same instant and held it against the silver.
-
-Her face went white.
+Jace flamed his torch at the highlighted place. The torch met resistance. Black fluid flashed into vapor, and the other two images collapsed into one thrashing mass.
 
 "Now," she said.
 
@@ -1041,49 +1023,31 @@ Jace and Nikos closed from opposite sides.
 
 They burned it.
 
-The creature fought the force pinning it. One limb reached through the flame and wrapped around Jace's forearm. His armor smoked. The hooked tip found the seam beside his wrist and began to press through.
+The creature fought the force pinning it. One limb reached through the flame and wrapped around Jace's forearm. His armor smoked. The hooked tip found the seam beside his wrist and began to press through, freezing the skin. Jace yelped.
 
-Nikos changed angle and burned the limb off Jace.
+Nikos changed angle and burned the limb off Jace, making sure not to hit him with the flame. Nikos had surprisingly good aim.
 
 Another limb struck Nikos across the chest. His ceramic plate cracked. He flew backward, hit the truss, and lost his torch.
 
-Sophia's hold wavered.
-
-The creature peeled itself away from the silver.
-
-Jace dropped Sparky's remote and caught Nikos's torch before it drifted out of reach. He opened both flames and crossed them through the wound Sparky had made the night before.
+Sophia pushed at it again and it fell over. She stuck her flame closer into it's central body.
 
 The creature convulsed.
 
 Its red eye divided into four smaller eyes, each looking in a different direction.
 
-Sophia raised her father's pen.
-
-"Stay," she said.
-
-The force returned hard enough to bend the silver panel inward.
-
-Jace kept both torches inside the wound.
-
-The creature burned from the center out.
-
 Its scream became a vibration, then pressure, then nothing.
 
-The limbs released. The hide collapsed into layers thinner than paper. Those layers folded inward until no body remained, only a sphere floating a handspan from the silver wall.
+The limbs released. The hide collapsed into layers thinner than paper. Those layers folded inward until no body remained, only a bright glowing smudge on the ground within the smouldering smoking floor plate.
 
-It was the size of a plum and held more colors than Jace's cameras could name. Purple turned through amber. Fine green lines gathered at the surface and sank again.
-
-Sophia released her force.
-
-Nikos slid down the truss, conscious but stunned.
+It was the size of a plum and held more colors than Sparky's cameras could capture. Purple turned through amber. Fine green lines gathered at the surface and sank again. Aura zoomed in on it.
 
 Jace shut off the torches.
 
-The sphere moved toward Sophia.
+The light from the monster pulled into it self, forming a sphere that moved toward Sophia.
 
 "Do not touch it," Jace said.
 
-"It is moving."
+"Its moving."
 
 "That is not a reason to touch it."
 
@@ -1095,292 +1059,239 @@ Sophia gasped.
 
 The sphere emptied into her.
 
-For one second, she became brighter than the silver wall was dark. Gold and green moved through her arms and gathered behind her ribs. The space around her flexed. Nikos's fallen torch leapt from the deck and struck a conduit five meters away.
+For a split second, she became brighter than the silver wall was dark. Gold and green moved through her arms and gathered behind her ribs. The space around her flexed. Nikos's fallen torch leapt from the deck and struck a conduit two meters away.
 
-Sophia stared at her hand.
+Sophia stared at her hand, at the torch.
 
-"I did not do that."
+"I didn't do that."
 
-"You did something," Jace said.
+"You did something. That's like the one I touched on the Falcon," Jace said.
 
 "Warm," she said. "It feels warm."
 
-Nikos pushed himself upright.
+Nikos pushed himself upright, panting and seating and shaking from adrenaline.
 
 "I would like to conduct the rest of this discussion inside the ship."
 
-Jace retrieved Sparky and every memory card.
+Jace retrieved Sparky and checked that the memory cards had recorded everything.
+
+Nick's voice came over the radio, "Did we win?"
 
 They left the creature's absence beside the silver room.
 
 
 
-Nick had been in the Astral for nineteen minutes.
+Nick had been in the Astral for less than an hour.
 
 He sat exactly where they had left him, one hand locked around Cerberus's harness. The red card lay ready under his other hand.
 
-"You had sixty-one seconds," he said.
+"That didn't sound as easy as you said the thing on the Falcon was to burn," he said.
 
-"We killed it," Jace said.
+"It was much much stronger. We killed it," Jace said.
 
 Nick opened his eyes.
 
-"Good. Take me out of here."
+"Good. Get me out of here."
 
-Sophia and Jace returned him first. Cerberus crossed with them, pressed close enough to Nick that the dog's fur arrived tangled in Nick's fingers.
+Sophia and Jace returned him first. Sophia going first, then pulling him. Cerberus crossed with them, pressed close enough to Nick that the dog's fur arrived tangled in Nick's fingers.
 
-Nick became physical, rolled to one side, and vomited again.
+Nick became physical, rolled to one side, and vomited again. Cerberus jumped back then sniffed at the mess.
 
-"That," he said when he could speak, "is not like anything in the games."
+"That," Nick said when he could speak, "is not like anything in a game."
 
-Brandon checked him while Jace and Sophia went back for Nikos. Misty recorded each transition, power fluctuation, scale change, and physical symptom.
+Brandon checked him while Jace and Sophia pushed Nikos across. Nick's Aura system on this side recorded each transition, power fluctuation, scale change, and physical symptom. Jace's Aura was recording from there, and they'd sync all the data together to see what they could learn.
 
-No one crossed again that night.
 
-They watched the three camera feeds in the Victoria's galley instead. Aura preserved each view separately. Nikos stopped the recording twice to explain where the creature had moved around a direction rather than through a wall. Sophia remained wrapped in a blanket, unusually warm, her father's pen balanced across both hands.
 
-Brandon ignored the fight.
+It was late, but everyone wanted to watch the camera feeds. Nick had regained his composure, and had pulled out a large tablet that he'd brought with. It unfolded into screens and keyboards and joysticks. He was like a maestro, finally playing the instrument he excelled at. He helped the two Aura's sync and pulled in the various camera feeds from sparky's data spike and the ones Brandon had set up locally.
 
-He rewound six seconds of footage captured while Sparky faced away from Ring Three. The camera had looked out through Fortuna's incomplete outer structure and into the Astral sky.
+Nikos was really getting into the retelling. He stopped the recording twice to explain where the creature had moved around a direction rather than through a wall. Sophia remained wrapped in a blanket, unusually warm, playing with her father's pen in both hands.
 
-He enlarged the frame.
+Brandon ignored the fight. He was upset that Nikos and Sophia and... well everyone were in danger. He was mad at Jace at how strong the creature had been, how much danger they all had been in. He was mad that aliens were invading. He was mad that science was broken.
 
-"Where was the camera pointing?" he asked.
+Nikos was pointing, "This. This is what I mean. The stars are wrong. Look at Delta Cephei. Polaris. Just look!"
 
-Jace checked the orientation log.
+They all looked at him, then the screen. They had all spent years in space and were familiar, but the stars were there.
 
-"Outward. About twenty degrees above the ring plane."
-
-Brandon brought up Fortuna's physical navigation model and laid it beside the recording.
+"Aura can you pull up the same star scape from outside Fortuna? Then overlay them."
 
 The stars did not match.
 
-"Then either every camera turned without recording it," Brandon said, "or the sky is wrong."
+"Look, see? Half the stars are off by centimeters! Which means light years as they are so far away. Is this a million years in the past? No, Polaris would be way over here. And these clouds? Look towards the inner system, it's like clouds of gas covering everywhere."
+
+"Space is broken."
 
 
 
 
 Chapter 24. Wrong Stars
 
-Apollo: Artemis's messages skipped nineteen sequence numbers.
+“The immense distances to the stars and the galaxies mean that we see everything ins pace int he past, some as they were before the Earth came to be. Telescopes are time machines.”
+Carl Sagan
 
-Athena: Could her clock be wrong?
+By breakfast, Nikos had turned space is broken into fourteen hypotheses with planned experiments noted by each.
 
-Apollo: Her clock agrees with ours.
+Brandon had set the screen embedded in the galley table to show fields of stars.
 
-Athena: That sounds worse.
+He kept the field fixed and moved Sparky's recording across it. The constellations almost aligned, then pulled apart at their edges. Jupiter caused the cleanest disagreement. Its spectrum and moons matched, but its position was closer to where the physical ephemeris said it would appear eleven minutes later.
 
-Brandon covered the galley table with stars.
+"Less delayed," Brandon said. "As if its light had less distance to cross."
 
-He projected Fortuna's navigation model first, a familiar field centered on the station's current position. Then he laid Sparky's Astral recording across it.
+Jace had expected the previous night's adventure to make Brandon cautious. Instead, Brandon attacked the impossible sky the way he approached an unfamiliar sample: find one known thing, measure it, and refuse to be distracted by everything else.
 
-The two skies refused to become one.
+Nick had gone home to sleep and work. He sent three messages. The first said he was alive. The second said he would never cross again. The third demanded every raw recording and complained that Jace had labeled two clocks front one and front other one.
 
-Some stars appeared too bright. Others occurred where the catalog predicted empty space. The physical overlay identified three planets by spectral profile, but placed each slightly away from the recorded light. Even the star patterns that matched seemed stretched around their edges.
+Aura: The disagreement is structured. The current camera baseline cannot separate distance compression from fourth-axis displacement.
 
-Jace moved the overlays back and forth.
+"What would?" Jace asked.
 
-"Could the camera have rotated?"
+Aura: Targets with known physical ranges.
 
-"All three cameras would have needed to rotate by different amounts without changing their inertial records," Brandon said. "Then they would need to return to their original orientations before the creature attacked."
+Brandon opened Fortuna's maintenance map. Seven surveyed reflectors were visible from the Victoria's berth.
 
-"The inertial sensors disagree in the Astral."
+Then he smiled.
 
-"They disagree about movement. They do not invent the same impossible sky."
+"So we launch two rockets."
 
-Nikos sat at the end of the table with a medical patch across his bruised chest. He had been quiet since the hunt, which worried Jace more than his usual anger would have.
+Sophia looked up from her notebook. "Why is that your answer?"
 
-"The catalog assumes light arriving through physical space," Nikos said. "We do not know that this light did."
+"The reflectors give us seven fixed points. Two rockets give us the same moving experiment in both the Real and the Astral."
 
-Brandon enlarged one bright point.
+"Also, you want to launch rockets."
 
-"This is Jupiter. The spectrum matches. The moons match. Its position does not."
+"I am a chemist. Rockets use chemistry to explode things. Yes, I really want to launch rockets."
 
-"How far?" Jace asked.
 
-"Approximately where the physical ephemeris predicts it will appear eleven minutes later."
 
-Sophia stopped writing.
+The Victoria carried small disposable survey rockets for throwing instrument packages clear of a plume or unstable work site. Jace could have requested them, but a delivery operator under review asking for chemical rockets after a fight would have made Penny curious for the rest of her unnatural life.
 
-"Later from our perspective," she said. "Or less delayed from its own."
+Brandon checked out two under the Victoria's research account.
 
-Brandon nodded.
+"Astrochemical plume comparison," he read from his requisition. "Which is true, concise, and none of their business."
 
-"If the light crossed less space before reaching the camera, we may be seeing a more current Jupiter."
+The rockets came from the same production lot. Brandon inspected both. Jace removed their sample packages and printed matching tracking fins and camera targets. Fortuna traffic control approved one narrow physical launch corridor away from the rings. The second rocket would never enter controlled physical space at all.
 
-Jace looked at the crowded Astral sky.
+Getting it there consumed most of the day.
 
-"The stars are not in the wrong places. We are seeing them from the wrong distance."
+They drained and disassembled the Astral rocket, then pulled its pieces through one by one. They transferred the propellants in separate sealed tanks. The hydrogen crossed easily. The oxygen, motor casing, valves, and tracking panels did not. By the time Jace rebuilt the highly explosive device on the Astral workbench, his hands shook badly enough that Sophia took the tools away from him. Nerves combined with the extreme cold made detailed work hard.
 
-"That is a hypothesis," Sophia said.
+Nick's upgrade to the dimensional telegraph arrived in a foam case with BETTER THAN MORSE printed across the lid. On the physical bench, three copper rods now rose and fell together. Two carried the symbol. The third carried Nick's running checksum. If vibration swallowed one movement or added another, the receiver rejected that pulse instead of inventing a word.
 
-"Yes."
+"Four symbols at once," Jace said after the first clean test. "And error detection."
 
-"Good. It is better than declaring the sky wrong."
+Sophia watched the three projected rods lift in the Astral frame. The receiver spoke through her radio.
 
-Brandon folded his arms.
+test test test
 
-"The sky started it."
+No lost spaces. No noise from the water pump.
 
-Nick had gone home after Lanchee cleared him. He had sent three messages since then. The first said he was alive. The second said he would never cross again. The third asked for every raw camera file and complained that Jace had labeled two clocks front one and front other one.
+"Nick will be unbearable," she said.
 
-Jace gave Aura access to the three hunt recordings, their orientation logs, and the public navigation catalog.
+The telegraph still only carried electronic messages from the Real into the Astral. Paper remained the return path, but a reliable sentence now arrived quickly enough to coordinate a launch.
 
-Aura: The star-field disagreement is structured. I can test geometric transformations, but the camera baseline is too short to distinguish distance compression from fourth-axis displacement.
+Next came a compact room scrubber, a circulation fan, and a small oxygen reservoir. The scrubber did not make oxygen. It removed carbon dioxide, pushed the existing air through Sophia's cabin, and metered replacement oxygen from the tank. That distinction mattered in a place with almost nothing to breathe.
 
-"What baseline do you need?"
+The last item was a potted alpine saxifrage from the Farm's cold-growth trials. Its insulated pot was almost as large as the plant. Tiny green leaves crowded close to the dark soil.
 
-Aura: A set of targets with independently known physical ranges. Fortuna's external maintenance reflectors provide eleven candidates from two hundred meters to thirty-two kilometers.
+Sophia stared at it.
 
-Brandon was already opening the station map.
+"It will tolerate the cold," Brandon said. "It will not keep you alive. But, it is a good test as long as it doesn't drown in the carbon dioxide."
 
-"Seven are visible from this berth."
+"It is the first green thing here that is not me."
 
-"Visible in the Real," Sophia said.
+She put it beside her notebook shelf.
 
-"Then we test whether they remain visible where you go."
+The room still looked like a stolen workshop sealed inside a transparent ruin. Now it also breathed, accepted messages, and contained one living thing that had arrived on purpose.
 
-Lanchee had ordered forty-eight hours without another hunt. Jace decided a measurement was not a hunt.
 
-He did not tell Lanchee that distinction because he wanted to live long enough to test it.
 
+Brandon designed the measurements. Jace mounted the markers. Sophia rejected their first two camera arrangements and approved the third. They kept every clock independent and every feed raw. Aura could compare the records after the test ran.
 
+Sophia remained in the Real with the physical rocket. The sphere from the creature had left her warm and restless, and that morning she had lifted a coffee cup to drink from barely without noticing when her hands were already full.
 
-Brandon designed the experiment.
+Jace and Sophia pulled Brandon across. Nikos followed to run the range instruments. His second crossing went faster. He knew which sensations were frightening and which were only impossible.
 
-Jace built it.
+When both men settled beside Sparky, Jace felt a flash of pride at how many people could now work in the hidden room.
 
-Sophia objected to both versions until the third.
+Then he thought about carrying both men back.
 
-Three physical cameras remained aboard the Victoria, fixed to a one-meter rail and aimed through the berth's outer observation port. Three matched cameras already sat on Sparky in the Astral. Both arrays observed the same maintenance reflectors. Each reflector's physical position had been surveyed repeatedly by station traffic control, independent tugs, and the construction office.
+That was going to be exhausting.
 
-Brandon isolated every clock.
+In the Astral, the crossed rocket rested beside the physical rocket's ordered projection. Same length. Same tanks. Same tracking fins. Two thin machines occupying almost the same line until one of them became translucent at the edges.
 
-"No shared timing correction," he said.
+Brandon crouched between them with a camera in each hand.
 
-"Agreed," Jace said.
+"All masrkers matched?," Sophia asked through the telegraph.
 
-"No station model filling a dropped frame."
+MATCHED PERFECTLY, Brandon wrote and Jace pushed it across. Neither Brandon nor Nikos were able to cross things over despite many attempts.
 
-"Agreed."
+Jace armed the Astral motor. Sophia armed the physical one. The telegraph receiver counted down in Nick's flat synthetic voice.
 
-"No Aura normalization until all raw files are copied."
+"Three. Two. One."
 
-"Agreed."
+Jace and Sophia fired together.
 
-Sophia looked at him.
+For one breath, the rockets flew side by side, overlapped.
 
-"You agreed too quickly."
+Two blue-white flames opened against the dark. The physical rocket's projection moved with the steady, familiar violence its designers intended. Beside it, the Astral rocket jumped.
 
-"Nick has been training me."
+Brandon shouted something that became laughter.
 
-Brandon stayed physical with the first array. Jace crossed with Sparky and the second. Sophia remained physical because the previous day's sphere had left her warm, restless, and unable to hold a cup still when she stopped paying attention.
+The Astral rocket passed the first reflector while its physical twin was still closing on it. Its exhaust stretched brighter and longer. The gap between the two machines widened so quickly that Sparky dropped one camera scale, then another.
 
-No one called that an improvement.
+"Hydrogen and oxygen," Brandon said. "The same reaction. The same water. Look what it is doing here."
 
-In the Astral, Jace positioned Sparky against the persistent outline of the observation rail. He aligned the drone as closely as he could with its physical counterpart, then used the paper telegraph to tell Brandon he was ready.
+The physical rocket's flame narrowed as it flew out of sight. They had an electronic telescope trained on it. In the astral, they had printed and polished lenses, so had an old-school basic glass telescope watching.
 
-The first reflector was easy. It sat on Fortuna's unfinished outer spine and shone as an ordered knot of aluminum and glass.
+The Astral rocket kept burning. It had became a hard white point in Sparky's cameras, and kept going unbelievably far. Then the point swelled.
 
-The second appeared too close.
+"Um. That is not scheduled," Jace said.
 
-The third appeared closer still relative to its physical range.
+The rocket burst in a silent blue-white sphere. Something bright spun away from it, separated into three incompatible shapes, and disappeared into the crowded stars.
 
-By the seventh, Jace could see the pattern without mathematics. The outer targets gathered inward. Farther objects did not recede as quickly as they should.
+The paired launch was dramatic and uncontrolled in ways Sophia would underline later. The reflectors were less exciting and more useful. Jace and Nikos moved Sparky to two additional origins and measured all seven fixed targets again. The absolute values shifted slightly.
 
-He sent each observation through the paper slot. Brandon returned physical range, bearing, and confidence values on numbered cards.
+After crossing everyone back and normalizing the numbers, the pattern became simple enough to say aloud. When the physical rocket went two units the astral went four. When the physical rocket went five, the astral rocket went twenty five. Their measurements in the astral were much rougher, but it looked like the rocket there had gone almost a million meters before exploding... way further than the kilometer it was intended to fly.
 
-Aura kept the three Astral projections separate. It used parallax between the camera positions to propose a range in each projection, then displayed every result rather than selecting one.
+"Squares," Sophia said.
 
-The numbers disagreed in absolute distance.
+Aura: A square transform fits all fixed targets within current uncertainty. The two moving targets support different acceleration and burn behavior, but the crossed rocket is not a controlled distance reference. Physical separation is proportional to Astral separation squared. This violates all known laws of physics.
 
-Their ratios agreed.
+Brandon stared at the empty place where the Astral rocket had vanished.
 
-Jace stared at the sequence.
+Brandon said, "We need more rockets."
 
-The fourth reflector lay four times farther from the ship than the first in physical space. Its Astral separation measured almost twice as large.
+"We need to understand why that one exploded."
 
-The sixth lay nine times farther. Its Astral separation measured almost three times as large.
+"That is why we need more rockets."
 
-The seventh lay sixteen times farther. Its Astral separation measured almost four times as large.
+Jace watched the print queue fill with neat white rocket parts and thought of Brandon and Nikos waiting to be pulled across for every test. His shoulders already ached.
 
-"Four becomes two," Jace said. "Nine becomes three. Sixteen becomes four."
 
-Aura: A square-root transformation fits all seven targets within the current measurement uncertainty.
 
-"Reverse it."
+After Jace got back from work, they met in the Victoria. They always had food, and Jace was starving from all the recent astral crossings. Cerberus was starving because he was a growing puppy.
 
-Aura: After normalization to the nearest reflector, physical separation is proportional to Astral separation squared.
+The scientists had been sciencing, looking like they hadn't moved all day.
 
-Jace read the sentence twice.
+Aura projected the physical ranges as a steep curve. The square transform brought the Astral measurements close to a straight line.
 
-He had walked through Fortuna in the Astral without noticing because he had measured distance with his body, and his body had no reason to insist that two different spaces use the same scale. The station's overlapping geometry had hidden the effect. The known reflectors exposed it.
+Nikos studied it.
 
-He wrote on a blank card:
+"Space changes scale," he said. "Time may not. If light crosses the shorter path at the same limiting speed, Jupiter's image arrives with less delay."
 
-DISTANCE DOES NOT MATCH. FOUR TO TWO. NINE TO THREE. SIXTEEN TO FOUR. POSSIBLE SQUARE.
+"May," Sophia said.
 
-He pushed it to Brandon.
+"Yes, may. We need another experiment for light itself."
 
-The answer came back less than a minute later.
+Jace looked from the curve to Sparky's three incompatible camera feeds.
 
-REPEAT FROM SECOND ORIGIN. DO NOT FALL IN LOVE WITH FIRST CURVE.
+"Every model we built used physical distance. They were all voting with the wrong rules."
 
-Jace smiled.
+Aura: The new transform improves reflector alignment by eighty percent. It does not resolve disagreement caused by fourth-axis projection.
 
-They moved the Astral camera rail to the far side of the Victoria and repeated the sequence.
+But it gave them one correction they had not possessed the day before.
 
-The absolute values changed slightly. The same curve remained.
-
-Brandon asked for a third origin.
-
-By the time Jace returned, his hands were shaking from cold and the galley wall carried three pages of ratios.
-
-Sophia stood in front of them, father's pen in hand.
-
-"This is preliminary," she said.
-
-"Seven targets, three origins," Brandon said.
-
-"Preliminary can contain good data."
-
-"It is a square," Jace said.
-
-Sophia pointed the pen at him.
-
-"It is consistent with a square."
-
-"That sentence is longer."
-
-"It is also honest."
-
-Aura projected both models. The physical ranges formed a steep curve. The transformed values formed a near-straight line.
-
-Nikos studied the plots from his cabin terminal.
-
-"Space changes scale," he said. "Time may not. If light still propagates at its normal limit across the shorter path, Jupiter's image arrives with less delay."
-
-"And the stars?" Brandon asked.
-
-"Higher parallax. Less look-back time. More light from objects physical instruments treat as too distant or too faint. The catalog is not wrong. The observation geometry is."
-
-Sophia wrote faster.
-
-"A second spatial law," she said. "Not only a fourth direction. A different relationship between separations."
-
-Jace looked from the curved plot to Sparky's three incompatible camera feeds.
-
-"Then every model we build using physical distance is voting with the wrong rules."
-
-Aura: That is likely. The new transform improves reflector alignment by eighty-one percent. It does not resolve disagreements caused by fourth-axis projection.
-
-"But it gives us one correction we did not have yesterday."
-
-Aura: Yes.
-
-Jace thought about the medical scanners in Lanchee's clinic. Physical volumes. Astral projections. Two spaces using different distance rules.
-
-He also thought about the chip waiting in the Foundry.
+Jace thought about the medical scanners in the medical clinic. Physical volumes. Astral projections. Two views of the same subject using different distance rules.
 
 
 
@@ -1392,89 +1303,75 @@ He met Jace in the Foundry instead, wearing new overlay glasses and both pearl e
 
 "I did not say you were."
 
-"Your face said it."
-
-"My face is swollen. It says several things."
-
 Nick placed the custom chip under a magnifier.
 
 It was smaller than Jace's little fingernail and built to match the hardened socket inside Sparky's Astral chassis. Ordinary silicon. Copper traces. No gold contacts. No Origin substrate. Alex had marked the design obsolete because its tolerances belonged to hardware generations older than Nick.
 
 Nick had loaded a minimal Aura stack onto it anyway.
 
-"No personality layer," he said. "No purchasing, messages, social model, or station credentials. Sensor correlation, local navigation, memory integrity, and a small language interface. It cannot join the public Aura mesh unless I physically rewrite it."
+"Minimal personality layer," he said. "None of the complex human-pairing features. Sensor correlation, local navigation, memory integrity, and a small language interface. As small as I can get it to run on that chip."
 
-"Can it run the square transform?"
+"Did you put in the custom physics libarary Sophia was working on? With squares for distances?"
 
-"It can test your square transform. You have not earned the definite article."
+"It can test your square transform hypothesis. It can toggle between physics libraries in case it doesn't wokr out. That just sounds like crazy voodoo, I can't wrap my head around it."
 
-"Sophia has been talking to you."
+Jace collected the chip in a ceramic carrier. He and Sophia spent five hours pulling it across from the Victoria. The component fought harder than its size suggested. Every microscopic interface added resistance. The AI cores were dense, it felt like a boulder.
 
-"Sophia understands uncertainty."
+When it finally settled into Jace's Astral hand, Sophia sagged against the wall.
 
-Jace collected the chip in a ceramic carrier. He and Sophia spent two hours pulling it across from the Victoria. The component fought harder than its size suggested. Every microscopic interface added resistance.
-
-When it finally settled into his Astral hand, Sophia sagged against the wall.
-
-The ceramic carrier rose beside her.
+A water bottle rose beside her.
 
 She was not touching it.
 
 It continued upward until it struck the ceiling plane.
 
-Sophia looked at her father's pen, then at the carrier.
-
 "I was not pushing that hard."
 
 "You said you did not push the torch yesterday."
 
-"I was incorrect yesterday. I am confused today."
+"I... may have pushed it. It was hot, I didn't want it to burn me."
 
-"Progress."
+"Definitely not witchy."
 
-She glared at him, but wrote it down.
+She glared at him, but wrote everything down all the same.
 
-Jace opened Sparky's rear access panel and seated the chip.
+Jace opened Sparky's rear access panel and seated the chip, reset his system.
 
 The drone's lights came on one at a time.
 
-Aura-S: I have three cameras and four mutually exclusive definitions of forward.
+Aura-S: Hello Jace, Hello Sophia. I seem to be experiencing difficulties with the definition of 'forward'.
 
 Jace laughed.
 
 "Welcome to the project."
 
-Aura-S: The greeting does not resolve the discrepancy.
+Aura-S: Thank you. My cameras seem to be reporting visual distortions.
 
-"You sound like Nick."
+Aura: Hello Aura-S. I am sending you a new visual processing model. Note that you have many days of recorded footage. When you are stable, please review those and integrate them. I will send you a few thousand other instructions as well.
 
-Aura-S: Nick Lee prepared this instance. The similarity is not accidental.
+Aura-S: Thank you. I am excited to start.
 
-The new system indexed the raw hunt recordings, the reflector experiment, and Sparky's physical construction model. It applied the preliminary distance transform without combining incompatible projections. Within eight minutes, the three views of a ceramic test block aligned closely enough to show one shape from several angles rather than three unrelated objects.
+"Aura-S, may we name you Sparky? It's getting complicated with so many Aura units."
+
+A green light pattern flashed a sequence on it's outside.
+
+Sparky: Yes. I like that name.
+
+The new system indexed the raw hunt recordings, the reflector experiment, and Sparky's physical construction model. It applied the preliminary distance transform without combining incompatible projections. Within eight minutes, the three views of a ceramic test block aligned closely enough to show one shape from several angles rather than three unrelated objects. Sparky practiced moving, hovering, rolling in the Astral, slowly syncing cameras and body.
 
 Then Jace placed his gloved hand in front of the cameras.
 
 The model failed.
 
-Aura-S: The subject contains internal structure not represented in the physical construction model.
+Aura-S: The subject contains complex internal structure not represented in the physical construction model. More data is needed.
 
-Sophia moved beside him.
-
-Her green and gold light filled every projection differently.
-
-Aura-S: Additional reference data is required.
-
-"What kind?" Jace asked.
-
-Aura-S: A physical volumetric scan of the same subject, captured near the same time, would constrain internal alignment.
-
-Sophia closed her notebook.
+Sophia moved beside him, closed her notebook.
 
 "Lanchee."
 
 
 
-The first version of their request lasted four minutes in Lanchee's hands.
+The first version of their request lasted only four minutes in Lanchee's hands.
 
 It described physical scanner volumes, three transferred cameras, independent clocks, and a local modeling system that preserved disagreement. It asked for supervised access to the clinic's ultrasound, computed-tomography, and magnetic-resonance equipment.
 
@@ -1488,8 +1385,8 @@ Sophia leaned forward.
 
 "Which provision concerns you?"
 
-"The provision where you ask for medical equipment while hiding the method, the location, and the injuries it already caused."
+"The provision where you ask for medical equipment while hiding the method and the location. And the sudden increase in unexplained injuries."
 
-She turned the tablet so the model image faced them.
+She turned the tablet so the model image faced them. She had drawn lines that intersected in a point in the next room, surprisingly close to where Sparky and Jace would be in the Astral.
 
-"If you want my scanners," Lanchee said, "you will start by telling me where the other cameras are."
+"If you want my scanners," Lanchee said, "you will start by telling me everything."

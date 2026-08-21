@@ -30,7 +30,7 @@ appearance_summary: >
   always styled and tinted green ("the green of a chemistry accident" at Arc 1 start).
   Thick overlay glasses (always broken/replaced next day). Two pearl-style earrings
   containing {Aura} instances. Keyboard gloves on his hands at all times.
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 cross_references:
   - "[[char_jace_apollo]]"
   - "[[char_aura_ai]]"
@@ -117,11 +117,18 @@ triggers migraines.
 In Chapter 23, Jace and Sophia pull Nick into the Astral after a prolonged assisted
 crossing. Nick leaves his overlay glasses, keyboard gloves, and pearl {Aura} earrings
 in the Real to reduce the transfer burden. He remains aboard the Astral *Victoria*
-with Cerberus for nineteen minutes while Jace, Sophia, and Nikos hunt the wounded
+with Cerberus for less than an hour while Jace, Sophia, and Nikos hunt the wounded
 Ring Three creature. He vomits twice and concludes, "That's not like anything in the
 games." The specific wrongness is the 4D view: the sense that he could fall through
 walls and that nothing has one stable shape. He refuses another crossing and redirects
 that fear into building physical-side instruments that make another crossing unnecessary.
+
+His first major improvement is a three-rod version of the dimensional telegraph. Two
+copper rods encode four symbols per pulse, while the third supplies a check that lets
+the Astral receiver reject vibration errors. He then designs a sixteen-rod successor:
+eight data rods plus framing, check, and redundant rods. Once refined, the one-way
+array can carry low-rate audio, linked physical-side texts and radio traffic, maps,
+and telemetry from the Real into the Astral. Paper remains the return path.
 
 ## Open Questions
 
@@ -150,7 +157,7 @@ that fear into building physical-side instruments that make another crossing unn
   screens, constant air-typing). The chair (ergonomic, massager, fridge, noodle holder).
   Noodles (ramen, rotates types, preorders, Chinatown walk daily). Korean accent (deliberate
   performance, drops with trusted people). Bay Bridge monitor background (father's photos,
-  pre-flooding). Chapter 23 crossing aftermath (nineteen minutes, vomiting twice,
+  pre-flooding). Chapter 23 crossing aftermath (less than an hour, vomiting twice,
   "not like anything in the games," 4D wrongness). Belt-adapted movement (20 years
   in low gravity).
 - 2026-07-14: Reworked transit companions: updated Jace friendship origin, added 10× vision belief, added drone-testbed HUD pairing note.

@@ -5,7 +5,7 @@ type: arc_thread
 part_of: arc_01_falcon_and_fortuna
 status: draft
 canonical: true
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
   Scene contracts for Thread N — Nick's disclosure and the open-source decision;
   the AI systems thread. Migrated out of arc_01_falcon_and_fortuna.md during the
@@ -44,7 +44,7 @@ Chapter 22 is the first functional repair: Jace admits that danger exists and as
 for help without demanding forgiveness. Nick installs {Aura} under explicit safety
 conditions. Later that chapter, Sophia discloses the Astral to Nick, Brandon, and
 Nikos. Chapter 23 turns disclosure into participation when Jace and Sophia pull Nick
-across for nineteen minutes. He remains aboard the Astral *Victoria* with Cerberus,
+across for less than an hour. He remains aboard the Astral *Victoria* with Cerberus,
 returns sick and frightened, and commits to building physical-side instruments so he
 does not need to cross again.
 
@@ -65,8 +65,8 @@ does not need to cross again.
 **Summary:** Nick's first crossing happens in Chapter 23 during preparation for the
 Ring Three hunt. Jace and Sophia **pull** Nick across after first transferring Nikos.
 The effort is prolonged and exhausting. Nick leaves his glasses, gloves, and earring
-instances in the Real, remains aboard the Astral *Victoria* with Cerberus for nineteen
-minutes, vomits twice, and refuses to join the hunt.
+instances in the Real, remains aboard the Astral *Victoria* with Cerberus for less
+than an hour, vomits twice, and refuses to join the hunt.
 
 **Aftermath:** Nick *can* technically cross again, but it leaves him sick and scared.
 He chooses to engineer everything so he never has to and does **not** invest in
@@ -74,12 +74,16 @@ He chooses to engineer everything so he never has to and does **not** invest in
 will cross again if no physical-side solution can meet the need.
 
 **Must accomplish:**
-1. Nick's crossing is authentic but bounded: nineteen minutes aboard the safe-haven
+1. Nick's crossing is authentic but bounded: less than an hour aboard the safe-haven
    ship, no participation in the hunt.
 2. His 4D disorientation and vomiting establish a real medical and emotional cost.
 3. The pull mechanic requires Jace and Sophia, sustained contact, and extended time.
-4. Nick immediately redirects the experience into physical-side instrumentation and
-   the bounded {Aura-S} instance for Sparky.
+4. Nick immediately redirects the experience into physical-side instrumentation,
+   beginning with a three-rod checked Astral telegraph and a planned sixteen-rod byte
+   link, as well as the bounded {Aura-S} instance for Sparky.
+5. The expanded telegraph remains electronic only from the Real into the Astral. Its
+   eventual low-rate audio, text, radio, maps, and telemetry do not solve the return
+   path.
 
 ---
 

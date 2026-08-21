@@ -4,19 +4,21 @@ name: "Chapter 24. Wrong Stars"
 type: chapter_draft
 book: book01
 chapter: Ch24
-scene_contract: X-05a preliminary distance-squared derivation + X-04g Sparky {Aura} installation
+scene_contract: X-05a paired-rocket and reflector distance derivation + X-04g Sparky {Aura} installation
 pov: char_jace_apollo
 status: staged_draft
 schema_version: 2
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
-  Brandon notices that Sparky's Astral sky recording does not match Fortuna's
-  physical navigation model. He, Jace, and {Aura} use known station reflectors,
-  parallax, and independent camera clocks to find a preliminary square-distance
-  relationship. Nick prepares the completed custom chip, which Jace and Sophia
-  install in Astral Sparky. The upgraded drone can correlate its incompatible
-  camera projections with physical scanner volumes, leading the team to ask
-  Lanchee for access to clinical imaging equipment.
+  After Nikos identifies the wrong Astral sky, Brandon requisitions two matched
+  survey rockets so the team can launch one in each layer. A three-rod upgrade to
+  the dimensional telegraph synchronizes the test, while an air scrubber and a
+  cold-tolerant plant begin turning Sophia's Astral room into a field station. The
+  Astral rocket outruns its physical twin and explodes far beyond it; fixed-reflector
+  measurements then support a preliminary square-distance relationship. Nick later
+  prepares the completed custom chip and sketches a sixteen-rod successor to the
+  telegraph before Jace and Sophia install {Aura-S} in Sparky and ask Lanchee for
+  access to clinical imaging equipment.
 cross_references:
   - "[[arc_01_thread_X_astral]]"
   - "[[arc_01_thread_N_nick_ai]]"
@@ -28,6 +30,7 @@ cross_references:
   - "[[char_lanchee]]"
   - "[[char_aura_ai]]"
   - "[[ship_victoria]]"
+  - "[[tech_astral_telegraph]]"
   - "[[spec_dimensional_travel_mechanics]]"
   - "[[scene_notes_ai_interactions]]"
   - "[[draft_ch23_fire_in_the_walls]]"
@@ -36,225 +39,172 @@ cross_references:
 
 # Chapter 24. Wrong Stars
 
-> *Apollo: Artemis's messages skipped nineteen sequence numbers.*
->
-> *Athena: Could her clock be wrong?*
->
-> *Apollo: Her clock agrees with ours.*
->
-> *Athena: That sounds worse.*
+> “The immense distances to the stars and the galaxies mean that we see everything ins pace int he past, some as they were before the Earth came to be. Telescopes are time machines.”
+> Carl Sagan
 
-Brandon covered the galley table with stars.
+By breakfast, Nikos had turned *space is broken* into fourteen hypotheses with planned experiments noted by each.
 
-He projected Fortuna's navigation model first, a familiar field centered on the station's current position. Then he laid Sparky's Astral recording across it.
+Brandon had set the screen embedded in the galley table to show fields of stars.
 
-The two skies refused to become one.
+He kept the field fixed and moved Sparky's recording across it. The constellations almost aligned, then pulled apart at their edges. Jupiter caused the cleanest disagreement. Its spectrum and moons matched, but its position was closer to where the physical ephemeris said it would appear eleven minutes later.
 
-Some stars appeared too bright. Others occurred where the catalog predicted empty space. The physical overlay identified three planets by spectral profile, but placed each slightly away from the recorded light. Even the star patterns that matched seemed stretched around their edges.
+"Less delayed," Brandon said. "As if its light had less distance to cross."
 
-Jace moved the overlays back and forth.
+Jace had expected the previous night's adventure to make Brandon cautious. Instead, Brandon attacked the impossible sky the way he approached an unfamiliar sample: find one known thing, measure it, and refuse to be distracted by everything else.
 
-"Could the camera have rotated?"
+Nick had gone home to sleep and work. He sent three messages. The first said he was alive. The second said he would never cross again. The third demanded every raw recording and complained that Jace had labeled two clocks *front one* and *front other one*.
 
-"All three cameras would have needed to rotate by different amounts without changing their inertial records," Brandon said. "Then they would need to return to their original orientations before the creature attacked."
+{Aura}: *The disagreement is structured. The current camera baseline cannot separate distance compression from fourth-axis displacement.*
 
-"The inertial sensors disagree in the Astral."
+"What would?" Jace asked.
 
-"They disagree about movement. They do not invent the same impossible sky."
+{Aura}: *Targets with known physical ranges.*
 
-Nikos sat at the end of the table with a medical patch across his bruised chest. He had been quiet since the hunt, which worried Jace more than his usual anger would have.
+Brandon opened Fortuna's maintenance map. Seven surveyed reflectors were visible from the *Victoria's* berth.
 
-"The catalog assumes light arriving through physical space," Nikos said. "We do not know that this light did."
+Then he smiled.
 
-Brandon enlarged one bright point.
+"So we launch two rockets."
 
-"This is Jupiter. The spectrum matches. The moons match. Its position does not."
+Sophia looked up from her notebook. "Why is that your answer?"
 
-"How far?" Jace asked.
+"The reflectors give us seven fixed points. Two rockets give us the same moving experiment in both the Real and the Astral."
 
-"Approximately where the physical ephemeris predicts it will appear eleven minutes later."
+"Also, you want to launch rockets."
 
-Sophia stopped writing.
-
-"Later from our perspective," she said. "Or less delayed from its own."
-
-Brandon nodded.
-
-"If the light crossed less space before reaching the camera, we may be seeing a more current Jupiter."
-
-Jace looked at the crowded Astral sky.
-
-"The stars are not in the wrong places. We are seeing them from the wrong distance."
-
-"That is a hypothesis," Sophia said.
-
-"Yes."
-
-"Good. It is better than declaring the sky wrong."
-
-Brandon folded his arms.
-
-"The sky started it."
-
-Nick had gone home after Lanchee cleared him. He had sent three messages since then. The first said he was alive. The second said he would never cross again. The third asked for every raw camera file and complained that Jace had labeled two clocks *front one* and *front other one*.
-
-Jace gave {Aura} access to the three hunt recordings, their orientation logs, and the public navigation catalog.
-
-{Aura}: *The star-field disagreement is structured. I can test geometric transformations, but the camera baseline is too short to distinguish distance compression from fourth-axis displacement.*
-
-"What baseline do you need?"
-
-{Aura}: *A set of targets with independently known physical ranges. Fortuna's external maintenance reflectors provide eleven candidates from two hundred meters to thirty-two kilometers.*
-
-Brandon was already opening the station map.
-
-"Seven are visible from this berth."
-
-"Visible in the Real," Sophia said.
-
-"Then we test whether they remain visible where you go."
-
-Lanchee had ordered forty-eight hours without another hunt. Jace decided a measurement was not a hunt.
-
-He did not tell Lanchee that distinction because he wanted to live long enough to test it.
+"I am a chemist. Rockets use chemistry to explode things. Yes, I *really* want to launch rockets."
 
 ##
 
-Brandon designed the experiment.
+The *Victoria* carried small disposable survey rockets for throwing instrument packages clear of a plume or unstable work site. Jace could have requested them, but a delivery operator under review asking for chemical rockets after a fight would have made {Penny} curious for the rest of her unnatural life.
 
-Jace built it.
+Brandon checked out two under the *Victoria's* research account.
 
-Sophia objected to both versions until the third.
+"Astrochemical plume comparison," he read from his requisition. "Which is true, concise, and none of their business."
 
-Three physical cameras remained aboard the *Victoria*, fixed to a one-meter rail and aimed through the berth's outer observation port. Three matched cameras already sat on Sparky in the Astral. Both arrays observed the same maintenance reflectors. Each reflector's physical position had been surveyed repeatedly by station traffic control, independent tugs, and the construction office.
+The rockets came from the same production lot. Brandon inspected both. Jace removed their sample packages and printed matching tracking fins and camera targets. Fortuna traffic control approved one narrow physical launch corridor away from the rings. The second rocket would never enter controlled physical space at all.
 
-Brandon isolated every clock.
+Getting it there consumed most of the day.
 
-"No shared timing correction," he said.
+They drained and disassembled the Astral rocket, then pulled its pieces through one by one. They transferred the propellants in separate sealed tanks. The hydrogen crossed easily. The oxygen, motor casing, valves, and tracking panels did not. By the time Jace rebuilt the highly explosive device on the Astral workbench, his hands shook badly enough that Sophia took the tools away from him. Nerves combined with the extreme cold made detailed work hard.
 
-"Agreed," Jace said.
+Nick's upgrade to the dimensional telegraph arrived in a foam case with **BETTER THAN MORSE** printed across the lid. On the physical bench, three copper rods now rose and fell together. Two carried the symbol. The third carried Nick's running checksum. If vibration swallowed one movement or added another, the receiver rejected that pulse instead of inventing a word.
 
-"No station model filling a dropped frame."
+"Four symbols at once," Jace said after the first clean test. "And error detection."
 
-"Agreed."
+Sophia watched the three projected rods lift in the Astral frame. The receiver spoke through her radio.
 
-"No {Aura} normalization until all raw files are copied."
+*test test test*
 
-"Agreed."
+No lost spaces. No noise from the water pump.
 
-Sophia looked at him.
+"Nick will be unbearable," she said.
 
-"You agreed too quickly."
+The telegraph still only carried electronic messages from the Real into the Astral. Paper remained the return path, but a reliable sentence now arrived quickly enough to coordinate a launch.
 
-"Nick has been training me."
+Next came a compact room scrubber, a circulation fan, and a small oxygen reservoir. The scrubber did not make oxygen. It removed carbon dioxide, pushed the existing air through Sophia's cabin, and metered replacement oxygen from the tank. That distinction mattered in a place with almost nothing to breathe.
 
-Brandon stayed physical with the first array. Jace crossed with Sparky and the second. Sophia remained physical because the previous day's sphere had left her warm, restless, and unable to hold a cup still when she stopped paying attention.
+The last item was a potted alpine saxifrage from the Farm's cold-growth trials. Its insulated pot was almost as large as the plant. Tiny green leaves crowded close to the dark soil.
 
-No one called that an improvement.
+Sophia stared at it.
 
-In the Astral, Jace positioned Sparky against the persistent outline of the observation rail. He aligned the drone as closely as he could with its physical counterpart, then used the paper telegraph to tell Brandon he was ready.
+"It will tolerate the cold," Brandon said. "It will not keep you alive. But, it is a good test as long as it doesn't drown in the carbon dioxide."
 
-The first reflector was easy. It sat on Fortuna's unfinished outer spine and shone as an ordered knot of aluminum and glass.
+"It is the first green thing here that is not me."
 
-The second appeared too close.
+She put it beside her notebook shelf.
 
-The third appeared closer still relative to its physical range.
+The room still looked like a stolen workshop sealed inside a transparent ruin. Now it also breathed, accepted messages, and contained one living thing that had arrived on purpose.
 
-By the seventh, Jace could see the pattern without mathematics. The outer targets gathered inward. Farther objects did not recede as quickly as they should.
+##
 
-He sent each observation through the paper slot. Brandon returned physical range, bearing, and confidence values on numbered cards.
+Brandon designed the measurements. Jace mounted the markers. Sophia rejected their first two camera arrangements and approved the third. They kept every clock independent and every feed raw. {Aura} could compare the records after the test ran.
 
-{Aura} kept the three Astral projections separate. It used parallax between the camera positions to propose a range in each projection, then displayed every result rather than selecting one.
+Sophia remained in the Real with the physical rocket. The sphere from the creature had left her warm and restless, and that morning she had lifted a coffee cup to drink from barely without noticing when her hands were already full. 
 
-The numbers disagreed in absolute distance.
+Jace and Sophia pulled Brandon across. Nikos followed to run the range instruments. His second crossing went faster. He knew which sensations were frightening and which were only impossible.
 
-Their ratios agreed.
+When both men settled beside Sparky, Jace felt a flash of pride at how many people could now work in the hidden room.
 
-Jace stared at the sequence.
+Then he thought about carrying both men back.
 
-The fourth reflector lay four times farther from the ship than the first in physical space. Its Astral separation measured almost twice as large.
+That was going to be *exhausting*.
 
-The sixth lay nine times farther. Its Astral separation measured almost three times as large.
+In the Astral, the crossed rocket rested beside the physical rocket's ordered projection. Same length. Same tanks. Same tracking fins. Two thin machines occupying almost the same line until one of them became translucent at the edges.
 
-The seventh lay sixteen times farther. Its Astral separation measured almost four times as large.
+Brandon crouched between them with a camera in each hand.
 
-"Four becomes two," Jace said. "Nine becomes three. Sixteen becomes four."
+"All masrkers matched?," Sophia asked through the telegraph.
 
-{Aura}: *A square-root transformation fits all seven targets within the current measurement uncertainty.*
+*MATCHED PERFECTLY*, Brandon wrote and Jace pushed it across. Neither Brandon nor Nikos were able to cross things over despite many attempts.
 
-"Reverse it."
+Jace armed the Astral motor. Sophia armed the physical one. The telegraph receiver counted down in Nick's flat synthetic voice.
 
-{Aura}: *After normalization to the nearest reflector, physical separation is proportional to Astral separation squared.*
+"Three. Two. One."
 
-Jace read the sentence twice.
+Jace and Sophia fired together.
 
-He had walked through Fortuna in the Astral without noticing because he had measured distance with his body, and his body had no reason to insist that two different spaces use the same scale. The station's overlapping geometry had hidden the effect. The known reflectors exposed it.
+For one breath, the rockets flew side by side, overlapped.
 
-He wrote on a blank card:
+Two blue-white flames opened against the dark. The physical rocket's projection moved with the steady, familiar violence its designers intended. Beside it, the Astral rocket jumped.
 
-**DISTANCE DOES NOT MATCH. FOUR TO TWO. NINE TO THREE. SIXTEEN TO FOUR. POSSIBLE SQUARE.**
+Brandon shouted something that became laughter.
 
-He pushed it to Brandon.
+The Astral rocket passed the first reflector while its physical twin was still closing on it. Its exhaust stretched brighter and longer. The gap between the two machines widened so quickly that Sparky dropped one camera scale, then another.
 
-The answer came back less than a minute later.
+"Hydrogen and oxygen," Brandon said. "The same reaction. The same water. Look what it is doing here."
 
-**REPEAT FROM SECOND ORIGIN. DO NOT FALL IN LOVE WITH FIRST CURVE.**
+The physical rocket's flame narrowed as it flew out of sight. They had an electronic telescope trained on it. In the astral, they had printed and polished lenses, so had an old-school basic glass telescope watching.
 
-Jace smiled.
+The Astral rocket kept burning. It had became a hard white point in Sparky's cameras, and kept going unbelievably far. Then the point swelled.
 
-They moved the Astral camera rail to the far side of the *Victoria* and repeated the sequence.
+"Um. That is not scheduled," Jace said.
 
-The absolute values changed slightly. The same curve remained.
+The rocket burst in a silent blue-white sphere. Something bright spun away from it, separated into three incompatible shapes, and disappeared into the crowded stars.
 
-Brandon asked for a third origin.
+The paired launch was dramatic and uncontrolled in ways Sophia would underline later. The reflectors were less exciting and more useful. Jace and Nikos moved Sparky to two additional origins and measured all seven fixed targets again. The absolute values shifted slightly.
 
-By the time Jace returned, his hands were shaking from cold and the galley wall carried three pages of ratios.
+After crossing everyone back and normalizing the numbers, the pattern became simple enough to say aloud. When the physical rocket went two units the astral went four. When the physical rocket went five, the astral rocket went twenty five. Their measurements in the astral were much rougher, but it looked like the rocket there had gone almost a million meters before exploding... way further than the kilometer it was intended to fly.
 
-Sophia stood in front of them, father's pen in hand.
+"Squares," Sophia said.
 
-"This is preliminary," she said.
+{Aura}: *A square transform fits all fixed targets within current uncertainty. The two moving targets support different acceleration and burn behavior, but the crossed rocket is not a controlled distance reference. Physical separation is proportional to Astral separation squared. This violates all known laws of physics.*
 
-"Seven targets, three origins," Brandon said.
+Brandon stared at the empty place where the Astral rocket had vanished.
 
-"Preliminary can contain good data."
+Brandon said, "We need more rockets."
 
-"It is a square," Jace said.
+"We need to understand why that one exploded."
 
-Sophia pointed the pen at him.
+"That is why we need more rockets."
 
-"It is consistent with a square."
+Jace watched the print queue fill with neat white rocket parts and thought of Brandon and Nikos waiting to be pulled across for every test. His shoulders already ached.
 
-"That sentence is longer."
+##
 
-"It is also honest."
+After Jace got back from work, they met in the *Victoria*. They always had food, and Jace was starving from all the recent astral crossings. Cerberus was starving because he was a growing puppy. 
 
-{Aura} projected both models. The physical ranges formed a steep curve. The transformed values formed a near-straight line.
+The scientists had been sciencing, looking like they hadn't moved all day.
 
-Nikos studied the plots from his cabin terminal.
+{Aura} projected the physical ranges as a steep curve. The square transform brought the Astral measurements close to a straight line.
 
-"Space changes scale," he said. "Time may not. If light still propagates at its normal limit across the shorter path, Jupiter's image arrives with less delay."
+Nikos studied it.
 
-"And the stars?" Brandon asked.
+"Space changes scale," he said. "Time may not. If light crosses the shorter path at the same limiting speed, Jupiter's image arrives with less delay."
 
-"Higher parallax. Less look-back time. More light from objects physical instruments treat as too distant or too faint. The catalog is not wrong. The observation geometry is."
+"May," Sophia said.
 
-Sophia wrote faster.
+"Yes, may. We need another experiment for light itself."
 
-"A second spatial law," she said. "Not only a fourth direction. A different relationship between separations."
+Jace looked from the curve to Sparky's three incompatible camera feeds.
 
-Jace looked from the curved plot to Sparky's three incompatible camera feeds.
+"Every model we built used physical distance. They were all voting with the wrong rules."
 
-"Then every model we build using physical distance is voting with the wrong rules."
+{Aura}: *The new transform improves reflector alignment by eighty percent. It does not resolve disagreement caused by fourth-axis projection.*
 
-{Aura}: *That is likely. The new transform improves reflector alignment by eighty-one percent. It does not resolve disagreements caused by fourth-axis projection.*
+But it gave them one correction they had not possessed the day before.
 
-"But it gives us one correction we did not have yesterday."
-
-{Aura}: *Yes.*
-
-Jace thought about the medical scanners in Lanchee's clinic. Physical volumes. Astral projections. Two spaces using different distance rules.
-
-He also thought about the chip waiting in the Foundry.
+Jace thought about the medical scanners in the medical clinic. Physical volumes. Astral projections. Two views of the same subject using different distance rules.
 
 ##
 
@@ -266,89 +216,75 @@ He met Jace in the Foundry instead, wearing new overlay glasses and both pearl e
 
 "I did not say you were."
 
-"Your face said it."
-
-"My face is swollen. It says several things."
-
 Nick placed the custom chip under a magnifier.
 
 It was smaller than Jace's little fingernail and built to match the hardened socket inside Sparky's Astral chassis. Ordinary silicon. Copper traces. No gold contacts. No Origin substrate. {Alex} had marked the design obsolete because its tolerances belonged to hardware generations older than Nick.
 
 Nick had loaded a minimal {Aura} stack onto it anyway.
 
-"No personality layer," he said. "No purchasing, messages, social model, or station credentials. Sensor correlation, local navigation, memory integrity, and a small language interface. It cannot join the public {Aura} mesh unless I physically rewrite it."
+"Minimal personality layer," he said. "None of the complex human-pairing features. Sensor correlation, local navigation, memory integrity, and a small language interface. As small as I can get it to run on that chip."
 
-"Can it run the square transform?"
+"Did you put in the custom physics libarary Sophia was working on? With squares for distances?"
 
-"It can test your square transform. You have not earned the definite article."
+"It can *test* your square transform hypothesis. It can toggle between physics libraries in case it doesn't wokr out. That just sounds like crazy voodoo, I can't wrap my head around it."
 
-"Sophia has been talking to you."
+Jace collected the chip in a ceramic carrier. He and Sophia spent five hours pulling it across from the *Victoria*. The component fought harder than its size suggested. Every microscopic interface added resistance. The AI cores were dense, it felt like a boulder.
 
-"Sophia understands uncertainty."
+When it finally settled into Jace's Astral hand, Sophia sagged against the wall.
 
-Jace collected the chip in a ceramic carrier. He and Sophia spent two hours pulling it across from the *Victoria*. The component fought harder than its size suggested. Every microscopic interface added resistance.
-
-When it finally settled into his Astral hand, Sophia sagged against the wall.
-
-The ceramic carrier rose beside her.
+A water bottle rose beside her.
 
 She was not touching it.
 
 It continued upward until it struck the ceiling plane.
 
-Sophia looked at her father's pen, then at the carrier.
-
 "I was not pushing that hard."
 
 "You said you did not push the torch yesterday."
 
-"I was incorrect yesterday. I am confused today."
+"I... may have pushed it. It was hot, I didn't want it to burn me."
 
-"Progress."
+"Definitely not witchy."
 
-She glared at him, but wrote it down.
+She glared at him, but wrote everything down all the same.
 
-Jace opened Sparky's rear access panel and seated the chip.
+Jace opened Sparky's rear access panel and seated the chip, reset his system.
 
 The drone's lights came on one at a time.
 
-{Aura-S}: *I have three cameras and four mutually exclusive definitions of forward.*
+{Aura-S}: *Hello Jace, Hello Sophia. I seem to be experiencing difficulties with the definition of 'forward'.*
 
 Jace laughed.
 
 "Welcome to the project."
 
-{Aura-S}: *The greeting does not resolve the discrepancy.*
+{Aura-S}: *Thank you. My cameras seem to be reporting visual distortions.*
 
-"You sound like Nick."
+{Aura}: *Hello {Aura-S}. I am sending you a new visual processing model. Note that you have many days of recorded footage. When you are stable, please review those and integrate them. I will send you a few thousand other instructions as well.*
 
-{Aura-S}: *Nick Lee prepared this instance. The similarity is not accidental.*
+{Aura-S}: *Thank you. I am excited to start.*
 
-The new system indexed the raw hunt recordings, the reflector experiment, and Sparky's physical construction model. It applied the preliminary distance transform without combining incompatible projections. Within eight minutes, the three views of a ceramic test block aligned closely enough to show one shape from several angles rather than three unrelated objects.
+"{Aura-S}, may we name you {Sparky}? It's getting complicated with so many Aura units."
+
+A green light pattern flashed a sequence on it's outside.
+
+{Sparky}: *Yes. I like that name.*
+
+The new system indexed the raw hunt recordings, the reflector experiment, and Sparky's physical construction model. It applied the preliminary distance transform without combining incompatible projections. Within eight minutes, the three views of a ceramic test block aligned closely enough to show one shape from several angles rather than three unrelated objects. {Sparky} practiced moving, hovering, rolling in the Astral, slowly syncing cameras and body.
 
 Then Jace placed his gloved hand in front of the cameras.
 
 The model failed.
 
-{Aura-S}: *The subject contains internal structure not represented in the physical construction model.*
+{Aura-S}: *The subject contains complex internal structure not represented in the physical construction model. More data is needed.*
 
-Sophia moved beside him.
-
-Her green and gold light filled every projection differently.
-
-{Aura-S}: *Additional reference data is required.*
-
-"What kind?" Jace asked.
-
-{Aura-S}: *A physical volumetric scan of the same subject, captured near the same time, would constrain internal alignment.*
-
-Sophia closed her notebook.
+Sophia moved beside him, closed her notebook.
 
 "Lanchee."
 
 ##
 
-The first version of their request lasted four minutes in Lanchee's hands.
+The first version of their request lasted only four minutes in Lanchee's hands.
 
 It described physical scanner volumes, three transferred cameras, independent clocks, and a local modeling system that preserved disagreement. It asked for supervised access to the clinic's ultrasound, computed-tomography, and magnetic-resonance equipment.
 
@@ -362,19 +298,27 @@ Sophia leaned forward.
 
 "Which provision concerns you?"
 
-"The provision where you ask for medical equipment while hiding the method, the location, and the injuries it already caused."
+"The provision where you ask for medical equipment while hiding the method and the location. And the sudden increase in unexplained injuries."
 
-She turned the tablet so the model image faced them.
+She turned the tablet so the model image faced them. She had drawn lines that intersected in a point in the next room, surprisingly close to where Sparky and Jace would be in the Astral.
 
-"If you want my scanners," Lanchee said, "you will start by telling me where the other cameras are."
+"If you want my scanners," Lanchee said, "you will start by telling me everything."
 
 ## Contract coverage
 
 | Item | Status |
 |---|---|
-| Brandon identifies structured disagreement between the Astral sky and physical navigation catalogs | done |
+| Chapter 24 continues Nikos's wrong-sky observation, and Brandon isolates Jupiter as the cleanest measurable disagreement | done |
 | Jupiter's shifted apparent position suggests a shorter light path rather than a faulty ephemeris | done |
-| The distance test uses known Fortuna maintenance reflectors, three-camera parallax, isolated clocks, and multiple origins | done |
+| Brandon legitimately requisitions two matched survey rockets because Jace's request would draw scrutiny | done |
+| The team launches one rocket in each layer simultaneously; the Astral rocket outruns its physical twin and explodes after a much longer burn | done |
+| The distance test uses known Fortuna maintenance reflectors, paired moving rockets, three-camera parallax, isolated clocks, and multiple origins | done |
+| Brandon crosses again, records both rockets from the Astral, and responds to hydrogen-oxygen combustion with visible scientific excitement | done |
+| Brandon and Jace begin an inspected print-and-test program for many more rockets | done |
+| Jace feels ashamed that his first response to expanded testing is dread of carrying Brandon and Nikos across repeatedly | done |
+| Nick's three-rod telegraph improves throughput and rejects bad pulses while preserving the one-way electronic boundary | done |
+| A scrubber, oxygen reservoir, and cold-tolerant plant begin turning Sophia's room into an Astral field station | done |
+| Nick sketches a later sixteen-rod byte link for audio, texts, radios, maps, and telemetry from the Real into the Astral | done |
 | Four-to-two, nine-to-three, and sixteen-to-four ratios establish a preliminary square relationship | done |
 | The characters treat the square model as a strong hypothesis rather than final law | done |
 | {Aura} preserves incompatible projections and reports how much the transform improves alignment | done |

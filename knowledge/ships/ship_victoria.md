@@ -31,11 +31,12 @@ notable_equipment:
   - Full physics laboratory and sample analysis equipment
   - Long-range sensor package
   - "Air-gapped {Misty} processor and instrument stack; no station compute or live sync"
+  - "Small hydrogen-oxygen survey rockets and approved replacement components"
 
 # Story Function
-role: Sophia's home base; site of her initial flux research; the vessel she crosses from during early Astral expeditions
-strategic_significance: Independent ESA presence in the belt, not controlled by megacorps; science mission provides cover and justification for anomaly research
-last_updated: 2026-08-14
+role: Sophia's home base; site of her initial flux research; the vessel she crosses from during early Astral expeditions; anchor for the first Astral field station
+strategic_significance: Independent ESA presence in the belt, not controlled by megacorps; science mission provides cover, instruments, and stores for anomaly research
+last_updated: 2026-08-21
 ---
 
 # Victoria
@@ -58,13 +59,30 @@ The *Victoria* is Sophia's home. Her crossing point — the location she uses fo
 
 The *Victoria* is a canonical Astral safe haven. No creatures or hostile Astral fauna inhabit its hull, compartments, or dimensional overlap. Threats occupy some areas inside Fortuna's walls and become immediate only after Sophia, Jace, and Cerberus pass through the docking connection into the station. While docked, the *Victoria* remains ready to detach if Fortuna becomes unsafe.
 
-Brandon and Nikos are aware that something has changed during Sophia's recent crossings. She is exhausted, inconsistent with her duties, and rarely appears in Fortuna Station's common areas. They give her space while quietly monitoring her safety. They do not know what she is doing. Whether and when they learn is an open question for the early narrative.
+Brandon and Nikos notice Sophia's exhaustion and secrecy before Chapter 22. Sophia
+then discloses the Astral project to them; both cross in Chapter 23 and join the work.
 
 Brandon and Nikos are romantic partners and have served with Sophia for four years.
 Brandon maintains the fermentation compartment with {Misty}; Nikos maintains the
 flux arrays and precision sensor suite.
 
 The *Victoria*'s science instrumentation — specifically the flux measurement arrays designed to detect Vela Junior anomalies — is what led Sophia to her first accidental crossing. The instruments were detecting something that current physics couldn't explain. Sophia was trying to explain it.
+
+## Astral Field Station
+
+By Chapter 24, the room around Sophia's regular crossing point is becoming more than
+a supply cache. The team installs a three-rod checked Astral telegraph receiver, a
+compact circulation and carbon-dioxide scrubber system, a small oxygen reservoir,
+and a potted alpine saxifrage with an insulated root pot. The plant tolerates the
+approximately -20°C environment but does not provide meaningful life support.
+
+The team also transfers and launches one of the *Victoria's* small survey rockets
+beside a matched physical rocket. Brandon and Jace begin preparing inspected
+replacement rockets for repeated Astral propulsion tests. Nick's later sixteen-rod
+telegraph array will bring low-rate audio, texts, maps, and telemetry from the Real
+into the Astral. These additions establish the room as the first expandable human
+field station in the Astral while preserving the need for carried oxygen and a
+physical return path for messages.
 
 ## The Name
 
@@ -74,9 +92,8 @@ Sophia has thought about this. She finds it fitting.
 
 ## Open Questions
 
-- Whether crewmates eventually discover the Astral — and when
 - The *Victoria*'s specific docking arrangement at Fortuna
-- Whether the *Victoria* eventually becomes a base for larger Astral expeditions
+- How quickly the Astral field station expands beyond Sophia's room
 - Technical specs consistent with 2100s science vessels
 
 ## Cross-References
@@ -84,6 +101,7 @@ Sophia has thought about this. She finds it fitting.
 - See [[char_sophia_lotte]] for the primary crew member and her Astral work
 - See [[location_fortuna_station]] for the docking station
 - See [[spec_crossing_mechanics]] for the crossing mechanics Sophia developed from this vessel
+- See [[tech_astral_telegraph]] for the field station's cross-layer communications link
 
 ## Revision Notes
 
@@ -91,3 +109,5 @@ Sophia has thought about this. She finds it fitting.
 - 2026-08-13: Canon ruling. Established the *Victoria* as an Astral safe haven with no resident threats or creatures. Fortuna's walls remain dangerous. The ship can detach if needed.
 - 2026-08-14: Canonized Brandon Moreau and Nikos Petrou, their specialties, their
   relationship, and their four-year service with Sophia.
+- 2026-08-21: Updated the crew knowledge boundary and established the Chapter 24
+  Astral field station, paired rocket test, scrubber, oxygen reserve, and cold plant.

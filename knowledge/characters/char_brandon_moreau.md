@@ -11,7 +11,7 @@ occupation: astrochemist and analytical chemist
 affiliation: European Space Agency
 ship: ship_victoria
 first_appearance: Chapter 15 - Jace's first visit to the Victoria
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 description: >
   French astrochemist aboard the Victoria. Runs sample chemistry and the ship's
   fermentation work with {Misty}. Nikos Petrou's partner and Sophia Lotte's longtime
@@ -52,8 +52,11 @@ attempt to describe Jace's first visit as instrument calibration.
 
 At Chapter 15, Brandon does not know about the Astral. In Chapter 22, Sophia shows
 him the recordings and demonstrates her force, ending the knowledge boundary. In
-Chapter 23, he remains in the physical *Victoria* to record and monitor the assisted
-crossings while Jace, Sophia, and Nikos hunt the wounded creature. Afterward, he is
-the first to notice that Sparky's Astral sky recording does not match Fortuna's
-physical navigation model. He and Jace lead the first square-distance measurements
-in Chapter 24.
+Chapter 23, he records the first assisted transition from the Real, crosses himself,
+and helps Sophia pull Nick from the Astral side. Nikos identifies the wrong sky in
+Sparky's recording after the hunt. In Chapter 24, Brandon legitimately requisitions
+two matched hydrogen-oxygen survey rockets because a request from Jace would draw
+scrutiny. He crosses again and records the simultaneous physical-and-Astral launch.
+His delight when the Astral rocket outruns its physical twin gives his technical
+curiosity warmth. He and Jace immediately begin preparing many more inspected test
+rockets.

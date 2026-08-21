@@ -162,9 +162,9 @@ Jace held his breath. Could {Aura} help him in the Astral? Could it work there? 
 
 "Please call her Sophia. The drone is named Sparky. I would like to put an {Aura} unit on him as soon as I get the chip from the Foundry."
 
-{Aura}: *Subvocalization may improve privacy when you address me. The Astral records also contain structured distance discrepancies. If you permit it, I can propose experiments and prepare equipment recommendations for your approval.*
+{Aura}: *Subvocalization may improve privacy when you address me, I'll set up practice times for you. The Astral records of your recorded videos from Sparky indicate the cameras are misaligned, I've prepared a graphic to fix that. If you permit it, I can propose experiments and prepare equipment recommendations, then help remind you when is best to print or acquire them.*
 
-Jace groaned. {Aura} was as bad as Sophia in giving him more work to do.
+Jace groaned. {Aura} was as bad as Sophia and Kim in giving him more work to do.
 
 {Aura}: *You also have unread messages. The chip ordered for Sparky is complete. {Alex} marked the design as obsolete and held it for quality review. Shall I prepare a confirmation that the order is intentional?*
 
@@ -204,9 +204,9 @@ Brandon looked almost as offended as Nikos. They truly were a matched pair.
 
 "Because copper, silver, and gold share the same outer-electron pattern and occupy the same column of the periodic table. Why did no one test all three?"
 
-Jace stood. He might not be the best Air Force offier in history, but he had sat thorough hundres of hours on how to run meetings and deal with opinionated scientists.
+Jace stood. He might not be the best Air Force officer in history, but he had sat through hundreds of hours of meetings and knew how to deal with opinionated scientists.
 
-He intentionally made his tone respectful and complimentary. "Okay, okay. Thank you. This shows why we need your help. Sophia and I think we should have a shared experiment list to capture your ideas, an equipment plan, and rules for what happens next. Our first priority is the creature we wounded on Three. Tonight we start moving torches and armor. Tomorrow, after everyone understands the risks, we decide who crosses and who stays here to monitor."
+He intentionally made his tone respectful and complimentary. "Okay, okay. Thank you. This shows why we need your help. Sophia and I think we should have a shared experiment list to capture your ideas, an equipment plan, and rules for what happens next. My {Aura} is coordinating that, but Sophia is the primary investigator for this project so she approves everything. Our first priority is the creature we wounded on Three. Tonight we start moving torches and armor. Tomorrow, after everyone understands the risks, we decide who crosses and who stays here to monitor."
 
 He held up a butane-and-oxygen cutting torch and one of the ceramic-plated extreme-sport vests he had printed.
 

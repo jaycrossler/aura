@@ -60,7 +60,11 @@ The forge had his name on the six-to-ten schedule by the next morning. He assume
 
 Four masive printers occupied one side of the bay, able to print anything from giant steel plates to nuts and bolts. A wire winder, circuit printer, pick-and-place cage, and tool bot filled the other. The machines were better than the Falcon's and more automated. The queue was worse, over 5 pages in length, slowly moving through the system.
 
-Jace loaded the new Sparky chassis and his ten micro-thrusters onto a clean bench that he'd reserved online. The body formed a rough sphere of swappable hexagonal and pentagonal plates. Like the spine of a soccer ball. Empty mounts waited for sensors, batteries, and maneuvering units.
+They had a large room just for fabric and textile printing. A mechanical loom was against the wall, buzzing and shuttling while a shirts decorated with logos and colors slowly formed from of spools of thread mounted around it. An arabic woman was sewing metal wires into what looked like a rug, Jace guessed to help with static dissipation. A younger girl was helping her, wripping up old clothes and feeding the pieces into a machine that was unweaving and dissassembling them, dropping any electronic parts or buttons or zippers into a seperate bin.
+
+Jace looked around in wonder. He was going to love it here.
+
+He loaded the new Sparky chassis and his ten micro-thrusters onto a clean bench that he'd reserved online. The body formed a rough sphere of swappable hexagonal and pentagonal plates. Like the spine of a soccer ball. Empty mounts waited for sensors, batteries, and maneuvering units.
 
 He installed the first thruster.
 
