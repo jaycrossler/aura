@@ -192,6 +192,8 @@ Nikos turned, furious. "She is a physicist. I am an astrophysicist. It is very d
 
 Now, it was Jace and Nick's turn to look at each other.
 
+{Aura}: *This is a useful interpretation. I will update my internal models as well*
+
 Sophia broke the tension. "Okay. I acknowledge your point, I will fix the paper. Is there a way to measure the difference?"
 
 Brandon interjected, before Nikos could answer. "And here. You show that copper and silver interfere with the visual effect. What about gold?"
@@ -212,7 +214,11 @@ Nick raised his hand. "You want us to *go there*? First, what the hell? Second, 
 
 He turned, and Brandon and Nikos just blinked.
 
-Sophia stood. "We start with a demonstration. I will cross because Jace is injured and pretending otherwise. He can show you how we move equipment. We have a repeatable process, not an optimized one, and you may be able to improve it. We do not attempt to move another person tonight. Yes, Nikos. 'Step sideways'. Gott, I understand. Now, watch."
+{Aura} sent to the ship screen: *I have worked with Nick for years and he will most likely respond best to a demonstration.*
+
+Sophia stood, nodding. She had taken to Jace's {Aura} very well, treating it just like she treated Misty.
+
+"I will cross because Jace is injured and pretending otherwise. He can show you how we move equipment. We have a repeatable process, not an optimized one, and you may be able to improve it. We do not attempt to move anyone tonight. Yes, Nikos. 'Step sideways'. Gott, I understand. Now, watch."
 
 Sophia sat back onto the couch, became comfortable, and closed her eyes. Color gathered around her slowly. Nick stopped talking. Nikos stopped pacing. Brandon took a long drink of wine. They waited an uncomfortable amount.
 
