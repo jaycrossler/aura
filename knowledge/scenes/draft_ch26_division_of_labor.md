@@ -1,9 +1,9 @@
-Chapter 26. Division of Labor
+# Chapter 26. Division of Labor
 
-"A photon is not secretly a wave or secretly a particle; it is both, and which one you get depends on what you ask it. I am beginning to suspect the Astral works the same way, and that we simply have not found the right question yet."
-Sophia Lotte, working notebook
+> *"A photon is not secretly a wave or secretly a particle; it is both, and which one you get depends on what you ask it. I am beginning to suspect the Astral works the same way, and that we simply have not found the right question yet."*
+> Sophia Lotte, working notebook
 
-
+##
 
 Jace caught himself doing it again on a Tuesday. Standing in the doorway of Sophia's room, which had stopped being Sophia's room in any meaningful sense weeks ago and become something closer to a field station, watching Nikos argue with Brandon about propellant ratios, half his attention already halfway across the station toward Drone Ops, where he was also, technically, supposed to be a person with a job.
 
@@ -39,7 +39,7 @@ It was not a comfortable thing to hear. It was also, Jace suspected, the first g
 
 "Don't get used to it."
 
-
+##
 
 The rocket, when it finally stood upright on its improvised gantry in Ring Three's least-used bay, looked less like a spaceship and more like something Origin had already written off twice and Nikos had personally resurrected out of spite. Which was, roughly, accurate. Brandon had rebuilt the fuel lines himself, testing each joint with a patience that made Jace's own hands itch to help and made him, per the new rule, stay by the console instead.
 
@@ -49,7 +49,7 @@ The rocket, when it finally stood upright on its improvised gantry in Ring Three
 
 "You are hovering. There's a difference and everyone can see it."
 
-Jace laughed despite himself and made himself useful the way he was actually useful, running the launch sequence checks, cross-referencing Aura's structural read against Brandon's numbers, being the second set of eyes rather than the only set. He crossed briefly to confirm the Astral-side anchor point Sophia had marked, came back, signed off, and let Nikos push the button.
+Jace laughed despite himself and made himself useful the way he was actually useful, running the launch sequence checks, cross-referencing {Aura}'s structural read against Brandon's numbers, being the second set of eyes rather than the only set. He crossed briefly to confirm the Astral-side anchor point Sophia had marked, came back, signed off, and let Nikos push the button.
 
 The launch itself was small, contained, and genuinely thrilling in the way that only something built mostly by hand ever is. It cleared the bay, stabilized, and began its slow, patient climb toward the orbit Sparky would use as a physical-space reference point.
 
@@ -61,7 +61,7 @@ Later, walking back through Ring Two, Jace passed the outer plots along the Barn
 
 He had never planted anything. It occurred to him, watching a woman he didn't know water a row of something green and hopeful, that he might want to.
 
-
+##
 
 Hayes wasn't at the table.
 
@@ -109,7 +109,7 @@ She stayed with Hayes past the end of her shift, past the point where staying wa
 
 Nobody cheered. It didn't feel like the kind of thing you cheered.
 
-
+##
 
 The tick they'd killed clearing the corridor near Hayes's room left an orb nobody wanted to touch. Small, amber gold, pulsing faintly on the deck plating like something that hadn't finished deciding whether it was alive.
 
@@ -125,7 +125,7 @@ She didn't touch it with her hands. A directed pull of Will lifted it, small and
 
 "Just this one," she said again, like saying it twice made it a smaller rule to break.
 
-
+##
 
 Brandon's explosion, when it came two days later, was small as these things went. A propellant mix that ran hotter than predicted, a containment vessel that did its job well enough that nobody was hurt, and a shockwave through the lab's thin air that knocked three things off the shelf, one of which was the orb.
 
@@ -137,7 +137,7 @@ He went very still.
 
 "Brandon?"
 
-"I'm fine," he said, not sounding fine. "I feel a little sick." He set the orb carefully back on the shelf, several inches further from the edge than before, and went to go lie down, and nobody thought much more of it that night because there was a rocket to check and a station to worry about and, somewhere past the edge of anyone's attention, a ship called the Shotput closing distance faster than its published schedule accounted for.
+"I'm fine," he said, not sounding fine. "I feel a little sick." He set the orb carefully back on the shelf, several inches further from the edge than before, and went to go lie down, and nobody thought much more of it that night because there was a rocket to check and a station to worry about and, somewhere past the edge of anyone's attention, a ship called the *Shotput* closing distance faster than its published schedule accounted for.
 
 The next morning, Brandon picked up a mug of cold coffee, frowned at it with the particular offense of a man who takes his coffee seriously, and, without quite meaning to, warmed it in his hand until steam rose off the surface.
 
@@ -145,6 +145,24 @@ He looked at the mug for a long moment.
 
 "Sophia," he said, very carefully. "Can you come look at something."
 
-Aura began, that same afternoon, a new log category. Not skills, not yet, not formally, just a running list, growing by the week: Jace. Sophia. Now Hayes, whatever he was doing to himself in private. Now, apparently, Brandon. Whoever else the station was quietly making room for.
+{Aura} began, that same afternoon, a new log category. Not skills, not yet, not formally, just a running list, growing by the week: Jace. Sophia. Now Hayes, whatever he was doing to himself in private. Now, apparently, Brandon. Whoever else the station was quietly making room for.
 
-Nobody had a name for what was happening to Fortuna. Aura kept the list anyway, patient and precise, the way she kept everything.
+Nobody had a name for what was happening to Fortuna. {Aura} kept the list anyway, patient and precise, the way she kept everything.
+
+## Contract coverage
+
+| Item | Status |
+|---|---|
+| Jace's explicit turn into oversight mode | done |
+| Brandon/Nikos build and launch the rocket | done |
+| Jace's role as signer-off, not doer | done |
+| Jace crosses to the Astral and back as needed | done |
+| Garden plot and culture texture | done |
+| Hayes noticed missing, found arm-pulped and comatose, no tick | done |
+| Lanchee formally joins the team | done |
+| Tick orb kept against protocol, shelved in the Astral lab | done |
+| Brandon's mismatched absorption and new thermal ability | done |
+| {Aura} begins categorizing powers across the growing group | done |
+| {Eagle}-adjacent AI oddity | done |
+| Shotput referenced as closing distance | done |
+| Physics epigraph | done |

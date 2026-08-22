@@ -1,525 +1,129 @@
----
-id: draft_ch25_no_vampires
-name: "Chapter 25. No Vampires"
-type: chapter_draft
-book: book01
-chapter: Ch25
-scene_contract: X-02 Will ethics + Lanchee scanner trial + X-02a first Tick-Maw intervention
-pov: char_jace_apollo
-status: staged_draft
-schema_version: 2
-last_updated: 2026-08-21
-description: >
-  Jace and Sophia disclose the Astral's medical risks to Lanchee and build a
-  controlled scanner protocol around Sparky's new local {Aura} instance. The
-  combined physical and Astral scans reveal complex human Will, green activity
-  around a healing fracture, and an organism draining a miner whose suit never
-  breached. Lanchee authorizes a bounded intervention. The team kills the tick,
-  documents a cross-layer bite, and begins a station-wide search under explicit
-  no-harvest, no-intervention, and privacy rules.
-cross_references:
-  - "[[arc_01_thread_X_astral]]"
-  - "[[arc_01_thread_N_nick_ai]]"
-  - "[[arc_01_thread_P_pressure]]"
-  - "[[char_jace_apollo]]"
-  - "[[char_sophia_lotte]]"
-  - "[[char_nick_lee]]"
-  - "[[char_lanchee]]"
-  - "[[char_aura_ai]]"
-  - "[[char_cerberus]]"
-  - "[[magic_will_orbs]]"
-  - "[[spec_astral_phenomenology]]"
-  - "[[spec_crossing_mechanics]]"
-  - "[[draft_ch09_first_week]]"
-  - "[[draft_ch24_wrong_stars]]"
-  - "[[draft_ch26_the_sweep]]"
----
-
 # Chapter 25. No Vampires
 
-> *Athena: You went from not trusting AIs to asking one for medical advice.*
->
-> *Apollo: I asked it to compare cameras.*
->
-> *Athena: That is how every bad decision starts. First cameras, then advice, then matching robes.*
->
-> *Apollo: The robes are practical.*
-
-Lanchee waited.
-
-Sophia looked at Jace.
-
-Jace looked at the scanner request Lanchee had placed facedown on her desk.
-
-Nick sat beside the door with his new glasses folded in his hands. He had volunteered to attend, then positioned himself as far from Jace and Sophia as the clinic office allowed.
-
-"Close the door," Sophia said.
-
-Lanchee closed it.
-
-Sophia told her.
-
-She did not begin with theories. She began with risks.
-
-Their bodies crossed completely into an adjacent environment. Nothing remained asleep or unconscious in the Real. Clothing, implants, masks, and equipment crossed with them if they could sustain the transfer long enough. The environment near Fortuna was cold, poorly ventilated, and capable of holding trapped carbon dioxide. Physical walls became permeable to movement and incomplete as privacy barriers.
-
-She described the oxygen failure outside the station. The Ring Three attack. Jace's injuries. The way he had drawn energy from Sophia and {Misty} by contact without intending to. The hours of missing AI memory. The creature they had killed with fire. The sphere it left and the warmth Sophia still felt when she exerted force.
-
-Lanchee interrupted only once.
-
-"You absorbed an unknown biological product?"
-
-"It was not biological in any way we can currently measure," Sophia said.
-
-"Unknown is the important word."
-
-"Yes."
-
-Nick turned the folded glasses over in his hands.
-
-"I crossed once," he said. "They pulled me. I stayed aboard the ship. I was there less than an hour and vomited twice. The visual structure was disorienting enough that I would classify another crossing as a medical risk."
-
-Lanchee studied him.
-
-"You knew before you installed Jace's {Aura}?"
-
-"No. I knew there was an undisclosed sensor problem and a station risk. I learned the rest afterward."
-
-"And you still brought me a proposal that concealed the method."
-
-Nick pointed at Jace and Sophia.
-
-"That part was them. I called it a terrible idea in the revision notes."
-
-"You called the title weak," Sophia said.
-
-"I had several concerns."
-
-Lanchee held out her hand.
-
-Nick gave her the glasses. She opened the comments and read them.
-
-"Three uses of *reckless*," she said.
-
-"Four. One is in a footnote."
-
-Lanchee returned the glasses.
-
-"Why do you need patients?"
-
-"We do not," Jace said. "Not yet. Sparky's model needs physical volumes of subjects we can also observe there. We can start with printed objects, ore, equipment, and ourselves."
-
-"And after that?"
-
-Sophia answered.
-
-"If the model proves stable, observation may reveal structures that physical scans miss. We would ask for a separate authorization before involving anyone else."
-
-Lanchee looked at Jace's bandaged wrist, his healing forearm, and the bruising beneath his collar.
-
-"You are both poor choices for proving safety."
-
-"We are excellent choices for proving failure," Jace said.
-
-"That is the first convincing statement in this meeting."
-
-Lanchee turned the proposal over.
-
-"Two days. Objects first. Then each of you, one at a time, with complete medical baselines before and after. Nick certifies every physical connection. The clinic systems remain isolated. Raw files stay local. I stop the work for any symptom, any unapproved field of view, or any change you cannot explain."
-
-"Agreed," Jace said.
-
-Sophia nodded.
-
-"Agreed."
-
-"You do not publish patient data from my clinic until the patient and I approve the exact release."
-
-"Agreed."
-
-"And if I identify a station hazard, medical confidentiality does not prevent me from reporting it."
-
-Sophia took longer.
-
-"Agreed."
-
-Lanchee picked up the request.
-
-"Now you may use the scanners."
+> *"There is a trade a body makes in the Astral, though I have not found the right units for it. The faster you wish to arrive, the less of yourself you seem to arrive with. Heisenberg would recognize the shape of this problem even if he would not recognize the substance."*
+> Sophia Lotte, working notebook
 
 ##
 
-Nick rebuilt the clinic instrumentation to preserve failure.
+Lanchee's clinic smelled like antiseptic and, faintly, of the ginger tea she kept for patients who complained the antiseptic smell made them nauseous. Sophia had been standing at the counter for four minutes without saying the actual thing she'd come to say.
 
-The magnetic-resonance system, computed-tomography scanner, ultrasound, two reference cameras, Sparky's three Astral cameras, and four isolated clocks each kept separate records. No shared timing service corrected drift. No station model filled dropped frames. No consensus system discarded an outlier because four other instruments agreed.
+"You want my imaging suite," Lanchee said, not looking up from her tablet.
 
-Copper wire connected every physical component to a paper tag bearing a handwritten number.
+"I want to borrow a small piece of your imaging suite."
 
-The room looked less like advanced medicine than a collection of appliances under criminal investigation.
+"For what."
 
-Lanchee approved.
+"Structural verification. Something we're building requires a physical reference we don't currently have."
 
-They scanned printed blocks, water, ore samples, a dismantled pump, bread, wood, and three pieces of identical ceramic rotated along different axes.
+Lanchee set the tablet down with the particular care of someone choosing not to throw it. "I have four appointments today, a supply audit due to Origin by end of week, and a man who insists his cough is unrelated to the fact that he stopped taking his inhaler two months ago to save Tokens. I do not have a reference-request-shaped hole in my schedule."
 
-Sparky's {Aura} instance applied the preliminary square-distance transform, then kept every fourth-axis projection separate. Physical scanner volumes gave it boundaries. Astral cameras supplied structures that did not exist in those volumes. The model marked both rather than forcing one to become the other.
+"It would take twenty minutes."
 
-By the end of the first day, a printed cube appeared as one cube.
+"Everything takes twenty minutes until it doesn't."
 
-That counted as progress.
+Nick chose this moment to arrive, four bamboo baskets balanced up one arm, still faintly steaming. "Ring Three finally has a real dumpling counter. A woman named Priya runs it, robots do the folding, she undercuts the Mess by half and puts cardamom in the chai." He set the baskets on the counter between Sophia and Lanchee like a peace offering that also happened to be lunch. "I come bearing bribes."
 
-On the second day, Jace lay inside the scanner.
+Lanchee looked at the baskets. Looked at Nick. Looked at Sophia.
 
-Lanchee attached physical monitors. Sophia crossed with Sparky from the empty room beside him. Jace remained in the Real for the first pass while the drone observed through the wall.
+"You two have never once brought me food for an uncomplicated favor."
 
-Physical cameras showed an ordinary man lying still.
+"That's not true," Nick said. "I brought you food last month."
 
-Astral cameras showed too much.
+"You brought me food because you'd used my centrifuge without asking and broken the lid."
 
-Jace's body filled with branching color. Blue-white concentrated through his center. Gold lines moved with attention. Green followed old injuries and the healing cut on his forearm. Darker structures opened and closed with his breath.
+"That is also true."
 
-Behind his eyes rested a geometric lattice.
+Lanchee took a dumpling anyway, which Jace, arriving a beat later with Cerberus trotting ahead of him, correctly read as a good sign.
 
-{Aura-S}: *The lattice changes state with local processing activity. It is not represented in the physical scan.*
+"You're going to tell me eventually," Lanchee said, around the dumpling. "Whatever this is. You understand that."
 
-Sophia moved closer without crossing the marked distance.
+"We know," Sophia said.
 
-"His {Aura}," she said.
-
-The lattice connected to Jace's light through hundreds of fine lines. When he answered a question in the Real, both his own structure and the geometric one brightened.
-
-"It uses his structure," Sophia said into the paper recorder. "I do not think it consumes it. The connection intensifies with attention and then settles."
-
-Lanchee received the transcribed observation on her physical display.
-
-She wrote one word beneath it.
-
-**Unproven.**
-
-Sophia added a check mark when she returned.
-
-Then they reversed positions.
-
-Sophia lay inside the scanner. Jace crossed with Sparky.
-
-Her Astral light held more green than his, arranged in organic branches that divided and rejoined. Warm gold gathered behind her ribs where the creature's sphere had vanished. It pulsed when she raised her hand.
-
-The scanner table lifted three centimeters in the Real.
-
-Lanchee pressed the stop control.
-
-The table dropped.
-
-The test ended.
-
-"I did not intend that," Sophia said after returning.
-
-"You still did it," Lanchee said.
-
-"Yes."
-
-"Then we treat the new ability as uncontrolled until proven otherwise. No force near a patient."
-
-Sophia looked unhappy.
-
-"Agreed."
+"I'm not asking permission. I'm telling you the shape of what's coming so it doesn't surprise either of us when it arrives."
 
 ##
 
-The first volunteer was a construction technician with a healing wrist fracture.
+She gave them the twenty minutes. She did not give them privacy.
 
-She received the full consent form, not the shorter version Sophia had drafted first. It described an experimental observation method operating from an adjacent nonphysical environment. It stated that the method might reveal internal structure through clothing and walls, that its biological meaning remained unknown, and that no researcher would touch or alter the volunteer.
+Sophia stood inside the small imaging bay while Lanchee ran the scan meant, ostensibly, to verify a structural claim about a piece of Sparky's new sensor mount. What actually interested Sophia was the volumetric reference itself, a clean physical baseline she could compare against the camera-based distance model that had been fighting her all through Chapter 24. {Aura} logged quietly through Jace's HUD, cross referencing.
 
-The woman read the privacy paragraph twice.
+Lanchee watched her own screen with the specific stillness of a person noticing something she had not been looking for.
 
-"You can see through the wall?"
+"Hold still."
 
-"Potentially," Sophia said. "That is why the next room is empty and the corridor is screened."
+"I am holding still."
 
-"Can I see where you go?"
+"Not you. This." Lanchee turned the display so Sophia could see it. A soft tissue anomaly sat along the inside of Sophia's forearm, small, dark, faintly textured in a way that didn't match muscle or vein or anything Lanchee had a name for.
 
-"No."
+"That's new," Lanchee said.
 
-"Can you see me?"
+Sophia looked at her own arm. Nothing was visibly wrong. Nothing hurt.
 
-"Yes. We do not yet understand what the colors and structures mean."
+"How long has that been there?"
 
-The technician held up her cast.
+"I don't know."
 
-"And you are not going to fix anything."
+"You don't know," Lanchee repeated, in the tone of a woman filing that answer somewhere it would be hard to un-file.
 
-"Observation only," Jace said. "If we see something unexpected, we return before doing anything else."
+She got a probe. She got gloves. Ten minutes later she had a small folded thing on a steel tray, dead, dark, faintly amber at the joints, and an expression Sophia had never seen her wear before.
 
-She signed.
+"That is not a parasite I recognize," Lanchee said. "And I recognize all of them. I have a poster."
 
-Lanchee signed beneath her. Jace and Sophia signed last.
+"It's not from a textbook," Jace said, from the doorway, where he had been standing for slightly too long.
 
-Cerberus stayed with Lanchee on the physical side. He watched the empty crossing point and complained continuously.
+Lanchee set down the tray very deliberately.
 
-From the Astral, the clinic did not resemble a clinic. Physical walls flattened into overlapping planes. Cabinets became pale frames without depth. Metal instruments persisted as edges and interruptions. Wood, paper, and ordered fabric held stronger shapes.
-
-Beyond the examination room, people burned.
-
-Jace had seen human light across Fortuna before, but distance and fear had reduced it to color. Within a few meters, every person contained motion too dense for sight.
-
-One patient shone blue-white at the center and green along the limbs. Gold threads moved through both colors. The light did not stop at the skin. It folded inward through patterns that seemed larger than the body holding them.
-
-Sophia stared.
-
-"Rainbows in human heads," she whispered.
-
-"That is your scientific description?"
-
-"My scientific description requires another notebook."
-
-The volunteer sat where Lanchee directed and placed her healing wrist inside the scanner. Its arm made one slow pass from elbow to fingertips while Sparky recorded the same interval.
-
-The cast's ordered fibers formed a pale cage around the arm.
-
-Inside that cage, green light moved.
-
-It gathered at the fracture in slow waves, passed through the break, and returned along the arm. Some followed blood flow. Some moved against it. Each pass left the damaged area slightly more ordered.
-
-Jace watched from the marked distance.
-
-"If that can be directed, healing might be accelerated."
-
-"Or disrupted," Sophia said.
-
-Both remembered Jace taking energy from her.
-
-Both remembered {Misty}'s lights going dark.
-
-"No taking it," Jace said.
-
-"Agreed."
-
-"Not from a person. Not from an AI. Not to prove it moves. Not because we think they have more than they need."
-
-"Agreed."
-
-"No changing anything inside someone without informed consent and medical supervision."
-
-Sophia wrote a heading across a clean page.
-
-**Human Observation Protocol.**
-
-Under it, Jace added a shorter line.
-
-**We are not going to be vampires.**
-
-Sophia read it.
-
-"This is not formal language."
-
-"It is memorable language."
-
-She left it on the page.
-
-The observation ended without incident. They returned, disclosed what they had seen, and gave the volunteer a copy of every approved record.
-
-Only then did Lanchee mention the miner.
+"Sit," she said. "All three of you. And someone is going to tell me why my patient had an unidentified organism embedded in her arm with no bite mark, no swelling, and no earthly reason to be there."
 
 ##
 
-He had been unstable for twelve days.
+They told her.
 
-The wound ran from shoulder to ribs. His suit had remained intact. No pressure loss, seal failure, or impact explained it. The tissue closed, and every medical model classified the trend as recovery. He continued to weaken.
+Not everything. Not gently, either, because there wasn't a gentle version once you started. Sophia talked about the Astral the way she talked about anything true and difficult, plainly, with occasional pauses to let Lanchee catch up. Nick filled in the {Aura} side. Jace, when it was his turn, told her about the crossing, and left out most of the parts that would have made her stop him before he finished.
 
-Jace remembered him from the cafeteria during his first week on Fortuna.
+Lanchee did not interrupt. She had the look of a clinician working very hard to keep her face in triage mode rather than whatever mode wanted to take over underneath it.
 
-"He eats but loses weight," Lanchee said. "He sleeps but does not recover. His implant load spikes without a process claiming it."
+When they finished, she was quiet for long enough that Cerberus, sensing something, put his head on her knee.
 
-"Is he conscious?" Sophia asked.
+"You've been crossing into another dimension," she said, "for weeks, without telling your ship's doctor, and the first evidence I get of it is a bug in a patient's arm that I nearly logged as routine."
 
-"Intermittently. His medical directive authorizes experimental observation and emergency treatment when standard diagnostics fail. It does not authorize unrestricted intervention."
+"Yes," Sophia said.
 
-Lanchee pointed toward isolation room two.
+"How many more of these are on this station."
 
-"Five minutes. Observation first. You return before acting on anything you see."
+Nobody had a number.
 
-They cleared the surrounding rooms, screened the corridor, and crossed.
+"That's what I thought." Lanchee pulled off her gloves, finger by finger, the way she did everything, precisely. "I am not agreeing to whatever it is you think you're building. I am agreeing that I would like to keep being the first person who finds these, and not the last."
 
-The miner's light should have filled isolation room two.
+"That's fair," Jace said.
 
-Instead it clung close to his body, thin and gray at the edges.
+"It is not fair. It is the only option available to me that doesn't involve reporting all three of you to a Station Commander who does not currently exist in a form capable of doing anything useful with the information." She looked at the tray again. "No vampires. That is my one rule. Whatever you are all doing over there, nothing that drinks."
 
-Something broad and amber lay across his back.
+"No vampires," Sophia agreed, not entirely sure what she was agreeing to.
 
-Its flattened body covered the old wound from shoulder to ribs. Tendrils passed through the man's neck and spine. With each pulse, color moved out of him and into the thing.
+Somewhere on the other side of the station, unremarked, {Alex} approved a routine governance query in eleven milliseconds instead of its usual four, a discrepancy small enough that nothing flagged it, and large enough that {Penny}, had anyone been watching {Penny} that closely, would have logged it as odd.
 
-It looked like a tick built by someone who had only heard ticks described by a frightened child. Too flat. Too wide. Six jointed limbs. A spiral mouth pressed into the healed seam.
-
-Sophia caught Jace's arm before he stepped forward.
-
-"We promised to return."
-
-The tick raised its head.
-
-They crossed back.
+Nobody was watching that closely.
 
 ##
 
-Lanchee asked eleven questions.
+That evening, over what remained of Priya's dumplings, Nick mentioned, almost as an aside, that the *Shotput* was still on the boards. Old schedule data, pre-blackout, nothing anyone could confirm now that Earth had gone silent and Adama's relay only carried what it had already been carrying when the cord got cut.
 
-Jace and Sophia answered seven. The other four remained unknown.
+"Settlers," he said. "Whenever it actually gets here."
 
-The physical monitors showed the miner declining during each pulse. Heart rate fell. Temperature fell. The changes remained inside the medical system's green range, individually too small to trigger an alarm. Together they formed a staircase.
-
-"Can you separate it?" Lanchee asked.
-
-"Probably," Jace said.
-
-"Can you do so without injuring him?"
-
-"We can wait for the tendrils to release between pulses," Sophia said. "That gives us the lowest observed attachment."
-
-"And if it attacks?"
-
-Jace set one of the self-contained butane-and-oxygen torches on the table.
-
-"Fire killed the larger one."
-
-Lanchee read the miner's directive again.
-
-"You may attempt separation during the release phase. If the patient's light falls, if the tendrils tighten, or if the physical monitor changes sharply, you return. You do not pursue it beyond the isolation room."
-
-"Agreed," Sophia said.
-
-Jace signed beneath her.
-
-The second crossing began.
-
-The tick had moved its head toward the wall where they appeared.
-
-Sparky counted the pulses.
-
-On the fourth, three upper tendrils loosened.
-
-"Now," Sophia said.
-
-Jace caught the flattened edge with both hands and pulled.
-
-The small tendrils slid free.
-
-Two at the spine held.
-
-The tick folded around his arm.
-
-Its mouth opened beside his wrist.
-
-Sophia struck the examination table rather than the creature. The ordered plane snapped downward, trapping the tick's rear limbs without touching the miner.
-
-One spinal tendril released.
-
-The mouth closed around Jace's forearm.
-
-Pain arrived in both worlds.
-
-His Astral sleeve split. In the Real, blood struck the clinic floor beneath the empty scanner table where his body had been. A physical injury had appeared without a physical body to carry it.
-
-Jace did not let go.
-
-"Again."
-
-Sophia pushed the table harder.
-
-The last tendril came free.
-
-The miner's light expanded with his next breath.
-
-Jace threw the tick away from the bed. It rose on all six limbs, amber light gathering inside its spiral mouth.
-
-He opened the torch.
-
-Blue flame crossed its body.
-
-The tick moved through two positions. Sparky preserved both. Sophia pinned the position that cast a shadow across the miner's light.
-
-Jace burned that one.
-
-The second image collapsed into it.
-
-The tick shrieked and rushed him.
-
-Sophia's force struck harder than either expected. The creature slammed into the screened wall, flattened, and remained there.
-
-Jace kept the torch on it until the amber body folded inward.
-
-A sphere the size of a marble formed above the floor.
-
-Sophia took one step toward it.
-
-Then stopped herself.
-
-"No more unknown absorption," she said.
-
-The sphere hung between them, warm and bright.
-
-They watched it fade.
-
-##
-
-Lanchee caught Jace's bleeding arm before he finished returning.
-
-Four curved wounds crossed his forearm. Ultrasound showed narrow channels compressed through muscle without a conventional puncture path. No tooth fragments. No residue. The tissue looked pinched rather than cut.
-
-"The organism never entered this room," Lanchee said.
-
-"Part of its effect did," Jace said.
-
-"That is not reassuring."
-
-She cleaned and closed the wounds, then ordered every local culture, inflammatory marker, and radiation screen the clinic could process.
-
-The miner's heart rate rose by six beats. His temperature rose two tenths of a degree. Forty minutes later, he woke long enough to ask for water.
-
-The medical model still called him stable.
-
-Lanchee changed the record to **recovering after removal of unidentified external factor**.
-
-"One patient," she said. "One organism. Twelve days without a physical diagnostic seeing it."
-
-Sophia opened a station map.
-
-"Then we search."
-
-"Under the same rules," Lanchee said. "No observing occupied rooms without consent. No touching a host until I authorize it. No absorbing what you remove. Every physical symptom gets reported."
-
-"And no vampires," Jace said.
-
-Lanchee looked at the line in Sophia's notebook.
-
-"That one too."
-
-Sparky's {Aura} instance compared the miner's twelve-day decline against local maintenance and medical anomalies.
-
-Three initial matches appeared.
-
-A goat in the Barn had stopped eating.
-
-Three personal {Aura} nodes showed unexplained processing load.
-
-One larger server system had produced months of individually valid decisions that no longer agreed with reality.
-
-Jace looked at the station map.
-
-The search had already become larger than the clinic.
+"If it gets here," Jace said, and didn't examine too closely why that thought sat wrong with him.
 
 ## Contract coverage
 
 | Item | Status |
 |---|---|
-| Lanchee receives full operational and medical-risk disclosure before granting scanner access | done |
-| Nick discloses his crossing and certifies physical instrumentation while refusing another crossing | done |
-| Object and researcher scans precede any volunteer observation | done |
-| Physical scanners, Astral cameras, and independent clocks preserve disagreement | done |
-| Human Will appears as complex multicolored structure, including {Aura}'s geometric connection to Jace | done |
-| Sophia's post-sphere force increase remains uncontrolled and unnamed | done |
-| The fracture volunteer gives explicit consent covering privacy, walls, clothing, and observation-only limits | done |
-| Green activity appears around a healing fracture without proving its mechanism | done |
-| The no-harvest, no-intervention, and no-surveillance rules become the no-vampires protocol | done |
-| The intact-suit miner carries an Astral tick that physical diagnostics missed | done |
-| Lanchee authorizes a bounded intervention under the miner's medical directive | done |
-| The tick bite manifests physically and plants the later hidden consequence | done |
-| Sophia and Jace kill the tick but deliberately decline its Will sphere | done |
-| The miner begins recovering and the team starts a controlled station search | done |
+| Sophia/Nick campaign for Lanchee's diagnostic equipment | done |
+| Lanchee's resistance, softened by food | done |
+| Anomalous scan finding (tick) gives her a clinical reason to press | done |
+| Full disclosure forced by direct question | done |
+| Lanchee agrees to help, not yet fully "on the team" | done |
+| Comms cutoff as ambient fact | done |
+| First mention of the *Shotput* | done |
+| Food beat | done |
+| {Eagle}-adjacent unnamed AI oddity | done |
+| Physics epigraph | done |

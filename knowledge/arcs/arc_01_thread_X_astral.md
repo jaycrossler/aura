@@ -37,7 +37,7 @@ cross_references:
   - "[[draft_ch23_fire_in_the_walls]]"
   - "[[draft_ch24_wrong_stars]]"
   - "[[draft_ch25_no_vampires]]"
-  - "[[draft_ch26_the_sweep]]"
+  - "[[draft_ch26_division_of_labor]]"
 ---
 
 # Thread X — Astral Exploration
